@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160327">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, April 3, 1916</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2013 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+<idno>ew.issue.19160403</idno>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>52 East 19th Street, New York</pubPlace>
+<extent>20 pages</extent>
+<date when="1916-04-03">April 3, 1916</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2015-06-22"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2013-09-09"><name>Samantha Greenfield</name> Initial Encoding
+</change>
+<change when="2010"><name>Arman Zeljkovic</name> Initial Encoding
+</change>
+<change when="2010"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19160403.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">The Big 3 &#162; Worth</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Published Weekly by Every Week Corporation,</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<docDate>April 3, 1916</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head></head>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19160403.p002" />
+    
+<text type="advertisement" xml:id="arrow.19160403">
+<body>
+    
+<figure n="advertisement">
+<head>New Motorcycle Type</head>
+<figDesc>Advertisement for Arrow Cycle Co.</figDesc>
+</figure>    
+    
+<figure n="advertisement">
+<head>A Woman Florist</head>
+<figDesc>Advertisement for Miss Ella V. Baines.</figDesc>
+</figure>   
+    
+<figure n="advertisement">
+<head>Greider's Fine Catalogue</head>
+<figDesc>Advertisement for B. H. Greider.</figDesc>
+</figure>  
+    
+<figure n="advertisement">
+<head>American Poultry Journal</head>
+<figDesc>Advertisement for A. P. J.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Small Cruisers</head>
+<figDesc>Advertisement for Gray Motor Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Quick, Easy Money</head>
+<figDesc>Advertisement for Empire Candy Floss Machine Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Would You</head>
+<figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Fish Bite</head>
+<figDesc>Advertisement for J. F. Gregory.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>$2.00 and You Get This Superb Cornet</head>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="barton.19160327">
+<body>
+    
+<head type="main">About Making Money</head>
+    
+<p>IT is easy to be hypocritical on the subject of money. We have formed a habit of pretending publicly to despise money, while actually we are working our heads off to get a competence.</p>
+    
+<p>We make speeches to young men advising them to "seek the higher good," and hurry straightway to our offices to make up for lost time.</p>
+    
+<p>Let us have done with such hypocrisy.</p>
+    
+<p>WE are all out to make money: nor is there anything reprehensible in that fact.</p>
+    
+<p>Wise old Sam Johnson said: "There are few occupations in which men can be more harmlessly employed than in making money.</p>
+    
+<p>It is not "money" that is the "root of all evil," as we often misquote, but "<hi rend="italic">the love</hi> of money."</p>
+    
+<p>And that, I take it, is an entirely different thing.</p>
+    
+<p>It is part of the program of this magazine to discover men and women who have found novel ways of making money and to publish their stories for the help of other men and women.</p>
+
+<p>Any reader who can contribute such a story to these columns helps to make the magazine better, and will be well paid for it. But I mean that this magazine shall do <hi rend="italic">something else</hi> for you on the money question.</p>
+    
+<p>Once is so often in this column I mean to print this question in bold-faced type:</p>
+    
+<div1><head type="sub">How much of yourself are you willing to sell for money?</head>
+    
+<p>The answer to that question is none of my business. It is a personal question&#8212;a question for you to ask yourself.</p>
+    
+<p>But if you are the sort of person I think you are, your answer to it will be something like this:</p>
+    
+<p>There are somethings I am not willing to sell for money.</p>
+    
+<p><hi rend="italic">I will not sell my health.</hi> Not for all the money in the world will I die twenty years before my time, as Harriman did; nor spend my old age drinking hot water, like John D. Rockefeller.</p>
+    
+<p><hi rend="italic">I will not sell my home.</hi> I will forget my business when I leave my office. My home shall be a place of rest and high thinking and peace&#8212;not a mere annex to my factory or office, where the talk of nothing but gains and loss.</p>
+    
+<p><hi rend="italic">I will not sell my honor.</hi> I will not engage in any business, no matter what the profit, that does not contribute something to the happiness and progress of the world.</p>
+    
+<p>King Midas, in a fit of covetousness, prayed that everything he touched might turn to gold.</p>
+    
+<p>And his prayer was granted.</p>
+    
+<p>The food he was lifting to his mouth turned to gold, his wife, if he had touched her, would have turned to gold.</p>
+ 
+<p>There are too many King Midases loose in the world.</p>
+    
+<p>They do not have the Midas touch: they have the Midas look.</p>
+    
+<p>The see nothing but money.</p>
+    
+<p>A beautiful garden to them is merely something that "must have cost a thousand dollars."</p>
+    
+<p>They look on their and they see, not a home, but an expense of so much a month.</p>
+    
+<p>They look on their wives, and figure out how much less it cost them to live when they lived alone.</p>
+    
+<p>The universe, to them, is a balance-sheet: their minds are adding machines: their hearts beat in tune with the ticker.</p>
+    
+<p>God pity them&#8212;the men with the Midas look!</p>
+    
+<p>Get money&#8212;but stop once in a while to figure what it is costing you to get it.</p>
+    
+<p>No man gets it without giving something in return.</p>
+    
+<p>The wise man gives his labor and ability.</p>
+    
+<p>The food gives his life.</p>
+    
+<closer><signed><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</signed></closer>
+    
+<note type="editors">My New York address is 95 Madison Avenue. Write to me.</note>
+    
+</div1>    
+</body>
+</text>
+    
+<text type="advertisement" xml:id="oil.19160403">
+<body>
+    
+<figure n="advertisement">
+<head>Polish Mirrors with 3-in-One Oil</head>
+<figDesc>Advertisement for Three-in-One Oil Co.</figDesc>
+</figure>  
+    
+<figure n="advertisement">
+<head>Factory to Rider</head>
+<figDesc>Advertisement for Mead Cycle Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Earn $3000 to $10000 Annually</head>
+<figDesc>Advertisement for LaSalle Extension University.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Increase Your Income $25.00 a Week</head>
+<figDesc>Advertisement for Pease Mfg. Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Make $25 a Day with the "Diamond Post Card Gun"</head>
+<figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Learn to Write Advertisements</head>
+<figDesc>Advertisement for Page-Davis.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents That Protect and Pay</head>
+<figDesc>Advertisement for Watson E. Coleman.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<figDesc>Advertisement for Mason, Fenwick &amp; Lawrence.</figDesc>
+</figure>  
+    
+<figure n="advertisement">
+<head>Patents</head>
+<figDesc>Advertisement for G. P. Kimmel.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patent your Ideas</head>
+<figDesc>Advertisement for Carroll Bailey.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patentable Ideas Wanted</head>
+<figDesc>Advertisement for Richard B. Owen.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents Manufacturers Buy</head>
+<figDesc>Advertisement for Laceys.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+    
+<pb n="Page 3" xml:id="ew.issue.19160403.p003" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 2, No. 14 April 03, 1916
+Every Week
+$1.00 per Year 3 Cents a Copy</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="anderson.19160403">
+<body>
+ 
+
+<figure n="illustration">
+<head></head>
+<p>The average soldier who as seen service becomes what might be termed fatalist: but he is really living on his nerves&#8212;and he pays the score later</p><p>To-day the hospitals are filled with, men who start at the slightest sound, and who wake up in the night crying and begging that the guns will stop.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<head type="main">Why I am Afraid to Go Back</head>
+<byline>By <persName type="author" key="#Alderson, William, M.D.">WILLIAM ALDERSON, M.D.</persName>
+</byline>
+
+<p>WOUNDED four times, and finally caught by the deadly gas, Dr. Alderson&#8212;which, by the way, is not his name&#8212;was sent to this country to recuperate. The percentage of mortality among surgeons has been as great as among artillery officers. Is it any wonder that he is "afraid to go back"? Yet, since this article was written, he has received his summons. He is on his way back&#8212;to what?</p>
+ 
+<cb n="1" />
+
+<p>THERE are two questions invariably asked me every time I meet a friend or acquaintance since I came here on "sick leave":</p>
+
+<p>"When do you think the war will end?"</p>
+
+<p>"Aren't you afraid to go back?"</p>
+
+<p>To the first question it is only possible to say that I do not know; but to the second I have but one answer:</p>
+
+<p>"Yes!"</p>
+
+<p>Certainly I am afraid to go back. Any man&#8212;particularly if he has been through that inferno of hell and horror, as I have, for over a year&#8212;who says he is not afraid to go back  <unclear reason="torn" /> it is either a fool or a liar. For thirteen months I have been on the battle-front in Belgium&#8212;have not for more than twenty-four hours at a time been farther than five miles from Ypres. I have gone through all the bombardments of Ypres since the first big one of November, 1914; have established more than a dozen front-line dressing stations and vaccination stations the latter for <unclear reason="torn" />civilian inhabitants; have been wounded myself four times, and ended up by getting a good dose of poison gas; have to-<unclear reason="torn" />y less than half a dozen close friends and relatives left alive out of more than a hundred who went with me into the war; have seen my hospitals destroyed and the people I was treating killed and <unclear reason="torn" />maimed; and have seen thousands of the <unclear reason="torn" />wer of young manhood gassed, torn, and shattered.</p>
+
+<div1><head type="sub">I Was Not Afraid at First</head>
+
+<p>WHEN the war broke out, I volunteered for medical service. I wasn't afraid then. War, to me, was a thing of flying banners, hand-to-hand charges, flashing swords, and&#8212;afterward&#8212;tending the wounded, with, perhaps, the chance of earning honors by some particularly daring piece of rescue work.</p>
+
+<p>But I found it a different matter. It was a matter of crouching for hours in a filthy trench knee-deep in mud and <unclear reason="torn" />h; of feeling the way over muddy <unclear reason="torn" />ds under shell fire to get out some of <unclear reason="torn" /> shattered legions; of delivering women in fields under the light of star-shells; of being at high tension all the time, continuously listening for the <hi rend="italic">whee&#8212;whee&#8212;whee</hi> of the shells; of clearing out cesspools in fever-stricken villages; of herding terrified towns-people out of their ruined homes; of seeing men driven crazy by shell fire, and&#8212;of hearing nearly every day that some one I knew and <unclear reason="torn" />loved had been "scuppered," "sniped," <unclear reason="torn" />assed," "conked," or had "gone West"&#8212;
+ 
+<cb n="2" />
+ 
+ all meaning the same thing: that another family in Britain or Canada would never again see the boy who had left a little while before so cheerily to "do his bit."</p>
+
+<p>So I am willing to admit that I'm afraid to go back&#8212;but that isn't, going to stop me from going. Not when I know that there are others over there needing me. After all, you get used to it, in a measure; and, while I firmly believe that there is not a man living who can get so used to it that he won't instinctively duck when he hears a shell coming over, and also get that awful cold feeling at the pit of his stomach, still, I do know that it is possible to stiffen up a few seconds after and laugh, with the rest, at your own fears.</p></div1>
+
+<div1><head type="sub">The Last Stage&#8212;Fatalism</head>
+
+<p>IT is a fact that, if broken in gently, the average soldier gets to the point where he becomes what might be termed a fatalist.</p>
+
+<p>There are three stages&#8212;as I have found it, at least. There are the first few days, when everything is new and strange and you are so busy getting used to things that you don't realize the danger.</p>
+
+<p>Then&#8212;this comes after you have seen a village or two wiped out, and have perhaps helped to bring out some of the inhabitants, or maybe a few shells have landed close to you and have wiped out 
+ 
+<cb n="3" />
+ 
+a few of your men, or you have inquired for some friends and have heard that they were cleaned up in a charge the night before&#8212;whatever the cause, you are due to enter the second stage, and that is pure "funk."</p>
+
+<p>The last stage&#8212;and this comes after weeks of the second&#8212;is a state of mind wherein you go along in the hope and belief that you will not be hit or, worse still, be torn by a shell. But that's where you are also living on your nerves, and that is the reason that to-day there are many hospitals filled with men who a year ago were physically and mentally above the average, and who would have laughed at the idea of their ever having "nerves," but who now start at the slightest sound, and who wake up in the night crying like children and begging that the gulls will stop for a little while.</p>
+
+<p>During the second battle of Ypres I was at a little <hi rend="italic">estaminet</hi> (café) on the Ypres-Poperinghe road. It was during the big gas attack, and the yellow clouds hung over the town, and as the wind blew them our way we got our lungs full, and coughed and gasped as did the men who were dying all around us.</p>
+
+<p>More than five hundred men had been brought to us by stretcher-bearers, or had crawled to the little first-aid post we had established there; and of that number less than a score lived until morning. 
+ 
+<cb n="4" />
+ 
+Darkness was just closing in, and the beautiful star-shells were breaking all around us, from Boesinghe to Dickebusch.</p>
+
+<p>One of the doctors working with us finally broke down and went into as violent a fit of hysterics as I have ever seen. It was the utter uselessness of our efforts&#8212;the sight of those young fellows gasping out their lives, and the knowledge that all our years of study and practice were, at that time, of no avail&#8212;that finally got him.</p>
+
+<p>And I am not ashamed to say that before morning broke I too gave way and cried because I could not give help to those who so sorely needed it.</p>
+
+<p>Just at dusk I saw a form staggering across the railroad track&#8212;the little line that crosses the highroad there and runs down to Vlamertinghe and Poperinghe. He was assisted into the <hi rend="italic">estaminet</hi> by two of the bearers, and I then saw it was an officer of the &#8212;shires with whom I had been talking only the day before. He was dazed and wandering in his mind, but I learned enough to know that his company had been wiped out completely by shell fire and&#8212;gas. He swore he was wounded in a dozen places, but on examination it was found that he was untouched. However, he insisted so strongly that he was badly wounded that we were obliged to bandage him up and he was sent to the base. To-day he is in a home in England, living in a sound-proof room, and so wrecked mentally by his experiences that the slightest noise sends him into convulsions and he lives again the hours of horror he spent in the trenches that day.</p></div1>
+
+<div1><head type="sub">Crazed by the Sound of Shells</head>
+
+<p>ONE of many other similar cases, though perhaps more tragic, I saw after the battle of the Yser. A French soldier who was the only survivor of his company was so penned in a trench that he could not escape when the remnant of his regiment retreated. The Germans could not advance to take the trench, as the way to it was over a large piece of exposed ground; and, for the same reason, the regiment that had retreated could not return. Each side tried its best, however, to take it, and it was a ease of attack and counter-attack for two days.</p>
+
+<p>In the intervals of attacking, the guns kept the ground clear with shrapnel and high explosive. Consequently, thousands of shells must have passed over that trench in both directions. At the end of the two days the French retook the trench
+
+<pb n="Page 4" xml:id="ew.issue.19160403.p004" />
+
+<cb n="1" />
+
+&#8212;and rescued the lone occupant. He was found crouched in a "funk-hole" he had dug in the side of the trench&#8212;absolutely driven crazy merely by the sound of the passing and exploding shells. He was brought out and taken to Dunkirk&#8212;but he was beyond cure.</p>
+
+<p>In the ambulance, in the train, and in the hospital, he went ceaselessly through the same performance: he crouched down on his knees; then he would look up into the air as the imagined shriek of a shell struck his ears&#8212;with the most awful look of horror I have ever seen on a man's face; and finally, with a terrible yell of fear, he would dive head-foremost into his pillows.</p>
+
+<p>This he kept up for another day, refusing food and resisting all the opiates we gave him, until at length he died of exhaustion. And when we reflected that every one of those imaginary shells was as real to him as those that flew over him for that two days&#8212;well, we were not sorry for him when we folded his hands and inscribed against another name: "Died for his country."</p>
+
+<p>And yet&#8212;after a time you get used to it. Perhaps not exactly used to it; possibly "careless of it" may be a better term. You live on your nerves&#8212;and pay the 
+ 
+<cb n="2" />
+ 
+score later. There comes the time when you laugh after a narrow escape from death or see something humorous even in the death or wounding of another man. For instance:</p>
+
+<p>A French soldier was riding in an ambulance along the road. He was not badly wounded and could have walked in, but the driver had nobody else in the ambulance, so he took him on board. A shell hit the ambulance, killing the driver, the orderly, and the wounded man. The comment I heard most on the matter was that "it was a great joke on the French Tommy, for if he'd walked in he would have been all right, while a free ride cost him his life."</p></div1>
+
+<div1><head type="sub">When a Break Is Near</head>
+
+<p>BUT the ability to see the "humor" of such incidents is a bad sign&#8212;for the breaking-point
+                            is coming. Lucky the man who recognizes it, and can have himself changed
+                            to the base or given other work for a time. Otherwise, he is going along
+                            for a short time longer, until one day his nerve gives way&#8212;and the
+                            remembrance of that break is not going to be pleasant.</p>
+
+<p>Taking it all in all, I think the man who 
+ 
+<cb n="3" />
+ 
+is afraid, who <hi rend="italic">knows</hi> he is afraid, but who is afraid to have his fear known, is in the majority. He is the man who leads the charges, who takes the desperate chances. It is my experience and firm belief that the man who has not his moments&#8212;yes, hours&#8212;of fear is devoid of imagination and is of small use as a leader.</p>
+
+<p>Although I was under practically continuous shell fire for more than a year, during which time I was also on many occasions subjected to heavy rifle and machine-gun fire, I never became really used to it. I never failed to seek the nearest shelter, or at least to throw myself on the ground when I heard the shriek of the oncoming shell. Possibly we doctors and bearers might have felt it more because we saw so much of the effects of shell fire&#8212;and anybody who has seen a person struck by a fragment of shrapnel or high explosive will have a vivid recollection of it for some time. Nevertheless, it can hardly be said that the men of the medical departments are cowards: the records show that, in proportion to the numbers engaged, they have lost more officers and men than any other branch of the service, with the exception of the engineers.</p>
+
+<p>"To each man is his fear," and mine 
+ 
+<cb n="4" />
+ 
+was the gas. So I suppose that is why I got it. It was in the vicinity of Ypres that I saw a light-cased shell break just in front of me along a communication trench. One deep breath as I fell forward, and the next second red-hot needles were tearing at my throat and lungs. Luckily it was a light gas, and it passed over me without doing more damage.</p>
+
+<p>Came the trip to Boulogne, a quick passage across the Channel, and rest in a hospital in Londononly to be awakened by a Zeppelin raid. Afterward a grant of sick leave and a journey here for rest and quiet.</p></div1>
+
+<div1><head type="sub">Yes, I'm Afraid</head>
+
+<p>AND some time&#8212;very soon now&#8212;I expect to go back. Am I afraid to go back?</p>
+
+<p>Yes!</p>
+
+<p>But when I remember how my friends are facing it, how they will need me again before very long, how much I may be able to do, and how little a thing my life is, after all, in the scheme of things, and how so many have given up their lives for this ideal of duty and country&#8212;well&#8212;</p>
+
+<p>I'd be more afraid not to go.</p></div1>
+</body>
+</text>
+ 
+<text type="fiction" xml:id="ernest.19160403">
+<body>
+
+<head type="main">A Grabber of Goats</head>
+<byline>By <persName type="author" key="#Ernest, Joseph">JOSEPH ERNEST</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Emrich, Harvey">Harvey Emrich</persName></byline>
+
+
+<figure n="illustration">
+<head></head>
+<p>"'And you, Bill Duggan,&#8212;'she says,'you got anything to say to my face about my friends?'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+
+<p>IT was just like young Kitty Gleeson to frame things so the Count and Bill Duggan would meet up. She must have knowed that Bill would have been sore enough to chew rivets, because she had stood Bill up so we could go and eat dinner with the Count in his apartment at the Fitz-Carlton. Of course, nobody would have thought that Bill, who was always so meek, could rib himself up to pull anything so rough as he done; and I expect Kitty figured that she would just spend a pleasant half a' hour getting Bill's goat. They didn't call Kitty the Goat-grabber for nothing.</p>
+
+<p>And say, that dinner! I don't know what the things was, because they was faked till you couldn't recognize them; but they was all right, believe me. It was after dinner, when the Count was wondering what to do with us, that Kitty gets this bright young idea to go to the school dance at Forty-fourth Street.</p>
+
+<p>She had wised me up to the chaperon business, which is just being the odd girl out and staying around where you know you're not wanted; so of course I says that I'll come along too. But I reminded her how mad Bill would be, and how he was sure to be around there. The Count pricks up his ears at that, and he starts to rubber.</p>
+
+<p>"And who, if you please," says the Count, "is this Bill person? Is he anything to you, Mees Kitty?"</p>
+
+<p>"No, he ain't," says Kitty. "He only wants to be."</p>
+
+<p>"He's a showfare," I says, and the Count stares. "You stall that you can talk French, and you don't know what a showfare is? That's French for a man that drives a auto."</p>
+
+<p>"Ah!" says the Count. "How stupid of me!" And he turns to Kitty again. "Mees Kitty, do you know," he says, "that you mek me very seeck to my heart?" And he throws his cigar into the open fire like it was too strong for him.</p>
+
+<p>Kitty tips me a wink, and hands him her goo-goo smile.</p>
+
+<p>"WHY," says the Count, getting quite excited, "you have hair that glows with the color of a ripe orange in the sun, my child. Your eyes&#8212;they are the true shade of absant!"</p>
+
+<p>"What's that?" says Kitty.</p>
+
+<p>"It is a dreenk," says the Count, "that drives men mad. But you are wonderful, you are a type! Yet I find you working at Bettman's store for a few pitiful leetle dollars a week, and&#8212;you have a showfare for your beau. It ees detestable!"</p>
+ 
+ <cb n="2" />
+
+<p>"He ain't my beau," says Kitty. "Ain't I told you I don't play no favorites? And as for working, I don't have nothing to do but sell perfumes, and I love them. Perfumes are beautiful things. I love to see them all around me, in their cute little bottles and their soft little satin beds. Besides, I gotta have some sort of job till Mr. Real Man comes along. Say, that's a swell ring you're wearing, ain't it?"</p>
+
+<p>"It is entirely at your disposal, little lady," says the Count, in that wonderful way of his; and quick as a wink he takes it off his finger and sticks it on to Kitty's. Kitty begins to get interested.</p>
+
+<p>"Do you always give your lady friends anything they admire?" she says. "Because I like so many of your things that you'd find me corning a bit expensive."</p>
+
+<p>"All that I have is at your serveece," 
+ 
+<cb n="3" /> 
+ 
+says the Count. "Only one thing you will please not to admire, and that is my cigarette-case with the royal arms of Nadrapore. It was a leetle souvenir from my friend the Maharajah, whom I shall not see again."</p>
+
+<p>HE shows it to us, explaining that a Maharajah is a kind of a kink in India or Australia or some heathen place like that. He was sure some sporty old kink, too, to stake his friends to cigarette-cases made of solid gold, with a crown and a trademark thing on the front of it in diamonds and rubies.</p>
+
+<p>"I ain't admiring it," says Kitty. "I don't smoke myself, anyway. But it's sure one swell piece of goods. Now let's be going; I'm just crazy to get a dance."</p>
+
+<p>And she stretches out her arms, like she often done, and goes twirling down 
+ 
+<cb n="4" /> 
+ 
+the  soft carpet to the door, looking at the Count out of the corners of her green eyes like the little devil she was; and the Count watching her like he could eat her.</p>
+
+<p>So we slips down the elevator and piles into the Count's auto, and pretty soon Kitty stops the machine at the corner of the school block in Ninth Avenoo. The dance was in the school yard, a little raised from the sidewalk, with electric lights strung from the buildings all around; and across the street the windows of the tenements was packed with people watching and getting an earful of the music. Most all the boys and girls we knew was there, and they was so many dancing you could hardly see the old band scraping away in the middle.</p>
+
+<p>"Now, Count, you can see how the poor working clawsses have a good time," says Kitty.</p>
+
+<p>The Count pulled at his mustache like he was a bit nervous at first, and he was quite startled when the man on the stairs called him back and made him come across with thirty cents for the three of us.</p>
+
+<p>They was the usual various mob. Most of the girls was pretty, and some was dressed smart; but there was the regular bunch of toughs from Ninth Avenoo that didn't wear no hats.</p>
+
+<pb n="Page 5" xml:id="ew.issue.19160403.p005" />
+
+<figure n="illustration">
+<head></head>
+<p>"'Look at what hands I got&#8212;I guess I must of been born bad.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" /> 
+ 
+ <p>"I bet you never seen such dancing in your life, though," says Kitty. And the Count stared a bit more and allowed
+that he never did.</p>
+
+<p>But all the time I was looking round for Bill, because I knowed that if he was there he'd spot us first crack out of the box. You see, there ain't no mistaking a count; they're different. It ain't pleasant to be stood up, anyway; and to be stood up for a swell foreigner made it worse. He was handsome all right, was his Nobs. The girls that danced past stared at him till they pretty near cricked their necks. He had wavy brown hair and the cutest curly mustache. His big brown eyes looked kinda sorrowful and romantic; and, at that, he was so broad in the shoulders he could wear lavender spats and a monocle and get away with it.</p>
+
+<p>When Kitty got him all ribbed up to dance, they was a riot. I guess you wouldn't see no handsomer couple in the Fitz-Carlton. I was on a bench, watching them, when I felt somebody sit down beside me; and it was Bill Duggan.</p>
+
+<p>THE first eyeful I got of his poor face I could of choked Kitty. She had half the boys' goats always running round her in little circles, because they was hardly one of them that hadn't been stuck on her. But Bill's was running ahead of all the rest, and you could almost hear it blat.</p>
+
+<p>He takes off his leather cap and ruffles his red hair like he was wore out.</p>
+
+<p>"Listen, Gert," he says; "who's the sissy guy that Kitty Gleeson has brought along with her?"</p>
+
+<p>"He ain't no sissy, Bill," I says. "He dresses that way because he's a count."</p>
+
+<p>"What's his line? He ain't a valet, is he?"</p>
+
+<p>"He ain't nothing at all, you mutt," I tells him. "He's just a count. Counts is all swells, and rich."</p>
+
+<p>"Aw! That's how," says Bill. "I wondered how I come to be stood up for a thing like him. I suppose he just bums around all his life. Well, I guess that's all right&#8212;I ain't got no objections, so long as he don't bum around where I am."</p>
+
+<p>I seen he was sore enough to hunt trouble, so I tells him that Kitty had just brought the Count along to show him dancing of the better kind, where people danced because they was young and liked the idea. And I says that Kitty wasn't really bad, but only a goat-grabber, and that he was a poor simp to let her get his nanny whenever she found life a bit slow for her.</p>
+
+<p>"Why, this here Stefanovic," I says, "he's a real guy and got oodles of money. He's easy to look at, even if he does doll up like a count, and he's as stuck on Kitty as you are. But, if it's any comfort to you, Bill," I says, "he ain't got no chance with her&#8212;no more than you have."</p>
+
+<p>But Bill wouldn't let himself be pacified, and he jumps up, in a tearing temper.</p>
+
+<p>"What you say the guy's name was&#8212;Stefanovic, is it? Well," he says, "I got his number, all right. Ain't you seen his picture in the papers the other day? He's a real guy, huh? Like hell he is! He's the stiff that married that society girl in Chicago and went South with her dough, and now she's back with mommer, crying her eyes out over the separation papers. Say, you tell Kitty, from me, that she'd best take that crook out of here, before I put the boys wise to him."</p>
+
+<p>"You can tell her yourself," I says; though I knowed very well he daresn't say a word to Kitty.</p>
+
+<p>"Well, I've gave you proper notice," says Bill. "I gotta take it out on somebody for being stood up, and if that Count guy don't lay off Kitty I'll alter his map. He's made a monkey out of one fool girl, but he ain't going to make no monkey out of a friend of mine."</p>
+
+<p>"Ah, cut it out," I says. "Kitty don't need a simp like you to watch out for her. She'll prob'ly shake him down for a set of fox furs for her birthday, and then give him the goo-goo laugh. She ain't had no birthday on him yet, Bill," I says, "and a sucker's a sucker."</p>
+
+<p>But he wouldn't listen to reason nohow. He said that I wasn't nothing but 
+ 
+<cb n="2" />  
+ 
+a silly kid, and that I had ought to be ashamed of myself for talking that way. And then he says that there was some excuse for Kitty, because she was pretty and got her head swelled up by hearing so much about it; but there wasn't no excuse for me. So I told him he was a copper-topped roughneck what never had no manners, and that everybody knowed what taxi-drivers was. And Bill he beats it in a awful state.</p>
+
+<p>I NEVER dreamed, though, that he'd pull anything like he done. I'd just finished the second dance, when all of a sudden I see him talking to the Count near the entrance, and my heart dropped down into my shoes. Bill had his leather cap down over his eyes, and his jaw stuck out ugly, till he looked like the roughneck he was. I don't know what kinda crack he made, but I see the Count draw himself up and fix his monocle, and the next thing I knew he raised himself up on the tips of his spatted little toes, and he hauls back his hand and slaps Bill full in the face.</p>
+
+<p>Then they went to it six-handed, and a bunch of Bill's pals jumped in and pried them apart, so
+                        for a minute you couldn't see nothing but arms and legs. It was natural that
+                        the Count should get mussed up some. I picked up his silk hat what somebody
+                        had trod on, and when I looked again there's Kitty in the middle of the
+                        bunch, her green eyes snapping like a little devil, and a long hatpin in her
+                        hand.</p>
+
+<p>"Why don't you come one at a time?" she says. "You call yourselves men? You ain't nothing but a bunch of boobs! Who's got anything to say to me?"</p>
+
+<p>She looked all around her, but none of the boys said a word. So she goes up to Bill, and squints up at him like- she'd kill him with a look.</p>
+
+<p>"And you, Bill Duggan," she says&#8212;"you got anything to say to my face about my friends? Because, if you say a single blessed word," she says, hauling off with the hat-pin, "you'll wish you'd swallowed your tongue first!"</p>
+
+<p>So Bill he hadn't got a word to say, neither.</p>
+
+<p>"Dumb, huh? Then beat it," she says; "and don't you never dare to speak to me again!"</p>
+
+<p>BILL takes one look at her, and stammers a bit, and then he beats it according; with his hands in his pockets and his head down. Kitty and me fixed the Count up immediate, and rushed him off to where his auto was waiting, and we drove to a cabarett.</p>
+
+<p>We was all nice and cozy again, and having a good time, when the Count thinks he'll smoke a cigarette. And when he feels for the golden cigarette- case, it ain't there.</p>
+
+<p>He runs his hands all over himself like something was biting him, but it's no use. The heathen kink's souvenir had gone, with the jeweled trademark and all.</p>
+
+<p>There's something fine about counts, at that. He didn't rave or cuss, or blame Kitty for taking him where he was likely to find trouble: he was just as calm and pleasant as everthough it was plain to see he come pretty near to busting with the strain.</p>
+
+<p>"We will call and tell the police on the way home," he says. "An arteecle bearing the arms of my friend the Maharajah ees not easily lost."</p>
+
+<p>"But don't you go knocking any of my friends to the cops," says Kitty. 
+ 
+<cb n="3" />  
+
+"They're all regular folks, and wouldn't steal if they was starving. You must have let it fall out of your pocket."</p>
+
+<p>So the Count says that of course he don't suspect nobody, and pretty soon he drives us home, and drops us at the end of the block where we roomed.</p>
+
+<p>WHEN we get to the stoop of the house, was Bill waiting in the shadow, looking about as happy as a hearse. He says he wants a word with Kitty. So I sat an the steps, and for a long time I hear him begging and apologizing, and telling her all sorts of alibis about how he come to put a crimp in the Count.</p>
+
+<p>"A guy can't help being stuck on a girl, can he?" says Bill. "I'd lie down and die for you, Kitty&#8212;I'd do murder if it was the only way to save you from being played for a little sucker skirt that don't know a regular guy from a louse yet. I been chewing it over till I can't go home and sleep."</p>
+
+<p>I seen Kitty's smile flash out at that.</p>
+
+<p>"Poor Bill, I never gave you a kiss yet, did I?" she says. Will you go home and sleep comfortable if I give you one now&#8212;a really truly one?"</p>
+
+<p>"I guess&#8212;yes," mumbles Bill, like he didn't believe she meant it.</p>
+
+<p>But Kitty throws her arms round his neck and reaches up and kisses him good. Poor Bill lets go all holds, and calls her every pretty name he can think up; and says he's nothing but a poor man, but he can grab off some real dough for himself now and then, and he'll see she don't lose no good times if she'll cut out the Count.  When he broke away, his poor face was all twisted.</p>
+
+<p>I says to Kitty, up in my room: "You're driving another of them poor boys to the bug-house," I says. "Where in creation are you going to stop at?"</p>
+
+<p>But she only smiled her baby smile.</p>
+
+<p>"Ain't men the boobs?. He was sore enough to kill me, was Bill. And now he thinks there's nobody like me, and all for what? I didn't do nothing but just give him a kiss. Say, ain't they boobs, though?"</p>
+
+<p>I wasn't denying it.</p>
+
+<p>"Why, Gertie," she goes on, "the Count throws me a spiel a yard wide at the cabarett while you was off dancing. He says he wants to take me out of all the ugliness that's disfiguring me young life, and have me made over into a regular dame. He figures he'll have me learn French. And he spieled about Venice and Rome,, and a place they call Capree, till he 'most got me going. You know what a lovely voice he's got. Say, that Capree must be a young heaven here
+
+<cb n="4" />  
+
+below. He says they grow roses all the year round. Fancy roses in December!"</p>
+
+<p>"If I was nice-spoken and stylish like you," I says, "you wouldn't see no count wave a mileage ticket for Europe twice at me."</p>
+
+<p>"Why, Gert!" whispers Kitty, with her green lamps wide open. "You'd never!"</p>
+
+<p>But I was feeling mean, so I says there was no telling what I'd do; but that it wasn't no use talking, because nobody wouldn't never give me the chance&#8212;a big slob like me.</p>
+
+<p>Kitty comes behind me and puts her arms round me while I was doing my hair.</p>
+
+<p>"You ain't stuck on the Count, dear, are you?" she says.</p>
+
+<p>"No, I ain't, you little mutt," I says. "And no more I ain't stuck on the kitchen furnishings at Bettman's. The furthest I can ever travel, on what they pay me, is Coney Island on a Saturday. And I'm just naturally sick of Coney."</p>
+
+<p>"Me too," says Kitty. "I hate Coney. I hate ugliness and noises. Sometimes, when I look at my perfumes and get a whiff from a bottle that I'm demonstrating, I think of where they come from. I just ache for beautiful things. I wanna see lovely gardens, and mountains and lakes, and fine people. I'd like to think nothing but lovely thoughts all my life. Ain't I got a sort of a right? Bill he thinks all a girl wants is money and good times. He's a boob."</p>
+
+<p>SHE twists the Count's ring on her finger till it flashes in the gas-light.</p>
+
+<p>"And the Count," she says, "he thinks he can buy me with a piece of ice that for all I know might be phony. He wouldn't take it back, so I gotta mail it to him."</p>
+
+<p>"You gonna send him that ring back?" I hollers; and Kitty says she surely is.</p>
+
+<p>"Then what the Sam Hill are you doing it all for?" I says. "Keeping me stalling around, being chaperon or whatever it is, looking like a poor simp?"</p>
+
+<p>"The Count don't care what you look like, Gertie," she says.</p>
+
+<p>"But what's the answer? What's it all for?" I says.</p>
+
+<p>"Because," says Kitty, "I just like to get their goats. I can't help it. It ain't none of my fault that they're such boobs, is it?"</p>
+
+<p>And she stretches out her arms again, and trills in her throat, and goes waltzing down the room till she lit on the bed; with her yellow hair all loose and her eyes dancing like green devils.</p>
+
+<p>"You're sure one little hell-cat," I says, "if ever! Putting all that work on a man just to get his goat."</p>
+
+
+<pb n="Page 6" xml:id="ew.issue.19160403.p006" />
+ 
+<figure n="illustration">
+<head></head>
+<p>"She looks at me, and I see the devils in her green eyes. 'But say, Gertie,' she says, 'ain't men the boobs?'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+ 
+<p>"I was born that way," she laughs. "Look at what hands I got. Are those the hands of a poor workin' girl? I guess I must of been born to hit the high places.</p>
+
+<p>NEXT evening they had Bill Duggan in the station-house, having caught him with the goods. It seemed that he had tried to hock the Count's cigarette-case; and, like a poor fish, he had asked only forty dollars on about a pound and a half of solid gold, to say nothing of the jeweled crown on the front of it.</p>
+
+<p>A nice-looking young harp of a plainclothes man took me along to the station to tell them what I knowed about it.</p>
+
+<p>Bill was standing there in front of a desk, and I guess the red in his hair was the only fast color about him, because all the rest was bleached right out.</p>
+
+<p>A big lieutenant sat at a desk, glaring at Bill. There was some more gum-shoe men around, and away back in a dark corner I saw Kitty sitting all by herself. She jumped up when she saw me, but the lieutenant told her to stay right where she was. Bill was kinda hoarse and kept swallowing when he talked.</p>
+
+<p>"You'll only waste your time listening to them girls," he says. "I stole the blame thing, and that's all there is to it. It fell under a bench while we was mixing it at the dance, me and that Count fella. When I went back after everybody had gone, to look for my cap, I see something still shining under the bench, so I took it. That guy he stole my girl, didn't he? Just because he had the dough to give her presents and good times, he got my girl away. Well, I was going to use some of his dough to get her back again. He ain't no good, anyway. Now you can put me in the coop."</p>
+
+<p>"Seems like a clear case to me," says the lieutenant, and he starts to write in a book.</p>
+
+<p>"It ain't a clear case, you big stiff," says Kitty, butting in like she was desperate. "Didn't I just tell you it was all a mistake? What's the matter with you boneheads, anyway?"</p>
+
+<p>"Don't pay no attention to her, Cap," says Bill. "She don't know nothing about it."</p>
+
+<p>"Shut your head, you!" yells the lieutenant.</p>
+
+<p>So poor Bill shuts it. I heard a gasp from Kitty, and when I looked round to the door, there was the Count pattering up the steps on his little feet. He had a flower in his coat, and he comes sailing in like he was a wedding guest.</p>
+
+<p>"Here's the Count now!" shouts Kitty. "He'll tell you how it all happened. Give them the right dope, Count."</p>
+
+<p>WELL, maybe I got a soft place for counts, but the way that fella put it over on the cops was a peach. He made out that he had promised the cigarette-case to Kitty for a souvenir, and that she'd took it out of his rooms. What she done with it after, or who she give it to&#8212;seeing, he said, that he'd practically gave it to her&#8212;hadn't nothing to do with nobody.</p>
+
+<p>"And that's so, too," says Kitty. "The Count got the right idea there. Say, get that down in your book where the light will fall on it."</p>
+
+<p>"Then I take it, Count, that you don't mean to appear against this young man?" snaps the lieutenant.</p>
+
+<p>The Count he spreads his hands and smiles and bows, and he says that really, considering the circumstances and talking as between one gent and another, the officer would see that it was impossible.</p>
+
+<p>"I get you," says the lieutenant.</p>
+
+<p>He chews on his pen a spell and stares, while the Count drapes himself over the desk and spiels in his lovely voice. At last they shake hands, the lieutenant saying that he is pleased to have met the Count and the Count saying that he is enchanted to have got acquainted with the able and intelligent lieutenant. So it's all to the candied lemons.</p>
+
+<p>Next thing I know, I'm holding poor Kitty up in the street, and the Count is standing by his auto, taking a cigarette out of the gold case, when Bill walks out free.</p>
+ 
+<cb n="2" />
+
+<p>Kitty lets out a little moan and puts her hands over her face.</p>
+
+<p>"My Bill a thief!" she says. "My boy&#8212;a thief!"</p>
+
+<p>Bill he swings round sharp on her, and he says:</p>
+
+<p>"Yes, I'm a thief all right. And what," he says, "are you?"</p>
+
+<p>They stare at each other a minute, and then Kitty whispers:</p>
+
+<p>"I ain't, Bill. You don't know what you're saying."</p>
+
+<p>"Tell it to Sweeney," says Bill. "I'd ought to of knocked your pretty little block off a long time ago!"</p>
+
+<p>He walks off without another word, for he seen the Count's auto waiting for Kitty.</p>
+
+<p>THAT night Kitty comes up to my room in a kimono, and we talk it over. Her eyes was shining, and she looked like she was excited, or a bit scared.</p>
+
+<p>"Say, didn't I fix it fine?" she says. "But for me getting that notion, they'd of sent poor Bill up to the Song Factory for quite a spell."</p>
+
+<p>"But listen," I says. "How did you square the Count so he would come along and help you frame up that alibi for Bill? The Count knowed very well that Bill took the blame thing."</p>
+
+<p>"I squared him same way I squared Bill last night, when he was sore on me," laughs Kitty. "I just gave the boob a kiss."</p>
+
+<p>"But look at here," I says. "You ain't gonna do nothing foolish, are you? Like looking for roses in December, or any bone play like that? There's mighty prickly thorns to them kind of roses."</p>
+
+<p>"You said you would if you got the chance," she comes back.</p>
+
+<p>"Maybe," I says. "I was just feeling mean and jealous, Kitty, because no one seems to want a girl like me, that weighs a hundred and forty with her coat off. As long as the fashion runs to squabs I got to hustle my own meal-ticket. But you know you never ought to think of no such a thing."</p>
+
+<p>"Bill thought so," she says. "You might as well have the fun if you get the name. Life's ugly, whichever way you take it. If it isn't one thing it's another. Besides, no girl can have hands like I got and be straight. I'm a green-eyed devil!"</p>
+
+<p>And with that she puts her arms round me tight and hides her face on my shoulder; and I guess she wasn't feeling so devilish, neither.</p>
+
+<p>"Don't you go back on me, old Gert," she whispers.</p>
+
+<p>So I tells her she'll think different next day, and I chased her off to bed.</p>
+
+<p>But when I slipped down to the ground floor at Bettman's next day to talk to her, I seen a new girl at the perfumery counter; and when I got home at night 
+ 
+<cb n="3" />
+ 
+there's no more Kitty. So I went to bed without any supper, because no girl that weighs more than a hundred and twenty can afford to let folks see her crying. There ain't no sympathy for big women.</p>
+
+<p>IT was more than a year before I seen Kitty again. I was going uptown in a Bronix express when she blows in, looking as pretty as a picture in a Cossack outfit; but different, somehow. It wasn't that she was made up, because she didn't even have powder on. It wasn't that she was dressed more fashionable. She seemed to have growed.</p>
+
+<p>We jumps into a clinch. When we get sorted out, she fires so many questions at me about the girls at the store that I can't edge in a word. But at last I comes right out with it:</p>
+
+<p>"Say, Kitty, how did you find them December roses?"</p>
+
+<p>"Fine, best in the world!" says Kitty. "You get off with me and I'll show you some of them."</p>
+
+<p>Just then the train stops at her station, and I let her take me along, with her to a dinky little flat house. We walks up four flights, and I think to myself that the Count wasn't such a swell, after all. But Kitty sings to herself while she hunts the key-hole on the dark stairs, and seemed as stuck on the joint as if he'd gave her a palace to live in.</p>
+
+<p>It was pretty enough on the inside, at that. Blue burlap walls in the sitting-room, and dark oak and Dutch curtains; and, sure enough, they was a big bowl of roses on the table.</p>
+
+<p>"But you ain't seen the best rose of all,", chirps Kitty.</p>
+
+<p>We goes into the bedroom, which was pretty as a dream, for all there was one of them time-payment satin-rubbed beds in it. But, believe me, it looked good to a girl that didn't have no home, with the sun shining through the curtains and everything. Kitty runs around the bed, and flops down on her knees on the other side of it, and makes little noises. For a minute I thought she was dippy.</p>
+
+<p>Then I see there was a cot down there, all lace and blue ribbons; and the dearest little mite of a girl woke up and cried.</p>
+
+<p>"My own Rose!" says Kitty, laughing and crying all at once. "My very own little Rosie girl! Did her wicked mommer leave her all alone?"</p>
+
+<p>And when I come out of my trance I seen the baby's hair was red.</p>
+
+<p>"Kitty, you smooth little duck," I says, "you never got them roses from no Count!"</p>
+
+<p>"Lord, no!" says Kitty. "I never got 
+ 
+<cb n="4" /> 
+ 
+nothing from the Count but his goat. It seemed such an awful good joke on him, to go off and marry Bill Duggan, that I went and done it while the marrying was good. I ain't been in a cabarett since then, or had a dance any place at all. Why, it's months since I went to a movie, even. I ain't hardly been out at all since my little Rose-bud came in December. But you needn't think, her hair's gonna be red. It ain't; it's turning orange color, like mine. She's gonna have green eyes, too&#8212;you take a slant and see for yourself."</p>
+
+<p>So I pretended to look again; but just then the door slammed, and in walks Bill Duggan in his garage overalls. He brings up sudden when he seen me.</p>
+
+<p>"Hello, Gert!" he says, pretty short. "What you doing here?"</p>
+
+<p>"Putting the evil eye on the precious darling kid," I says. "What you think I was doing, you flaming nut?"</p>
+
+<p>"Well, it's good to see old friends, of course," says Bill, coming round to shake hands, a bit shamefaced. "But if I thought they was trying to take Kitty out on any of them old toots, I'd see them a long ways further. I got one happy little home, Gertie, and I ain't taking no chances. You get that, Kitty?"</p>
+
+<p>"Yes, Bill dear," says Kitty, mighty obedient. "But I wasn't going out. I just came back from shopping, and I ain't had the chance to get my things off."</p>
+
+<p>"Who'd you get to watch out for Rosie while you was away?" asks Bill, very severe.</p>
+
+<p>"I got the girl from next door to look in, dear," says Kitty. "She's in the kitchen now."</p>
+
+<p>BILL nods a time or two, like he didn't think the girl from next door knowed any too much about babies, and at last he says: "Kitty, come here."</p>
+
+<p>So she gets up and goes over to him, and he looks down at her a long time.</p>
+
+<p>"I ain't mentioning no names," he says, "but if there was any more of that old cabarett stuff, I'd feel like putting a certain pretty little skirt into the old bus and driving her off of the Palisades. Get me?"</p>
+
+<p>"Yes, Billy dear," says Kitty, and she reaches up and kisses him as meek as you please. It made me tired.</p>
+
+<p>"Ah, go on!" I butts in. "Won't you even let me come and mind Rosie, while you take your poor little missus to a movie once in a while?"</p>
+
+<p>Bill jumps over and grabs me by both hands.</p>
+
+<p>"No, will you, on the level? Good old Gert, will you do that? Say, you gotta stay and have dinner with us," he says. "Just wait while I get these overalls off."</p>
+
+<p>And he clears out, as pleased as if he'd just found a dollar bill in an old suit when he didn't know it was there.</p>
+
+<p>KITTY comes back and sits on the floor by the cot, with the sun in her yellow hair.</p>
+
+<p>"My little Rosie!" she says. "My little wonder girl! I thought I was giving up everything for you. Now I go all goosey when I think how near I came to missing everything. Old Gert," she says, "you wouldn't think it, but life's all beautiful these days. It's what you got in your mind that makes the difference. I never had nobody to tell me, but you can bet your ease-note I'll put little Rosie wise! I'm a heart-grabber these days, Gert. I got Bill's just like that."</p>
+
+<p>And she cups her little devil's hands together so I can see the wedding-ring shining.</p>
+
+<p>"And I'll have Rosie's too," she says; "as soon as she can holler 'mommer.'"</p>
+
+<p>And then she looks up at me in the old cunning way, and I see the devils dancing in her green eyes.</p>
+
+<p>"Poor Bill!" she whispers. "He thinks I keep away from the cabaretts because I'm scared of him. It tickles him to death to think so, and it don't hurt me. He's the best in the world."</p>
+
+<p>And she laughs her cute little laugh into the lace and ribbons on the cot.</p>
+
+<p>"But say, Gertie," she says, "ain't they the boobs?"</p>
+</body>
+</text>
+
+<pb n="Page 7" xml:id="ew.issue.19160403.p007" />
+
+<text type="fiction" xml:id="tilden.19160403">
+<body>
+
+<head type="main">The Man in the Stone House</head>
+<byline>By <persName type="author" key="#Tilden, Freeman">FREEMAN TILDEN</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<figure n="illustration">
+<p>The man in the big chair is Ezra Mudge, father of the girl, and "the meanest man in Boxton." Will he give in?</p>
+<figDesc></figDesc>
+</figure>
+ 
+<head type="sub">READ THIS: THEN START THE STORY</head>
+ 
+<note type="summary">
+<floatingText>
+    <body>
+     <p>JOEL TIBB, a grocer of Boxton, Vermont, traveling in California with his wife, stops off at Empire City, and meets the town booster, J. Bradlee Starr. The spirit of the town gets hold of Tibb, and he approaches Starr with a plan for boosting Boxton. Returning home, Tibb finds Boxton cold to his plan; but Starr is keen to try his hand on a New England town: and offers to come without a salary. There are a few business men in Boxton who sympathize with the grocer's plans, among them young Walter Eadbrook, proprietor of a shoe store. He is in love with Louise Searles, a young girl about whom some mystery attaches. She is the adopted daughter of Ezra Mudge, the richest man in Boxton, who lives in a big stone house on a hill. He has the reputation of being close-fisted and hard at a bargain. One wintry morning, while Louise is calling at his store to buy a pair of shoes, Eadbrook declares his love and Louise promises to marry him.</p>
+ </body>
+</floatingText>
+</note>
+
+<cb n="1" /> 
+
+<p>SILENT, and with a great stir of emotions in her heart, Louise Searles went home at the side of the taciturn Ezra Mudge. Her demeanor was so unusual that once, during the flying trip, the old man turned and looked at her curiously.</p>
+
+<p>"You don't feel sick, Louise?"</p>
+
+<p>"Oh, no," she replied.</p>
+
+<p>When they arrived at the gray, bleak stone house that had been the home of the Mudges for the past century and a half, the girl hurried upstairs to her room, threw off her outer clothing, and lay down on the bed to think it all over.</p>
+
+<p>It had happened! Just as she had thought it might happen&#8212;just as she had known it would happen.</p>
+
+<p>What was Walter Eadbrook thinking at this moment? What would he say to Ezra Mudge? What would Ezra say to him? At the thought of that vital meeting between the serious, straightforward young man and the keen, far-seeing old man who had been father to her during all her twenty years, she shivered and burrowed her face in the pillows.</p>
+
+<p>And that line of reflection brought the girl back again to the mystery that lay behind her life with the Mudges&#8212;to that fearful and yet fascinating mystery that had kept her awake so many nights when the house was dark and quiet.</p>
+
+<p>Who was she? Who were the Searles people? There was no other person of that name in Boxton, and none near by, so far as she knew. What were the Mudges to her? Why had the truth about her birth been kept from her?</p>
+
+<p>She remembered that as a little girl she had somehow stumbled upon the astounding fact that the stern, rasping old man she called "daddy" was not her father; that "Aunt Lyddy," the wife of that old man, was not her mother. When she grew older, stray bits of gossip, sometimes even malicious, came to her ears. She learned, in a roundabout and probably distorted way, that her advent in Boxton 
+ 
+<cb n="2" /> 
+ 
+had been a nine days' wonder. Ezra Mudge and his wife had left town for several weeks, and when they returned they brought with them two tightly closed mouths and a year-old girl baby.</p>
+
+<p>Otherwise the girl knew that her life had been as happy, as far as externals went, as two old people could make it.</p>
+
+<p>LOUISE was aware that Ezra Mudge was commonly called "the meanest man in Boxton." She was also
+                        aware that Aunt Lyddy had often been the object of condolence and pity at
+                        having to live with "such an old miser." She was certain that her home was
+                        not quite like other homes that she had seen; that there was never any
+                        laughter or boisterousness, except such as originated with her. She had
+                        permission to invite other little girls to the house on certain days. The
+                        other little girls seldom came. She used to wonder why, at first; but
+                        afterward she understood that it was because they were afraid&#8212;afraid
+                        of old Ezra Mudge.</p>
+
+<p>And then, there was Aunt Lyddy. Louise called Ezra "dad"; but to the little old woman who dressed nearly always in black satin and never deserted the round bonnet that had one single touch of heliotrope color in it, it was always "aunt."</p>
+
+<p>What a queer little old woman she was! Her personality seemed absolutely 
+ 
+<cb n="3" />  
+ 
+and irretrievably merged with that of the old man. His feelings were her feelings. His ideas were her ideas. Whatever he did was right.</p>
+
+<p>At home, Ezra was not outwardly tyrannical or even harsh, except as to his voice. He did not need to be. Everything was contrived to meet his desires; and as his desires were simple&#8212;usually amounting to the single wish to be let alone&#8212;there were few difficulties.</p>
+
+<p>It was true that the habits and life of the old couple, when Ezra's reputed wealth was considered, were parsimonious. They lived in Spartan simplicity. People said that Ezra Mudge "could buy and sell the town." As a matter of fact, he bought little besides necessaries, and he sold only the use of moneyexcept as to the box factory, a paying investment in which he was quietly interested. The sole extravagance that he had ever been known to permit himself was his stable. His splendid horses were evidence of the old man's Vermont weakness in the matter of horse-flesh.</p>
+
+<p>BUT the parsimony, real enough in regard to the Mudges themselves, had always been relaxed in the case of Louise. Her clothes had always been of the finest quality.</p>
+
+<p>Toward the solemn, hard old man, with 
+ 
+<cb n="4" />  
+ 
+his Puritanical square mouth and the little chin beard that frightened local evil-doers, Louise felt a wholesome respect and a queer involuntary affection which lived through any amount of savage gossip about her "dad." He never made toward her any outward demonstration of affection. She wondered if he cared for her, and she never found an answer.</p>
+
+<p>Once Mrs. Treadway, the wife of the editor of the <hi rend="italic">Banner</hi>, had taken her aside at the Sewing Circle and said:</p>
+
+<p>"How do you know that you won't be rich some day, Louise? For all you know, you may have lots of money in your own right."</p>
+
+<p>"I hadn't thought about it," replied the girl carelessly. And it was the truth.</p>
+
+<p>THERE was a strange, unbridled joyousness about the girl. That somber, mirthless atmosphere of the Mudge house should have made her, by all Boxton logic, dull, listless, and reserved. Those things she was not at all. She was alert, blooming, and happy. Her life close to Ezra Mudge should, by that same logic, have rendered her acid, ironic, and suspicious. She was frank, certainly, but tender, light-hearted, and uncalculating. Either, it seemed, she must have succeeded in saturating the old couple with some of her own effervescent spirit, or they must finally have crushed it out of her. Not so: they all went their own paths and confounded the critics.</p>
+
+<p>Early in the morning, especially in the fresh, cool spring, the women that lived on the outskirts of Boxton saw her galloping down the road on the little bay mare that Ezra, in some moment of exhilaration, had given her on her sixteenth birthday.</p>
+
+<p>"There goes the Searles girl," they would remark. "The way she acts, you'd never think she lived with the meanest man in Boxton. There's something mighty strange about that business. There's some-</p>
+
+<p rend="jumpline"><ref target="tilden.19160403.jump">Continued on page 17</ref></p>
+ 
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19160403.p008" />
+
+<text type="nonfiction" xml:id="mottwoolley.19160327">
+<body>
+  
+<head type="main">How They Went Into Business</head>
+<byline>By <persName type="author" key="#Mott Woolley, Edward">EDWARD MOTT WOOLEY</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Gillespie, Jessie">Jessie
+                            Gillespie</persName></byline>
+
+<cb n="1" />  
+ 
+<p>MOST young men would like to get into business for themselves. Usually there are better opportunities in business than in working for wages, provided the young man studies the game. Within recent years thousands of men have started out for themselves on small capital and built up large and prosperous establishments. How did they start?</p>
+
+<p>Here is the story of at least a few men who started little and have grown big.</p>
+
+<div1><head type="sub">Kresge Began with a Small Capital</head>
+
+<p>AT Bald Mountain, Pennsylvania, there lived a boy named Kresge&#8212;about twenty years ago. He stayed at home on the farm most of the time until he was twenty years old, meanwhile teaching in a country school. Then he got a job as a clerk in a local market and grocery.</p>
+
+<p>When he was twenty-one he went up to Poughkeepsie and attended a business school, and then found employment in a hardware specialty house at Scranton. Like most young men, he was glad to get even small wages, and his forty dollars a month looked good. After three or four years of training, he got out on the road as a traveling salesman, going east as far as Bangor, Maine, and west to Chicago.</p>
+
+<p>Young Kresge saved his money. Here is an important point. Men do not have to have large capital in order to get into business, but they do need some capital. As a traveling salesman this young man earned fair wages, and he tells me that at the age of thirty he had $8200 in the bank.</p>
+
+<p>Now, it fell to his lot to sell goods to the Woolworth stores, which at that time were not well known. The Woolworth chain, I believe, comprised nineteen stores. One day Kresge sold them nineteen gross of some tinware specialty. It was this and similar transactions that set him thinking. Why not have a store of that kind himself?</p>
+
+<p>He studied the five-and-ten-cent business from the vantage-point of a wholesale man. In fact, he had been studying retail merchandising in general. Most retail merchants, he perceived, were neglecting the little items of goods in favor of the big ones.</p>
+
+<p>Kresge went to Memphis and bought an interest in a five-and-ten-cent store, where he proceeded to study his problem in actual practice. It presented serious difficulties, but he stuck. To-day the S. S. Kresge Company has more than a hundred and twenty-five stores scattered about the country, and is the largest competitor of the great Woolworth Company.</p>
+
+<p>In 1893 a financial panic swept away a small candy factory in New York owned by a man named Loft; but George W. Loft, his son, made up his mind at once that no panic could kill the public's appetite for candy. Somehow, disaster seems to stir up some men's energies and ambitions; they will not be downed.</p>
+
+<p>George Loft had no money whatever, but he borrowed two hundred dollars on his household furniture. Then he got three hundred and fifty dollars on his father's life insurance, and found a partner who had five hundred and fifty dollars in cash. Thus they had eleven hundred dollars. They rented a store on Bar-
+
+<figure n="illustration">
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="2" />   
+ 
+clay Street, New York, and paid in advance three months' rent&#8212;$625. Most of their remaining capital went into fixtures and equipment.</p>
+
+<p>These two young men were so hard pressed for money that for a time they had to go out several times a day and buy their candy material in trifling quantities. Taking it to the basement of their store, they would make it into candy, carry it upstairs and sell it, and then hurry away with the money to get more material. But they never borrowed any money except that first half of their capital. The rigid economies, as related by Mr. Loft to-day, both in the store and in his home, contributed to a notable success; but consistent publicity had still snore to do with it. Good salesmanship was another factor, and Mr. Loft&#8212;who is now a United States Congressman&#8212;organized classes in salesmanship for his force, keeping a daily record of each sales-person's sales.</p>
+
+<p>Recently the thirteenth Loft store was opened. For all these stores there is a factory that turns out sweets by the tens of tons every day. On general principles, it is not good policy for men to borrow capital to start in business; but here is an instance where the rule was broken successfully.</p></div1>
+
+<div1><head type="sub">Louis Schramm Landed with Three Dollars</head>
+
+<p>IN New York also lives Louis Schramm, who came to America twenty-odd years ago at the age of seventeen. He had three dollars in his pocket when he landed. The first job he got was in a wood-yard, snaking up bundles of kindling-wood at four dollars and a half a week. Here he remained for nine months, and when he quit he was earning ten dollars a week. Afterward he worked in various wood-yards, ice-houses, and restaurants. In six years he saved three hundred dollars.</p>
+
+<p>Like other young men, Schramm was dissatisfied with his opportunities, and was always looking for a way out. Every night he bought a newspaper and read the advertisements, and one evening he found a little classified "ad" offering for sale a small express business at Eighth Avenue and Twentieth Street. Next day he bought it with his three hundred dollars, securing, in return, a small ground-floor office, a bony nag, and a wabbly wagon.</p>
+
+<p>It was slow going at first, and he was on duty with his horse and wagon eighteen hours a day: but within a year he was making a good living. Then he branched out by retiring the little old Wagon and buying a van and another horse. But, instead of going ahead without any plan he resolved to live on the profits of one horse and half the van, and to, put the additional profits into snore equipment. In another year he bought for cash another moving-van and 
+ 
+
+<figure n="illustration">
+<p>"George W. Loft used to make the candy himself, then take it upstairs and sell it."</p>
+<figDesc></figDesc>
+</figure>
+
+
+<cb n="3" />   
+ 
+two additional horses. He was thrown in contact continually with storage warehouses, and this business looked good, so he rented small quarters for ten dollars a month, and presently larger quarters for forty dollars. Thus his warehouse business grew, until he bought a leasehold of the building in which he lived, and on the rear of the lot built a five-story storage establishment for household goods.  Meanwhile he had been adding to his equipment of vans and horses.</p>
+
+<p>Within ten years Schramm erected a nine-story fireproof building, the sale of his other building helping him to finance the deal. Three years later he put up a second nine-story building. Together these structures represent several hundred  thousand dollars; and a third nine-story building has gone up recently. Many motor-trucks now constitute a part of the equipment.</p>
+
+<p>Mr. Schramm to-day is president of this large enterprise. His success seems to me an excellent example for young men who think they have no opportunity.</p></div1>
+
+<div1><head type="sub">"Childs' Unique Dairy Lunch"</head>
+
+<p>IN a small village in Somerset County, New Jersey, lived a boy named Sam Childs, who made up his mind to go to New York and look for work. Naturally, he hunted up a man from the same town&#8212;J. S. Dennett, who kept a downtown restaurant in the metropolis. Here Sam Childs got a job.</p>
+
+<p>Presently he felt the common impulse to go into business for himself, and, with a little money he had saved, he opened "Childs' Unique Dairy Lunch" on Cortlandt Street. This got along so nicely that he opened two more restaurants in the downtown district, and in 1895 made his first uptown venture.</p>
+
+<p>To-day there is scarcely anybody in the Eastern cities who is not familiar with the Childs
+                            restaurants, and they are becoming a feature of middle Western cities.
+                            The business has grown along the lines of Samuel S. Childs' original
+                            idea: to render a public service. He saw his chance in providing not a
+                            general bill of fare, but certain foods that could be served with profit
+                            to the restaurant and at moderate prices to the people. He would not
+                            handle foods on which he must lose money, and he would not serve
+                            inferior foods so that he might make money on them. Moreover, he
+                            established an extraordinary discipline to maintain his creed of
+                            cleanliness.</p>
+
+<p>It was an idea that started this business going. Almost any form of public service, if it really is a service to the public, is apt to be prolific in ideas.</p></div1>
+
+<div1><head type="sub">George Boldt Was a Bell-Boy</head>
+
+<p>ONCE, more I draw on Europe for an example of success. George C. Boldt came from Austria as a youth, and found a place as bell-boy in a New York hotel. His advancement was rapid; and he went Philadelphia to manage a club. Here he saved his money&#8212;the old story, you see&#8212;and started a high-class restaurant. Then he was able to interest capital in the old Hotel Bellevue. Following is a little episode I get, not from Mr. Boldt himself, but from a prominent New York hotel man who knows him most intimately. 
+ 
+<cb n="4" />  
+ 
+ In a few words, it brings out the very idea upon which George Boldt went into business, and stayed in it.</p>
+
+<p>One day in the early '90's Mrs. William Waldorf Astor visited Philadelphia and took rooms at the Hotel Bellevue, then recently opened. To the proprietor, Mr. Boldt, she expressed her disapproval of the decorations and furnishings of the quarters assigned her&#8212;which were the best in the house.</p>
+
+<p>Mr. Boldt was sorry. Would Mrs. Astor be out that afternoon? Yes, she told him; she was going shopping.</p>
+
+<p>Two minutes later Mr. Boldt sent a hurry-up order to a department-store for tapestries, rugs, and furniture. Haste, not money, was the condition. That afternoon at five o'clock Mrs. Astor returned to the hotel, and found that a transformation scene had taken place.</p>
+
+<p>On her return to New York she told the incident to her husband, who was about to erect a hotel on the site of the old family mansion at Fifth Avenue and Thirty-third Street. This led to Mr. 
+ 
+
+<figure n="illustration">
+<p>"Boldt sent a hurry-up order for tapestries, rugs, owl furniture, When Mrs. Astor returned from her shopping trip, she found a complete transformation."</p>
+<figDesc></figDesc>
+</figure>
+
+ 
+Boldt's introduction to Mr. Astor&#8212;and George Boldt to-day is owner of the far- famed Waldorf-Astoria, as well as of the Bellevue-Stratford in Philadelphia.</p>
+
+<p>Up in Maine lived a boy named E. T. Burrowes, who wanted some money during school vacations. Even in Maine they had flies and mosquitos, and the people used cotton netting mostly on their windows. Young Burrowes got an idea: he would go around from house to house and offer his services making screens of wire netting with substantial wood frames.</p>
+
+<p>He tried out the idea in Portland. People laughed at first. Why pay good money for such new-fangled notions? What was the matter with good old-fashioned mosquito netting?</p>
+
+<p>But some of the people gave him orders, and he kept on cultivating a market. Thus grew up the Burrowes Company of to-day&#8212;a million-dollar corporation that started from the energy and ingenuity of a school-boy. Its full story involves many stages of development and includes a good many men; but for the start you must go back to that idea of E. T. Burrowes, which he put into action by establishing his little shop to make window-screens.</p></div1>
+
+</body>
+</text>
+ 
+<pb n="Page 9" xml:id="ew.issue.19160403.p009" />
+ 
+<text type="photograph" xml:id="pressagent.19160403">
+<body>
+<head>The Wily Press Agent</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>GEORGE ADE tells about the boy who was "kicked on the head by a mule and ever afterwards believed all that he read in the Sunday papers." Probably he even believed the press agents' stories. When the Vanderbilt Hotel was opened in New York, its busy  press agent sneaked up behind this noble ostrich, whose head was buried unsuspectingly in the sand, and the poor bird furnished the <hi rend="italic">pièce de résistance</hi> for the hotel's opening banquet. There is no doubt about it&#8212;an ostrich can furnish plenty of resistance.</p>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Alissa Franc.</ab>
+<p>IT'S exceedingly fortunate that Miss Gaby Deslys' parents raised her to be an actress rather than a detective or an international spy. In any business requiring pussy-foot sleuthing Gaby would never have reached her present pinnacle of distinction. She has been seen in many things, but never in-cognita. And whenever she drops into a town, somehow or other the news leaks out. Possibly press agent H. D. Kline might explain it!</p>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>EVERYBODY remembers how often their aunts cautioned them against playing with people who would put ideas in their heads." The people referred to undoubtedly are press agents. H. S. McFarlane, for instance, lunching one day with Zenatello, the tenor, at his hotel, remarked: "I suppose every morning finds you exercising a half mile upstairs, on the roof." "Oh, yes," sighed the tenor, "yes, yes; how I love my exercises!"</p>
+</figure>
+ 
+ <figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Alissa Franc.</ab>
+<p>"DEAR Miss Teyte," her press agent Heber MacDonald (see the lower corner of the picture) wrote the English prima donna, "when you land in America, insist upon wearing trousers. <hi rend="italic">Walk down the gang-plank in pants."</hi> Half way down the gang-plank the docile singer (much to her relief) was stopped by a Manhattan policeman and sent back to her state-room to change. Thus did one more artist suffer for a principlethat of obeying one's press agent.</p>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Alissa Franc.</ab>
+<p>BEULAH LIVINGSTON is the press agent who induced two goodhearted chorus girls to wear their stockings rolled down to their shoe-tops and walk all the way up Fifth Avenue. A huge mob obligingly followed them, and Miss Livingston herself accompanied the procession on top of a bus. The movies showed this little incident and thus netted "Nobody Home" many dollars' worth of free advertising.</p>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>IN the old days it used to be easy. Just have fifty gallons of milk delivered at Anna Held's door and tell the newspapers it was for her morning bath&#8212;and the papers ate it up. But it's getting harder to fool us editors every year. We simply turned up our noses at this story that the Hippodrome elephants, "formerly used in the temple worship in India, became restless unless allowed to go to church on Sunday mornings." We didn't believe it, even when we saw them with our own eyes lined up before a Fifth Avenue church&#8212;Mark Loescher presiding.</p>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© International News Service.</ab>
+<p>SO every year Miss Lillian Russell must lose $5,000,000 worth of jewels; Billie Burke must blushingly admit that she likes dogs much better than men; and Miss Kathleen Howard here shown, must wear trousers and declare publicly that they are the only sensible costume. We have decided to be our own press agent. We like pie for breakfast, always eat it with a knife, and have never cut ourselves yet. Papers please copy.</p>
+</figure>
+ <p></p>
+</body>
+</text>
+ 
+<pb n="Page 10" xml:id="ew.issue.19160403.p010" />
+ 
+<text type="photograph" xml:id="geniuses.19160403">
+<body>
+<head>Are Geniuses Good Business Men?</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Brown Brothers.</ab>
+<p>THE farm folk of Delecarlia, Sweden, are proverbially thrifty; and Selma Lagerlof, who has made them known to the world, is their true daughter. With her first earnings&#8212;$1300 for the romance "Gösta Berling&#8212;"Miss Lagerlof bought back the old homestead in Vermland on which she was born and which had been lost for debt. This she has gradually made into the finest farm of that north country. Pilgrimages are now made to Miss Lagerlof's farm as much to see her famous dairies as to catch a glimpse of the author of "Jerusalem." Indeed, the only woman to receive the Nobel prize for literature is said to make almost as much from her herd of Jerseys as she does from her books.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>NOT every one knows that Ignace Paderewski is sole proprietor and owner of a large and prosperous
+                            hotel in Warsaw. Sixteen years ago, realizing his limitations as a
+                            business man, Paderewski entered the Warsaw office of the Polish branch
+                            of the Rothschilds to learn something of the romance of money-making and
+                            money-keeping. Since that time he has taken sole care of his own vast
+                            earnings, three fourths of which, it is said, have gone to the Polish
+                            cause.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Basanta Koomar Roy.</ab>
+<p>NOW that the Hindu poet Tagore has been discovered by the Occident, and Dubuque, Iowa. is just as familiar with his "Chitra" as Calcutta, a whole bunch of western gold has sailed over the seas to him. His royalties were about $10,000 last year. Unlike some geniuses, Tagore will know just what to do with this wealth: for. in addition to being a poet, he is also a bank president and a college head.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph By Underwood &amp; Underwood.</ab>
+<p>THAT the genius of George Bernard Shaw is occasionally concerned with mundane things is evidenced
+                            by the brisk squabble he had with Forbes- Robertson over the box-office
+                            receipts of "Cæsar and Cleopatra." The actor burnt the production in San
+                            Francisco (being bonded not to take it out of the country), and Mr. Shaw
+                            vented his indignation by way of an essay on "Why Don't Actors Quit
+                            After They've Said Good-By?"</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph By Underwood &amp; Underwood.</ab>
+<p>AUGUSTE RODIN. the French sculptor, was once asked if he had any idea how much his work had
+                            brought him. "Ask my wife," responded the celebrated molder of marble;
+                            "I leave all those things to her, for I can not be bothered. She has
+                            kept track of every centime for the last forty years--first from
+                            necessity, now from habit." Rodin was well along in years before
+                            recognition came to him. During these years, filled with tenacious
+                            labor, lonely pride, and the anxieties of poverty, Madame Rodin was
+                            purse-keeper. "She is marvelous," declares Rodin. "Had it not been for
+                            her, we would have starved; and now that we are rich, she is as wise as
+                            when we were poor."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IS Leon Bakst, the color anarchist, lifting the mortgage on the old Russian home? Bakst realizes three times on every drawing he makes. First, the Czar's Imperial Ballet pays him for his designs; then he syndicates them to the magazines; and lastly they are sold to private collectors. In this way Bakst makes about $1000 on every drawing, and as he turns out about 150 a year, it can be seen that he beats the President to it twice over. He starved for years, however, in a Petrograd attic studio before any one would look at his work.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 11" xml:id="ew.issue.19160403.p011" />
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph By Underwood &amp; Underwood.</ab>
+<p>TEMPERAMENTAL and extravagant as the divine Sarah is reputed to be, she has never been known to
+                            let an American dollar due her escape&#8212;in America. Having got it safely
+                            back to France&#8212;ah, that is a different matter! Many a lively tiff
+                            interrupted the progress of her recent vaudeville adventures across the
+                            United States, when, in spite of managerial opposition, she received and
+                            pocketed after each performance $350, refusing to await the common
+                            pay-day. "Who knows?" she declared. "The theater might burn down." Here
+                            we behold the wily lady sailing for France with $150,000 in her
+                            stockings.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">© H. Mishkin.</ab>
+<p>EVERY time Olive Fremstad lifts her lovely voice in song it wafts about $2000 into her gold mesh purse; and when, by way of resting her voice and keeping that Isolde figure of hers, she turns to chopping cord-wood up in Maine, her phonograph records go right on drawing a salary for her. She is said to have invested her earnings, with true Scandinavian sagacity, in Minnesota lumber and wheat fields; but as she is her own business man, and never discusses' her affairs even with her press-agent, nobody knows just what sort of millionaire she is.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph By Underwood &amp; Underwood.</ab>
+<p>MADAME CURIE, who with her husband discovered radium, takes care of her own business affairs. She has done so since her husband was killed while crossing a boulevard in Paris ten years ago. Madame Curie, it is said, bought rubber in the troublesome days of 1908-9, and realized a comfortable little fortune. She has incorporated her laboratory and its researches, and she holds a remunerative position as professor in a girls' school at Sévres.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>GUGLIELMO MARCONI has considerable to do with the clouds, but his head is not up there to the exclusion of the more pedestrian matters of life. The inventor looks like a brisk Manhattan broker. Last spring he came over to this country ostensibly to deliver some lectures; it was rumored, however, that the real reason for his visit had to do with certain mining property in Nevada. The income from his patents must be in the neighborhood of six figures annually.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Purdy.</ab>
+<p>JOHN SINGER SARGENT is a Yankee as well as a genius, so he made no mistakes as to his own value. Nowadays Mr. Sargent paints only kings and queens and their dauphins, but in the days when he was still painting those who had $10,000 to expend' in that manner, he specialized in millionaires&#8212;this in spite of the fact that we are told by his biographers that "he had no love for merchants and shop-keepers, and that even statesmen and senators suffered at his hands." So he is now in the millionaire class himself.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Courtesy of William Morrow.</ab>
+<p>WHEN the "Montessori Movement" came to America, hundreds of schoolteachers threw down their spelling books and hurried to Rome to take a course of Montessori training; moving-picture 'men competed for the Montessori films; and for the first time in history an educational treatise became a "best seller." But, although dollars and crowns and francs and marks and pesetas have flowed to her from all countries, Montessori is probably the worst business man on this page. She would rather see a child "explode into writing" any day than answer a letter from her banker. She is now teaching in Barcelona, Spain, the war having broken up her Italian training classes.</p>
+<figDesc></figDesc>
+</figure>
+ <p></p>
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19160403.p012" />
+ 
+<text type="photograph" xml:id="debutantes.19160403">
+<body>
+<head>The High Cost of Débutantes</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Ira L. Hill's Studios.</ab>
+<p>CLOTHES and fashions alone can not make a débutante completely happy. If she is a New Yorker her triumphs will lose their zest if she is not a subscriber to the Junior Assembly and a member of the Junior League. These coveted honors have fallen to Miss Marion Dinsmore, the daughter of Mr. and Mrs. William B. Dinsmore, a cousin of Mrs. Vincent Astor. A Bostonian débutante must be invited to the Sewing Circle and to the Vincent Club.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Jones &amp; Zardumian.</ab>
+<p>THE tidy sum of $10,000 in flowers, jewels, toilet articles, and lingerie were showered upon Miss Olivia de B. Gazzam at her débutante thé dansant in Philadelphia. A thé dansant often means two orchestras, a collation that goes from bouillon to nuts, including the kind of "tea" that inebriates as well as cheers, a dinner for the receiving party, a theater party, still more dancing, breakfast in bed for the heroine next noon, and a deficit of $4000 in father's check-book.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Marceau.</ab>
+<p>LAUNCHING a débutante daughter is far from being the simple matter that launching a battleship is. For the latter matter all one needs are a few governors to make speeches, and a bottle of champagne. It cost $12,000 to entertain nine hundred guests at one débutante ball at Sherry's this winter: $300 for the dancing suite, $350 for the two orchestras, $1500 for the decorations, supper and wines and service, not forgetting the breakfast that is served at six A. M., with sausage and buckwheat cakes. This is Miss Katherine Nagel, the daughter of Dr. and Mrs. J. Darwin Nagel of New York.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Campbell Studios.</ab>
+<p>THERE always was something terribly nerve-racking about cotillions, with their loaded favor tables. And when favors developed into singing birds in gilt cages costing $15 each, and $25 gold vanity-cases, gold cigarette-cases, riding crops, etc., a truce was called by all the leaders of society, and this year straight programs of round dances&#8212;such as the ball given at the Colony Club by Mr. and Mrs. Waldrom Williams for their daughter Hope&#8212;are the thing.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>THIS young lady in a smock is a real Gibson girl&#8212;Irene, the daughter of Mr. and Mrs. Charles Dana Gibson. She is engaged to George B. Post, Jr.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Campbell Studios.</ab>
+<p>LAST year it was the thing to have humming-birds and butterflies circling round the guests' heads at chic débutante balls; but this season professional dancers and singers have been called upon. A troupe of minstrels sang and danced at the ball given at Sherry's by Mr. and Mrs. Morgan O'Brien for their daughter Maudto the tune of about $500.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Campbell Studios.</ab>
+<p>ONE of the hardest working débutantes is Miss Isabel Yeomans, the daughter of Mr. and Mrs. George Dallas Yeomans. Miss Yeomans' was a guest at the ball given by Mr. and Mrs. Otto Kahn for their débutante daughter. Here Caruso (for $2000) sang and Pavlowa danced. There were four orchestras, and in the gentlemen's dressing-room a fully equipped café.</p>
+<figDesc></figDesc>
+</figure>
+ <p></p>
+</body>
+</text>
+ 
+<pb n="Page 13" xml:id="ew.issue.19160403.p013" />
+
+<text type="nonfiction" xml:id="luehrmann.19160403">
+<body>
+
+<head type="main">The Story of a Woman Pioneer</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from B. H. Smith.</ab>
+<p>The little one-room shack which we called home was in perpetual danger of being blown away.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from B. H. Smith.</ab>
+<p>Two years ago we left the shack for our ten-room house&#8212;with running water, porcelain tub,
+                            acetylene gas.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from B. H. Smith.</ab>
+<p>I learned about cattle as a girl in Ireland; so token the crops jailed I turned to my Dutch Belted cattle.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="1" />
+
+<p>WHEN our train slipped over the wall of the Sierras down into the broad valley of California that day in March ten years ago, I thought I had got to heaven.</p>
+
+<p>Back in New Jersey we had left snow on the ground in dirty patches, and for three thousand miles we had come over wastes of snow and deserts of hard gray earth with bare bushes shivering by frozen rivers and naked trees stretching their stark arms toward gray, unheeding skies. Here wild flowers were everywhere, and foothills and valleys were checkered with waving grain fields and fruit trees in bloom. Yes, it was heaven, and I now knew why we had got only eighty acres for our hundred and sixty back East.</p>
+
+<p>Down through the blooming valleys on and on we rushed, past rivers filled by melting snows in the Sierras and busy little towns. Arrived at last at a flag station, we left the train and drove in a hired spring wagon, the bed of which was pretty well filled with the seven children, to the place that was to be our new home.</p>
+
+<p>In those last miles the world began to look a little different&#8212;drab instead. of green; for it had only recently been plowed, and planted. The soil was not like any I had known, back on father's farm in Ireland or our own in New Jersey. It was loose and sandy and lean-looking, not black and heavy and rich. The houses were miles apart, and none of the places looked prosperous.</p>
+
+<div1><head type="sub">The Terrible Sand Storms</head>
+
+<p>AS for our own eighty acres, it was all dry, loose sand. My husband had come ahead of me and the
+                            children and bought the place, and I know now that he had been duped by
+                            a smooth-tongued land dealer and bought a piece none too good of its
+                            kind. One part of it was a sickly stubble of oats, and after what I had
+                            seen a little way back along the railroad, it looked cruel and
+                            lonely.</p>
+
+<p>While I had been packing and coming West with the children, my husband had plowed and checked forty acres of the land and planted alfalfa. And no sooner had we arrived than, by way of welcome, a great wind swept down from the north and blew every seed from the ground. It all had to be planted a second time, and again the winds came and blew out all the seed.</p>
+
+<p>A third time it was planted, and a third time blown out. As I sat on the step of the little
+                            one-room shack we now called home, and listened to the talk of a
+                            neighbor who told how any day in the spring the winds might sweep down
+                            the valley, whipping clouds of dust before them,&#8212;how for days at a
+                            time she and her daughter ate their meals with their heads under the
+                            table-cloth to keep the dirt out of their mouths,&#8212;I thought that
+                            we hadn't got to heaven, after all.</p>
+
+<p>Aside from the land, we had practically no money after the move across the country. But I had
+                            brought from New Jersey twenty-three head of cattle&#8212;Dutch Belted.
+                            Only eleven were full bloods, for this breed was scarcely ten years ago
+                            and that was all I could get. And I soon realized it was from the cattle
+                            and not the land that our living must be made.</p>
+
+<p>This put the question of making the living squarely up to me, for my husband never cared about stock. As for me, I have always known stock. I was born on a sixty-acre farm in Ireland. 
+ 
+<cb n="2" /> 
+ 
+Though father always had plenty of help, he'd say to me:</p>
+
+<p>"Take your little crock, Jen, and go strip the cows. You never can tell when you'll be needing to know how."</p>
+
+<p>And many a time since I've blessed that father, if it was only for the knowledge that the first milk was good only for feeding the stock, the second for butter, and the strippings for tea, being the best part of all.</p></div1>
+
+<div1><head type="sub">Nine People in a One-Room Shack</head>
+
+<p>BUT in these ten years that it's been up to me to make good I've learned how little, after all, I knew. I put my Dutch Belts in a show that first year, because I didn't know any better. I got no prizes, but the judges took the trouble to tell me some things about feeding in this new land and how to breed better. I ask everybody all sorts of questions, and -I read all the time, and try out all suggestions that sound reasonable, and the result is that out of that first little herd I've raised Dutch Belted cattle that have brought me miles of ribbons and cups and championships all the way from Seattle to Arizona and from Sacramento to Chicago. I've shipped Dutch Belted cattle to all parts of this country, to Honolulu and to Cuba, and at least ten herds in California have-been started from mine.</p>
+
+<p>So those sand storms of the early days were the best thing that could have happened to us. They made me understand that in California, as everywhere else in this world, you can't get something for nothing; that you've got to work to win.</p>
+
+<p>I didn't make the mistake that many people make, in going to a new land, of building a big house with a mortgage on it. I was satisfied with a rude one-room shack for the nine of us. Most of the year we could sleep outdoors, which helped a lot. It was less pleasant in the rainy season. But we stuck it out in that shack for eight years, and I herded the children down to the irrigation ditch for a bath when the water was in it. When the water was out-well, maybe the children didn't get baths often enough, but it requires sacrifices all along the line to make good.</p>
+
+<p>I built a big barn for the cattle, and I knew that in time the barn would earn a house for us. I always say that two or three good cows and a good will to work will pull anybody through.</p>
+
+<p>From the first it was hard to get helpers. Once I drove a man out from the nearest town, ten miles away, gave him
+
+<cb n="3" /> 
+
+supper and a bed, and he was gone before we were up in the morning. Another came and stayed the night, had breakfast with us at five-thirty, and sat around until seven o'clock watching the rest of us work.</p>
+
+<p>There have been some bitter hard days in these ten years. Once in a busy season five of the seven
+                            children came down with scarlet fever, and we were in quarantine for two
+                            months, and before we were out' of it our oldest boy died.</p>
+
+<p>And once, at a meeting of our neighborhood club, one of the members spread the report that we
+                            starved our children to death, beat them to death, and worked them to
+                            death, and tried to stir the other members against us. But there is
+                            usually some sweet with the bitter, and the neighbor that knew us best
+                            who had nursed the children through scarlet fever, who dropped in on us
+                            at meal-times unexpectedly came to the rescue at that meeting. He told
+                            the trouble-maker that he had always found plenty of food on our table.
+                            He took him to the grocer and looked over our accounts for six months,
+                            and found they were larger than almost any other in the 'country, and
+                            paid, too, when they were due.</p>
+
+<p>It was true that my husband had whipped one of the boys, who had howled loudly, after the manner
+                            of boys. But lots of fathers have whipped their boys and made pretty
+                            good boys out of them. And if I was ever too hard on the girls, it was
+                            because I myself was not afraid of hard work and did not realize I was
+                            overworking them; and when the doctor told me to lighten their work I
+                            gladly did it, doing extra myself. The children did work hard in those
+                            early years; but work doesn't kill, and they've never missed school, and
+                            as times have grown easier with us we've given them all the advantages
+                            we could.</p>
+
+<p>But I've never been so busy or so troubled through the years that I couldn't hear the birds sing. Over the cook-stove, out picking berries, in the stalls milking, I hear them; and because I love the birds and the sunsets and the blue sky, work is less hard and unkind neighbors less hateful.</p></div1>
+
+<div1><head type="sub">A Farm with a Color Scheme</head>
+
+<p>GRADUALLY I've made our ranch unique among California ranches. The cows, with broad white belts on their black bodies, are showy animals. I put in Hampshire hogs with the same white belts on black bodies as the cows. They have done their part, but they fatten 
+ 
+<cb n="4" /> 
+ 
+well because we have so much milk for them&#8212;because the cows are back of them. You see, I always feel it's the cows have done it all.</p>
+
+<p>To complete the color scheme, I keep a few Lakenvelder chickens with the same conspicuous marking as the cattle and hogs. The chickens I don't like, and I can and do make more money out of my turkeys; but the chickens help make the ranch unusual. The turkeys and sheep have, no part in the color scheme, but they come in on the practical end of the game, not only for use on our own table, but yielding a tidy extra bit.</p>
+
+<p>Like the turkeys and sheep in this respect are the red-gum trees that I planted five years ago on the high ground near the house. At first this ground&#8212;which cost only half as much as the low acres where the alfalfa grows&#8212;seemed wasted except for a small space given over to a family orchard. Then I heard of this variety of eucalyptus that brings a good price as finishing wood, and I planted a grove of them on this waste land; they give us our fire-wood now and a promise of a neat income from the lumber dealer when their time comes.</p>
+
+<p>Some of our neighbors regard me as the boss of this ranch, but as I look at it there is no boss. My husband and I are partners. He looks after the alfalfa. I look after the stock. The breeding and care of them all, the sale of them and of the butter fat, the planting of the eucalyptus grove and the care of the fruit orchard, with its jelly-making and preserving, the care of the house and the children&#8212;this is my part of the partnership.</p></div1>
+
+<div1><head type="sub">We Build a Real House</head>
+
+<p>TWO years ago I felt ready to give up that one-room shack, and we began to build a real house. We did it by degrees, and now have ten rooms, with a porcelain bath-tub and running water. One of my neighbors that came to see the house when it was well along said nothing until she got to the bath-room, and then she frankly envied me; and I couldn't help pitying her when I thought of her procession of children round the wash-tub of a Saturday night.</p>
+
+<p>We have our own acetylene gas plant and an automobile. And, best of all, we even find a little time now and then to go in this automobile to the hills where the flowers were blooming that March day ten years ago. When I planned the ten rooms I counted on having all the children; but two of my girls will soon be married and living in the city, so I must rent out their rooms to two schoolteachers, and that will buy furniture for the house.</p>
+
+<p>I've worked hard for ten years&#8212;harder than most women like to work. But these ten years of work have meant let's see&#8212;they've meant forty more acre- of land bought and paid for, and all of our land worth ten times the price it cost ten years ago. Our one-room house has grown to ten, and my herd of Dutch Belted cattle has been the start of many others.</p>
+
+<p>And now I feel I can face the next ten years and the next without fear. I still work hard and perhaps shall always work, for work does not mean unhappiness to me. That could only be if the birds stopped singing and the blue went out of the sky and the green forever from the earth.</p></div1>
+ 
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19160403.p014" />
+
+<text type="fiction" xml:id="ford.19160403">
+<body>
+
+<head type="main">Letting Peabody In</head>
+<byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wilson, F. Vaux">F. Vaux Wilson</persName></byline>
+ 
+<cb n="1" />
+
+<p>I EXPECT one of the six or seven reasons why I ain't in the super-tax class is my habit of seein things different from them that are. Stack me up against a plute, and nine times out of ten we'll drift into some hot debate, with him on one side of the fence and me 'way over in the other lot. Showin' that I got a non-dividend-producin' mind and too little sense to conceal the fact.</p>
+
+<p>You'd 'most think, though, when it comes to good payin' reg'lars here at the Physical Culture Studio, that I'd stay off the now-just-lissen-to-me stuff and let 'em get away with their own private opinions. Wouldn't you? And that's the bright particular resolution I start in with 'most every day.</p>
+
+<p>But say! An hour after I've pinned that motto on the wall, I'm just as liable to stop in the middle of a ten-a-throw boxin' lesson to show some bank president where his notions on what we should have done to Mexico, or how to deal with a bunch of strikin' silk Weavers, are absolutely nutty and completely wrong. I'm just that mulish.</p>
+
+<p>IN the case of Peabody Hatch, specially, I might have kept the lid on. With him payin' extra for private sessions, what should I care what he thought about anything? All he looked for from me was to provide an indoor substitute for golf and polo while he's tied up here in town watchin' a lot of shifty lawyers straighten out the umpteen million dollar estate that
+ 
+
+<figure n="illustration">
+<p>"'Pete,' says I, as the old pirate prepares to put a mirror gloss on my tan shoes, 'how's the heir apparent comin' on?'"</p>
+<figDesc></figDesc>
+</figure>
+
+
+old man Hatch had dropped so sudden. Nice, pleasant-spoken, clean-cut young gent too, even if he does wear his nose a little high.</p>
+
+<p>And this crack of his about the wops was only casual. I was sittin' at my desk with my feet up, glancin' through the noon edition, as he blows in. The big head-lines catch his eye. Another of them labor riots&#8212;train-load of strikebreakers met by the usual enthusiastic committee, the militia called out, and a dozen or more of the brick-throwers, includin' a couple of women and a nine year-old boy, mowed down by the rifles.</p>
+
+<p>He shrugs his shoulders careless as he pulls off his yellow gloves.</p>
+
+<p>"Still at it, are they, Shorty?" says he. "Foreigners, of course. I suppose it's too much to hope that some day they will learn either to behave themselves or stay away."</p>
+
+<p>"When they do stay away," says I, "who'll run the steel mills and coal mines? Us horny-handed native sons?"</p>
+ 
+<cb n="2" /> 
+
+<p>"That's our big problem'," says he "how to manage these masses of aliens: an ignorant, vicious lot, the scum of Europe."</p>
+
+<p>"Oh, they ain't all so bad," says I. "Now take the Dagoes."</p>
+
+<p>"No, thanks," says he, laughin' good-natured. "I think the Italians are the very worst we get."</p>
+
+<p>Course, he don't mean it messy, but that happens to be a knock at my pet theory. You know, we got quite a settlement of Giuseppes and Salvatores out at Rockhurst-on-the-Sound, and I've always got along with 'em fine. Why, here last fall they wanted to run me for sheriff. Seems I'd got popular with 'em in some way&#8212;maybe by puttin' through that playground scheme, or by goin' bail now and then for friends of my man Dominick.</p>
+
+<p>Anyway, the better I got to know the Italians the more good points I discovered, until I finally decided that, barrin' a few who had been brought up to wear knives in their boots, they was almost as human as any of us. So I proceeds to state my views for Mr. Hatch's benefit. I tells him what steady, hard workers they are, how fond they are of their families, how gentle with their kids, and so on.</p>
+
+<p>"And when it comes to the second crop," I goes on, "their young folks who've had a chance to live fairly decent and get some schoolin'well, I'm backin' 'em to show up strong. Who do you suppose wrote the class song at our High School graduatin' exercises last spring? Miss Teresa Romano, who was born in the back room of a cobbler's shop opposite the Rockhurst railroad station. You ought to see her, too. Reg'lar young queen. Why, even old Pete, that runs the shine parlor out at the corner, has got a son who looks like a college hick. Maybe I can point him out some day. He's in here, off and on. Some bright lad, young Pete is, believe me."</p>
+
+<p>MAYBE I spread it a bit thick, but the sarcastic smile Peabody develops sort of rubbed my disposition the wrong way.</p>
+
+<p>"All very interesting," says he, "but&#8212;er&#8212;suppose we get to work."</p>
+
+<p>Which should have been my cue to sidetrack the argument. But all the while he's gettin' into his gym suit I kept
+
+<cb n="3" /> 
+
+mullin' it over, thinkin' up snappy comebacks and new ways of statin' what I'd said before. Even after we got busy with the gloves, I couldn't help lettin' some of 'em slip out.</p>
+
+<p>"Think they're just scum, eh?" says I, plowin' in a half-arm jab to his ribs. "Huh! Cover up there with your right. That's it. Scum be Mowed! You don't know 'em, that's all. You&#8212;here I gets past his guard for an ear&#8212;stinger"you can't judge just by ridin' by 'em in a limousine. See, you should have ducked that one. Foot work now; you ain't posin' for your picture, you know. And if you think they're all scum&#8212;Oh, excuse me, but the way to that beak of yours was wide open. Tapped the claret, did I?</p>
+
+<p>"Hey, Swifty! Pail and sponge up."</p>
+
+<p>"If you don't mind," says Peabody, as we're removin' the stains from his map, "I'd rather not discuss sociology while I'm boxing. It&#8212;it's a trifle distracting, you know."</p>
+
+<p>"Sure!" says I. "My error."</p>
+
+<p>COULDN'T do more, could I? And, while I suspicion he ain't half convinced, I lets the subject drop. Next time I'm in Pete Rinaldi's shoe-polishin' and hat-cleanin' emporium, though, I thinks of Peabody.</p>
+
+<p>"Pete," says I, as the bullet-headed, broad-faced old pirate prepares to put a mirror gloss on my tan shoes, "how's the heir apparent comin' on?"</p>
+
+<p>It's one of our stock jokes, and Pete looks up with a grin.</p>
+
+<p>"Gotta fine job now," says he. "Playa da violin for Café Napoli."</p>
+
+<p>"Took him on reg'lar, did they?" says I. "But what about that real estate place I found for him?"</p>
+
+<p>Old Pete hunches his shoulders.</p>
+
+<p>"Too mucha work," says he. "They no lika him come late; giva da chuck."</p>
+
+<p>"That'll never do," says I. "Fiddlin' evenin's in one of these Chianti tango joints is well enough as a side line, but it ain't goin' to get him anywhere. I'll have to have another talk with him. You send him round."</p>
+
+<p>You see, I'd been sort of coachin' young Pete along for some time, nowever since the day I'd seen this spruce young chap climb down out of the chair, nod careless to the old man, and go off without payin' for his shine.</p>
+
+<p>"Run charge accounts, do you?" I asks.</p>
+
+<p>Old Pete explains sheepish how that's his son, who was workin' over on Seventh Avenue in a pool parlor. A few days later he introduces him reg'lar, and he strikes me as such a bright young chap that I got more or less interested. Maybe it was that happy, good-natured smile of his.</p>
+
+<p>Anyway, when I finds he's only nineteen and already married, with a wife and youngster to look out for, I kind of begins plannin' things out for him. First off I got him another job, ad. clerk in a newspaper office, with a chance to work up.</p>
+
+<p>Well, you know how it is when you start in backin' a party that way: you feel sort of responsible for 'em. And, while young Pete seemed to make good from the first, somehow he didn't last out. He was no stayer. So I rustles him another place. And then another. In fact, every little while I finds myself scratchin' my head and botherin' my friends to find a new job for young Pete. For I couldn't help believin' he had it in him to win out.</p>
+
+<p>Meanwhile, he seems to be improvin' right along. He was so quick at catchin' on. Why, say, if it wasn't for his curly black hair and the little smoky tint in his complexion you'd never take him for 
+ 
+<cb n="4" />  
+ 
+a Dago at all. I'll admit that his taste in dress does run to knobby-toed shoes and scalloped pockets and noisy ties, but he's only copyin' the class he trains with, most of 'em native born.</p>
+
+<p>And early in the game he quit flaggin' as Rinaldi, changin' it to Reynolds. Didn't even pick a wife from among his own people, but hooks up with a young Polish girl he'd met while he was helpin' run a hand laundry.</p>
+
+<p>SO, you see, young Pete had broken clear away from the Mulberry Street crowd, and as a sample of What the second crop could be he promised well. He sort of stood for what I'd always argued along that line, and some day I expected to point with pride to him.</p>
+
+<p>But hearin' how he'd been fired from 'the real estate office didn't swell my chest any. I meant to tell him a few things when he showed up. A week or ten days go by, though, and no sign of him. When I asks the old man, he just humps his
+eyebrows.</p>
+
+<p>"Sick, maybe," says he. "Maybe not."</p>
+
+<p>I gathers there's been a little disagreement between 'em&#8212;a case of too frequent touch, perhaps. So I goes back to the Studio and puts Peabody through his course of sprouts. I was debatin' whether, when I got through with him, I shouldn't go scoutin' after young Pete myself, when Swifty Joe comes into the gym and reports mysterious that there's a lady waitin' to see me in the front office.</p>
+
+<p>"What lady?" says I, keepin' an eye on Peabody's left and feintin' for his wind.</p>
+
+<p>"Ahr-r-r, chee!" says Swifty. "How should I know?, Not a reg'lar lady, y'understand. Gotta couple of kids with her."</p>
+
+<p>"Suppose we stop, then?" suggests Peabody. "Time's nearly up."</p>
+
+<p>"All right," says I, shuckin' the gloves. "I'll go shoo out the stray fam'ly."</p>
+
+<p>Who do I find out in the front office, though, but Mrs. Pete Reynolds. I'd only seen her once before, when there was just one baby. She was dolled up kind of fancy then, and with her pink-and-white cheeks and her taffy-colored hair I remember thinkin' she was quite a stunner. But this draggly, limp female with a shawl over her head I wouldn't have recognized as the same party if she hadn't told me who she was.</p>
+
+<p>"You don't say!" says I. "Well, what's wrong?"</p>
+
+<p>"Pete," says she, a hopeless sag to her shoulders. "He&#8212;he no come back."</p>
+
+<p>"The young rough-neck!" says I. "How long has he been gone?"</p>
+
+<p>"Four, five days," says she.</p>
+
+<p>WELL, I planted her in a chair, with the little baby on her lap and the little boy clingin' to her knees, and by degrees I got out of her the whole soggy story. Pete had gone to hittin' up the booze. It was a new trick for him, but at the café he'd got to travelin' with a cheap bunch of rounders, sporty young clerks and so on, that he was friendly with, and he'd taken to showin' up at the flat about the time the milk was delivered, spendin' the day sleepin' it off.</p>
+
+<p>Seems he'd been out of the real estate office for weeks, and finally he'd even lost his place at the Napoli. Meanwhile, the instalment people had taken back most of the furniture, and all their knick-knacks and glad rags had gone to the hock-shop. A threadbare old tale, but one I hadn't expected to hear about young Pete.</p>
+
+<p>"I'd like to have him within reach for a few minutes," says I, bunchin' my fingers. "Him with such kids as these, too! Come here, little Pete; come along, now."</p>
+
+<p>The little chap toddles over to me willin' enough, and I hoists him up on my knee for a good look.</p>
+
+<p>"Say, he's some boy, eh?" I goes on.</p>
+
+<p>Mrs. Pete gives me a grateful glance
+
+<pb n="Page 15" xml:id="ew.issue.19160403.p015" />
+
+<cb n="1" />  
+
+and smiles weary. Then I brushes back the yellow curls from the youngster's pink-and-white face, gets a view of them big dark eyes with the long black lashes and the cheek dimples, and lets him spring one of them cherub smiles on me, and&#8212;well, I just has to cuddle him up and let him coo in my ear.</p>
+
+<p>"Ain't afraid of me; eh, little Pete?" I asks. "How's that?"</p>
+
+<p>"Oo nice mans," says he, turnin' them big eyes on me.</p>
+
+<p>"That settles it!" says I. "If that's the way you feel about me, that daddy of yours is goin' to have another chance. Looks like a hopeless job, Mrs. Reynolds, but we'll see what can be done. Just wait until I can get into my street clothes and&#8212;</p>
+
+<p>I breaks off when I sees Peabody Hatch standin' in the gym door starin' at me. "I beg pardon," says he.</p>
+
+<p>"Don't bother," says I. "And say, you remember what I was tellin' you about the next generation? Well, here's one of the results. Have a look while I'm dressin'. Aw, don't be afraid. Clean as the inside of a new-laid egg. Catch him!"</p>
+
+<p>I don't know whether Peabody ever had a strange four-year-old chucked at him that way before or not. I didn't stop to ask, but dropped little Pete in his arms and dashed into the dressin'-room.</p>
+
+<p>MUST have been there five minutes or more; but when I came back, there sits Hatch in my desk-chair, chattin' away chummy with the youngster.</p>
+
+<p>"Oh!" says I. "Thought you'd gone. I didn't mean to give you a steady job."</p>
+
+<p>"I&#8212;I don't mind a bit," says he. "Pete and I have just been getting acquainted. Haven't we, Pete? We are going to have a nice ride in the honk-honk, too."</p>
+
+<p>"Eh?" says I, gawpin' at him.</p>
+
+<p>"You were going to take them home, weren't you?" says he. "Well, my car is outside. Let's see; Eleventh Avenue, did you say?"</p>
+
+<p>Mrs. Pete looks at me to see if it's all right, and when I gives her the O.K. sign she nods.</p>
+
+<p>And say, I don't suppose there's been a limousine stopped in that block before for a month. It's a rummy-lookin' double- decker we lands in front of, the fire-escapes draped with old beddin' and the street full of kids playin' tip-cat and jumpin' rope. But Peabody insists on luggin' the youngster up three flights of smelly stairs and into this barren two- room tenement at the back.</p>
+
+<p>I hadn't said a word about this bein' the fam'ly of the young Italian I'd been describin' so enthusiastic, and I didn't mean to let on. Not a word. As we steps in, though, a slump-shouldered object lifts a pasty face from the bare table and stares at us. It's young Pete, and he's a sad mess.</p>
+
+<p>"Huh!" says I. "Turned up again, did you? You're a fine specimen, you are! What you got to say for yourself?"</p>
+
+<p>He sort of shivers and then slumps again, his head between his arms.</p>
+
+<p>"Feelin' low, are you?" I goes on. "No wonder! But let's hear what alibi you got. Come, give some account of yourself."</p>
+
+<p>"I&#8212;I ain't any good, Professor," he whines. "I didn't go for to stay off that way, butbut I got in with the old gang. That's what soured the -old man on me. He won't even take me on shinin' shoes along with him."</p>
+
+<p>I glances at Peabody to see if he's made the connection. And he has.</p>
+
+<p>"Oh!" says he. "This can't be the one you were telling me was such a"</p>
+
+<p>"You win," says I. "This is him. And I take it all back. I guess my proposition about the second generation was all wrong."</p>
+
+<p>NEXT I turns to young Pete again and makes him state the exact situation. It's as bad as it looks. He's flat broke&#8212;nothin' in the house for the kids to eat, and the agent has served notice that he'll dump 'em out next Wednesday.</p>
+
+<p>"Then what'll become of the wife and babies?" I asks.</p>
+
+<p>"I&#8212;I don't know," says he dreary. "If 
+ 
+<cb n="2" />  
+ 
+you'd only give me another chance, Professor!"</p>
+
+<p>"Yes, and how long would it be," I demands, "before you'd be runnin' with that bunch of tinhorns again?"</p>
+
+<p>He just drops his chin.</p>
+
+<p>"What you need, Pete," says I, "is to be introduced to some real work. That's what your old man was raised on. He's told me about it. Outdoor work, in the fields. Why, he dug ditches when he first came to this country. He didn't start in by wearin' yellow shoes and rainbow ties and tryin' to sop up all the red ink on Eighth Avenue. You're city-spoiled, that's what's the matter with you. Mostly my fault, too. I should have shunted you out in the country, where most of your people belong, anyway. You ought to be there now. Your kids need it, too. But I suppose you wouldn't try livin' anywhere but in town."</p>
+
+<p>"I&#8212;I'd try anything," he groans.</p>
+
+<p>"Huh!" says I. "Wish I had a place to put you on. We'd see."</p>
+
+<p>Then, when I was least expectin' it, Peabody speaks up.</p>
+
+<p>"It happens that I have," says he.</p>
+
+<p>"Wha-a-at?" says I. "One you can spare? Say, where is it?"</p>
+
+<p>"I fear it isn't much of a place," says Peabody. "Just a little ten-acre tract with an old shack on it, 'way up in the Connecticut valley. I remember father sending one of our old gardeners up there on a pension. He's been gone several years, and the house has been shut up ever since. I've tried to sell it, even offered to give it away. It's rather an out-of-the-way place, I believe, and almost worthless as a farm, but if&#8212;"</p>
+
+<p>"What do you say, Pete?" I breaks in. "Willin' to take a chance on it?"</p>
+
+<p>"Anything to get out of this," says he.</p>
+
+<p>"How about you?" I asks Mrs. Pete.</p>
+
+<p>"I am country girl," says she. "I no like city, never."</p>
+
+<p>"Then it's a go," says I. "Much obliged, Hatch. Give us the location, and to-morrow .1'11 take a day off and tow 'em out there."</p>
+
+<p>"But see here," protests Peabody. "This farm, you know, is a mile or more from the nearest village. Why, they could starve out there and no one would know anything about it."</p>
+
+<p>"They could starve just as easy here on Eleventh Avenue and nobody would care," says I. "Besides, I'm plannin' on doin' a little grub-stakin'."</p>
+
+<p>"Hm-m-m!" says he, glancin' down at Little Pete, who's still holdin' him by the hand. "I think it would be decent of you to let me join in this&#8212;er&#8212;experiment. It's my farm, you know."</p>
+
+<p>"But you don't believe much in the second crop," says I.</p>
+
+<p>"I'm beginning to believe in the third, though," says he.</p>
+
+<p>"Then you're 'most qualified to join," says I. "Let's get busy."</p>
+
+<p>So by the middle of the next afternoon I've landed young Pete and his fam'ly a good two hundred miles from the nearest bottle of Chianti. Looked, like it might have been a thousand after we'd left the train and been driven for an hour over hilly country roads.</p>
+
+<p>And when we stops in front of this weather-beaten old house, with the windows boarded up and the front door almost choked by bushes, I don't blame Mrs. Pete for starin' around kind of wild.</p>
+
+<p>It's on a back road, you know, and down in sort of a hollow where a brook runs through, with nothing in sight but bare, rocky, fields all' shut in by woods.</p>
+
+<p>"Won't be bothered with neighbors, 
+ 
+
+<figure n="illustration">
+<p>"Pete gets out his violin to give the boy his daily lesson. 'He's goin' to be some player,' says the father"</p>
+<figDesc></figDesc>
+</figure>
+
+ 
+<cb n="3" />   
+ 
+will you?" says I. "Come, Pete, let's unload these groceries and things."</p>
+
+<p>While we was doin' that and pryin' the boards off the windows, Mrs. Pete goes wanderin' around with the youngsters.</p>
+
+<p>It's a mild, early spring afternoon, with the green just startin' out on the trees, and if it hadn't been so still and deserted around the place it might not have seemed so forlorn.</p>
+
+<p>"Course," I says to Pete, tryin' to chirk him up, "you got to rough it for a while. That won't hurt you any. What you can do to make a livin' here, though, is by me. That's up to you."</p>
+
+<p>"I know," says he, sort of dull and desperate.</p>
+
+<p>"Seems to be plenty of furniture, such as it is," I goes on, "and dishes and beddin'; and if you can only raise"</p>
+
+<p>"Pete! Pete!" we hears Mrs. Reynolds callin' excited. "Come, Pete!&#8212;"</p>
+
+<p>WE thought something had happened to one of the kids, and out we dashed panicky. No; there they were down by the brook, all safe on the bank, and Mrs. Pete standin' beside 'em, wavin' her hands.</p>
+
+<p>"See!" says she as we came up, pointin' to a bush. "For baskets! Willow wood! We make fine baskets from him. I show you, Pete."</p>
+
+<p>"There you are, right off the reel!" says I. "A home industry. I'll give you an order for half a dozen clothes hampers to start with."</p>
+
+<p>"And look!" goes on Mrs. Pete, runnin' back from the brook a little ways and divin' into the soft black ground with her hands. "For celery. Nice dirt for celery."</p>
+
+<p>"Is that so?" says I. "Sure about that?"</p>
+
+<p>"Me, I show you nex' fall," laughs Mrs. Pete, her cheeks flushin' excited. "Celery and baskets. With place like that in the old country we make much money."</p>
+
+<p>"Pete," says I, "I see where you got a swell business manager right in the fam'ly. You ain't going to starve. You're going to show the native-born how to go back to the land and net have the land go back on you. But you're goin' to develop a few new muscles."</p>
+
+<p>"I'm willing," says Pete.</p>
+ 
+<p>BEFORE I left I got him to promise me a line now and then sayin' how they were gettin' on:</p>
+
+<p>Well, he did send a couple of postals durin' the two months; but what he reports is so sketchy, and Peabody keeps askin' me so constant for details, that here the. other day I just had to make a trip up there.</p>
+ 
+<cb n="4" />   
+
+<p>Honest, I hardly knew the place. Why, here was flowers growin', the shrubbery trimmed up, a fine big garden comin' along, rows and rows of celery started, and in one corner of the kitchen is a reg'lar basket factory. You ought to see the change in them kids, too. Little Pete has grown inches, he's got roses in his cheeks, and the baby is fat as butter.</p>
+
+<p>Pete, he's browned up and husky, and Mrs. Pete is gettin' to be more or less ornamental again.</p>
+
+<p>I HAD planned to stay over only one train; but there's so much to see and talk about&#8212;the cow Peabody had sent up, and the chickens they was raisin', and the old white horse they'd bought on celery futures&#8212;that the first thing I knew it's too late to get back that night. So I stops over.</p>
+
+<p>And if either Pete or the wife was homesick for Eleventh Avenue, it didn't come out that evenin'.</p>
+
+<p>After Mrs. Pete finishes the supper dishes she sits down and tackles the framework of a fancy lunch-hamper I'd brought specifications for, while Pete gets out his violin and proceeds to give the boy his daily lesson in handlin' the bow.</p>
+
+<p>"He's goin' to be some player," says Pete. "Baby, too. Watch her."</p>
+
+<p>She's sittin' up in her crib, beatin' time with her little pink fists and takin' it all in.</p>
+
+<p>Afterwards Pete plays me a couple of old Polish songs that Mrs. Pete had hummed for him, and she joins in with an old accordion. So altogether it was quite a jolly party we had.</p>
+
+<p>WHEN Peabody blows in next day he wants to know all about it.</p>
+
+<p>"Well," says I, "it looks like the second crop was goin' to make good, after all. Our little transplantin' stunt seems to be turnin' out fine."</p>
+
+<p>"Bully!" says he. "But, tell me, what are we raising up there?"</p>
+
+<p>"Mostly willow baskets and assorted garden truck," I tells him; "but on the side I guess we're raisin' a young orchestra."</p>
+
+<p>"Really!" says he. "Then that land can't be wholly worthless, can it, to produce such a variety of things?"</p>
+
+<p>"Not with the right people on it," says I. "It's just a case of connectin' the second crop with the land to improve 'em both."</p>
+
+<p>"Perhaps that's the answer to our big problem," says Peabody. "I'd like to see it tried extensively some day."</p>
+
+<p>"Maybe you will," says I. "We ain't got the only bulgin' foreheads in captivity, you know."</p>
+
+</body>
+</text>
+ 
+<pb n="Page 16" xml:id="ew.issue.19160403.p016" />
+
+<text type="nonfiction" xml:id="honeymooners.19160403">
+<body>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs from Ivah Dunklee.</ab>
+<p>This is the house Mr. Harris built for honeymooners, and this is Mr. Harris himself. The honeymooners couldn't be in the picture because they were inside cooking a dinner of juicy venison over the big open fire.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs from Ivah Dunklee.</ab>
+<figDesc></figDesc>
+</figure>
+
+<head type="main">Free to Honeymooners</head>
+
+<cb n="1" />  
+
+<p>AFTER all is said and done, Niagara Falls and Atlantic City are noisy, crowded places where you are only too liable to run into college or business friends who will insist upon taking you both to dinner. It takes honeymooners fully to realize the congested condition of this country. There are tourists in the Adirondacks and hunters and trappers in the Canadian woods. There are interested people all the way up and down the banks of the Hudson, Mississippi, and St. Lawrence rivers.</p>
+
+<p>Now, Charles Harris is a bachelor, and never had a honeymoon of his own. But he has a really secluded honeymoon cottage, and his favorite pastime consists in handing over the key thereto to the first pair of lovers that come his way.</p>
+
+<div1><head type="sub">Just Write a Letter</head>
+
+<p>ALL honeymooners have to do is to write in and make sure that no other couple is ahead of them, and the "Red Bird" (Mr. Harris calls it that just to be different) is theirs for as long as they like. Away up in the Rocky Mountains is the place, at the foot of Mount Evans, in Harris Park. Nine thousand feet above sea level, with game and deer in abundance, and a different lake to fish in every day of the week (including Sundays)&#8212;these are some of the attractions that are at the disposal of such newly-weds as have the spirit (and the railway fare) to venture that far westward and skyward in pursuit of happiness.</p>
+
+<p>The "Red Bird" is completely furnished. All a bridegroom has to provide is something to eat&#8212;a trunkful or boxful;
+ 
+<cb n="2" /> 
+ 
+or a journey can be taken to the store down the cañon, in a trice the young wife can lift from the oven the lightest and crispest of hot biscuits, and Harris is sure to contribute fresh mountain trout, or wild honey, or venison, or some other delicacy from the wilds of the Rockies.</p>
+
+<p>This big-hearted lover of lovers has been one of Colorado's game wardens since the days when he helped frame the game laws. Thirty years ago he was a car inspector at forty cents a day. To-day he is the owner of Harris Park, stocked with deer, and he is now worth sixty thousand dollars. Only fifty miles from Denver, this region has become a favorite resting-up place.
+"Game and fish and deer," says Warden Harris, "fresh air, beautiful scenery&#8212;all these things are at the disposal of the happy young people who care to stop for a bit at the 'Red Bird'; and one thing more&#8212;"How did a bachelor ever guess it?&#8212;"The store is a few miles away, but there is no one at all to bother you, no one at all."</p></div1>
+ 
+</body>
+</text>
+
+<text type="nonfiction" xml:id="found.19160403">
+<body>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Jack Bechdolt.</ab>
+<p>ETIQUETTE EDITOR: What is the proper length of time for an uninvited ocean liner to stay at a garden party? ANS.: She may stay until high tide.</p>
+<figDesc></figDesc>
+</figure>
+
+<head type="main">They Found This in Their Front Yard</head>
+
+<cb n="1" />  
+
+<p>THERE are two great things about the seashore, as every child who has dug in the sand there knows: the first is that nurse doesn't scold one for getting one's feet wet, because salt water won't make one catch cold; and the second is that one never knows what may turn up&#8212;from a stickly, prickly sea-urchin to a bag of Captain Kidd's buffalo nickels.</p>
+
+<p>Santa Claus, in the form of an ocean liner of 3600 tons, visited the children of Three Tree Point, a summer colony on Puget Sound, Washington, out of season last August.</p>
+
+<p>The liner <hi rend="italic">Panama Maru,</hi> of the Osaka Shosen Kaisha, on her way from Tacoma to Seattle, lost her way in the dense pall of smoke created by forest fires.</p>
+
+<p>The night watchman of the little colony, which is composed of the summer cottages of Seattle residents, was startled early in the morning to see the huge liner burst through the smoke clouds And with., out a sound glide high on to the sand) beach.</p>
+
+<p>The towering bows came to a stop a few feet outside the front yard of Portus Baxter, Seattle's only millionaire newspaper writer.</p>
+
+<p>Next day the children from far and near 
+ 
+<cb n="2" />  
+ 
+flocked to the scene of the odd shipwreck, and in their bathing suits splashed happily about the stranded ship.</p>
+
+<p>The Japanese seamen clustered on deck, chattering and smiling. Presently they began to shower toys on the youngsters in the water&#8212;fantastic jumping-jacks, little vases, and picture post-cards.</p>
+
+<p>By next high tide, the Japanese Santa Claus ship, aided by two powerful tugs, glided off the smooth sand and disappeared into the smoke, leaving pleasant memories of Japanese courtesy with her surprised and delighted hosts.</p>
+
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="cellar.19160403">
+<body>
+
+<head type="main">They Found This in Their Front Yard</head>
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Mrs. E. C. Hanna.</ab>
+<p>When the sky looks like this, no one but an ardent photographer would ever stop to admire and perpetuate the view. We congratulate Mrs. Hanna, both on her picture and her quick dash for a. neighbor's cellar the moment afterward.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />  
+
+<p>IT'S easy enough to take a 2-by-3 1/4 snapshot of a peaceful landscape on a bright day in June; but the amateur
+photographer worth while is the one who can focus on a prancing young cyclone, take an exposure or two, and then hustle off to the potato house just as the neighbor's barn leaves its time-honored underpinning.</p>
+
+<p>Mrs. E. C. Hanna of Atlanta, Missouri, got away with this bit of photographic endeavor, and when the storm had passed along into the next county and the neighbors were picking their live stock out of the trees, Mrs. Hanna went into 
+ 
+<cb n="2" />   
+
+the kitchen, closed the door, pulled down the shade, lit the ruby lamp, and developed the negative; and so her picture is herewith presented to the readers of this magazine. The picture was taken last summer, and the exact locale of the storm is omitted for the perfectly good reason that no vicinity likes to become known as the habitat of the restless winds.</p>
+
+<p>The difference between a cyclone and its two cousins, the whirlwind and the tornado, is that, while the visitations of the two latter may be calculated, the cyclone cometh when it listeth, at any hour of the day or night.</p>
+ 
+</body>
+</text>
+
+<text type="nonfiction" xml:id="circus.19160403">
+<body>
+
+<head type="main">This School Is a Circus</head>
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs by Robert H. Moulton.</ab>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs by Robert H. Moulton.</ab>
+<p>These two boys are as chummy with their honey-bear as you are with Mouser, and among their other
+                            pets are camels, monkeys, alligators, foxes, and deer. Henry Getz's pony
+                            is a little more than two feet high.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />  
+
+<p>DID you know that the honey-bear sleeps upon its little tail? No, of course you didn't.</p>
+
+<p>It is probable that not more than one person in a hundred ever saw or heard of a honey-bear, and it is a still safer statement that even fewer know that the animal in question sleeps upon its tail.</p>
+
+<p>But two small boys, Henry and James Getz, sons of a Chicago man, not only know all about the habits of the honey-bear, but can write essays at a moment's notice about almost any namable wild animal.</p>
+
+<p>The fact is, James and Henry have a private menagerie of their own, embracing specimens of our fauna from almost every point of the globe. The menagerie was an idea of Mr. Getz's, who believes that the best way to learn all about a bear, for instance, is to play with a real live  bear, instead of reading about him. With this idea in mind, he started out to create an amateur jungle at his home.</p>
+
+<p>The first animals secured for this purpose were a couple of camels, which were brought to this country in charge of a native Syrian. Along with the camels came two Arabian horses and two don-
+ 
+<cb n="2" />  
+ 
+keys from Palestine. In rapid succession were added bears, monkeys of various types, including two rare Lemur specimens, foxes, wolves, alligators, guinea-pigs, rabbits, goats, deer, and many species of wild and domesticated fowls. In addition, aquariums were built and stocked with all kinds of fish.</p>
+
+<div1><head type="sub">Their Own School and Zoo</head>
+
+<p>JAMES and Henry, who are six and eight years of age respectively, have their own private schoolhouse, built on their father's estate. The hours for recitation and study are the same as those of the public institutions, and the building is fitted up with desks, blackboards, etc., in the regulation manner. The only difference is that when the lesson is one on natural history, books are discarded and the two small boys, with their teacher, hustle over to their own zoo, where everything is provided for optical demonstration. Knowledge gained in this manner is not only more complete than if it came through the medium of books, but far more interesting, and for this reason much more likely to stick.</p>
+
+<p>After school the Getz boys ride the camels, the Arabian horses, and the donkeys. But Henry's favorite steed is a Shetland pony, declared to be the smallest of its kind in the world, which stands only twenty-six inches high and weighs a trifle less than ninety pounds.</p></div1>
+ 
+</body>
+</text>
+ 
+<pb n="Page 17" xml:id="ew.issue.19160403.p017" />
+
+<text type="advertisement" xml:id="wagon.19160403">
+<body>
+ 
+<figure n="advertisement">
+<head>Boys- How Would You Like to Own this Speedy Auto-Wheel Coaster Wagon?</head>
+<p></p>
+<figDesc>Advertisement for Buffalo Shed Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Law Study at Home</head>
+<p></p>
+<figDesc>LaSalle Extension University</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Boys Like This Make Money Selling Every Week</head>
+<p></p>
+<figDesc>Every Week Sales Department</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising for Agents Wanted, Corporations, Special Opportunities, Female Help Wanted, and Publishers.</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+ 
+<text type="fiction" xml:id="tilden.19160403.jump">
+<body>
+            
+<head type="main">The Man in the Stone House</head>
+<p rend="jumpline"><ref target="tilden.19160403">Continued from page 7</ref></p>
+ 
+<cb n="1" />
+
+<p>thing Ezra Mudge wouldn't want to have known, or I miss my guess."</p>
+
+<p>Ezra Mudge's house was about half a mile from the post-office. Once a day, unfailingly, he went down to the village. He stopped at the box factory and cast a few shrewd glances at the workers and the work. Then he went for his mail.</p>
+
+<p>Everybody greeted him with deference and respect; nobody greeted him with warmth&#8212;a fact which did not seem to affect the aged financier's tranquillity. When he went into the post-office, loafers began to disperse. If you had asked them whether they were afraid of Ezra Mudge, they would have profanely denied it; but, somehow, they drifted away when he arrived.</p>
+
+<p>If you needed money and had property, you might summon courage enough to go to Ezra with the proposition of a mortgage. You would then discover that you did not know all there was to be known about your own property. You would hear one of two decrees, which were final&#8212;so final that no man in sound mind had ever been known to add a word to them: "I guess I can" or "I guess not."</p>
+
+<p>You knew, when you got the money, that you would be treated with appalling justness. If you met your payment, you looked Ezra in the eye and said, "I've come to take up that mortgage, Mr. Mudge," and you said to yourself, "You haven't caught me this time, you old weasel." Equally, in case of default, you knew what to expect. In that case you went with bitterness in your heart over to the blacksmith shop, the clearing-house of Boxton's troubles, and wretchedly placed your name upon the roster of the Anti-Mudge Club. This entitled you to the free use of the expression, "meanest man in Boxton."</p>
+
+<p>JOEL TIBB'S sententious warning, "When you go up to see Ezra&#8212;that'll be the second part," had left a sinister impression on Walter Eadbrook's mind. And yet, who was Ezra Mudge, that he should frighten a decent young man who had a good business and owed not a dollar to any man?</p>
+
+<p>These matters were in Walter Eadbrook's mind as he left Henry in charge of the store the following afternoon and walked slowly up the road toward the Mudge mansion.</p>
+
+<p>The big stone house was situated on a little knoll overlooking the river. Along the base of the hill, on the roadside, was a four-foot stone wall made of hewn stone. Surmounting it was a hedge of evergreen, closely knit. It was kept nicely trimmed at no expense to Ezra. He did it himself.</p>
+
+<p>When he arrived at the near end of the hedge, the young man stopped and looked up at the house. It certainly appeared cold and uninviting. A curl of blue-white smoke coming from the big central chimney said that it was inhabited; otherwise it looked deserted.</p>
+
+<p>A sleigh came singing along the hard snow toward him. When it came near enough, the occupant proved to be Joel Tibb. They recognized each other simultaneously, and Joel cried, "Jump in!"</p>
+
+<p>Eadbrook looked up at the stone house once more; then he jumped into the sleigh. In another moment he was speeding back to the village.</p>
+
+<p>"Seen him?" asked Joel.</p>
+
+<p>"No," replied Eadbrook, reddening. "I was just on my way&#8212;"</p>
+
+<p>Joel stopped the horse with a jerk.</p>
+
+<p>"Oh! why didn't you say so? I thought you'd probably just come out. I'll turn round and take you back&#8212;"</p>
+
+<p>"No, never mind, Joel; I guess I'll go down with you," replied the young man.</p>
+
+<p>Nothing more was said till they stopped in front of the Popular Cash Grocery. Then Joel remarked:</p>
+ 
+<cb n="2" />
+
+<p>"I don't want to interfere with your business, Walter. But if I could make any suggestion, it would be this: don't be in a hurry. When Mr. Starr gets here, things will be different. Once we start things to moving, Mudge'll fall in line. When he sees his land going up in value, and business booming, he'll sing a different tune. If there's any good nature in him, it'll come out then. That'll be your chance, don't you think?"</p>
+
+<p>"By George, I believe you're right," replied the young man, with a sigh of relief.</p>
+
+<p>WHEN the three forty-one pulled into Boxton station next afternoon, a number of people got off. But it seemed as if only one man was getting off, and that man was J. Bradlee Starr. The conductor shook hands with him and bade him good-by. The brakeman called, "Good luck, Mr. Starr!" Numerous faces at the windows expressed a genuine feeling of loss. Then the train itself drew reluctantly out of the station, and a committee of three took charge of Boxton's visitor.</p>
+
+<p>Joel Tibb, Walter Eadbrook, and Henry Treadway surrounded Mr. Starr, shook his hand fervently, and moved with him toward a waiting carriage.</p>
+
+<p>"Well, I'm here!" cried Mr. Starr. "Ye gods, what a beautiful country! This beats anything I ever saw!"</p>
+
+<p>Messrs. Tibb, Eadbrook, and Treadway looked around at the surrounding landscape with palpable astonishment.</p>
+
+<p>"Perhaps you'd like to go right to the hotel?" suggested Joel Tibb.</p>
+
+<p>"I should say not," was the reply. "I want to see this town before dark. Introduce me to everybody&#8212;man, woman, and child. Ye gods! What hills! What a view from the station here! But the railroad's got to build a decent station.</p>
+
+<p>"We've tried to get them to build a new one," replied Henry Treadway. "But they won't do it."</p>
+
+<p>"Won't they? Just wait till we get at them," was the confident rejoinder.</p>
+
+<p>"Isn't he a wonder?" whispered Tibb to Eadbrook. "Was I right or not?"</p>
+
+<p>Then they drove along. Mr. Starr fired question after question: "Who owns that land there?"</p>
+
+<p>"Ezra Mudge."</p>
+
+<p>"Nice-looking property over here. Whose is it?"</p>
+
+<p>"Ezra Mudge's."</p>
+
+<p>"That's the box factory over yonder, volunteered Mr. Eadbrook. "A good paying property."</p>
+
+<p>"Who owns it?"</p>
+
+<p>"Ezra Mudge."</p>
+
+<p>Mr. Starr turned swiftly upon the committee of three.</p>
+
+<p>"This man Mudge," he said, "is our man. Looks like he conies pretty near owning everything in sight. I can see Mr. Mudge and myself having a little talk right away quick. He must be rich."</p>
+
+<p>"Rich as Crœsus," said Joel Tibb. "And meaner than all get-out."</p>
+
+<p>Mr. Starr sat back luxuriously.</p>
+
+<p>"The meaner the better," he philosophized. "We don't want him to hold hands with us; we want him to help boost Boxton. The meaner he is, the more money he'll crave. When we show him how to get it&#8212;why, it's a cinch! Gentlemen, out West I've been making something out of nothing. But this is different. You've got a town all ready- made, with real people in it. All it needs is oxygen. Why, I can see it grow&#8212;I can feel it grow! Who lives in that stone house up there on the hill?"</p>
+
+<p>"Ezra Mudge."</p>
+
+<p>"Mudge," repeated Mr. Starr. "Mudge again. I begin to like the name. It sounds like buried money. Introduce me to Mudge."</p>
+
+<p>The committee had bespoken supper at the Commercial Hotel. The four men
+
+<note place="bottom-margin" type="Copyright">Copyright, 1916, Every Week Corporation: John H. Hawley. President; J. F. Bresnahan, Vice-President; Bruce Barton, Secretary; R. M. Donaldson, Treasurer; 95 Madison Avenue, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada. S1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y , under the Act of March 3, 1879.</note>
+ 
+<figure n="advertisement">
+<head>Fly Poison Kills More Children Than All Other Poisons Combined. For Safety's Sake, Use Tanglefoot.</head>
+<p></p>
+<figDesc>Advertisement for IO. &amp; W. Thum Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"Si Fragrant, Si Francais." "So Fragrant, so French." Djer-Kiss.</head>
+<p></p>
+<figDesc>Alfred H. Smith Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Try Me: Rapid Fireless Cooker</head>
+<p></p>
+<figDesc>William Campbell Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Become A Nurse</head>
+<p></p>
+<figDesc>The Chautauqua School of Nursing</figDesc>
+</figure>
+ 
+<pb n="Page 18" xml:id="ew.issue.19160403.p018" />
+ 
+<figure n="advertisement">
+<head>$175: 3 Years to Pay for the Sweet 'Toned Meister Piano</head>
+<p></p>
+<figDesc>Rothschild &amp; Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>White Rose Glycerine Soap</head>
+<p></p>
+<figDesc>Mülhens &amp; Kropff</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"Bow Legs and Knock Knees" Unsightly</head>
+<p></p>
+<figDesc>Perfect Sales Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>We Want Men</head>
+<p></p>
+<figDesc>Every Week Circulation Department</figDesc>
+</figure>
+
+<cb n="1" />
+
+came in cold, and the big crackling fire in the fireplace of the office was a cheerful salutation. Clint Weatherbee, the proprietor, a sandy-mustached mountain of a man,&#8212;six feet four in his stockings, as he liked to tell inquirers,&#8212;greeted them in an affable roaring voice that seemed to shake the walls.</p>
+
+<p>Mrs. Weatherbee was the cook, and her prowess in the kitchen was notorious. Mr. Starr was placed behind a battery of dishes that represented what Mrs. Weatherbee could do when she tried. There was a plate of oyster patties, of which the patties were so flaky, gauzelike, and ethereal that only the weight of the oysters kept them on the table. There was a fried chicken that had not lived in vain. There were hot biscuits, and in the fluffy interior of each of them a deft hand had placed a little pat of superlative creamery butter. There were other things&#8212;but Mr. Starr finally pushed his chair back from the table and held up his hands in self-defense.</p>
+
+<p>"I mustn't die," he said, "till I see Mudge. This hotel is the Delmonico's of Vermont. We'll make it so famous that you'll have to build an addition, Weatherbee. Every automobile that crosses the State line will make a straight course for Boxton."</p>
+
+<p>Mr. Clint Weatherbee replied with a gratified roar. Mrs. Weatherbee was brought out of the kitchen, confused and reluctant, to receive congratulations. The atmosphere was surcharged with optimism.</p>
+
+<p>Then Mr. Starr sat back and returned to the important matter. He said: "Mudge is our oyster, gentlemen. We must open Mudge."</p>
+
+<p>"You better get an ax," suggested Mr. Weatherbee, fortissimo.</p>
+
+<p>Starr laughed. "We'll see. I'm going to open Mudge before I go to bed tonight. Lead me to him."</p>
+
+<p>TWENTY minutes afterward four men were climbing the stone steps that led to Ezra Mudge's door.</p>
+
+<p>There were two lighted rooms in the house. One of them was on the lower floor. That would be the sitting-room. The other was directly overhead, and Walter Eadbrook's pulse quickened as he looked up and saw, against the lowered curtain, a little fluttering shadow moving to and fro.</p>
+
+<p>Aunt Lyddy Mudge came to the door. The arrival of four men at that time of the day was obviously an amazing and disturbing incident to her. But in her small, pleasant voice she asked them to come in; Mr. Mudge was at home.</p>
+
+<p>If Ezra Mudge was surprised at the visit, his immobile, sharp old face did not reveal the fact. He half rose from his chair, and then settled back with his long fingers clasped over his stomach. Aunt Lyddy turned the lamp-wick up a trifle, and withdrew.</p>
+
+<p>There was a moment of awkward silence. Each of the committee of three was waiting for the others. Finally Joel Tibb took up the burden.</p>
+
+<p>"Mr. Starr, Mr. Mudge," he murmured. "Mr. Starr has just come from the West. I&#8212;that is,&#8212;we"</p>
+
+<p>"What can I do for you, Mr. Starr?"</p>
+
+<p>"You get right down to brass tacks, Mr. Mudge," replied the town booster. "I like that. Here's my card."</p>
+
+<p>Ezra Mudge took the card, squinted at it, and then laid it on the table.</p>
+
+<p>"Hm!" he said. "What's the idea?"</p>
+
+<p>"The idea is," explained Starr, "we're going to boost Boxton, Mr. Mudge. We're going to make Boxton bigger, busier, and better. <hi rend="italic">Bigger, busier, better</hi> Boxton! Doesn't that interest you, Mr. Mudge?"</p>
+
+<p>"No," replied Ezra.</p>
+
+<p>"Ah, I see it does," went on the Westerner, as if no reply had been made to his question. "Mr. Mudge, I've come here to put life into a town that ought to do big thingsthat is going to grow like a weed. I've been looking your beautiful country over this afternoon. I never saw such possibilities, never, upon my word! Water-power, railroad, everything put right here waiting for the spirit to move. A year from to-day you'd never know it for the same place. Where there are five 
+ 
+<cb n="2" />
+ 
+people, there'll be twenty. Where there are vacant lots in the village, you'll see prosperous buildings. Every man that owns a foot of land or does a dollar's worth of business in Boxton will grow with it. We're going to boost Boxton! That's what these gentlemen got me here for. That's our business with you, Mr. Mudge."</p>
+
+<p>"What's <hi rend="italic">your</hi> game? What do <hi rend="italic">you</hi> get out of it?" asked Ezra, fixing his gray eyes on the stranger with refrigerating intent.</p>
+
+<p>"A businesslike question!" Starr flashed back amiably. "<hi rend="italic">That's</hi> business. I like it. I'll give you a businesslike answer. Boosting is my game, Mr. Mudge. Mr. Tibb, here, can tell you what I've done in that line out in my State. I usually work on a fixed salary basis. Sometimes I get a percentage on all new capital invested. I always get what's coming to me, and there's never been a kick yet. But this case is a little out of the ordinary. I'm just breaking into the East. Here's where the big chances are. I'm willing to take this job on a basis of actual expenses, for the reputation I'll get out of it. That's fair, isn't it?"</p>
+
+<p>Starr turned to the committee as he asked the question. They nodded gravely.</p>
+
+<p>"Well," said Ezra, with a show of impatience, "what's it got to do with me?"</p>
+
+<p>"Everything," replied Starr, warming up to the situation. "As I understand it, there's one man that stands to make more money out of the boost than anybody else. That's you. You're a big property-owner. Property values will go 'way up. You've got money to put to work. Business will boom. We'll get new industries, new people, new life. All that means more money in circulation. It means more money for you. That's plain, isn't it? But we can't start on nothing. We've got to have money to work on, for advertising especially. We want every business man in town to put up every cent he can spare for the work. And now," Starr concluded, taking a long sheet of paper from his pocket, "we get right down to brass tacks. You're the man to start the ball rolling. Your name on this paper, against a good round sum, will do the business. Make it real money, Mr. Mudge! Remember, it all comes back with a lot of company. What do you say?"</p>
+
+<p>EZRA MUDGE did not reach for the proffered paper. He merely replied, "I guess not," and pulled his lean body out of the chair. Then he picked up the business card of Mr. Starr and handed it back to that surprised person.</p>
+
+<p>"Much obliged for calling," he added. "Good night."</p>
+
+<p>The three members of the committee rose mechanically, hats in hand. But Starr was undisturbed.</p>
+
+<p>"Wait a minute," he commanded. "Mr. Mudge is going to talk it over with us."</p>
+
+<p>"Oh, no, you needn't wait," countermanded Ezra. "<hi rend="italic">You</hi> got my idea, Joel. Good night."</p>
+
+<p>"Wait!" cried Starr, "Mr. Mudge, perhaps I didn't make it plain enough to you what we want to do. Now, let me"</p>
+
+<p>"You made it plain enough," was the acrid reply. "You want to come into Boxton and turn everything upside down, and make people bigger fools than they are now. And you want me to pay for it. I guess not. Good night."</p>
+
+<p>The color had come into Starr's face. He raised a hand that trembled.</p>
+
+<p>"I'm not used to this kind of a reception," were his quiet words. "It isn't fair to insinuate that I'm not on the level. I don't know how your manner strikes your own folks, Mr. Mudge, but to a man from my part of the country it seems damned unfriendly, to say the least. But I'm here on business, and feelings don't count. Don't you think we'd better make an appointment?"</p>
+
+<p>"I'm going to bed," said Ezra, suddenly turning down the light until the room was almost dark. "I
+                        said 'good night' two or three times, and I call that enough."</p>
+
+<p>"Just a minute, Mr. Mudge, and we'll get out," cried Starr. "I give it up. I won't bother you again. But Boxton is going to be boosted, and don't you forget that. I see it's going to be a fight between 
+ 
+
+<cb n="3" />
+ 
+you and me. All right. Fight it is, Mr. Mudge. My brains against yours. Good night."</p>
+
+<p>The four went silently down the steps, and no word was spoken till they were seated in the carriage. Then Starr laughed and remarked:</p>
+
+<p>"Our friend Weatherbee was right. We needed an ax for that oyster."</p>
+
+<p>Walter Eadbrook was silent. He was looking back up at the dark upper story of the house. He had, by virtue of his association with Starr, fallen under Ezra Mudge's positive dislike.</p>
+
+<p>The booster's hearty voice roused him.</p>
+
+<p>"To-morrow we start the whirlwind campaign," Starr was saying. "We've got to work as we never worked before. We've got the start on that old pessimist up there, because we know now just where he stands. And believe me, gentlemen, we'll show him a few things, if your townspeople have got any nerve at all."</p>
+
+<p>THE impudence of Starr's position in declaring war on the richest man in Boxton on the very day of his arrival from an unknown country, was colossal. And it was exactly the prodigiousness, the overwhelmingness of it, that opened the only possible road to success. By ten o'clock several tradesmen had of their own accord gone to the Commercial Hotel and declared themselves in favor of the boosting campaign.</p>
+
+<p>Walter Eadbrook came down to his shoe store half an hour late. He had had a bad night. He was in the worst of humors.</p>
+
+<p>The telephone rang. Eadbrook went over, snatched the receiver from the hook, and shouted impatiently, "Well?"</p>
+
+<p>Then his whole manner changed.</p>
+
+<p>"Oh, excuse me," he apologized. "No, I'm not feeling very well. Wants to see me? At once? Of course I'll come right up. I'll start right away."</p>
+
+<p>Eadbrook turned away from the telephone with a dazed expression on his face. Mrs. Mudge had told him that Ezra Mudge wished him to come and see him as soon as possible.</p>
+
+<p>In fifteen minutes Eadbrook was sitting opposite Ezra Mudge, wondering whether the beating of his heart was audible.</p>
+
+<p>"Ye made pretty good time, young man," commented Ezra. "Somebody give you a lift?"</p>
+
+<p>"No; I hoofed it," replied Eadbrook.</p>
+
+<p>Ezra stroked his chin beard reflectively before he spoke again. Then he said:</p>
+
+<p>"I knew your father well, Walter. He was an honest man. He was a rarity in Boxton."</p>
+
+<p>Eadbrook, for lack of any reply, murmured a vague "Thank you." He waited for some reference to the night before; but Ezra seemed to have forgotten it. He stroked his beard some more, and then went on, in a voice from which he eliminated much of its usual harshness:</p>
+
+<p>"What ye got on your mind, Walter?"</p>
+
+<p>"About what, Mr. Mudge?"</p>
+
+<p>"The girl said something to her ma, and her ma said something to me," explained the old man, coming to the point.</p>
+
+<p>Eadbrook's tongue seemed to attach itself, at this important moment, to the roof of his mouth. He could not utter a word.</p>
+
+<p>"Ye want to get hitched," continued Ezra, using the good old-fashioned vernacular of Boxton to describe the ceremony of marriage. "Well, I must say, I was a little bit surprised. I didn't really know you'd been sparking the girl. But it's natural enough, I dare say. I don't know as I've got any objections. Ye picked out a mighty fine girl, young man. As fine a girl as ever walked the earth."</p>
+
+<p>Eadbrook was completely overcome.</p>
+
+<p>"Ye seem to have good prospects, went on the old man. "As far as I know you're a good, upright young man, 'tending strictly to business, and not gallivanting round like most of the young idiots I see downtown. Why didn't ye come to me about it?" he asked" suddenly.</p>
+
+<p>"I&#8212;was going to," replied Eadbrook</p>
+
+<p>"Of course we don't like to think of her going away, Walter," said Ezra, whose tone had now become amazingly mellow "It'll leave two old people alone in the house here. But then, you don't care anything about that, and I don't expect
+
+<pb n="Page 19" xml:id="ew.issue.19160403.p019"/>
+    
+<cb n="2"/>
+    
+ye to. That's natural, too. Do ye love the girl?"</p>
+    
+<p>"I do," replied Eadbrook, with the firmness of renewing courage.</p>
+    
+<p>"Good!" was the verdict. "Ye spoke up like a man. I like it."</p>
+    
+<p>He leaned toward the younger man.</p>
+    
+<p>"Listen," he said. "Ye seem to have some sense. I'm getting to be an old man. I've got a lot of fight left in me yet," he added, shaking his long arm; "but I'm getting old, and I can't deny it. The time'll come when I can't get around so spry as I do now. I'll need a bit of help, I suppose,&#8212;somebody to stand with me,&#8212;in case of trouble. I've had my eye on you since you was in the Academy. I think you and me can make a go of it. What do you say to that?"</p>
+    
+<p>Eadbrook made no reply. Ezra tapped his lean fingers on the young man's knee.</p>
+    
+<p>"They think," he exclaimed, "that they can come into Boxton and do as they please! Joel Tibb's been looking for a chance to hurt me these last ten years. Treadway hates me too; but he's never had the courage to come out in the open. They've got hold of this man Starr ,and they think they're going to turn things upside down, and spend the taxpayers' money for folderols, and go sky-hooting around in automobiles, and drive decent, quiet folks out of their senses. But they won't do it!" Ezra's voice suddenly betrayed all the anger that was boiling within him. "They won't do it! We'll see who's got the power here! <hi rend="italic">You've</hi> got too much sense to let that crowd drag you down with them. <hi rend="italic">You</hi> stand with me, Walter. Louise, she'll stand with us, and we'll beat them out of their boots. You've got everything to lose by letting that crowd run ye."</p>
+    
+<p>THE mask was off! Eadbrook saw the point with desperate clarity. This was what the old man had called him for! He was going to strike at Starr and Tibb and Treadway through one of their own men. It was not, then, because Ezra Mudge loved Eadbrook more, but because he loved the other men less, that Louise was being held out as a reward for desertion.</p>  
+    
+<p>For just a fleeting moment Eadbrook felt himself wavering. He knew that the old man would be as good as his word. He would perhaps take him into actual partnership. It meant money&#8212;more
+    
+<cb n="2"/>
+    
+money, in the end ,then Eadbrook could ever hope to make with his shoe business.</p>
+    
+<p>But Eadbrook, with all his conventionality and seriousness, which rendered him a bit ridiculous at times, had been trained in another school than that. His sense of honor and of justice revolted against the snare that had been laid for him.</p>
+    
+<p>"It isn't far, Mr. Mudge!" cried Eadbrook. "You've no right to use Louise in a bargain like that. I can't believe she'd stand  for being bought and sold. It isn't fair. I couldn't do it. You wouldn't have any respect for me if I did."</p>
+    
+<p>HE waited for the outburst of passion that he felt would follow. But Ezra leaned back quietly, and his square mouth compressed into almost a smile.</p>
+    
+<p>"Fair?" repeated Ezra. "Fair? Who's going to be the judge of what is fair? I haven't offered Louise as a bribe. Louise will do as she think's best. I wouldn't stand in her way&#8212;not one jot or tittle. Only, it wouldn't be unnatural if the girl took the advice of an old man in a matter like this, would it? I wouldn't see her throw herself away without saying a word. Would I? Just think it over.</p>
+    
+<p>"But you want me to do a cowardly, dastardly thing," persisted Eadbrook. "I've been one of the prime movers in getting Starr here. Joel Tibb's been a good friend to me, and you're asking me to stab him in the back. No, Mr. Mudge. No! I wouldn't do it, not if it cost me&#8212;not if it cost me&#8212;"</p>
+    
+<p>Eadbrook's voice faltered.</p>
+    
+<p>"You're excited now, young man," was the placid rejoinder. "Never let yourself get excited, Walter. It don't pay. Let's talk about something else. We thought you might want to say to dinner with us."</p>
+    
+<p>Eadbrook hesitated before he accepted the invitation. His impulse was to flee the spot. He knew that Louise would be at the table; that her youth and charm and her pure affection were going to be used&#8212;without her knowledge&#8212;against his very manhood. And yet, the hope came to him that he could somehow meet the situation.</p>
+    
+<p>"Thank you," he said; "I'll stay, if you wish me to."</p>
+    
+<p>Promptly at twelve Aunt Lyddy came into the room and announced that dinner was ready. She gave Eadbrook a queer,
+
+<cb n="3"/>
+
+timid glance of maternal concern as he passed her. In that glance there was a word of meaning, if Eadbrook had been able to read it. Its message was, without a doubt: "I am your friend. I will do what I can for you. But please do as my husband wants you to. That is what <hi rend="italic">I</hi> have always done, and <hi rend="italic">I</hi> have never had any trouble."</p>
+    
+<p>"Come, Louise!" called the old man, in what was meant to be a bantering vein. "Here's somebody you want to see. We've been talking business; but I guess he'd rather talk with you than with me."</p>
+    
+<p>The girl came from the kitchen at that moment, carrying a steaming dish in each hand. Never had she seemed quite so adorable to Eadbrook. She wore the simplest of dresses, with a clean starched apron, and the little pink flushes in her cheeks from the heat of the cooking gave her a touch of busied housewifery that was calculated to appeal to the sober, practical mind of their guest. He murmured an embarrassed salutation, and they all sat down.</p>
+    
+<p>The talk was a failure. Ezra, in spite of his advanced years, had a remarkable appetite (for <hi rend="italic">plain</hi> food, as he insisted), and busied himself with the dinner almost to the exclusion of table conversation. Eadbrook and Louise looked at each other shyly and found little to be said. And so, curiously enough, it was Aunt Lyddy who was drawn on to furnish conversation.</p>
+    
+<p>AFTER the meal was over and Ezra had retired to his room for his after-dinner nap, Aunt Lyddy discreetly effaced herself, with the idea of leaving the young people together. As he and Louise went into the sitting room, Eadbrook could scarcely repress his resentment. Only the recollection that the fine girl at his side was entirely innocent of the plot dammed back the torrent of his feelings.</p>
+    
+<p>They sat down opposite each other and regarded each other intently for half a minute without a word. Then she asked, with a twinkle in her eyes: "Been using a pulley and tackle lately, Walter?"</p>
+    
+<p>For reply he rose and grasped her hands.</p>
+    
+<p>"It's no time for joking, Louise," he said, in more his accustomed seriousness. "I'm&#8212;I'm in trouble, Louise. I don't know what's going to happen."</p>
+       
+<p rend="jumpline"><ref target="tilman.19160410">To be continued next week</ref></p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="atwood.19160403">
+<body>
+    
+<head type="main">Going into Business for Yourself</head>
+<byline>By <persName type="author" key="Atwood, Albert W.">ALBERT W. ATWOOD</persName></byline>
+
+<cb n="1"/>
+    
+<p>I AM thirty-three years old, have a wife and four children. I have saved $1500. It is all the fortune I have. I know a little about shoemaking, as I am an edgemaker in Blank [naming a well known shoe manufacturing center], but I don't know the business end of it. There are two men in the youths' shoe business, for about three years. They have nearly gone to the wall twice, but now they own their business, worth about $3000. They do a business of 5 dozens of shoes a day, a clear profit of 25 cents a pair, making a total of $15 a day. Now they have orders to make 10 dozens or more a day. One of the partners has to sell out, and I was asked to buy him out for $1500. The man who wants me to go in with him is honest as far as I know, and I have known him for a good many years. It's an established business, but of course there may be loopholes where I could lose all the money. I have not the least knowledge of business, but of course I am young yet, and I feel I can risk what I have in some investment that looks good; and if I lose&#8212;well, I could go back to work at the bench again. But with my family to support, it requires a lot of courage.</p>
+    
+<p>THERE is no more splendid ambition than to be the master of one's own business. The satisfaction of working for oneself instead of for another is worth a certain amount of risk. But, according to the ablest authorities in the shoe trade, such an investment as this young edgemaker proposes is very highly speculative; and the plain fact is that it would not be a good judgment for him to risk all the savings of years to satisfy what is a craving for independence.</p>
+    
+<p>The shoe industry is highly competitive, with some fourteen hundred manufacturing establishments in this country.
+    
+<cb n="2"/>
+    
+There are only a few large manufacturers with ample capital and surplus, intelligent buying and sales departments, and a more or less systematized form of management. Then, there is a much larger number of medium-sized manufacturers, built up by individual business men of ability, and run by them. They are often quite profitable, but their continuance after the death or requirement of the founders is doubtful.</p>
+    
+<p>Finally, there is a still larger number of very small shoe factories scattered all over the East and operated by men who have recently left the ranks of workmen. Little or no capital is employed, and the concerns are run by men with little if any business experience. In times of financial or business depression, or of sudden changes in the leather market, the proprietor of one of these small concerns is likely to be altogether eliminated.</p>
+    
+<p>At present the shoe industry is exceedingly active. It is operating at perhaps 125 per cent. of normal. Most factories can sell more shoes than they are able to produce, and prices are going up.</p>
+
+<p>The pendulum has had an extraordinary swing in scarcely more than a year. The shoe business not long ago passed through a very serious period of depression (note that the small firm referred to "nearly went to the wall twice"). At the beginning of the war the shoe business fell off from 30 to 40 per cent. Thus we are dealing with an industry that fluctuates to a considerable extent, and leading
+
+<cb n="3"/>
+
+authorities fear that in the near future the demand for shoes will slacken.</p>
+    
+<p>This much is certain: If hard times come, the brunt of the loss will be borne by the host of small makers who lack capital, surplus, general business experience, organization, and familiarity with the market.</p>
+    
+<div1><head type="sub">Study and Save</head>
+
+<p>A FIVE dozen shoe factory is much like a rowboat on the ocean. It may go all the way across to England, but chances are poor. Instead of making this all-or-none plunge, I suggest that the edgemaker, after placing several hundred dollars in the strongest savings bank in his town, invest the remainder in a conservative first mortgage, or a high-grade bond, or possibly shares of a local savings and loan association or coöperative society which he knows to be sound.</p>
+    
+<p>Then let him add to his education by taking a night course in business subjects, English, etc., at a local institute or a correspondence school. It would do no harm to consult his superiors as to what subjects to study, and they might be able to recommend educational opportunities he has never heard of. If he persists along this line, and also continues to save, the tow facts taken together would in time recommend him for promotion in any decent industry. And promotion will bring the business experience and confidence that he will need later on to enter business for himself.</p>
+    
+<figure n="advertisement">
+<head>Don't Throw Away Your Worn Tires</head>
+<figDesc>Advertisement for The Colorado Tire and Leather Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>$300 a Month</head>
+<figDesc>Advertisement for Quickedge Sharpener Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Stocks and Bonds on the Partial Payment Plan</head>
+<figDesc>Advertisement for Sheldon, Morgan and Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>4% 5% 6%</head>
+<figDesc>Advertisement for Beyer &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Nevada Mining News Free for Three Months</head>
+<figDesc>Advertisement for Nevada Mining News.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Add or Subtract&#8212;Quick, $2.50</head>
+<figDesc>Advertisement for J. H. Basset &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Typewriters</head>
+<figDesc>Advertisement for Young Typewriter Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Unitarianism</head>
+<figDesc>Advertisement for Associate Department A.</figDesc>
+</figure>   
+    
+</div1>
+</body>
+</text>
+    
+<pb n="Page 20" xml:id="ew.issue.19160403.p020"/>
+    
+<text type="advertisment">
+<body>
+    
+<figure n="advertisement">
+<head>For the Nation's Defense</head>
+<figDesc>Advertisement for The Shredded Wheat Company.</figDesc>
+</figure>    
+        <p></p>
+</body>
+</text>
+</group>
+</text>
+</TEI>
+    

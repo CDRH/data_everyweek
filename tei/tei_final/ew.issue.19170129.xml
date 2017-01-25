@@ -1,0 +1,2639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170129">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, January 29, 1917</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19170129</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">In the original publication digitized for this project, pages 11-14 are collated in the following order: 14, 12, 13, 11. They have been recollated here.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1917-01-29">January 29, 1917</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+ <revisionDesc><change when="2015-06-19"><name>Samantha Greenfield</name> Additional Encoding
+ </change>
+<change when="2009-06-19"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2009"><name>Dan Gomes</name> OCR
+</change>
+<change when="2008"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19170129.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3 &#162;</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Copyright, 1917, By the Crowell Publishing Co.</publisher>
+<pubPlace></pubPlace>
+<docDate>January 15, 1917</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head>In this Issue THE PRINCE ENCHANTED A Love Story By CLARE PEELER</head>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19170129.p002" />
+
+<text type="nonfiction" xml:id="hens.19170129">
+<body>
+
+<head type="main">Making Hens Work Overtime</head>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>JUST when the cost of eggs is mounting highest, just when you could clean up a small fortune if you could only fill your orders&#8212;that is the very moment that the faithful hen selects to go on a long vacation.</p>
+
+<p>Hundreds of plans have been tried to make hens lay in winter. Some of them have actually increased the output of eggs, but usually at a prohibitive cost. Now&#8212;to quote the lawyers&#8212;comes Mr. George G. Newell, of Congress Park, Illinois, a suburb of Chicago, with a plan novel but effective&#8212;supplying an abundance of food and using artificial light to lengthen the working day, so Biddy may work overtime.</p>
+
+<p>The accompanying illustration gives an excellent idea of Mr. Newell's <hi rend="italic">modus operandi</hi>. In the main, his poultry houses are like hundreds of others, with well littered floors, automatic feeders, trap nests, scrupulous cleanliness, ventilating apparatus and the like. In one important respect, however, they are different. Artificial lights (in this case electric lights) are installed, so that the working day may be lengthened at both ends. The illustration also shows beyond a doubt what the hens themselves think of the plan: a more industrious lot could not be found.</p>
+
+<p>In plain American, however, it is "bringing home the bacon" that counts&#8212;in other words, fresh eggs in late fall and winter. And it is on just this point that Mr. Newell is most willing to center attention. Since he is an auditor by profession and an egg producer only for purposes of relaxation, he naturally knows to the fraction of an egg just what the effect of artificial light has been, the number of hen days required to produce an egg, and so on. He has collected an immense amount of data, but the following table tells briefly and effectively the whole story. This "Exhibit A" shows results with practically identical flocks during two winters.</p>
+
+<p>In each case there were about one hundred hens; they were fed the same kinds and amounts of feed; and other conditions were as nearly the same as is humanly possible, with the single exception that in 1914-15 artificial light was used to lengthen the day. The egg production in the "lean" months of the two years tells the story:</p>
+
+<table>
+<row>
+<cell></cell><cell>1913-14<lb/>(No light)</cell><cell>1914-15<lb/>(Light)</cell>
+</row>
+<row>
+<cell>September</cell><cell>&#160;719</cell><cell>1173</cell>
+</row>
+<row>
+<cell>October</cell><cell>&#160;237</cell><cell>1520</cell>
+</row>
+<row>
+<cell>November</cell><cell>&#160;668</cell><cell>1243</cell>
+</row>
+<row>
+<cell>December</cell><cell>1057</cell><cell>1207</cell>
+</row>
+<row>
+<cell>January</cell><cell>&#160;777</cell><cell>1483</cell>
+</row>
+<row>
+<cell></cell><cell>&#8212;&#8212;&#8212;</cell><cell>&#8212;&#8212;&#8212;</cell>
+</row>
+<row>
+<cell>Total (five months)</cell><cell>3458</cell><cell>6626</cell>
+</row>
+</table>
+	
+		                  
+<p>The method of lighting found most convenient and practical in this particular case was the installation of a hundred-candle-power lamp in each house to <choice><orig>pro-
+
+<cb n="2" />
+
+vide</orig><reg>provide</reg></choice> the light in "working" hours, and a two-candle-power lamp to enable the fowls to find the roosts after the larger one is turned off. Some of the more industrious, however, continue even in the dim light. The lights are turned on at six in the morning, and left burning until seven or seven-thirty, depending upon the darkness or the lightness of the morning. In the evening the lights are kept burning until about nine. When they are left on for any reason, the hens continue busily scratching and feeding even as late as midnight.</p>
+
+<p>The increased production is, of course, not all clear profit. Mr. Newell's carefully kept figures show that the extra eggs were sold for $156.10. The extra food cost $29.90. In addition, the wiring of the poultry houses cost $30 and the electric current consumed about $12. It is clear, however, that the artificial light was responsible for a large gain.</p>
+
+<p>At the beginning of the experiment some fear was felt that the artificial light would act as a forcer and reduce the vigor and vitality of the fowls, leading ultimately to decreased egg production. But the hens continued laying throughout the summer, and did not stop even when the next moulting season arrived. The truth seems to be that the short and dark winter days when the fowls are off the roosts only six or seven hours are abnormal, and that in this time the liens can not get food and exercise enough to produce the heat needed, maintain their bodily functions, and produce eggs.</p>
+
+<p>It should be noted that these results are secured under highly unfavorable conditions. For six days each week Mr. Newell leaves home at seven in the morning, and does not return until seven-thirty in the evening, or even later; therefore he is unable to give the flock the close attention needed. The hens are cooped up in small yards, and never allowed to run at large. All the food consumed is purchased, with the exception of table scraps&#8212;and this is a negligible item with a flock of a hundred hens.</p>
+
+<p>Mr. Newell has compiled his data in such form as to show increases, costs, the results with pullets and older hens of various ages, net gains, and so on. This has been put into easily available form for those interested. The results, however, are what count. The owner of chickens who can gather from fifteen to sixty eggs a day from a flock of a hundred hens in December, January, and February needs no better evidence that it pays. Mr. Newell, however, is not content to stop; his ambition is the production of two hundred eggs per year for each hen in a large flock&#8212;and those distributed fairly evenly throughout the year instead of being bunched during the spring and summer months.</p> <closer><signed>Mae M. Telford.</signed></closer>
+
+<note type="editors" rend="italic">"There must be money in the poultry business," said a certain rich man. "Lots of money. I know I've put a lot in, and never took any out." If you have had a similar experience, this article may mean real money to you. It tells how an ordinary suburbanite&#8212;just like you&#8212;by lengthening the winter day for his hens, enabling them to scratch longer and eat more; has tremendously increased his output of eggs at the time of year when eggs are worth most.</note>
+
+</body>
+</text>
+
+<cb n="3" />
+
+<text type="nonfiction" xml:id="barton.19170129">
+<body>
+<head type="main">If You Want to Know How Much You Ought to Get, Find Out How Much You Have to Give</head>
+
+<p>A GREAT word has been added to the vocabulary of Business in recent years.</p>
+
+<p>It is being overworked, as all new words are. We shall doubtless become very tired of it, as we have become tired of "psychology" and "efficiency" and other overworked words.</p>
+
+<p>But the idea the word represents has come to stay.</p>
+
+<p>The word itself is SERVICE.</p>
+
+<p>I was in the office of the general manager of a great corporation recently. The business he manages has departments in almost every large city. It is a business that has unquestionably been of enormous benefit to the people of America, and has&#8212;incidentally&#8212;made millions for its founder.</p>
+
+<p>The general manager read me a letter from the "Old Man." I obtained permission to copy four paragraphs. Here they are. What do you think of them as the confession of faith of a millionaire?</p>
+
+<cit>
+<quote>
+<p>I can honestly say now that I have never worked at the business for profit as the main motive.</p>
+
+<p>My profits have been incidental, though absolutely necessary.</p>
+
+<p>I have always conducted my business solely for the purpose of what I considered "public service."</p>
+
+<p>Had I conducted my business for the purpose of making profit, I might have made as much money as I have made, although I doubt it. I am sure that I would not have made any more. <hi rend="italic">I  am pretty sure that I would not have made a quarter as much.</hi></p> 
+</quote>
+</cit>
+
+<p>I know a man who has grown rich by building and operating three great hotels.</p>
+
+<p>I slept in one of his hotels the other night, and in the morning I dropped into my pocket a copy of his book of instructions to his employees. Here are some quotations from that book:</p>
+
+<cit>
+<quote>
+<p>A Hotel has just one thing to sell.</p>
+
+<p>That one thing is Service.</p>
+
+<p>The Hotel that sells Poor Service is a Poor Hotel.</p>
+
+<p>The Hotel that sells Good Service is a Good Hotel.</p>
+
+<p>It is the object of this Hotel to sell its guests the <hi rend="italic">very best service in the world.</hi></p>
+
+<p>The Service of a Hotel is not a thing supplied by any single individual. It is not Special Attention to any one guest.</p>
+
+<p>Hotel Service means the limit of Courteous, Efficient Attention from each Particular Employee to Each Particular Guest.</p>
+
+<p>This is the kind of service the Guest pays for when he pays his bill&#8212;whether it is for $2 or $20 a day. It is the kind of Service he is entitled to, and he <hi rend="italic">need not</hi> and <hi rend="italic">should not</hi> pay <hi rend="italic">any more</hi>.</p>
+</quote>
+</cit>
+
+<p>It is interesting to note how, in the course of time, the practical men of the world finally come around to the point of view of the world's dreamers.</p>
+
+<p>Napoleon, the <hi rend="italic">practical man</hi>, refused to see the <hi rend="italic">dreamer</hi> Fulton, with his absurd claim that he could make a boat run against tide and wind.</p>
+
+<p>But to-day <hi rend="italic">all</hi> practical men pay tacit tribute to that dreamer.</p>
+
+<p>For two thousand years practical men have looked with a superior sort of tolerance on the teachings of a certain Carpenter of Nazareth. What He said was very good, of course, but <hi rend="italic">utterly impractical.</hi></p>
+
+<p>Yet the Service Idea, which is the big new Idea in modern business, was first discovered and announced by that Carpenter:</p>
+
+<cit>
+<quote>
+<p>Whosoever will be great among you, let him be your minister; and whosoever will be chief among you, let him be your servant.</p>
+</quote>
+</cit>
+
+<p>It's the one solid, practical rule for building a business or a business career.</p>
+
+<p>If you want to know how far you will go in business, take account of stock: find out how much service you are equipped to perform.</p>
+
+<p>If you want to figure what you are likely to get, first figure what you have to give.</p>
+
+<closer>
+<signed>Bruce Barton, Editor.</signed>
+</closer>
+
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19170129.p003" />
+
+<text type="advertisement" xml:id="hartman.19170129">
+<body>
+
+<figure n="advertisement">
+<head>No Money In Advance</head>
+<p></p>
+<figDesc>Advertisement for Hartman Furniture &amp; Carpet Company</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19170129.p004" />
+
+<text type="nonfiction" xml:id="france.19170129">
+<body>
+<!-- 
+<figure n="illustration">
+<head></head>
+<ab type="credit">Painted for Every Week by Ralph P. Coleman.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+ -->
+<head type="main">SOMEWHERE IN FRANCE</head>
+
+<p>"EVERY man has two countries&#8212;his own and France." In no other country in the world has the burden of the war fallen so heavily on the individual as in France. In Germany and England it has cost one half the average income, but the Frenchman has paid fully three fifths. Last year France spent $8,000,000 a day&#8212;now it is $18,000,000.  In the first year and a half of fighting, out of her army of two million men more than eight hundred thousand fell. Now there are two million men on the line and sixteen hundred thousand in the depots. Every village for thirty miles back of the trenches is stuffed with reserves: France has spent herself unsparingly, yet her resources are still hardly scratched.</p>
+
+<p>From the first her war machine moved without a hitch. The world had thought her busy with German opera, Russian ballet, and South American dancing. Suddenly she amazed the world by showing herself the most intrinsically united nation in history. Since the Isle of France absorbed Languedoc, Burgundy, and Normandy, France has kept its national character.  There might be Huguenots and Catholics; but the worst insult each had for the other was "bad Frenchman." If in the French Revolution prisoners were executed without a hearing, it was for <hi rend="italic">la Patrie</hi>. Because Joan of Arc appealed to this spirit, she recovered half of France from the enemy. Because of it Napoleon won for France with an army made up of a dozen different nations.</p>
+
+<p>Napoleon and Joan of Arc are two of the three miracles of French history. The third is the temper with which the French people received this war, and drove back the German army from within eight miles of Paris in the battle of the Marne. Well General Joffre knew his Frenchmen when he said to them then:</p>
+
+<p>"Now that the battle begins upon which the fate of the country depends, all must remember this: at all costs, we must keep the ground won, and die rather than yield. In this juncture there can be no mercy for any shortcomings."</p>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19170129.p005" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 4, No. 5<lb/>
+January 29, 1917<lb/>
+
+Every Week<lb/>
+
+$1.00 per Year<lb/>
+3 Cents a Copy</p>
+</figure>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="shepherd.19170129">
+<body>
+<head type="main">NOBODY IN EUROPE LOVES US</head>
+<byline>By <persName type="author" key="#Shepherd, William G.">WILLIAM G SHEPHERD</persName></byline>
+
+<byline>Decoration by <persName type="illustrator" key="#Flagg, James Montgomery">James Montgomery Flagg</persName></byline>
+
+<div1>
+<p>NOBODY in Europe loves us.</p>
+
+<p>It is well for us Americans to keep this fact in mind. We may have whatever leanings we will in the Great War. Our hearts may go out as the racial blood in us directs them; but, in all our play of sympathy, we will not err if we keep the fact before us that, no matter whom we love in Europe,&#8212;and no matter how hard we love them,&#8212;nobody in Europe, nationally speaking, loves us. Our love is welcome, but one-sided.</p>
+
+<p>It will be necessary to make clear one fact before I proceed with the exposition of this sad news: In all countries in Europe the people and the government are two different things&#8212;separate and distinct units. In France and England this line of cleavage between the people and the government is less marked than in any other countries across the water; but, in a general way, and especially in war-time, when militarism is in control, the cleavage is definite. The people of Germany are one thing, the government another; the people of England one, the government another.</p>
+
+<p>When I say, therefore, that England does not love us, I mean that the massed opinion of the people of England has found, during this war, nothing lovable in us. The average man, the man on the street, is against us; or, at least, he entertains such opinions of us that could be turned actively against us very easily. The same may be said of every other nation in Europe, on whichever side it is ranged in the Great War.</p>
+
+<p>This lack of love for us, as Americans&#8212;for us, as a mass of individuals, and for our government&#8212;is constantly apparent to an American whose occupation leads
+
+<cb n="2" />
+
+him to Europe these Great War days. The governments of Europe, being accustomed to diplomacy, are able to hide any lack of love they may feel. The people, represented by the individual selected from the mass in any of the warring countries, do not possess that self-control.</p>
+
+<p>At Easter-time, in Germany, when the tension produced by President Wilson's submarine note was at a high-C tautness, Americans remained within their homes. True enough, many of them were busy at the task of arranging their household goods for flight; but those who did not find such preparatory domestic duties pressing down on them discovered, nevertheless, that the confines of their homes and premises or their hotels were more comfortable than the streets, cafes, and restaurants of Berlin.</p>
+</div1>
+
+<div1>
+<head type="sub">When Americans Avoided Berlin Crowds</head>
+
+<p>IT was glad news for Americans when the word went out that all packing operations at the American embassy had come to an abrupt end, and that the packers had begun unpacking; it was news that ended packing operations in some two hundred Americans' homes in Berlin. But, for some days, Americans did not mingle with the crowds in the Berlin streets. And, ever since that experience, German crowds have appeared in a different light to Americans who, during those few days of tension, saw the smoldering of a potentially fierce hatred in the Germans about them.</p>
+
+<p>It is buried in the souls of Germans that their men are being killed by American ammunition.</p>
+
+<cb n="3" />
+
+<p>"Now, frankly," said a German war correspondent to me, in the press headquarters in Galicia, "doesn't it indicate that we Germans have great self-control when we overlook the fact that your country is supplying ammunition to the Allies, and permit you, as an American war correspondent, to come with our armies?"</p>
+
+<p>"But you want the German side of the story told," I argued.</p>
+
+<p>"Yes; but see how much natural antipathy to your country we must overcome to gain that end. Of course I, as a well informed newspaper man, know that you are selling, only a small proportion of their ammunition to the Allies. But I've lost a relative in the war, and how do I know it wasn't a piece of American shrapnel that killed him?"</p>
+
+<p>It is unnecessary to elaborate upon such instances. They seem petty, at this distance; but Americans in Germany know that they are unloved as individuals and that their government is unloved.</p>
+
+<p>I don't mean to say that Americans in Germany are not without friends among the Germans. Every American, I found, has good German friends&#8212;friends who would warn them, in advance, of trouble, and who would help them to get down to the Friedrichstrasse railroad station to catch the last refugee train.</p>
+
+<p>"When you settled that <hi rend="italic">Sussex</hi> thing with Germany last Easter, and when Germany backed down and shook hands with you, the whole thing got under our hides in England," said an English magazine editor to me, not long ago. "We felt pretty good toward you while you were quarreling with Germany; but as soon as you made up and kissed, the whole feeling in England changed in an eye-wink."</p>
+
+<cb n="4" />
+
+<p>He was right, my English friend. He admires America, in part, and is desirous of seeing the relations between the two countries pleasant and smooth. He is a friend who would tip me off in advance if affairs between England and the United States reached a crisis in which Americans would have to flee from London to escape interment. He would disguise me in his English tweeds and his too big low collars, and help me down to the refugee train at Charing Cross station in his motor. But he felt what he said.</p>
+</div1>
+
+<div1>
+<head type="sub">English Disappointed in Us</head>
+
+<p>THE deep truth is that Englishmen are disappointed in us. We are not the United States they thought we were.</p>
+
+<p>There have been some black days in England since the war began&#8212;days when the news was nothing but bad, morning after morning, night after night: with casualty lists growing; big ships going down into the waters with a thousand Englishmen at a crack; the Dardanelles a failure; Kut a rout; Serbia lost; the best blood in England spilt like water; and the Germans always coming on.</p>
+
+<p>I've had English friends say to me, in those days: "Oh, if we could get just one little, little bit of good news! Just a little tiny thing to cheer us up. But it's all black&#8212;all black!"</p>
+
+<p>That was last winter. Englishmen couldn't see why we didn't come to the help of the mother country in those days when it took faith to believe that England would not go down.</p>
+
+<p>That disappointed expectation&#8212;that feeling that the United States did not help the mother country when she seemed to be
+
+<pb n="Page 6" xml:id="ew.issue.19170129.p006" />
+
+
+staggering under the enemy's blows&#8212;is in the heart and mind of every Englishman. The trees aren't planted yet that will make the pulp for the paper on which British historians, as yet unborn, will write and rewrite the story of how the United States failed to do her part in England's need.</p>
+
+<p>No, the English don't love us. They made a mistake in their estimate of us, and, just like people who credit friends with certain imaginary virtues and then hate their friends for not possessing the ascribed merits, they blame us for not being what they thought we were. They thought we were an Anglo-Saxon nation.</p>
+
+<p>At times, in London, it seemed advisable to lay before one's English friends such facts as these: The Anglo-Saxon is holding on to his control in the United States only by the skin of his teeth. There are only three or four cities in Germany with populations larger than the German population of New York. New York contains the largest number of Jews that has ever been gathered together in one center in all the known history of Judaism. There are entire counties in the Southwestern States that are controlled by Mexicans, where English is never spoken. In Minneapolis, where I was a police reporter, I frequently had to take an interpreter with me when I went to cover murder or suicide cases in certain districts of the town, so that I could converse with the Scandinavian policeman on the beat.</p>
+
+<p>When such statements were set forth, one's English friends said: "My word! What a mixture! No wonder you don't sympathize with us." One's German friends, facing the same set of statements, often said: "<hi rend="italic">Ach!</hi> What nationality are you, then, in your country?"</p>
+
+<p>Thus the Englishman who has studied us, and knows us as we are, sees that we are not exactly his blood brothers; and therefore he doesn't love us. And the Englishman who doesn't know the facts, and who still clings to the delusion that we are only a wayward lot of Englishmen who will one day come back into the British fold, is aghast at our perfidy in not rushing to the aid of the motherland when the Empire seemed tottering.</p>
+</div1>
+
+<div1>
+<head type="sub">The French Can Not Forgive Us</head>
+
+<p>THE disappointment of the Englishman is more than duplicated in France. It is excelled in intensity there. The man on the street in Paris&#8212;and, as I discovered, the man in the trench on the French fronts&#8212;can not comprehend how the United States, a sister republic, owing the debt of Lafayette to France, can stand aside and see a monarchy like Germany endeavor to wipe out a republic like France. Frenchmen are fighting for France, of course; but I found among French troops thousands of Frenchmen who believe they are fighting for republicanism against monarchialism. Sons of France who have this viewpoint will never forgive the United States for not having assisted her when the old ghost of the divine right of kings raised its head from
+
+<note type="editors">WE are a great people for fooling ourselves, we Americans. We like to see facts the way we like to see them. But there is no use in trying to fool ourselves about the feelings of the other peoples of the world about us, as the Great War draws to a close. Mr. Shepherd states the plain facts very directly here: and they are facts that every business man, small or great, ought to enter in his calculations. As correspondent of the United Press in Europe Mr. Shepherd had excellent opportunity of meeting the molders of public opinion in every country. We shall have other articles from him.</note>
+
+<cb n="2" />
+
+its century-long sleep and threatened their nation.</p>
+
+<p>Diplomats may deny what I have written; but I am not talking about what governments or foreign State departments think of us as a nation. I am talking about what men on the street and men in the trenches in European countries think of us as a mass of citizens. My statements are based upon personal observation among thousands of men in all the countries at war, with the exception of Russia.</p>
+
+<p>In Italy I found that we are not loved. The Italian man on the street, taking his cue from British opinion,&#8212;and from Italians who come from money-making trips to America with reports that America is a money-mad, unmusical, unpoetic, unromantic place,&#8212;wants us to fight: though whether he feels that we ought to take up arms against Germany when he himself hesitated to declare war against her is problematical.</p>
+
+<p>"You Americans will never understand us Europeans. We live in ideals and forms, while you live in a material world." I had to take this, one evening, from a member of the Serbian Department of State, a man from a land where sanitation is unknown, a land of deadly smells and deadlier plagues. "To us, the mental idea is the whole thing. To you Americans the material thing, the hard object which you can feel, is all you know or understand."</p>
+
+<p>I told him frankly that, if we were short on ideals, we were also short on bad smells. That man didn't love us.</p>
+
+<p>To the Austro-Hungarians we seem to appear so remote geographically, that they take little notice of us. I was, unwillingly, drawn into giving a geography lesson to a Hungarian lieutenant one dull evening in the barracks at Przemysl.</p>
+
+<p>"An American?" he said. "From North or South America?"</p>
+
+<p>"North."</p>
+
+<p>"Ah! Let me see. In North America there is Newfoundland and Alaska and Canada. Do you come from any of those places?"</p>
+
+<p>"I come from the United States," I explained. "It is a strip of country that runs across the middle of North America."</p>
+
+<p>"Yes! Yes! I remember. I could show it to you on a map. I remember, now, just how it looks."</p>
+
+<p>He wasn't sarcastic; he simply was weak on far-away geography. But the point is that he, like millions of other Austro-Hungarians, knows so little about us that a good, active anti-American hate-verein started in Austria-Hungary would gather members rapidly.</p>
+
+<p>The Bulgarians take their cue from the Germans; but their interest in the United States is remote. It is a fact that a Bulgarian officer, who spoke English and said he had once been a deputy sheriff in Kansas, pulled an American flag from an American Red Cross storehouse in Monastir, and said, throwing it to the ground: "Why, this is only good to scare Mexicans with." But he was the only one of the kind I heard of. Scores of men I met, in every army, who had, at one time or another, lived in the United States and made their living there; and always happy smiles came to their faces and pleasant
+
+<cb n="3" />
+
+words to their lips when they told me how kindly the United States had received them and given them of her bounty. I except these when I make the general assertion that nobody in Europe loves us.</p>
+</div1>
+
+<div1>
+<head type="main">"My Own Country First"</head>
+
+<p>JUST to get down to bed-rock in this matter of international love, it will become more important, as time goes on, for Americans to realize that there is little international love, from the viewpoint of the man on the street, between any of the countries in Europe, even between allies.</p>
+
+<p>There's no blind loving going on between the nations in Europe. The allies,
+
+<cb n="4" />
+
+on both sides, have been thrown together by exigencies of world politics; but underneath all the formal expressions of friendship there lies the purpose of every man in every nation to make such sacrifices as he must for his own country.</p>
+
+<p>"My own country first": this is the motto of every man in Europe. And, coming from Europe to the United States, the first thought that forces itself to the fore in my mind is this: We can expect nothing in the way of consideration from any nation in Europe. Nobody loves us there.</p>
+
+<p>It is time for us to begin being Americans. By doing this we can make ourselves respected, even if we are not loved.</p>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="mines.19170129">
+<body>
+<head type="main">When Rhodes Got the Diamond Mines</head>
+
+<cb n="3" />
+
+<p>IN 1870, the year that Cecil Rhodes went out to Natal, the first diamond rush to Kimberley occurred; and Herbert Rhodes, inspired by the reports of the great diamond finds and tired of farming, made his way to the "fields," and from there he wrote to his brother to join him. Cecil did so in 1872.</p>
+
+<p>The brothers worked a claim together at Colesberg Kop until 1874, and it was there, while still much under thirty, that Cecil Rhodes gained control of the greatest diamond mines in the world. Rhodes' former secretary, Gordon Le Sueur, in his new biography, published by McBride, Nast &amp; Company, tells the story.</p>
+
+<p>It was undoubtedly from his brother Herbert, says Le Sueur, that Rhodes first became imbued with his great idea of acquiring the hinterland of the southern colonies for the British Empire. Herbert was strongly inspired by the idea of expansion northward that afterward induced his brother to pass his hand over the map of Africa and say, "Africa all red; that is my dream."</p>
+
+<p>Cecil Rhodes' experiences as a digger were much the same as those of others, but he often referred to the luck that followed him on the fields. He used to tell a story of his giving a picnic on the Val River to a number of friends. The cost of the picnic was £40, and after luncheon he walked down to the river, where, among the pebbles, he picked up a diamond which in Kimberley he sold for just £40.</p>
+
+<p>At Kimberley the first great event of his life evolved&#8212;the amalgamation of the diamond diggings, and the formation in 1888 of the De Beers Consolidated Mines, Ltd., one of the greatest and wealthiest private corporations the world has ever known, the powers granted under its articles of association being practically unlimited. Rhodes had become associated with the late Barnett Isaacs, who called himself Barnato Isaacs Barnato and was familiarly known as "Barney." This man, a Jewish digger,&#8212;half prizefighter and half music-hall artist,&#8212;had a peculiar faculty in one direction: money-making. Gardner Williams said of him in "South Mica" that "one could scarcely have cast him in any society or any place on earth where his nimble wits would not have won him a living."</p>
+
+<p>As a preliminary to amalgamation, Rhodes had formed a small combination of interests, in 1880 called the De Beers Diamond Mining Company, and Gardner Williams records an interesting fact that one of his checks was for £5, drawn by Rhodes as an advance against his salary as secretary.</p> 
+
+<p>Rhodes and Barnato soon came to loggerheads; for Barney was supposed to represent the illicit diamond-buyers in the community. He was, of course, representing various interests, and had formed the Central Diamond Mining Company, and had to be considered in the amalgamation, albeit Rhodes had bought large interests in the companies Barnato represented.</p>
+
+<p>The actual facts of the negotiation with Barney are not of supreme importance,
+
+<cb n="4" />
+
+but the following curious story has been very widely accepted as true:</p>
+
+<p>Rhodes and his people were for a long time unable to come to terms with Barney and his faction. The former had for some time been negotiating with the Rothschilds, with a view to the consolidation of the mines, which he knew to be vital to the existence of the diamond trade. He knew that if individual diggers could sell their diamonds as they pleased, it meant a death-blow to the diamond industry, and that its salvation lay in control of the output being obtained; and, to this end, Brazilian properties were later on acquired by De Beers and closed down. The peculiar market for stones necessitated regulation of the supply, and an amalgamation of the various interests only could prevent the unrestricted sale of diamonds.</p>
+
+<p>Rhodes required some weeks to complete his arrangements for the formation of his great trust, but Barnato had a large stock of diamonds ready sorted for the market (any one who knows anything of diamonds is aware of the number of classes into which the stones have to be sorted for sale). Barnato threatened to place these stones on the market at once unless his terms were agreed to. The placing of these stones before Rhodes' negotiations were completed would have been ruinous, and had to be prevented at any cost.</p>
+
+<p>A meeting was arranged; and the scene must have been picturesque&#8212;with Barney sitting with a complacent smile, master of the situation; Rhodes, with the impatience he never could conceal, stamping in abortive rage; and Alfred Beit nervously twitching with the sway of the pendulum: while, in parcels on sheets of white paper on a side-table, lay the carefully sorted stones, unconscious cause of all the turmoil.</p>
+
+<p>In the midst of a discussion Rhodes rose, and, taking Barnato by the arm, walked him up and down the room, and then to the side-table where the stones lay, and said:</p>
+
+<p>"Barney, have you ever seen a bucketful of diamonds? I never have. I'll tell you what I'll do. If those diamonds will fill a bucket, I'll take them over from you at your own price."</p>
+
+<p>Then, hardly giving him time to answer, Rhodes swept the stones into a bucket standing near. (How the bucket came to be there so opportunely, history does not relate.) The stones did not fill it, however; and Rhodes, with a glance around, strode from the room.</p>
+
+<p>The amalgamation was accomplished, for he had got the delay that he wanted; and, as Barnato turned to face the astonished gaze of those seated there, he only then realized that he was no longer a factor in the negotiations, as the resorting of his diamonds for the market meant a matter of weeks.</p>
+
+<p>Whether the story is true or not, after an all-night sitting terms were arrived at, and the interests of the Central Diamond Mining Company were bought for De Beers for £5,338,650&#8212;more than twenty-five million dollars.</p>
+
+</body>
+</text>
+
+<pb n="Page 7" xml:id="ew.issue.19170129.p007" />
+
+<text type="fiction" xml:id="peeler.19170129">
+<body>
+<!-- 
+<figure n="illustration">
+<head></head>
+<p>"'To insult me like that,' she said, 'and then say that he loves me.'"</p>
+<figDesc></figDesc>
+</figure>
+ -->
+
+<head type="main">The Prince Enchanted</head>
+
+<byline>By <persName type="author" key="#Peeler, Clare">CLARE PEELER</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Snapp, Frank">Frank Snapp</persName></byline>
+
+<p>"WOMEN are queer," Mr. Alston remarked, thoughtfully inspecting a nick in his favorite golf ball.</p>
+
+<p>"At golf, do you mean?" I asked.</p>
+
+<p>We were sitting on the veranda rail of the Theanoguen Club at Lake Placid, after our daily eighteen-hole round. It was one of those golden, sharp mornings the Adirondacks offer you sometimes. The links had been crowded with players, and I spoke feelingly.</p>
+
+<p>"Not necessarily," Alston said absently, putting his ball back in the bag. "Say, I must have topped my shot like the devil to make that nick!"</p>
+
+<p>"You were thinking of some special instance, though," I hinted, hoping for one of his stories.</p>
+
+<p>He put down the bag and turned his keen, good-natured glance full on me.</p>
+
+<p>"I was thinking of two, if you want to know," he said. "One was funny."</p>
+
+<p>"Tell that first," I urged.</p>
+
+<p>"Oh, it was nothing much," he responded. "That bunch on the links brought it to my mind, though&#8212;and the other story too, for that matter.</p>
+
+<p>"T WAS thinking of a little Englishwoman I met, just after the war broke out, in the trolley car that runs from Thun to Interlaken. It was during the first days of the Swiss mobilizing, and she was raising merry Gehenna because she'd bought a sleeper and a diner reservation clear through to Calais, and now Cook's had gone and canceled it on her. I tried to explain to her that the Swiss needed the trains for their troops. Nothing doing. 'Quite so,' she says; 'but they'd no right to make me lose my reservations,' she says.</p>
+
+<p>"Well, sir, I met that same woman three weeks and a half later, standing in line in the broiling sun outside the Geneva station, with the rest of the English waiting for their special train, that was starting in three hours' time. She was all dressed up like a broken arm in travelers' togs, with one of those packs on her back that they wear in Europe on walking tours. She looked like she was starting to explore the interior of East Africa&#8212;and she was as happy as a clam. I began sort of condoling with her,&#8212;the American
+
+<cb n="2" />
+
+special wasn't leaving for another five hours and I had some extra time myself,&#8212;and, by Jiminy!&#8212;'Oh, well,' she says, 'It's the fortune of war, now isn't it?' she says."</p>
+
+<p>"That's like a woman," I laughed. "Now how about the other happening?" His face grew more serious.</p>
+
+<p>"That," he observed, "as your beloved Kipling remarks, is another story. But I guess I can outline it to you before lunch."</p>
+
+<p>We pulled our big rockers on to the corner that had the least breeze, lit our cigars, and he began:</p>
+
+<p>DID I ever tell you that our bank had a branch in Vienna for three years? I sauntered over there one time to take a look at things, and got so interested, I stayed on. My two girls were at school in Geneva, my wife took a villa at Coppet, and I used to run over for holidays and such. Mary wanted to be near the girls, and I didn't seem to see her in smart Austrian society, somehow; so we fixed it that way.</p>
+
+<p>That was how I came across the Count von K&#246;nigstein. Bankers in Vienna aren't considered to "belong," exactly; but I was an American, to begin with, and I connected up with the old nobility pretty often. Sometimes the old nobility didn't care about the process&#8212;as, for instance, when we held their notes for large sums that they wanted to wave airily to one side, the way they did their tailors' bills. Then they got up against the good Chicago style of doing things. But we treated them to an absolutely square deal&#8212;which was somewhat of a novelty, perhaps, the Austrians being easy-going in more ways than one. And we got along, on the whole, very well.</p>
+
+<p>I liked the Count, for one thing, because he was what a movie romance would call "the soul of honor." We tested each other in a little financial affair of which I'll spare you the details, but which left us very good friends. He got into the way of dropping into my apartment, very informally, for him; and, while I never hunted him up, I dined with him when he asked me, which was pretty often. Once I took him over to Coppet for a few days to meet Mary.
+
+<cb n="3" />
+
+He was about tickled to death with the honor, as he expressed it, and as it certainly was for one of his bunch. There were one or two little things that made me mighty sorry for the Count, but if he'd been what you might technically describe as a "bad egg" I'd never have taken him there, for all my sympathy.</p>
+
+<p>In most ways, he didn't need pity. He had estates in Galicia and in Bosnia, a house in the Ring in Vienna, a villa in Italy, and a hunting lodge in the Black Forest. He was sticky with money. He belonged to a family that married itself now and again with minor royalties when they found one respectable enough, and he had one of the handsomest faces I ever saw&#8212;sort of fine and clear-cut, you know, with blue eyes that were a wonder. He had those manners that make the plain, every-day American feel like a coal-heaver&#8212;until he recollects himself; and yet, he was a good sport.</p>
+
+<p>But he was a hunchback, poor devil. Also he was passionately in love with Eliane von Andrassy.</p>
+
+<p>Exactly. <hi rend="italic">The</hi> soprano. And, as you have probably also heard, the most beautiful woman in Vienna (or out of it) at that time.</p>
+
+<p>If either of those two had been the ordinary specimen of their kind, the answer would have been easy. But he was what I have described, and she&#8212; Now, I'm not pulling any press-agent stuff. It's absolutely straight goods that she belonged to a noble family that disowned her when she went on the opera stage. You know, a great city, where about four thousand people live and the rest are allowed to exist, provided they behave themselves, can be about as provincial as a small country town, and as gossipy. Vienna society had known Eliane all of her twenty-nine years. They thought she was half baked. She ought to have married the first rich man of her class that asked her, like any other decent girl, they argued, instead of allying herself with a profession that they considered existed chiefly to provide candidates for morganatic marriages.</p>
+
+<p>But Eliane von Andrassy thought differently. She had a glorious voice, and her name stood between her and a few little annoyances that occasionally beset the new-comer in European opera circles. She was determined to make good honestly, and up to the time I met her she had. Vienna society didn't know what to make of it, so they went crazy over her&#8212;that is, the men did. The women entertained her because she was born von Andrassy and had become a celebrity; but they hated her like poison.</p>
+
+<p>IT was in his library in the Palace on the Ringstrasse that von K&#246;nigstein told me about it. He and I had come back together from hearing her sing in "Tristan and Isolde"&#8212;and, believe me, that had been a performance! All but the Tristan, that is. You had to shut your eyes during the love duet; then you were all right. At the end; when he died, you were relieved. But when she began that <hi rend="italic">Liebestod</hi> song of hers&#8212;say!</p>
+
+<p>"I have frequently asked the lady to marry me," von K&#246;nigstein says, in a sort of casual way, when the servant had left us with our liqueurs and cigarettes and I was getting off my sentiments as per above. "I had rather thought of mentioning it to you, but&#8212;"</p>
+
+<cb n="4" />
+
+<p>"Why, old man, that's great!" says I.</p>
+
+<p>He looked at me with a funny twisted smile, and above it his eyes kind of begged me not to hit him.</p>
+
+<p>"So you see me in the role of happy bridegroom?" he said. "Kind of you. She does not. Oh, wait a minute! It isn't the usual sort of refusal. She says she loves me. But it is not, you see, the usual sort of&#8212;acceptance. The trouble is, she says I do not love her."</p>
+
+<p>"Well, don't you?" I asked him.</p>
+
+<p>His face went white all over. His blue eyes were like flames.</p>
+
+<p>"Love her?" he said. "My God!"</p>
+
+<p>"I beg your pardon," I said. "I see."</p>
+
+<p>"To be Countess von K&#246;nigstein would be enough for most women," he went on, in a minute. "On any terms. And I offer her that, and the love of my whole being&#8212;and it is not enough for her."</p>
+
+<p>"What more does she want?" I asked, wondering.</p>
+
+<p>He laughed the bitterest laugh I ever heard.</p>
+
+<p>"She wants me to believe in her," he said&#8212;"to believe that any woman endowed like her could love me&#8212;me! She will not marry me, she says, if I believe that she marries me&#8212;the crooked-backed thing that I am&#8212;for anything but love."</p>
+
+<p>"And would you be willing to let her marry you, believing that about her?" I asked him.</p>
+
+<p>"That way better than not at all," he said. "Any way&#8212;"</p>
+
+<p>His face had grown sharp and white again.</p>
+
+<p>"It is too much to ask of me, Alston," he said, "that I should believe in any woman&#8212;and she knows it. Unfortunately, I once told her so, before I knew how I loved her, and she remembers it. Besides, women know everything&#8212;that they should not."</p>
+
+<p>HE walked over to the great fireplace, with its stone eagles carved on each side, and looked at himself in the glass. He had to reach up to do it.</p>
+
+<p>Then he came back, sat down opposite me, and lit another cigarette.</p>
+
+<p>"The best one can say of women, Mr. Alston," he said, "and you will understand that your beautiful and noble wife must always be considered the one exception to anything I may say&#8212;"</p>
+
+<p>We bowed to each other like a pair of Chinese mandarins.</p>
+
+<p>"The best you can say of women is that they are vanity itself. The worst, that they are devils. I acquired that idea of the sex very early in life, Mr. Alston. My mother was a court beauty and a great coquette, unfortunately for me. She left me to the care of servants because she was better amused than she would have been by paying much attention to her only child. You see, she considered her duty accomplished when my father had an heir. One of her trusted servants dropped me when I was eighteen months old, because she in turn was interested in her little affair with a handsome butler. So I became the object I am."</p>
+
+<p>He flicked the ashes from his cigarette.</p>
+
+<p>"My father grew a trifle annoyed at one of my mother's too flagrant flirtations; so he challenged a certain gentleman to a duel, and was killed. Then my mother, having indulged her vanity in one line as far as possible, catered to it in another by retiring to a very aristocratic convent, wherein she is at present, the greatly admired and much deferred to Mother Superior. <hi rend="italic">Voilà!"</hi></p>
+
+<p>I didn't make any answer. Men and women had told me a good deal, one time and another in my life; but this was the first time I ever heard a man speak with loathing of his mother.</p>
+
+<p>"Also, in my thirty-five years of life I have had a number of other experiences with women of different classes," he went on. "You said recently that Viennese gay life in the upper strata seldom qualifies a man for anything except to act as a warning to youth. And you were quite right. Remember, when you feel inclined to take exception to all this, that I am an extremely rich man&#8212;and that you have only to look at me to know how likely it
+
+<pb n="Page 8" xml:id="ew.issue.19170129.p008" />
+
+is that women have ever loved me for myself alone."</p>
+
+<p>"Oh, hang it, von K&#246;nigstein!" I remonstrated gently. "I don't blame you for having a morbid outlook, when all's told. But why let it influence you against believing this&#8212;this other lady? This decidedly other lady, as it were."</p>
+
+<p>He sprang to his feet.</p>
+
+<p>"Because it is only her vanity that demands of me to believe in her," he snarled. "She is vain of her soul, as these others are of their bodies, or else she would say to me, 'I understand why you can not believe. Take me; I will make the best of you. It is enough to be loved.'"</p>
+
+<p>For a minute we heard nothing but the roll of the taxis outside. I thought of Juggernaut, and of these two with their Fate grinding over them.</p>
+
+<p>"That is," he added quietly, "she could say that, perhaps, to another man. Not to me. I would not believe it if she did, and she knows it."</p>
+
+<p>I took up my hat, and we shook hands.</p>
+
+<p>"Von K&#246;nigstein," I said, "I'm mighty sorry about all this, and you know it. But no woman born has anything on you for unreasonableness, and my sympathies are with the lady. Good night."</p>
+
+<p>You wouldn't think he'd like that, but he seemed to. He followed me to the room door and shook hands again. All he said was:</p>
+
+<p>"Good night. Do me the honor to recall me to your wife when you write to her."</p>
+
+<p>Well, of course you know, after that, being a fool, I went to see Eliane von Andrassy next day.</p>
+
+<p>I forgot to say that I'd known her myself pretty well for two years, through our bank's being trustee for some charities she was interested in&#8212;homes for girls and so on. I got a side of her that way that nobody else seemed to,&#8212;not even von K&#246;nigstein,&#8212;and I had a lot of respect for the girl.</p>
+
+<p>THAT afternoon she was alone in her drawing-room, perfectly beautiful in some kind of a thin green frock that made her look like a sea-sprite. She had that oval face the high-bred Hungarian women have&#8212;did I tell you she was a Hungarian?&#8212;and the golden hair with brown eyes they'd all like to have.</p>
+
+<p>I'd never had much trouble with her in leading up to the subject of von K&#246;nigstein, and I hadn't now. Long ago I had guessed what she felt, and she knew I had.</p>
+
+<p>"He's pretty miserable," I said by and by. "I'm sorry for him. Can't you do anything about it?" </p>
+
+<p>"I don't know," she said very wearily. "I have tried to convince him, but it is all useless. He has so much to offer, on the one hand, to a woman who has only her work between her and poverty."</p>
+
+<p>Her eyes were dreamy.</p>
+
+<p>"And he could offer such love as would make any one's life a rapture, and he will not," she said. "He only offers the kind of love I refuse every day. He thinks that because of his infirmity one could not give him real love, and he thinks that I&#8212;I&#8212;"</p>
+
+<p>She clenched her hands.</p>
+
+<p>"I, Eliane von Andrassy, would give myself without it to a dwarf, as he calls himself, because that dwarf had wealth and great power. To insult me like that and then say that he loves me!"</p>
+
+<p>"I think he believes that you love him, in a way," I said. "Out of pity, a little."</p>
+
+<p>"And does he not yet know what a woman will do for love and pity?" she demanded. "Oh, you men know nothing of women, and you torture us&#8212;torture us!"</p>
+
+<p>She got up and gave me her hand. I had seen the little Princess Valerie dismiss an ambassador with that very gesture.</p>
+
+<p>"I thank you very much for coming, Mr. Alston," she said. "And I shall see you again soon. But we will speak of this no more, please. Good-by."</p>
+
+<p>I needn't add that I felt like fifty-seven varieties of darn-fool as I hailed a taxi. But I had done my blamedest, and, like the Westerner's epitaph on the horse-stealer:</p>
+
+<p>"Angels couldn't 'a' done no more."</p>
+
+<cb n="2" />
+
+<p>When I got back to my apartment, there was a letter from Mary on the console, telling me that little Mary was down with typhoid. I left a line or two for the vice-president and some notes for friends,&#8212;von K&#246;nigstein, among others,&#8212;and I beat it to Geneva next morning. Little Mary got well eventually, as you see; but it was touch-and-go, and I never thought of Austria or anybody in it for two months. At the end of that time the doctor ordered the women back to America, and I went to Gastein in the Austrian Tyrol, to take the "cure" for three weeks.</p>
+
+<p>WHEN I came into the dining-room of the Hotel Beaurivage for dinner, the night I arrived, the first person I saw was Eliane von Andrassy, at the table next to mine. She was sitting, opposite von K&#246;nigstein.</p>
+
+<p>Happy? Say, she was radiant. With it all, she watched every movement of his, just the way a dog watches his master's&#8212;a sort of a dumb admiration, with a little suggestion of fear back of it.</p>
+
+<p>Hump or no hump, he looked like a prince just come into his kingdom. His face had the tiniest bit of cruelty in it&#8212;as if he might have to kill off a few rebellious subjects&#8212;except when he looked at her. His eyes were soft then as well as conquering; but the "please-don't-hit-me" look was gone.</p>
+
+<p>"Well, I'm darned!" I said to myself.
+
+<figure n="illustration">
+<head></head>
+<p>"'No, no! You shall not!' she cried out. 'It is too dangerous. I should die if you left me.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="3" />
+
+For of course they were married, or they wouldn't have come to the most fashionable "cure" in Austria together.</p>
+
+<p>Just then they both saw me. They were very cordial&#8212;von K&#246;nigstein a little extra so, the way you are when you wish a man further: made me sit at table with them, and all that. Von K&#246;nigstein, in a hurry, began asking no end of questions about Mary and Ethel and little Mary.</p>
+
+<p>"It is that I am frightfully jealous of these adored ones," says Eliane, laughing, in French.</p>
+
+<p>But his face lowered suddenly, and he said, in the same language:</p>
+
+<p>"You have reason indeed, my adored. I am he who would provoke the great jealousy, <hi rend="italic">hein?"</hi></p>
+
+<p>Her eyes filled with tears, and she looked more like the faithful dog than ever, beautiful as she was.</p>
+
+<p>She excused herself from us early in the evening, and we went to the lift door with her. Von K&#246;nigstein kissed her hand and I bowed over it, and everybody wished everybody else good night and pleasant dreams.</p>
+
+<p>Then, having got the politeness out of my system in the Austrian manner, I went out into the garden to smoke. To my surprise, von K&#246;nigstein followed me.</p>
+
+<p>We talked about Gastein and the big waterfall for a while. Then he said, with a sort of a plunge:</p>
+
+<cb n="4" />
+
+<p>"I take it you were surprised to receive my wedding cards, Alston?"</p>
+
+<p>"Would have been if I'd got any," I said. "But I guess Michel forgot to forward them."</p>
+
+<p>"Ah, so!" he said. "Then you must have been astonished this evening."</p>
+
+<p>"Yes and no," I said. "Of course, I'm tickled to death everything turned out so well."</p>
+
+<p>"Oh&#8212;as to that"&#8212;he said, and was silent.</p>
+
+<p>"We have been married a month now," he added casually.</p>
+
+<p>"Is the Countess going to keep on singing?" I asked, for want of anything else to say.</p>
+
+<p>"Certainly not," he said sharply.</p>
+
+<p>"I guess she'll miss it," I said. "The life, I mean."</p>
+
+<p>"She can sing for me," he answered. "As for the life, she is Countess von K&#246;nigstein."</p>
+
+<p>It was the first time he had handed me any of the "I-am-a-great-noble" attitude, and I was peeved clear through.</p>
+
+<p>"The pleasure will be hers," I says. "Good night."</p>
+
+<p>But he stopped me.</p>
+
+<p>"I beg your pardon, Alston," he said. "Don't go up yet, will you? I want to speak to you."</p>
+
+<p>I sat down again, and he began, slowly:</p>
+
+<p>"You see, Alston, if I had not talked to you of certain things at my house last
+
+<pb n="Page 9" xml:id="ew.issue.19170129.p009"/>
+ 
+<cb n="1"/>
+ 
+winter, it would be easier now. As it is, I feel that you are entitled to&#8212;"</p>
+ 
+<p>"Entitled to nothing," I said. "Forget it."</p>
+ 
+<p>But he went on as if I had not spoken:</p>
+ 
+<p>"To know that Eliane and I&#8212;compromised our difficulties, as it were. In fact, we both simply gave in to our feelings, I imagine."</p>
+ 
+<p>"Well, you haven't any kick coming." I said. "Why not let it all go at that? Make her happy, that's all."</p>
+ 
+<p>"Do you think it is so easy to make any woman happy?" he said, with a little smile. Then we said good night.</p>
+ 
+<p>I WAS with them a great deal in the next two weeks&#8212;they seemed to want me in spite of their absorption in each other&#8212;and I didn't care much for all that I saw. It struck me, for one thing, that von K&#246;nigstein was leaving certain features in Eliane altogether out of his calculations, and I figured he was due for large, warm troubles when he met them.</p>
+ 
+<p>Meanwhile, he was like a man drunk with power for the first time. That little streak of cruelty that some men have under their easy-goingness seemed to come to the surface, mixed with something else. He was crazy about her, but he loved domineering over her. I once saw her come to the dinner-table looking wonderful in some kind of shimmering pink dress, and he looked her over a little coldly and said:</p>
+ 
+<p>"I don't care for you in that color, Eliane. Go up and put on a blue one, if you will be so gracious, my dear."</p>
+ 
+<p>And, by Jiminy! that women, that had the proudest aristocracy in the world at her feet, and was a born aristocrat herself, got up meekly, and came back presently dressed in the other color.</p>
+ 
+<p>I didn't like his eyes then. They were like a Sultan's. And I hated to see her look at him for approval.</p>
+ 
+<p>But just once in a while, at some such demand, I'd see a flush in her face that looked like the old pride&#8212;and so would he. Then he'd just lay his hand on hers for a minute, and she'd look at him adoringly&#8212;and do what he wanted.</p>
+ 
+<p>I saw these contests a little oftener in the second week than during the first of my stay.</p>
+ 
+<p>Then, one beautiful Sunday morning, the good-looking lift boy, Josef, smiled up at me when I got into his elevator, and said:</p>
+ 
+<p>"<hi rend="italic">Guten Morgen, mein Herr!</hi> Now is war."</p>
+ 
+<p>"What's that?" I says. "Who with?"</p>
+ 
+<p>"<hi rend="italic">Jawohl!</hi>" says Josef, quite pleased. "Austria has the war on Serbia declared."</p>
+ 
+<p>"What do you know about that?" says I cheerfully, and I started off for my morning walk. A lot I cared, in that air and sunshine, about some little kick-up in southeastern Europe!</p>
+ 
+<p>BUT all of a sudden, while I was looking across the valley to those green mountains and their white crowns, some queer rumors that had drifted to me, even over in Geneva, all came together in my mind like a picture puzzle. I turned around and hied myself down to the village as fast as I could get down the hill.</p>
+ 
+<p>Well, sir, every blamed "bath guest" in Gastein&#8212;French, German, Austrian, Hungarian, Russian, or English&#8212;was jammed up in front of the bulletin-board on the Casino door, and I heard more talk in a minute about "Alliances," "Russian interference," "Kaiser Wilhelm," "England," "Franz Ferdinand," "Serbia," "the French Ambassador," and so on, than I could repeat in a week.</p>
+ 
+<p>The bulletin just gave Josef's news, with variations.</p>
+ 
+<p>"Holy Smoke!" I said to  myself, tugging up the slope back to the Beaurivage. "Suppose there should be big trouble! Well, anyhow, Mary and the girls landed in New York yesterday."</p>
+ 
+<p>At the front door of the hotel I ran into the proprietor. His face was as long as your arm, because, of course, this thing meant kissing his season good-by.</p>
+
+ <p>"The Count von K&#246;nigstein begs that you will do him the honor to incommode
+ 
+<cb n="2"/>
+ 
+yourself by mounting to his room, <hi rend="italic">mein Herr</hi>," he says, bowing.</p>
+ 
+<p>I incommoded myself, double-quick.</p>
+ 
+<p>VON K&#214;NIGSTEIN was smoking by the window when I went in.</p>
+ 
+<p>"Well, Alston, what do you think of this idiocy?" he asked me. "sit down and smoke, will you not?"</p>
+ 
+<p>Just as I lit my cigar, Eliane came in. You ought to have seen her. She wasn't the same woman. I'm told that the Hungarians are the toughest fighters in Europe, and at that minute she looked all of the part.</p>
+ 
+<p>"You have heard the news, Hugo?" she said, barely noticing that two of us rose. "When do we start for Vienna?"</p>
+ 
+<p>He smiled at her patronizingly, with a funny hurt back of his smile that she didn't see.</p>
+ 
+<p>"My dear child," he said, "why should <hi rend="italic">we</hi> start for Vienna?"</p>
+ 
+<p>"Why&#8212;why?" she said sharply. "Don't you understand what it means? Germany, Russia, England, France, Italy, all will be drawn in. I know it&#8212;you know it. There will be war of the most terrible, and we must go back at once."</p>
+ 
+<p>He shrugged his shoulders. I could have told him that she was getting beyond herself, but I thought even a food could see it, and he usually had his eyes about him.</p>
+ 
+<p>"My beloved," he said,"sit down and calm yourself, I beg of you. Why should I be excited&#8212;I leave it to Alston&#8212;because a pack of fools called diplomats have embroiled us with Serbia? Besides which, there is nothing for us two to do but remain here."</p>
+ 
+<p>"What do you mean?" she demanded.</p>
+ 
+<p>He laid his hand on hers, but she took it quickly away.</p>
+ 
+<p>"I needn't point out to you, my dear," he said smoothly, "that Providence had not precisely fitted me for the task of soldiering. Also, that I do not propose to go back into a city full of madmen, which Vienna certainly will be for some time to come."</p>
+ 
+<p>"But, if you do not fight, you can do something&#8212;anything!" she said, panting with excitement.</p>
+ 
+<p>"Foolishness!" he remarked indulgently. All of a sudden she quieted.</p>
+ 
+<p>"Very well; I will go alone," she said.</p>
+ 
+<p>THEN I saw a sample of the way in which he had probably cowed her occasionally in the past. He looked at her with very cold, hard eyes, and spoke very low. It was a little like a cat spitting.</p>
+ 
+ <p>"You will do nothing of the sort," he said. "You will stay here with me, your husband, and do your duty. The Countess von K&#246;nigstein has as much right to earn her title as the humblest washerwoman."</p>
+ 
+<p>She took a step toward him.</p>
+ 
+<p>"What is that you say?" she said. "You&#8212;you&#8212;"</p>
+ 
+<p>Then she let herself go. She was choking with rage. I might as well not have been in the room, for all she cared. All the opera-singer temperament, all the Hungarian fighting temper, all the pride of the petted favorite suddenly insulted, broke loose together.</p>
+ 
+<p>Those days of half love-making, half taming had roused something in her, I tell you. I think she went back over about everything he'd ever done that she didn't like&#8212;not forgetting the episode of making her change her dress.</p>
+ 
+<cb n="3"/>
+ 
+<p>It was awful. The woman had a memory like an encyclopædia.</p>
+ 
+<p>Von Köningstein just sort of stood bowed together, as if he was letting the storm pass over his head. But finally she went too far.</p>
+ 
+<p>"Coward!" she says, between her teeth. "Dastard!" she says. "Your forefathers oppressed mine until we hate every one of you, and now you&#8212;<hi rend="italic">you</hi> demand that my brave brothers shall be killed while you sit idle in your luxury. Who are you, to ask them to be sacrificed?"</p>
+ 
+<p>He took a shop toward her, and waved his hand.</p>
+
+<p>"Be silent!" he said.</p>
+ 
+<p>I almost moved between them, but I didn't need to. Such loathing and contempt came into her face that he moved back as if she had struck him.</p>
+ 
+<p>Then, with a little smile, she said the worst thing I ever heard.</p>
+ 
+<p>"I had forgotten," she said. "You are <hi rend="italic">not</hi> like other men. Your kind is fit only to domineer over women."</p>
+ 
+<p>She turned and walked out of the room, and he dropped into his chair and cried&#8212;like a child.</p>
+ 
+<p>"Leave me alone," he said, when I put my hand on his shoulder. And I went out too.</p>
+ 
+<p>"The Countess von Königstein left on the four o'clock train for Vienna, <hi rend="italic">mein Herr</hi>," says Josef to me at dinner-time, when he was taking me down on the lift.</p>
+ 
+<p>"Oh, yes!" says I casually. "And the Count?"</p>
+ 
+<p>"He had already gone," says Josef. "He went at noon."</p>
+ 
+<p>That was the end of the von Königstein von Andrassy episode&#8212;for a while.</p>
+ 
+<p>I WENT back to Vienna in the winter of 1915 to wind up our bank affairs&#8212;but there weren't any. Vienna made me sick&#8212;just as I used to get, as a boy, when they'd take me to a funeral. As for my Viennese friends, they were like the bank's affairs: there were none left.</p>
+ 
+<p>I tried to find von Königstein; but his bankers "knew nothing of his whereabouts"&#8212;and they said it very short, at that. The palace on the Ringstrasse was full of wounded soldiers, with the Red Cross in charge.</p>
+
+<p>Eliane, I found out, had gone back singing in Buda-Pesth, where she was a greater favorite than ever. She had sung at any number of concerts for Red Cross relief, and had gone to both fronts and sung in the trenches. Her rendering of the Hungarian war-songs was said to be "glorious." Buda-Pesth not being in my line of march, I never expected to see her again, so you should have seen me register joy one day when I saw her name billed in front of the Royal Opera House as the star of a big concert the next week.</p>
+ 
+<p>Long before the hour I was in my seat, and thinking of her and von Königstein. The house was packed. The old Emperor was too ill to come, but a bunch of archduchesses represented him in the royal box. "All of Vienna"&#8212;what was left&#8212;was there, in mourning, mostly. When she appeared, everybody got up and cheered her. She looked very thin and sad, but as beautiful as I ever saw her, and she sang like an angel.</p>
+ 
+<p>When the clapping after her first song was dying down a little, I heard a woman back of me say to the young officer next her:</p>
+ 
+<p>"Does any one know what became of von Königstein?"</p>
+ 
+<p>"For heaven's sake," the man said, "haven't you heard? He offered himself for military service, and was refused. Then he&#8212;"</p>
+ 
+<p>Just then Eliane came back on the stage. The young officer got up and cheered and waved his unbandaged arm. The whole house were on their feet, clapping, and, to save my soul, I couldn't hear the end of his sentence. I made up my mind I'd get hold of that fellow afterwards, even if I had to risk being insulted. But he got out before I could catch him at the end of the concert. And then, across the aisle from me, I saw von Königstein.</p>
+ 
+<p>He had his "prince" look on him all right, and something had given him an almost upright carriage&#8212;as much as he could have. Even as I stared at him open-faced, he caught sight of me. He made one dive for me, and we grabbed each other.</p>
+ 
+<p>"This is too wonderful, Alston!" he says, his eyes sparkling. "You, of all people, to be here to-night!"</p>
+ 
+<p>He hardly heard me explain how I came to be in Europe.</p>
+ 
+<p>"Yes, yes, I know," he said. "Come with me quickly. I have not seen her since that day,&#8212;you know when,&#8212;and I much speak to her. And you must hear what I say."</p>
+ 
+<p>He had a new look of resolution&#8212;of sternness, even&#8212;that I had never seen before.</p>
+ 
+<p>I followed him. We went through the door back of the boxes and into the singers' quarters. We knew which room hers was from the fact that a whole lot of people had just come out. He knocked on the door. It was marked "Madame con Andrassy"; and when he saw that, and heard her call "<hi rend="italic">Herein!</hi>" he turned white. Something told me what to do, and I walked in before him.</p>
+ 
+<p>SHE was standing by the dressing-table, and when she saw me she held out both hands.</p>
+ 
+<p>"My dear old friend!" she cried. "What are you doing here? When did you come? How glad I am to see you!"</p>
+ 
+<p>"Send your maid away, Eliane," I said; and, when she obeyed me: "I've brought a friend with me."</p>
+ 
+<p>Then I shoved the door open, and there stood von Königstein. She didn't greet him. Instead, she sat down in a big chair, as if too weak to stand.</p>
+ 
+<p>"You!" she whispered.</p>
+ 
+<p>He bowed over her and laid in her lap two little crosses with ribbons on them.</p>
+ 
+<p>"What are these?" she says, trembling all over.</p>
+ 
+<p>"The Iron Cross of the First Class, and the Cross of St. Stanislau," he says. "As you said, I could not fight; but I could serve my country as an aviator, and I will again though with these decorations they gave me an honorable discharge. First, I wished to say farewell to you, however, and to ask you to retract your insult to me at Gastein."</p>
+ 
+<p>She looked at him an instant, her eyes getting wider and wider. Suddenly she flung her arms about him.</p>
+ 
+<p>"No, no! You must not! You shall not!" she cried out. "It is too dangerous. I should die if you&#8212;if you left me."</p>
+ 
+<p>When you think of what she said to him that other time! But that's what I say: women are queer.</p>
+ 
+<p>"Do you care so much, after all?" he whispered to her.</p>
+ 
+<p>I was trying to edge towards the door when he said:</p>
+ 
+<p>"I am a very poor man now. My estates in Galicia and Bosnia are gone, my villa in Italy is confiscated, the palace here I have given to the Emperor for a hospital. We&#8212;I&#8212;have nothing left but my lodge in the Black Forest, and a very little money&#8212;"</p>
+ 
+<p>She was crying on his shoulder.</p>
+ 
+<p>"Oh, I am so glad!" she murmured. "Because now you will believe in me, will you not? And forgive&#8212;"</p>
+ 
+<p>At which point you friend Alston effected a strategic retreat.</p>
+
+<note type="editors">
+<floatingText>
+    <body>
+<head type="main">The President of a Big New York Club</head>
+
+<p>THE president of one of New York's finest clubs wrote us a long letter when Grace Mason's story "Pep" appeared a few months ago. "I have read the story," he said, "and re-read it, and passed it on to many of my friends, as one of the best magazine stories ever published."</p>
+
+<p>There will be another story by Mrs. Mason next week, called "Jessie Passes."</p>
+    </body>
+</floatingText>
+</note>
+ 
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19170129.p010"/>
+
+<text type="fiction" xml:id="ford.19170129">
+<body>
+
+<head type="main">AN EVEN BREAK WITH BRADLEY</head>
+<byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wilson, F. Vaux">F. Vaux Wilson</persName></byline>
+ 
+<figure n="illustration">
+<head></head>
+<ab n="credit"></ab>
+<p>"'If I could have one guess,' says I, 'I'll bet I could name the girl.' 'Oh no, you couldn't' says he, 'It&#8212;it's a woman this time.'"</p>
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="1"/>
+ 
+<p>COME to think it over, instead of grouchin' around the way I did, I should have lured my disposition into some vacant lot, rushed it over the rocks until I had a strangle-hold on it, and got a decision then and there. But I didn't. The fact is, I kept on lettin' this young cub get on my nerves until&#8212;well, if ever I ached to tease a certain party up in front of me with the six-ounce gloves on, it was this same Bradley Ward.</p>
+ 
+<p>And for that I should have taken shame of myself, as Father Riordan used to say. But maybe you know how some kinds of people just rub you the wrong way in spite of all you can do.</p>
+ 
+<p>Now I can stand for a lot of stuff that seems to set other folks' teeth on edge&#8212;bores of different kinds, windy gas-bags, braggers, bromides, dyspeptic rag-chewers that find everything goin' wrong and insist on givin' you the details. Generally I can listen until I can make a cheerful getaway, or if I'm cornered I can grin and kid 'em along.</p>
+ 
+<p>But this young Bradley Ward! Say, I expect I might as well own up how it was he first got me pawin' my front hoofs. It was an offhand little remark he let drop 'way last summer, which  might have been meant for me to pick up or might not. Anyway, it registered, and from then on it stuck in my mind about as pleasant as a sliver under your finger-nail.</p>
+ 
+<p>The worst of it was, it ain't anything I could take up with him, or even beef about to my best friends. 'Most gets me pink in the ears just tryin' to state it.</p>
+ 
+<p>One night down at the Yacht and Country Club it was ,when we was pullin' off a big costume ball we'd arranged for the young folks. I say "we" because I happened to be one of the unlucky parties that had most of the work wished onto 'em. You know how them things go in suburban clubs. And with a new steward to break in, and our fire insurance suspended on account of a lot of temporary electric wirin', and the orchestra threatenin' to quit at eleven unless we could guarantee to get 'em back to town that night&#8212;well, some of us had to stay on the job. Which we was doin', and lookin' as pleasant as possible over it.</p>
+ 
+<cb n="2"/>
+ 
+<p>Then to have this young shrimp of a Bradley Ward stretch himself out on the cushions in the smokin'-room and shoot off a remark like that between puffs of a cigarette!</p>
+ 
+<p>"Come on, Brad," one of his chums call in to him. "The girls want you to start up the big circle stuff&#8212;a Paul Jones, you know&#8212;and put some pep into things."</p>
+ 
+<p>"Aw, wait until a few more of those old cocks go home, Ferdy," says Bradley.</p>
+ 
+<p>And then, glancin' up and seein' me standin' in the doorway, he winks knowin' at Ferdy and hunches his shoulders careless.</p>
+ 
+<p>THAT'S it! Give me the grin. I knew you would. It's a comedy cue nobody ever&#8212;misses when it's on the other fellow. But say, here was once when I couldn't see the humor of it.</p>
+ 
+<p>Accordin' to Bradley, I was listed as one of the old cocks, eh? Old! That's what got under my skin. Course, I don't try to pass for any young hick. And I'll admit that in sport circles I've been in the veteran class for quite some seasons. All you got to do to find out how many years it's been since I gave up the lightweight championship is to turn to any newspaper almanac. But ring ages are different. Bradley wasn't referrin' to that: he was talkin' about old cocks who was in the way.</p>
+ 
+<p>Yes, I'll even admit that Master Sullivan McCabe is goi' on ten, and that there's little sister, too. I don't deny, either, that I'm wearin' my brow a trifle higher'n I did once. But does that put me among the antiques, give me an old-codger ratin', or set me back with the gouty-kneed relics who simply clutter up the path of the comin' generation?</p>
+ 
+<p>Honest, I had to go out on the veranda and chin myself eight or ten times before I could shake off the feelin' that my next move would be towards the scrap-heap.</p>
+ 
+<p>Old! I expect it's comin' to the best of us some time or other. I've often wondered how people felt when they saw the frost creepin' into their hair&#8212;how I'd feel. I never laid any plans for side-steppin' it, either, when my day came.
+ 
+<cb n="3"/>
+ 
+But to have it chucked at me when I can still claim to be in the thirties! Say, that was gettin' a jab before I'd even thought of puttin' up my guard.</p>
+ 
+<p>There's a sayin', ain't there, about guys who hand you unpleasant news? They're in wrong with you from that date. Well, that's just how I felt towards this young Bradley. Nothin' he did looked right to me, and the more I studied his ways the less comfort I took in havin' him round. Course, that bothered him about as much as floods in China or sports on the sun.</p>
+
+<p>For Bradley was one of these young gents who carry their chins high and don't fritter away any of their moral fiber dislikin' themselves. While he didn't always seem quite satisfied with things in general, there was no doubt about his bein' contented with himself. Acted a good deal, Bradley did, as if the world had been built special for him to play around in, and he suspicioned he could have improved a lot on the job if he'd arrived earlier.</p>
+ 
+<p>Maybe I'm overstatin' the case, but he had that air. Just by the way he walked through a room, lettin' his heels fall heavy, he could give you the idea. Even up at my house, where he hung around more or less with a certain bunch of young people that Sadie was popular with, right on my own veranda, Bradley could somehow make me feel that it would be much better taste if I'd go out and sit in the garage.</p>
+ 
+<p>UNDERSTAND, I don't kid myself that he had it in for me specially. It was simply that he didn't have any use for anybody over twenty, or twenty-two at most. Beyond that they was dead ones to Bradley. They didn't count. Oh, he was willin' to borrow their tourin' cars or run their motor-boats or use their houses, or let 'em feed him sandwiches and ice cream and cake at certain times.</p>
+ 
+<p>But as for givin' 'em the civil hail when he passed or puttin' up with their comp'ny for more'n two minutes at a stretch, Bradley couldn't do it. When he got cornered with grown people, he simply turned sulky and sullen, givin' an exhibition
+ 
+<cb n="4"/>
+ 
+of sawmill manners that would have had a blanket Indian lookin' like John Drew.</p>
+ 
+<p>Course he kept his rawest bits for mtoher. Let her come purrin' around, pattin' him tender on the arm, or tryin' to smooth his hair, or anything like that, and Bradley would show you in one cold glance how deep a contempt one human being can have for another.</p>
+ 
+<p>"Aw, have a heart, ma!" was his favorite greetin', and then he'd turn his back on her.</p>
+ 
+<p>AND yet, in his way, Bradley had good points. He was just as ornamental as any of these young collar ad. Adonises. You might have thought he'd been use as a model. He was enough of a tennis crack to walk off with the club championship in the singles. He could shoot the Agawampum golf course in the seventies, I heard. And he was bein' congratulated that summer that he'd been picked as substitute quarter-back on his 'varsity eleven. Also he could lead his bunch through a long program of barbershop chords and musical comedy hits with a tenor that wasn't half bad.</p>
+ 
+<p>Likewise, when it came to rushin' the girls&#8212;well, Bradley had Nat Goodwin lookin' like a cross-eyed monk doin' penance. When he wasn't centered in a flock of 'em he'd have the peachiest little bud of the collection off in a corner, holdin' her hand and lettin' her tell him what an awful flirt he was. Oh, Bradley was some speed when it came to skirts/ I can't quote any vital statastics, but my guess is that his average was almost two busted hearts a week.</p>
+ 
+<p>Mother used to brag a bit about it to Sadie, who didn't see Bradley just as I did. In fact, Sadie thought he was an entertainin' kid. I know she chuckled a lot over what Mrs. Ward told her about how frequent Bradley shifted the photo he kept in the big silver frame on his chiffonnier.</p>
+ 
+<p>"He's having such a good time, though," says Sadie. "Isn't he?"</p>
+ 
+<p>"I expect he is," says I.</p>
+ 
+<p>What was the use statin' my opninion of Bradley, when nearly eveyr one else was so strong for him? When the season was only two thirds over, though, and Bradley has to beat it back to college early to show up with the football squad, I stood the shock of losin' him noble. I even tried to comfort mother by assurin' her that occasionally them young gridiron heroes got through their practice work without bein' maimed for life. Not that it was common, but now and then one of 'em came out whole. We would hope for the best.</p>
+ 
+<p>I ain't sayin' that Mrs. Ward was any sillier over Bradley than fond mamas usually are about only sons, but she did spread the agony around thick at times. Bein' a somewhat jumpy and emotional widow, and not ownin' an Airedale or a Pekinese, she just naturally took it out that way.</p>
+ 
+<p>SO this here panicky stuff she pulls the other night ain't at all surprisin'. It's at another dance, for this winter we was keepin' the club open until after the holidays, windin' up with a grand ball; and as Rockhurst-on-the-Sound is jam full of young folks about this time of year, the affair was turnin' out to be a big event.</p>
+ 
+<p>Havin' tried four times to resign without gettin' any action, I'm still on the job, the last day of the month. I'm still on the job, thankful that my term of office expires on the last day of the month. I'm there in all the glory of my little old last year's soup-and-fish outfit, caromin' round on the edges of the festivities, openin' and shuttin' windows for the lady patronesses, now and then divin' into the smokin'-room to drag out a partner for some young bud Sadie is fond of, and makin' myself useful generally. Gee, but I do have such a swell time at a ball! A vegetarian at a beefsteak dinner would have nothing on me.</p>
+ 
+<p>And then, about midnight, when I'm wonderin' if an early breakaway couldn't be managed, here comes Sadie, all excited over something, and pulls me mysterious into a corner.</p>
+ 
+ <p rend="jumpline"><ref target="ford.19170129.jump">Continued on page 15</ref></p> 
+
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19170129.p011" />
+
+<text type="photograph" xml:id="business.19170129">
+<body>
+<head type="main">YOU CAN DO BUSINESS ANYWHERE</head>
+
+<figure n="photograph">
+<head></head>
+<p>IF Mrs. Wilson doesn't have the spare room ready the next time you are in Washington, try the Fairview House. It stands a little on the outskirts&#8212;a wonderful creation of old boards, sheet-tin, and dry-goods boxes, fifteen feet or so in length. The proprietor of the Fairview House is an old darky. The hotel is well ventilated, and is celebrated for the famous "1000 and 49" brand of beans, that being the actual number served on each plate for ten cents.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from H. E. Zimmerman.</ab>
+<p>You are familiar with the type of library made ubiquitous by Mr. Carnegie&#8212;the kind where you go in, fill out a request for a book, hand it to an attendant, and then sit down. Later&#8212;much later&#8212;the same attendant appears, but older and grayer, and informs you that the book is out. Well, the automobile library of Hagerstown, Maryland, is different. It serves 25 stations and more than 300 rural families, and is the only automobile library in the world.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IN America a man is never really retired until he is dead. J. C. Clark retired from the millinery business in Atlantic City and went to Florida to have a good time. But the habit was too strong upon him. There being no empty stores in the town where he went, he bought a boat, tied up beside the town's main street, and opened up with a full stock. There you find him, telling them it looks beautiful on them, just as in the old days.</p>
+<ab type="credit">Photograph from H. E. Zimmerman</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from the Gilliams Service.</ab>
+<p>IN the good old days when New York was small and quiet, the fire-horses were led at regular intervals down to the blacksmith shop and shod. Now, with so many gentlemen setting their cloak and suit businesses off at all kinds of inconvenient hours, the horses can not be spared even for a little while. Hence the blacksmith shop on wheels, which travels from one engine-house to another. How we wish some one would invent a method of bringing a barber around on wheels&#8212;a barber who could cut hair in silence while we slept.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HERE is a business you can start for $.002 instead of $200. Take one old street-car, and move it out on to a vacant lot. Then gather up old tin cans, wash-boiler tops, and other bits of refuse from along the railroad tracks, and tack them on the outside of your car, until you have a completed dwelling, shining brightly in the sun. Then get inside and cobble shoes as if your life depended on it. It can be done, as witness the above picture from Denver, Colorado.</p>
+<ab type="credit">Photograph from I. R. Alexander</ab>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from J. G. McCurdy.</ab>
+<p>THE oldest post-office in America began to be constructed 2000 years ago. This is a long time even for a government job: but the contractor in this case was Mother Nature. When done the tree-office was twelve feet across and quite a bit taller than it was broad. Then it died, and became hollow. The settlers round about chopped off the top, put a roof over the trunk, and set their R. F. D. mail-boxes inside. The R. F. D. man drives up, leaves the mail, knocks on wood, and drives away.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19170129.p012" />
+
+<text type="photograph" xml:id="champions.19170129">
+<body>
+<head type="main">WORLD CHAMPIONS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from F. G. Morehead</ab>
+<p>EVERY man, woman, and child should be able to do some one thing better than the rest of mankind, if it is only playing the jew's-harp or eating spaghetti. Mart Slater of Wellston, Iowa, does not claim to be the greatest authority on Ibsen in the world, but when it comes to catching pocket gophers, Mart challenges the Kaiser, T. R., and William Randolph Hearst to meet him on any sunshiny day. Mart recently bagged 116 gophers in one day, earning a bounty of 10 cents on each. As many readers will probably count the gophers in the picture, we hasten to announce that we had to cut some of them out because of the cost of white paper.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from H. E. Zimmerman.</ab>
+<p>WHEN Thomas W. Davis reached sixty, the age when most men retire or take up golf, he decided to take up cycling. Now, at eighty-five, he holds the world's record for the number of revolutions after sixty. He has ridden more than 140,000 miles, and worn out eleven bicycles doing it. For all of which he has sound health, good digestion, and medals pinned on his chest.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MRS. ROSE TINDAL of Cincinnati claims the cream-pie championship of the U. S., and challenges all corners to a contest in round and lofty cream-pie making, the winner to take all. The correspondent who sends us her picture also sent her recipe. We took it home and had a certain party try to make a cream pie from it: instead, when the thing came out of the oven, it was a kidney stew. [Correspondents will please be more careful in copying manuscripts in the future.<hi rend="italic">—Ed.</hi>]</p>
+<ab type="credit">Photograph from J. R. Schmidt</ab>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Jennie Van Allen</ab>
+<p>THE long-distance championship preaching, funeral, and amen record is held by the Rev. David Jordan Higgins, of Pasadena, California, who is ninety-nine years old and a minister in good standing. Dr. Jordan has been calling sinners to repentance for more than seventy years, and expects to keep on calling for many years to come: but, having recently read copies of <hi rend="italic">Vogue</hi> and the New York <hi rend="italic">Evening Journal</hi>, he feels that there will still be some calling to be done even after he is through.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from O. R. Geyer.</ab>
+<p>"THEY who dance must pay the fiddler," which in and around Amherst, Ohio, means John Een. In the past fifty-six years John has fiddled for 4668 dances, his highest record being 150 in one year. All dances are "interpretative dances" to John. He can tell merely by looking at the dancers just which ones are in their own dress suits and which ones rented them for the occasion.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HOWARD ERNEST HINSLEY, age sixty-one, has traveled 260 times the distance around the earth. As purser of the S. S. <hi rend="italic">St. Louis</hi>, he has crossed the Atlantic 1602 times, a total of six and one half million miles. Mr. Hinsley has seen one hundred and sixty thousand people seasick; has heard the same funny stories told in the saloon 400,000 times; and has witnessed 24,000 engagements being made on the after-deck, none of which resulted fatally in marriage.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19170129.p013" />
+
+<figure n="photograph">
+<head></head>
+<p>IOWA seems to produce more champions than all the rest of the States put together. Here, for instance, is John Hangsted of Waukon, champion skunk-catcher of America. Henry's championship is attested by a certificate from a St. Louis fur company, and by this picture showing the capture of sixteen skunks in one hour. While there are many opportunities in this profession, few young men enter&#8212;one reason being that if one's gun ever misses fire, one must sleep in the back yard for from four to six weeks, having one's meals sent out.</p>
+<ab type="credit">Photo from Florence L. Clarke.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from H. L. Monty.</ab>
+<p>HENRY LOUIS KLINKNER, five years old, son of the editor of the Bellevue (Iowa) <hi rend="italic">Herald,</hi> claims the accident championship of the world for five years and under. When he was two years old he fell off a table, breaking his
+right leg in two places. On June 14, 1916, he fell off his tricycle, breaking the left forearm. The splints came off July 29, and on August 4 Henry promptly and quietly broke the same arm again.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Triangle Film.</ab>
+<p>"SOMEWHERE the bands are playing; somewhere the people shout: But there is no joy in Mudville: For Casey has struck out." De Wolf Hopper declares that he has recited those famous lines from "Casey at the Bat" in public no less than 8000 times&#8212;a world's record. The Rev. Charles Savidge, also shown on this page, is known as the "marrying parson"; but by some chance, he has never happened to perform a marriage for either De Wolf Hopper, Nat Goodwin, or Lillian Russell.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Ivan Gaddis</ab>
+<p>"I DO," says the girl; "I do," says the man. And "$10 due," says the preacher&#8212;and another happy home is established. The Rev. Charles W. Savidge, the "marrying parson" of Omaha, claims the marrying championship for the U. S. and its dependencies. His total to date is 3276. The largest fee he ever received was $50; and the smallest, two trees which he planted in front of his first church. Both trees died&#8212;the question naturally arising, did the marriage outlive the trees?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Ida Clyde Clarke.</ab>
+<p>IF there are still any who believe the old saw that "the good die young," we invite their especial attention to this portrait of the Hon. William M. Paxton of Platte, Missouri, who holds the world's record for Sunday-school attendance. For sixty-six years Mr. Paxton has not missed a Sunday, his total being, according to our correspondent, 3444 consecutive appearances. Those readers who would rather die young than attend Sunday school 3444 times are welcome to their choice: every man to his taste.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IN Wray, Colorado, lives Mr. Clyde Clemens, who, though he himself has never fallen victim to Cupid, has brought about hundreds of marriages. Mr. Clemens makes it his busness to write love letters for men who have difficulty writing them for themselves. He charges 55 cents apiece for the letters, and claims that it usually requires 125 letters to bring about the ceremony. Mr. Wray claims that not one of his marriages has ended in the divorce court; and begs us to state that he can accommodate a few more select clients.</p>
+<ab type="credit">Photograph from Florence Sierer</ab>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 14" xml:id="ew.issue.19170129.p014" />
+
+<text type="photograph" xml:id="when.19170129">
+<body>
+
+<head type="main">WHEN IS A GROWN-UP?</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Gertrude Brugman</ab>
+<p>GROWN-UPS used to be perfectly impossible people. One had to sit between them if one went driving, and endure it without squirming while they talked, in both senses of the word, over one's head. They were always the reasons why one had to be dressed up or play quietly or think of others before self. Nowadays, praise be, grown-ups are so nearly human that, except for their great size, one would mistake them for kids. Miss Violet Hemming, for instance, and a leading lady on Broadway, loves nothing better than a few rounds of hop-scotch on the roof of her hotel.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Byron</ab>
+<p>ALONG about the age of fourteen, when grown-upness begins to set in, most people give away their dolls. But Miss Peggy O'Neill stuck to Molly and Dora and S'mantha, and that is why her "Peg o' My Heart" last year and her "Maya" this season ring true to childhood, even though Miss O'Neill is terribly old (twenty-two) and married and everything.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Gertrude Brugman</ab>
+<p>YOU would never suspect Miss Blanche Young of being a grown-up if you caught a glimpse of her on a windy day putting her three pet kites through their paces. "I fish for ideas with my kite-string," she once explained. "Lots of times my kites, with their graceful curves and quick angular turns, give me splendid ideas for new dances." But all sensible kids know that the last thing in the world needed for kite-flying is a reason.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MISS GERTRUDE ELANE is a Southern beauty who poses six or eight hours a day for painters, photographers, and the movies. When you pose for an artist you have to sit even stiller than when in church. And, naturally, you have to give vent to your feelings afterwards somehow. A regular grown-up would take a walk in the park. But Miss Elaine is no regular grown-up, and at her present rate of progress in that direction she never will be one. "Give me a jumping-rope," she says, "and I should care about the high cost of saddle-horses."</p>
+<ab type="credit">Photograph by Gertrude Brozman</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MISS MARY READ, another un-grown-up grown-up, who lately came over from England, says that America really is the land of the free, just as the song says. "Here I can amuse myself in my favorite way," she says, "without any one thinking it is queer or stopping to stare." Late into the fall Miss Read might have been discovered in the park across from the Century Theater, New York, rolling her hoops with the greatest glee in the world. Pretty soon some serious-minded person will have to write a book called "How to Tell a Grown-Up."</p>
+<ab type="credit">Photograph by Gertrude Brugman</ab>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+ 
+<pb n="Page 15" xml:id="ew.issue.19170129.p015"/>
+
+<text type="fiction" xml:id="ford.19170129.jump">
+<body>
+ 
+<cb n="1"/>
+ 
+<p rend="jumpline"><ref target="ford.19170129">Continued from page 10</ref></p>
+ 
+<p>"Shorty," she demands, "what has become of Bradley Ward?"</p>
+ 
+<p>"Not guilty," says I. "I ain't touched a hair of his fair young head."</p>
+ 
+<p>"Now, don't try to be funny," says she. "This is serious. He's missing. He hasn't been seen on the floor for nearly two hours. Mrs. Ward can't find him anywhere, and she's dreadfully worried about him."</p>
+ 
+<p>"I know," says I. "Some of them dashin' brunettes has kidnapped him."</p>
+ 
+<p>"Nonsense!" says Sadie. "He danced two or three times with that Polly Malone early in the evening. She's his latest, you know. But Polly's over there sitting out a one-step with Craig Warner, and we can't imagine what has become of Bradley. See if you can't find him."</p>
+ 
+<p>"Suppose I could?" says I. "What then?"</p>
+ 
+<p>"You might find out what's the matter, if anything," says Sadie. "At least, you could tell his mother that he was all right."</p>
+ 
+<p>"Oh, very well," says I, strollin' off.</p>
+
+<p>I MUST say, I couldn't get much worked up over this disappearance, and my enthusiasm for discoverin' Bradley was about minus nothing. Still, I poked around the verandas, peeked into the cloak-room, and finally wandered into the café. And there, 'way round in a corner alone at a table, sits the missing one. He's gazin' moody at a slender-stemmed glass he's holdin' up to the light, a little glass with four or five different colored kinds of booze in it.</p>
+ 
+<p>"Huh!" says I, driftin' up close and inspectin' the drink. "What kind of dope is that? A barber's delight or a liquid layer cake?"</p>
+ 
+<p>Bradley, he eyes me cold and distant.</p>
+ 
+<p>"Pousse café," says he, sippin' off the top section. Then, droppin' his frappé manner, he sort of leers at me and adds: "My fourth."</p>
+ 
+<p>"Wha-a-at!" I gasps. "Four doses like that? Tryin' to make a giddy rainbow of yourself? Say, what do you think will happen to you if you keep on?"</p>
+ 
+<p>"I don't care what happens to me," says Bradley, tossin' off the rest of the stuff.</p>
+ 
+<p>"As bad as that, eh?" says I. "You'll feel different about 9 A.M. to-morrow mornin', when you have to jump a train back to college."</p>
+ 
+<p>He favors me with a weary, condescendin' smile.</p>
+ 
+<p>"I'm off the college stuff forever," says he. "I've decided to quit."</p>
+ 
+<p>"Well, well!" says I. "What you found as a substitute?"</p>
+ 
+<p>"I'm going to cut loose from&#8212;from all this," says he, wavin' his hand vague at a stack of chairs and tables. "I'm either going to the demnition dachshunds or else be a man. Maybe I'll run over and join the Foreign Legion."</p>
+ 
+<p>"Oh, I see!" says I. "Desperate Desmond, eh?"</p>
+ 
+<p>"I'm desperate, all right," says he.</p>
+ 
+<p>"If I could have one guess," says I, "I'll bet I could name the girl."</p>
+ 
+<p>"Oh no, you couldn't," says he. "It&#8212;it's a woman this time."</p>
+ 
+<p>"But the last bulletin I had," I insists, "it was little Polly Malone."</p>
+ 
+<p>How was I to know that was goin' to set him off so tragic? He jumps up, glares menacin' at me across the table, and mutters hoarse:</p>
+ 
+<p>"Curse you! What right have you butting into my affairs this way?"</p>
+ 
+<p>"Easy now, son," says I. "There's no call for heavy breathin'. I'm a rescue expedition, that's all, sent out by mother, who's worryin' herself into a cat-fit on your account."</p>
+ 
+<p>"See here, McCabe," he breaks in. "I'd just like to have Paula Malone hear you call her that. I'd like to be around, that's all."</p>
+ 
+<p>"Nothin' simpler," says I. "I ain't seen
+
+<cb n="2"/>
+
+<figure n="illustation">
+<head></head>
+<ab n="credit"></ab>
+<p>"'But these college boys are so amazingly young,' says Polly. 'They've bored me to distraction to-night. And Bradley's the leading juvenile.'"</p>
+<figDesc></figDesc>
+</figure>
+
+much of Polly for a year or two, but we used to be fairly good friends. She is out there in a the ball-room now, chattin' with that old sport Craig Warner, but I think I could edge in if I tried. And maybe I might patch up this awful state of affairs between you and her. That is, if you got nerve enough to sort of drift up casual after I've ditched Craig. Have you?"</p>
+ 
+<p>"Yes," says he, settin' his jaw firm. "I'll not give her up without another try."</p>
+ 
+<p>Course, it all listens might simple to me. Why, the last I knew, this little Polly Malone was just a kid with a thick braid of copper-tinted hair hangin' down her back and an impish twinkle in her big eyes. I'd known her dad ever since he started in the contracin' business out her in Rockhurst. It was me got him to join the club. Not that either him or Mrs. Malone was the sort who'd have much use for such joints; for they're plain, stay-at-home folks. But we needed the money, and Jim Malone was comin' on, so he could easy spare it.</p>
+ 
+<p>All I'd heard recent about Polly was that she'd developed into something of a singer, and had been livin' with an aunt in the city these past two winters, havin' her voice cultivated.</p>
+ 
+<p>BUT say, when I scouts around the ballroom for her, and finally recognizes who it is that's sittin' rollin' her eyes at Craig Warner, hanged if I don't let out a gasp. Blamed if Bradley ain't right. Wisp of a girl!</p>
+ 
+<p>Why, say, this party in the snappy evenin' dress with the rhinestone shoulder straps is as much grown up as a lot of grandmothers I could name. And talk about your bold faces! Honest, if I hadn't had any clue, I would have places her as some Sioux City divorcée just on from gettin' her decree.</p>
+ 
+<p>Still, I'd contracted to arbitrate between her and Bradley, so I remembers how I used to rough-house with her when I'd drop in of an evenin' to see Jim, and I proceeds to do the goat act the best I knew how.</p>
+ 
+<p>Well, Polly," says I, walkin' up and pinchin' her by the ear, "who gave you license to grow up so sudden?"</p>
+ 
+<p>"Why, Uncle Shorty!" says she, grabbin' my arm and pullin' me down beside her. "I've been wondering how long before
+
+<cb n="3"/>
+
+you were going to be decent enought to come and speak to me. Aren't you ashamed of yourself? Let's see if I have the next number taken. Yes' but I'll scratch out the name and you may sit it out with me."</p>
+ 
+<p>And, as Craig couldn't very well converse with her left shoulder-blade, he murmurs something polite and strolls off. A second later Bradley slips into his place without Polly's noticin' the shift.</p>
+ 
+<p>SOME pert little prattler, Polly is, take it from me. I couldn't tell whether she thought she was flirtin' with me or just bein' chummy, but it sure was a zippy line of chat she unreels. Had me almost dizzy tryin' to follow her, and it's only by bracin' myself solid that I makes a quick shift to the subject I'd come to discuss.</p>
+ 
+<p>Yes, that's all right, Polly," says I. "You've got me kidded to a standstill. But say, what about this break between you and Bradley Ward?"</p>
+ 
+<p>"Oh!" says Polly, shruggin' her white shoulders. "Bradley! That's so. I wonder what has become of the dear boy?"</p>
+ 
+<p>"You little sinner!" says I. "Just as if you hadn't let him through the trap-door on purpose. Now, own up: what's the grand trouble between you two?"</p>
+ 
+<p>"Why, how absurd, Uncle Shorty!" says Polly, giin me a playful pat. "As if I am accountable for every youngster who&#8212;wants to scribble his name all over my dance order."</p>
+ 
+<p>"Youngster!" says I. "Polly, you're nineteen yourself, aren't you?"</p>
+ 
+<p>"I'm twenty, so there!" she pouts.</p>
+ 
+<p>"So is Bradley," says I.</p>
+ 
+<p>"But these college boys are so amazingly young at that," says Polly. "And all they can talka bout is their silly little campus pranks, and what the head coach told them the day of the big game, and the awfully unfunny jokes in the last college monthly And they never think of offering you a cigarette or letting you have a sip of cocktail."</p>
+ 
+<p>"Why, Polly Malone!" says I.</p>
+ 
+<p>"Paula, please," says she. "I despise being called Polly."</p>
+ 
+<p>"It used to be Pauline," says I.</p>
+ 
+<p>"My professional name will be Paula," says she. "I'm going on next season,
+ 
+<cb n="4"/>
+ 
+you know&#8212;just a chorus part, but you wait."</p>
+ 
+<p>"You're not going to go get all the nice young chaps you've grown up with, are you?" I asks.</p>
+ 
+<p>"You've said it," says she. "They are so hopelessly young. Really, they've bored me almost to distraction to-night. Do you know what I call 'em? Trundle-bed trash."</p>
+ 
+<p>"Not&#8212;not Bradley?" I asks.</p>
+ 
+<p>"Oh, no," laughs Paula mischievous. "He's the leading juvenile."</p>
+ 
+<p>I thought I heard kind of a hissing sound, like some one was breathin' violent through their front teeth, and I glances past Paula's copper-colored hair just in time to see the back of Bradley's head as he sneaks off. His ears was glowin' like a fresh painted fire hydrant.</p>
+ 
+<p>"There goes another dance," I suggests, as the orchestra strikes up. "You'll be wanting to&#8212;"</p>
+ 
+<p>"No," says Paula; "I'd much rather talk to you, Uncle Shorty. Besides, I want a claret lemonade."</p>
+ 
+<p>WELL, I had to take her into the grillroom and get her what she wanted. It was nervy of her, though, to hold up Craig for a cigarette.</p>
+ 
+<p>"Polly," says I, "I'm chairman of the house committee, and if you light up that dope stick in here I'll be court-martialed&#8212;maybe lose my job forever."</p>
+ 
+<p>"Pooh!" says Paula. "I'll only take a few puffs behind my fan."</p>
+ 
+<p>As soon as I could, too, I started her towards home in a taxi. Then I hunted up Bradley. He had his mink-lined overcoat on and was just orderin' the limousine for himself and mother.</p>
+ 
+<p>"Tough luck, son," says I. "But I hadn't figured on your havin' the complaint so bad "Bein' young, though, is a thing you may outgrow; but I doubt if you ever catch up with Polly."</p>
+ 
+<p>"Bah!" says he. "Who wants to?"</p>
+ 
+<p>"Glad you feel different about it," says I, "seein' how my little helpin'-hand scheme got wrecked."</p>
+ 
+<p>"Yes, it did!" says he peevish. "Think you're some comedian, don't you, framing up a roast like that for me? Say, McCabe, what did I ever do to you?"</p>
+ 
+<p>"I'll never tell," says I. "But whatever it was, Bradley, we break even."</p>
+ 
+</body>
+</text>
+ 
+<pb n="Page 16" xml:id="ew.issue.19170129.p016"/>
+ 
+<text type="nonfiction" xml:id="notime.19170129">
+<body>
+ 
+<head type="main">"I HAVE NO TIME TO READ"</head>
+<head type="sub">All Right&#8212;We'll Do Your Reading for You. $300 Worth of New Books and Magazines Are Read Every Week for These Two Pages</head>
+ 
+<head type="sub">Is Kitchener Still Alive?</head>
+ 
+<cb n="1"/>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Underwood &amp; Underwood.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+ 
+<p>WAS Kitchener rescued from the steamer <hi rend="italic">Hampshire</hi>, when she sank, and secretly smuggled into Germany, to be held as a pawn in the game of peace negotiations?</p>
+ 
+<p>Will the dates on the monuments now being raised to him have to be chiseled
+ 
+<cb n="2"/>
+ 
+off when the war is done? Is Kitchener still alive?</p>
+ 
+<p>There are thousands of people in England who believe that he is.</p>
+ 
+<p>The <hi rend="italic">Hampshire</hi>, according to the popular belief, was destroyed, not by a mine, but by an interior explosion of some sort arranged by the Germans, who were fully apprised of Lord Kitchener's plans. One boat-load of survivors was picked up, and they reported that, when last seen, the General was standing on the deck, and officer crying, "Make way for Lord Kitchener!" Nothing more was heard: reports of Kitchener's death were published around the world; and England mourned.</p>
+ 
+<p>Then, weeks later, according to the story, a post-card was received in England such as prisoners in Germany are allowed to send to their friends at home. It was signed by an officer of the <hi rend="italic">Hampshire</hi> who was not on board the single life-boat that came to land. He had been in another boat, and a German submarine, lying ear at the time of the disaster, had rescued him.</p>
+ 
+<p>And if him, why not Kitchener with him?</p>
+ 
+<p>The populace, of course, hates to give up its heroes. When Nero, a hero of wickedness, passed on, people refused to believe it. "<hi rend="italic">Nero revivus!</hi>" they cried. "Nero will come back." Nero did not come back." Nero did not come back, and Kitchener may not. But there are thousands in England who still believe&#8212;and hope.</p>
+ 
+<div1>
+<head type="sub">An Alienist's Impressions of Mrs. Eddy</head>
+ 
+<cb n="1"/>
+ 
+<p>DR> ALLAN McLANE HAMILTON, one of the greatest living alienests, and a grandson of Alexander Hamilton, was summoned, in the summer of 1907, to examine Mrs. Mary Baker Eddy secretly as to her sanity, and to testify in her behalf if he could do so conscientiously. He had previously attacked Christian Science in a will contest in a New York court, and it was the fairness of his testimony that influenced Mrs. Eddy to send for him when her son brought proceedings to have her declared an incompetent and to secure a guardian for her. In <hi rend="italic">Recollections of an Alienist</hi> (George H. Doran Company) Dr. Hamilton describes his visit:</p>
+ 
+<p>"She was an erect little old person, dressed in black silk; at her throat was a small diamond coronet brooch, the only jewelry of any kind. Her white hair was worn in the style made familiar by her pictures. She wore no glasses during my visit, although I understood she required them at other times for reading. I was immediately impressed with the extraordinary intelligence shown in her eyes. In aged persons these are likely to appear dimmed and lacking in expression; with Mrs. Eddy, however, they were dark and at times almost luminous.</p>
+ 
+<p>"Our conversation covered a wide range of topics. She knew, of course, the nature of my visit, and very amiably answered all my questions bearing on her religious beliefs, giving me a sort of general summary of the Christian Science faith. IT was a kindly talk throughout, and my venerable hostess manifested no ill feeling against any of the 'next friends' (to whom she jokingly alluded as the 'nexters') who were attacking her in the courts&#8212; although she appeared to be hurt that her granddaughter, who was associated in the proceedings against her, was nevertheless a member of the Christian Science Church. She had an unusual familiarity with business affairs, said that she never bought
+ 
+<cb n="2"/>
+ 
+stock or even railroad bonds, but watched the affairs of prosperous cities and purchased local bonds or mortgages.</p>
+ 
+<p>"In her home she was a great deal of a disciplinarian, and kept a close watch over the household expenditures and the conduct of domestic affairs. She arose at six, attended to the family duties, breakfasted, dictated to a stenographer or wrote with her own hand. She took a daily drive, always accompanied by the man Frye or one of her women companions."</p>
+</div1>
+ 
+<div1>
+<head type="sub">The Moving Pictures of the Future</head>
+ 
+<cb n="1"/>
+ 
+<p>WHEN you got to the movies, and see an auto containing real people dashing toward a cliff, you are not so horrified as you once were, because you
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Triangle-Keystone.</ab>
+<p>If this machine were really winging its way through space, the gentlemen's rope wouldn't be hanging down so loosely and carelessly&#8212;would it, Mabel?</p>
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="2"/>
+ 
+know now that it is a trick of photography, and that the machine in reality backs away from the cliff. When the car plunges down the embankment, you know that it has thoughtfully poised on the edge to let the real passengers out and the dummies in.</p>
+ 
+<p>Public and movie producers both are tiring of this trick photography, says Edward Mott Woolley in "Moving Pictures&#8212;Or What?" for <hi rend="italic">Everybody's Magazine</hi>,  and the passing of this sort of fakery will leave a gaping hole in the screen industry, to be filled only by better pictures. At present, he says, the success of a play is staked entirely on the name of the actor. The history of a play often runs like this:</p>
+ 
+<p>A scenario-writer sits down at his typewriter and looks out the window for a plot. He sees two boys fighting in the street. In half an hour he has finished the scenario. He sends it to a $200-a-week director. "A $700-a-week actress in the leading rôle runs in to separate the fighting boys. She is attacked by the mother of one of the urchins, and is rescued by a $300-a-week actor. She marries him, and the posters flame the story of the 'wonder play.'"</p>
+ 
+<p>If scenario-writers continue to turn out a story an hour, the public may return to the legitimate drama.</p>
+</div1>
+ 
+<div1>
+<head type="sub">Should We Change the Name "America"?</head>
+ 
+<cb n="1"/>
+ 
+<p>WHEN Columbus had his first audience before the Spanish court, his proposals to find "lands in the west" were convincing and rational, writes Mary Stapley in her book, <hi rend="italic">Christopher Columbus</hi> (Macmillan Company). But he drove too hard a bargain for the court to accept. This is what he asked their Highnesses in case he should discover new land:</p>
+ 
+<p>"First: that he should be made Admiral over all, the office to continue for life and to descend to his heirs forever with all dignities and salaries.</p>
+ 
+<p>"Second: that he should be made governor and viceroy over all new territories.</p>
+ 
+<p>"Third: that he should have one tenth part of all merchandise, pearls, precious stones, gold, silver, and spices acquired by trade or discovery or <hi rend="italic">any other method.</hi></p>
+ 
+<p>"Fourth: that if any controversy or lawsuit should arise over such goods, he should be the only judge in the matter."</p>
+ 
+<p>So Columbus knew about contracts.</p>
+
+<p>Columbus thought he had discovered Cipango or Japan, where people had heard there was gold and jade and an ancient superior civilization. Instead it was only a tropical island off the coast of our continent, inhabited by mild natives and gay parrots. After several voyages, returning each time to Spain without the treasure people expected, Spain was disappointed and forgot him.</p>
+ 
+<p>He died a broken old man, protesting to King Ferdinand to the last against his broken contract. Spain, alive with the discoveries of younger navigators, forgot him.</p>
+ 
+<p>"Just before his death, Amerigo Vespucci visited his countryman, who lay ill at Seville. Neither one of them was thinking about the name of the far-away lands. They merely talked over their
+
+<cb n="2"/>
+
+voyages, as any two sailors might. As Vespucci was now looked up to as a practical new-world traveler and trader, and the Admiral was lonely and forgotten, it shows a kind feeling on the visitor's part to have looked him up."</p>
+ 
+<p>But the worst ingratitude to Columbus happened after his death. Martin Waldseemüller, a German geographer, dividing the golbe into four large parts named the fourth America, and it stuck.</p>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>When the "Santa Maria's" lookout cried, "Land! Land!" Columbus took a long look at this palm tree and exclaimed: "At last I shall have something named after me!" But no.</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+ 
+<div1>
+<head type="sub">Have Musicians Bad Manners?</head>
+ 
+<cb n="1"/>
+ 
+<p>"Musicians are notoriously bad-mannered," announces Carl Van Aechten in a book devoted to the theme of <hi rend="italic">Music and Bad Manners</hi> (Alfred A. Knopf). "I have seen a soprano throw a pork roast on the floor at dinner, the day before a performance of Wagner's consecrational
+
+<cb n="2"/>
+
+festival, with the shrill explanation, 'Pork before Parsifal!'"</p>
+ 
+<p>The position of a certain couch in a performance of Lohengrin" once aroused a dispute between Emma Eames and a tenor.</p>
+ 
+<p>"At the rehearsal the tenor seemed to have won the battle. When at the performance, he found the couch in the exact spot which had been designated by the lady, his indignation was great. With as much regard for the action of the drama as was consistent with so violent shove with his projected toe, with the intention of pushing it into his chosen locality. He retired with a howl, nursing a wounded member. The couch had been nailed to the floor."</p>
+ 
+<p>But all the blame for scenes at concerts should not rest with the performer. Audiences as well, says the author, may be relied upon to behave badly on occasion.</p>
+ 
+<p>"Mr. Paderewski was playing at one of those morning musicales arranged at smart hotels, so that the very rich may see more intimately the well known artists of the concert and opera stage. Some women started to go out. The interruption became intolerable, and Padwerewski stopped playing. 'Those who do not wish to hear me will kindly leave the room immediately,' he said' 'and those who wish to remain will kindly leave the room immediately,' he said; 'and those who wish to remain will kindly take their seats.' The outflow continued, while those who remained began to hiss. ' I am astonished to find people in New York leaving while and artist in playing,' the pianist added. Then some one started to applaud; the applause deepened, and finally Mr. Paderewski consented to play again. Once he had begun, he played for an hour and twenty minutes, and the faithful ones applauded so much that the echoes of clapping hands accompanied him to his motor."</p>
+</div1>
+ 
+<pb n="Page 17" xml:id="ew.issue.19170129.p017" />
+
+<div1>
+<head type="sub">STORIES OF THE EARLY MARINERS</head>
+
+<p>IN the sixteenth century ship after ship started out from the Netherlands looking for a short cut to India. Three
+quarters of each crew met death, either by starvation or disease, by hanging from the yard-arm, by walking the plank, or by being done to a turn by cannibals. Yet nothing could quench Dutchmen's curiosity in the new lands.</p>
+
+<p>"After a remarkably short passage of five months and thirteen days," says the <hi rend="italic">Golden Book of Dutch Navigators</hi> (Century Company), quoting from the chronicles of the voyage, "Jan Huygen landed in India. Only thirty men died on the trip, so Jan was proud of his record."</p>
+
+<p>The scurvy was the first visitation on the sailors. It was caused by eating the same kind of food day after day, and destroyed their gums and teeth. Then, as most of the sailors were wild young men who had been forced to go to sea so that peace and sobriety might rest on land, there was a great deal of mutiny, and mutiny meant a great many hangings.</p>
+
+<p>"On the first voyage to India the ship was attacked off the shore of Africa by a couple of playful whales, while the natives, reputed to be cannibals, danced around in gleeful anticipation." In order to get fresh food and water they were forced to land and fight.</p>
+
+<p>"The navigating methods of the day were very primitive. A profound trust in the Lord made up for lack of knowledge of the compass." One expedition to the Arctic was frozen in for the winter.</p>
+
+<p>These marooned men, who kept a daily chronicle of their ebbing strength, were found in the spring by another Dutch ship, frozen to death in their cabin, "their knees drawn to their chins. On the seventeenth of February," read the last of the dead men's chronicle, "Cornelis Thysz died. Next to God, we had put our hope in him. We who are still alive made coffins for the dead ones, although we are hardly strong enough. We pray to God to deliver us from this sorrowful world. If it pleases him, we are ready."</p>
+</div1>
+
+<div1>
+<head type="sub">WHEN PROSPERITY HITS NEGROES</head>
+
+<p>ALONG with munition-makers and cold-storage kings, negro farmers are getting prosperous, especially in the cotton-growing country. A Southern cotton seller tells in the New York <hi rend="italic">Times</hi> a couple of things that happened down his way.</p>
+
+<p>"A poorly dressed colored man went into an automobile sales-room. Looking admiringly at a car displayed in the center of the floor, he asked if he could get in. Grudgingly he was told by a salesman that he could. He climbed into the car; but, as no further attention was paid to him, he left the place.</p>
+
+<p>"Near by was another automobile store, whose leader was a car that sells for about $1000. With his wife and children, the farmer went in and asked if he could get in the car. He was allowed to do so. This time one of the salesmen, a very young man and a joker, came over to the car and began explaining its merits to the negro very seriously. The farmer fussed around with the various levers for a while, and then asked if his wife and 'kids' could sit in the back seat. He was told they could. They climbed in, speechless with pride. A few minutes later the colored man brought out a shabby old wallet and paid the full price of the car in cash."</p>
+
+<p>Another time an old negress was going along a street, when in a store window she saw a very trig silk dress. She went in the store and asked to look at the dress "up close." The clerk said it was a display gown&#8212;only for the show window. He suggested that she go to the women's ready-to-wear department and see if she couldn't find something else. But she was insistent, so it was finally brought to her.</p>
+
+<p>"How much it cost?"</p>
+
+<p>"Eighty dollars, madam."</p>
+
+<p>"Wrap 'er up."</p>
+
+<p>"But, madam, it is much too small for you."</p>
+
+<p>"Never min'; wrap 'er up."</p>
+
+<p>"It will have to be a cash sale, madam."</p>
+
+<p>"I'se got de cash, chile; go ahead and wrap 'er up."</p>
+
+<p>So the sale was made.</p> 
+</div1>
+
+<div1>
+<head type="sub">WHAT KIND OF A HOME HAS YOUR EMPLOYEE?</head>
+
+<p>THE mechanic who eats under-done biscuits in a leaky kitchen presided over by a discontented wife is not a good investment for his employer. Bad homes are as great an enemy to industrial improvement as bad habits, says Ida M. Tarbell in <hi rend="italic">New Ideals in Business</hi> (the Macmillan Company).</p>
+
+<p>"Competition itself is forcing employers to consider the outside life of their employees," says Miss Tarbell. "The first and most important thing they must consider is the house the man lives in. A good workingman wants a home. He wants, if possible, to own his home."</p>
+
+<p>Of the many model communities that employers have started to increase their own output are the mining towns of the Frick Coke Company in Pennsylvania. Five years ago the president of the company introduced a crusade into these desolate, unsanitary villages. He sent the order to the mine superintendents: "Clean up the towns; grade the streets; put in cement curbs and walks; fence the yards and cover them with sufficient soil to enable the residents to raise flowers and vegetables; provide new and approved vaults; put water in the kitchens; add porches; paint the houses; keep the alleys as clean as the streets; teach and encourage the people to keep their places clean and to make gardens."</p>
+
+<p>This order applied to twenty settlements of 4000 double houses. The superintendents thought the management had gone crazy, said it couldn't be done, and even if it could the people wouldn't appreciate it.</p>
+
+<p>The people did not appreciate it, at first. When the order came to abandon houses too deeply engulfed in gullies, and to build on the open ground, the men in an uproar protested that they had lived twenty years in the mud and refuse, and if their homes were destroyed they would quit the mines. "Close the mines," answered the president.</p>
+
+<p>But the men didn't quit. They stayed to live in the fresh, pleasant cottages, with their miles of trim white fences, to raise prize garden truck and stock their cellars with winter vegetables.</p>
+
+<p>Although the company has spent upward of a million dollars, when every other mine is short of help it can keep its shifts full of steady, able, ambitious miners.</p>
+
+<p>"This redemption is as much a part of the company's business as the method of making coke," says Miss Tarbell. "To have efficient, trustworthy, and steady men you must have healthy and contented men. Men are neither healthy nor contented in wretched homes."</p>
+</div1>
+
+<div1>
+<head type="sub">DON'T FRET&#8212;TAKE A BATH</head>
+<figure n="photograph">
+<head></head>
+<p>This beautiful young lady is obeying the "first rule for lazy people," which is: "Never lie down when you can sit."	Hard work, but it can be done.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>RULES <hi rend="italic">for the hard-working:</hi></p>
+
+<p>Never run when you can walk, never walk when you can stand, never stand when you can sit, never sit when you can lie down.</p>
+
+<p><hi rend="italic">Rules for the lazy:</hi></p>
+
+<p>Never lie down when you can sit, never sit when you can stand, never stand when you can walk, never walk when you can run.</p>
+
+<p><hi rend="italic">Rules for every one:</hi></p>
+
+<p>If you come home tired, tense, or troubled, drown your sorrows in the bathtub. Bathing, as well as swimming, will not only relax you, but may put you to sleep. Alternate a cold spray or shower with a hot one; take a minute bath or even foot-bath in hot water; or, best of all, take a tepid bath of 97° or 98°, and stay in as long as it is convenient.</p>
+
+<p>"The wonderful nervous relaxation induced by neutral or tepid baths is an excellent substitute for sleep in case of sleeplessness, and often induces sleep as well," says <hi rend="italic">How to Live</hi> (Life Extension Institute). "Neutral baths are now used not only in cases of insomnia and extreme nervous irritability, but also in cases of acute mania. When sleep occurs in a neutral bath, it is particularly restful. A physician who often sleeps in the bathtub says that he 'sleeps faster' there than in bed."</p>
+</div1>
+
+<div1>
+<head type="sub">GIVE YOUR BOY A DOG</head>
+
+<p>IF your son insists on sharing his bed and board with a dog, do not worry. A yellow cur is better for his physical
+and mental growth than a year of trigonometry. He should not, however, stop with dogs. He should, according to Luther Burbank in <hi rend="italic">Training the Human Plant</hi> (the Century Company), have mud-pies, grasshoppers, water-bugs, tadpoles, frogs, mud-turtles, elderberries, wild strawberries, acorns, chestnuts, trees to climb, brooks to wade in, sand, snakes, huckle-berries, and hornets. And any child deprived of these, he says, has been deprived of the best part of his education.</p>
+
+<p>He will sometimes return worse for wear after an encounter with these educators:</p>
+
+<p>"A fragrant beehive or a plump, healthy hornet's nest in good running order often become object lessons of some importance. The inhabitants can give the child pointed lessons in caution, and some of the limitations as well as the grand possibilities of life."</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Alice Boughton.</ab>
+<p>There is one pal that never goes back on a fellow, even if he is all dressed up and has to keep his hands clean till supper-time.</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+
+<div1>
+<head type="sub">HERDING CATTLE BY AEROPLANE</head>
+
+<p>THE old-time cow-puncher would be "plumb locoed" if he could see how things are managed to-day. No more chaps, no more spurs, no more cantankerous cayuses&#8212;they've been banished from the range by the modern motor. And now, just as the cattle have begun to treat goggled cow-boys with calm disdain, along comes the aeroplane as the most recent guardian of the range.</p>
+
+<p>The ten thousand steers that nip the juicy grasses on the 187,000-acre San Cristobal ranch in New Mexico are to be bossed now by a man in the air. But old-timers see complications. How can a recalcitrant steer be properly subdued if he can not hear the choice words of the flying cow-puncher? And will the restless herds on stormy nights find the whirr of the planes as soothing as the wild songs of the old cow-men?</p>
+
+<p>The owner of the San Cristobal thinks the aeroplane is but a logical step in the development of his enterprise. Already automobiles and motor-cycles have enabled seven men to do the work of forty.</p>
+
+<p>"The round up," says the Chicago <hi rend="italic">News,</hi> "was the 'big time' on the old-style cattle ranch. Before the days of fences, three or four 'outfits,' whose stock ranged the same country, would get together on the round-up, and there might be as many as one hundred and fifty men in the main camp when the cattle were finally gathered. At the San Cristobal, seven men round up without outside assistance."</p>
+
+</div1>
+ 
+</body>
+</text>
+
+<pb n="Page 18" xml:id="ew.issue.19170129.p018" />
+
+<text type="nonfiction" xml:id="science.19170129">
+<body>
+<head type="main">WHAT SCIENCE IS DOING</head>
+<head type="sub">To Roll This Old World Along</head>
+
+<div1>
+<head type="sub">DRINKS FOR LADIES</head>
+
+<p>OUR smiling States have been embraced so indiscriminately by the rapidly approaching wave of prohibition that breweries are now making temperance drinks, saloons are serving nut sundaes over mahogany bars once sacred to the memory of John Barleycorn, and we even see a railroad bowing to the grim necessity of providing liquid refreshments of a variety hitherto unknown on our fast trains.</p>
+
+<p>The Minnesota Limited, a crack train between Chicago and Minneapolis, now boasts of a soda fountain, which is cozily installed in one end of the dining-car. As usual in dining-cars, every inch of available space is utilized in a manner that would make the ubiquitous soda-thrower resign from his union. The sirup pump, the fountain, glasses, holders, and a huge can of ice cream are all gathered in so small a space that it seems truly <choice><orig>incredi-
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Courtesy of the Burlington Railroad.</ab>
+<p>The soda fountain has leaped from its marble drug-store home to the dining-car of a last Western express.
+</p>
+<figDesc></figDesc>
+</figure>
+
+ble</orig><reg>incredible</reg></choice>: yet there it is, and a shamefaced order from the traveling salesman in the buffet-car will quickly bring a foaming glass of strawberry ice-cream soda to cool his temperance-parched palate.</p>
+
+</div1>
+
+<div1>
+<head type="sub">WAR BRIDES TO DIE</head>
+
+<p>IF our new war "brides"&#8212;the eight potash plants in southern California&#8212;do not learn more about the business, the end of the war will put them out of business. We have done a characteristic trick that plays directly into the hands of our neighbors oversea. German mines in the past produced all the potash we used, and when this supply was cut off our Bureau of Soils made a quick survey of natural resources. The most available potash was found to be the great kelp beds that float off the western coast. Almost immediately American capital launched eight reducing plants, which have turned out more than 125,000 tons of raw seaweed.</p>
+
+<p>The Secretary of Agriculture, in his annual report, says that the only reason these plants can exist is because of the high price of potash for fertilizer. Not one of them has had time to develop the by-products of the business, which would keep it alive in peace times and which would greatly reduce the cost of potash. The Secretary has planned a laboratory with a daily capacity of 200 tons of raw kelp, so that the necessary experiments may be made to save these great investments when peace is declared. No one has benefited very much from our new industry except the owners of capital, and they will lose eventually if something is not done to save them and so lower the price of fertilizer and in turn of all food products.</p>
+</div1>
+
+<div1>
+<head type="sub">A SIREN SCARES THEM</head>
+
+<p>IF it were not for the fact that almost all stolen autos are towed out of garages and from street corners instead of being run off under their own power, the self-squawker invented by a clever Minneapolis man would stop thieves from ever taking a machine. Imagine the chagrin of a clever automobile thief who self-composedly stepped into a shiny twelve-cylinder roadster, started the motor, and was assaulted in an auditory manner by the wild shriek of a siren!</p>
+
+<p>The siren is attached to the exhaust of the engine. When the motorist leaves his car, he pulls a lever that connects the siren and locks it so that the automobile itself, by means of the whistle, is a huge burglar alarm. A thief who would attempt to get away with a car so equipped would steal a patrol-wagon.</p>
+
+<p>The siren can be placed in any concealed position on the car, so long as it is connected to the exhaust by a small pipe. In one form, the device is connected up by means of a key, and the key-hole may also be concealed.</p>
+</div1>
+
+<div1>
+<head type="sub">BACTERIA THAT DANCE ON WATER</head>
+
+<p>WATCH your lips the next time you prepare to take a drink from a "sanitary" bubble fountain. The United States has adopted the bubble with joy since the population was scared to death over the common drinking cup, the moss-covered bucket that hung full of germs in the well. But investigators at the University of Wisconsin have discovered by experimentation that some bubble fountains are highly dangerous, says the <hi rend="italic">Journal of Bacteriology</hi>.</p>
+
+<p>A great many people who drink from bubbles touch their lips to the fixture, and in this way the fountains become covered with cultures of almost any kind of germ that can be orally carried. The next few persons who drink need not touch the fountain itself in order to become infected. The germs play on top of the column of water like tiny rubber balls on the top of a vertical hose nozzle. According to the experiments, germs remain in the bubble from two to one hundred and thirty-five minutes after inoculation, depending more or less on the height of the bubble.</p>
+
+<p>The experiments began as a direct result of an epidemic of severe tonsillitis or sore throat in the woman's dormitory at the university. The fountains in this building had small columns, so that the fixtures were often touched by the lips of the person who stooped to drink. After one tonsillitis case had drunk and touched the metal or porcelain, all who followed within two hours and fifteen minutes, whether they touched the fixture or not, were liable to infection.</p>
+
+<p>The experimenters recommend a bubble fountain that will be practically safe. It consists of a slanting tube with a jacket which does not touch the water coming from the tube. The jacket prevents the lips of a careless person from coming into contact with the tube that carries the water. With this type of fountain no careful person could become infected. The tube is slanted so that the bacteria can not dance upon the top of the column of water. They are carried into the drain with the first onrush of water, so that the user may insure himself a sterile drink of pure water if he lets it run for a moment&#8212;providing always, of course, that the source of water supply is good.</p>
+
+<p>This statement of results does not mean that bubble fountains should be discarded, but that they should be improved to make them absolutely safe.</p>
+</div1>
+
+<div1>
+<head type="sub">A FLASH-LIGHT OF YOUR NEXT BURGLAR</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from O. R. Geyer.</ab>
+<p>The burglar-catching camera will scare away and photograph any house-breaker after the family plate, even if the butler is at the opera.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>THE next time a member of the light-fingered gentry tries to make off with the family plate while you are attending the opera, take his photograph. It is possible. A Duluth dentist has invented a burglar alarm that not only calls the police, but that makes a negative of the intruder for the Rogues' Gallery. There is nothing meaner than that which can be done to a thief; nor is there anything that makes capture more certain.</p>
+
+<p>The burglar-catching camera was first used by the inventor, who was successful in putting a very clever thief behind the bars. This prowler discovered that when women went into the private office of a doctor or dentist they often left their purses behind them. So he made the rounds of professional men's offices, collecting purses. The last time he tried this highly advantageous system, he was surprised by a blinding flash, the click of a camera-shutter, and the gong of an alarm. The purse was a "plant" that made the connection of the newest device for the detection of offenders.</p>
+
+<p>The thief-catcher is so simple and inexpensive that it can be set up by any one with some little experience in electrical wiring. The "planted" purse is connected by electric wires to batteries, a spark-coil, a flash-light powder, and the camera-shutter. It is placed in such a position that a concealed camera is focused upon any one who attempts to remove the "plant."</p>
+
+<p>A large bell for an alarm is also placed in the circuit. As long as the circuit is broken nothing happens; but when the purse is picked up a pin is released which makes the necessary contact to do the several things required. After the dentist inventor caught his thief,&#8212;who turned out to be a much wanted professional who had never before been caught,&#8212;he was besieged by capitalists who wished to obtain the rights to the device. Several police heads declare that it is the best exterminator of safe-crackers ever devised.</p>
+</div1>
+
+<div1>
+<head type="sub">LET'S GO SKYING</head>
+
+<p>PERHAPS you remember the day father got his first "auto-mo-beel" and had the party to look it over? It was an old one-cylinder omnibus type touring car, and how every one laughed when you wound it up with a crank! It was a strangely similar party that gasped over Rodman Wanamaker's new "air cruiser de luxe" at Port Washington, Long Island, recently as it watched the new flying-boat glide upward from the waters with eleven persons stowed comfortably in the luxurious cabin.</p>
+
+<p>"The visitors were all greatly impressed by the remarkable completeness of this last word in pleasure air-craft," reads the report of a contemporary. Its equipment, besides self-starter, muffler, electric lights, search-lights, night flying lights, anchor, and other regulation yacht accessories, includes the Sperry automatic pilot, which does most of the active piloting for the driver. It has a cabin top for rough-water starting and landing, and looks like a big yacht with seventy-six-foot wings attached.</p>
+
+<p>The air cruiser draws eighteen inches of water, can leave the surface in thirty seconds, has a cruising radius of 300 miles when fully loaded, and 500 with a crew of but five persons. It flies sixty miles an hour with every one aboard.</p>
+
+<p>Mr. Wanamaker is planning to fly to Florida for the air-cruising season this winter.</p>
+
+<p>It seems not improbable that in the coming year a number of orders for similar machines will be placed by wealthy sportsmen.</p>
+
+</div1>
+
+<div1>
+<head type="sub">FATHER STOPS DOING THE DISHES</head>
+
+<p>ANY mechanical dish-washer has claimed to be the housewives' ticket to Utopia, when in reality it was but a maker and mixer of crockery hash. An inventor with a deal of common sense has, however, invented a washer that utilizes correct principles, revolving the water rather than the dishes.</p>
+
+<p>Dishes are placed in wire trays, each bit of porcelain held in place firmly, so that it can not be dislodged. Layers of trays are set in the cylinder, hot water and soap poured in, after which the motor is turned on and the cleansing begins. The interior of the cylinder has a cone in the base, within which is a dasher which throws the water slantingly on all the contents of the washer. This process over, the soapy water is drained out, and boiling clear water let in to rinse the contents. The dishes dry within half a minute after rinsing, without being wiped, and every one has then, of course, been completely sterilized. The machine is guaranteed not to break dishes.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from L. Al. Edholin.</ab>
+<p>This mechanical dish-washer revolves the water instead of the dishes, so that even the finest china can not be made into hash by its labors.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19170129.p019" />
+
+<text type="fiction" xml:id="roche.19170129">
+<body>
+<head type="main">The Sport of Kings</head>
+
+<byline>By <persName type="author" key="#Roche, Arthur Somers">ARTHUR SOMERS ROCHE</persName></byline>
+<byline>Illustration by <persName type="illustrator" key="#Keller, A.I.">A. I. Keller</persName></byline>
+
+<p>I HAD given young Murphy his final instructions, and was convinced that he was not only honest but intelligent and capable. From my wallet I drew twenty crisp five-hundred-dollar bills that I had received from the bank that morning in exchange for the telegraph company's check. Separating one of them from the bunch, I held it up before the lad's eager eyes.</p>
+
+<p>"This goes down on the mare&#8212;for you," I told him.</p>
+
+<p>He turned, slim and trim in his white riding breeches, shiny black boots, blue silk shirt, and golden sash slanting across his chest. He looked at the mare, fit, ready, shining; then he turned back to me.</p>
+
+<p>"She's a horse, sir," he said simply. "She'd win with an exercise boy up, ridden fairly. With me&#8212;my fee's enough for me, sir, but&#8212;I've a mother, sir, and if you mean&#8212;"</p>
+
+<p>"You'll get the ticket the second the race ends, if Vivandi&#232;re wins," I told him.</p>
+
+<p>"She's in now, sir," he grinned.</p>
+
+<p>I walked close to the mare, slipped my arm around her neck, and drew her soft nose close to my cheek.</p>
+
+<p>"Baby," I whispered, "you're running to-day for more than a victory. You're running for the Kernan pride, the Kernan hopes, and the Kernan love. Baby horse, I've pinned them all on you."</p>
+
+<p>FOOLISH, I suppose, telling a horse why you want her to win, and how much you want her to win. But it couldn't do any <hi rend="italic">harm!</hi> And it relieved my mind. And Vivandi&#232;re nuzzled me; she whimpered; she tossed her beautiful head. She <hi rend="italic">knew!</hi></p>
+
+<p>"So long, girl," I said.</p>
+
+<p>I left the mare with her jock and old Jerry. The race was too near now, I believed, for any tampering to be done with her. I had to get my money down, and Jerry could guard her. I walked to the betting ring. And as I walked I wondered.</p>
+
+<p>There had been no attempt to harm the mare. I was sure of Murphy, and the ride I'd planned for him precluded any possibility of disqualification of the mare. Rotten as the gang that ran things might be, there were limits. If four thousand people&#8212;and there were that many in the stands that day&#8212;could watch every inch of the ride and see daylight between my mare and the nearest opponent all the way, the judges wouldn't dare disqualify her for crowding, or anything like that.</p>
+
+<p>Then&#8212;how? Once again I asked myself that question. I began to wonder if my speculations had been foolish, my suspicions groundless&#8212;at least, as far as any possible plot against Vivandi&#232;re in today's race might be concerned. But there were Dane's threats.</p>
+
+<p>Possibly my attempted investigations and my defiance had scared them. I wondered. Then I shook my head. Colonel Buckmaster, who had wanted me to stay, had only yesterday advised me to withdraw the mare.</p>
+
+<p>No; though everything seemed serene, though I could figure no possible way in which the plot might be consummated, that warning of the Colonel's was enough.</p>
+
+<p>AND yet&#8212;it is not courage that has always actuated the Kernans to do the seemingly rash: it is stubbornness. I believe that, though the future had been rent apart and I had known that there was no chance of my winning out against the machinations of Dane and his gang, I still, from very stubbornness, would have done as I did.</p>
+
+<p>For I went down the line of bookies and bet them a thousand apiece&#8212;nine of them&#8212;on my mare to win.</p>
+
+<note type="editors">"The Sport of Kings" began in our issue of December 11.</note>
+
+<cb n="2" />
+
+<p>The odds were two to one against Vivandi&#232;re, and not a bookie shaded the price at sight of the two five-hundred-dollar bills I thrust into his hand. I had nine tickets in my hand, each calling for three-thousand dollars if the mare won, when I reached Ikey Blatz's stool. Ikey, in his way, had been decent to me. The thrill of betting such large sums gave me renewed confidence. I didn't want to take his money.</p>
+
+<p>"You don't have to bet with me, Ikey," I said to him.</p>
+
+<p>"I notice you comin' down the line, Mr. Kernan," he grinned. "I hear them call your bets. I don't see no one rubbing your mare off the slate."</p>
+
+<p>"But they aren't offering any of that six-to-one stuff to-day, Ikey," I retorted.</p>
+
+<p>"The field ain't so good," he grinned. "Besides, your mare showed something the last time out."</p>
+
+<p>"She'll show more to-day," I said. "Want a part of what's left?"</p>
+
+<p>Ikey leaned over until his face was near mine.</p>
+
+<p>"Not a part of it, Mr. Kernan. I'll take it all. I'm a friend of yours, Mr. Kernan, and you know it. But if a man wants to throw his money away&#8212;why&#8212;</p>
+
+<p>"Are you giving me a tip to keep off?" I asked him.</p>
+
+<p>He shook his head. There was no nervousness in his manner to-day. Instead, he was innocent, bland, cool; he spoke without accent.</p>
+
+<p>"Why should I?" he inquired. "If you think your horse is good, why&#8212;bet on her."</p>
+
+<p>I handed him my remaining thousand dollars, received the ticket, and walked away. It was not hard to fathom the reason for Ikey's change from last Tuesday. If Ikey were deeply in "the know," he realized that I was a menace to Grantham as the track was now conducted. And, while I was his friend&#8212;well, Ikey's friendship would never interfere with his bread and butter. As long as I was the innocent victim of a plot, Ikey was sorry for me. But as soon as I changed from helpless victim to aggressor, Ikey's friendship-inspired sorrow became less acute. Ikey was out for the coin.</p>
+
+<p>So, with the last of my tickets stewed away in my pocket, I made my way to
+
+<note type="editors">
+<floatingText>
+<body>
+<head type="sub">A BIG NEW MYSTERY SERIAL BY ADELE LUEHRMANN</head>
+
+<p>Do you believe in "double personality"? Have you ever waked up out of a sleep in terror at some action which, in your dreams, you had seen yourself commit?</p>
+
+<p>Could a man, under the influence of his "second self," do a deed utterly foreign to his real nature?  Could he even commit a murder?</p>
+
+<p>You will be asking yourself this question from the time you begin Miss Luehrmann's new story, "The Other Brown." For, in the library of his New York home, Mr. Welles-Hewitt lies murdered.</p>
+
+<figure n="photograph">
+<head></head>
+<p>Adele Luehrmann, author of "Who Was Marie Dupont?" of "Missing&#8212;Roberta Hoyt," and of "The Other Brown," which will begin next week.</p>
+<figDesc></figDesc>
+</figure>
+</body>
+</floatingText>
+</note>
+
+<cb n="3" />
+
+the edge of the betting ring. There I looked back at the groups gathered around each stool.</p>
+
+<p>I heard the raucous cries of the layers, and over and over, even as four days ago, I heard them cry the name of Vivandi&#232;re. Against a field not quite so good as that of Tuesday, with a confidence begotten of her magnificent showing for almost the entire race of that day, the public, despite the closer odds, were going to the mare. As it was here, so undoubtedly was it in the pool-rooms all over the country. Vivandi&#232;re had shown that, properly ridden, she was a race-horse.</p>
+
+<p>The public does not hold suspicion long. It had forgotten how it had hooted me and called me robber but four brief days ago; all it remembered was that Vivandi&#232;re had run a good race for eight ninths of the distance, and would have won but for a jockey's criminal misjudgment. So now they had made Vivandi&#232;re second choice in a field of nine. Only Jeanne d'Arc, a first-class little filly, was held at shorter odds. Jeanne d'Arc was at evens, and a good play, because of her unbroken string of eight straight wins, was being made on her.</p>
+
+<p>But more was going down on my mare, and if the amount of money wagered should affect the odds&#8212;and it always does&#8212;Vivandi&#232;re should now be at four to five. Yet she held up, even though I tossed ten thousand dollars into the ring.</p>
+
+<p>There wasn't a doubt in the world: the books were certain that Vivandi&#232;re would lose.</p>
+
+<p>I FELT the loneliest man in the world as, from the same point in the grand-stand where I had watched the race four days before, I now saw the nine animals line up for the start. In a box I saw Miss Leland and Dane, his two men friends, Mrs. Clarke, and the latter's daughter.</p>
+
+<p>This time the girl and Dane were not chatting unconcernedly. I suppose the tension was too great. They were straining over the edge of the box, staring at the horses below them. I turned my eyes back from the box and looked at the horses, the loneliest man there. If I'd dared to speak to Miss Leland before the
+
+<cb n="4" />
+
+race started, and if she'd given me a kind word, I'd have felt differently. But I hadn't dared to do so, and now&#8212;if Vivandi&#232;re lost!</p>
+
+<p>They went to the barrier for the fourth time. A perfect break, save that Vivandi&#232;re was a length behind. But that didn't worry me; she had the speed over a distance, and this was a mile and a quarter, even better suited to her than the distance of Tuesday, though she carried three pounds more to-day.</p>
+
+<p>Away outside Murphy took her; he lost another length around the first and second turns; then they straightened out in the back-stretch. I saw Murphy's blue silk jacket with the golden stripe lean forward; I saw her seem to stretch out horizontally; horse after horse fell behind her; they neared the middle of the stretch, half the distance not done.</p>
+
+<p>Vivandi&#232;re shot by&#8212;she went a clear length to the front. And then, with daylight between her and the bunch, Murphy sent her in to the rail. A sleigh-ride!</p>
+
+<p>Out of the tangled wilderness of sound, one shrill voice came to me. It was a man just in front of me. "Damn the luck," he whined. "He's killin' her off! Why'n'ell didn't he hold her back? She's a loser&#8212;"</p>
+
+<p>I leaned over and tapped him on the shoulder.</p>
+
+<p>"Why, you jackass," I yelled, "she's a runaway train! Don't you know a race-mare when you see her run?"</p>
+
+<p>He stared at me, recognized me, I guess, and ceased his irritating whine. I turned back to the track. They were at the third turn&#8212;Vivandi&#232;re and her jock. Two lengths behind pounded Tenace, a sprinter pure and simple, entered on a bare chance. They'd done only three quarters, and Tenace, a sprinter, was cooked! The two lengths stretched into three; Tenace was done. Past him came Jeanne d'Arc; she gained half a length on my horse, and then&#8212;</p>
+
+<p>They were rounding the last turn; they straightened out in the sprint for the wire, and&#8212;back, back, back went Jeanne d'Arc! Back went the rest of the bunch! A sleigh-ride? You could hear the bells jingle! Down the stretch she came, and every stride brought her farther away from the cooked horses who'd tried to hold the swiftest pace that ever was seen on a track south of Long Island or Kentucky! Hold it? They wabbled; the race was a joke.</p>
+
+<p>Six lengths to the good, Vivandi&#232;re swept beneath the wire! A race-mare!</p>
+
+<p>I WAS down at the grand-stand and over the fence and out on the track to meet Vivandi&#232;re when Murphy turned her, a furlong past the wire, and brought her back&#8212;brought her back, a record-breaker for the track, my own watch told me, by two seconds and a quarter, and hardly breathing.</p>
+
+<p>"All right, sir?" grinned Murphy.</p>
+
+<p>"There's fifteen hundred dollars waiting for you the second I cash my bets," I told him. And then I stroked Vivandi&#232;re's nose.</p>
+
+<p>As we passed Miss Leland's box, I looked up. Miss Leland was leaning over the edge of the box, and her gloved hand was beating a merry tattoo. But I saw Dane sneer. And then I thought of what, in the excitement of her great race, I had forgotten. The plot! Where was it? What had happened? Had I been dreaming? Had I imagined all these things? Vivandi&#232;re had won.</p>
+
+<p>"Mr. Kernan!"</p>
+
+<p>I turned to the judges' stand. Judge Kendrick was looking down at me, and in his hand he held the megaphone through which he had called to me. He beckoned to me. Jerry Kenney rushed up, and I gave the mare and her jockey over to his hands. I saw him lead the mare toward the scales, saw Murphy being weighed&#8212;but Vivandi&#232;re's number was not posted
+
+<pb n="Page 20" xml:id="ew.issue.19170129.p020" />
+
+
+yet. There might be some doubt, of course, about the winners of second or third place; but the mare&#8212;</p>
+
+<p>The crowd had suddenly become silent, save for a buzz of whispering. I looked toward Miss Leland's box. She was staring white-faced at me. I felt eight thousand other eyes upon me. I had reached the steep steps that led to the judges' stand. I felt a touch on my arm. My progress had been slow, for the track was thronged with nervous horses, already warming up for the next race. Jerry Kenney was at my elbow.</p>
+
+<p>"The lad's been weighed, and it's O. K." he said. "What the devil! Misther Sale&#8212;:"</p>
+
+<p>"The Lord knows, Jerry," said I, "but I'm wanted&#8212;"</p>
+
+<p>"And I'm goin' wid ye, sor," said Jerry. He followed me up the steep stairs. Holt met me at the top.</p>
+
+<p>"Kernan," he snapped, "have your horse taken to the stable at once. That your man behind you?"</p>
+
+<p>"Yes," I said.</p>
+
+<p>"Tell him to take the mare to the stable at once. As for you&#8212;you wait here!"</p>
+
+<p>"Go," I said to Jerry.</p>
+
+<p>A dazed look in his eyes, that must have matched my own, Jerry stumbled down the steps. A moment later I saw him lead the dancing mare off the track.</p>
+
+<p>"Result! Result!" cricd the crowd.</p>
+
+<figure n="illustration">
+<head></head>
+<p>"'Don't mind him,' cried Dane. 'The old fool won't dare&#8212;"My second shot will be foh yoh, seh,' said the Colonel calmly, without turning his head."</p>
+<figDesc></figDesc>
+</figure>
+
+<p>Judge Kendrick, the senior judge, walked to the front of the stand: he lifted a hand for silence. Then he put the megaphone to his lips and cried:</p>
+
+<p>"The result of the last race will not be announced for a few moments. Please wait patiently until the report of the veterinary now examining Vivandière can be announced."</p>
+
+<p>I understood now! I sprang toward Kendrick as he faced me.</p>
+
+<p>"What do you mean?" I demanded. "Do you dare stand there and&#8212;"</p>
+
+<p>"Kernan," he snapped, "one word from you and I'll bar you from this track."</p>
+
+<p>My fists clenched. I think, understanding the purport of the plot,&#8212;its deadly effectiveness, my own helplessness against its working,&#8212;I'd have knocked Kendrick down in that second of blazing wrath, had not Colonel Buckmaster interposed. His face was ghastly white and his lips were bloodless as he spoke to me:</p>
+
+<p>"Be calm, Misteh Kernan; be calm."</p>
+
+<p>Simple words, but they had an effect on me. To resort to violence would only prejudice what case I had; and that, with my judges in the plot against me, was little enough.</p>
+
+<p>IN a daze, I walked to the front of the stand. If I had thought I'd been hissed four days ago, I knew now that the crowd had been gentle with me on Tuesday.
+
+<cb n="3" />
+
+For now at sight of me&#8212;and always prejudging, as is the habit with crowds&#8212;they stood up and shook fists and reviled me. I looked toward Miss Leland's box. I saw her arguing&#8212;it seemed&#8212;with Dane. Then I saw her leave the box, and, with his apparently unwilling escort, descend to the track and walk across to the judges' stand. A moment later she was in it and addressing Kendrick.</p>
+
+<p>"May I inquire the reason for the delay in announcing the result of the last race?" she asked icily. She paid no attention to me.</p>
+
+<p>Kendrick had the grace to blush.</p>
+
+<p>"Why, Miss Leland, we have reason to believe that there is something illegitimate behind the strange form reversal of your horse to-day."</p>
+
+<p>"Form reversal? What do you mean?" she asked angrily.</p>
+
+<p>"When a horse is almost left at the post, and then spread-eagles a field the way your mare did; when a horse has no career behind it; when a horse has never shown enough speed to justify its being better than second choice; when such a horse breaks track records&#8212;"</p>
+
+<p>Her eyes blazed.</p>
+
+<p>"You mean to say that because my horse won you believe&#8212;"</p>
+
+<p>"The <hi rend="italic">way</hi> your horse won," corrected Kendrick suavely, master of himself now. "There's never been such a piece of <choice><orig>run-
+
+<cb n="4" />
+
+ning</orig><reg>running</reg></choice> shown on a Florida track. That by itself might not render us suspicious; but coupled with reports&#8212;"</p>
+
+<p>The girl turned to me.</p>
+
+<p>"Mr. Kernan, you hear these outrageous charges. Why don't you answer them?"</p>
+
+<p>BEHIND her I saw Dane. His hand was at his mouth, but he could not hide the sneer in his eyes. And still the time for violence, that last desperate resort of outraged manhood, was not come.</p>
+
+<p>"Why don't you answer them?" asked the girl again, sweeping me with a fiery glance.</p>
+
+<p>"A definite charge has not yet been made, Miss Leland," I said, as coolly as I could. "The moment it is&#8212;"</p>
+
+<p>A man's head and shoulders rose above the floor of the judges' stand. I recognized him: he was Dr. Groome&#8212;well named for a veterinary. He was a short, pursy little man, with restless eyes. He licked his lips as he looked at us.</p>
+
+<p>"Well?" snapped Kendrick, as the little man failed to speak.</p>
+
+<p>"The mare, Vivandi&#232;re, was doped," he said. "I found marks of the needle&#8212;"</p>
+
+<p>"You lie!" I cried.</p>
+
+<p>Kendrick turned on me.</p>
+
+<p>"Enough from you, Kernan! You're barred from this track. The race is declared&#8212;"</p>
+
+<p>"Just one minute!" It was my owner talking. "I own Vivandi&#232;re. Before you take any such measures as these, you will permit me to have my own veterinary look at the mare."</p>
+
+<p>"Bobby!" Dane spoke to her. "Don't be foolish. Mr. Kendrick&#8212;"</p>
+
+<p>She bit her lip.</p> 
+
+<p>"What evidence have you, even though Vivandi&#232;re was doped, to charge Mr. Kernan with the offense?"</p>
+
+<p>"Evidence? We have the man who did it at Mr. Kernan's orders! Sam, come here!"</p>
+
+<p>From a corner of the judges' stand shuffled a negro. He had been unnoticed up to now by me. As if all this were a play, and he had been waiting for his cue in the wings before coming forth to denounce me, the villain, he pointed his hand at me.</p>
+
+<p>"Dat's de man, gemmen," he said. "Dat's de man done give me fohty dollahs to stick a needle into his mare!"</p>
+
+<p>THERE was a moment of dead silence, in which I heard Miss Leland breathing heavily. Her bosom rose and fell tempestuously. It seemed as if all waited for her, not for me, to speak.</p>
+
+<p>"You aren't telling the truth," she said.</p>
+
+<p>Oh, I could have gone on my knees to her then and there! Maybe she had shown a distrust of me the other night; maybe her manner had been cool. But when it came to the point&#8212;it took more than a veterinary's word, plus the word of a cringing negro, to make her doubt my honesty.</p>
+
+<p>Kendrick frowned impatiently.</p>
+
+<p>"Miss Leland, I admire faith; I am sorry that yours is so misplaced. We have reason to know that Kernan bet ten thousand dollars on his mare to-day. An absurd wager, justifiable in no confidence in a horse's ability&#8212;justifiable, if I may so misuse the word, only if he had rendered the mare's victory certain, either by an arrangement with other stables that their entries should lose, or by an injection of dope into his mare that would cause her to show powers well beyond her normal ability. We have the evidence of Dr. Groome, and the word of this negro. There is nothing more to be done, save&#8212;"</p>
+
+<p>"When did Mr. Kernan pay you this forty dollars?" demanded Miss Leland of the furtive negro.</p>
+
+<p>"Dis mawnin', ma'am," he answered "It was in his stable, ma'am. He done say to me&#8212;"</p>
+
+<p>"Ye wasn't near the stable, ye layin' naygur!"</p>
+
+<p>It was Jerry, who had followed Dr. Groome up the steps. He now advanced into the stand, his lips quivering, his gnarled old fists doubled and raised menacingly.</p>
+
+<p>"I nivir saw ye'er black face before,"
+
+
+<pb n="Page 21" xml:id="ew.issue.19170129.p021" />
+
+<figure n="advertisement">
+<head>You'll Find This Book</head>
+<p></p>
+<figDesc>Advertisement for Woodlawn Nurseries</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Maloney's Fruit and Ornamental Trees</head>
+<p></p>
+<figDesc>Advertisement for Maloney Bros &amp; Wells Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>A Better Vegetable Garden</head>
+<p></p>
+<figDesc>Advertisement for Joseph Harris Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Study Law 30 Days Free</head>
+<p></p>
+<figDesc>Advertisement for Hamilton College of Law</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>For Irritated Throat Brown's Bronchial Troches</head>
+<p></p>
+<figDesc>Advertisement for John L. Brown &amp; Son</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Atco Autos $135 to $835 On Easy Terms</head>
+<p></p>
+<figDesc>Advertisement for Auto Trading Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Invent</head>
+<p></p>
+<figDesc>Advertisement for Waters &amp; Co., Succeeded by Talbert &amp; Parker</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Free Beautiful Book about Taxidermy</head>
+<p></p>
+<figDesc>Advertisement for N.W. Sch. of Taxidermy</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Typewriters</head>
+<p></p>
+<figDesc>Advertisement for Young Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Guava Jelly</head>
+<p></p>
+<figDesc>Advertisement for Carr Brothers</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$2<hi rend="superscript">00</hi> and You Get This Superb Cornet</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+
+
+he went on. "And me and Mr. Kernan was together all night and all mornin'. How could ye talk to him widout me knowin'? He lies!"</p>
+
+<p>"You hear?" cried Miss Leland.</p>
+
+<p>"'Like master, like man,'" Holt quoted. "Of course they deny it. But&#8212;the proof is conclusive. I am sorry for you, Miss Leland, that you should have been deceived into trusting to train your horses a man like Kernan; but&#8212;our duty is plain. Vivandi&#232;re was doped into running beyond herself. We have discovered the act, and&#8212;she is disqualified. If you will excuse me&#8212;"</p>
+
+<p>BUT he didn't reach the head of the steps, from where he would order the clerk to post the number of Jeanne d'Arc and the horses that had followed her into second and third place. I stepped in front of him.</p>
+
+<p>"You've done me," I said, my voice trembling&#8212;"done me by the most cowardly crooked trick a dirty mind could conceive! But you're not through with me. I've something to say and do&#8212;"</p>
+
+<p>I looked into the muzzle of a revolver.</p>
+
+<p>"We expected something like this, Kernan," said Holt. "Get out of my way, or&#8212;"</p>
+
+<p>For a moment I stood before his weapon. From the track and grand-stand came the voices of the crowd:</p>
+
+<p>"Result! Result!"</p>
+
+<p>Was life worth living when all the world should know&#8212;believe, rather&#8212;that a Kernan of Kernan's Farm had sunk to the level of the lowest&#8212;had "doped" his horses? Was it worth while? Or should I fling myself&#8212;</p>
+
+<p>"Just a moment, Mr. Holt; seh. Theah's three of us jedges, seh."</p>
+
+<p>Holt turned. He stared into the cold eyes of Colonel Buckmaster. He looked lower. The old Colonel had his gun out, and his withered hand held it firmly.</p>
+
+<p>"Wh-what do you mean?" gasped Holt.</p>
+
+<p>"I mean&#8212;theah's limits!" said the Colonel.</p>
+
+<p>The crowd, a bit exhausted by its own yelling, had grown silent for a space. Luckily, the crowd could not see what was going on; the wall-like rail of the judges' stand hid all save our heads and shoulders from view.</p>
+
+<p>"Don't move," said the Colonel. "I've used my gun, seh. I'll use it once moh if needful."</p>
+
+<p>Kendrick spoke:</p>
+
+<p>"Buckmaster, you're insane! Do you realize&#8212;"</p>
+
+<p>"I realize," said the Colonel, "that I thought I was bought. But I wasn't! No, by gad, seh! Hiahed, maybe, but not bought! Theah's limits! They have been reached. I thought&#8212;my Gawd, I thought that I'd stoop to anythin'! I thought I'd reached the plumb lowest level of dishonah! But I haven't. If yoh'd done anythin' else&#8212;if yoh'd disqualified for crowdin'. But to say that the son of Majah Jack Kernan <hi rend="italic">doped</hi> his own mare&#8212;I won't stand foh it! I'm low, but not so low as that! Yoh have yoah gun, Mr. Holt, soh! You have an equal chance! I give you until I count three! If befoh that time yoh have not called down to the man at the board to post Vivandi&#232;re's number, seh, I fiah! One!"</p>
+
+<p>"Don't mind him," cried Dane. "The old fool won't dare&#8212;"</p>
+
+<p>"My second shot will be foh yoh, seh," said the Colonel calmly, without turning his head. "Foh yoh, the masteh crook. Foh yoh, who'd blacken a man's name in the eyes of&#8212;Foh yoh, who'd kill two birds with one stone. Two!"</p>
+
+<p>"Let's rush him; let's&#8212;"</p>
+
+<p>I saw Dane crouch; I saw his loose lower lip tremble with wrath. I stepped before him.</p>
+
+<p>"Stay where you are," I ordered.</p>
+
+<p>"You&#8212;you, Kernan! You&#8212;" He rushed.</p>
+
+<p>I struck him only once, and he went down. I turned to Kendrick, who, white-faced, shaking, could only stare at the gun in the Colonel's hand. He wasn't worth bothering with. I turned to Holt. He seemed mesmerized by the Colonel's eye. He dared not press the trigger on which his finger rested.</p>
+
+<p>"I am about to count three," said the
+
+<cb n="3" />
+
+<figure n="advertisement">
+<head>Lewis-Built Homes Solve the Problem</head>
+<p></p>
+<figDesc>Advertisement for Lewis Mfg. Co.</figDesc>
+</figure>
+
+Colonel. "I shall fire immediately afterward. Thr&#8212;"</p>
+
+<p>He didn't finish the word; Holt's gun dropped to the floor of the stand. Hoarsely he called down to the waiting clerk:</p>
+
+<p>"Vivandi&#232;re first, Jeanne d'Arc second, Halidon third."</p>
+
+<p>He turned back to us.</p>
+
+<p>"You may go," he said chokingly. "There's law in this land, and&#8212;"</p>
+
+<p>"And yoh'll neveh call to it," said the Colonel.</p>
+
+<p>"But I'll see that you are&#8212;"</p>
+
+<p>"Neveh mind me," said the Colonel. He bowed to Miss Leland. "Shall we leave this&#8212;er&#8212;den of thieves, ma'am?"</p>
+
+<p>"Not yet, Colonel," I cried. "Jerry!" I thrust into his hands my bunch of tickets on the last race. "Cash them&#8212;quick! When they're cashed, come back. Until then&#8212;"</p>
+
+<p>There were drops of foam on Holt's lip, but he did not interfere with Jerry as he darted past him down the steps and across the track. The crowd was now hoarsely cheering for Vivandi&#232;re.</p>
+
+<p>"No danger, if we stay here until bets are cashed, of them changing the posted result," I smiled.</p>
+
+<p>The Colonel nodded gravely. Miss Leland spoke to him:</p>
+
+<p>"Colonel, was this all&#8212;did they all know&#8212;of this plot? Were they in it? All of them?"</p>
+
+<p>She looked down at Dane, just beginning to sit up.</p>
+
+<p>"All. And myse'f too," he said. "But I&#8212;theah is limits, Miss Leland, and I&#8212;"</p>
+
+<p>"You are a brave and honest gentleman," she cried.</p>
+
+<p>DANE rose unsteadily to his feet. He glared around at us, touching bruised spot on his jaw.</p>
+
+<p>"You&#8212;you&#8212;what happened?" he asked. "Bobbie! What are you&#8212;"</p>
+
+<p>Remembrance came to him. He glared at Holt and Kendrick.</p>
+
+<p>"You let&#8212;what have you done?"</p>
+
+<p rend="continued">"Vivandi&#232;re's number has been posted,"</p>
+
+ <p rend="jumpline"><ref target="roche.19170129.jump">Continued on page 23</ref></p>
+
+<cb n="4" />
+
+<figure n="advertisement">
+<head>"Brings me $50 a week"</head>
+<p></p>
+<figDesc>Advertisement for The Ten-Pinnet Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Keith's $1 Offer</head>
+<p></p>
+<figDesc>Advertisement for Keith's Magazine</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Earn $3000 to $10000 Annually Become An Expert Accountant</head>
+<p></p>
+<figDesc>Advertisement for La Salle Extension University</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Fertile Virginia Farms</head>
+<p></p>
+<figDesc>Advertisement for K. T. Crawley, Ind. Agt. C&amp;O Ry.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>West Grove Roses</head>
+<p></p>
+<figDesc>Advertisement for West Grove Rose and Floral Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 22" xml:id="ew.issue.19170129.p022" />
+
+<text type="nonfiction" xml:id="father.19170129">
+<body>
+
+<head type="main">How It Feels to Be a Father</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Alice Boughton.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>ALMOST every time I pick up one of the women's magazines I find something said about "the expectant mother," but never a word about the expectant father. Is it supposed that the father does not have great expectations too?</p>
+
+<p>My son, my first child, was born five days ago. In the busy preoccupations of these days I have been groping for words to set down something of the greatness and strangeness of this experience that has come into my life. And, as I am not accustomed to putting my deepest feelings on paper, I am almost at a loss to express what I have in my mind.</p>
+
+<p>The "expectancy" of the mother seems to be a technical term for her feelings and emotions before the child is born. When the baby has come her expectancy ends. But it is just then that mine begins.</p>
+
+<p>I have no words to describe the strange snarl of thoughts and impulses of the father in the few months before his first child is born. He sees this world-old, strictly animal and yet marvelously spiritual miracle proceeding before his eyes. He is impotent to hasten or retard. He finds the happy routine of companionship with his wife hampered at every turn. He may be petulantly annoyed, and yet ashamed of his annoyance. His wife will be full of the strangest fancies and impatiences. Her courage and endurance under the growing burden will fill him with wonder. And beneath all the doings of his daily life there will be a dragging, haunting fear.</p>
+
+<p>When my wife went down into the dark valley of agony six nights ago, to wrestle with the cruel kindliness of birth and bring back to me the tiny creature who looks so strangely like me, I too trod some bitter hillsides. I can never forget the hours I paced outside the hospital, biting nervously on my empty pipe, and remembering with shuddering pangs how many blunders I had made in our years together. How many times, in thoughtlessness or short temper, I had brought tears to her dear, brave eyes. And now, with all the gallantness of her undaunted womanhood, how she was suffering for me! It was a ghastly shock to me to learn what horrible suffering childbirth is&#8212;can I ever forget those agonized cries of pain? Thank heaven, I think she will forget that side of it sooner than I.</p>
+
+<p>And then, just as the dawn was breaking, they brought down the news. A boy.</p>
+
+<cb n="2" />
+
+<p>They refuse to let me stay with her more than a few minutes at a time. And, barring those things that absolutely have to be attended to at the office, I have been pacing the streets, thinking about it all.</p>
+
+<p>How strangely we are caught and enmeshed in the unending web of life! Because I once happened to visit a certain boarding-house, and met there a pair of honest, laughing brown eyes, now there lies in a bassinette, wrinkling his tiny forehead at the queerness of everything, this quaint splinter of humanity. Once the current of life takes hold of you, who knows on what islands you may land?</p>
+
+<p>Now that I am in truth an expectant father,&#8212;expecting unreasonably great things of this son of mine, I fear,&#8212;what principles may I discover for my guidance in dealing with him?</p>
+
+<p>One thing that has always impressed me is the prevalence of my father in myself. I do not know how it is with other men: I know that in my own case I can often see and feel my father acting in me. Every now and then I notice myself looking, acting, or feeling exactly as I know he would have done in the same instance. I see his gestures, his angers, his preferences written indelibly upon my being. They are part of my brain and fiber. Therefore it is surely not unreasonable to think that the same will be true of my son. My own virtues&#8212;such as they are&#8212;I shall have to encourage in him; my own failings&#8212;how many!&#8212;I shall have to combat. Wherever I have eaten the sour grapes of bad temper, laziness, dishonesty, or impurity, it is his teeth that will be set on edge, as the quaint old proverb puts it. It will be a stringent way of living my own life over again.</p>
+
+<p>Some father wrote in the <hi rend="italic">Saturday Evening Post</hi> not long ago a paper called "How My Boy Brought Me Up"&#8212;showing how it is often really the son who proves the teacher for the father. Surely that is properly so. These little ones come to us so fresh from the steep shore of eternity, so unmarred by all the compromises of earth, that we may well learn things anew through their clear eyes.</p>
+
+<p>However much we men jest among ourselves, and however we seek to conceal
+
+<note type="editors">
+<floatingText>
+<body>
+<head type="main">A MESSAGE TO THE READERS OF EVERY WEEK</head>
+
+<figure n="photograph">
+<head></head>
+<p>THAT a woman should have be able to understand so well the ruthless conqueror Napoleon as to write one of the best biographies of him ever written; that she should have been able to write a biography of Lincoln and a history of the Standard Oil Company that towers like a monument among all the literature of business; that she should have been able to untangle the snarl of our tariff history in a book that even a layman can understand&#8212;all this is interesting and glorious enough. But those who know Ida M. Tarbell are most grateful to her for proving with her own life that a woman may do what used to be known as a "man's work in the world"&#8212;may do it so well as to win international reputation, and yet in doing it gain added measure of the sweetness and charm and tenderness which Is the glory of the woman.</p>
+<figDesc></figDesc>
+</figure>
+
+<cit>
+<quote><p>ANY one whose business it has been to watch and record the onward march of social progress comes inevitably to feel that, after all, the strength and future of any people rests finally in the hands of its mothers. Every home is perforce a good or bad educational center. It does its work in spite of every effort to shirk or supplement it.. No teacher can entirely undo what it does, be that good or bad. The natural, joyous opening of a child's mind depends on its first intimate relations. These are, as a rule, with the Mother. It is the Mother who 'takes an interest'&#8212;who oftenest decides whether the new mind shall open frankly and fearlessly. How she does her work depends less upon her ability to answer questions than her effort not to discourage them: less upon her ability to lead authoritatively into great fields than her efforts to push the child ahead into those which attract him: to be responsive to his interests is the woman's greatest contribution to the child's development."</p></quote>
+
+<bibl>(From "The Business of Being a Woman.")</bibl>
+
+</cit>
+</body>
+</floatingText>
+</note>
+
+<cb n="3" />
+
+our deeper feelings, we recognize and worship purity and truth when we see it. And he who can not see it in the new-won mother with her baby at her tender breast is callous indeed.</p>
+
+<p>What an enrichment of life has come to me even in these few days as I have walked about the wintry streets! Now at last I have felt a kind of significance in my own middle-class self. I have added a man to the world's store&#8212;more than Joffre or Hindenburg have done in these last bloody years. I have molded no nation's policies, made no ringing speeches, bought no motor-cars, but I have been true to the first duty of the good citizen: I have given the nation a good, clean lad, and he weighs eight and a quarter pounds. Do you wonder that I stand smiling into the shop windows until the shop-keepers grow nervous?</p>
+
+<p>And, pondering about it, I have drawn up for myself a rough ten commandments:</p>
+
+<p>1. I brought this boy here without consulting him. He did not ask to be introduced into this very interesting but faulty old world. Therefore it is up to me to see that he gets a fair start. And my idea of a fair start is one not so easy that it will handicap him. (There is no danger of that, by the way.) Generally speaking, a fair start is one ten per cent. better than you yourself had.</p>
+
+<p>2. I must try to remember my own boyhood: what made me happy and what made me unhappy. My childhood was so happy that I saw it drift away with passionate regret. Even now it gives me a twinge every now and then to remember that I have to earn a living, and can not just ramble about and watch the phenomena of this amazing world. If I can sharply recall what was valuable and happy in my own childhood, it will help me to make my boy happy.</p>
+
+<p>3. I want to surround my son with all that is beautiful in books, pictures, and music. I shall begin reading poetry to him as soon as he comes away from the hospital&#8212;as soon as I can rescue him from the debilitating influence of trained nurses! First I shall read Walt Whitman's "Out of the Cradle Endlessly Rocking" to him. I have often thought that 
+
+<cb n="4" />
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Alice Boughton</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+
+Walt Whitman makes the best Mother Goose for very young children. The majestic ocean roll of rhythm in those titan lines will surely soothe almost any childish fret. And I do not want to have to depend on Mother Goose entirely. I am no poet, but I want to make nursery rhymes of my own for the little lad.</p>
+
+<p>4. I do not want any companionship to mean more to him than that of his father. I can hire people to do business for me, but I can't hire anybody to take a fatherly interest in my boy.</p>
+
+<p>5. One problem I shall have to think out is whether I shall let him have toy soldiers to play with. I think that perhaps the world has had enough real soldiers in the past few years.</p>
+
+<p>6. When it comes to teaching him about God, I think I shall have to leave that to his mother. I think he knows more about God than I do; and I'm sure she does. But I can teach him to worship beauty, and perhaps that is the same thing.</p>
+
+<p>7. Sex teaching: here I think it will be my duty to tell him things myself. This was the most dangerous stumbling-block in my own boyhood. I was never told anything, and my curiosity was almost frantic. It seems to me now that a father owes it to his son to be pretty frank in these matters.</p>
+
+<p>8. One of the things I am most grateful to my own father for was denying me things&#8212;things I thought I wanted but did not really need. I shall always be a poor man, and I want my boy to be a poor man's son, because such men are the happiest&#8212;and the most useful to the world.</p>
+
+<p>9. And I want him to see as much as possible of his grandparents. If there is anything as fine and pure in the world as a mother's love, it is that of a child's grandparents; it is the sign and symbol of the continuity and indestructibility of human life on this planet. Probably people get more real pleasure out of their grandchildren than from their children; because as soon as our children are old enough to take an intelligent interest in our thoughts they have to leave us to earn their own living.</p>
+
+<p>10. And I want to remember that any system or set of rules, however carefully tabulated, must leave something to sheer luck.</p>
+
+<p>I have set all this down in the exuberance and humility of beginning fatherhood. I wonder if fathers of long standing will have any advice to offer, or any comments to make?</p>
+
+</body>
+</text>
+
+<pb n="Page 23" xml:id="ew.issue.19170129.p023" />
+
+<text>
+<body>
+ 
+<figure n="advertisement">
+<head>Dainty! Charming!</head>
+<p></p>
+<figDesc>Advertisement for Carmen Complexion Powder, Stafford-Miller Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Japanese Rose Bushes</head>
+<p></p>
+<figDesc>Advertisement for Japan Seed Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>How to Make Poultry Pay.</head>
+<p></p>
+<figDesc>Advertisement for Inland Poultry Journal</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Greider's Fine Catalogue</head>
+<p></p>
+<figDesc>Advertisement for B.H. Greider</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Money in Poultry and Squabs</head>
+<p></p>
+<figDesc>Advertisement for Crescent Poultry Farms</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Neubert's Book Free.</head>
+<p></p>
+<figDesc>Advertisement for F.A. Neubert</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Egg-o-hatch</head>
+<p></p>
+<figDesc>Advertisement for Geo. H. Lee Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising for Every Week and The Associated Magazines, including Corporations, Female Help Wanter, Agents Wanted, Post Cards, Patents</figDesc>
+</figure>
+ 
+</body>
+</text>
+
+<text type="fiction" xml:id="roche.19170129.jump">
+<body>
+ 
+<head type="jump">The Sport of Kings</head>
+<p rend="jumpline"><ref target="roche.19170129">&#8212;Continued from page 21</ref></p>
+
+
+<p rend="jump">I said. "The books are now paying off the bets on my mare."</p>
+
+<p>"Paying off? On Vivandi&#232;re?"  His voice rose to a shriek. "Do you realize Holt! Kendrick! Did you stand for this? Don't you know that&#8212;"</p>
+
+<p>"Carteret," said Miss Leland, "what difference can it make to you whether Vivandi&#232;re is declared winner or not?"</p>
+
+<p>If, after what Colonel Buckmaster had said, there remained the slightest doubt, it vanished now.</p>
+
+<p>"Difference?" shrieked Dane. "Difference? All the difference in the world. It means that&#8212;"</p>
+
+<p>"Then you were in this conspiracy to defeat Vivandi&#232;re&#8212;to rob her of the victory she earned. What Mr. Kernan told me was true; his suspicions were true. You&#8212;Carteret, you're a <hi rend="italic">thief!</hi>"</p>
+
+<p>But he was lost to all sense of shame now.</p>
+
+<p>"Thief! Don't talk nonsense, you little meddler! If you'd minded your own business and kept out of here&#8212;"</p>
+
+<p>"That's plenty, Dane," I snapped&#8212;"unless you want more."</p>
+
+<p>He glared at me, red murder in his eye. He looked away and his eye fell on the revolver that Holt had dropped. He sprang for it, but I got there first, kicked the gun away from his outstretched hand, bent over and retrieved it. He raged.</p>
+
+<p>"Are you going to let them bluff us out of a fortune?" he cried.</p>
+
+<p>"Well, let's see you do something," said Kendrick.</p>
+
+<p>I felt a bit sorry for Kendrick. He seemed to have a sense of humor.</p>
+
+<p>Dane turned to Miss Leland.</p>
+
+<p>"Roberta, you've caused this! You know that Kernan doped that mare! Now, if the race stands, the innocent people who bet on the other&#8212;"</p>
+
+<p>She laughed. His plate was broken for all time; it never could be repaired.</p>
+
+<p>"Carteret," she said scornfully, "you aren't even a man's-sized thief! You whine and beg and&#8212;"</p>
+
+<p>She turned to me.</p>
+
+<p>"Will you take me away from here, Mr. Kernan?"</p>
+
+<p>I looked over the rail of the judges' stand. Across the track, just climbing the fence, was Jerry. Midway he paused and, looking up, saw me. His face split in a wonderful grin. He shook at me a thick packet of bills. I waved my hand to him, and then turned back to Miss Leland.</p>
+
+<p>"I will," I said.</p>
+
+<p>She drew her skirt closely about her, as if afraid it might be soiled if she brushed against the loose-lipped, desperate-eyed Dane. She looked at Colonel Buckmaster.</p>
+
+<p>"You will come with us, Colonel?"</p>
+
+<p>"He'd better," snapped Holt. "If he stays here&#8212;"</p>
+
+<p>"I'd be in no dangeh, sell, at the hands of yoh," said the Colonel.</p>
+
+<p>"No, you welcher," said Dane; "but you'll be in danger at the hands of your butcher and grocer and&#8212;your daughter! When she's in an alms-house, you double-crossing&#8212;"</p>
+
+<p>Dane stopped, awed by the look in the Colonel's eyes.</p>
+
+<p>"I p'omised my dead wife," said the Colonel slowly, "afteh I shot Colonel Tobey foh passin' me th' lie, thet I'd neveh kill anotheh man. But yoh ain't a man, yoh scoun'rel! Yoh breathe my daughter's name&#8212;yoh think heh name, seh, an' I'll blow yoah heaht out!"</p>
+
+<p>IT was Dane's last word; it was the last word from any of them. Beaten, baffled, they drew aside while we passed from the judges' stand down to the track, where the crowd, that had but just a few minutes before cursed me, now cheered me as the trainer of the winner of the Hotel Stakes. I paid no attention to their cheers; merely felt Miss Leland's finger's on my arm as I steered her across the track and up the steps of the grand-stand.</p>
+
+<note type="copyright" place="column-bottom">Published weekly by The Crowell Publishing Company at New York, N. Y., George H. Hazen, President. Executive and editorial offices, 381 Fourth Avenue. New York City, N. Y. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y., under the Act of March 3, 1879.</note>
+
+<cb n="3" />
+
+<p>"Where's Carteret?" demanded Mrs. Clarke, as we entered the box.</p>
+
+<p>The girl looked at her chaperon coldly.</p>
+
+<p>"Luella," she said, "did you know that he was interested in the last race?"</p>
+
+<p>Poor Mrs. Clarke! Vivandi&#232;re's number was posted; something had gone awry. And, rattled, Mrs. Clarke gave herself away.</p>
+
+<p>"Of course I did; and I don't understand. Carteret said that Vivandi&#232;re would be disqualified&#8212;"</p>
+
+<p>Then, too late, she realized what she was saying. Her face slowly crimsoned as Miss Leland stared at her. But the girl said no word of reproach to her. She spoke to Mathews and Tennant, Dane's two friends.</p>
+
+<p>"You two gentlemen," said Miss Leland, "heard Mr. Dane, last night, speak evilly of Mr. Kernan, and will remember that I presented no denial to his statements. I&#8212;I&#8212;against my better judgment&#8212;" Her voice broke. "I want you gentlemen to know that I know Mr. Kernan to be a very honest gentleman, and to hear my apology to him."</p>
+
+<p>A little sportswoman!</p>
+
+<p>Then she bowed to the two men, looked a long moment at Mrs. Clarke, and we left the stand. Out of the crack inclosure we went, straight to Vivandi&#232;re's stable.</p>
+
+<p>"You beauty!" cried the girl. "Oh, you are honest, Vivandi&#232;re! You are honest!"</p>
+
+<p>Vivandi&#232;re whinnied. She nuzzled her mistress. The stable boys sidled near. Murphy, the jockey, grinned at me.</p>
+
+<p>"It's enough to win for a lady like that," he said, "without money on the side."</p>
+
+<p>That reminded me, and I gave the boy fifteen hundred dollars of the money that Jerry had brought from the bookmakers. Miss Leland saw the act, and her eyes fired.</p>
+
+<p>"Money, money!" she cried. "The aim of it all! The thing that has degraded the sport of kings! The thing that makes men try to shame honest men, debase honest horses&#8212;I'm through with it. I'll not race again. I&#8212;"</p>
+
+<p>SHE'D been through a lot; now she gave way under the strain. I sent Jerry for a carriage. I would have gone into town with her, but she shook her head.</p>
+
+<p>"To-morrow, Mr. Kernan," she said, "I shall wish to talk with you. To-day&#8212;to-night&#8212;"</p>
+
+<p>So I let her go alone. As the carriage rolled away Colonel Buckmaster spoke to me.</p>
+
+<p>"A thoroughbred," he said. "Most women would go all to pieces, but she&#8212;Mr. Kernan, yoh all a lucky man!"</p>
+
+<p>"Lucky? To be the man that has exposed the crookedness of a man she might have married? To be the man who has made a breach between her and her friends? She must hate me!"</p>
+
+<p>"If yoh thought that yoh would certainly be unwohthy of hell," said the Colonel. "Mr. Kernan, I don't think we are needed around heah. Shall we go in town?"</p>
+
+<p>"Yes, Colonel," I answered. "You too, Jerry; there's business to talk over."</p>
+
+<p>The races were over now, and the cars were crowded. Yet we secured places on one of them, near two bookmakers. They glared at me. One of them touched me on the arm.</p>
+
+<p>"You're a mighty wise guy, Kernan," he said&#8212;"so wise that I guess you got sense enough to jump this burg, eh?"</p>
+
+<p>I smiled cheerfully at him. "Fine loser, aren't you?"</p>
+
+<p>"Just as fine as the rest of the bunch here, Kernan," he snapped. "Believe me, I'd hate to be in the shoes of you or your low-down, double-crossin'&#8212;"</p>
+
+<p>"Were yoh about to mention my name, seh?" inquired the Colonel suavely.</p>
+
+<p>There was no more conversation from the snarling bookie. Colonel Buckmaster was in no mood to be trifled with or annoyed that day.</p>
+
+<p rend="jumpline"><ref target="roche.19170205">To be concluded next week</ref></p>
+
+<figure n="advertisement">
+<head>Deaf?</head>
+<p></p>
+<figDesc>Advertisement for General Acoustic Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Let us Send You a Conn Cornet</head>
+<p></p>
+<figDesc>Advertisement for C.G. Conn. Ltd.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Positions Guaranteed</head>
+<p></p>
+<figDesc>Advertisement for Marinello Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Bicycle Book Free</head>
+<p></p>
+<figDesc>Advertisement for Montgomery Ward Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Mason, Fenwick &amp; Lawrence</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>High-Value Patents</head>
+<p></p>
+<figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents Secured or Fee Returned</head>
+<p></p>
+<figDesc>Advertisement for G.P. Kimmel</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Money in Patents</head>
+<p></p>
+<figDesc>Advertisement for P.H. Pattison &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventions&#8212;Patenting and Promoting</head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Songwriter's "Key To Success"</head>
+<p></p>
+<figDesc>Advertisement for Knickerbocker Studios</figDesc>
+</figure>
+ 
+</body>
+</text>
+
+<pb n="Page 24" xml:id="ew.issue.19170129.p024" />
+
+<text type="advertisement" xml:id="bayer.19170129">
+<body>
+
+<figure n="advertisement">
+<head>Bayer-Tablets of Aspirin</head>
+<p></p>
+<figDesc>Advertisement for The Bayer Company, Inc.</figDesc>
+</figure>
+
+</body>
+</text>
+</group>
+</text>
+
+</TEI>

@@ -1,0 +1,2356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, October 8, 1917</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19171008</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2010</date>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">Pages 1 and 2 are missing from the issue digitized for this project.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>52 East 19th Street, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1917-10-08">October 8, 1917</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-06-24"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2010"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+        
+<group>
+
+<pb n="Cover" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 2" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19171008.p003" />
+
+<text type="advertisement">
+<body>
+
+<figure n="advertisement">
+<head>Chesterfield Cigarettes</head>
+<p></p>
+<figDesc>Advertisement for Liggett &amp; Myers Tobacco Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 4" xml:id="ew.issue.19171008.p004" />
+
+<text type="fiction">
+<body>
+<head type="main">The Week-End Guests</head>
+
+<byline>Drawn for Every Week by <persName type="illustrator" key="#Hill, W.E.">W. E. Hill</persName></byline>
+
+<figure n="cartoon">
+<head></head>
+<p>The Browns, who retire rather early,&#8212;nine-thirty at the latest,&#8212;entertain a friend from town who is at his liveliest around 1 A. M.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="cartoon">
+<head></head>
+<p>Waiting for the family to get through with the bath-tub.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="cartoon">
+<head></head>
+<p>The man who was told it was Liberty Hall, and he could breakfast as late as he pleased, shows up at eleven-thirty. The maid feels differently about things, and shows it.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="cartoon">
+<head></head>
+<p>Cousin Etta, who never seems able to get out of strange bath-rooms, throws the key down to a rescuer. Unfortunately, it has landed in a neighbor's back yard.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="cartoon">
+<head></head>
+<p>"You should feel very much complimented&#8212;Tasso doesn't pay any attention to strangers as a rule!" Right in the midst of your one really clever story, the family pet, fresh from a stable, arrives on the scene and monopolizes all the attention.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="cartoon">
+<head></head>
+<p>Trying to be awfully clever in the guest book at short notice, while the family watch expectantly.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19171008.p005" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 5, No. 15<lb/>
+October 8, 1917<lb/>
+
+Every Week<lb/>
+
+$1.00 per Year<lb/>
+3 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter</p>
+</body>
+</text>
+
+<text type="nonfiction">
+<body>
+<!-- 
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="main">THE BEST INVESTMENT I EVER MADE</head>
+
+<div1>
+<head type="sub">The Prize Story</head>
+
+<p>THE best investment I ever made was when I invested in a wife. The original expenditure in cash was $714.35, which included furniture, a wedding ring, marriage expenses, and a honeymoon. It was a quiet affair. The furniture was simple, the bridal trip wasn't long, and all details were in keeping with a modest income.</p>
+
+<p>I was a single man before that. My pay was $18 a week. I had been working for twelve years, with wages varying from $10 to $18, and in all that time I had saved only $800. It was with considerable trembling&#8212;and a terrible mental shock as I saw the $800 disappear&#8212;that I ventured into wedded bliss and a rented flat. When the first rush of coal, grocery, and other bills was over, my financial knees were shaking in terror.</p>
+
+<p>I felt very sure that my wife and I could not live on what I earned. But the result surprised me. Money took on a different value to me. I felt new responsibilities. I saw the need of economy, of some system in life, of doing things with a definite purpose and of meeting conditions with a determination to solve them in the most practical manner possible. My wife was a wonderful help. She kept our household expenses down to the lowest ebb, and one of the first things she taught me was: "Save some money every week." I thought she was a real humorist when she first spoke about it. But I soon changed my mind.</p>
+
+<p>I did save money every week. Sometimes it was one dollar, sometimes two or three, and occasionally only fifty cents. But, unconsciously, I set a sort of rivalry for myself. It wasn't long before I was trying to do better one week than I had
+trying previous week. I walked to work instead of riding in street cars. I quit smoking. I took extra good care of my clothing. And, best of all, I put my mind right down to the problem of studying my work with an idea of getting ahead at it and of making myself so valuable to my boss that he would feel compelled to increase my pay.</p>
+
+<p>The increase in pay came quickly&#8212;two dollars a week at the end of three months, three dollars on top of that seven months later, and two more at the end of the year.</p>
+
+<p>My wife and I balanced up our books at the end of the year. We had $378 in the savings bank, owed no bills, had lived well and happily, and were strongly confident of the future.</p>
+
+<p>I had worked for a wholesale dry-goods house for six years before my marriage, and in those six years had my pay raised only twice. Three raises in one year after my marriage, therefore, made the year an eventful one, and indicated a marked increase in the efficiency and excellence of my work. The second year brought even better results; for I was made head of an important department, and my pay was increased to $35 a week.</p>
+
+<p>Four years after my marriage my wife and I bought a cozy one-family house, paying $2000 cash down on the purchase price, and moved into it with our two fine children. We are living happily there now. Our home is almost paid for, we have a tidy little sum in the savings bank, and we save eight dollars every week as regular as clockwork.</p> <closer><signed>M. F. S.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">Why Not Invest Yourself ?</head>
+
+<p>THE best investment I ever made was in a course of education with a correspondence school. At the time I invested in this course I had very little education and very little money. I had invested in different things before&#8212;mining stock, oil-wells, real estate, insurance, etc.&#8212;and lost everything; at least, I consider them lost, for I have not heard from any of them for several years. Of course, the real estate I invested in is still there, but it has decreased in value so that I could not sell it, and the taxes have about eaten it up.</p>
+
+<p>One day I was sitting on the porch. I picked up a postal card and read: "Learn more and know more." It was an advertising card for a correspondence school, and it set me to thinking. It was the first time I ever did any real thinking for myself.</p>
+
+<p>I said, "That is just exactly what I want&#8212;to learn more." Looking the card over again, I read further: "All you have to do is to mark an X opposite the course you want, and we will educate you in that line."</p>
+
+<p>I had been taking chances all my life, and I decided to take one more&#8212;not knowing at the time that a correspondence school could teach anything. I marked the X, mailed the card, and, when I entered upon the course, stuck to my studies until I was prepared to enter a university.</p>
+
+<p>When I took up this course I was working in a copper smelter in Butte, Montana. I studied in my spare time, and paid for the course on the instalment plan&#8212;five dollars a month until it was paid for. The full price of the course was $115. I finished my payments before my studies were half finished.</p>
+
+<p>I began to see things more clearly for myself, and I knew that at the rate I was going with my studies it would take me a long time to complete them, if ever. I thought the matter over, and decided to quit the smelter and go East and enter a university.</p>
+
+<p>After a couple of months' study I found that my money was running short. I got a job as a street-car conductor, and stayed at that until I graduated from the university.</p>
+
+<p>It was rather hard to work until 12 P. M. and then get up at 7 in the morning; but I stuck to it with grim determination. I was twenty-five years old when I started my course with the correspondence school, and I am now thirty-four, working for a good salary as a chemist.</p>
+
+<p>I am sure this is the best investment I ever made.</p><closer><signed>M. J. S.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">A Horse that Earned Its Keep</head>
+
+<p>I AM a woman, but I believe the best investment I ever made was in a horse, wagon, and harness.</p>
+
+<p>Before I had that I used to travel on foot, with my two children, carrying small articles that I sold.</p>
+
+<p>I was forced into some way of maintaining myself and the children by the loss of absolutely everything in the San Francisco earthquake and fire. Shortly afterward I was left as the sole support of the babies. My people were all dead.</p>
+
+<p>I sold the earthquake book, postcards, and pictures the summer after the disaster, and that led me on into general canvassing.</p>
+
+<p>The day I paid for the nice, gentle-looking brown horse, the children fairly rolled on the floor with joy. A horse&#8212;actually, a horse of our very own!</p>
+
+<p>I found a second-hand harness for ten dollars.</p>
+
+<p>Next, I bought a cheap wagon, and had bows put on it such as the old-style emigrant wagons had. Then I made a cover of heavy duck, and put it on myself.</p>
+
+<p>I next drove over the mountains nearly two hundred miles, to get to a climate that was mild enough to allow me to work in the winter. For, after I had entirely paid for my outfit, I had just two dollars in my pocket-book.</p>
+
+<p>Arrived there, I worked between storms, trading with the people for rooms, meals, horse feed, and so forth. This was in California, and when the good weather came we camped.</p>
+
+<p>After three years, I started out one summer as usual. But this time I had an automobile. It was a runabout with a big locked box on the back, in which I kept my stock.</p>
+
+<p>Last summer I sold fresh fruit to the men in the logging camps, and fresh vegetables, ice cream, and bakery stuff to the farms between the camps.</p>
+
+<p>And so I look upon the purchase of my horse and wagon as the best investment I ever made, not only because it was the beginning of real returns in my work, but because it was the means of introducing me to "sky-living," to the great outdoors, to abundant fresh air and sunshine.</p>
+</div1>
+
+<div1>
+<head type="sub">A School-Teacher's Investment</head>
+
+<p>SEVENTEEN years ago, I had been teaching school for five years in a small town, at a salary of $300 a year. I had not saved a penny in that time; my only worldly possession being a bicycle, which I had bought on the instalment plan for $85.</p>
+
+<p>My mother and I were living together in a rented house, and sharing expenses. One day, a small cottage near us was put up for sale. Suddenly the thought came to me to buy it. The price was $1200. I hadn't a penny, but I was determined. I sought our doctor. He listened and consented to my plan, providing I could make some sort of a deposit&#8212;never dreaming, as he afterward expressed it, that I would succeed in paying for it; but he believed in encouraging ambition, and knew that if I failed it would be a good investment for him.</p>
+
+<p>Well, I sold my bicycle for fifty dollars, made a deposit, and got the mortgage deed.</p>
+
+<p>How I worked for that house! My mother, after looking at the low chambers, said she could not live there. I was dismayed, but I would not give up. I put in an extra kitchen sink, and with no other expense made two small apartments (there were eleven rooms in the house), and rented them for nine and seven dollars a month.</p>
+
+<pb n="Page 6" xml:id="ew.issue.19171008.p006" />
+
+<p>Then my mother went away, and left me with a furnished house. I rented this to a family for my room and board. I secured work for my spring, winter, and summer vacations, and in a little more than four years I had paid for the house, my method being to pass my pay envelop, received for teaching, each month, unopened, toward my mortgage, using the rent from my own house to pay the rent of the house I occupied, depending entirely upon extra work for all other necessities.</p>
+
+<p>It was not easy. Many a time in those four years I was heart-sick for some of those little luxuries my associates were enjoying. But I stuck. I had my start, and my ambition was fired. I kept on saving and working, never turning down any opportunity to increase my income. My school salary was increased to $360, then to $425. I soon had enough to buy a lot in a good location. Then the same good doctor put up a two-flat house for me at a cost of $5500.</p>
+
+<p>Then I married and occupied one of the flats. My husband has never received more than the ordinary wages of a small town carpenter, often having no work for many months in the winter. We have two boys. Yet, by making our own repairs as far as possible, we have with our rent money been able to enlarge and improve our houses until at present they are furnishing us with a modern home with all conveniences, and in addition bringing us in an income of one hundred dollars a month.</p>
+
+<p>I am now about to make my best investment. For next year I am going to send my oldest boy away to school, on the rent of the cottage alone, at an expense of six hundred dollars a year.</p>
+
+<p>There is no telling where that investment will end.</p> <closer><signed>H. C. B.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">Keeping the Doctor in the Family</head>
+
+<p>I AM the youngest of eight children.  We lived several miles from school. Father thought education unnecessary, and as soon as we could we went to the city to work in the mills. Father let us keep our money, but insisted we should bank every cent not needed for our living. We went nowhere but to church.</p>
+
+<p>When I was eighteen I could earn two dollars a day and had two hundred and fifty dollars in the bank. I boarded with my brother. He had six children, and was anxious for them to take care of themselves. Esther, the oldest, was two years younger than I. I agreed to pay the bills if her parents would only let her graduate from high school.</p>
+
+<p>After Esther's graduation she went to work in the mill with me. She hated the work, and one day I found her crying. She said if she thought she would always have to work in the mill she would die. She said she wanted to be a doctor.</p>
+
+<p>We talked to her father and mother about letting Esther study medicine. It was no use.</p>
+
+<p>Then an idea struck me. My folks were always saying, "Get a little money invest it, and then watch it grow."</p>
+
+<p>I would invest my money in Esther. For the next six years I knew only of my work and Esther. She came out with a "Dr." to her name, and I had nothing. She started general practice, and I married. My husband had saved three hundred dollars and earned two and a half dollars a day. I still earned about two dollars for a year after I was married. We then took our savings, furnished a home, and went to housekeeping. My doctor gave me fifty dollars for a present.</p>
+
+<p>When my first baby was three months old, my doctor came to take me for a ride. She said she could pay a dividend of $500 and wanted me to go look at a house she could buy for that much down, and we could pay the rest at $15 a month&#8212;what we were paying for rent.</p>
+
+<p>Two years later, when my second daughter was born, my doctor said she could pay another dividend of $500 and had a house built on our lot beside our house. It rents for eighteen dollars a month, and we paid the rest of it with the rent. When my little son was born, my doctor said: "Oh, a boy this time! I will pay an extra dividend. I have bought you the apartment-house on Chester Street for $1000 down. It is rented for $60 a month, and you can pay the balance that way."</p>
+
+<p>Four years later another son was born, and another dividend of another $1000 came, with another building, the rent to pay the balance. My husband lost his hand and has not worked in the shop for two years, but my investment pays me $1500 a year in rents, and has changed the theme of my relatives. For now they say, "Stay in school as long as it is possible to do it." Out of nineteen nieces and nephews seventeen have gone through high school and eleven are in college.</p>
+
+<closer><signed>M. A. O.</signed></closer>
+</div1>
+
+
+<div1>
+<head type="sub">An Investment that Earned 1000 Per Cent</head>
+
+<p>WHEN I was a small boy, father induced me to do all sorts of errands by promising me the nickels, dimes, and quarters he might find in mule tracks. We lived back in the country where mules were uncommon and the finding of coins in their tracks entirely improbable. However, hope assured me that sometime and somewhere those coins would be found.</p>
+
+<floatingText>
+<body>
+
+<head type="main">On Seeing Judge Hughes at Work</head>
+
+<p>COMMENT you constantly hear about great men is this: "I wonder how he manages to get so many things done. He has only the same number of hours in a day as any other man, and yet he seems able to turn off twice as much work. What's the secret of it?"</p>
+
+<p>Well, there are two secrets. In the first place, it is indisputable that some men are born with a greater capacity for achievement than others, and by hard training are able to lengthen that lead even more. But it is not true, in the second place, that the average man has just as many hours in his day as the great man.</p>
+
+<p>"I have worked an average of twelve hours a day for more than twenty years," said Daniel Webster. And the more you see of great men, the more you realize that they slip in a lot of good, solid work at odd times when no one is looking—in the time that other men waste.</p>
+
+<p>All of which is inspired by a glimpse of Judge Hughes at work. It was yesterday, on the Twentieth Century Limited. We average men were just making our leisurely way in to breakfast—and thought we were up fairly early at that. Passing through one of the cars, we happened to glance in at the open door of a state-room; and there sat the Judge, a pile of papers on a table before him. He had had his breakfast long before, and was buckled down to the day's job.</p>
+
+<p>A very interesting period of the day, which few men ever discover, is the little stretch between 6 and 8 A. M. How many stories of success could those two hours tell!</p>
+
+</body>
+</floatingText>
+
+
+
+<p>In February of my eleventh year the presiding elder of the little Methodist church near our place came to hold a quarterly meeting. On the way home I learned that he was going to dine with us. He came up, driving a sleek span of black mules, which he tied to a post.</p>
+
+<p>After dinner and prayer the elder declared that he must hurry on his way to Bethel, ten miles away, where he would hold evening services. One of the mules stood docile while being loosened; but not so with the other. No sooner was her hitch- strap loosened than she began to rear, snort, and plunge, swinging the preacher about as a child swings a jumping jack at at the end of a string. The elder was courageous and held on until she was quiet. I brought his hat and one celluloid cuff, which I picked up several yards away.</p>
+
+<p>When the mules and driver were out of sight, father turned to go to the house.</p>
+
+<p>"Well, well, well!" he exclaimed. "Look here, son. See what I have found."</p>
+
+<p>I went to him and saw more than a handful of small bright coins lying scattered about in the mule tracks.</p>
+
+<p>I reminded father of his many promises. He chuckled and helped me gather up the money and deposit it in my hat. There was six dollars and forty cents.</p>
+
+<p>The next morning father and mother started to the Bethel neighborhood to give the elder a different six dollars and forty cents, while I remained at home, having a special invitation to take dinner with our neighbors, the Joneses.</p>
+
+<p>After dinner, Mrs. Jones, who had heard about my good luck, asked if I did not want to buy a hog. She had a sow that she would sell me for six dollars. I counted out the six dollars in nickels, dimes, and quarters. Mrs. Jones and her dog, Shep, helped drive the sow to our barn-yard.</p>
+
+<p>"What in the world is that old sow doing here?" were father's first words, on driving into the barn-yard that afternoon.</p>
+
+<p>I responded with pride: "I bought her. Bought her for six dollars!"</p>
+
+<p>"Bought her! Bought her for six dollars!" he scolded angrily. "She is the worst chicken-killing old beast in the country."</p>
+
+<p>In a moment a smile began to play at the corners of his mouth.</p>
+
+<p>"Well, drive her to the back wood lot. There are plenty of acorns and no chickens in the woods."</p>
+
+<p>For many nights thoughts of that old sow haunted me. I would not go into the wood lot. But time will heal wounds; so by the middle of May, while returning one Saturday afternoon from the swimming hole in the back field, I ventured across the wood lot.</p>
+
+<p>While passing through a thicket I was startled by a scurrying of pigs in all directions. Across an opening, that old sow&#8212;my old sow&#8212;was galloping, with thirteen round, plump pigs at her heels.</p>
+
+<p>I hurried home to tell father and mother what I had seen. Father smiled and remarked that there were good prospects for corn. He also glanced over at Mrs. Jones, who was at that moment calling the calves.</p>
+
+<p>One evening in September, at the supper-table, father took out his purse and counted out thirteen five-dollar bills. He shoved them across the table to me, saying:</p>
+
+<p>"Here is the money for the pigs, son. You keep the sow. I guess she killed chickens because she had nothing else to eat."</p>
+
+<p>After counting and recounting those bills, I passed them on to mother, who hid them somewhere in the folds of her skirt. It was the result of my first investment, and I had profited more than a thousand per cent.</p> <closer><signed>T. F. K.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">Are Ministers Good Business Men ?</head>
+
+<p>I HAD been preaching since I graduated from the theological seminary in 1875, until a year ago. In that time I saved $17,000 out of a salary that did not average over $800 a year and free use of a parsonage. One of my two children went through a first-class high school; the other graduated from medical college.</p>
+
+<p>Now, how did I manage to save any money? When I graduated from the seminary I was $150 in debt. I married a wife and set up housekeeping at an outlay of forty dollars. Then I received a call to a church at $600 a year.</p>
+
+<p>My wife and I resolved not only to live within our income, but to save at least $150 a year. We adopted the following rules:</p>
+
+<p>1. Pay cash for everything. 2. Save the fragments. 3. Sign no bonds or securities for any one, and ask no one to sign any for us. 4. Keep a daily expense account. 5. Put into the bank at least twelve dollars a month regularly. 6. Give one tenth of our income to benevolent and church work.</p>
+
+<p>In the first seven years we saved $900, paid off the $150 debt, and bought in a Western State eighty acres of land for $700, selling it later for $850. We lent this money at 7 per cent. interest.</p>
+
+<p>At this time I took out life-insurance policies for myself and my wife, at an expense of seventy-five dollars a year, and bought ten shares of Building and Loan Association stock at fifty cents per share a month. At the end of exactly ten years this stock had matured and I received $1000. With this money and the money I had on interest I bought eighty acres of land. At the end of six years I sold it at an advance of $1400. I kept on paying fifty cents a month into the Building and Loan Association, and by the time the second certificate had matured, the twenty years' insurance policies had also matured, and we received from the insurance company $2300 and from the Building and Loan Association another $1000. With this $3300 and the $3000 I received for my eighty acres, I bought a half section of land. The income from this farm netted me 6 per cent. interest on the investment clear of all expenses. After holding it five years I sold it at an advance of nearly $5000.</p>
+
+<p>My money is now invested in real estate first mortgages and Building and Loan stock. We own a nice house in a live town. We have plenty of land for a garden, which produces most of our fruit and vegetables. I have now retired from the active work of the ministry, and the income from our savings gives us a comfortable support.</p> <closer><signed>A. A. C.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">An Investment for a Soldier</head>
+
+<p>THE best investment I ever made was when, at the age of seventeen, I was a private in Company K, 142d New York Infantry, during the Civil War. Being detailed to act as a guard for a wagon train conveying provisions for the army, I noticed that there was a great waste of feed corn, owing to the carelessness of the muleteers after feeding their teams. I mentioned the fact to the quartermaster. He laughingly told me I could have all the corn left by the mules, after feeding, for my own use.</p>
+
+<p>During the march I saved fifty-five sacks of corn. When we reached Raleigh, North Carolina, where we parked for several weeks, I took the corn to a mill and had it ground into meal, giving the miller one quarter of the meal for grinding. I then employed several negro women to bake the meal into what was termed hoe-cakes, consisting of cornmeal, salt, and water, made an inch thick and six inches in diameter.</p>
+
+<p>The soldiers in camp there, General Terry's command, had plenty of money and were hungry for a change of diet. I sold the corn cakes for one dollar each, realizing $1142. I sent the money to my mother, who resided in New York City, requesting her to invest the money in real estate. This she did, in a place called Harlem in the city of New York, paying $900 for three lots twenty-five by one hundred feet each. I kept them until I was twenty-five years of age, when I had a good offer, sold the lots for $2850 each&#8212;a gain of $7650.</p>
+
+<p>After deducting taxes and other expenses from the original $1142, I had a total of $8073 left, all from saving the corn that was being wasted.</p> <closer><signed>G. P. T.</signed></closer>
+</div1>
+
+
+</body>
+</text>
+
+<pb n="Page 7" xml:id="ew.issue.19171008.p007" />
+
+<text type="nonfiction" xml:id="scott.19171008">
+<body>
+<head type="main">Torpedoed Twice in Fourteen Days</head>
+
+<head type="sub">The Story of Ed Ellis, Who Holds the Record for Submarine Bad Luck</head>
+
+<byline>As Told to <persName type="author" key="#Scott, S. Spencer">S. SPENCER SCOTT</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<note type="editors"><p>EVERY day you read that the steamship So-and-so was sunk by a submarine, and the crew turned out in open boats to live or die as they can. Have you ever thought about the men that make up those crews? What sort of chaps are they? How can they bring themselves to go to sea, time after time, in the face of so much danger?</p>
+
+<p>Here is the story of Ed Ellis, who holds the record of having been on two ships in succession, which were torpedoed within fourteen days. It gives you an interesting sidelight on a class of men who, without publicity or glory, are doing a very courageous and stirring part in winning the war. THE EDITOR.</p></note>
+
+<p>I WAS home on a visit in Pensacola, Florida, where my mother lives, when the <hi rend="italic">Centurion</hi> put in for a cargo of lumber. Having had a good rest, and being anxious to get to sea again, I went down to the wharves and found out that the <hi rend="italic">Centurion</hi> sailed the next day, bound for Liverpool. I returned home, packed my gear in my sea bag, said good-by to my mother, and joined the ship three days after Christmas, the twenty-eighth of December, 1916.</p>
+
+<p>The <hi rend="italic">Centurion</hi>, under Captain Jones, was a three-masted square-rigger of 1828 gross tons, not a half-bad ship; and with good winds, a month later, we arrived at Liverpool. However, orders awaited the captain telling him to proceed to London to unload, and after taking on fresh water and stores we set sail. Reaching the English Channel, we found an unfavorable wind with a rough sea running, and, putting out just enough canvas to keep her steady, we cruised around for fourteen days waiting for a head wind.</p>
+
+<p>On the twentieth of February, about 11:30 A. M., we were about fifty miles off the Lizard Light; I was at the wheel in the stern of the ship, when I saw a small craft about three miles off our starboard bow. I reported a suspicious craft to the skipper, who looked through his glasses and said she was an English submarine running awash. About three minutes later he changed his mind when a shell went whizzing over our bow. The captain looked again through his glasses, and  reported a German submarine flying the German war flag.</p>
+
+<p>All hands were called on deck; the star-board watch clewed up the mainsail in order to heave to. The captain then ordered the starboard watch to make ready the life-boats and stand by to abandon ship. By this time the submarine had come up close to us and was not more than forty yards away. The submarine captain came out of the conning-tower and in broken English asked who we were and where we were bound. He then told our captain to bring the ship's papers and his crew and row over to the submarine.</p>
+
+<p>We did this, and, coming alongside of the U-boat, the captain of the submarine directed our skipper and part of the crew to climb on the deck of the under-sea craft. After we had done this, the submarine captain picked out two German sailors from those on deck, and gave them eight bombs, together with instructions in German which I did not understand.</p>
+
+<p>Turning to the four of us who remained in the life-boat, he told us to row his two sailors back to our ship and return in ten minutes or he would shoot our skipper and everyone one of our crew.</p>
+
+<p>While on our way back to our ship, one of the Germans asked us in English for a smoke; we gave him some cigarettes, and, hearing that he could speak English, we asked him about the war.</p>
+
+<p>All he said was that we were the third ship they had sunk that day, and that he wished the war was over.</p>
+
+<p>When we reached the ship they made us come aboard and show them around. They first went up to the fo'castle and placed a bomb there. While here I grabbed my clothes and stuffed them into my sea bag. The German sailors smiled and said it was all right. They then put a bomb in hatch number one and in all the other hatches. Finally, going into the captain's room, they took the ship's flag and placed the last bomb in the skipper's bunk. We then rowed them back to the submarine, where the Germans got out and our skipper and the rest of our crew got into our life-boat.</p>
+
+<p>The captain of the submarine gave our skipper directions how to steer to reach land, wished us good luck, and in a 
+
+<cb n="2" />
+
+minute or two they had submerged.</p>
+
+<p>By this time the <hi rend="italic">Centurion</hi> had drifted quite a distance away, and as we started to row, according to the directions given us, there was a terrific explosion, followed by another and another.  The hatches blew high into the air and the <hi rend="italic">Centurion</hi>, rent assunder, slowly settled into her unmarked grave.</p>
+
+<p>At first a good many of the men thought it was a great lark; it was the first time that any of us had been torpedoed.  We laughed and sang chanteys as we rowed, but as the hours wore on the men became quiet.  At four o'clock we sighted some smoke off on the horizon, and pulled for all our might, while two of our crew put white shirts on oars and held them high in the air.  After rowing for a half-hour, the smoke disappeared and we again returned to the long, steady pulls of despair.</p>
+
+<cb n="3" />
+
+<p>As we had eaten nothing since breakfast, we were all beginning to get hungry, and so the captain decided to open up the water and biscuits. Our meal being over (it consisted of two hardtack apiece  and some stale water), the skipper told us off into watches of twelve each, there being twenty-four of us including the captain, and as it was already dark, we settled down for the dismal cold February night. Once during the night the lookout called out, "Ship ahoy three points on our port bow." All the crew were awake in a minute and Captain Jones sent up a night rocket, but there was no reply, and soon we were again resigned to our fate.</p>
+
+<p>To tell of the scanty fare and the weary hours would only tire you. For twenty-four men to subsist on one lifeboat's stores is not pleasant. However, after thirty hours of ceaseless watching we sighted a
+
+<cb n="4" />
+
+small boat, and, after signaling them frantically, were answered. Evidently they were very suspicious of us, for they sent out their dory far ahead of them, and, after making inquiries of Captain Jones, told us to pull for their boat. The boat turned out to be the English sea-going tug <hi rend="italic">Bureaucrat</hi>. We came alongside and boarded her. And, believe me, I made immediately for the fire-room to get thawed out. The captain of the Bureaucrat ordered a mess and hot tea for us: It was our first meal in thirty-six hours. The <hi rend="italic">Bureaucrat</hi> landed us at Falmouth, and a happier crew never was landed.</p>
+
+<p>From Falmouth I went to London, where, after I had gotten my pay and bonus, I decided I would look about for a while, but found London a very dreary war-time city. I then made up my mind to ship for the States and quit the sea for a time. In these days it is not hard to find a ship, and without much trouble I, learned that the <hi rend="italic">Eastpoint</hi>, a tramp steam vessel of eight thousand gross tons owned by Furness and Whitte, was leaving for Philadelphia. I shipped on her as quartermaster on the seventh of March, and on the eighth we sailed. Little did I know that my voyage on her would be short.</p>
+
+<p>On March ninth, only the day after leaving London, at dark, 6 P. M., we were twenty miles off the Eddystone Light, when, without warning or a soul on board sighting a thing, there was a terrific crash which shook the ship from stem to stern; ripping a hole in her forward starboard side, right below hatch number two.</p>
+
+<p>There was a panic on board as the ship began to settle down by the head. The engineers and oilers rushed up on deck and we hastily cut away the life-boats. I got into number three on the starboard side, and by the time we cut away the forward falls and painter, we were dangerously close to the ship's stern. It was then that I realized that in the excitment the engineers had failed to shut off the steam, for I could hear the giant propeller swishing the water as the boat's head continued to go down. One of the men in the boat grabbed an oar and tried to push away from the ship's side. Fortunately, we succeeded in pushing our stern out; but the head swung in, and the still fast-moving propeller came down on us, smashing our bow into a thousand pieces. Our life-boat, with her bow stove in, filled rapidly, and the first thing I knew I was swimming for my life away from the ship's stern. A second later I heard a deafening roar, followed by another explosion as the boilers let go.</p>
+
+<p>This was lucky for me, as it blew a lot of wreckage into the water, and I climbed on a piece of the bridge that was floating near me. I saw another head bob up, and gave him a hand to get on my improvised raft. We then looked toward the <hi rend="italic">Eastpoint</hi> and saw her make her final plunge, with a death-rattle that sounded almost human. When we saw the other boats sending up flares, we hallooed, and were answered with the welcome news that another ship was in sight.</p>
+
+<p>Within half an hour we were rescued by an English patrol boat, given warm clothes and hot tea, and landed at Plymouth. After getting rested up I went to see the American consul, to whom I told my story, which in brief was that I had had enough and that I wanted to get back to the States. The consul said that I held the record for being torpedoed twice in fourteen days and that he would do what he could for me. He gave me a letter to Captain Emery Rice of the <hi rend="italic">Mongolia</hi>, soon to leave for the States, and I have since been on the American Coast Lines. But I kind of think I will quit this Atlantic Coast and make a trip across. After all, it gets kind of monotonous knowing that you are always safe."</p>
+
+</body>
+</text>
+
+<text type="nonfiction">
+<body>
+<head type="main">Are You a Good Investment?</head>
+
+<p>WOULD it pay you to invest some money in yourself? Would it increase your earning capacity? Perhaps you are already doing capacity work. But if you are not yet a "going concern" it will be worth your while to think out, frankly and courageously, the answer to these two questions: What do I most need in order to make my work a real success? and, Is the thing I need purchasable?</p>
+
+<p>Perhaps (and it's a very likely "perhaps," I'm sorry to say) you are in the plight of my friend Mary. Mary was a secretary. She had tact, good judgment, an immense capacity for work, a thoroughly reliable disposition, and she could spell like Webster's dictionary. But her health was wretched&#8212;so wretched, in fact, that she suffered in her work no less than in her person, being rendered absolutely ineffectual every few weeks during the winter months by repeated attacks of tonsillitis.</p>
+
+<p>What I want to point out is this: Mary invested twenty dollars in her throat. She thereby gained established health. In consequence she secured a much better position; and, though she is by no means placed beyond the dreams of avarice, she is nevertheless beyond the nightmare of losing her job.</p>
+
+<p>Are you an "also ran," instead of a winner, because you need to have your appendix out, your tonsils treated, your teeth filled, your eyes fitted to glasses, or because you lunch on a lettuce sandwich and an ice-cream soda under the delusion that you are practising economy?</p>
+
+<p>Or maybe you belong to Jack's class.</p>
+
+<p>All Jack needed was training. He looked like a complete failure, but he was only an industrial misfit. He was a wretched errand-boy, a worthless office-boy, and a good-for-nothing grocery-boy, until he chanced one day upon a magazine containing an article on wireless telegraphy that touched his imagination. His scout master, who was a real sport and ready to take a chance on anything, advanced the money for his training, and in less than six months Jack was earning sixty dollars a month as the wireless operator on a boat.</p>
+
+<p>What sort of training would make a better worker of you? Would a course in filing, in typewriting, in bookkeeping, in stenography, in design, in agriculture, in domestic science, or in salesmanship make your task more intelligible, more interesting, and better paid?</p>
+
+<p>And how about appearance? Consider the case of Gladys. Gladys was a stenographer. She had an adaptable disposition, an unruffled temper. But she persisted in wearing earrings, white-topped shoes, gowns of astounding combinations of color, and in powdering her nose like a doughnut.</p>
+
+<p>The consequence was that her chief never thought of giving her any more responsibility or of increasing her salary, for the simple and sufficient reason that he wasn't able to think of anything, when he looked at her, except what an amazing-looking young person she was.</p>
+
+<p>Appropriate clothes, health, training&#8212;these things are purchasable and are a sound business investment. Come, buy! Come, buy!</p> <closer><signed>E. M. R.</signed></closer>
+
+</body>
+</text>
+
+
+
+<pb n="Page 8" xml:id="ew.issue.19171008.p008" />
+
+<text type="nonfiction">
+<body>
+<head type="main">THE MELTING POT</head>
+
+<head type="sub">In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes of Health, Efficiency, Travel, Biography, and Adventure</head>
+
+<div1>
+<head type="sub">WHO OWNS THE RAILROADS?</head>
+
+<p>THE National Association of Owners of Railroad Securities, organized in Baltimore, brought out the fact that the securities of the railroads are owned as follows:</p>
+
+<quote>
+<p>By individuals outright, numbering over one million and owning over ten billion dollars.</p>
+
+<p>By life-insurance companies, with over forty-six million policy-holders, representing a billion and a half dollars.</p>
+
+<p>By savings banks, with ten million depositors, representing nearly a billion.</p>
+
+<p>By fire and marine insurance companies, casualty and surety companies, representing over half a billion dollars.</p>
+
+<p>By benevolent and charitable institutions, colleges, schools, etc., representing over a quarter of a billion dollars.</p>
+
+<p>By trust companies, State and national banks, representing a billion dollars.</p>
+</quote>
+
+</div1>
+
+<div1>
+<head type="sub">CARTOONIST, AND CONGRESSMAN TOO</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; International Film Service, Inc.</ab>
+<p>Representative John M. Baer, when he isn't making hot speeches against the food gamblers, draws cartoons to illustrate how important it is for the world to have peace.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>THERE is a new kind of Congressman&#8212;not a Republican, a Democrat, Prohibitionist, or Socialist. He was elected by hundreds of North Dakota farmers to see what can be done at Washington to bring about peace.</p>
+
+<p>A few months ago, the death of a Republican Congressman from North Dakota left a vacancy. The Democrats and the Republicans, who are the small-town business men of the district, nominated their candidates with their usual assurance. But at the polls on election day the farmers, leaning against their buggy-wheels, wore a sly, pleased look. When the votes were counted, it was announced that John M. Baer had been elected by a large majority. The new party, the Non-Partizan League, had done its first work.</p>
+
+<p>Representative Baer is thirty years old&#8212;the youngest member of the House. He was born in a Wisconsin town, went to a small Middle Western university, and became a civil engineer, but gave, up his profession to become the postmaster of Beech, North Dakota.</p>
+
+<p>Two years ago he began drawing cartoons for a rather meager non-partizan newspaper in Fargo. Now he is the mouth-piece through which the North Dakota farmers are talking to the government.</p>
+
+<p>Baer's father fought in the Union Army; his brother was killed in the Spanish-American War; and he is a nephew of James Whitcomb Riley.</p>
+
+<p>"I was sent to Congress by bigger and abler men than I," says Baer. "I don't pretend to be their leader. I only do the work they want done."</p>
+</div1>
+
+<div1>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>This bridge still stands, after all the bombardment of the Somme battles; and British soldiers have taken possession of it. Once a still blue canal slipped along under the bridge, mirroring pleasant green banks.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+<div1>
+
+<head type="sub">ARE RICH WOMEN THE WORST DEAD BEATS?</head>
+
+<p>THE poor woman pays cash, or, at least, settles her bills at the end of the month. But one of the worst pests of the business world is the rich woman who can pay but won't, says Shirley Burns in the <hi rend="italic">Forum</hi>. He writes as follows:</p>
+
+<p>"The credit manager of one of New York's largest dry-goods stores said to me: 'The rich woman buys her clothes from the dressmaker and then goes to Europe or Palm Beach, and doesn't pay her bills for a year or a year and a half. The dressmaker is behind in the stores where she bought the materials, and as a per cent. off is given her anyway, she is not a very profitable customer. If she is dunned, the rich woman imagines she is insulted, pays her bill, and never goes to that store nor to that dressmaker again.'</p>
+
+<p>"No: she goes somewhere else, and causes trouble in a new quarter. If the tailor or dressmaker is working on small capital&#8212;and many of them are&#8212;the mental anguish caused by these long-delayed payments often amounts to a crime. Bankruptcy and even death are not infrequent results. Women who can pay but are flippantly or snobbishly indifferent to their obligations are a menace to the community in which they live&#8212;and they live all over the United States."</p>
+
+</div1>
+
+<div1>
+<head type="sub">THE NURSE AND HER PATIENT</head>
+
+<p>A NURSE, who had been sitting up for twenty-four hours at a stretch with a sick child, asked the mother: "Who will stay with the patient while I sleep?" The mother was amazed. "Sleep!" said she. "Do you have to sleep? I thought you were a trained nurse."</p>
+
+<p>A good many people feel this way about trained nurses, says Frances Campbell in The Book of Home Nursing (E. P. Dutton &amp; Company). But a nurse need feel no qualm of conscience if she eats regularly, takes a bath every day, and sits idly in the easiest chair she can find when the patient is asleep or does not need her. Here are some sensible suggestions that Miss Campbell makes:</p>
+
+<quote>
+<p>Do not rock in a squeaky chair. It is best not to rock at all; for such little things tire sick people.</p>
+
+<p>Attend to the necessities of your patient as early in the morning as possible. Take her a basin of warm water, soap, wash cloth, and towel, and things for cleaning her teeth. If she is not too ill, she will enjoy washing her face and hands and cleaning her teeth herself. If you must do it for her, do not wet her hair, get soap in her eyes, or rub her nose up instead of down.</p>
+
+<p>If your patient is not well enough to brush her teeth, take a small strand of absorbent cotton, twist it around your index finger, dip the finger in water, a mouth wash, or water to which a little lemon and glycerine has been added. Clean the teeth with this very gently, and do not gag her. Clean back of the wisdom teeth, the gums, and the tongue, renewing the cotton frequently.</p>
+
+<p>When working around the patient, do not use quick, jerky movements. Be as gentle and as sympathetic as possible.</p>
+
+<p>If your hands are cold, hold them in hot water a few minutes before going to your patient.</p>
+
+<p>When feeding a weak patient, do it slowly. Never be impatient, and do not look cross if she spills things. Nine times out of ten, she will be more sorry to make trouble than you are to remedy it.</p>
+</quote>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>A class of young German nurses learning how to give a baby a bath. The first requisite is to have an absolutely imperturbable baby, like the one in the picture.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+<div1>
+<head type="ms">RULES FOR WAR-TIME ECONOMY</head>
+
+<p>HERE are six little war-time suggestions from <hi rend="italic">System</hi>: how many of these sensible, easy economies are you employing in your own business?</p>
+
+<quote>
+<p>Watching for needless words in telegrams, and for needless telegrams.</p>
+
+<p>Shifting hours of work a half hour earlier to cut down the light bill.</p>
+
+<p>Routing traveling men more carefully.</p>
+
+<p>Asking customers to cooperate in saving the time of sales-people, in "bunching" their telephone orders, and in carrying home small packages.</p>
+
+<p>Cutting down the number of daily deliveries.</p>
+
+<p>Stopping the C. 0. D. privilege for purchases of less than $1.</p>
+
+<p>Guarding against waste in wrapping and packing.</p>
+</quote>
+</div1>
+
+<div1>
+<head type="sub">KIPLING ON ITALIAN FIGHTING</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>Prince Udine, in spite of his genial American smile, is a cousin of the Italian King. But in 1905 he went to college in America, never letting on that he was a prince.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>"YOU could set down half a dozen Gibraltars among this upheaval of hills, and in a month the smooth Italian roads would overrun them as vine tendrils overrun rubbish heaps," writes Kipling in the <hi rend="italic">West Coast Leader</hi>, describing the Italian front.</p>
+
+<p>"The mountains are vile ground for aeroplane work, because there is nowhere to alight in comfort; but the machines beat over them from both sides, and the anti-aircraft guns fill the gorges with multiplied coughings. The enemy fly high over the mountains, and show against the blue like bits of whirling ashes off a bonfire. They drop their bombs generously, and the rest is with fate&#8212;either the blind crack on blank rock or that ripe Crash which tells that timber men and mules have caught it full this time.</p>
+
+<p>"'Are all Italians born driving motors?' I demanded, as a procession of high-hooded cars flopped down the curve, their bonnets pointing over a four-hundred-foot drop, and slid past us with a three-inch clearance between hub and hub.</p>
+
+<p>"'No,' my informant replied. 'But I expect the bad chauffeurs have been killed.'</p>
+
+<p>"They are a hard people, these Latins, who have had to fight the mountains and all that is in them, meter by meter.</p>
+
+<p>"Up there, if a man is wounded and bleeds only a little before he is found, the cold kills him in minutes, not hours. And the wandering mountain gusts take sentries from under the lee of their rock as they stand up to be relieved, and flick them into space."</p>
+</div1>
+
+<pb n="Page 9" xml:id="ew.issue.19171008.p009" />
+
+<div1>
+<head type="sub">THE CHILDREN OF THE MODERATE DRINKER</head>
+
+<p>THE damage man does through intemperance is not limited to its effects upon himself. It is expressed in the miseries and in the erratic, defective nervous systems of his children and grandchildren. Nor is alcohol the only harmful indulgence, says Dr. Robert S. Carroll in <hi rend="italic">The Mastery of Nervousness</hi>. (Macmillan Company). A more common and seductive enemy is food intemperance.</p>
+
+<p>"Excesses in meats, sweets, and fats, if habitual and not neutralized by exercise, will result, within the first and second generations, in overacidity, which is now recognized as one of the most common causes of nervous irritability."</p>
+
+<p>To the people who drink, even in moderation, he gives only disheartening news:</p>
+
+<p>"Nations, as well as individuals, are accepting the unquestioned nervous damage of alcohol. Many appalling and distorted statements have been made to frighten the drinker from his cups. But it would seem that when a committee appointed by a government to investigate the harmful effects of alcohol reports that the drinker's life is shortened twenty-five minutes by every glass of alcoholic liquor, even the reckless would hesitate. Six years are knocked off the earthly existence of the average regular drinker. The tippler answers that it is his own life that he is shortening, and if he pleases so to live and die, he alone is hurt. There is another thing to be considered:</p>
+
+<p>"Three out of four of the offspring of average drinkers show inherited defects, chiefly of the nervous system. Many an intense, unhappy, miserable, high-strung neurotic of to-day is the defective daughter of a genial, jovial, easy-going, old- school gentleman whose mint juleps of good-fellowship burn hot in the brains of his children. Numbers of fearsome epileptics go through lives of fierce uncertainty, the unhappy products of a single ancestral spree. These innocent victims are condemned, before birth, to live with nervous systems attuned to discord, capable of expressing life only through minor strains, hopelessly deficient—pitiable, depressed, morbid, blighted lives."</p>
+</div1>
+
+<div1>
+<head type="sub">IS THE WORLD'S GOLD OF ANY VALUE?</head>
+
+<p>GOLD was the first metal that primitive man discovered. It was pure, yellow, beautiful, defying the ravages of time. Too soft to be of any use to the primitive man as a weapon, it was too fascinatingly beautiful to throw away. So the savage man made it into trinkets.</p>
+
+<p>What he had left he sold to some other savage for wheat. The wheat was eaten, but the gold remained and was handed down. Then some long-headed financier of the Stone Age learned that it was easier to hoard gold than to hoard the winter's supply of food. That Stone Age man was our first great banker; and since then gold has been the yard-stick with which man measures all values.</p>
+
+<p>But gold itself has no intrinsic value, says an article in <hi rend="italic">Commerce and Finance</hi>. Indeed, it is the stumbling-block in the progress of financiers.</p>
+
+<p>The first real rival of gold was when men learned to trust each other and credit was invented.</p>
+
+<p>The war has dealt the strongest blow to gold. Since it began, Europe has bought to the amount of seven billion dollars more than she has sold to America. How does she pay? In gold?</p>
+
+<p>Only a fraction has been in gold. It is too dangerous to ship gold now. We have only Europe's promissory notes.</p>
+
+<p>Apparently, Europe's gold is valueless. It would be worth more if it were steel or copper. Germany, with billions of gold stored away, can buy nothing from the outside world. She doesn't even need gold as a medium of exchange inside her kingdom.</p>
+
+<p>These facts are making men feel that Europe's scramble to protect her gold supply, before the war, was a comedy. Heavy shipments of the metal were sent hither and yon over the ocean, and in many cases the original seals placed on the casks were unbroken.</p>
+
+<p>One well known economist would solve the problem this way:</p>
+
+<p>"On a given day, vessels laden with the world's hoard of gold should set sail for the middle of the Atlantic Ocean. When the vessels meet, their holds should be loaded with dynamite, a time fuse set, and the crews withdrawn. The explosion would send the gold to the bottom, and settle for all time this nonsensical performance of carting the stuff back and forth across the ocean."</p>
+</div1>
+
+<div1>
+
+<head type="sub">GIRL SOLDIERS OF RUSSIA</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; International Film Service. Inc.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>PEASANT girls, factory girls, and college girls are now fighting in the Russian amy. A few of them were aristocrats, and, had not the revolution wiped out the Czar's court and broken the authority of old-fashioned autocratic parents, they might have married grand dukes or English army officers or American millionaire-diplomats.</p>
+
+<p>They are like this girl in the picture&#8212;big, sturdy, and large-boned, because most of them are the descendants of hardy, much-suffering peasants. With their heads shaved and in their blousy Russian uniforms, they look strangely alike. For the first time you realize what a shaved head does to a face. The features become at once startlingly boyish; the pretty girlish nose is suddenly snub; and the ears are prominent.</p>
+
+<p>And why shouldn't women fight? There is no frail little woman in the world who doesn't meet a dozen men a day whom she could outdo. Women resist cold, fatigue, and pain better than men. They have more resilience. As for courage, the Russian girls have never yet cried "Kamerad," and surrendered: for it is one of the laws of the Legion of Death to take poison rather than be captured.</p>
+
+<p>These girls are the real sports of the war. Feeling that they must save revolutionary Russia from the Germans, they have done more than egg on their brothers, than jump into the jobs of men "to release them for the front."</p>
+
+<p>They have gone to war, and have undergone the ultimate suffering that only a common soldier knows&#8212;the trenches.</p>
+</div1>
+
+<div1>
+
+<head type="sub">THE BOOK THE KAISER SUPPRESSED</head>
+
+<p>IN 1912, two years before the Great War, a school-teacher in Germany, William Lamszus by name, published a little book about war called <hi rend="italic">The Human Slaughter-House</hi> (published in this country by Frederick A. Stokes Company). It had no sooner appeared than a howl of rage went up from the militaristic newspapers. Lamszus was "relieved" of his position as school-tecaher, the sale of the book was officially interdicted, and he was denounced as a traitor&#8212;as one who would teach the German people that war was not glorious, and so would weaken the spirit of conquest. The following passage describing a bayonet charge, while by no means the most terrible in the book, will give an idea why the Kaiser and his generals had the book suppressed:</p>
+
+<p>"The earth reverberates dully and trembles under our tread. A roar of cheers, clubbed rifles, that's how they are coming up behind us. Our reserves are driving the last assault home. They are charging in dense mobs—sappers, sharpshooters, riflemen. A tall sapper jumps clean over me—I see how his eyes are flashing as he passes.</p>
+
+<p>"Past thick, silvery tree-trunks, through the green beech leaves, with the sun laughing in them, the lust of blood
+charges red and naked—headlong through the undergrowth.</p>
+
+<p>"And now&#8212;there is something wriggling away so comically before our eyes, and twisting with sinuous dexterity in and out among the trees and the undergrowth. There is something clinging to the machine as if it were ingrown into the iron.</p>
+
+<p>"The trees are dancing round and round before my eyes. I catch my foot in the root of a tree. Lay on! Lay on! They are 'ours' who have come up, and are laying on blindly on heads, and bayoneting bent backs and bared necks, till the whole tangle disperses, squealing.</p>
+
+<p>"I drag myself to my feet. A lad, a mere boy, is sprawling over and clutching his abandoned gun. With an oath some one dashes at him. It is my yokel bareheaded, his face distorted by rage. The boy stretches out his mangled hand to ward him off. His lower jaw is waggling, but his mouth remains voiceless. The next moment the fixed bayonet plunges into his chest—first his right, then his shattered left hand seizes the blade, as if, in his death throes, he were trying to pluck it out of his heart. So he clings tightly to the bayonet. A thrust! A recovery! A bright, leaping jet follows the steel&#8212;and heart and breath gasp their last."</p>
+</div1>
+
+<div1>
+<head type="sub">"MAKING GOOD" NOT THE ONLY THING IN LIFE</head>
+
+<p>MODERN business, with its ideal of "making good" in the money sense, has discouraged the spiritual side of life. The speeding up of business because of competition has absorbed men's energies in money-making. The pace is quickened by the unscrupulous and the greedy, and the rest have nothing for it but to comply or drop out entirely. These are the conclusions of five Englishmen who collaborated on a study of <hi rend="italic">Competition</hi> (Macmillan Company) and its effect on human beings.</p>
+
+<p>For many people the pressure of business is so great that there is no strength left for pleasure. Their natural instincts for fun and companionship and other things not related to business become dulled, and finally are starved out.</p>
+
+<p>The outward sign of this may be a distaste for everything on the literary and artistic side of life. The men who have the responsibility of their own business show this the most. "One observer has noticed, in a large Midland town, how difficult it is to find among any of the shopkeepers an evidence of public spirit. It seems that it overtaxes all their energies to keep their heads above water. There is never one single evening at liberty for relaxation, reading, concerts. Interest is narrowed down to immediate private problems, and dullness of mind and apathy of spirit are the result."</p>
+
+<p>In most groups of respectable middle-class people it was found that "success in life" means "success in business." They even go so far as to say that a man who proves unsuccessful in business is also unsuccessful in life.</p>
+
+<p>Men under the influence of modern competition in business become mercenary even in their recreations. Their joy in their possessions is due to the pride they feel in having been able to buy things that cost so much money.</p>
+
+<p>"Finally," says the author, "the self-made man quite frequently becomes harsh or apathetic toward poorer or less successful men. One experienced observer says: 'In almost every case I have ever known&#8212;and these are many&#8212;of men who have become successful in accumulating great wealth, I have noticed a growing impatience with the sufferings and disabilities of the poor. When a man accumulates great wealth, he does, in fact, appropriate to his own private use a disproportionate share of the good things of the earth. Then he tries to justify himself by believing it proportionate to his own power to serve mankind. Naturally, he values himself dangerously high; and, being a man without any spiritual development, he is bound to be bigoted and tyrannical."</p>
+</div1>
+
+<div1>
+<head type="sub">HOW LLOYD GEORGE GOT HIS START</head>
+
+<p>IN a village at the foot of Snowdon an old quarryman died, and before he passed away expressed the wish that he should be laid by the side of his daughter, who was buried in the grave-yard of the Church of England. And out of this, according to Frank Dilnot, in <hi rend="italic">Lloyd George</hi> (Harper Brothers), came Lloyd George's real start in life.</p>
+
+<p>The Church clergyman said that the old man could not be placed by the side of his daughter, but must be buried in a remote portion of the grave-yard reserved for unknown people and for suicides. The Non-conformists of the village were outraged at the suggestion. They went to young Lloyd George. He plunged deep into legal enactments, into the local conditions, and into all the facts pertaining to the case. Then he delivered a characteristic judgment.</p>
+
+<p>"You have the right," he said, "to bury this man by the side of his daughter in the church-yard. If the clergyman refuses you permission, proceed with the body to the grave-yard. Take the coffin in by force, if necessary. If the churchyard gates are locked against you, break them down."</p>
+
+<p>The villagers faithfully followed the suggestion of the young lawyer. They took the body to the church-yard&#8212;broke down the locked gates, and buried the old man by the side of his daughter.</p>
+
+<p>The Church authorities were scandalized, and an action at law was the result. It was heard in the local county court before a judge and jury. Lloyd George defended the villagers, and later appealed the case to the Lord Chief Justice in London, and won.</p>
+
+<p>He was twenty-five when he secured this triumph. All the public were interested in the case, and in the Welsh townships and villages his name flamed out like a beacon.</p>
+</div1>
+
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19171008.p010" />
+
+<text type="fiction" xml:id="tilden.19171008">
+<body>
+<head type="main">A KNOWLEDGE OF BEANS</head>
+
+<byline>By <persName type="author" key="#Tilden, Freeman">FREEMAN TILDEN</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#Pryor, W.">W. Pryor</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"She didn't ask him whether he had been fishing, or why he happened to be so far from home, or anything like that. 'You've never had a chance!' she began. 'I think it's a shame!'"</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>WHEN the composite judgment of the town of Bristow decided that Walter Kettridge didn't know beans, it went wrong on two points out of a possible two, thereby batting .000 for the day. For in that rash judgment was meant to be expressed not only a contempt for the potentialities of the youthful Mr. Kettridge, but also a blistering sneer at the beneficent bean.</p>
+
+<p>The bean, reasoned these wiseacres, is almost a thing of naught. It is honest, but poor, and ill favored. It is so simple that it is a joke. A bean is the easiest thing in the world to understand. So, when they announced out of their august prescience that Walt didn't know beans, they considered that they were letting him off at a flag station in the Great Dismal Swamp.</p>
+
+<p>There was this much warrant for Bristow's conclusion in regard to Walt: that he was, like the bean, modest, pale, and shrinking. When he was nineteen years old, and about to be foisted on an unsuspecting world by Bristow Academy, he was already nearly six feet tall, and eleven inches wide at the center of gravity. He was already having trouble with his hands, which got in the way of everything he tried to touch; and his feet persistently shadowed him through a miserable existence, obstructing traffic.</p>
+
+<p>The only time Walter was ever proposed for municipal honors was when he was to read the Preamble to the Constitution at mid-year exercises&#8212;and then he walked off the platform of the Opera House backwards, and fell into the basket of diplomas. He was so shy, by nature and cultivation, that if you spoke to him suddenly or kindly on the street he tried to efface himself against a tree. About half the town pitied him, and the rest guyed him.</p>
+
+<p>After the Academy had divorced him, Walt was shot around from one busy Bristow emporium to another, lingering just long enough in each one to become acquainted with the action of the screen-doors. It being a foregone conclusion that he was utterly unfit for trade, he was
+
+<cb n="2" />
+
+hired with a sigh, and fired with a hearty handshake.</p>
+
+<p>Walter worked, successively, for Grimes the plumber, for the Cash Market, for the Bristow Hardware &amp; Coal Company, for the Earle Dry-Goods Store, the Bristow Hotel, the livery stable, and the express company. Then he began to fall to lower degrees, and ended his meteoric career, or rather the first phase of it, in the tonsorial parlors of Onesime Duprat, the habitant barber from Kebec, by gar!</p>
+
+<p>But no sooner had Walter mastered the gentle art of shaving than the customers began to josh him. They asked him how the atmosphere was at his altitude. They alluded facetiously to certain light brown spots on his nose and ears, which adolescence had forgotten to erase when she left him. But, most distracting of all, they asked him who that girl was they saw him walking with last Tuesday night, over near the saw-mill. This last gibe never failed to bring on a state of near-collapse. Walt systematically crossed the street at the approach of any female.</p>
+
+<p>ONE day, unnerved by the tormenting of a client in the chair, Walt neatly opened a two-inch slit under the ear&#8212;and left the barber-shop hurriedly.</p>
+
+<p>That was the logical end of Walter Kettridge's efforts in Bristow. He had exhausted the full list of employment possibilities, except Joel Crandon's General Store. As for this place, Walter lost his job there before he was hired. Old Man Crandon simply said he wouldn't have the fellow around, not if he was paid for it, by thunder!</p>
+
+<p>There is humor in all this, to be sure. But, laugh how you will, it is tragedy, too. It is the tragedy of the ugly duckling. They didn't mean to make life a burden to Walt. They merely read his exterior, and it was head-lined: "butt." They knew he was the faithfulest soul that ever came down the lane; but they figured that he didn't know any better, so there couldn't be any credit coming for that. And the pity of it was&#8212;for them&#8212;that nobody
+
+<cb n="3" />
+
+ever looked squarely into Walter Kettridge's eyes.</p>
+
+<p>Yes; just one person in Bristow had looked at those eyes, and found the troth there. She had observed them, with the unerring precision of girlhood in such matters, when she used to sit just opposite the young man in the grade school. Perhaps something else&#8212;that extra something that pulls the wires on us all&#8212;had shown her the truth. At any rate, Molly Crandon, the daughter of that same merchant who wouldn't take a chance on Walter's labor, had perceived, in the blue-green eyes of the boy in school, a fund of intelligence, of solid, eager, acquisitive thought, that even his clumsy shyness could not hide from her.</p>
+
+<p>The girl said nothing. There was nothing to be said to a young man who fled at the rustle of skirts. And so they went through school, never far distant from each other, figuring by seats. And if Walter ever covertly watched Molly Crandon going down the street, it was probably only to think, in a terror-stricken sort of way, what a peerless creature she was, and how very like a door-mat was his own linear frame.</p>
+
+<p>There was nothing of the wee, timorous, cowering mouse about Molly Crandon. It happened that her father was one of the richest men in Bristow; but, had he been the poorest man, Molly would have risen to the top like the Jersey cream that basely tried to imitate the tint of her skin. She was the kind of young woman that makes tennis, short skirts, white shoes, hair, and moonlight respectable and desirable. You didn't think of her as beautiful. You just watched her blow by on a favorable breeze, and you said, "Oh!" Molly was like that.</p>
+
+<p>MOLLY CRANDON had a little brown mare. One day the mare took Molly out on the Enderby road about two miles. It was the first week in May. The red leaves of the soft-maples were just beginning to reach out for sunlight; the bluebirds had come North to entertain the
+
+<cb n="4" />
+
+beech woods again with their melody: there was an uneasy stirring of renascence in the underbrush. And, just this side of the bridge over Perham's Brook, where the logging-road darts off into a riot of stumps and stones, there was a young man sitting on a hemlock log. He was looking down at the chips and moss at his feet so intently that the horse was abreast of him when he glanced up. Then Molly Crandon said cheerily: "Why, Walter!"</p>
+
+<p>There being no visible escape, Walter replied feebly:</p>
+
+<p>"Yes, ma'am." Then he corrected this to, "Yes, Miss Crandon."</p>
+
+<p>She didn't ask him whether he had been fishing, or why he happened to be so far from home, or anything like that. Acting under the pressure of a sort of certainty, she alighted and held out the horse's bridle.</p>
+
+<p>"Will you hitch her?" she asked. "I want to speak to you about something.,"</p>
+
+<p>Walter hitched the horse so securely that to detach her later it was almost necessary to cut the reins. Then he faced his doom like a brave young man.</p>
+
+<p>HE began by stamping her small foot&#8212;not in any anger at her audience, but in current with her thoughts.</p>
+
+<p>"You've never had a chance!" she began. "I think it's a shame! I believe you know more than half the folks in town&#8212;if you'd only have a little more confidence in yourself.</p>
+
+<p>"Oh, no!" rebutted the young man.</p>
+
+<p>"Oh, yes! Are you doing anything now, Walter? I mean, working anywhere?"</p>
+
+<p>He fixed his gaze on the ground and shook his head.</p>
+
+<p>"Then you don't mind, do you, if I just make my father give you a chance in the store? I know he needs somebody; I heard him say so yesterday. I thought of you then, too. But&#8212;Walter&#8212;you're so hard to talk with."</p>
+
+<p>"He doesn't want me," was the hopeless rejoinder. "I'm a misfit, Miss Crandon. I try my level best, but I don't catch hold anywhere."</p>
+
+<p>The young fellow didn't seem to be pitying himself. His voice indicated merely that he had become convinced of his own ineffectuality.</p>
+
+<p>"You've got fine ideas, Walter," insisted the girl, with the fervor that distributes hymn-books among the cannibals. "You could have beat us all in school, if you had just believed in yourself. But, if anybody laughed or whispered; you thought they were making fun of you, and you went all to pieces. Now, my father is going to give you a chance. I'm going to see that he does. Will you try once more? And will you make up your mind that you are going to succeed?"</p>
+
+<p>He turned those really fine eyes upon her in true gratitude; but he continued to shake his head.</p>
+
+<p>"I'd do 'most anything to please you," he stammered awkwardly, "but you'd regret it. Your father would blame you when he wasn't satisfied with me. I'd rather not."</p>
+
+<p>"Walter Kettridge!" exclaimed Molly Crandon, in almost maternal exasperation. "I'd like to shake you! I don't know just what you need. Do you remember the note I slipped to you, one time in our second year in the Academy?"</p>
+
+<p>A scarlet banner waved over the young fellow's face.</p>
+
+<p>"Yes," he said throatily.</p>
+
+<p>"Well, I think just the same way now. You remember I wrote, Brace up, Walter! Show them all what you can do!"</p>
+
+<p>"I appreciated it," was the solemn statement. "It was good of you!"</p>
+
+<p>"Well, then! I'm going to talk with my father to-night. I wish my father would let me go to work in the store, too. It's such fun to be doing something! There's so much one can do, with just a little imagination. And that's what you've got. And it isn't a drug on the market in Bristow, either!"</p>
+
+<p>As she spoke, the young fellow's eyes followed hers closely. The cowed, dazed look went out of his face. He clenched his long fingers nervously as he replied:</p>
+
+    <p rend="jumpline"><ref target="tilden.19171008.jump">(Continued on page 15)</ref></p>
+
+</body>
+</text>
+
+
+<pb n="Page 11" xml:id="ew.issue.19171008.p011" />
+
+<text type="photograph">
+<body>
+<head type="main">WHITE HOUSE GIRLS </head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">International Film Service, Inc.</ab>
+<p>IN these days when kings' daughters are studying the want ads, and heirs apparent are wishing they had been sent to jail at an early age so that they might have learned a useful trade, the girls who have lived in our own royal palace, the White House, are not worried a bit. Miss Margaret Wilson, for instance, can sing for a living if necessary, and derives a neat little income from her phonograph records. Like the kind-hearted unmarried daughter in most families, her good nature is always being imposed upon. Mrs. Sayre is probably forever running out and leaving the baby with her "just for a minute," as in the photograph.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; International Film Service, Inc.</ab>
+<p>THE Harrison family runs to lawyers and soldiers. Miss Elizabeth Harrison of the latest generation, runs to both. She was a student in the law department of New York University before the war, and with its declaration she donned khaki and divided her time between helping to feed the Allies and pushing the work of the Red Cross. All the other girls on this page suffer in comparison with Miss Harrison: they have the blood of only one President in their veins: she has the blood of twice as many&#8212;William Henry (number 9) and Benjamin (number 23).</p>
+<figDesc></figDesc>
+</figure>
+<figure n="photograph">
+<head></head>
+<ab type="credit">International Film Service, Inc.</ab>
+<p>SO many Princeton boys were said to be in love with Esther Cleveland that the line had to form on the right on Sunday evenings. But Miss Cleveland eluded them all, and, when the war came, went abroad, where she helped to establish the work for soldiers blinded in battle. We were never a Princeton student, and so the only member of the family we have ever had a
+chance to be in love with is Miss Cleveland's father. We shall never forgive Mr. Taft for throwing out Cleveland's old fishing-rod and putting a golf club behind the White House door instead.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHEN some one spoke to Theodore Roosevelt in Washington suggesting that he ought to give a little more attention to Alice's busy days, he is said to have replied: "To run the United States and look after Alice Roosevelt is more than any one man can do." Alice has been active in relief work, and has turned over her house to the Red Cross. She is the wife of Congressman Longworth, who recently attacked the magazines; and so, in retaliation we announce that he is practically bald.</p>
+<ab type="credit">Photograph by International Film Service.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by International Film Service, Inc.</ab>
+<p>ARE the educational institutions of the country being brought together into one great trust? Should Congress look into this? Here is W. H. Taft, Professor at Yale, and his daughter Helen, just elected Dean of Bryn Mawr. Miss Taft specialized in college in history, economics, and politics. A certain other member of her family also specialized in the latter subject for a time, but later gave it up, on the advice of several million voters.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169;International Film Service, Inc.</ab>
+<p>AND, finally, we have the secretary of the treasury of the Secretary of the Treasury&#8212;Mrs. McAdoo, n&#233;e Eleanor Wilson. The tango was in full bloom when she entered the White House, and Secretary McAdoo&#8212;who is built somewhat along the lines of Vernon Castle&#8212;soon became the center of all eyes when the rugs were rolled back in the Blue Room. Mrs. McAdoo made a personal sneaking trip through the country in behalf of the Liberty Loan, and it was after hearing her that we subscribed, feeling sure that none of our money would go for household expenses.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19171008.p012" />
+
+<text type="photograph">
+<body>
+
+<head type="main">ONE GOOD TURN-ABOUT DESERVES ANOTHER</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by International Film Service, Inc.</ab>
+<p>IF more men would take up sewing, there would be fewer bum after-dinner speakers. And why shouldn't we men? Like a U. S. marine, a lace-maker must have consummate nerve, patience, a steady hand, a clear eye. He must be indifferent to the sight of blood. Mr. C. Harold of Brooklyn, as you can see from the picture, is happy in his wont. He sells his tablecloths for $1500, with proportionate prices for doilies and lace collars. He has money in the bank, his own little home, and no boss speaks harshly to him.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from H. H. Zimmerman</ab>
+<p>IN his youth and middle age Alfred Woodruff of Anna, Ohio, excelled in all those things that make men so insufferably proud. After proving that he was a man among men, Alfred, now eighty-six years old, likes nothing better than to make crazy quilts. He has pieced twenty-eight of them in four years, and the one he is working on in the picture won first prize at the Shelby County Fair. One thing he will not do is sew with a thimble. Why should lie, with a horny hand?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by International Film Service, Inc.</ab>
+<p>DANCING used to be a woman's job: we mean the esthetic kind, in which a debutante patters about barefooted, pink tunic fluttering, hair flying, carrying the arms high, apple-blossom in hand. Thus a beautiful girl expresses anything: the First Crocus, or Freedom, or France's Welcome to Pershing. It all depends upon the occasion. Here are Harvard students with their hair down, greeting the baseball season. expressing the joy they take in Phi Beta Kappa. The step if.' called the himpny-hop.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MISS MINNIE NELSON from Dar-es-Salaam, South Africa, is a hippo-huntress. The Hippopotami's Scourge, she has been called. She goes into the jungle with a band of shiny black men. They run ahead and rout the hippopotomus out of his place in the mud, while Miss Nelson waits, eye squinting along the barrel of her gun. "Why not go into the parlor and shoot davenports?' you ask. It's not so easy. The animal's skin is three quarters of an inch thick, and to kill it you have to shoot it through the eye. As for Miss Nelson, even after she has killed it, she isn't afraid to sit on the nasty thing!</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson.</ab>
+<p>OLIVER HERFORD is a poet, an artist, and a wit. Very likely he has shaken hands with Roosevelt. Yet what he likes to do best is to play with the kitten. After a hard day's work he hurries home to play with pussy. When they ask him what he is going to do this week-end, he says: "Oh, play with the kitten." He arrives late at banquets&#8212;always the same excuse: "Been playing with the kitten.' The kitten is in the picture: Hafiz, the original of Mr. Herford's "Rubaiyat of a Persian Kitten":</p>
+<floatingText>
+<body>
+<lg><l>"Sometimes I think the pussy-willows gray</l>
+<l>Are angel kittens who have lost their way.</l>
+<l>And every bulrush on the river bank</l>
+<l>A cat-tail from some lonely cat astray."</l>
+</lg>
+</body>
+</floatingText>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>WHEN the enemy marches on Cincinnati, he will find these seven powerful women expecting him. The Woman's Independent Rifle Club, having given their sons, husbands, and brothers-in-law to their country, organized to protect their homes, their children, and their Haviland china.</p>
+<ab type="credit">Photograph from J. R. Schmidt.</ab>
+<figDesc></figDesc>
+</figure>
+
+
+
+<pb n="Page 13" xml:id="ew.issue.19171008.p013" />
+
+
+<figure n="photograph">
+<head></head>
+<p>ONCE milking the cow was not only a woman's duty&#8212;it was modish. Marie Antoinette used to wear a brocaded milking frock cut on dairy-maid lines, and milk the cows of Le Petit Trianon. Angora cows they were; something exquisite, anyway. Now, after centuries of hired men as cow-milkers, here is Beatrice Cameron. A few weeks ago she was a stenographer in a Chicago office. The boss has a farm, and, as all his farm-hands left to make submarine-chasers and brass buttons, he gave farm jobs to his office girls. Seven pretty stenographers are now eating pie and fried potatoes and buckwheat cakes for breakfast.</p>
+<ab type="credit">International Film Service, Inc.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IN the Province of Quebec there is a French-Canadian father who really tends the baby. Day in and day out, he smokes and rocks the cradle with his foot. Every two and a half hours he fixes the bottle. In these United States, a man rocks the cradle only in funny papers, or on his wife's birthday while she does the dishes, puts the laundry to soak, and sets the bread. Now that women are hankering after outdoor work, rail-splitting and the like, men may be forced to rock the cradle at the point of the needle. But, providentially, a new doctor (male) has appeared who says rocking the baby is bad for it.</p>
+<ab type="credit">Photograph by Edith S. Watson.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson.</ab>
+<p>BEFORE Germany insulted us, this young lady wore high-heeled white kid shoes, a lingerie hat, and a charmeuse skirt caught at the hem and belt with blue satin rosebuds. Now look at her boots and exclaim, "What's the world coming to?" She is learning to be a farmer at Billinghurst Farm, Long Island, whence she will go to work for a farmer, with the blessings of the War Office on her head.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson.</ab>
+<p>A MEAT man, we thought, must have a red face, a bull-neck, a fist like a ham. Now we find that a mere girl can do it. Regard the girl butchers in the New York Municipal Market. They can swing a side of beef out of the safe, disarticulate it into steaks and chops; explain, the while, why soup hone has gone up twenty-five per cent. this week, and hold up a veal cutlet and convince you that it will make lovely chicken sandwiches.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+
+<pb n="Page 14" xml:id="ew.issue.19171008.p014" />
+
+<text type="photograph">
+<body>
+<head type="main">THEY WILL DO ANYTHING FOR US</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Mutual Film Corporation.</ab>
+<p>THE hero comes leaping over the wild hills with ruffians after him, cursing and shooting. They falter and stumble in the sage-brush; but the hero runs swiftly and easily, bounding from rock to rock as lissomely as a goat. For one second, stiff and poised on a high pinnacle he stands. Then ping! into the whirlpool. How much more thrilling is a movie than a regular drama, where the leading man dives into an unseen river and we hear him hit the boards.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Signal Film Corporation.</ab>
+<p>HELEN HOLMES, the Railroad Girl, can ride anywhere on a train except in a day-coach. Before the awkward situation of the picture, she was in the baggage-car of a fast mail, struggling to wrest a package from the hands of a highwayman. Just as the man, completely unnerved, loosened his grip, with one last effort he jerked his arm free and threw the package into an automobile that raced alongside. Helen jumps after it. Unfortunately for her, the men in the automobile are fraternity brothers of the highwayman, so they push her quietly and firmly into the road. She is left for dead, with an ugly gaping wound in her middy blouse.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Vitagraph</ab>
+<p>ARLINE PRETTY was the Princess Julia in a movie, and somehow she got locked in the third story room of a brownstone apartment. Sticking her pretty head out, she looks to the right. She looks to the left. No help comes. As chance would have it, some of her well-wishers happened to be pitching quoits on the roof, and they let a rope down to her. Here she is swinging to the next window.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit"></ab>
+<p>IN "The Villainous Villains" three droll fellows speed an automobile along Dreamland Pier, Coney Island. Heedless of the warning, "You'll kill your engine!" they hurl themselves into the ocean. The first time this was done before the camera, the director was good and sore. "Darn you, Charley," said he to the third comedian, "darn you! Why don't you kick up and get a little humor into it? Once again, now." A wired buoy was attached to the machine, so they could pull it up again and again until the act was letter-perfect.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Vitagraph</ab>
+<p>A BLEAK afternoon. Cold November rain begins to fall in the oily water. The North River ferry-boat reaches the middle of the river, when Count Ramon, on the upper deck, pushes Prince Philip over the heads of a number of New Jersey commuters who are innocently engaged in trying to decide whether to take the L or the subway. Prince Philip disappears beneath the water, escapes being churned into a filopena by the paddle-wheels, and swims to the Cunard docks, where, while still far from shore, he has to begin explaining that he isn't a German spy.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit"></ab>
+<p>MRS. VERNON CASTLE and Milton Sills cling to each other at the top of a mast. It is the eighth episode of "Patria." A three-masted schooner was touched off for the occasion. The flames climb up the mast after them, and for a moment there is real danger that they will be burned before the mast falls. It's messy work, but will our heroine hire a substitute? Never. Proud Patria stands pat.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19171008.p015" />
+
+<text type="fiction" xml:id="tilden.19171008.jump">
+<body>
+
+<p rend="jumpline">(Continued from page l0)</p>
+
+<p>"It's all right when you talk to me. It makes me feel as if I could do something. I have got ideas, Miss Crandon; but no-body else believes it&#8212;"</p>
+
+<p>"Listen, Walter!" she whipped out at him, clutching his coat sleeve. "I'm selfish in this. I want to do something, and nobody will let me. So I'm going to try to do something by making you succeed. Do you understand? Will you let me? Will you talk your ideas and your plans over with me, and let me help? <hi rend="italic">Will</hi> you?"</p>
+
+<p>"I'll try it," he said simply.</p>
+
+<p>He sat for a long time after she had cantered off; and then suddenly he threw back his shouldets, and smote his big fists together, and walked back toward the village with his head up, breathing deeply.</p>
+
+<p>WHEN Molly Crandon, that night, suggested the name of Walter Kettridge to her father, Joel Crandon snickered. He thought it was an excellent flash of wit. Later, when the menace looked more serious, he demurred with all the force of an owner of a cash register which can show weekly deficits. He added that there was such a thing as carrying a joke too far. He shook his head and twirled his watch-chain and humphed. It became necessary to apply physical suasion, in the form of rubbing a milk-and-pink cheek along the bristling-whiskered and weather-beaten face of the merchant. Finally he choked out:</p>
+
+<p>Well, Miss Tease, I'll hire him! But, I tell you, it'll amount to nothing! You don't know the fellow.</p>
+
+<p>"It's you who don't know him, dad," was the reply. "You'll be surprised."</p>
+
+<p>Mr. Crandon was surprised, as a matter of fact. Walter Kettridge went to work against a staggering handicap&#8212;the foregone conclusion that he was worthless. And, in spite of this handicap, Walter began to make his way. Little by little, he got the knack of adjusting himself to the little practical world around him. At the end of a few weeks he could wait upon female customers without showing panicky signs of getting underneath the counter. Little by little, his confidence arrived. He was not a lightning calculator; on the other hand, he didn't make mistakes often, and that point alone was sufficient to win the prudent owner of the store.</p>
+
+<p>Finally Mr. Crandon allowed, albeit somewhat grudgingly, that "Walt was doing pretty well, after all." He was receiving the munificent sum of eight dollars a week, only a dollar more than the red-haired fifteen-year-old boy who couldn't move a five-gallon can of kerosene without spilling it into the tapioca.</p>
+
+<p>At intervals of a few days, operating so adroitly as not to cause gossip, a pretty, vivacious young woman used to stroll into the store, on an errand of notions, and find occasion to flit over into the proximity of young Mr. Kettridge. She never held long parley. It was merely a flash of interest that went out to him from her eyes, or, accompanied by a cheering smile, some little "I knew you could do it, Walter. Don't be afraid of anybody. Meet everybody half way"&#8212;or a similar phrase of encouragement.</p>
+
+<p>A YEAR went around. Walter was still at the Crandon store. The customers had begun to accept him as a fixture.
+It looked as if he might be permitted to vegetate there for the rest of his natural life. It seemed quite possible that, if the store remained so long, the year 1950 might find him dusting the prunes with a patriarchal white beard, leaning over the counter and lisping, "Yeast cake, ma'am? Yes, ma'am. Anything else to-day, ma'am?"</p>
+
+<p>Molly Crandon said to her father one night: "Dad, don't you think Walter Kettridge is doing pretty well?"</p> 
+
+<p>Mr. Crandon stretched out his slippered feet comfortably, and puffed a cigar. He tried to do the young man full justice as he replied:</p>
+
+<p>"Well, Molly, he is, and he isn't. He's a queer stick. I've got no complaint against his work. He's very reliable, in a way. And he's willing to work his head off&#8212;which I can't say the same for the
+
+<cb n="2" />
+
+rest of 'em. But he's queer. He spends all his spare time thinking up advertising  ideas and changes in the store. He comes rushing up to me once in a while, wanting  me to do this and that; and when I say no, then he wants to argue the thing till  doomsday. He's as stubborn as a mule, when he's got a notion."</p>
+
+<p>"Seems as if he was working in your interest, father?" suggested the girl warmly.</p>
+
+<p>"Oh, he means all well enough. But I don't hire him to think up things for me to do. I hire him to be a clerk."</p>
+
+<p>"But I should think you'd be glad to get suggestions!"</p>
+
+<p>Mr. Crandon, who had been conducting the store for thirty years, grinned complacently.</p>
+
+<p>"I guess I can worry along pretty well, young lady; and when I can't run my store I'll sell out."</p>
+
+<p>With which presentation of a floral decoration to himself, Mr. Joel Crandon leaned back comfortably and closed the incident.</p>
+
+<p>It was true, indeed, that Walter was stubborn. It was one of the strange facts of his retiring disposition that, when he did hurl an idea into the arena, he chased it across the landscape with the ardent zest of a weasel in pursuit of a rat. He was willing to argue the matter till sunset, so long as his opponent wore a smile. But a contraction of the eyebrows sent him back to his hole on the double quick.</p>
+
+<p>ON the 15th of May, 1915, Walter Kettridge had been holding down his confidential position as master of the sugar scoop for just a year. On that day Joel Crandon came down to the store early in the morning in his best light suit, hustled through the mail, appraised the stock and fixtures with a shrewd groceriness, then called Walter Kettridge to him.</p>
+
+<p>"I'm going down to Springhaven for the day, Walter," said the proprietor. "Haynes' wife is sick abed, and so I'm going to ask you to keep your eye on things. On the right-hand side of my desk you'll find a list of things we need. When Park&#8212;you know, the grocery drummer&#8212;comes, you give him that list. And don't
+
+<figure n="illustration">
+<head></head>
+<p>"Walter was so shy that if you spoke to him he tried to efface himself."</p>
+<figDesc></figDesc>
+</figure>
+
+you let him sell you anything else, understand? You read him that list, and then  you say, 'That's all!' and, if necessary, you push him into the street. He's a slick talker, Park is."</p>
+
+<p>A luminous glow came into Walter's eyes. He almost shook with the force of the idea he was harboring, as he began:</p>
+
+<p>"By the way, Mr. Crandon, I've been thinking&#8212;about this European war. Beans are sure to go up. I think you ought to&#8212;"</p>
+
+<p>"Beans!" replied the grocer, with a benevolent grin.</p>
+
+<p>"Yes, sir. You see, armies are fed on beans. Beans are one of the most highly concentrated protein foods. Cheese may be higher in protein, but cheese isn't so easy to keep. I've been reading up on the
+
+<cb n="3" />
+
+subject. Beans will ship easy and keep. Therefore, Mr. Crandon&#8212;"</p>
+
+<p>"Tell me your story when I come back, Walter," smiled the storekeeper, disengaging himself from the enthusiast; "I'm in a hurry now. Look sharp!"</p>
+
+<p>"They're going up, just the same! I know they are. They're going to hit the sky before the war stops!" said the stubborn young man to himself, as he turned away.</p>
+
+<p>A FEW hours afterward, Park, a breezy young man with a few yellow violets in his buttonhole, came into the store.</p>
+
+<p>"Where's the boss?"</p>
+
+<p>"He's gone for the day. I've got a list of things he left for you," replied Walter.</p>
+
+<p>"Left you in charge, did he?" was the casual inquiry, as the salesman made out the order.</p>
+
+<p>A deep flush spread itself over the honest face.</p>
+
+<p>"He wouldn't have if John Haynes had been here. But Mr. Crandon told me to tell you this list was all he wanted."</p>
+
+<p>The salesman was unperturbed. He opened a small bag, took out a bottle of vanilla extract, and poised it with a loving connoisseurship. "We're making a fine deal on this extract to introduce it—" he began.</p>
+
+<p>The clerk shook his head. He continued to shake his head as the salesman thrust one glowing opportunity after another at him.</p>
+
+<p>"No use!" he said. "This list is all."</p>
+
+<p>But, as the salesman snapped his case shut, Walter Kettridge approached him and asked timidly: "Don't you think beans are going up?"</p>
+
+<p>"Sure they're going up. They have gone up."</p>
+
+<p>"But I mean 'way up?"</p>
+
+<p>"Well, all I know is that my old man is watching the market pretty close. I guess they haven't reached the top. We've got a lot of small pea-beans we bought last year. We're maintaining the old price till they're gone&#8212;to our regular customers."</p>
+
+<p>"What is the price?"</p>
+
+<p>"Four-twenty-five a bushel. Six-seventy a hundred-pound sack." The salesman got out his pencil and order-book again. "How many?"</p>
+
+<p>"Oh, I wouldn't dare to order any. I wish I could, though. I bet I could make a good buy. But I wouldn't dare. He said&#8212;"</p>
+
+<p>"They won't be any cheaper. You can't go wrong on that.</p>
+
+<p>The big clerk vibrated with excitement.</p>
+
+<p>"I know they're going up!" he repeated. "Mr. Crandon&#8212;he in spite of what he said&#8212;he's not the sort of man&#8212;they wouldn't spoil&#8212;I&#8212;"</p>
+
+<p>"How many did you say?" was the cool and leading question.</p>
+
+<p>"A ton!" suddenly blurted Walter Kettridge. "Twenty hundred!"</p>
+
+<p>"A ton!" repeated the salesman, looking up in genuine amazement. "You don't mean&#8212;"</p>
+
+<p>"Yes, a ton! Why not? I know they're going up. You believe it too. I&#8212;"</p>
+
+<p>"I've got you," was the careless answer. "That all?"</p>
+
+<p>"Yes, that's all."</p>
+
+<p>"I know they're going up!" repeated Walt several times in the next hour. "Mr. Crandon ought not to mind when I'm making money for him. It isn't like market speculation. It's bona-fide property. They're bound to go up."</p>
+
+<p>The more the clerk considered the matter, the more reasonable it seemed.</p>
+
+<p>THE wholesaler's bill came in the following afternoon, ahead of the freight. Joel Crandon came into the store just ahead of the bill, and consequently Walter had no time to prepare him for the surprise. Naturally, Joel Crandon, skimming the details of the order, and finding them all correct with the exception of the last item, treated it as an absurd error for which he would have a good laugh on 
+
+<cb n="4" />
+
+Park when he called next week. And then, to make sure of the laugh, he began to laugh at once. And, to make it still more enjoyable, he stepped to the door of the little office and called Walter Kettridge in.</p>
+
+<p>"Here's something funny, Walter!" cried the merchant. "That order I left for you to give Park bills us for a ton of pea-beans. A ton! What do they think we are&#8212;a mail-order house? A ton! Ha, ha!"</p>
+
+<p>"Oh, that's all right!" replied Walter, beaming with pride.</p>
+
+<p>"What's all right?"</p>
+
+<p>"I ordered them. I thought I'd better buy you a ton of beans. You see, as I was telling you yesterday morning—"</p>
+
+<p>Mr. Joel Crandon looked sharply at his clerk. At the same time lie rose slowly from his chair and opened his mouth very wide. It seemed a horrible hour before he emitted a sound: "Wha&#8212;a-a—a&#8212;at!"</p>
+
+<p>"Yes, sir. You see, there's no doubt in the world that beans&#8212;"</p>
+
+<p>"You ordered a ton of beans&#8212;in my name!" thundered the merchant. "A ton of beans! You idiot! I won't take 'em! I'll call 'em up. I&#8212;no, I won't&#8212;I will take 'em! I never squealed on an order yet, and I sha'n't begin now! But&#8212;you&#8212;get out!"</p>
+
+<p>"But let me tell you, please, Mr. Crandon&#8212;" pleaded Walter, who had wilted against the door-post.</p>
+
+<p>"Get&#8212;out! Here&#8212;how much do I owe you? Two days&#8212;here's five dollars. Don't come back!" roared the outraged merchant.</p>
+
+<p>But the five dollars remained flapping in the air until Mr. Joel Crandon pulled it back and placed it in his wallet. For Walter Kettridge had fled. He left behind him a little choking noise; and he almost knocked down a customer who loomed up in his transit through the store.</p>
+
+<p>WALTER went immediately to the big, clean, sparely furnished room at the Masons', where he had roomed and boarded since his parents had died within a week of each other. He bolted in at the side door, and crept upstairs softly, lest any one should speak to him. Then he sat down at the open window and looked gloomily out at the garden of tree-tops. The sky was really turquoise, fleeced with white; but it looked black and forbidding. He was not considering, either, so much of his latest humiliation at the hands of Joel Crandon as of what Joel Crandon's daughter would be thinking of him when she heard.</p>
+
+<p>It seemed only a few minutes after he had sat down&#8212;though it was really more than an hour&#8212;when some one knocked at the door. It was Mrs. Mason. She opened the door a crack and said: "Walter, there's a young lady to see you!"</p>
+
+<p>He knew who the young lady was without being told. His first impulse was to leap out of the window and run for it. Then he pulled himself together and went down. Molly Crandon was there, in the sitting-room.</p>
+
+<p>"I've just come from the store!" she began breathlessly. "I was in the store when you went out. I spoke to you, but you didn't seem to hear me. What in the world&#8212;how did it happen? My father is in a dreadful state of mind."</p>
+
+<p>"I told you how it would be if you tried to do anything for me," he replied mournfully.</p>
+
+<p>She paid no attention to this bit of pessimism.</p>
+
+<p>"Tell me how it was, Walter," she said softly.</p>
+
+<p>He told her. And while he was talking she sat with her hands clasped on her knees, looking searchingly into his face, with a serious expression on her own that was unlike what the Bristow people commonly knew. When he had finished, and turned away awkwardly, she said:</p>
+
+<p>"I see. I suppose you had better not disobeyed orders, had you?"</p>
+
+<p>"I know I was wrong. I see it now. I don't blame your father."</p>
+
+<p>"I do blame my father," she added instantly. "My father, Walter, is one of the dearest souls in the world; but he isn't always right, and he isn't always just. What he didn't see, and ought to have
+
+
+
+
+<pb n="Page 16" xml:id="ew.issue.19171008.p016" />
+
+seen, was that you were trying to do something for him, in his interest, not for yourself. He should have been broad-minded enough to see that."</p>
+
+<p>"Do you suppose he would let me buy the beans from him?" asked the young fellow. "I've got about three hundred dollars in the bank. I'll gladly take them off his hands, if he'll let me. He wouldn't give me time to say anything."</p>
+
+<p>Instead of replying directly, Molly Crandon looked at him steadily a moment, and then said:</p>
+
+<p>"I just know you must be right about it. I want to hear all about the ideas that prompted you to buy those beans."</p>
+
+<p>LIKE a flash, Walter's whole manner changed.</p>
+
+<p>"I know I'm right!" he cried, walking up and down, with his hands in his pockets. "Oh, if I had a lot of money, do you know what I'd do, Miss Crandon? I wouldn't speculate,&#8212;I mean, I wouldn't go into the market that way,&#8212;but I'd start right in now and make contracts with a lot of farmers, the way the canners do, and furnish seed and fertilizer against their labor, and raise all the beans I could raise this summer.</p>
+
+<p>"Don't you see there's bound to be a shortage? How could it be otherwise, with everybody bidding them up? See how easy they are to store and ship! On the proper soil it's one of the easiest crops to raise. They leave the soil richer in nitrogen, too! See&#8212;"</p>
+
+<p>Fact by fact, clearly and succinctly, forgetting all his timidity in the force of his belief, Walter Kettridge began to unfold his scheme. The girl's eyes were following him in wonder and admiration. He was unconsciously rising to the highest point of great salesmanship&#8212;for he was selling her his idea. He didn't know that. She didn't know it. But her eyes began to sparkle&#8212;not with the vision of profits, for she had always had all the money she needed, but with the spirit of adventure, of experiment, and of business.</p>
+
+<p>She interrupted him with a gasp. "How in the world do you know all those things?" she asked.</p>
+
+<p>"I've been studying the situation," he replied. "I've been thinking and reading a good deal about it."</p>
+
+<p>She was silent a moment. Then she said:</p>
+
+<p>"Walter, you go to my father and buy those beans. By the time you get there he'll be a little bit sorry he was so hasty. He always is&#8212;I know him. Maybe he'll tell you it's all right and you can come back to work. Don't you do it! I see it all now! You ought not work for anybody. You must work for yourself. Insist on buying those beans, and then go to work for yourself. Do just what you've been telling me about. Goodness, what fun it will be! I wish I were a man! Perhaps&#8212;perhaps if you shouldn't have money enough to do it on the scale you'd like&#8212;perhaps you'd take a partner?"</p>
+
+<p>"Partner? Who'd take any stock in what I say?" he replied, going gloomy again.</p>
+
+<p>"I would!" was the prompt answer. "I've got some money. Would you let me be a&#8212;silent partner? I can let you have five hundred dollars to-morrow,&#8212;if you say the word. Oh, I think it's a splendid idea! I'd give anything to see a lot of beans growing, and know that I owned a share in them! I'd like to take a hoe and go into the fields, as the European women are doing. But of course my father wouldn't let me do that. But I can do something. I can furnish capital."</p>
+
+<p>He looked at her in a scared way.</p>
+
+<cb n="2" />
+
+<figure n="illustration">
+<head></head>
+<p>"Walter was on hand for supper. Supper wasn't important. What Molly's father talked about wasn't important, either."</p>
+<figDesc></figDesc>
+</figure>
+
+<p>"I wouldn't dare to risk <hi rend="italic">your</hi> money," he replied. "Mine&#8212;that's different."</p>
+
+<p>"Then you wouldn't want me as a partner!" She said it only half seriously, with a roguish movement of her lower lip, which, as he failed to interpret it jokingly, hurt him at the heart.</p>
+
+<p>"Oh, I don't mean that! I&#8212;please don't say it that way. You're the only one who believes in me."</p>
+
+<p>"But you believe in your idea? You know you're right?"</p>
+
+<p>"I know. I'm sure. I'd risk anything of mine on it. But there is always the possibility of bad weather, bad crops&#8212;that sort of thing. I was thinking of that. Besides, your father&#8212;"</p>
+
+<p>"Wouldn't know anything about it till afterward. And as for the risk, isn't that always so? Please, Walter, if you want a partner, consider me. And&#8212;and&#8212;I don't think you ought to make me force myself on you. You ought to ask me&#8212;to&#8212;to force myself&#8212;"</p>
+
+<p>She couldn't go any farther. The humor of it suddenly dawned on her&#8212;the humor of her attempt at juggling words&#8212;and she pealed out a merry laugh.</p>
+
+<p>The laugh broke the spell of gloom that was hovering over Walter. He found himself laughing deliciously, too. It occurred to him suddenly that it was the first time he could remember laughing with anybody in a long while.</p>
+
+<p>"Shall we be partners on this?" she asked, holding out her hand.</p>
+
+<p>His knees shook a little; but he managed to say: "Yes. Thank you."</p>
+
+<p>IT was a changed young man who I walked into the Crandon store that afternoon and greeted Joel Crandon in his office. Something had happened to Walter Kettridge. He had always been timidly courteous. Now he was no less courteous, but the timidity was in the background. He said, simply and briskly:</p>
+
+<p>"I beg your pardon, Mr. Crandon, but I want to buy those beans I ordered without your authority. Here is one <choice><orig>hun-
+
+<cb n="3" />
+
+dred</orig><reg>hundred</reg></choice> and thirty-four dollars. I will pay the freight, of course."</p>
+
+<p>Joel Crandon looked up in amazement. Then he grinned. "Oh, no!" he said with an after-dinner breeziness. "That's all right, Walter. I acted impulsively this morning. The beans will keep. Go ahead back to work. We'll forget all about it!"</p>
+
+<p>"No, sir," was the steady reply. "I consider the beans mine. You don't want 'em, and I do. I'm going into business for myself."</p>
+
+<p>"Not grocery?" jerked out Joel, instinctively dreading competition, even of the filmiest kind. Then he grinned again, ashamed of his own weakness; and he affected to have been joking.</p>
+
+<p>"No, sir. Something else."</p>
+
+<p>"NOT until that moment had Joel Cramdon conceived the idea that he had been anything but philanthropic in employing young Kettridge. Now, suddenly, he saw value in the young fellow. He stuck his thumbs in his vest pockets, leaned back in his chair, and said blandly:</p>
+
+<p>"I could probably make it ten dollars a week, Walter. Better think it over. Lots of people fail in business."</p>
+
+<p>But when Walter Kettridge walked out of the store he had a receipt for a ton of beans now at the freight house; and when Joel Crandon rose from his chair it was with an uneasy sense that he had lost or misplaced something of importance.</p>
+
+<p>That night the Public Library was open. About half past eight a young woman sitting over a magazine at one of the long tables wrote something on a slip of paper and kited it deftly across to a young man seated opposite. It read:</p>
+
+<quote>Are you going to plant the whole ton of beans?</quote>
+
+<p>A healthy, infectious grin came upon the young man's face. He wrote back:</p>
+
+<quote>You never lived on a farm, did you? We won't plant those beans at all. We'll keep those in stock. I'll get regular selected seed. I wrote to a bean-grower in Michigan to-day.</quote>
+
+<cb n="4" />
+
+<p>Came back a note at once:</p>
+
+<quote>Dear Walter: It's just as plain as mud to me. But I know you know, and that's good enough. Something inclosed.</quote>
+
+<p>The "something inclosed" was five hundred-dollar bills. Mr. Kettridge never afterward in his life came so near to fainting away. It was done!</p>
+
+<p>IT had been Walter Kettridge's intention to get his beans raised under contract; that is, to furnish seed and necessary fertilizer, and pay a stipulated sum for the labor involved, he to retain the whole crop. From the outset he saw that this was going to be impracticable. The farmers in the vicinity of Bristow were not educated to the contract idea, and were instantly suspicious that, whatever happened, they were going to be plucked as well as the beans.</p>
+
+<p>It was fortunate for the bean campaign that the very first farmer Walter interviewed was Hiram Squires, an energetic, white-bearded old fellow who had the reputation of being the best farmer in the county. The interview took place in the barnyard; and while Mr. Squires balanced one empty milk-pail against another, and thoughtfully kicked flakes of mud off his boots against the door-sill, he listened to the scheme with shrewd attention.</p>
+
+<p>"I don't see why it isn't a good idea," said the farmer slowly. "By thunder, if I was a younger man I'd like to go in with you on it. But you won't find many that will take kindly to your plan of owning the whole crop; and, besides, your beans will be dead sure to be neglected if you leave it that way. They'll slight them for their own regular work, sure as shooting. Give 'em some interest! The usual way with tenant-farming is for the landlord to furnish stock and seed and so forth, and the tenant furnishes labor, and they split even. Suppose, now, you furnish seed and pay a fair price for the fertilizer, and help gather the crop, and then go halves on the price you get for the threshed crop, you to do all the marketing and handling. That would make them feel more like working!'</p>
+
+<p>"Would you do it that way?" asked the young fellow.</p>
+
+<p>"I'm enough of a gambler to plant five acres on that basis. I do believe you're right about beans this year. I see your point. They can't go down, with this war going on."</p>
+
+<p>"Great! Thank you, Mr. Squires. Now, of course I want to get only reliable men who'll go into it in a businesslike way. I thought you'd tell me the ones to see and the ones to dodge."</p>
+
+<p>"I'll do that. And I guess I can save you some money, too. There's a whole crowd of well-meaning fellows round here that would go into your scheme with hot feet in June, and by August the weeds would be a foot high in your bean fields. I'll tell you the right ones. Even at that, you'll find that you'll have to work about fifteen hours a day this summer, if you're going to get your crops. Got a horse? You can't hoof it around the township."</p>
+
+<p>"No, I haven't."</p>
+
+<p>"I'll let you have my little chestnut mare, if you'll feed her and treat her right. She's twenty-four, but she'll do you well enough, if you're not finicky about looks. She'll get you around. Come in the house and we'll draw up an agreement."</p>
+
+<p>THE first week in September, a small wagon loaded with drill bags creaked down the Main Street of Bristow. It was driven by a tall young man in khaki, and his bare arms and face and neck were</p>
+
+    <p rend="continued"><ref target="tilden.19171008.jump1">(Continued on page 22)</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 17" xml:id="ew.issue.19171008.p017" />
+
+<text type="fiction" xml:id="kelland.19171008">
+<body>
+
+<head type="main">YOUTH CHALLENGES</head>
+
+<byline>By <persName type="author" key="#Kelland, Clarence Budington">CLARENCE BUDINGTON KELLAND</persName></byline>
+
+<byline>Illustration by <persName type="illustrator" key="#Hitchcock, Lucius W.">Lucius W. Hitchcock</persName></byline>
+
+<note type="editors">BONBRIGHT FOOTE VII&#8212;brought up in the expectation of succeeding his father in the manufacturing firm of Bonbright Foote, Incorporated, and of marrying to furnish the firm with a Bonbright Foote VIII&#8212;on leaving college is introduced into his office. His father makes it apparent that Bonbright is expected to follow rigidly the policies of the firm, which have been handed down from generation to generation. As Rangar, his father's confidential assistant, pilots Bonbright through the plant, the young man is conscious of being covertly watched by the employees. The only one who shows friendliness is a stenographer, who actually grins at him. When, a little later, he is asked to choose his secretary, he decides on Ruth Frazer, "the girl with the grin," as she is affectionately called by her mates&#8212;contrary to the custom of the Footes, who always have men secretaries. At the end of the work-day, Bonbright fascinatedly watches the men streaming from the shops. A group gathers around a street speaker, and Bonbright joins it. The speaker is pleading with the men to organize a union to fight long hours and poor pay in the Foote factory. It is all new to Bonbright. He notices his secretary listening sympathetically. He joins her, and learns that the speaker is a boarder in her mother's home, and that her father died leading the Homestead strikers. She introduces the speaker, Dulac, to Bonbright. Dulac shows some hostility; but Bonbright, eager for the truth, arranges to meet the labor leader sometime later. He hurries home, to find guests for dinner&#8212;Malcolm Lightener, a bluff, self-made manufacturer, Mrs. Lightener, and their daughter Hilda, whom Bonbright meets for the first time. At dinner Bonbright speaks of his conversation with the labor leader, and his father shows a good deal of annoyance. The consciousness that his parents have chosen Hilda for his wife constrains the young man. After dinner, however, the girl, who inherits her father's frankness, tells him she suspects what their parents are up to, and suggests that they be chums in spite of it.</note>
+
+<p>BONBRIGHT'S first day in the plant had carried no suggestion from his father as to what his work was actually to be. He had merely walked about, listening to Rangar's expositions of processes and systems. After he was in bed that night he began to wonder what work would fall to him. What work had it been the custom for the heir apparent to perform? What work had his father and grandfather and great-grandfather performed when their position was his position to-day?</p>
+
+<p>He breakfasted alone next morning, before his father or mother was about, and left the house on foot, driven by an aching restlessness. It was early. The factory whistle had not yet blown when he reached the gates, but already men carrying lunch boxes' were arriving.</p>
+
+<p>He was recognized. Here and there a man offered him good morning with a friendliness of tone that surprised him. A good many men spoke to him respectfully; more regarded him curiously; some hopefully. It was the occasional friendly smile that affected him. One such smile from an older workman, a man with an intelligent face and shrewd gray eyes, caused Bonbright to speak to him.</p>
+
+<p>"I don't know your name, of course," he said diffidently.</p>
+
+<p>"Hooper," said the man pleasantly.</p>
+
+<p>"The men seem to know me," Bonbright said. "I was a little surprised. I came only yesterday, you know."</p>
+
+<p>"Yes," said Hooper; "they know who you are."</p>
+
+<p>"They seemed&#8212;almost friendly."</p>
+
+<p>Hooper looked sharply at the young man.</p>
+
+<p>"It's because," said he, "they're pinning hopes to you."</p>
+
+<p>"Hopes?"</p>
+
+<p>"Labor can't get anywhere until it makes friends in the ranks of the employers," said Hooper. "It's got to be so if we get what we must have without a revolution."</p>
+
+<p>Bonbright pondered this.</p>
+
+<p>"The men think I may be their friend?"</p>
+
+<p>"Some saw you last night, and some heard you talk to Dulac. Most of them have heard about it by now."</p>
+
+<p>"Oh, was that it? Thank you, Mr. Hooper."</p>
+
+<p>YOUNG Foote went up to his office. There was nothing connected with the plant that he could set his hand to, so he wrote some personal letters.</p>
+
+<p>He was conscious of voices in his father's room, and after a time his father entered and bade him a formal good morning.</p>
+
+<p>"Son," said Bonbright Foote VI, "you have made an unfortunate beginning here. You have created an impression that we shall have to eradicate promptly."</p>
+
+<p>"I don't understand.</p>
+
+<p>"It has been the habit of our family to hold aloof from our employees. We do not come directly into contact with them. Intercourse between us and them is invariably carried out through intermediaries."</p>
+
+<p>Bonbright waited for his father to continue:</p>
+
+<p>"You are being discussed by every man in the shops. This is peculiarly unfortunate at this moment, when a determined effort is being made by organized labor to force unionism on us. The men have the notion that you are not unfriendly toward unionism."</p>
+
+<p>"I don't understand anything about it," said Bonbright. "I don't know what my feelings toward it may be."</p>
+
+<p>"Your feelings toward it," said his father, with decision, "are distinctly unfriendly."</p>
+
+<p>Again Bonbright was silent.</p>
+
+<p>"Last evening," said his father, "you mingled with the men leaving the shops. You did a thing no member of our family has ever done&#8212;consented to an interview with a professional labor agitator."</p>
+
+<p>"That is hardly the fact, sir. I asked for the interview."</p>
+
+<cb n="2" />
+
+<p>"Which is worse. You even, as it is reported to me, agreed to talk with this agitator at some future time!"</p>
+
+<p>"I asked him to explain things to me."</p>
+
+<p>"Any explanations of labor conditions and demands I shall always be glad to make. The thing I am trying to bring home to you is that the men have got an absurd impression that you are in sympathy with them. Young men sometimes come home from college with unsound notions. Possibly you have picked up some socialistic nonsense. You will have to rid yourself of it. Our family has always arrayed itself squarely against such indefensible theories. But the thing to do at once is to wipe out any silly ideas your indiscretion may have aroused among our workingmen.</p>
+
+<p>"But I am not sure&#8212;"</p>
+
+<p>"When you have been in this business ten years I shall be glad to listen to your matured ideas. Now your ideas&#8212;your actions, at least&#8212;must conform to the policy we have maintained for generations. I have called some of our department heads to my room. I believe I hear them assembling. Let us go in."</p>
+
+<p>Bonbright followed his father mechanically. The next room contained some ten or twelve subordinate executives, who eyed Bonbright curiously.</p>
+
+<p>"Gentlemen," said the elder Foote, "this is my son, whom you may not have met as yet. I wish to present him to you formally, and to tell you that hereafter he and I share the final authority in this plant. Decisions coming from this office are to be regarded as our joint decisions&#8212;except in the case of an exception of immediate moment. As you know, a fresh and determined effort is afoot to unionize this plant. My son and I have conferred on the matter, but I have seen fit to let the decision rest with him&#8212;as to our policy and course of action."</p>
+
+<p>The men looked with renewed curiosity at the young man who stood with compressed lips and troubled eyes.</p>
+
+<p>"My son has rightly determined to adhere to the policy established many years ago. He has determined that unionism shall not be permitted to enter Bonbright Foote, Incorporated. I state your sentiments, do I not, my son?"</p>
+
+<p>At the direct challenge Bonbright raised his eyes to his father's face appeal ingly.</p>
+
+<p>"Father&#8212;" he began.</p>
+
+<p>"I state your position?" his father said sternly.</p>
+
+<p>Against Bonbright's will he felt the accumulated power of the family will, the family tradition. He had been reared in 
+
+<cb n="3" />
+
+its shadow. Its grip lay firmly upon him. Struggle he might, but the strength to defy was not yet in him. He surrendered, feeling that, somehow, his private soul had been violated, his individuality rent from him.</p>
+
+<p>"Yes," he said faintly.</p>
+
+<p>"The first step he has decided upon," said his father, "and is one that should be immediately repressive. It is to post in every room and department of the shops printed notices to the effect that any man who affiliates himself with organized labor, or who becomes a member of a so-called trades union, will be summarily dismissed from his employment. That was the wording you suggested, was it not?"</p>
+
+<p>"Yes," said Bonbright, this time without struggle.</p>
+
+<p>"Rangar," said Mr. Foote, "my son directs that these cards be printed at once and put in place before noon. It can be done, can it not?"</p>
+
+<p>"Yes, sir," asnswered Rangar.</p>
+
+<p>"I think that is all, gentlemen. You understand my son's position, I believe, so that if any one questions it you can answer them effectively?"</p>
+
+<p>THE department heads stirred uneasily. Some turned toward the door, but one man cleared his throat.</p>
+
+<p>"Well, Mr Hawthorne?" said the head of the business.</p>
+
+<p>"The men seem very determined this time. I'm afraid too severe action on our part will make trouble."</p>
+
+<p>"Trouble?"</p>
+
+<p>"A strike," said Hawthorne. "We're loaded with contract orders, Mr. Foote. A strike at this time&#8212;"</p>
+
+<p>"Rangar," said Mr. Foote sharply, "at the first sign of such a thing, take immediate steps to counteract it. Better still, proceed now as if a strike were certain. These mills must continue uninterruptedly. If these malcontents force a strike, Mr. Hawthorne, we shall be able to deal with it. Good morning, gentlemen."</p>
+
+<p>The men filed out silently.</p>
+
+<p>Bonbright stood without motion beside his father's desk, his eyes on the floor.</p>
+
+<p>"There," said his father, with satisfaction. "I think that will set you right."</p>
+
+<p>"Right? The men will think I was among them last night as a spy! They'll despise me&#8212;they'll think I wasn't honest with them."</p>
+
+<p>Bonbright Foote VI shrugged his shoulders.</p>
+
+<p>"Loyalty to your family," he said, "and to your order is rather more important than retaining the good will of a mob of
+malcontents."</p>
+
+<cb n="4" />
+
+<p>Later, when the elder Foote sent for his son, the young man responded apathetically.</p>
+
+<p>"Here are some letters," said Mr. Foote. "I have made notes upon each one how it is to be answered. Be so good as to dictate the replies."</p>
+
+<p>There it was again. He was not even to answer letters independently, but to dictate to his secretary words put into his mouth by Bonbright Foote, Incorporated.</p>
+
+<p>Bonbright returned to his desk and pressed the buzzer that would summon Ruth Frazer with book and pencil. She entered almost instantly, and as their eyes met she smiled. Her smile was a thing of light and brightness, compelling response. In his mood it acted as a stimulant to Bonbright.</p>
+
+<p>"Thank you," he said involuntarily.</p>
+
+<p>"For what?" she asked, raising her brows.</p>
+
+<p>"For&#8212;why, I'm sure I don't know," he said. "Will you take some letters, please?"</p>
+
+<p>He began dictating slowly, laboriously. It was a new work to him. His attention strayed. He leaned back in his chair, dictation forgotten for the moment, staring at Ruth Frazer.</p>
+
+<p>Presently he leaned forward and addressed a question to her:</p>
+
+<p>"Did you and Mr. Dulac mention me as you walked home?"</p>
+
+<p>"Yes," she said.</p>
+
+<p>"Would it be&#8212;impertinent," he asked, "to inquire what you said?"</p>
+
+<p>"Mr. Dulac," she replied, "wondered what you were up to. That was how he expressed it. He thought it was peculiar&#8212;your asking to know him."</p>
+
+<p>"What did you think ?"</p>
+
+<p>"I didn't think it was peculiar at all. You"&#8212;she hesitated&#8212;"had been taken sort of by surprise. Yes, that was it. And you wanted to know. I think you acted very naturally."</p>
+
+<p>"Naturally!" he repeated after her. "Yes, I guess that must be where I went wrong. I was natural. It is not right to be natural. You should first find how you are expected to act&#8212;how it is planned for you to act. Yourself&#8212;why, yourself doesn't count."</p>
+
+<p>"What do you mean, Mr. Foote?"</p>
+
+<p>"This morning," he said bitterly, "cards with my name signed to them have been placed&#8212;or will be placed&#8212;in every room of the works, notifying the men that if they join a labor union they will be discharged."</p>
+
+<p>"Why&#8212;why&#8212;"</p>
+
+<p>"I have made a statement that I am against labor unions."</p>
+
+<p>She looked at him uncomprehendingly.</p>
+
+<p>"I am not interested in all those men&#8212;that army of men," he went on. "I don't want to understand them. I don't want to come into contact with them. I just want to sit here in my office and not be bothered by such things. We have managers and superintendents and officials to take care of labor matters. I don't want to talk to Dulac about what he means, or why our men feel resentment toward us. Please tell him I have no interest whatever in such things."</p>
+
+<p>"Mr. Foote," she said gently, "something has happened to you, hasn't it? Something that has made you feel bitter and discouraged ?"</p>
+
+<p>"Nothing unusual&#8212;in my family&#8212;Miss Frazer. I've just been cut to the Bonbright Foote pattern. I didn't fit my groove exactly&#8212;so I was trimmed until I slipped into it. I'm in now."</p>
+
+<p>SUDDEN tumult of shots and cheers arose in the street under his window&#8212;not the sound of a score of voices, or a hundred, but a sound of great volume. Ruth looked up, startled, frightened; Bonbright stepped to the window.</p>
+
+<p>"It's only eleven o'clock," he said, "but the men are all coming out. The whistle didn't blow.. They're cheering and capering and shaking hands with each other. What does that mean, do you suppose?"</p>
+
+<pb n="Page 18" xml:id="ew.issue.19171008.p018" />
+
+<figure n="illustration">
+<head></head>
+<p>"I should think,' she said, 'that a woman would be proud to share such a life&#8212;to know she was helping a little: to know she was making a comfortable spot for you.'"</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>"I'm afraid," said Miss Frazer, "it's your placard."</p>
+
+<p>"My placard?"</p>
+
+<p>"The men had their choice between their unions and their jobs&#8212;and they've stood by their unions."</p>
+
+<p>"You mean&#8212;"</p>
+
+<p>"They've struck," said Ruth.</p>
+
+<p>THERE are family traditions among the poor, just as there are among the rich. The families of workingmen may cling as tenaciously to their traditions as the descendants of an earl. In certain families the sons are compelled by tradition to become bakers; in others machinists; still other lowly family histories urge their members to conduct of one sort or another. Here is a family whose tradition is loyalty to another family that has employed them, father, son, grandfather. Across the street may live a group whose peculiar religion is to oppose all constituted authority and to uphold anarchism. Theories and beliefs are handed down from generation to generation until they assume the dignity of blood-laws.</p>
+
+<p>Bonbright was being wrenched to fit into the Foote tradition. Ruth Frazer, his secretary, needed no trimming to conform to the tradition of her family. This was the leveling tradition; the elevating of labor and the pulling down of capital until there was a dead level of equality&#8212;or perhaps with labor a bit in the saddle. Probably a remote ancestor of hers had been a member of an ancient guild; perhaps one had risen up with Wat Tyler. Her father had been killed in a labor riot&#8212;and beatified by her. As the men of her family had been, so were the women: so was she.</p>
+
+<p>She was capable of hero-worship. But her heroes were not warriors, adventurers, conquerors of the world, conquerors of the world's wealth. They were revolutionists. They were men who gave
+
+<cb n="2" />
+
+their lives and their abilities to laboring for labor. Already she was inclining to light the fires of her hero-worship at the feet of the man Dulac.</p>
+
+<p>Dulac had just entered her mother's sitting-room. The man seemed out of place in that cottage parlor. He seemed out of place in any homelike room, in any room not filled by an eager, radical crowd of men assembled to hang upon his words. To see him standing alone any place, on the street, in a hotel, affected one with the feeling that he was exotic there, misplaced. He must be surrounded by his audience to be right.</p>
+
+<p>Something of this crossed Ruth's mind. She could not conceive of Dulac in a home.</p>
+
+<p>"It's been a day!" he said.</p>
+
+<p>"Yes."</p>
+
+<p>"Every skilled mechanic has struck," he said with pride as in a personal achievement. "And most of the rest. To-night four thousand out of their five thousand men were with us."</p>
+
+<p>"It came so suddenly. Nobody thought of a strike this morning."</p>
+
+<p>"We were better organized than they thought," he said, running his hand through his thick black hair and throwing back his head. "Better than I thought myself. I've always said fool employers were the best friends we organizers have. The placard that young booby slapped the men in the face with&#8212;that did it. That and his spying on us last night."</p>
+
+<p>"I'm sure he wasn't spying last night."</p>
+
+<p>"Bosh! He was mighty quick to try to get our necks under his heel this morning."</p>
+
+<p>"I don't know what happened this morning," she said slowly. "I'm his secretary, you know. Something happened about that placard. I don't believe he wanted it to go up."</p>
+
+<p>"You're defending him? Of course. You're a girl, and you're close to the throne with a soft job. He's a good-looking kid, in his namby-pamby way, too."</p>
+
+<cb n="3" />
+
+<p>"Mr. Dulac! My job&#8212;I was going to ask you what I should do. I want to help the men. I want them to feel that I'm with them, working for them and praying for them. Ought I to quit too?"</p>
+
+<p>Dulac looked at her sharply, calculatingly.</p>
+
+<p>"No," he said presently; "you can do a lot more good where you are."</p>
+
+<p>"Will there be trouble? I dread to think of rioting and maybe bloodshed. It will be bad enough anyhow&#8212;if it lasts long. The poor women and children!"</p>
+
+<p>"There'll be trouble if they try to turn a wheel or bring in scab labor." He laughed so that his white teeth showed. "The first thing they did was to telephone for the police. I suppose this kid with a whole day's experience in the business will be calling in strike-breakers and strong-arms and gunmen. Well, let him bring it down on himself if he wants to. We're in this thing to win. It means unionism breaking into this automobile game. This is just the entering wedge."</p>
+
+<p>"Won't the automobile manufacturers see that too?" she asked. "Won't the men have all their power and wealth to fight?"</p>
+
+<p>Dulac shrugged his shoulders.</p>
+
+<p>"I guess the automobile world knows who Dulac is to-night," he said, with gleaming eyes.</p>
+
+<p>SOMEHOW, the boast became the man.  It was perfectly in character with his appearance and bearing. It did not impress Ruth as a brag; it seemed a natural and ordinary thing for him to say.</p>
+
+<p>"You've been here just two weeks," she said a trifle breathlessly. "You've done all this in two weeks."</p>
+
+<p>"It's a start&#8212;but all our work is only a start. It's preliminary." His voice became oratorical. "First we must unionize the world. Now there are strong unions and weak unions&#8212;both arrayed against a capital better organized and
+
+<cb n="4" />
+
+stronger than ever before in the world's history. <sic>Unionsim</sic> is primary instruction in revolution. We must teach labor its power; and it is slow to learn. We must prepare, prepare, prepare. And when all is ready we shall rise: not one union, not the unions of a state or of a country, but the unions of the world&#8212;hundreds of millions of men who have been ground down by aristocracies and wealth for generations. Then we shall have such an overturning as shall make the French Revolution look like child's play. A world's republic&#8212;that's our aim; a world's republic ruled by labor!"</p>
+
+<p>Ruth's eyes glistened as he talked. She could see a united world, cleansed of wars, of boundary lines, a world where every man's chance of happiness was the equal of every other man's chance, where wealth and poverty were abolished, from which slums, degradation, starvation, the sordid wickednesses, compelled by poverty, should have vanished. She could see a world of peace, plenty, beauty.</p>
+
+<p>It was for this high aim that Dulac worked. She marveled that such a man could waste his thoughts upon her. So much of accomplishment lay behind him&#8212;and he not yet thirty years old! The confidence reposed in him by labor was eloquently testified to by his mission to this important post on the battle-line. Already he had justified that confidence.</p>
+
+<p>DULAC had been an inmate of the Frazer cottage for two weeks. In that time he had not once stepped out of his character. This character was that of a leader of men, a zealot for the cause of the under dog. It held him aloof from personal concerns. Individual affairs did not touch him. Not for an instant had he sought the friendship of Ruth and her mother. He was devoted to a cause, and the cause left no room in his life for smaller matters. He was a man apart.</p>
+
+<p>Now he was awkwardly tugging something from his pocket. Almost diffidently he offered it to Ruth. It was a box of candy.</p>
+
+<p>"Here&#8212;" he said clumsily.</p>
+
+<p>"For me!" Ruth was overpowered. This demi-god had brought her a gift. Then she saw that he was embarrassed, actually embarrassed before her.</p>
+
+<p>"Thank you," she said. "Thank you so much."</p>
+
+<p>"You're not&#8212;offended?"</p>
+
+<p>He was recovering himself. In an instant he was back again in character.</p>
+
+<p>"We men," he said, "who are devoted to the cause have little time in our lives for such things. We are wanderers. We have no homes. We can't afford to have homes. I"&#8212;he said it proudly&#8212;"have been in jail more than once. A man cannot ask a woman to share such a life. A man who leads such a life has no place in it for a woman."</p>
+
+<p>"I should think," she said, "that a woman would be proud to share such a life&#8212;to know she was helping a little! To know she was making one comfortable spot for you to come to and rest when you were tired or discouraged."</p>
+
+<p>His eyes glowed. She read hunger in them&#8212;hunger for her! It frightened her, yet it made her heart leap with pride. To be looked upon with favor by such a man!</p>
+
+<p>"Some women," he said slowly, "might live through it. There are women big enough and strong enough&#8212;a few, maybe: big enough to endure neglect and loneliness; to live and not know if their husbands would sleep at home that night or in jail or be in the middle of a riot on the other side of the world. They could not even depend on their husbands for support. A few might not complain, might be able to endure. You, Miss Ruth&#8212;I believe you are one of them!"</p>
+
+<p>Her cheeks paled. Was he about to ask her to marry him? She was awed&#8212;yet warmed by a surge of pride. She thought of her father.</p>
+
+<p>THE silence in the room was the tense silence of a human crisis. Then it was broken ruthlessly. There came a pounding on the door that was not a knock, but an alarm.</p>
+
+<p>"Dulac! 'Where's Dulac?'" a man's voice demanded.</p>
+
+
+<pb n="Page 19" xml:id="ew.issue.19171008.p019" />
+
+<figure n="advertisement">
+<head>Why we toast the tobacco</head>
+<p></p>
+<figDesc>Advertisement for The American Tobacco Co. Incorporated</figDesc>
+</figure>
+
+<pb n="Page 20" xml:id="ew.issue.19171008.p020" />
+
+<figure n="advertisement">
+<head>Djer-Kiss</head>
+<p></p>
+<figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$2<hi rend="superscript">50</hi> a Month</head>
+<p></p>
+<figDesc>Advertisement for Burlington Watch Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>O-Cedar</head>
+<p></p>
+<figDesc>Advertisement for Channell Chemical Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Sent on Free Trial</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Become an Expert Accountant</head>
+<p></p>
+<figDesc>Advertisement for LaSalle Extension University</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Pay As You Wish</head>
+<p></p>
+<figDesc>Advertisement for Harold Lachman Company</figDesc>
+</figure>
+
+
+<cb n="2" />
+
+<p>"Here," he replied. "What is it?"</p>
+
+<p>"O'Hagan's in town," the man panted, rushing into the room. "They've brought in O'Hagan and his gang."</p>
+
+<p>O'Hagan, king of strike-breakers! Ruth knew that name well. His arrival in town promised violence, riot, bloodshed.</p>
+
+<p>"They're going to try to run, then," said Dulac calmly.</p>
+
+<p>"The police have escorted a mob of scabs into the mill yards. They've tried to drive away our pickets. They've locked up Higgins and Bowen. Got Mason, too, but the crowd took him away from the police."</p>
+
+<p>"It's on their own heads," said Dulac solemnly. "I'll come with you."</p>
+
+<p>He turned to Ruth and took her hand.</p>
+
+<p>"You see," he said. "It calls me away&#8212;even from a moment like this."</p>
+
+<p>MALCOLM LIGHTENER was not a  man to send messages, nor to depend upon telephones. He was as direct as a catapult, and was just as regardful of ceremony. The fact that it was his and everybody else's dinner hour did not hold him back an instant from having himself driven to the Foote residence and demanding instant speech with Mr. Foote.</p>
+
+<p>Mr. Foote, knowing Malcolm Lightener, shrugged his shoulders and motioned Bonbright to follow him from the table.</p>
+
+<p>"If we asked him to be seated and wait," said he, "Lightener would burst into the dining-room. '</p>
+
+<p>They found their visitor, not seated, but standing like a granite monolith in the center of the library.</p>
+
+<p>"Well," he said, observing no formalities of greeting, "you've chucked a brick in' o the hornets' nest."</p>
+
+<p>"Won't you be seated?" asked Mr. Foote, with dignified courtesy.</p>
+
+<p>"Seated? No; I've got no time for seats. Do you know what you've done, with your bull-headedness? You've rammed the automobile manufacturers up against a crisis they've been dodging for years. Needlessly! There was no more need for this strike at this time than there is for fur overcoats in hell. But, just when the hornets were stirred up and buzzing, you had to heave your brick. And now we've got to back your play."</p>
+
+<p>"I am not aware," said Mr. Foote icily, "that we have asked assistance."</p>
+
+<p>"If the house next to mine catches fire the owner doesn't have to holler to me for help. I've got to help to keep the blaze from spreading to my own house. You've never thought beyond the boundaries of Bonbright Foote, Incorporated&#8212;that's what's the matter with you. You're hide-bound. A blind man could see the unions look at this thing as their entering wedge into the automobile industry. If they break into you, they'll break into us. So we've got to stop 'em short."</p>
+
+<p>"If we need any help&#8212;" Mr. Foote began.</p>
+
+<p>"Whether you need it or whether you want it," said Lightener, "you get it.</p>
+
+<p>"Let me point out to you," said Mr. Foote, with chilly courtesy, "that my family has been able to manage its business for several generations&#8212;with some small success. I have placed my son in complete charge of this situation, with confidence that he will handle it adequately."</p>
+
+<p>"Huh!" grunted Lightener, glancing at Bonbright. "I heard about that. What I came to say principally was: This thing can be headed off now, if you go at it with common sense. Make concessions. Get to this Dulac. You can get your men back to work&#8212;and break up this union thing."</p>
+
+<p>"Mr. Lightener, our course is decided upon. We shall make no concessions. My son has retained O'Hagan, the strikebreaker. To-morrow morning the mills start up as usual, with new men. We have them camped in the yards now. There shall be no compromising. When we have the strikers whipped into their places we'll talk to them&#8212;not before."</p>
+
+<p>"What's the idea of putting up the boy as stalking-horse? What do you expect to get by hiding behind him?"</p>
+
+<p>"My son was indiscreet. He created a misapprehension among the men as to his attitude toward labor. I am merely setting them right."</p>
+<cb n="3" />
+
+<p>"And sowing a fine crop of hatred for the boy to reap."</p>
+
+<p>"My son knows his duty to his family," said Mr. Foote. "He will act as my son should act."</p>
+
+<p>Lightener turned to where Bonbright stood, with set face and eyes that smoldered, and studied him with an eye accustomed to judging men.</p>
+
+<p>"There'll be rioting," he said. "Probably there'll be bloodshed. There'll certainly be a devil of a lot of suffering. Your father is putting the responsibility for it on your shoulders, young fellow. Does that sit comfortably on your mind?"</p>
+
+<p>Bonbright was slow to answer. Whatever he felt, whatever he thought, whatever dread he might have of the future as it impended over himself, he must be loyal to his name. So, when he spoke,  it was to say in a singularly unboyish voice:</p>
+
+<p>"My father has spoken for me, Mr. Lightener.'</p>
+
+<p>For the first time, Lightener smiled. He laid a heavy hand on Bonbright's shoulder.</p>
+
+<p>"That was well done, my boy," he said.</p>
+
+<p>A servant appeared. "Mr. Bonbright is wanted on the telephone," she said.</p>
+
+<p>It was Rangar.</p>
+
+<p>"There's rioting at the plant," the man said unemotionally. "I have notified the police and taken the necessary steps."</p>
+
+<p>"Very well," said Bonbright.</p>
+
+<p>He walked to the library, and, standing in the door, stirred by excitement so that his knees quivered and a great emptiness was within him, he said to his father:</p>
+
+<p>"There's rioting at the plant."</p>
+
+<p>Then he turned, put on his coat and hat, and left the house.</p>
+
+<p>WITH some vague, juvenile notion of making himself unrecognizable, Bonbright turned up the collar of his coat and pulled down his cap.</p>
+
+<p>When still some blocks from the mills, a patrol wagon filled with officers careened past him, its gong emitting a staccato exciting alarum. Here was reality. Bonbright quickened his step&#8212;began to run. Presently he entered the street that lay before the front of the factory&#8212;a street lighted by arc lamps, so that the scene was adequately visible.</p>
+
+<p>As far as the main gates into the factory yards the street was in possession of the police. Beyond them surged and clamored the mob, not yet wrought to the pitch of attack. Bonbright remembered a gale around the corner. He would enter this and go up to his office, and watch the scene from his window.</p>
+
+<p>BEFORE the gate a man sat on a soap-box, a short club dangling from his wrist. As Bonbright approached, he arose.</p>
+
+<p>"What do you want?" he demanded, taking a businesslike grip on his weapon.</p>
+
+<p>"I want to go in," said Bonbright; "I'm Mr. Foote.</p>
+
+<p>The man grinned.</p>
+
+<p>"To be sure, Mr. Foote. Howdy, Mr. Foote? You'll be glad to meet me. I'm Santa Claus."</p>
+
+<p>"I tell you, I'm Mr. Foote. I want to go inside.</p>
+
+<p>"And I tell you," said the man, suddenly dropping his grin, "to beat it&#8212;while you're able."</p>
+
+<p>Rage sent an instant heat through Bonbright. For an instant he meditated jerking the man from that gate by the nape of the neck and teaching him a lesson with his athletic foot. It was not fear of the result that deterred him: it was the thought that the man was his own employee, placed there by him for this very purpose. If the guard made Bonbright bristle with rage, how would the sight of him and his club affect the strikers? He was a challenge and an insult, an invitation to violence. Bonbright turned and walked away.</p>
+
+<p>Bonbright retraced his steps and approached the police from the rear. He was stopped by an officer:</p>
+
+<p>"Where you goin'?"</p>
+
+<p>"I'm Mr. Foote," said Bonbright. "I want to see what's happening."</p>
+
+<p>"I can't help it if you're Mr. Roosevelt&#8212;you can't go any further than this. Now git."</p>
+
+<p>He gave Bonbright a violent and <choice><orig>unex-
+
+<figure n="advertisement">
+<head>White Rose Glycerine Soap</head>
+<p></p>
+<figDesc>Advertisement for Mulhems &amp; Kropff</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Thermolite</head>
+<p></p>
+<figDesc>Advertisement for H.G. McFaddin &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Shorthand in 30 Days</head>
+<p></p>
+<figDesc>Advertisement for Chicago Correspondence Schools</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Parker's Hair Balsam</head>
+<p></p>
+<figDesc>Advertisement for Parker's Hair Balsam</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Amazing Profits</head>
+<p></p>
+<figDesc>Advertisement for Hiram Barton</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$25.00 Reward</head>
+<p></p>
+<figDesc>Advertisement for Every Week</figDesc>
+</figure>
+
+<pb n="Page 21" xml:id="ew.issue.19171008.p021" />
+
+pected</orig><reg>unexpected</reg></choice> shove that almost sent him off his feet. He staggered, recovered himself, and stood glowering at the officer.</p>
+
+<p>"Move!" came the short command; and once more, burning with indignation, he obeyed.</p>
+
+<p>Bonbright walked quite around the block, approaching again on a side street that brought him back again just ahead of the police. This street was blocked by excited, restless, crowding, jeering men; but Bonbright wormed his way through, and climbed upon a porch from which he could see over the heads of the foremost to where a line of police and the front rank of strikers faced each other across a vacant space of pavement, the square at the intersection of the streets.</p>
+
+
+<p>BEHIND him a hatless man, in a high under his blows before he could break  state of excitement, was making an inflammatory speech from a door-step. He was urging the mob to charge the police, to trample them under. Bonbright leaned far over the railing, so he could look down the street where the main body of the mob was assembled.</p>
+
+<p>There was another speaker. Bonbright recognized Dulac&#8212;and Dulac was urging the men to disperse.</p>
+
+<p>Bonbright listened. The man was talking sense! He was pointing out the folly of mob violence. He was showing them that it achieved nothing. But the mob was beyond the control of wise counsel. Possibly many of them had been drinking. And certainly there was present a leaven of toughs, idlers in no way connected with the business.</p>
+
+
+<p>One of these, discreetly distant from the front, hurled half a brick into the line of police. It was a vicious suggestion. Other missiles followed, while the crowd surged forward. Suddenly the line of patrolmen opened to let through a squad of mounted police, who charged the mob.</p>
+
+<p>It was a scene Bonbright could never erase from his memory.</p>
+
+<p>The police drew back. The strikers hesitated. Between them, on the pavement, lay half a dozen human forms. Bonbright, his face as colorless as those who
+
+<cb n="2" />
+
+lay below, stared at the bodies. For what he saw he would be held responsible by the world. He ran down the steps, and began struggling through the mob.</p>
+
+<p>"Let me through&#8212;let me through!"</p>
+
+<p>He broke through to the front, quivering with horror. He must do something. He must stop it!</p>
+
+<p>Then he was recognized.</p>
+
+<p>"It's young. Foote!" a man shouted, and snatched at his shoulder.</p>
+
+<p>He shook the man off, but the cry was taken up:</p>
+
+<p>"It's Foote&#8212;young Foote. Spying again."</p>
+
+<p>The mob surged about him, striking, threatening, so that he had to turn his face toward them, to strike out with his fists. More than one man went down under his blows before he could break away and run toward the police.</p>
+
+<p>"See what you've done!" he shouted in their faces. "This must stop!"</p>
+
+<p>He advanced another step.</p>
+
+<p>"Grab him!" ordered a sergeant.</p>
+
+<p>Bonbright was promptly grabbed and hauled  through the line of mounted police, to be thrown into the arms of waiting patrolmen. He fought as strngth was given him to fight; but they carried him ungently, and hurled him a-sprawl upon the floor of a patrol wagon already well occupied by arrests from the mob.</p>
+
+<p>"Git 'em to the station," the driver was ordered, and off lurched the patrol wagon.</p>
+
+<p>That rapid ride brought colling to bonbright's head. He had made a fool of himself. He was ashamed, humiliated and to be humiliated is no minor torture to a young man.</p>
+
+<p>Instead of giving his name to the lieutenant on the desk, he refused to give a name, and was entered as John Doe. It was his confused thought to save his family from publicity and disgrace.</p>
+
+<p>So he learned what it was to have barred doors shut upon him, to be alone in a square cell whose only furnihsing was a sort of bench across one end. He sank upon this apathetically and waited for what morning should bring.</p>
+
+    <p rend="continued"><ref target="kelland.19171015">(To be continued next week.)</ref></p>
+
+
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="armenia.19171008">
+<body>
+<head type="main">What the War Has Meant to Armenia</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from American Committee for Armenian and Syrian Relief</ab>
+<p>An Armenian mother sitting beside her dead children.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>TEN years ago, when the Turks slew thousands of <sic>Arm enians</sic>, the whole world broke into indignant protest. But almost nothing has been heard of the more terrible sufferings of Armenia to-day: its pitiful cup of woe has been covered up in the great and nearer sufferings of the nations closer to us. Here is a fleeting glimpse of what the war has meant to Armenia, as told by S. S. McClure in <hi rend="italic">Obstacles to Peace</hi> (Houghton, Mifflin Company):</p>
+
+<p>"It is almost impossible to visualize the new Turkish methods. While I can find no parallel in history to the fate of the Armenians,&#8212;and at this moment they are in the midst of their crucifixion,&#8212;I learned of an incident in Constantinople somewhat similar. Some years ago the authorities of Constantinople decided to get rid of the vast number of dogs that occupied every street. Instead of killing them outright, they removed the dogs to an island on the Sea of Marmora, not far from the city, where there was neither food nor water. All the dogs perished miserably. This is in substance what has happened to Armenia.</p>
+
+<note type="copyright" place="margin-bottom">Published weekly by The Crowell Publishing Company at Springfield, Ohio, George H. Hazen. President. Executive and editorial offices, 381 Fourth Avenue, New York City, N. Y. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreigh countries, $1.75. Entered as second-class matter September 11, 1917, at the post-office at Springfield, Ohio, under the Act of March 3, 1879.</note>
+
+</body>
+</text>
+<text type="advertisement" xml:id="doubleday.19171008">
+<body>
+
+<figure n="advertisement">
+<head>The Most Complete Single Map of the Western Front</head>
+<p></p>
+<figDesc>Advertisement for Nelson Doubleday</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Quick Shipment</head>
+<p></p>
+<figDesc>Advertisement for Kalamazoo Stove Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patent Your Inventions</head>
+<p></p>
+<figDesc>Advertisement for Talbert &amp; Parker, Patent Lawyers</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patentable Ideas Wanted.</head>
+<p></p>
+<figDesc>Advertisement for Richard B. Owen</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Every Week Woman's Home Companion and The American Magazine</head>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 22" xml:id="ew.issue.19171008.p022" />
+
+<text type="advertisement" xml:id="ingrams.19171008">
+<body>
+
+<figure n="advertisement">
+<head>Keep Youthful</head>
+<p></p>
+<figDesc>Advertisement for Frederick F. Ingram Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Become A Nurse</head>
+<p></p>
+<figDesc>Advertisement for The Chautauqua School of Nursing</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for Randolph &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including Personal, Help Wanted, Corporations, Photoplays, Stories, etc., Help Wanted&#8212;Female, Song Poems, Salesmen, News Correspondents, Short Stories, Manuscripts Wanted, and Photoplays</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="fiction" xml:id="tilden.19171008.jump1">
+<body>
+<head type="main">A Knowledge of Beans</head> <p rend="jumpline">&#8212; Continued from page 16</p>
+
+<p rend="jump">bronzed in that summer-vacation effect so highly prized by city dwellers. When he got in front of the Crandon store, Joel Crandon came out and hailed him.</p>
+
+<p>"Come in a minute, will you, Walter?" he cried. "I want to speak to you."</p>
+
+<p>Walter Kettridge went in.</p>
+
+<p>"Walter, what did you ever do with those twenty sacks of beans&#8212;er&#8212;we spoke about one time?"</p>
+
+<p>"I've got them. They're in a spare room over at Mason's. As they don't seem to be losing in value any, I thought I'd hold on."</p>
+
+<p>"Pea-beans are selling for six-twenty-five a bushel," he murmured. "I'll take them off your hands at that price. I'll give you a check right now. Two hundred dollars even money! That's a pretty good profit, Walter."</p>
+
+<p>"You can have them!" was the reply.</p>
+
+<p>Joel creaked back and forth in his chair before he spoke again. He went on at last:</p>
+
+<p>"You're sort of in the bean business, from what I hear."</p>
+
+<p>"Why, I've got twenty-one acres pretty near ready to take in," was the answer. "I'm going to sell them when the price hits nine dollars a bushel."</p>
+
+<p>"Hm! Er&#8212;have they done pretty well? Letting bygones be bygones, Walter, I'd kind of like to hear about it. It must have kept you pretty busy."</p>
+
+<p>"Busy! I should say it has. Do you know, Mr. Crandon," laughed the young fellow, "I've been more of a hunter than a farmer this summer? I've killed&#8212;let's see"&#8212;he pulled out a worn note-book"&#8212;one hundred and thirty-eight woodchucks, five raccoons, and two deer that I caught trying to do me out of the fruit of my labor. Busy! I haven't been asleep after four o'clock in the morning since the 20th of last May. Busy! Well! But I'm getting near the end of it now. I've got two hundred new bags out there, and I expect to fill 'em all, and then maybe some more, with luck."</p>
+
+<p>"Two hundred bags! At nine dollars a bushel! Do you really think they'll go to nine dollars? You don't, now, really?"</p>
+
+<p>"I bet they go to ten," was the reply.</p>
+
+<p>"Yet you just sold to me for six-twenty-five!"</p>
+
+<p>"Yes, Mr. Crandon; because I want you to have a chance to feel that I was right."</p>
+
+<p>"H'm! Um-m-m! I suppose you'll try to raise ten times as many next year. It looks like big profits!"</p>
+
+<p>"Next year," was the reply, "I doubt if I shall raise a bean. I don't know yet. We simply can't raise them around here in normal times, in competition with the Michigan and northern New York growers. I'm going to get out near the top&#8212;and going into something else."</p>
+
+<p>"Walter," said Joel, after a long cogitation, "I guess I underrated you. You certainly do know beans. And you know a lot of other things. Come over and have supper with us to-night. I'd sort of like to get your ideas on&#8212;certain matters. Of course, you don't hold anything against me&#8212;er&#8212;do you?"</p>
+
+<p>"Not in the least!" was the cheerful rejoinder.</p>
+
+<p>WALTER was on hand for supper. Supper wasn't so important. What Joel talked about wasn't so important, either. What Joel really wanted to talk about was highly important. But, after a few dry attempts, the merchant, with native prudence, decided to show the young man a changed social attitude, and come to business later.</p>
+
+<p>But the thing was prematurely divulged by Molly Crandon. About ten o'clock that night she went as far as the gate with Walter.</p>
+
+<p>He said "Good night"&#8212;and lingered.</p>
+
+<p>She said "Good night, Walter," and didn't seem to expect that he would hurry away. Then, after a pause, she added:</p>
+
+<p>"I'm going to tell you a family secret. For some reason, my father didn't speak to you about it to-night. But he will. He's changed his ideas about you entirely, Walter. He's going to ask you to become head clerk at the store."</p>
+
+<cb n="3" />
+
+<p>"You don't mean it!"</p>
+
+<p>"Yes. But you won't accept. You're not going to become anybody's head clerk now. You're on the road to success. I want you to work with father, but not for him. He must give you an interest in the business. For the first time, he sees the need of somebody with ideas. You know, maybe, that the Arctic and Antarctic Tea Company is going to open a store here. It means real competition. It means that their own up-to-date methods will have to be used against them. Father realizes it. Now is your chance!"</p>
+
+<p>Walter Kettridge was silent.</p>
+
+<p>"Don't you want to do it, Walter?"</p>
+
+<p>"Yes; but&#8212;"</p>
+
+<p>He shifted uneasily, and looked down the shaded street. Then he blurted out:</p>
+
+<p>"Why do you keep on doing things for me? I'm so much in your debt now, I can never get out. I&#8212;ought not go on."</p>
+
+<p>She put a hand on his arm.</p>
+
+<p>"You're not in the least debt to me. I've been living through you, don't you see? I'm afraid I can't any more, though. 
+You've found what you needed&#8212;confidence, or something&#8212;and soon you'll be at the top. There&#8212;is only one more thing, Walter&#8212;perhaps&#8212;I can do for you. That is, to convince you that it isn't only in business that you are worthy. It won't be long&#8212;I know well&#8212;before the Bristow
+
+<cb n="4" />
+
+girls will be showing their interest in you. Then&#8212;I want you to know that you are&#8212;that you&#8212;are worthy of the best!"</p>
+
+<p>"Bristow girls!" echoed the young fellow, with almost a return to his old-time panic. "Do you suppose I ve got any room in my&#8212;in here&#8212;for any Bristow girls? All I ask is to remain a friend of yours."</p>
+
+<p>She looked at him&#8212;they were standing side by side, leaning on the gate-rail&#8212;out of the corners of her eyes.</p>
+
+<p>"But the time might come, you know, when I should want something more than a friend&#8212;that friendship&#8212;I&#8212;"</p>
+
+<p>He felt his nerves tighten. The arm upon which her hand rested trembled as he turned swiftly to her and choked out.</p>
+
+<p>"Molly&#8212;you&#8212;don't mean you'd let me tell you&#8212;that I&#8212;have a chance?"</p>
+
+<p>She was gone from his side like a flash. With a bold impulse he followed. But at the door-step she halted him with:</p>
+
+<p>"I don't mean anything, Walter. That is, not now. You mustn't say anything more. That is, not now. But when you are down there with my father, you'll come here very often, of course. And I'll be so glad to see you. Because&#8212;our first&#8212;that is, our business partnership was very successful, wasn't it? Good night!"</p>
+
+<p>The door closed softly. Walter Kettridge sat down on the steps. He could hear his heart beating. He looked up at the stars. He felt unreasonably, almost dangerously, content with the world.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="siam.19171008">
+<body>
+
+<head type="main">Good Morning, Wilhelm: Here's Siam!</head>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>THE news that Siam had declared war against Germany was taken as a good deal of a joke. This little
+kingdom in southeastern Asia has a population of less than 10,000,000 in her entire territory.</p>
+
+<p>But, although the Siamese are the most charming Asiatics in the world, more ready to smile than to smite, account must be taken of the man they call "king" and "lord"&#8212;for their ruler is the owner of their bodies and their souls.</p>
+
+<p>Vajiravudh is not yet forty. He is the only Eastern monarch with a Western education. One third of his life was spent in England and Europe, and while there he did everything that any other democratic son of a democratic father could or should do. He played football at Rugby, drilled as a common soldier at Sandhurst, took his chances with the daredevils at Heidelberg, and at Oxford wrested the highest honors away from the brainiest Britishers who dared to enter the lists against him.</p>
+
+<p>That he has a will of his own the following example will demonstrate: Siam is a polygamous people. The gentry of the country may have as many wives as they can reasonably support, while the King is entitled to such numbers as his royal will dictates. Vajiravudh's father, Chulalongkorn, had between seven and eight hundred members in his household.</p>
+
+<p>When Vajiravudh returned from his long sojourn in Europe his father suggested that it was high time for him to settle down, and mentioned the names of a number of suitable ladies with whom he might begin his home. But, to the amazement of his father and the court, the young
+
+man swept away all precedent, and declared that he would wed whom he chose&#8212;"but one wife, and that one the one whom I shall love and cherish as the one woman in the world." So far, Vajiravudh has remained a bachelor.</p>
+
+<p>In Siam, the dead are not buried, but cremated. The crematory ceremonies of a monarch are full of pomp and majesty. Custom has decreed that he who is to occupy the chair of the departed ruler must light the funeral pyre of his predecessor.</p>
+
+<p>At the cremation of his father, Vajiravudh was noticeably impressed. When the time came for him to light the sacred fire, he hung back as if doubting his power of carrying out this royal order. Finally, however, he stepped to the altar, closed the heavy curtains, and remained closeted with the dead. Seconds seemed minutes to the waiting crowd&#8212;minutes, hours. But suddenly a tiny flame shot up over the top of the catafalque, the curtains were parted, and there appeared between them a new personality.</p>
+
+<p>In that moment of communion with the dead the boy had become the man&#8212;the Western collegian had changed to the Eastern ruler.</p>
+
+<p>This is the man who has sent word to the Kaiser that his country is at war with ruthlessness and disorder; this is the ruler who followed up his war message with the immediate "taking over" of all German shipping lying in the harbor, and the immediate arrest of all Germans and Austrians living within the radius of the sway of his scepter.</p>
+
+<p>Vajiravudh means business. Siam is at war.</p>	<closer><signed>Frederic Dean.</signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 23" xml:id="ew.issue.19171008.p023" />
+
+<text type="advertisement" xml:id="denton.19171008">
+<body>
+
+<figure n="advertisement">
+<head>Dr. Denton Soft-Knit Sleeping Garments</head>
+<p></p>
+<figDesc>Advertisement for Dr. Denton Sleeping Garment Mills</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Freeman's Face Powder</head>
+<p></p>
+<figDesc>Advertisement for The Freeman Perfume Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>You Can Succeed in Florida</head>
+<p></p>
+<figDesc>Advertisement for B.L. Hamner, Gen. Dev. Agt.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Deafness Is Misery</head>
+<p></p>
+<figDesc>Advertisement for A.O. Leonard</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Exora</head>
+<p></p>
+<figDesc>Advertisement for Chas. Meyer</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Learn Piano by Ear in a Week</head>
+<p></p>
+<figDesc>Advertisement for F.W. Little</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>We Want Men</head>
+<p></p>
+<figDesc>Advertisement for Every Week</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="shaw.19171008">
+<body>
+<head type="main">Do You Wash Your Car?</head>
+<byline>By <persName type="author" key="#Shaw, Jerome T.">JEROME T. SHAW</persName></byline>
+
+<p>THERE are now, in round numbers, 3,600,000 motor vehicles registered in the United States, and a goodly proportion of three quarters of a million motorists take care of their cars without the assistance of public garage men. To them the question of washing the car is an important one, and proper washing is an art that the motorist can acquire easily and with appreciable profit.</p>
+
+<p>The good garage man will tell you that lack of washing and failure to wash properly will do more toward ruining the appearance of a car than will anything else.</p>
+
+<p>A single washing done carelessly will destroy the luster that careful washing has preserved for months. Therefore it behooves the car-owner to use discretion in determining his system for keeping up the car's appearance. You have no doubt noticed many cars with bodies badly streaked and spotted. This condition has developed because the owners permitted mud to dry and freeze on the bodies, with the result that all of the oil has been eaten from the varnish.</p>
+
+<p>Clear, cool water sprayed evenly over the body and chassis just after the car comes in off the road will remove mud before it has a chance to harden. Where a car is exceptionally dirty, it is well to give it a second shower, fifteen minutes or so after the first.</p>
+
+<p>The shower operation should be followed by a careful and thorough sponging. With a soft clean sponge following a gentle stream from the hose, go lightly over the body. Grease-spotted panels should be separately washed with pure water and castile or other neutral soap; but bar soap, soft soap, or soap solution should never be used on the body above the chassis.</p>
+
+<p>More vigorous treatment and different appliances are required to remove the grease and road oil that collects on the chassis.</p>
+
+<p>Special brushes will greatly facilitate work in corners that are otherwise inaccessible.</p>
+
+<p>The caustic action of an alkali soap is necessary for the removal of grease on the chassis; but even here it is advisable to use it in the form of a soap solution made by dissolving a pound of soap in a gallon of warm water. The soap is, of course, rinsed off, and a hard stream may
+
+be used on the chassis to advantage; but it should not be directed against the wheel hubs, for dirt may be washed in and reach the bearings.</p>
+
+<p>On the body the water is taken up by applying a piece of chamois with a slight pressure, and not by rubbing it over the finish. It is imperative that a separate piece of chamois be used for the body and chassis polishing. It should be remembered that if cracked varnish is to be avoided the car should not be driven into a cold atmosphere until it is thoroughly dry.</p>
+
+<p>Within the past few years a number of liquid polishes for motor vehicles have come upon the market which, when used as directed by the manufacturers, give excellent results with a minimum of labor.</p>
+
+<p>Some of these special liquid polishes are sprayed on the body surfaces, while others are applied with folded cheesecloth.</p>
+
+<p>The application of wax polish is a simple matter, but care should be exercised to insure even distribution over the en-tire surface. Spraying outfits work on the same principle. It is essential to the success of the cleaning job and the life of the body finish that all traces of hardened mud be removed before applying wax or liquid polishes.</p>
+
+<p>Where the car has been run with the top up and it is desired to give it a complete cleaning, a different form of procedure should be followed. Of course the cleaning will start with the top. After giving it a good stiff brushing to remove the loose dust, it should be either sponged or gone over with a soft brush, clear tepid water, and castile soap. Drying will be hastened by the use of chamois kept especially for this purpose. Don't fold back the top until it is thoroughly dry.</p>
+
+<p>It is a good idea to give the interior a little more attention than that resulting from a stiff brushing. Go over the leather upholstery with a woolen cloth dipped in clear water to which has been added a few drops of ammonia. If the upholstery is of cloth it can best be cleaned by sponging with water containing a little salt and alcohol.</p>
+
+<p>A wash and polish at regular and frequent intervals will keep the old car new so far as appearance is concerned; but be sure that you do your washing and polishing properly.</p>
+
+
+<note type="editors">Mr. Shaw will be glad to help you with your motor troubles. And a copy of the helpful little book, "Running Your Car at a Minimum Cost," which is published by this magazine for the service of its readers, will be mailed you for five cents. Address the Editor, 381 Fourth Avenue, New York.</note>
+
+
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="shepherd.19171008">
+<body>
+<head type="main">A Letter to the Editor from Russia</head>
+
+<note type="editors">WILLIAM G. SHEPHERD, who wrote so many good articles for us last year, is in Russia. Here's a letter from him that gives you a little glimpse into what is going on in that most interesting land. Shepherd is an observer trained by long years of newspaper work to see clearly, and his judgment, formed on the spot, leads him to be absolutely confident that Russia is coming out all right.</note>
+
+<p>LIFE is fascinating here. Everything is new, and everybody is for starting off in a different direction. It's interesting to watch the pull and haul between theories, but always, my dear young man, the trend goes the right way. Common sense wins in every tussle.</p>
+
+<p>You know, Abraham Lincoln suspected and even had faith in certain facts about the people, as a mass, as Galileo believed the world was round. But this Russian revolution is proving scientifically, beyond any doubt, that a mass of people, given their free way, will always pick the way that is best for them as a mass, and therefore as individuals. They do it instinctively, as a dog finds his way home. God made 'em to do it. He intended them to do it.</p>
+
+<p>The great leaders here now, who are rebuilding Russia, have sensed this. They are making the public will concrete. That's all a great leader ever can do. A lot of my ideas are being changed. For instance, I find that the gentlest theories, to be put into practice, must be made as strong as steel. Brotherly love has got to have what might seem to be iron law behind it, and I can even imagine a man in such a plight that brotherly love would appear to him as cruel as the rules of the Standard Oil Company, if he didn't happen to fit into the scheme.</p>
+
+<p>Curious old world, isn't it?</p>
+
+<closer><signed>W. G. SHEPHERD.</signed></closer>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="muenzen.19171008">
+<body>
+
+<figure n="advertisement">
+<head>Vacuum Cleaners</head>
+<p></p>
+<figDesc>Advertisement for Muenzen Specialty Co.</figDesc>
+</figure>
+
+
+<figure n="advertisement">
+<head>LaVida Electric Vibrator</head>
+<p></p>
+<figDesc>Advertisement for Adbro Mfg Co</figDesc>
+</figure>
+
+
+<figure n="advertisement">
+<head>$1000 Per Man Per County</head>
+<p></p>
+<figDesc>Advertisement for Allen Mfg Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Typewriters</head>
+<p></p>
+<figDesc>Advertisement for Young Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>History of the World At A Bargain</head>
+<p></p>
+<figDesc>Advertisement for Western Newspaper Association</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 24" xml:id="ew.issue.19171008.p024" />
+
+<text type="advertisement" xml:id="johnson.19171008">
+<body>
+
+<figure n="advertisement">
+<head>Just Like New!</head>
+<p></p>
+<figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
+</figure>
+
+</body>
+</text>
+</group>
+</text>
+</TEI>

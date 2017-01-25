@@ -1,0 +1,2504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180223">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, February 23, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180223</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2010</date>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-02-23">February 23, 1918</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-02-24"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2009-01-26"><name>Katie Heupel</name> OCR
+</change>
+<change when="2008-10-31"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+        
+<pb n="Cover" xml:id="ew.issue.19180223.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5&#162;</titlePart>
+<titlePart type="price">$1<hi rend="sup">00</hi> a Year</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<docDate>February 9, 1918</docDate>
+<note>Notice To Reader: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. &#8212; A.S. Burleson, Postmaster General</note>
+</docImprint>
+
+<figure n="illustration">
+<head></head>
+<ab type="credit">Gustav Michelson</ab>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+
+
+<pb n="Page 2" xml:id="ew.issue.19180223.p002" />
+
+<text type="advertisement" xml:id="clock.19180223">
+<body>
+
+<figure n="advertisement">
+<head>Big Ben of Westclox</head>
+<p></p>
+<figDesc>Advertisement for Western Clock Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Employment&#8212;A Position for You</head>
+<p></p>
+<figDesc>Advertisement for Every Week</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton.19180223">
+<body>
+
+<head type="main">"The Other Officers Continued to Drink and Sing"</head>
+
+<p>BEFORE you fill in your subscription to the third Liberty Loan, I ask you to take a look at <hi rend="italic">Malines</hi> and <hi rend="italic">Campenhout</hi>.</p>
+
+<p>It is all written in a book&#8212;just a matter-of-fact little book filled with official documents.</p>
+
+<p>Open it at the pages that deal with <hi rend="italic">Malines</hi>, and read:</p>
+
+<quote>
+<p>In Malines itself they [the Germans] destroyed 1500 houses, from first to last, and revenged themselves atrociously on the civil population. A Belgian soldier saw them bayonet an old woman in the back, and cut off a young woman's breasts.</p>
+
+<p>Another saw them bayonet a woman and her son.  They shot a police inspector in the stomach as he came out of his door; and blew off the head of an old woman at a window.</p>
+
+<p>A child of two came into the street as eight drunken soldiers were marching by. A man in the second file stepped aside and drove his bayonet with both hands into the child's stomach. He lifted the child into the air on his bayonet and carried it away, he and his companions still singing. The child screamed when the soldier struck it with his bayonet, but not afterwards.</p>
+
+<p>Another woman was found dead with twelve bayonet wounds between her shoulders and her waist.</p>
+</quote>
+
+<p>I do not often ask you to read unpleasant paragraphs like these: I do it now because, when it comes to writing about Liberty Bonds, I feel like throwing aside all the fine words and telling you the whole truth as it appeals to me.</p>
+
+<p>And the truth is that I am not buying a nickel's worth of bonds to give Trieste to Italy or one single added colony to England or Alsace-Lorraine to France.</p>
+
+<p>Other folks may rally around these battle standards if they find satisfaction in them.</p>
+
+<p>I buy Liberty Bonds because there is a two-year-old boy in my home&#8212;as there was in that nameless home in <hi rend="italic">Malines</hi>.</p>
+
+<p>And because&#8212;so small has the world become&#8212;<hi rend="italic">Malines</hi> is only just across the street from where I live.</p>
+
+<p>Prices are high. It is hard these days for a man with even a good income to buy food and clothes for his family.</p>
+
+<p>But I ask myself over and over again, what good to my youngsters are food and clothes, if the spirit that fired <hi rend="italic">Malines</hi> comes out of this war unrebuked?</p>
+
+<p>What sort of parents are you and I if we take care of the minor matters, such as food and clothes, and send our children out into a world where children may still be bayoneted and women ruthlessly slain?</p>
+
+<p>I hate war. If we were at war with England or France, I would fill this column so full of cries for a peace conference that they would put me in jail for doing it.</p>
+
+<p>But this is not a war of nations: it is a grapple of ideals.</p>
+
+<p>The ideal that respects pledges and the lives of women and children, battling with the ideal that counts pledges and the lives of women and children as mere pawns in the game of empire.</p>
+
+<p>"At <hi rend="italic">Campenhout</hi>," says the book, "they rifled the wine cellar and shot the mistress of the house in cold blood as she entered the room where they were drinking. <hi rend="italic">The other officers continued to drink and sing</hi>."</p>
+
+<p>Only a woman being killed. It was nothing. They did not even look around. They continued to drink and sing.</p>
+
+<p>So long as they who bayoneted the child of <hi rend="italic">Malines</hi> go singing through the streets of Belgium, there must be Liberty Bonds.</p>
+
+<p>So long as the terror that stalked through <hi rend="italic">Campenhout</hi> continues to hang over my house, there must be Liberty Bonds.</p>
+
+<p>I do not know how it may be with you: but, with me, this third Liberty Loan cuts down through the luxuries into what we used to think were necessities in our household.</p>
+
+<p>And we make the sacrifice gladly, for the sake of the great necessity.</p>
+
+<p>The necessity for establishing safety in the world for little children.</p>
+
+<p>For making it clear, once and for all, that, while women are being slain, no men can ever again  with impunity continue to drink and sing.</p>
+
+<closer><signed>Bruce Barton, Editor.</signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19180223.p003" />
+
+<text type="advertisement" xml:id="oliver.19180223">
+<body>
+
+<figure n="advertisement">
+<head>The New Oliver Nine</head>
+<p></p>
+<figDesc>Advertisement for The Oliver Typewriter Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19180223.p004" />
+
+<text type="photograph" xml:id="medals.19180223">
+<body>
+<head type="main">GETTING MEDALS PINNED ON</head>
+
+<figure n="photograph">
+<head></head>
+<p>FOR the most part, we endeavor to steer clear of the horrors of war. But we must be truthful; and it seems only fair to our departing sons and daughters to warn them of the deadliest peril of all&#8212;the decorations. Many a strong man who has come smilingly through shell-shock and night attacks turns faint and pale at the moment of facing his reward. Even women, even a militant suffragist&#8212;well, look at Nurse Colhoum. She fully realizes that if, as per instructions, she backs out of the presence of royalty, she will fall ingloriously off the platform into the palms, and be put on bread and water for disrespect.</p>
+<ab type="credit">Photograph by Central News Photo Service</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WILL General Joffre hire a couple of faithful retainers to carry his medals around after him on a litter as he goes about his daily business after the war? Or will Madame Joffre arrange them on tables in the front hall, like wedding presents, and let tourists view the collection (for a consideration) Wednesdays and Sundays? Once we had a Band of Mercy medal; but we lost it when we took it off to jab the rough little boy across the street.</p>
+<ab type="credit">Photograph from International Film Service, Inc.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IMAGINE the feelings of M. Battalion in this picture, who is getting kissed on both cheeks and in a hollow square by a gentleman who has the advantage of being not only his general but his uncle. The referee at the right is there to see that justice is meted out and that the poor victim does not get kissed any more than is absolutely necessary for the honor of the Republic.</p>
+<ab type="credit">Photograph from Press Illustrating Service, Inc.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Kadel &amp; Herbert</ab>
+<p>NO fellow hero will marvel at  the distrait looks of Captain Guynemer when we explain that this is the celebration of his forty-third victory. It only goes to show that never before have the depths of human endurance been plumbed. In the old days, a policeman retired to his ancestral estates in Ireland to convalesce on the receipt of his third runaway medal.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"RISE, Sir Knight," is what King George is saying to Lieutenant-General Fanshaw, at the same time giving him a whack with his sword as a gentle reminder. An easy little way of spoiling a simple man's life. In future no nice people will speak to Sir Fanshaw for fear of being thought social climbers, while all the undesirables will flock round him, hoping to get lit up by the reflected glory.</p>
+<ab type="credit">British official photograph: from Central News Photo Service</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Kadel &amp; Herbert</ab>
+<p>HOW tactful are the French! Not by one flicker of one  eyelash does the officer on the left betray his knowledge of what is going on. This graceful action greatly mitigates the sufferings of Mme. Naitre, of Red Cross fame. She seems almost reconciled to her fate. She wouldn't feel so tranquil if she realized how happy she was making all the wounded onlookers in the rear.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19180223.p005" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 8<lb/>
+February 23, 1918<lb/>
+
+Every Week<lb/>
+"Every word counts"<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="herendeen.19180223">
+<body>
+<head type="sub">What They Think of Her in Her Home Town</head>
+
+<head type="main">MELROSE'S JERRY</head>
+
+<byline>By <persName type="author" key="#Herendeen, Anne">ANNE HERENDEEN</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<p>"I'm not a judge of music or anything like that," said the man in the drug store on Main Street, "but I remember hearing Jerry sing in school, and I never thought much about it one way or the other. It's nice, though, she's getting along so well."</p>
+<figDesc></figDesc>
+</figure>
+
+<div1>
+<p>THEY pay Geraldine Farrar $1500 a performance for singing at the Metropolitan Opera House, which means $102,000 a season. And she further manages to eke out a living by acting for the movies in the summer at the rate of $2 a minute. Well, down in Melrose&#8212;the Massachusetts town where "Jerry" was born and brought up&#8212;the way they look at it is this: if they want to throw money away in New York, let 'em do it.</p>
+
+<p>I made the half-hour trip from Boston to Melrose recently, and, without being either very much an opera fan or a Farrar fan, I had all the emotions of a regular pilgrim. This was the same road over which, not so long ago, a frightened but resolute fifteen-year-old school-girl had journeyed to Boston to sing in Melba's hotel room and there receive that precious verdict, "The coming wonder of grand opera." Here was the hilly country she knew so well&#8212;even the icy weather became bearable when I thought of it as a sample of those "New England winters" which had given America's most popular singer the wonderful constitution with which to stand the exacting strain of continued work and its reward, success. And these kind-looking people around me in the car. Perhaps some of them had "known Farrar when" that young merchant over in the corner&#8212;perhaps he had loved and lost her in the grades, and stuffed her pigtail into the ink-well for revenge. I felt that I was in the Farrar country, and I longed to greet all her countrymen.</p>
+</div1>
+
+<div1>
+<head type="sub">Melrose's Main Street</head>
+
+<p>AFTER a while I stepped down into Main Street, the heart of Melrose. I can't say enough for Main Street. It is perfect. Through the post-office window I could see the postmaster reading the morning's post-cards; across the street in the drug store a customer was busily getting some change for a telephone call; and over in front of the moving-picture theater two small children were wistfully regarding a sign that said, "Temporarily closed for repairs." </p>
+
+<p>I went into the stationery and candy store and asked to see some Farrar postcards. The young lady behind the counter regarded me with reserved surprise.</p>
+
+<p>"Pictures of Jerry Farrar? No, we have nothing like that."</p>
+
+<p>I thought of Germany, where before the war there were as many pictures of <hi rend="italic">die Farrar</hi> as there were of the royal family. I thought of Petrograd, of Stockholm, of Warsaw, of Paris, where Farrar's pictures are sold as often as calendars or the national colors.</p>
+
+<p>"But her home, or the school she went to, or the church she sang in?"</p>
+
+<p>"We have a picture of the High School, if you want that," said the girl; "but I don't believe Jerry went there. It's only been built a little while. Are you a friend of hers?"</p>
+
+<p>"Oh, no," I said; "but of course I have heard her sing and I admire her very much, don't you?"</p>
+
+<p>"Well, I don't know as she's much better than other people," quoth the young lady.</p>
+
+<p>In some confusion I went out and repaired to the drug store. Ordering a bracing hot chocolate, I confided to the drugstore man that I was a stranger on a sentimental journey to the birthplace of the golden Farrar. The drug-store man wasn't snippy like the stationery girl&#8212;the drug
+
+<cb n="2" />
+
+and soda business, I think, tends to foster a certain broadness of mind.</p>
+
+<p>"They tell me," said he, "that they think a good deal of Jerry in different big cities and so on."</p>
+
+<p>"Oh, yes," I exclaimed. "Hundreds of people wait in line for five or six hours to buy standing room to hear her, and many others who really can not afford it pay six dollars a seat just as eagerly."</p>
+</div1>
+
+<div1>
+<head type="sub">The Kindly Druggist</head>
+
+<p>"YOU don't say," said the drug-store man, bouncing my chocolate gracefully up and down in the neighborhood of the hot-water faucet. "Well, I'm not a judge of music or anything like that, but I remember hearing Jerry sing in school, and I never thought much about it one way or the other."</p>
+
+<p>"Of course she's studied a good deal since then," I suggested.</p>
+
+<cb n="3" />
+
+<p>"That's right too," said the drug-store man. "Well, it's nice she's getting along so well."</p>
+
+<p>I got around to the Melrose newspaper office just before it closed up for the weekend, and found both the compositor and the editor pretty well fagged out with the exertion of getting out the weekly paper. Just the same, they extended every professional courtesy to me, though it was evident they questioned the news value of a story about Jerry Farrar, nice enough girl though she was. They gave me the addresses of a couple of Jerry's former teachers, and referred me to the cigar store and the barber shop, where "Sid" Farrar, during slow moments in the haberdashery business,&#8212;in which he engaged after his retirement from professional baseball,&#8212;used to while away a good bit of time with stories of the smartness of his only child.</p>
+
+<p>Round at the cigar store (where Jerry's
+
+<cb n="4" />
+
+dad still sends for his cigars), after they had recovered from the shock of seeing a lady cross the sacred threshold, they allowed that Jerry certainly had done well for herself and for her whole family.</p>
+
+<p>"Not that it has changed old Sid much," as one wag observed, "except that now he gets his clothes made to order instead of ready to wear."</p>
+
+<p>I asked them if they thought Jerry would ever come back to Melrose to live, and they thought emphatically not.</p>
+
+<p>"They have a big house in Seventy-fourth Street, New York, with a private elevator, and with one floor for Sid and another for Mrs. Farrar and the rest for Jerry and her husband," they said, "and it ain't likely they'd ever want to live in a quiet place like Melrose again."</p>
+
+<p>"It would be fine for Melrose," I suggested&#8212;"bring a lot of interesting people here and all that."</p>
+
+<p>But the thought of "interesting people" arriving in shoals left this little group of Melrosians cold. The fact is, Melrose doesn't entirely approve of interesting people. It feels that someway interesting people are&#8212;well&#8212;they are apt to be "different," if you know what they mean.</p>
+
+<p>There was Mary Livermore. She was a Melrose girl too. Mary, like Jerry, was always one to be thinking up new ideas and then going ahead with 'em against the advice of her friends. Back in the early forties she got the idea of going South and teaching the slaves. Not that there was any call for her to go away off there and make herself unpopular with all the nice people of Virginia. But she went. And when at last she came home, it was to join the Abolitionists&#8212;and the Temperance movement&#8212;and the Woman's Rights movement.</p>
+</div1>
+
+<div1>
+<head type="sub">Not Like Other Girls</head>
+
+<p>WHEN she married she and her husband went to Chicago and edited a religious weekly, and Mary got herself talked about by being the only woman reporter at the politicial convention that nominated her friend Mr. A. Lincoln for the Presidency. When the Civil War broke out, Mary promptly turned her children over to some one else, meddled in hospital affairs, and organized the Sanitary Commission (the big sister of the present Red Cross).</p>
+
+<p>After her death Melrose reluctantly named a school after Mary; but, as a reminiscent old gentleman over in the corner said, "I have always thought that Mary Livermore was a good deal overestimated."</p>
+
+<p>Same way with Jerry. If she had stayed at home and continued giving her services to the choir of the Congregational Church, with maybe an occasional concert for the benefit of something&#8212; But to stop school, and to stay in Europe nine years, and to borrow $35,000 to do it with (repaid ten years later with interest), and to give interviews saying that she didn't believe in marriage for artists, and that America discourages art, and finally, after gaining an assured position in grand opera, at least a dignified though conspicuous calling, then to break out in another direction, the movies&#8212; Well, Melrose had just a little rather Jerry wouldn't.</p>
+
+<p rend="continued">In the little house beyond the railroad tracks, where Jerry sends a few cart-loads of flowers after each of her appearances in Boston, her old music teacher</p>
+
+ <p rend="jumpline"><ref target="herendeen.19180223.jump">Concluded on page 22</ref></p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 6" xml:id="ew.issue.19180223.p006" />
+
+<text type="photograph" xml:id="soldiers.19180223">
+<body>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">British official photograph &#169; Underwood &amp; Underwood</ab>
+<p>American soldiers easily stand comparison with the soldiers of our Allies. Their uniform is neat, and they average taller, lither, and more athletic than the English and French. Burris A. Jenkins, a Y. M. C. A. lecturer at the front, says in "Facing the Hindenburg Line": "After all the foreign troops I had watched, these home huskies looked good to me. They are slim-legged, red-and brown-faced, spring-heeled lads with a jauntiness of step all their own. They show up well on the boulevards of Paris. Our men are very square-bodied, big-boned, trimly clad fellows. There are no bulging pockets in the shirts of their tunics, as there are in so many others over here." Here are some of them walking on the roof of their barracks.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="trap.19180223">
+<body>
+<head type="main">Like Rats in a Trap</head>
+
+<p>"PILL-BOXES" were first encountered by the British on June 6.</p>
+
+<p>Within a day every Tommy knew the new word "pill-box," says Patrick O'Flaherty, writing in the Springfield Republican. And just what is a "pill-box"?</p>
+
+<p>It is a little but of concrete, reinforced with heavy iron, and built underground, in front of the lines, and so covered with mud that it looks like nothing at all. Inside may be a dozen or sixty Germans, with machine-guns.</p>
+
+<p>The Germans inside the box are usually there for keeps. They are fed with food either slipped to them under cover of darkness or dropped by aeroplanes flying over them; and their position is about as attractive as that of the crew of a submarine. There are several ways of overcoming the pill-box.</p>
+
+<p>It may be reduced by artillery fire [says Mr. O'Flaherty], as the French reduced the Germans' famous eight-chambered pill-box in Papegoed wood, shattering its solid concrete and iron with two direct hits from a gun as big as a factory stack, and with a third killing most of its garrison of sixty and bringing out a few survivors with their brains curdled by a shell- shock.</p>
+
+<p>It may be overcome by poking a Lewis gun into one of its firing slits and spraying its interior until a white flag pops out the other firing slit. If its occupants are able to lock themselves in without leaving any hole in which the snout of a Lewis gun can be poked, it may be necessary for a couple of Tommies to wait at its locked door with bombs, like terriers at a rat hole with their ears pricked up. Or it may he reduced in the simplest way of all by dropping in a bomb and going on about one's business. The squad of greencoats inside know what to expect when they see that small, black, egg-shaped ball drop in through their firing slit and roll gently across the floor at their feet. They know what it is&#8212;a Mills bomb with the pin out. Four seconds. Blooey!</p>
+
+<p>Concrete does not set well in winter, so that the Tommies believe that the most effective period of the "pill-box" has passed. It may be that the Germans are not altogether sorry.</p>
+
+<p>It is not very pleasant for men to wait, in a concrete trap, for the spluttering bomb that spells destruction. And in one captured "pill-box" the Tommies discovered no soldier, but only a German captain, his arms tied and a bullet through his brain.</p>
+
+</body>
+</text>
+
+
+<text type="photograph" xml:id="fire.19180223">
+<body>
+
+<head type="main">The Busiest Fire Department in the World</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Paul Thompson</ab>
+<p>Verdun, swept with fire and iron for three years, is continually catching fire and continually being put out by this indefatigable corps of men.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="letter.19180223">
+<body>
+
+<head type="main">One Mother's Letter</head>
+
+<p>THE Spartan mother who sent forth her sons with the injunction to come back with their shields or on them has her prototype in America to-day. William A. Hutcheson, vice-president of the Mutual Life Insurance Association, recently received this letter from the mother of one of his clerks:</p>
+
+<quote>
+<p>My son, as you know, is in your office, and I venture to take the liberty of putting before you for your consideration the following matter: I personally on my mother's side came from a fine old Scots fighting stock, and it is a grief to me that no boy of mine is on the firing line. I have been offered some work which I can easily do, and this thought comes to me: Should not my boy be taking his place among the other brave lads? Must not he overcome this terrible anxiety for me, when I have none for myself? I think he ought to go. I will earn enough for my daily bread&#8212;I am not too old.</p>
+</quote>
+
+<p>"In a few days he came," says Mr. Hutcheson, "not to ask advice, but to tell me that he wanted to volunteer, and he is now in a training camp."</p>
+
+</body>
+</text>
+
+<text type="photograph" xml:id="paws.19180223">
+<body>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">From L'Illustration</ab>
+<p>These paws of wire were worn by the soldiers who had to march across the vast plains of shifting sand approaching Jerusalem.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="whiskers.19180223">
+<body>
+
+<head type="main">Will Whiskers Come Back </head>
+
+<p>WHISKERS, we thought, were gone beyond control: but the war may bring them back again. In the Crimean War, says the London <hi rend="italic">Chronicle</hi>, officers and men alike remained unshaven in the trenches before Sebastopol because of the severe cold. When they returned to England, their beards were so admired by members of the opposite sex that many men threw aside their razors permanently.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="pinches.19180223">
+<body>
+
+<head type="main">Where the French War Shoe Pinches</head>
+
+<p>AFTER three years of war, who are those that have been the hardest hit financially? Americans "over there" who have investigated the question present some rather surprising answers. Many of the Frenchmen who were rich before the war, excepting those whose interests lie in German occupied territory, have actually more cash in hand than ever before, in spite of their generous patriotic contributions. This seeming paradox has become an accomplished fact through wholesale economies.</p>
+
+<p>The artisan and agricultural classes in France, always economical in the extreme, have enjoyed enormously increased salaries, and their proverbial family stockings also are full. It is for their patronage that the popular department-stores in Paris now offer expensive fur overcoats, diamonds, silk lingerie, and other extravagances never before dreamed of. Of the professional classes it is also true that their services have continued in great demand, and, owing to the depletion of their ranks for war work, greater prosperity rather than hardship has come to them.</p>
+
+<p>Who, then, in France is faced with ruin? All branches of the arts have naturally suffered, since people in France do not buy pictures, statuary, etc., in war time. But the men to whom the wolf of hunger and poverty has surely come are the small retailers. Those among them who responded to the call to arms have returned to find their businesses swept into other hands, and many of the remainder, without large capital or credit, have been compelled to close up. It is on behalf of this class in the United States that American writers now in France sound a note of warning.</p>
+
+<closer><signed>Captain Michael White.</signed></closer>
+
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="eye.19180223">
+<body>
+<head type="main">The Eye</head>
+
+<p>AN American woman, Maud Mortimer, nursed hundreds of desperately wounded soldiers in a field hospital in Belgium five miles back of the firing line. In <hi rend="italic">A Green Tent in Flanders</hi> (Doubleday, Page &amp; Company) she tells of a soldier so badly wounded in the face and head that his only means of communication with the outside world was one bright, plucky, expressive eye.</p>
+
+<p>"Can I ever forget that diamond eye! Truly, I think there was no day of his long weeks at the hospital when I was not uplifted by a sense of what lay behind it. It was really all that one could see of Mongodin, for the rest of his head and face&#8212;with the exception of what was visible through a small hole left in the bandages round his mouth&#8212;was completely hidden from us.</p>
+
+<p>"It could hardly be called a beautiful eye. It was not even of a popular color&#8212;but just of medium size and uncompromisingly, glitteringly green, with a small pupil and no lashes that I can remember.</p>
+
+<p>"He was in the hospital when I arrived&#8212;much too near the color of his bed, much too flat and lifeless, to attract general attention. At first his still, fragile whiteness frightened me. I would sidle past him on tiptoe, fearing to add to his pain; but gradually, as it began to dawn upon me that the shining eye was responsive and could feel the comradeship of a mere shy, appreciative glance, I grew bolder, and after a few more of its encouraging looks became its slave.</p>
+
+<p>"His wound was just above the left temple&#8212;a triangular-shaped hole almost an inch and a half long and yawning nearly an inch wide on its upper side. The projectile had passed behind the left eye, and had lodged rather forward in the roof of the mouth. When I first knew him he could not speak. Later, muffled nasal sounds came from him. No one but those constantly with him could make out the meaning of the struggling words, though they suggested a humorous and plucky philosophy.</p>
+
+<p>"The hour of his daily dressings was one for which I grew to time my visits to his ward. His nurse would then allow me to pass her what she needed, and, while the ordeal lasted, to engage the eye in conversation. The ordeal consisted partly in the excruciating change of dressings, and in pouring through the gaping triangular temple wound streams of peroxide, which would flow down behind the damaged left eye, behind the nose, and be caught by Mongodin himself, sitting up against his bed-rest, in a dish which he would hold without so much as wincing."</p>
+
+<figure n="photograph">
+<head></head>
+<p>This curiously religious-looking picture is only of Alpine soldiers crossing a hill past a French signal post, on reconnaissance duty. At the top of the pole one can see the cock of France.</p>
+<ab type="credit">&#169; Nadel &amp; Herbert</ab>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+<pb n="Page 7" xml:id="ew.issue.19180223.p007" />
+
+<text type="nonfiction" xml:id="daniels.19180223">
+<body>
+<head type="main">The Editor Talks with Mr. Daniels</head>
+
+<p>HOW does it feel to be criticized by newspapers day after day, to read public demands for your resignation, to see yourself branded as unfit in one editorial column after another?</p>
+
+<p>How does it feel to endure that for three or four years, and then suddenly to have the newspapers turn around and begin to say that, after all, you are a good fellow and have made a very creditable record?</p>
+
+<p>I put this question up to Secretary Daniels in Washington. The last time I had seen him was on the day following his famous order making the navy "dry." The newspapers had been full of criticism of him that morning. I expected to find him considerably worried. Instead he was bright and smiling.</p>
+
+<p>"Aren't you troubled by what they're saying about your order?" I asked him.</p>
+
+<p>"Oh, no," he answered. "The clerks are classifying the letters and telegrams, and they tell me that they're about fifty- fifty. For every one denouncing me there's one telling me that I've done a brave and proper act. So they offset each other pretty much. A man can't allow himself to be worried by criticism in a place like this: it's part of the price."</p>
+
+<p>So for four years he had gone ahead. War had come to us, and the navy which he had been accused of allowing to go to seed was called into immediate service against the submarines. To the surprise of Mr. Daniels' critics and the delight of the country, it began to get results almost from the very first day. If there is anything the matter with the equipment of our ships and the marksmanship of their crews, the commanders of the submarines have not discovered it.</p>
+
+<p>The commission of Congress investigating the conduct of the war said very flattering things about the businesslike fashion in which the navy had been prepared for war. Newspapers changed their tune almost overnight. I was anxious to see Mr. Daniels again and ask him how it felt to wake up and discover himself popular.</p>
+
+<p>"Criticism doesn't hurt me as much as it would some men," he said. "I've been used to it all my life. Only," he laughed, "as a newspaper editor I always gave more than I got.</p>
+
+<p>"I remember talking with the Governor of North Carolina several years ago," he continued. "The Governor was a very conscientious man, new to public office, and he was being very severely and unjustly criticized. He called me over to the Executive Mansion one night, and showed me a long typewritten answer to his critics which he had drawn up. I read it through, and passed it back to him.</p>
+
+<p>"'That's very good,' I said; 'I'm glad you got it off your mind.'</p>
+
+<p>"'But you don't think I wrote that out just to get it off my mind, do you?' he gasped.</p>
+
+<p>"'Why, of course,' I answered. 'What else did you do it for?'</p>
+
+<p>"'To give it to the newspapers,' he told me.</p>
+
+<p>"I reached over and put my hand on his knee.</p>
+
+<p>"'Now, see here,' I said. 'You will give that to the press; it will be printed in all the papers to-morrow. Your friends will read it and say it's fine. Your enemies won't read it at all; or, if they do, they won't believe it&#8212;they'll be too busy preparing an answer to it. Their answer will be published, and then you'll answer them again. So it will go on, until you are dragged into an undignified controversy I that will disgust the people of the State and get you nowhere.</p>
+
+<p>"'The thing for you to do is to go ahead and give the State a good administration. Then, when the convention is held next year, you will be invited to make the keynote speech. That's your opportunity: put into your speech all that you have written here&#8212;or as much of it as you want to. Meantime, go ahead and do your best, and don't worry.'"</p>
+
+<p>"Well," Mr. Daniels continued, "the convention came. The Governor made his speech. It was received with great applause, and printed in all the papers in the State with approving comment. And he left office with the reputation of having given the State an able and efficient administration."</p>
+
+<p>The Secretary of the Navy laughed.</p>
+
+<p>"A public officer can't afford to engage in controversy," he concluded. "If he can't stand criticism, public office is no place for him. If he has enough faith in his convictions to go ahead in spite of it, the public is pretty just, in the long run. And a man who can stand the racket can have a lot of satisfaction in public office; and a lot of fun&#8212;a whole lot of fun."</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="football.19180223">
+<body>
+<head type="main">A Football Makes a Good Weapon</head>
+
+<p>FOOTBALLS are always in fashion along the line wherever a Britisher is present. In fact, they have many
+a time played a part in an attack, the men kicking them ahead as they charge over No Man's Land, much to the amazement of the Boche. He indulges in no such tomfoolery.</p>
+
+<p>On this occasion, however, the ball was lying in a traverse occupied by a company of Anzacs. A fight was in progress for a Boche position which the enemy was holding mainly with a machine-gun. For the rest, they were visibly weakening. In fact, they had all but reached the <hi rend="italic">Kamerad</hi> stage of the encounter when the Australian supply of bombs gave out. To fight with bare fists was, of course, out of the question, and you can't take a machine-gun with a bayonet. They had to rely on their brains.</p>
+
+<p>One Australian had an inspiration. He passed the word to his chums. They caught on. In a couple of minutes, with a yell learned probably in the bush, out rushed three of them, bearing aloft the football. It was dusk. Fritz could not see well. He mistook the ball for a dangerous species of bomb.</p>
+
+<p>Up went the hands of the Boche gunners, followed by the inevitable cry. By the time they had discovered the nature of the bomb, the Australians had captured the gun.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="irish.19180223">
+<body>
+<head type="main">Strictly Irish</head>
+
+<p>IT was an Irishman's first day in a trench, and he had been told to keep himself out of sight. All Irishmen have
+an aversion to orders, and this particular soldier was no exception.</p>
+
+<p>So, just out of curiosity, he stuck his head over the parapet. Whizz! came a bullet by his ear. He wasn't hit, but he was thoughtful as he seated himself on the ground.</p>
+
+<p>"Well," he decided, finally, aloud to the others, "they're right, after all. The more you look round in this place, the less you're likely to see."</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="corcoran.19180223">
+<body>
+<!-- 
+<figure n="photograph">
+<head></head>
+<ab type="credit">From L'Illustration</ab>
+<p>This old French peasant is clearing away the barbed-wire entanglements with which war has cumbered up his fields; breaking down the stakes, digging the iron and cement out of the soil, "making the land French again." No one can look at him without thinking of one of Millet's pictures. His work is new and strange, but his attitude is full of the eternal patience and industry of the peasants of France.</p>
+<figDesc></figDesc>
+</figure> 
+-->
+<head type="main">Non-Combatants</head>
+
+<byline>Told by <persName type="author" key="#Corcoran, A.P.">CAPTAIN A. P. CORCORAN</persName></byline>
+
+<p>STRETCHER-BEARERS are listed in the regulations as non-combatants. But you may judge whether you know any better heroes than they.</p>
+
+<p>The first chap was a sergeant. One night he was out gathering in the dead and wounded, after a scrap, when a shell tore off his right arm. Instantly he dropped, unconscious from the shock, and his fellow workers put him on his own stretcher.</p>
+
+<p>It was a hot night on the line; and just as he was being borne off, over came another shell, severely wounding one of his bearers. The third man was at a loss what to do. But, before he could collect his wits or summon assistance, up spoke a voice from the stretcher:</p>
+
+<p> "'Ere, 'elp me up, Jim."</p>
+
+<p>It was the sergeant speaking. The second shell had aroused him from his stupor. Jim, wondering, obeyed.</p>
+
+<p>"On with 'im," said the sergeant. The second casualty was lifted into place.</p>
+
+<p>"Now slip this belt o' mine over me 'ead; now over the 'andle."</p>
+
+<p>It was done. And so, carrying the stretcher by means of his one good arm and the belt, he trundled back behind his line, while his other arm hung loose, dripping blood.</p>
+
+<p>Now he has lost it, and wears a decoration instead.</p>
+
+<p>At another time a wounded officer had just been placed on a stretcher. The rescuers were starting back to the line, when a Boche star-shell shot up, revealing their forms against the night. Very promptly came the result of the revelation. <hi rend="italic">Plop!</hi> went some bullets near by. And down went their stretcher on the ground.</p>
+
+<p>They had run? Not they! Down went they, too, laying their bodies over that of the wounded officer. Soon the flurry died down, with the officer no worse. One of his bearers, however, had got a bullet in the back.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="dutchmen.19180223">
+<body>
+<head type="main">Dutchmen Can Fight</head>
+
+<p>YOU probably never heard of Rehoboth. It's a little republic of Dutchmen in the center of the German possessions in West Africa, a tiny little republic of about 1200 inhabitants. And the great war that has shaken Europe and America reached out to threaten its tiny existence also.</p>
+
+<p>Germany, however efficient she may have proved at home, has never been a successful administrator of colonies; and the citizens of Rehoboth were eager enough to fight her when news of the war came to them. The story of the fight is told in the <hi rend="italic">Outlook</hi>.</p>
+
+<p>They drew themselves up into battle array, this sturdy little group of Dutchmen, and they fought until their last cartridge was gone. The Germans were all around them, armed with heavy guns and plenty of ammunition. Annihilation stared the little army in the face, when suddenly&#8212;without warning&#8212;the Germans withdrew in the night. They had dallied too long and the British had caught up with them.</p>
+
+<p>The little Republic of Rehoboth has now petitioned the British Parliament to include it in the British Empire at the conclusion of peace.</p>
+
+</body>
+</text>
+<text type="nonfiction" xml:id="austria.19180223">
+<body>
+<head type="main">Boys Going to the Bad in Austria</head>
+
+<p>ONE aspect of war that we will do well to take account of in this country is the almost inevitable increase in juvenile crime that seems to take place in every warring country. With fathers and elder brothers at the front, and with boys receiving men's wages, the temptation to go to the bad becomes almost irresistible. In Vienna, says Wolf von Schierbrand in his book on <hi rend="italic">Austria-Hungary</hi> (Frederick Stokes Company), the number of crimes committed by boys and girls under eighteen in the year 1915-16 was 340 per cent greater than in the year 1913-14. And apparently the record is continually growing worse.</p>
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19180223.p008" />
+
+<text type="fiction" xml:id="fox.19180223">
+<body>
+<head type="main">A WOMAN OF FRANCE</head>
+
+<byline>By <persName type="author" key="#Fox, Stephen">STEPHEN FOX</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#Nims, W.C.">W. C. Nims</persName></byline>
+
+<p>SHE had gone to bed. She lay there now, staring up into the half darkness of the little bedroom. The light came from the adjoining room, from the lamp on the parlor table, where her husband, the baker Vaugarde, still sat up over some papers. The house was very quiet and still, so quiet and still that the silence was accentuated rather than disturbed by the loud, metallic ticking of the parlor clock, and by the steady, persistent scratching of a pen.</p>
+
+<p>Presently the woman stirred. "Louis," she said.</p>
+
+<p>The scratching ceased.</p>
+
+<p>"Eh?" said the baker Vaugarde.</p>
+
+<p>"Come to bed," said his wife. "It must be after nine. Is the bread set?"</p>
+
+<p>The baker grunted. "Yes," he said; "the bread has been set. It is even now rising in the pans, against the morning. I have some accounts to finish. Now will you go to sleep and let me alone?"</p>
+
+<p>Whereupon the pen began to scratch once more; and the woman fell silent, staring up in the half-dark. Then, of a sudden, she laughed outright&#8212;a queer, hard little laugh through closed lips.</p>
+
+<p>The pen stopped.</p>
+
+<p>"Adele," said the baker. He lifted his voice mildly.</p>
+
+<p>"Yes," said the woman.</p>
+
+<p>"What is the matter?"</p>
+
+<p>"Nothing," said the woman. "I was just thinking; that was all."</p>
+
+<p>"Humph," said the baker, and once more his pen began to travel and scratch.</p>
+
+<p>The woman listened to the sound for a moment; then, stirring again, she called:</p>
+
+<p>"Louis."</p>
+
+<p>"Well?"</p>
+
+<p>"Who are you writing to?"</p>
+
+<p>For reply the man in the other room stamped his foot under the table.</p>
+
+<p>"Woman," he cried, "will you go to sleep and have done? What difference does it make who I am writing to? It has nothing to do with you."</p>
+
+<p>"I am not so sure about that," said the woman in reply.</p>
+
+<p>At which the shadow bust of the man&#8212;a bulky blot sitting on the wall beside the door&#8212;moved forward a little.</p>
+
+<p>"What do you mean?" he said quickly&#8212;a trifle too quickly, perhaps. And his shadow bent forward a little more, as if the man had thrown out his arm to cover the papers on the table, like one seeking to hide that which must be hid. "What do you mean?" he muttered again.</p>
+
+<p>"Nothing," said the woman, speaking from where she lay; "I thought perhaps you were writing to the boy."</p>
+
+<p>The shadow on the wall drew back slowly; and some one breathed in once, hard, as in relief. It was the man.</p>
+
+<p>"No," he said, in something like his ordinary voice; "it isn't the boy this time. We must wait until he answers our letters first. There have been two since he went away this last time. We don't know whether&#8212;" He hesitated oddly. "Perhaps the old wound&#8212;" He paused again. "I wonder if&#8212;"</p>
+
+<p>But his voice trailed off once more, and the woman sighed in the half-dark.</p>
+
+<p>"If I only knew where he was," she said in a moment. "If&#8212;"</p>
+
+<p><hi rend="italic">Boom!</hi></p>
+
+<p>The house shook. There was no wind; only this low, sullen roar somewhere in the upreaching night.</p>
+
+<p><hi rend="italic">Boom-m!</hi></p>
+
+<p>Shot succeeded shot. The great guns began to challenge one another, this one in the east, that one in the north. Again and again they smashed the silence, battery after battery joining in the terrific roll of sound.</p>
+
+<p>"They are getting a little nearer," said the baker, in a sudden lull.</p>
+
+<p>"Who?"</p>
+
+<p>"Our friends," said the baker, answering from where he sat. There was a sort of jubilance, half irony, half satisfaction, in his voice; but if the woman marked it she gave no sign.</p>
+
+<p>"They are always getting a little nearer,"
+
+<cb n="2" />
+
+she said, her voice drooping like that of one who answers from the bewilderment of despair.</p>
+
+<p>THEN the cannonade started again. It continued for a space, getting up to concert pitch; then it stopped as suddenly as it began, dying down in a murmur of distant firing.</p>
+
+<p>The baker meanwhile had folded his papers and laid them away. Now he put out the light and went to bed. Two things he did first, however, like a man moving in the circle of habit. One was to raise the window-shades and look out on the dark street; the other was to close and lock the bedroom door.</p>
+
+<p>"There is a full moon," he said, getting into bed. "It will be good dough to-morrow. Bread always rises better under a full moon."</p>
+
+<p>His wife made no answer for a moment. He moved over to her side of the bed: she slept on the inside. Then, surprisingly, for the second time that evening, she laughed outright&#8212;that strange, hard little laugh through closed lips. "Ha!" she said, and the man stirred under the sheet.</p>
+
+<p>"What is the matter?" he muttered uneasily.</p>
+
+<p>The woman settled herself on the pillow. "Nothing," she answered.</p>
+
+<p>"Well, then, why do you laugh?"</p>
+
+<p>"I don't know.".</p>
+
+<figure n="illustration">
+<head></head>
+<p>"The scratching of the pen stopped. 'What is the matter, Adele?' asked Vaugarde."</p>
+<figDesc></figDesc>
+</figure>
+
+<p>"You don't know?"</p>
+
+<p>"No; I was just thinking of something, that was all."</p>
+
+<p>Whereat the baker turned over on his side. "Humph," he said; "you better go to sleep."</p>
+
+<p>"That is my trouble," said his wife; "I can't."</p>
+
+<p>In the darkness there was the sound of one burying his nose in the pillow.</p>
+
+<p>"Well, good night, my dear," said the baker.</p>
+
+<p>His wife made no reply. There was a moment of silence, which she broke.</p>
+
+<p>"Louis," she said.</p>
+
+<p>"Eh?"</p>
+
+<p>"What did you do with those papers?"</p>
+
+<p>The question was casual enough: it was the effect that was amazing. For the baker sat bolt upright in the darkness.</p>
+
+<cb n="3" />
+
+<p>"What papers?" he said at last. Odd, the change in his voice.</p>
+
+<p>"The ones you were working on all evening. The descriptions of the encampment beyond the village."</p>
+
+<p>The woman spoke quietly. Her voice was low, but quite competent with the accusation that was in it. The man still sat erect, but he did not move; he seemed to be holding his breath.</p>
+
+<p>"Are you mad?" he said suddenly. "Do you know what that&#8212;means?"</p>
+
+<p>"Yes," said she; "and so do you."</p>
+
+<p>The man drew another deep breath.</p>
+
+<p>"How long&#8212;have you known&#8212;this?" he said in a minute.</p>
+
+<p>"From the beginning. I remember the day that you first took their money. A man came here to sell you the patent oven that they make in Dusseldorf. It was his second visit, I think; it was just five years ago last June."</p>
+
+<p>"No&#8212;July," said the baker, settling himself back on the pillow and letting out his breath in a kind of sigh.</p>
+
+<p>That was all. The darkness hid his face, but it was curious how simply the man appeared to take it. He merely relaxed like one who has suddenly been relieved of a great burden.</p>
+
+<p>Being found out is not so bad. It is the business of coming to it, day by day, that is hard.</p>
+
+<p>"Where were you?" he asked presently.</p>
+
+<p>"When you talked with that man? I was behind the kitchen door," said his wife. "You sent me out into the arbor,&#8212;do you remember?&#8212;to get some grapes for your guest. But I waited at the door. It wasn't right, I know; but there are times, I guess, when a woman just can't help herself. I only meant to stay a minute. But the man's talk sounded strange: he spoke of one thing, yet he seemed to mean another, and you seemed to understand him very well."</p>
+
+<p>"He was a sly devil," said the baker.</p>
+
+<p>"You were eager enough yourself," said his wife.</p>
+
+<p>"He showed me gold," said he in reply.</p>
+
+<p>"I saw you take it," said she.</p>
+
+<p>There was no rigor in her voice, no blame; only this plain statement of the fact.</p>
+
+<cb n="4" />
+
+<p>The man tried reason. "What was I to do? He asked so little&#8212;"</p>
+
+<p>"Well, you made your bargain; that is to say, he made the bargain, and you took his gold. He bought service, and you were a good servant."</p>
+
+<p>"Humph," said the baker. "All I had to do was to sit around in the inn and gossip with the sub-lieutenants once in a while. The young fools up at the garrison were always ready enough to talk. My questions were from a prepared list. Once they were answered, my report was ready for the next visit of the inspector. Oh, it was all easy enough."</p>
+
+<p>"Ah, it was easy enough for you; that is correct. It is always easier for a man. He has his work. He can carry such a thing around in his heart, and yet go among his friends with a smile on his face. But it is different with a woman. And I had a son."</p>
+
+<p>"He was just entering the military college," said the baker.</p>
+
+<p>He spoke proudly, as if it were yesterday.</p>
+
+<p>"He was big enough to have killed you if he had found you out," said the woman a little fiercely.</p>
+
+<p>"I didn't know what to do," she went on after a moment. "Once I made up my mind to tell you of what I knew, and to beg you to give up this awful business. But I never did it. I was afraid, somehow, and I kept putting it off, hoping against hope, until the next visit of that man. Then it was too late. I knew that it would be of no use to speak to you now; for I saw your face when you sat at the table that night counting the foreign gold."</p>
+
+<p>The baker grunted in the darkness.</p>
+
+<p>"It was easily earned," he said.  "I thought that you were asleep."</p>
+
+<p>AS he spoke a distant and melancholy vibration shook the windows. It was striking then in the village tower. The woman waited for the last stroke.</p>
+
+<p>"That leaves two hours," she said then. "It is plenty of time."</p>
+
+<p>"Eh?" said her husband.</p>
+
+<p>But if she heard she gave no sign, but went on:</p>
+
+<p>"The first year was hard, but I never want to live another year like the second.  All I could do was to sit and wait.  And fear is a terrible thing to sit with.  It comes to you through the door; it comes to you by the fire; it comes to you at night.  You never know ease.  I was never sure of myself in the shop.  I never knew a moment of peace, never a moment when I didn't expect the <hi rend="italic">sergent-de-ville</hi> to knock on the door and ask for you.  At first was afraid to trust myself with the neighbors; I was afraid to go out on the streets; I was afraid that they would point and whisper as I passed.  But I soon got over that.  For everybody still came to the shop, jsut as they always had; they still came and bought your bread."</p>
+
+<p>"It is good bread," remarked the baker with some pride; "and there will be a fine rising of it to-morrow&#8212;there will, for a fact, if the yeast holds."</p>
+
+<p>"Ha," said his wife; "to-morrow!"</p>
+
+<p>"Eh?" said the baker.</p>
+
+<p>She did not answer him for a moment.  Then she went on, as it seemed she must go on; for her expression, her whole attitude, indeed, cloaked as it was in the darkness, was much like that of one who had been moved by sheer force of circumstances to commit some now irrevocable act, and who now had only a certain space of time in which to explain it.</p>
+
+<p>"I don't know why," she said slowly, as if collecting her thoughts, "but I was a little surprised to find people as good and kind as ever.  On Sundays, when women spoke to me on the way to church, I felt grateful; I wanted to thank them for their charity.  Then I realized that as yet there was really nothing the matter.  Your secret was still safe.  No one knew what you were."</p>
+
+<p>Difficult to set down exactly the expression she gave the last.  In the darkness, however, the man stirred under the sheet.</p>
+
+<pb n="Page 9" xml:id="ew.issue.19180223.p009" />
+
+<p>She continued:</p>
+
+<p>"Then the boy came home for the holidays. That, but one, was the hardest time of all. For I had to sit there, like a stopped-clock, while you fastened on the child. He didn't know what you were after; and you lost no time, but proceeded to make him&#8212;your own flesh and blood&#8212;another pawn in this awful game. Oh, there were many things I might have done: I might have stopped him, and denounced you then and there. But I knew there must be some other way, and I was trying to think of it&#8212;some other way that wouldn't smash everything.</p>
+
+<p>He was so young and proud, so full of speed and heat. His future had to be considered. I didn't want your blood on his hands. So all I could do was to sit and wait, just as I always had, while you flattered the boy, and played on his young wisdom, and led him on, and dragged him down in the mire. I had hoped that you might spare me that. But no; he had been to the military college of France; he had some knowledge that you could sell. And you had no interior, it seemed, nothing that might feel shame&#8212;"</p>
+
+<p>THE man stopped her at this point.</p>
+
+<p>"Look here," he protested; "you don't know how it was. I had no alternative. They had me tight and fast. They wanted details concerning the effect of the new ordnance; they knew of the boy's presence at St. Cyr, where the new pieces were being assembled and tried; and they would not be denied. I had to do it. The penalty for disobedience was too great. It was almost as bad as it is now. The system is infallible. The first offense is the last. Your money comes one day, and everything is well. The next day the authorities learn of your condition&#8212;pah! one is denounced, that is all.</p>
+
+<p>"I was caught, I tell you, and there was nothing else to do. I had to use the boy. I was sorry, but it was an extremity, and they had to pay me well for it. At that, they made me do it again when he entered the army; again when the war began; yet again when he came home with his wounds; and they were making me give them double service now&#8212;but on half pay, curse them," added the baker Vaugarde.</p>
+
+<p>He paused as if for sympathy; but the woman was silent.</p>
+
+<p>"Of course, I looked for something like that," he went on after a minute. "The good thing does not last forever. And I made preparations accordingly. Doubtless you have often wondered what became of all this extra money?"</p>
+
+<p>"You bought me some new dresses&#8212;at first."</p>
+
+<p>"Four," said the baker; "and a ring from Paris. But you never wore it&#8212;"</p>
+
+<p>"Hardly," said his wife&#8212;and the baker was silent for a moment.</p>
+
+<p>"Well," he said then, "I sent the money to America, to New York. My cousin George is there, in the same trade, and I bought an interest in his business; a third while I remain in France, a full partnership the day I arrive in America. Do you remember, I spoke to you about it? War had just been declared, and I said it might be a good thing&#8212;"</p>
+
+<p>"Yes," said his wife. But what does it matter?</p>
+
+<p>The baker sighed.</p>
+
+<p>"No," he said, and sighed again; "it was too late. They would not let me go. They know everything in advance, it seems. I was warned. I was a valuable man. They could not afford to lose me&#8212;yet. Oh, I was caught; I am caught now," said the baker. "I must do as they say or&#8212;"</p>
+
+<p>"Exactly," said his wife; "it is like the butcher-bird and the spider."</p>
+
+<p>"Eh?" said the baker.</p>
+
+<p>"I read it somewhere. It is by the good Fabre, I think. The butcher-bird lets the
+
+<cb n="2" />
+
+<figure n="illustration">
+<head></head>
+<p>"'I remember the day you first took their money. I listened at the door."</p>
+<figDesc></figDesc>
+</figure>
+
+spider spin its web. It does not fancy flies, but the spider does; and the business of the butcher-bird is spiders."</p>
+
+<p>"Humph," said the baker, and yawned. Then silence, which the baker chipped with another gap. "Well," he said then; "what are you going to do?"</p>
+
+<p>"About what?"</p>
+
+<p>"About me," said the baker, trying for the same easy tone. But he was a trifle off. They were at the cross-roads now, and the advantage was out. "Eh?" he added.</p>
+
+<p>For his wife was taking her time. This was her moment, it seemed, and she was choosing her words very carefully.</p>
+
+<p>"It is not so much a question of what I am going to do," she said. "It is what I have already done."</p>
+
+<p>FOR a moment the baker lay silent. Then, as if coming to a full realization of this new trend of the situation, he slowly sat up in the darkness.</p>
+
+<p>"Humph?" he said. "So you went to the authorities, eh?"</p>
+
+<p>There was no fear in his voice&#8212;only a harsher note, that added irony to menace. But the woman did not stir; nothing but blank silence answered him.</p>
+
+<floatingText>
+<body>
+<p>What does the President fdo from eight o'clock until ten every morning? We went up to the White House recently and asked them questions like these: also we caught a glimpse of the President. It's all in next week's issue.</p><closer><signed>The Editor</signed></closer>
+</body>
+</floatingText>
+
+<p>"Well, that is odd," he muttered after a little wait. "The mayor and the gendarmes should have come for me this evening, then. At what hour did you tell them? Answer me, woman."</p>
+
+<p>Thus adjured, his wife found her voice.</p>
+
+<p>"You needn't shout," she said mildly. "I didn't tell them at all."</p>
+
+<p>Then, in the darkness, amazingly, with the chaotic abandon peculiar to women and children, she burst into tears.</p>
+
+<p>"There, there," said the baker. "There, now, Adele," he said presently.</p>
+
+<p>He must have reached out and touched her with his hand; for the sobbing instantly ceased, and the woman drew away from him by a sudden movement to her side of the bed.</p>
+
+<p>"Let me alone," she said in a low voice, whereat the baker drew back, muttering something, and resumed his own pillow.</p>
+
+<p>It was a full minute, perhaps, before either one spoke.</p>
+
+<p>Then the baker said:</p>
+
+<p>"Come, now; let's get this thing settled. Here it is going on eleven, and I must get up with my bread at four. Now, then, I
+
+<cb n="3" />
+
+want to know one thing: You say that you have done something, eh ? Very well, then. What is it? Answer me, woman, so that I may know what to expect."</p>
+
+<p>"Well," said his wife&#8212;then paused, like one troubled for words. "Well, I have done something," she began again in a moment. "I have done what I thought was right."</p>
+
+<p>She paused once more.</p>
+
+<p>"Go on," said the baker impatiently. "I suppose you went to your father, eh?"</p>
+
+<p>The woman said no, she had not been to see her father.</p>
+
+<p>The priest, then?</p>
+
+<p>No, neither had she taken her trouble to the priest.</p>
+
+<p>The baker thought for a moment. Then he chuckled.</p>
+
+<p>"Well, that leaves only the old Doctor Gailliard," he said, still chuckling. "If you went to him, much good it must have done you. Old Gailliard has known me ever since I was a boy. They had a hard time making him believe evil of me then, and it would do little good to try now. We have always been good friends, somehow, the old doctor and I.</p>
+
+<p>"Why, many's the day, even when there was wet weather blowing, he and I have ridden out into the country together; for I was the only boy in the village that ever rode in his little black buggy. The Gailliard orchard was famous, but I never had to climb over its wall. It was with his help, when I finished my time in the trade, that I went into business. But for the old doctor, you remember, the boy could never have gone to St. Cyr. No," said the baker, with another chuckle; "I guess you didn't go to him."</p>
+
+<p>"No?" said his wife. "Well, one need not be too sure. For it happens that he was just the one I went to&#8212;your good friend, the old Doctor Gailliard."</p>
+
+<p>"Ha," said the baker. Oddly enough, he seemed more hurt than surprised. "Ha," he said; "that was a nice thing to do!"</p>
+
+<p>"Oh, I don't know; he was your friend," said the woman. "I thought if I went to him, and took his promise, that your secret would be safe, at least."</p>
+
+<p>"Well, what then? What did he have to say?" he demanded.</p>
+
+<figure n="illustration">
+<head></head>
+<p>"'A thousand times, it seemed, I got the powder as far as the coffee pot.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<p>"Nothing. You are right: he wouldn't believe me. He only laughed."</p>
+
+<p>"Naturally."</p>
+
+<p>"Then he gave me a pill, and told me to go home and lie down. But I had a letter," said the woman.</p>
+
+<p>"A letter&#8212;what letter?" cried the baker.</p>
+
+<p>"One that you had received&#8212;from your friends. You put it in the stove one day, with some other papers.'</p>
+
+<p>"So I did," admitted the baker; "but I put them in the fire. The coals were red, and I saw them catch the flame."</p>
+
+<p>"Well, the letter was on top; and I tcok it out as soon as you were gone. At first it looked like only an ordinary communication, such as you get from the miller's agent in Bordeaux. But you had made some notes between the lines, in translating it, perhaps, that showed what it was. I think, the doctor called  it a cipher."</p>
+
+<p>"So you showed
+
+<cb n="4" />
+
+it to him, eh? Well, then? What did he do? What did he have to say to that?" cried the baker.</p>
+
+<p>Still there was no fear in his voice&#8212;only a curious, almost iroric impatience. Nothing seemed to touch the man.</p>
+
+<p>"For a long time he said nothing at all. It was the shock, perhaps. The old man was a good friend of yours. One could see that. Then he got up and put on his hat. I asked him where he was going.</p>
+
+<p>"'To the mayor,' he said. 'I have fed a snake, and it has bitten the hand. It must be destroyed. Come along, if you are a woman of France.'</p>
+
+<p>"But I wouldn't go with him," said the woman.</p>
+
+<p>"Which was most considerate," cried the baker. "Continue, my dear."</p>
+
+<p>"The doctor was surprised, and a little angry, perhaps. But I said no, that wouldn't do, and reminded him of his promise. The mayor would call the gendarmes, I said, and the gendarmes would put you in prison. They would take you through the streets, and all the village would see. Then you would be tried; and every one would be there. Then you would be shot, just like they shot that barber in Mons.</p>
+
+<p>"Then what about me? What about the business? What about the boy? He could not survive such a thing in the army; he could not command men after that. He could only come back to me, and help me with the bread. But, even then, who would buy it? What would people say? 'Come away; her husband was such-and-such a thing. Come away; his father was shot against a wall. He was a Frenchman, and he sold France for a price.'</p>
+
+<p>"Oh, I can hear them now! I can see them whisper and point.</p>
+
+<p>"'No,' I said to the doctor; 'I didn't come to you for that.' And he said: 'Well, then, child, perhaps you will tell me just what you came to me for?'"</p>
+
+<p>In the darkness the woman came to a full pause&#8212;much, perhaps, as she must have paused before the quiet interrogation of the old physician. For a moment the baker himself waited in the dark. Then he too broke a long silence.</p>
+
+<p>"Well," he said mildly, "it is a fair question, and you might as well answer it for me. If you didn't go to him for one thing, you went to him for another; that is evident. What was it?"</p>
+
+<p>"I don't know. I don't know why I went anywhere. I just had to tell somebody, I guess," added the woman timidly.</p>
+
+<p>"God!" said the baker, with great reverence. Then he sighed, just as the good doctor must have sighed&#8212;a sigh that meant that women were hard.</p>
+
+<p>"Well, I suppose that was the end of it, eh ?" he added after a little bit.</p>
+
+<p>"No; that was not the end of it. This was the end of it: The doctor said that, promise or no promise, this horrible traffic must be stopped&#8212;that you must not be allowed to go on. The nation was in peril, he said, and I had no right to hold him to his word, which he would keep to me only on one condition. I must give him promise for promise. He had his part, he said, and I had mine; we both must give an account for France.</p>
+
+<p>"'But I will not go to the authorities,' I said.</p>
+
+<p rend="continued">"'It is not necessary,' said the doctor; 'another way has occurred to me. Go home, child, and keep your own counsel. Make up your mind,' he said,</p>
+
+ <p rend="jumpline"><ref target="fox.19180223.jump">Continued on page 19</ref></p>
+
+</body>
+</text>
+ <pb n="Page 10" xml:id="ew.issue.19180223.p010" />
+
+<text type="nonfiction" xml:id="collins.19180223">
+<body>
+<head type="main">DO I WRITE A GOOD BUSINESS LETTER?</head>
+
+<byline>By <persName type="author" key="#Collins, James H.">JAMES H. COLLINS</persName></byline>
+
+<byline>Illustration by <persName type="illustrator" key="#Gillespie, Jessie">Jessie Gillespie</persName></byline>
+
+<p>FOR the first time in business history, a national convention of experts in letter-writing was recently held in
+this country to discuss ways of improving business correspondence. Many interesting facts were brought out. It was a frontal attack on perhaps the last barbed-wire entanglements and deep dugouts of that costly enemy of business efficiency— habit. "We beg to acknowledge" and "Thanking you in advance, I beg to remain," were bombed out of their pillboxes, and the moppers-up of the attacking platoons routed out all the facts about letter costs and correspondence wastes.</p>
+
+<p>Suppose a business house sends out one hundred thousand letters monthly&#8212;which is a reasonable output for the departments of a large concern. Suppose phrases like "Your communication of November 15th has come to hand, and contents are duly noted," creep into letters to such an extent that each letter carries two superfluous lines. Suppose it costs half a cent a line to write letters&#8212;a reasonable estimate. If those two extra lines were cut out of a hundred thousand letters there is a tidy saving of $1,000 in writing, to say nothing of easier reading for the people who get the letters.</p>
+
+<p>But cheaper letters is not the only object in good business correspondence. Every letter is a record, and often the basis for a deal of some kind, so it should be accurate and clear. Every business letter represents the house, and should embody its spirit and policy. Every business letter seeks to establish some relation, good will, or maybe a sale, between the individual who writes it and the one who receives it. So it should carry a certain flavor of personality and human feeling.</p>
+
+<p>It has been found, in improving the correspondence of a large concern, that clumsy stock phrases can be revised out of existence with a style sheet somewhat like that the city editor gives the cub reporter on a newspaper, and that the length and cost of letters can be reduced to a gratifying extent, and stenographers speeded up a bit, and typing made neater, and superfluous letters eliminated.</p>
+
+<p>There is a wide margin for improvement here, in most concerns.</p>
+
+<p>But this is really only the mechanical side of business letter-writing. After that has been tinkered into shape, you must begin to get better letters by making better fellows of the men who write them&#8212;encourage them to think clearly and to be interested in what they write about.</p>
+
+<p>Not long ago, a woman who had done considerable work in journalism was made advertising manager of a stodgy old machine-tool concern, where the correspondence was of the type copied on an old hand press. Letters went out with the blurred, damp appearance imparted by the copying press. They were blurred and damp in their phraseology&#8212;careful, cautious letters, dictated by stereotyped old boys who did not mean to let any customer find a haphazard statement in a letter and pin the house down to it on prices or terms.</p>
+
+<p>This woman made those letters highly interesting within a month by the simple device of interesting the men who wrote them in things right under their noses. Hardly a day went by in that machinery concern but there were achievements or incidents to be gathered by a good reporter. She used her newspaper instinct, wrote crisp paragraphs about what was going on in the business, and made these so vital that the old boys themselves found them interesting, and wanted to tell customers what the plant did yesterday, and put the news into letters by way of explaining business points or adding a pithy paragraph as a postscript. Now it might be six lines telling how good the president of the company felt because the pattern shop had done some quick work for the War Department; again, a detailed illustration of how customers were enjoying the advantages of reasonable prices, despite scarce materials, because the purchasing agent had foreseen the scarcity last year and made good contracts.</p>
+
+<p>Do you want to test your own powers of business letter-writing?</p>
+
+<p>Here is a shrewd little scheme used by another business concern in training novices. They hand the student two or three complaining letters&#8212;communications received from customers who are mad clear through, and probably just inside the libel law when it comes to criticism and language. A man is bound, to be interested when he answers a letter like that: All the old stock phrases of formal business correspondence flee from his mind. He has to dig for information, meeting the complaint with solid facts.</p>
+
+<p>In most cases, the fellow who writes a complaining letter has misunderstood something, or jumped to wild conclusions.  So he must be given a basis for straighter thinking. Most of all, there is the greatest temptation to be sarcastic and resentful, and before one even dictates "My dear sir" in answering such a letter, it is necessary to establish a feeling of kindliness and courtesy toward the critic.</p>
+
+<p>When you can write the sort of letter that turns a complaint into an order, you can be trusted with about everything else around the shop in the way of correspondence.</p>
+
+<p>Good business letters should be short, but not leave out any essential information. They should be prompt&#8212;and this is often a merit hardest of all to secure in these days when letters are frequently referred from one department to another to settle different questions. A bad prompt letter may often create better feeling in the mind of its recipient than a model communication that arrives five days late.</p>
+
+<p>They should be personal and intimate in the sense that the fellow who gets a letter feels that a real human being somewhere in a big business organization knows him and understands what he wants, and will attend to it without red tape. They should establish real connections between the house and the recipient, not only through the good feeling embodied in each letter, but by telling him interesting things about your business that lie a little outside the particular matter under discussion, and also by reflecting a kindly interest in his business and leading him to tell little outside things about his affairs.</p>
+
+<p>To be a man of business nowadays you must also be a man of letters&#8212;the American business man or woman no longer belongs to the inarticulate classes.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="relax.19180223">
+<body>
+<head type="main">Proving that It Pays to Relax</head>
+
+<figure n="illustration">
+<head></head>
+<p>Fifteen minutes in the life of a business man of fifty, as recorded in his blood pressure. Read the story of this chart: what kind of a record do you suppose your blood pressure would make, in the middle of a worried day?</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>"I DON'T see how it is possible for you to live as you do, without a single minute in your day deliberately given to tranquillity and meditation," said a Hindu visitor at Harvard to William James.</p>
+
+<p>"It is an invariable part of our Hindu life to retire for at least half an hour daily into the silence, to relax our muscles, govern our breathing, and meditate on eternal things. Every Hindu child is trained to this from a very early age."</p>
+
+<p>It would be a great thing for Americans if they, too, were trained from infancy to regular periods of complete quiet and relaxation. That such a period of relaxation definitely lowers the blood pressure science can now prove. And lowered blood pressure means the postponement of hardened arteries and old age.</p>
+
+<p>The chart shown herewith records a period of relaxation on the part of a business man of fifty years of age. The period extends over fifteen minutes, each square division on the horizontal line indicating five minutes. When the period began, the blood pressure, as will be seen, was 155; in five minutes the systolic tension in the brachial artery had lowered thirty-three units, to 122.</p>
+
+<p>In the eighth minute a bell rang: the business man was immediately reminded of his (unexpressed) desire to hurry home. At once there was set in motion all the mental machinery of planning and movement: the spell of relaxation was broken; the blood pressure jumped. Later it lowered again, but it never reached the low level established before the interruption.</p>
+
+<p>A few minutes of complete relaxation several times a day&#8212;minutes when the eyes are closed, the muscles are loosened, and the mind is occupied with pleasant thoughts unrelated to the perplexities of business&#8212;there is no better investment than this for the man who would live and work long.</p> <closer><signed>GEORGE VAN NESS DEARBORN.</signed></closer>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="name.19180223">
+<body>
+<head type="main">She Will Name It for You</head>
+
+<p>"WHAT'S in a name?" Well, just ask Miss Laura Lee Rogers, of Plainfield, N. J. She'll tell you that there's charm, euphony, appropriateness, research, and twenty-five dollars in it!</p>
+
+<p>Miss Rogers's official title is "the Nomenclator."  Her vocation is the naming of country estates, seaside cottages, tea-rooms, pets, or anything else that her clients present. She can find an original and suitable name for anything from a township to a kitchen stove.</p>
+
+<p>This is the way she goes about it: When you first ask her to help you find a name for your home or your business or your kennels, she sends you a long and intimate questionnaire. You tell her whether you are going to live among hills or under elms or near brooks or by the sea. You disclose whether you are of Scotch descent, or Irish, or Fiji Island. She inquires the given names of your children&#8212;sometimes the first syllables of their assorted names make a melodious moniker for the family homestead. You tell her your leading fad. If you're musical, that is taken into account; if you're a bit of a sportsman, that may influence her choice.</p>
+
+<p>When she knows everything about you that you can tell her, she goes to her homemade glossary. She has spent years in compiling this collection of lovely old words: the "wolds" and "garths" and "wycks," the "braes" and "burns" and "moors," and a hundred prefixes and suffixes, drawn from many tongues&#8212;old Saxon and early English, Celtic, Welsh, medieval Italian, French, and Spanish. She has all our American Indian words to draw from, and the beautiful Arabian names for which many of the stars were called; with some Scandinavian forms, too, and Slavic. From these sources, or perhaps from modern ones instead, syllables are woven together into a name that is expressive of you and your environment. Possibly your surname is made a part of it, if it happens to be euphonious. Anyway, a long and varied list is sent you to select from, and the fee is payable upon acceptance.</p>
+
+<p>Often, of course, the names are the simple, friendly ones of every day. This last summer Miss Rogers visited a colony where there were two saucy cottages, one brown and one dusky red. She named the first Jenny Wren and the other Cock Robin.</p>
+
+<p>If you are one of those individuals who would as soon let an outsider name your home as name your first baby, you may wonder whether the nomenclating business pays or not. But you have no idea how many people buy a name as they would a heating system.</p>
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19180223.p011" />
+
+<text type="photograph" xml:id="men.19180223">
+<body>
+<head type="main">WHAT BECOMES OF HANDSOME MEN?</head>
+
+<figure n="photograph">
+<head></head>
+<p>THE story is that a stranger once stepped up to Lincoln and passed him a jack-knife. 'It was given to me," said the stranger, "with instructions to hand it to a homelier man than myself." However, among handsome men who are or were successful, we have Washington, ourself, and Eddie Longman, who was voted the handsomest man of his class at Amherst in 1903. Longman is now an actor.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MORRIE DUNNE, whose father had more children than any other Governor of Illinois, and all of them handsome, was adjudged the best looking man among the four thousand male students of Michigan. In spite of which, Morrie was one of the best football players in the University; and when the war broke out, he took one look at Russia, and decided once for all not to become a Russian dancer&#8212;never. And to-day he is an officer in the khaki of the U. S. A.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WILLIAM HENRY SAYEN. Jr., was voted Princeton's Apollo in 1905. Since then he has been interested in various businesses in New Jersey, and has even ventured into politics. When woman suffrage becomes universal we confidently expect the following: President, Donald Brian; Vice-President, Dudley Field Malone; Secretary of State, Mary Pickford; and Senator from New Jersey, William Henry Sayen, Jr.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Packard Studios.</ab>
+<p>EARLE RAPHAEL WILLIAMS was unanimously voted the handsomest man of his class at the Oakland  Polytechnical College. With such a clear track ahead of him, there was only one thing for him to do: he made straight for the stage, and later was promoted into the movies, where a million women see him every evening and go home just a little bit more dissatisfied with their husbands.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Fox Film Corporation.</ab>
+<p>GEORGE WALSH was the handsomest man of his class at Fordham, left and went to Georgetown, and repeated there&#8212;and cared nothing for the reputation in either place. Football was where his heart lay, and he played it powerfully. After  
+college he essayed professional baseball; but the fatal gift of beauty still pursued him, and the moving pictures got him, after all. Beauty may be only skin-deep; but as long as it's good for $500 or $1000 a week, who wants it any deeper?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>C. F. ALLIAUME was class secretary at Cornell, president of the law class, and a number of other things&#8212;besides being voted handsome by his classmates. To-day he has forgotten all that, and would have you remember, instead, that he is a leading young lawyer of Utica, New York, examiner for the city civil service, and past dictator of Utica Lodge, 450, Loyal Order of Moose. He is said to have aspirations for even higher office. Handsome is as handsome does.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19180223.p012" />
+
+<text type="photograph" xml:id="champion.19180223">
+<body>
+<head type="main">EVERY ONE A CHAMPION</head>
+
+<figure n="photograph">
+<head></head>
+<p>WHY can't the girls leave the poor consolation of voting to us men? Apparently they do everything else in the world better than we can do it. What boy scout, for example, can stand up beside Miss Delia Damon, sixteen years old and champion girl scout? Her sleeve is covered with merit badges for boatmanship, housekeeping, electricity, civics, music, invalid cookery, child nursery, ambulance work, cycling, sewing, home nursing, path-finding, marksmanship, and the medal of the Gold Eaglet.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>CHRISTY MATHEWSON and other mere men pitchers were content to sting them over with one hand: but Miss Ada Clays, of Bingham, Utah, cuts the corners with either hand. Unlike most pitchers, also, Miss Clays is a first-class batter. The team for which Miss Clays pitches claims the woman's championship of the world. Lay down your knitting, ladies, long enough to play a game with Miss Clays' team.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>SINCE 1910 Mrs. Leone C. Hoen has won all the women's marksmanship matches held in America; and in 1912 she won the international championship in Paris and so became champion of the world. Her longest distance with the .22 Winchester rifle was 210 feet, at which distance she both lit a match, and later extinguished it, with her rifle shot. We venture to guess that, if there is a Mr. Hoen, he is the champion respectful husband of the world.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IN ground and lofty cooking the world's champion is Mrs. Louise Andrea. In the competition at the Panama-Pacific Exposition, participated in by several hundred culinary experts from everywhere, Mrs. Andrea was awarded the gold medal. Her latest specialty, now popular in the best homes in Washington, is a meringue-topped mince pie. For the information of the younger women among our readers, we will say that a generation ago&#8212;before women discovered that they had higher missions&#8212;practically every woman could cook a good meal. Of course those barbarous days' are gone, never to return.</p>
+<ab type="credit">Photograph from Universal Screen Magazine.</ab>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19180223.p013" />
+
+
+<figure n="photograph">
+<head></head>
+<p>THE long-distance record for knitting
+trench caps is claimed by Mrs. Atwood 
+Topliff of Pasadena. Begeginning the day
+after the great war starteled in 1914, Mrs.
+Topliff has knitted an
+average of one woolen
+cap a day; and long
+since passed the 1000 
+mark. The woolen yarn
+alone used by her has
+cost more than $500.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>OVER and over again its impressed on us that there's a mighty good living in any job, if one is better at it than any one else. Who'd ever think of making a living by restoring old flags? Yet that is the job of Mrs. Amelia Fowler of Boston. She is known all over the world as a flag authority, and when the government decided to restore the old flags that hang in the Naval Academy at Annapolis, it employed Mrs. Fowler. Betsy Ross made one flag and got famous: Mrs. Fowler restored 173 at the Naval Academy, and got $30,000.</p>
+<ab type="credit">&#169; Boston Photo News Company.</ab>
+<figDesc></figDesc>
+</figure>        
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Charles W. Person.</ab>
+<p>THE most famous rat-catcher in Paris was Dick the Rat, who had the contract for rat-cleaning the Paris sewers. Harry Jennings, an American, learned the trade from him; and a gentleman named Heitler learned from Harry: When Mr. Heitler died, his daughter Gertrude decided to go on with the business. The boats that dock at New York are now rat-cleaned by a corps of men under Miss Heitler's direction, and Miss Heitler sells the rats to hospital clinics. She's the only woman rat-catcher, and here's her picture.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHETHER its the climate or what, we don't know, but California seems to have a big majority of these women champions &#8212; including, if you please, Miss Aileen then of Los Angeles, champion roman diver, who holds the women's record for both high and fancy diving.&#8212; The picture shows Miss Allen doing a forward dive: reverse the magazine and you have an equally clear portrait if Miss Allen doing a backward dive.</p>
+<ab type="credit">Photograph from Senile Hess</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MRS. EDNA C. HABLES, who weighs 133 Pounds and is affectionately known as "Ma," stands ready to meet any woman in the United States who has the mistaken notion that she knows how to bowl. Mrs. Hables has made fourteen consecutive strikes, and has scores of 299, 290 (twice), 289, 279, and 278 to her credit&#8212;the highest possible being 300. In spite of all this success and the glory attached thereto, "Ma" persists in being even prouder of her two youngsters and considering that they are even more important than a good score. Which&#8212;thank heaven&#8212;is "the woman of it."</p>
+<ab type="credit">Photograph from Charles H. Meiers.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MISS ELEANOR PUTZKI, of Washington, D. C., having successfully qualified in all the various lines of virtue prescribed by the order of Girl Scouts, was recently presented by Mrs. Woodrow Wilson with the Gold Eaglet&#8212;the highest emblem of the organization. Looking over the page, we discover that we have another Gold Eaglet girl in the person of Miss Delia Damon, in the left-hand top corner. Miss Putzki, meet Miss Damon: when can you two girls arrange to get together and play off the tie?</p>
+<ab type="credit">Photograph by Press Illustrating Service. Inc,</ab>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19180223.p014" />
+
+<text type="photograph" xml:id="parents.19180223">
+<body>
+<head type="main">THEY DISAPPOINTED THEIR PARENTS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">After the painting by himself; photographed by Brown Brothers.</ab>
+<p>PAPA and Mama Zuloaga kept a wine shop in Seville; but they had ambitions. Their one son, Ignazio, should be a matador. But Ignazio ran away to Paris and starved in an attic. While he starved he painted. Recently a four-by-six sketch by Zuloaga sold for $5000.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Goldwyn Film.</ab>
+<p>CAST your eye over this page, parents dear. Then, before you get off that speech to Harold about the serpent's tooth,&#8212;because he yearns to be a plumber in spite of the ouija board's insisting that he ought to be a dentist,&#8212; don't do it, because you will most likely live to eat your words. Robert Garden wanted his daughter to be a violinist. Mary humored him up to the age of twelve. Then she raised herself to be an operatic soprano and a movie star.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>MAURICE BARRYMORE wanted to have one child who was not an actor. So Jack was sent to London to study art at the Slade School. He struggled to please his parents. Once he had an order for a picture, but no money for paints. So he stole a box of grapefruit which an admirer had sent his sister Ethel and peddled the contents, earning $5.67. But Jack decided, about that time, that he would only exert his drawing talents on such things as audiences and salary. Oh, dear, how can children disappoint their parents so?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHAT Mr. and Mrs. Hurst of St. Louis went through when their daughter Fannie told them that she would not be a school-teacher because she was going to New York to be a writer! After all the education they had given that girl, too! Now their dazed inquiry is that of the average magazine reader: "How can a short story be worth $1800?" Yet Fannie's stories answer this question satisfactorily each month.</p>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Underwood &amp; Underwood.</ab>
+<p>JOHN JOSEPH PERSHING disappointed his mother when he went to West Point: she had her heart set on his going to Brown and becoming a minister. If his mother had had her way there wouldn't have been a certain cavalry captain, back in 1906, for Roosevelt to jump over the heads of 862 senior officers into a brigadier-general's uniform. Of course little Ethelbert, when he grows up, will disappoint us, but we won't say a word if our cloud has as silver a lining as mother Pershing's has.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>AND then, the parental Carpentiers.  They thought that they had done a fine thing for son Georges when they apprenticed him to an iron smelter at Lens, France. When Georges escaped, M. C. said that when he caught that boy he would beat him sans merci. At fourteen Georges was featherweight champion of France. At twenty, heavyweight champion of the world.</p>
+<ab type="credit">Photograph by International Film Service, Inc.</ab>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19180223.p015" />
+
+<text type="nonfiction" xml:id="misfortune.19180223">
+<body>
+<head type="main">Misfortune Made Him</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from C. L. Edholm</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>WHEN William T. Carnes lost his right arm he gained a big idea&#8212;one so big that it is putting hundreds of cripples back on the active list and may help thousands maimed in the war.</p>
+
+<p>Carnes was an expert mechanic. His weekly pay envelop had reflected the skill of that lost arm and hand. "You're done for," said his acquaintances. "Better get a job peddling before you use up your savings."</p>
+
+<p>But Carnes had determined not to let his injury force him into the down-and-out class, and so he looked about for some means to make his determination good.</p>
+
+<p>He found that such artificial arms as he could buy were little more than sleeve-fillers, so he set about designing one that would help him back to his place in the working world. He studied the anatomy of the arm and hand until he understood it thoroughly, and then he put his machinists skill to work to reproduce bone, muscle, and tendon, with steel levers, ratchet gearing, and cranks devised so cunningly that every movement of the natural arm would be possible for the artificial one.</p>
+
+<p>That would have been a big task for a skilled mechanic with two good hands. Carnes put brains and patience into the scales against his lost arm. When his remaining hand could not do the work, he used his teeth.</p>
+
+<p>Countless experiments had to be made. Sometimes it seemed as if the task were an impossible one. And his savings were melting away.</p>
+
+<p>But Carnes stuck. And presently came the great day when he strapped on his invention and proved it equal to any work he had ever asked of an arm. To show that it could handle tools, he set to work at once on a second and better arm. He finished it in one quarter of the time it had taken to make the first. That was the beginning of a new career and a big success.</p>
+
+<p>To-day, in a Middle Western city, there is a factory where artificial limbs are made, and every one of the dozen or more workmen is a cripple,&#8212;has lost an arm or even both arms,&#8212;and yet does the same skilled work and receives the same pay as do other mechanics who use the arms they were born with. The office force are like the workmen. The president of the company lacks an arm and a leg; the treasurer lost an arm and gained an interest in the business at the same time; and the secretary and factory manager is Carnes.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="emigrate.19180223">
+<body>
+<head type="main">Do You Need to Emigrate?</head>
+
+<p>WE had been married seven years and had saved $100. We liked our neighborhood because so many of our friends lived there. They had incomes ranging from $1,500 to $2,500 a year, but the less fortunate were so adept at keeping up appearances that no one could guess who had most. That's why we'd saved only $l00 in seven years.</p>
+
+<p>My wife was looking over the bank book.</p>
+
+<p>"Let's invest this $100 in ourselves," she said. "Let's emigrate&#8212;not to a far country or even to another city, but to a different neighborhood."</p>
+
+<p>"But," I protested, "there are car lines, you know, and our friends can easily come to us."</p>
+
+<p>"They won't trouble to when they find we've planned our lives to run on different lines from theirs. It was the janitor who woke me up. He told me he was moving to a home of his own, and showed me the deed. I realized there must be something radically wrong with us: We must go to a neighborhood of people who plan to own their own homes and who don't spend everything in keeping up appearances."</p>
+
+<p>"But we'll miss our friends," I protested again, although I was half convinced.</p>
+
+<p>"Of course we will," my wife answered; "but you wouldn't hesitate to move to another town if business demanded it."</p>
+
+<p>So we moved to a part of town where people lived who were working out their financial salvation. We have made lasting friendships, and found the way to right living and thinking. We "emigrated" only a few years ago. To-day we live in a house that is more than half our own. We have better health because of less strain, just as good surroundings, and lots more self-respect.</p> <closer><signed>M. C. R.</signed></closer>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="reid.19180223">
+<body>
+<head type="main">The Editor Talks with Sir George Reid</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>I CALLED on Sir George Reid recently, to see what the great man of Australia thought about the war. Sir George you know, was the first Premier of the Australian Commonwealth&#8212;the man who united the separate Australian colonies under a constitution modeled after our own. He is the father of his country. He is seventy-three years old. In build he reminds you of a hard rock man from the mines. He has the best manners in the world, and his eyes are the eyes of youth&#8212;which is natural in a real optimist.</p>
+
+<p>I found him playing solitaire. But as he shifted the cards he was thinking of a bigger game. He laid down an ace. "When Bismarck was at the height of his career," he said, "he told my friend Sir William Richmond, the painter: 'The Emperor'&#8212;meaning the Kaiser&#8212;'will play a trump card some day. He will play it at the wrong time and ruin his country.' The artist never repeated that remark until Bismarck was dead. Now its truth has been proved."</p>
+
+<p>Sir George told me that he believes the war will end much more quickly than most of us dare hope. As for the peace to follow, he said:</p>
+
+<p>"Fighting must be over for good, and the whole world must learn to follow the habit of peace first set by the United States."</p>
+
+<p>Much as Sir George hates the things the Kaiser represents, he had a pleasant word about the personality of the German Emperor.</p>
+
+<p>"I saw him last in the summer of 1912," he said. "It seemed to me at the time that I had never met a man of more discrimination or charm; a man who was better read or better informed. The conversation lasted far longer than its official schedule. At last it swung around to war. 'Wouldn't it be a tragedy,' I said, 'if the German bulldog and the English bulldog should ever get their teeth in each other's throats?'</p>
+
+<p>"The Kaiser smiled. 'Never! Never!' he said.</p>
+
+<p>"I suppose his 'Never' meant that the English bulldog would never have a chance to bite back. Germany supposed we were decadent merely because we had our fighting temperament packed away. But there are five and a fourth million 'decadent' Englishmen still in the army, and Tommy Atkins on his shilling a day is as cheery as if he were playing football.</p>
+
+<p>"Please don't go before you tell me that I don't look as old as I am," said Sir George, as I took up my hat. So I did.</p>
+
+<p>At seventy-three he is still young enough to be taking a big part in the world's hardest work.</p>
+
+</body>
+</text>
+<text type="nonfiction" xml:id="wilson.19180223">
+<body>
+<head type="main">Her $18 Elected President Wilson</head>
+
+<p>THE election of the President of the United States was brought about by the modest outlay of eighteen dollars.</p>
+
+<p>This statement is guaranteed by careful authorities in the face of all reports about election expenditures in the last presidential campaign.</p>
+
+<p>Every one admits that California's conversion from Republicanism decided the election of Woodrow Wilson: Not every one knows that the city of Long Beach cast the fatal majority against Hughes; nor that one woman&#8212;Mrs. N. R. Root, contributor of the eighteen dollars&#8212;was the greatest factor in converting Long Beach.</p>
+
+<p>The Boston News Bureau, a careful financial sheet, backs up this startling analysis. "Wilson could not have been elected except for Mrs. Root and her activities at Long Beach. Here the Democratic vote went from six hundred to sixty-six hundred. Without this Hughes would have carried California by more than a thousand votes. Wilson is President to-day because of Mrs. Root and her first eighteen-dollar investment to open Wilson Headquarters at Long Beach, California."</p>
+
+<p>Before its disappearance Mrs. Root was a supporter of the Progressive Party. At the time of the 1916 campaign she found herself repeating Jane Addams's remark: "Wilson, in his marvelous administration, has put into practice nearly all the principles of the great Progressive platform." The obvious answer was to get to work and help elect this Progressive in Democrat's clothing.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; International Film Service</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>Her friends pleaded with her; her opponents jeered at her. "There aren't any Democrats in town!" they all said. "There will be," replied Mrs. Root.</p>
+
+<p>Out of her small means she invested eighteen dollars in a campaign headquarters, furnished it with chairs and tables from her own house, and started the Woodrow Wilson Independent League. Not one prominent person would come out openly for Wilson. She met opposition and an even more discouraging, apathy with an educational campaign of force and dignity, bringing pamphlets and speakers from Los Angeles. The city had a Democratic newspaper which gave her work publicity. The influential people of the town did not even contribute funds to the campaign&#8212;"Although," says Mrs. Root, "they were glad enough to give money to get up a big celebration parade after Wilson was elected, and to claim proudly that Long Beach had put him in!</p>
+
+<p>"In a sense, I did not elect Mr. Wilson," says Mrs. Root modestly. "Equal suffrage did it. If women had not had the vote I should never have bothered about the election. As a citizen I had to do what I could. I was simply an agent of the force that is coming into politics through the vote of the women&#8212;a force that will work for human needs, for what Emerson called 'the culture of men.' But it is interesting to speculate sometimes on the difference it might have made to the country if I hadnt done that work in Long Beach very interesting."</p> <closer><signed>FREDA KIRCHWEY.</signed></closer>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="pennies.19180223">
+<body>
+<head type="main">A Giant Fortune in Pennies</head>
+
+<p>THREE million new pennies every day&#8212;that's Uncle Sam's response to the war-made demand for the humble cent.</p>
+
+<p>To meet the emergency, Director of the Mint Raymond Baker ordered the Denver branch of our coin factory to turn out nothing but pennies. The San Francisco and Philadelphia mints are busy on pennies and other small coins. Altogether, the daily output of one-cent pieces is around 3,000,000.</p>
+
+<p>At the beginning of the present fiscal year the mint records showed that approximately $73,000,000 in pennies had been put in circulation. Where they were no one knew. Postmasters, paying tellers, freight agents, peanut venders, newsboys, and babies' banks were believed to have most of them.</p>
+
+<p>From July 1 to November 1 approximately 41,600,000 were minted, and the experts estimate that $i00,000,000 in pennies will be required to carry on business under war-tax conditions. This would mean about one hundred pennies for every person in the United States, leaving out of consideration the many coppers lost or mislaid during the taxless days of peace.</p>
+
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19180223.p016" />
+
+<text type="nonfiction" xml:id="pot.19180223">
+<body>
+
+<head type="main">THE MELTING POT</head>
+
+<head type="sub">In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes of Health, Efficiency, Travel, Biography, and Adventure</head>
+
+<div1>
+<head type="sub">THE EMPTY CHURCHES OF ENGLAND</head>
+
+<p>AN Englishwoman, Mrs. Stuart, lost her seventeen-year-old son when the <hi rend="italic">Invincible</hi> was sunk in the battle off Jutland. Friends told her: "He went to a gallant death, dying for you and England." The vicar said: "Comfort yourself with the thought that his death is God's will, and that he waits for you in heaven." But Mrs. Stuart's reply was always the same:</p>
+
+<p>"I am a mother who wants her son above everything else. If I only knew where he is!"</p>
+
+<p>Robert Mountsier tells the story in the <hi rend="italic">Bookman</hi>. One day, he says, the mother went to a private seance, and was startled there to hear the medium give a minute description of her son. In the middle of it she interrupted:</p>
+
+<p>"It's my boy. He wants to talk with his mother."</p>
+
+<p>The medium then delivered a message from Mrs. Stuart's son, in which he told her that he was happy, and had come to her again and again, but had been unable to make his presence known. Up to this point, says the narrator, there had been nothing remarkable in the seance. But the medium then continued:</p>
+
+<quote>
+<p>"You should not think, mother, that I suffered when the ship went down. Those hours are the most wonderful I ever had on your side. When we were going down, Weaving came to me. He was very calm. He said: 'You and I are going to leave all this. Let us go.' And we came over."</p>
+
+<p>Immediately upon returning home, Mrs. Stuart went to a list of those lost on the <hi rend="italic">Invincible</hi>. There was the name of Weaving, which her son had never mentioned in his letters. She secured from the Admiralty the address of a member of Weaving's family. By correspondence she learned that Weaving, a man of education, had been interested in spiritualism, but had never consulted a medium. Weaving's letters to his family had contained no reference to her son.</p>
+
+<p>After carefully investigating those features of the case that were susceptible of fraud, Mrs. Stuart was convinced that she had been in communication with the spirit of her departed son.</p>
+</quote>
+
+<p>This is only one of thousands of instances, says the writer, showing how spiritualism has taken hold of death-stricken England. People are flocking to spiritualistic seances as they did to the churches at the beginning of the war; and Sir Oliver Lodge's book, <hi rend="italic">Raymond</hi>, is more popular in England than the Bible.</p>
+
+<p>About this book&#8212;which relates communications from the author's son, who died at the front&#8212;bitter controversy has raged. The Daily Mail called it "outrageous balderdash, half a guinea's worth of rubbish." Sir Conan Doyle, on the other hand, pronounces it "a new revelation of God's dealing with man."</p>
+</div1>
+
+<div1>
+<head type="sub">TOO MUCH ARGUMENT</head>
+
+<p>ON the Western plains the sheepman goes out with several thousand head and one human companion. The natural result is that the pair, forced continually on each other's society, form the habit of hating each other.</p>
+
+<p>An ex-sheepman was telling of a fellow he once rode with. "Not a word had passed between us for more than a week. One night, he suddenly asked:</p>
+
+<p>"'Hear that cow beller?'</p>
+
+<p>"'Sounds to me like a bull,' I replied.</p>
+
+<p>"No answer; but the following morning I noticed him packing up.</p>
+
+<p>"'Going to leave?' I questioned.</p>
+
+<p>"'Yes,' he replied.</p>
+
+<p>"'What for?'</p>
+
+<p>"'Too much argument.'"</p>
+
+<closer><signed>Milwaukee Sentinel.</signed></closer>
+</div1>
+
+<div1>
+<head type="main">RUSSIA'S WONDERFUL WOMEN</head>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; E. O. Hoppe</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>NO women in the world offer so many contrasts as the Russian women.  They make the most fearless conspirators and revolutionists; the most luxurious and extravagant women of fashion; the most reckless gamblers; the most ecstatic visionaries. Here are two highly characteristic Russian types&#8212;on the left a youthful picture of Vera Figner, the noblest and most romantic of all Russia's revolutionary leaders; and on the right Lydia Kyasht, one of those beautiful butterflies that only the Russian ballet produces, who is now dazzling all London with her dancing.</p>
+</div1>
+<div1>
+<head type="sub">DEAN JOHNSON'S ADVICE TO VANDERLIP</head>
+
+<p>WHEN Frank Vanderlip was a cub reporter on the Chicago <hi rend="italic">Tribune</hi>, his boss was Joseph French Johnson, now Dean of the School of Commerce, New York University. Riding in together from Aurora, Vanderlip asked:</p>
+
+<p>"What is the one greatest thing to help a man to succeed?"</p>
+
+<p>"To look as if you had already succeeded," was the on-the-spur-of-the-moment advice of Johnson, then thirty years old.</p>
+
+<p>Vanderlip had not long emerged from overalls and a machine-shop, where collars and cuffs were taboo, says <hi rend="italic">Forbes' Magazine</hi>, and he had not given the matter of personal appearance any special consideration. From that moment he spruced up. Indeed, he not only dressed the part, but acted the part. And it was not long before his native town began to look upon young Vanderlip as one of the nabobs of Chicago.</p>
+</div1>
+<div1>
+<head type="sub">UNWANTED CHILDREN</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>All these babies from the New York Foundling Hospital went to good homes in Texas and Oklahoma where children were wanted.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>WHAT becomes of the babies whose parents do not want them? The Juvenile Protective Association of Chicago began an investigation a year ago to find an answer to that question; and a summary of its report was published in a recent number of the <hi rend="italic">Survey</hi>. The Association discovered 137 homes in Chicago where unwanted children were being kept.</p>
+
+<p>"A woman on the South Side had six small children, two adult boarders, an elderly father, and a crippled husband to care for; yet she was boarding seven small children besides. Five of them were sick at the time of the investigation. No one outside the family assisted this woman with her work. Indeed, outside assistance was practically unknown in all these baby farms."</p>
+
+<p>Some of the "foster-mothers" were immoral: some drank and chewed tobacco. In general the homes were dirty, and thirty-two of them, says the report, were "positively filthy." Yet this condition had been going on all unsuspected by the people of Chicago, and the Association found no ordinances on the statute books with which to cope with it.</p>
+
+<p>What becomes of the unwanted babies in <hi rend="italic">your</hi> town?</p>
+</div1>
+
+<div1>
+<head type="sub">WHY LADIES REFUSED GEORGE WASHINGTON</head>
+
+<p>GEORGE WASHINGTON was an excellent surveyor, farmer, commander, and statesman; but, says Owen Wister in <hi rend="italic">The Seven Ages of Washington</hi> (Macmillan Company), he was a singularly unsuccessful suitor. Several young women foiled and defeated him as the whole British Army failed to do. He was a persistent suitor. In his youth, he even wrote verses. One of his earliest bursts of passion contained these lines:</p>
+
+<lg><l>In deluding sleepings let my eyelids close</l>
+<l>That in an enraptured dream I may</l>
+<l>In a rapt lulling sleep and gentle repose</l>
+<l>Possess those joys denied by day.</l></lg>
+
+<p>Later on, says Mr. Wister, he abandoned this method as inefficient; but his success was no greater. He wrote to a friend:</p>
+
+<p>"'Was I to live more retired from young women, I might in some measure eliviate my sorrows by burying the chaste and troublesome passion in the grave of oblivion.' Buried it was not, at once; on the contrary, the lover orders, with as many careful and exact details as if it were a survey, a highly fashionable coat to be made for him: 'On each side six buttonholes, the waist from the armpit to the fold to be exactly as long or longer than from thence to the bottom.' This is only a part, less than a third, of his 'directions about this coat."</p>
+
+<p>When one lady failed him, he turned, with commendable speed, to another. But the next lady, Mr. Wister testifies, refused him twice.</p>
+
+<p>"Why was he so unlucky in these affairs? Why did he so fail to win young women's hearts? He was strong, athletic, tall, a daring rider, his manliness had won the hearts of his brother and Lord Fairfax. It is possible that his gravity, his lack of quick light talk, frightened them off. Washington must have been not seldom an uncomfortable, unwieldy companion among those of his own age. And let us remember his nose. It was a formidable feature, and in these budding days of manhood it beaked out of that young face in overweening scale. If we think these things over we feel that we may understand why the girls would not have him."</p>
+</div1>
+
+<div1>
+<head type="sub">WHAT CAUSES OLD AGE?</head>
+
+<p>SOME day, doubtless, we shall discover just what causes old age, and why men die of it. Scientists are
+working at the problem all the time, and the results of certain experiments conducted by Professors Jacques Loeb and J. H. Northrop are recorded in the <hi rend="italic">Journal of Heredity</hi>.</p>
+
+<p>The subject chosen for experiment were little flies known as Drosophila, or fruit flies. In the course of the experiments it was discovered that flies hatched at a certain temperature had the longest lives. Flies hatched at a temperature ten degrees higher reached the end of their lives just twice as quickly as those hatched at the lower temperature. During the process of living, certain chemical elements were discovered in the bodies of the flies that had not previously existed there, and the presence of these was found to accompany the change of the flies from one form of life to another.</p>
+
+<p>It may be, the professors believe, that normal death from old age in men is likewise brought about by the production in the system of some poison that did not previously exist there; and that we may yet determine the conditions of food, temperature, etc., under which the production of this poison may be longest delayed.</p>
+</div1>
+
+<pb n="Page 17" xml:id="ew.issue.19180223.p017" />
+
+<div1>
+<head type="sub">ON THE WAY TO SIBERIA</head>
+
+<p>"FIVE years of hard labor in the mines"&#8212;think of hearing that sentence pronounced over you. Catherine Breshkovsky, the "Little Grandmother of the Russian Revolution," heard it&#8212;and added to it another period of years in Siberia after the term in the mines should end. She was the first woman ever sentenced to the mines for a political offense.</p>
+
+<p>"Secretly at night, to avoid a demonstration, we were led out," she says in the story of her life (Little, Brown &amp; Company). "In the street below were eleven heavy hooded vehicles with three horses each. In one I was placed, with a stout gendarme squeezed in on each side, to remain there for two months. Just in front of my knees sat the driver. We went off at a gallop, and our 5000-mile journey began.</p>
+
+<p>"Often we bounced for a whole week without stopping more than ten minutes, day or night. When we did stop for sleep, it was in the crawling huts infected with scurvy, consumption, and typhoid. The long bench on which we slept had no bedclothes.</p>
+
+<p>"On the walls were a mass of inscriptions. Some were freshly cue; but one worm-eaten love poem looked a century old. For along this Great Siberian Road over a million men, women, and children have dragged&#8212;murderers and degenerates side by side with tender girls exiled through the jealous wife of some petty town official.</p>
+
+<p>"Did any die? Yes, one by typhoid. Our officer rushed the sufferer on at full gallop, until his delirious cries from the jolting vehicle so roused our protests that he was left in the Irkutsk prison, where he died.</p>
+
+<p>"Were there any children? Yes, one little wife had a baby ten months old. But the rest of us did what we could to help her, and the child survived the journey.</p>
+
+<p>"Friends to say good-by? Yes&#8212;as we passed through Krasnoyarsk, a student's old mother had come from a distance to see him.</p>
+
+<p>"Our officer refused to allow the boy to kiss her. She caught but a glimpse, the gendarmes jerked him back into the vehicle, and they galloped on. As I came by I saw her white, haggard face. Then she fell beside the road.</p>
+
+</div1>
+
+
+<div1>
+<head type="sub">R. H. DAVIS'S FIRST BOOK</head>
+
+<p>YOUNG writers who are tempted to become discouraged early in the game will find special interest in Richard Harding Davis's experience with his first book. It appeared in 1884, and was called "The Adventures of My Freshman."</p>
+
+<p>In writing in a copy of this book years later, Davis said:</p>
+
+<quote>
+<p>This is a copy of the first book of mine published. My family paid to have it printed, and, finding no one else was buying it, bought up the entire edition. Finding the first edition had gone so quickly, I urged them to finance another one, and when they were unenthusiastic I was hurt. Several years later, when I found the entire edition in our attic, I understood their reluctance. The reason the book did not sell is, I think, because some one must have read it.</p>
+</quote>
+
+<p>More than a quarter of a century later&#8212;just before his death&#8212;Davis signed a contract for six short stories at what is believed to be the highest price ever offered to an American writer.</p>
+</div1>
+
+<div1>
+<head type="sub">NOBODY LOVES A CAMEL</head>
+
+<p>AS far back as history tells, camels have been domestic animals. There are no wild camels. And yet, they hate men and all their ways. Says Rodney Gilbert in <hi rend="italic">Asia</hi>:</p>
+
+<p>"Bearing an innate grudge against all restraint and all who restrain him, the camel will use the great strength of his long legs to kick his keepers or the dogs that guard him in the waste places. But in the presence of enemies&#8212;among wolves or other beasts of prey&#8212;he is a coward, forgets the very use of his legs, and proves his erratic temper by screaming and spitting in terror. No camel wants to be loved, and no one familiar with camels ever entertains the least affection for them.</p>
+
+<p>"The Arabs and Egyptians of the Near East speak proverbially of the malice and vindictiveness of the camel. The Mongols, Chinese, and Turki of the Far East say that the camel is too stupid to be either malicious or vindictive.</p>
+
+<p>"The poison of all other beasts is his food. He pines and wastes in fat meadows, but grows fat, powerful, and savagely independent among alkali-crusted sands.</p>
+
+<p>"Panic is the greatest failing of camels under all circumstances. The stupidest and laziest camel will show all the silly coyness of a thoroughbred colt in the presence of a white stone, a heap of bones, or some sprightly little animal that darts about his feet.</p>
+
+<p>"The slightest cold carries him off, and when one camel dies they all die. If a camel sinks in the mud, he strains his long legs and is never good again as a carrier. On ice they are hopeless. Mongols traveling in winter are forced to carry bags of sand wherever they go, which they must scatter upon every little patch of ice they approach."</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Brown &amp; Dawson</ab>
+<p>
+Camels are all right as long as you don't treat them kindly.</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+
+<div1>
+<head type="sub">THE DEAD CITIES OF 1918</head>
+
+<figure n="photograph">
+<head></head>
+<p>When the Germans bombarded the Cathedral of Rheims, windows were smashed and priceless statues fell broken. But the Maid of Orleans stood unharmed. "A miracle," say the French.</p>
+<ab type="credit">Photograph by International Film Service Company, Inc.</ab>
+<figDesc></figDesc>
+</figure>
+
+
+<p>AFTER the war no one will go traveling to Greece and Rome to see historic ruins. Rheims will claim us, and Louvain, and the shattered city of Ypres. Ypres began to be a show place after its first bombardment, says Captain Hugh B. C. Polard in <hi rend="italic">The Story of Ypres</hi> (McBride).</p>
+
+<p>"Every soldier required picture post-cards of the famous ruins; souvenirs were eagerly acquired, and a small curbstone industry in shell-fuses, stained-glass fragments, and relics of all kinds sprang up.</p>
+
+<p>"Small boys acquired wealth, and the Cathedral guide must have accumulated a substantial balance. The shelling which sometimes occurred did not seem to disturb the towns-folk: they had grown used to it. If a shell or two fell, they took refuge in their cellars, coming out again as soon as the bombardment stopped."</p>
+
+<p>But after the second battle Ypres became a dead city.</p>
+
+<p>"It was hardly possible to find one's way about the ruins, as streets and houses alike had been smashed into one tangle of fallen masonry. Over all hung the scent of burning and decay, of powdered plaster, and the sickly scent of dead bodies. Here and there a path had been cleared through the piles of wreckage, and attempts had been made to keep the main roads open.</p>
+
+<p>"Over all reigned the silence and stillness of death, and not a living creature moved to wake the sleeping echoes.</p>
+
+<p>"It was all like some strange city in a dead world, some horror from the Apocalypse.</p>
+
+<p>"The very earth on which the city had stood was plowed with shells, destroyed with ashes, and drenched with salt human blood."</p>
+
+</div1>
+
+<div1>
+<!-- 
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="sub">SAINT PAUL</head>
+
+<byline>By <persName type="author" key="#Herford, Oliver">Oliver Herford</persName></byline>
+
+<lg><l>IT saddens me to think Saint I Paul</l>
+<l>Such lengthy. letters had to scrawl;</l>
+<l>And so to make his labor lighter</l>
+<l>I picture him with a typewriter.</l></lg>
+
+<closer>From <hi rend="italic">Confessions of a Caricaturist</hi>
+(Charles Scribner's Sons)</closer>
+
+</div1>
+<div1>
+<head type="sub">KEEP AN EYE ON HAITI</head>
+
+<p>FIVE years ago there were few less desirable places of residence in the world than the fertile island of Haiti. Since the expulsion of the French in 1804 this island has had, including self-constituted kings, emperors, and dictators, twenty-eight rulers. Of these, as H. P. Davis notes in the <hi rend="italic">Pan-American Magazine</hi>, fifteen were either assassinated or exiled. Life in Haiti was just one revolution after another; and the country&#8212;by natural endowment one of the richest islands in the world&#8212;has grown steadily poorer and poorer.</p>
+
+<p>The real government to-day, the power behind the President and Congress, is exercised by the United States Marines. Under the terms of the treaty entered into between Haiti and the United States, all customs revenues are collected and administered by officers appointed by the Haitian President from among nominees of the President of the United States. The marines are on the island to aid the government in maintaining order: but their actual usefulness extends far beyond that. They are building roads and other public works, and gradually bringing the people back in security to their work.</p>
+
+<p>Only one thing stands in the way of Haiti's great development&#8212;the article in her constitution that prohibits the ownership of land by any one except a native of the country. Once this article is repealed, as it probably will be, and the mines of Haiti and her plantations will pour out a stream of wealth. If you are young and ambitious and willing to take a chance, go down sometime and have a look at Haiti.</p>
+</div1>
+
+<div1>
+<head type="sub">FOR FARMERS ONLY</head>
+
+<p>ABOUT 40 per cent of the food value of corn is in the stalks and leaves.  Why be without a silo and throw away nearly half your corn money? <hi rend="italic">New York State College of Agriculture</hi>.</p>
+
+<p>With corn worth two cents an ear or more, it pays to husk the fields clean. The ears that are missed don't help to feed the Allies. <hi rend="italic">Henry A. Page, Food Administrator</hi>.</p>
+
+<p>It pays to be suspicious whenever you find a sick hog in the herd. Pork prices are too high to take chances with hog cholera. <hi rend="italic">United States Food Administration</hi>.</p>
+
+<p>The National Food Administration suggests that farmers make out a list of the supplies&#8212;seeds, fertilizers, machinery, etc.&#8212;they will need next spring and place their orders at once. <hi rend="italic">Southern Agriculturist</hi>.</p>
+
+<p>In 1880 one out of every four farms in the United States was rented; in 1910 almost two out of five were in the tenant group. <hi rend="italic">The Nebraska Farmer</hi>.</p>
+
+<p>The wet piece of land that yielded only trouble this year could produce a good crop in 1918&#8212;if it had tile drains under it.  <hi rend="italic">New York State College of Agriculture</hi>.</p>
+
+<p>An acre of good alfalfa furnishes twice as much protein as a ton of bran, four times as much as a ton of corn meal, and nine times as much as an acre of timothy. <hi rend="italic">New York State College of Agriculture</hi>.</p>
+
+<bibl>(From the <hi rend="italic">Agricultural Digest</hi>.)</bibl>
+</div1>
+
+	
+</body>
+</text>
+<pb n="Page 18" xml:id="ew.issue.19180223.p018" />
+
+<text type="advertisement" xml:id="friends.19180223">
+<body>
+
+<figure n="advertisement">
+<head>The Easiest Way in the World to Make Friends</head>
+<p></p>
+<figDesc>Advertisement for The Mentor Association</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="editor.19180223">
+<body>
+<head type="main">The Editor Answers</head>
+
+<div1>
+<head>Lincoln's Plain People</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>At first I tried to tell myself that I did not care much for EVERY WEEK: but the more I read those plain heart-to-heart articles for plain people like myself, the more I like the publication.</p>
+
+<p>I find that my own experiences, hopes, and thoughts are so much like the rest of the great army of common folks fighting life's battle that the experiences related in EVERY WEEK have a strong appeal to me. You are on the right track: success to you.</p> <closer><signed>E. M. F., Oklahoma.</signed></closer>
+</div2>
+<div2>
+<p>You have no idea how much that sort of letter pleases us. There are plenty of magazines edited for the few "uncommon" folks, according to our notion. We like to think that this magazine is rather distinctively for the great body of plain people whom Lincoln said the Lord must have liked very much or he wouldn't have made so many of them.</p>
+</div2>
+</div1>
+<div1>
+<head type="sub">From a Cold and Hungry Man</head>
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>I am what is known as an "esteemed citizen of Brooklyn," though not at all connected with politics. This winter has been a very hard one for the poor, both in the matter of food and fuel. According to the different wise men in Washington, these conditions are due to the shortage of labor. The people are patient and long-suffering, but they are being frozen and starved to death, with money in their possession to pay for these necessities. I write to ask you to slip a few lines occasionally into your well directed editorials for the sake of your readers and humanity. I will not sign my name and address for fear Mr. Burleson might nail me for it.</p> <closer><signed>A SON OF A VETERAN, Brooklyn.</signed></closer>
+</div2>
+
+<div2>
+<p>I know just what you mean. I have seen the pathetic line of people waiting, baskets in hand, for coal: and the pinched- faced children filing into their cold schoolhouses. A man's heart would break at such sights if it were not for one thing&#8212; and that one thing is the faith, which I have very strongly, that the power of common folks like you and me is greater in the world than it has ever been before; and that, once this war is over and we have made an honorable, lasting peace, we are going to demand that the governments of the world give attention as they never have before to the problem of the distribution of the necessities and comforts of life in such a way that every family will be assured of a fair chance in the world. That demand of ours is going to be listened to very attentively. For believe me, my dear sir, this war, which marks the end of autocracy, marks the decline of aristocracy and privilege also. The world is slowly but inexorably being delivered over into the hands of the people who do the world's work.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">Picking on the Poor Chap</head>
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>In your contest "What the War Means to Me" you published a letter that made my blood boil. It was from a so-called German-American: and, while it tried very artfully to throw a camouflage of patriotic words over itself, any one could see that the writer was and still is sympathetic toward Germany. Such letters should not be published in a magazine which has always stood so staunchly for America as yours has.</p> <closer><signed>J. E. L., Maine.</signed></closer>
+</div2>
+
+<div2>
+<p>We have had several letters like yours, J. E. L., picking on this poor German-American chap.</p>
+
+<p>Nobody who reads this magazine can have any doubt where we stand. We are not only pro-American: we are anti-German. We believe that until the German people bring forth works meet for repentance, and set up a government whose promises are made to be kept, the rest of the world can not, in self-respect or safety, have anything to do with them.</p>
+
+<p>At the same time, when we publish a contest in this magazine, we try to have as many points of view represented as possible. And the loyal German-Americans&#8212;of whom there are millions in this country&#8212;have gone through a spiritual experience so uniquely trying that it seems to us any war contest which ignored it would be incomplete.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">Attention, Old Boys</head>
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>Aside from buying Liberty Bonds, subscribing to the Y. M. C. A. and observing wheatless days and meatless days, is there anything for a man of forty-five to do that will help to win the war?</p>
+
+<p>My children are away at school: I am kept busy during the day, but I have my evenings. It seems as if there ought to be a job somewhere for good-hearted old fellows like me.</p>  <closer><signed>P. F. D., Michigan.</signed></closer>
+</div2>
+
+<div2>
+<p>Yesterday, P. F. D., I heard that the Boy Scouts of America need Scout-Masters. Many of their Masters have been called into the service, and there are troops that are just hungering for some kind-hearted man with a middle-aged head and a youthful heart to carry them on. I don't know whether you would qualify or not: but the man to write to is John Roy, Executive Secretary, 59 Wall Street, New York.</p>
+
+<p>"He who helps a boy become a strong and good man makes a contribution of the first order to the welfare of society," said Phillips Brooks. And when he said it he said a lot.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">A Good Little Verse</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>This bit of sentiment is so clearly along the line of your editorial of some weeks ago, "On Meeting a Man Whom I Had Always Supposed I Disliked," that I send it with my best wishes. It's by Nixon Waterman:</p>
+
+<lg><l>If I knew you and you knew me, if both of us could clearly see</l>
+<l>And with an inner sight divine the meaning of your heart and mine,</l>
+<l>I'm sure that we would differ less and clasp our hands in friendliness:</l>
+<l>Our thoughts would pleasantly agree if I knew you and you knew me.</l></lg>
+<closer><signed>H. L. T., Minnesota.</signed></closer>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">Go to the Head of the Class, Doris</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>It's such a grand and glorious feeling to be able to tell an editor something. You asked on a recent picture page what had become of the old-fashioned mustache-cup. Well, I'll tell you. It's in my aunt's attic with some other things that my aunt (a perfectly mustacheless female) received as presents when she was teaching school. I just tell you this to set your mind at rest and to be able to say that I've told a real live editor something.</p> <closer><signed>DORIS S.</signed></closer>
+</div2>
+
+<div2>
+<p>Very good, Doris. And what has become of the old-fashioned fish-bone plate that used to sit at every place at the table on days when fish was served?</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">By All Means, Write</head>
+
+<p>MANY people begin their letters to me by saying, "I suppose you get so many letters that you do not have time to read them all." I read all the letters that are written to me&#8212;and only wish that some of the big bunch of stories that I have to read in picking out the few that we publish were half as interesting.</p>
+
+<p>Good luck to you until next week.</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19180223.p019" />
+
+<text type="fiction" xml:id="fox.19180223.jump">
+<body>
+
+<head type="main">A Woman of France</head><p rend="jumpline">&#8212;Continued from page 9</p>
+
+<p rend="continued">that Louis is ill, and that you and I have thought of a way to cure him. Now, there is a drug that will effect this cure, let us say, in just twelve hours, without particular embarrassment to either one of you; that is, if he takes it at lunch, he will be a well man by midnight&#8212;that is to say, so far as this particular trouble is concerned. Nor will he know what has occurred; for one can not taste this drug in strong coffee. It is a white powder,' he said, 'and I have written the name of it on this slip of paper, which you will present to the apothecary. If he should ask you, as he doubtless will, what you want it for, merely state that you wish to kill a dog. That is all. Leave the rest in my hands; remember that I am at your disposal at any hour.'</p>
+
+<p>"Then he let me go," said the woman.</p>
+
+<p>That was all&#8212;that, and a terrible silence. For once, the man had nothing to say.</p>
+
+<p>THE Egyptians suffered in their darkness; so did the baker, for a moment. But only for a moment, in times of great mental stress a woman weeps, a philosopher smiles, a strong man cries out. This man merely grunted.</p>
+
+<p>"Humph," he said; "this is a pretty tray of paste. The good doctor gives my wife a prescription. He tells her that I am ill with a treasonable disease. He knows I love the strongest coffee; so does she. Therefore I must take my death in it at noon, departing thence at midnight. She calls the dear man in the morning, and he shakes his head. 'Poor Louis had a weak heart,' he says to the neighbors, 'and this is what a second cup of coffee will do for a man.' Bah! I thought I liked that old fellow once, but now I know that I liked his famous apples much better. When was this?" he said suddenly.</p>
+
+<p>"Just a week ago&#8212;last Monday. You were in the shop, I think, when I came back.</p>
+
+<p>"So I was. You had been gone two hours at least, and I asked you where you had been. And you said: 'To the shop of the apothecary.' Then you went in and got lunch; I remember the onion soup, a nice ragout, and two cups of coffee."</p>
+
+<p>"Oh, you were safe enough that day," cried the woman. "And the next, and the next. I don't know what was the matter with me."</p>
+
+<p>"I do," said the man. "One is never in a hurry about such things; it is not nice. Also, one must make up one's mind."</p>
+
+<p>"I had made up my mind. I had given the doctor my promise. And I had the powder. But that was as far as I could go, it seemed. I kept putting it off from meal to meal. 'The next time will be the last,' I kept saying to myself, until it got to be a sort of terrible dream&#8212;a nightmare from which I was never going to wake up. The powder was in a little white box. A thousand times, it seemed, I got it as far as the coffee-pot; but then, when I felt most sure, it was then I was most in doubt. My hand would not go to the lid. I just stood there, a-tremble, and did nothing."</p>
+
+<p>The picture appeared to amuse the baker somewhat.</p>
+
+<p>"Ha," he said; "I can almost see you. Well, I am safe enough at that rate, though no one can blame you, my dear. You did the best you could. But it is not so easy to kill a man, say what you like."</p>
+
+<p>The woman resumed in the darkness:</p>
+
+<p>"That is what the doctor said. I went to him the second day.</p>
+
+<p>"'What shall I do?' I cried. 'What shall I do?'</p>
+
+<p>"He was good and kind as ever, but firm. He took my hand. 'There is only one thing to do,' he said, 'and you are going to do it before the week is out; for I made up my mind, when I told you of the plan, to give you just that long. I have made allowances for you, child. The man is your husband, and the father of your son. I have thought of that. The thing is
+not easy, but it must be done. There is no other way out&#8212;that is, for you. For my own part, I would just as lief see the man shot. He is a menace to France, and dying thus perhaps the example would not be
+
+<cb n="2" />
+
+without certain value. However, it is all one thing to me. Your week is up Sunday,' he said to me at the door."</p>
+
+<p>She paused, but the baker had no remark. The situation, you might say, was not without certain possibilities, certain of which he himself was now obliged to consider. He knew his wife, and he knew the old doctor; hence his silence. Or so it seemed, at least.</p>
+
+<p>The woman continued:</p>
+
+<p>"I was on the brink of things. The strangest part of it was, I could hardly realize how I came there, it was all so sudden. Only the day before, it seemed, I was the happiest woman in the world. I looked at everything then, and saw nothing. Now I looked at nothing, and saw everything. That is what trouble does for one, they say. I was stupid enough in my day, content with what I had at home, slow to think of much beyond the shop. But now a thousand thoughts flew in and out of my head, like feathers and dust flying out of a bag.</p>
+
+<p>"I was at the end of things, and there were only five days left. Then there were only four. But still I could do nothing to please the doctor. There was something wrong. My head would say one thing, but my hand would do another. And I found myself going to the doctor every day; I kept telling him that I could not do this thing.</p>
+
+<p>"Then one day, I think it was toward the last, I heard myself crying that I no longer wanted you to die. I began to beg for your life. And the doctor showed me to the door. He was very angry. He said I didn't know my own mind."</p>
+
+<p>"Oh, I don't know," murmured the baker. "Women are like that. Go on, my dear."</p>
+
+<p>"He said: 'I believe you love the man, scoundrel that he is.' And he laughed.</p>
+
+<p>"'I have always been afraid of him,' I said; 'but it is different now. He has done wrong, I know, but he is not the only one, and if you let us go away we may be happy again somewhere.'</p>
+
+<p>"I was sure of it, somehow. You seemed to have changed; you were more kind to me, less harsh&#8212;"</p>
+
+<p>"I thought you were ill," growled the baker, "or something. You looked bad enough."</p>
+
+<p>But the woman returned to the doctor:</p>
+
+<p>"I went down on my knees to him, right there in the doorway: But it was no use.</p>
+
+<p>"'Child,' he said, 'the man must die. And to-morrow is the last day. I could let you both go away, that is true, but what good would it do? Where could you go? Our friends would not let the man alone.' He seemed quite sure of it," added the woman.</p>
+
+<p>"He was right," said the baker. "I am caught. As you know, they wouldn't even give me a chance to go. Well, I suppose you gave it up then?"</p>
+
+<p>"No. The last time I went to see him was this morning. A strange thing, I felt very sure of myself too; for a queer trick of thought had entered my head. It seemed plausible enough, too. I had changed my mind once; well, I should change it again. The doctor would learn that you were not what I said, after all; that all I had told him of your condition was false. I had lied to him in a moment of insanity, jealous of certain attentions you had paid to the pretty young apprentice of the milliner Gallantreve&#8212;which, by the way, is not altogether without some foundation, monsieur.</p>
+
+<p>The man laughed outright&#8212;a great hearty echo of mirth.</p>
+
+<p>"Pooh!" he cried in great amusement. Then, with a chuckle of approval: "But your idea, my dear, is not without merit; it is worth consideration. Let the good doctor carry his information to the mayor; let him go and lodge his complaint. You and I will stand together, eh? They can prove nothing without you; and I am warned in time. Be sure they will find nothing in the house. And your position will be clearly understood&#8212;at least, by all the married men in the jury box. The <choice><orig>let-
+
+<figure n="advertisement">
+<head>Colgate's "Handy Grip"</head>
+<p></p>
+<figDesc>Advertisement for Colgate &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>10&#162; a Day</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$1 A Week Buys the Black Beauty</head>
+<p></p>
+<figDesc>Advertisement for Haverford Cycle Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Earn $1 to $2 A Day At Home</head>
+<p></p>
+<figDesc>Advertisement for Auto-Knitter Hosiery Co., Inc.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Deafness Is Misery</head>
+<p></p>
+<figDesc>Advertisement for A.O. Leonard</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including Personal, Help Wanted, Corporations, Business Opportunities, Help Wanted-Female, Song Writers Wanted, Female Help Wanted, Games and Entertainments, Photoplay, Stories, Etc., Short Stories, Manuscripts Wanted, News Correspondents, and Photoplays</figDesc>
+</figure>
+<pb n="Page 20" xml:id="ew.issue.19180223.p020" />
+
+<figure n="advertisement">
+<head>"I Got the Job"</head>
+<p></p>
+<figDesc>Advertisement for International Correspondence Schools</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Luden's Give Quick Relief</head>
+<p></p>
+<figDesc>Advertisement for Luden's Menthol Candy-Cough Drops</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$5<hi rend="sup">00</hi> Down $5<hi rend="sup">00</hi> per Month</head>
+<p></p>
+<figDesc>Advertisement for Arrow Cycle Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The Crowell Publishing Company</head>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+ter</orig><reg>letter</reg></choice>, you will state, was a fabrication. You had manufactured it, let us say, from some of my old business correspondence. Yes, it was now destroyed. You had been insane for a space, but you had repented your folly in time. My dear, I can see you on the stand; you will make a splendid witness. By the way," he said of a sudden, "where is that letter?"</p>
+
+<p>"The one I showed to the doctor? I kept it," said the woman. "I brought it home with me. He said to destroy it with the rest&#8212;"</p>
+
+<p>"Good!" cried the man. "This is better and better. Our good friend has burnt his own bridge. He has complained about the instability of women; well, here is a climax for him."</p>
+
+<p>His voice rang with triumph. The spirit of the man, never cast down, now seemed to catch fire and blaze up. He gave no thought to the woman at his side, no thanks; he saw only himself, grave of face and gay at heart, making his accusers the laughing-stock of the village.</p>
+
+<p>"Where is the letter now?" he added, chuckling at the thought.</p>
+
+<p>"In the little cupboard in the kitchen," said the woman dully. "I hid it on the top shelf, under the paper, with the little box of powder. But what does it matter now?"</p>
+
+<p>The man was amazed at her apathy.</p>
+
+<p>"It matters this much: we must not neglect to destroy it," he cried. Then, quickly: "But what about our friend? What did old Gailliard have to say&#8212;when you told of this sudden change of heart?"</p>
+
+<p>"That was the trouble. I didn't get a chance. He was not home, they said. The servant told me that he had gone into the country for the day. But as I went out the gate I knew that he sat watching from behind the curtain. I knew the girl had lied. I did not see him, but I knew he was there.</p>
+
+<p>"Then something seemed to let down in me. I don't know how I got home. I don't know which way I came. I don't know who I met or what I saw&#8212;I didn't care. It was morning, and the sun was shining; that is all I remember. I don't know how I got lunch, or what passed in the afternoon&#8212;"</p>
+
+<cb n="3" />
+
+<p>"That is odd," broke in the baker. "I thought you seemed more cheerful than you had for days. We had a good lunch. The lentils were excellent, the coffee and the sweet p&#226;t&#233; a thing to remember. You ate nothing yourself, that is true: I couldn't even get you to touch a cup of coffee. But in the afternoon you helped me with the yeast, and we started the bread together. We made a most amiable business of it down there in the cellar, I can tell you. I remember speaking of the fine rising we should have to-morrow, that the dough should have good luck because we had both worked on it together, and you laughed, just like you laughed&#8212;"</p>
+
+<p>HE stopped suddenly. It  was as if for the first time he had begun to attach any special significance to that laugh.</p>
+
+<p>"Humph," he said thoughtfully.</p>
+
+<p>The woman went on, her voice monotonous as ever.</p>
+
+<p>"The first thing I remember," she said, "is supper. All the rest was in kind of a haze, like a dream one only half recalls. I was standing over the stove, with the coffee-pot in my left hand. The lid was lifted, and I set the pot down. Then I went to the little cupboard, where I had hidden the little box of white powder. I knew what I was doing. I knew what would happen: I would go just so far, then I would stop, just as I always had. So I opened the little box," said the woman, "but it was empty."</p>
+
+<p>"Eh?" said the baker. It was all he could say just then.</p>
+
+<p>"I found the thing already done," said the woman, drawing a great breath that was like a sob&#8212;"the thing I did not want to do. My mind had gone one way, my hands another&#8212;"</p>
+
+<p>If the man heard, he made no sound. We are all adepts in our sudden fore-
+
+<cb n="4" />
+
+<figure n="illustration">
+<head></head>
+<p>"'Child, the man must die. To-morrow is the last day.'"</p>
+<figDesc></figDesc>
+</figure>
+
+knowledge of death. For the baker it came like a candle in a cave; everything was suddenly cleared up. Then, in the silence, it began to strike eleven on the village tower.</p>
+
+<p>"Humph," said the baker presently. "I have an hour, another hour of life. Downstairs my bread rises in the pans; but to-morrow the baker will lie in bed&#8212;"</p>
+
+<p>Softly the woman beside him began to sob. The baker stirred in the darkness&#8212;turned toward his wife.</p>
+
+<p>"Adele," he said gently. "Don't cry, Adele. There, Adele; there, now&#8212;"</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="hotel.19180223">
+<body>
+
+<head type="main">How Courtesy Helped a Hotel Man</head>
+
+<p>A WOMAN with a bag in her hand entered the lobby of a hotel in Newark, Ohio, looked about hesitatingly, and then sank into a chair. She appeared to be greatly agitated about something; and Jess Walters, the manager, who had noticed her as she came in, stepped forward and, with a deferential bow, asked:</p>
+
+<p>"Is there anything we can do for you, madam?"</p>
+
+<p>"Oh, nothing much," she replied. "I have been hurrying to catch an interurban for my home out in the country a piece, and I have just missed it. May I sit here and rest until the next car? It will be only an hour, and I am so tired. Besides, it is starting to rain, and I did not bring my umbrella."</p>
+
+<p>"Certainly you may sit and rest," responded Walters cordially. "But come with me&#8212;I have something better than that."</p>
+
+<p>Picking up her bag, he turned to the woman, who arose with a smile of relief on her face, and walked along with him. He took her into the ladies' parlor, gave her a comfortable easy chair, and brought her a glass of ice water. Then he handed her an evening paper, turned on an extra light, moved her chair so she could see to better advantage, and excused himself.</p>
+
+<p>When the car was due, Walters reappeared, carrying a big <choice><sic>unbrella</sic><corr>umbrella</corr></choice>.</p>
+
+<p>"It is raining hard," he said, "and you will need this. Some of your folks can return it the next time they come to town."</p>
+
+<p>The next afternoon a middle-aged man strode into the hotel, looked about for a moment, and brusquely asked Walters if he was the one who had lent an umbrella to a woman from the country the day before. Walters admitted that he was the man.</p>
+
+<p>"Very well, sir," replied the man from the country, jerking out his words. "That was my wife, and I want to thank you. Here is the umbrella. Come and see us sometime."</p>
+
+<p>He mentioned his name and strode away, leaving Walters with the umbrella in his hand and a broad smile on his face. Later Walters went to call on his friends in the country, and they had long talks about matters of mutual interest.</p>
+
+<p>Among other things, Walters told them how he had started his career as a bootblack and bell-boy, how he became a hotel clerk and later manager.</p>
+
+<p>"Running a hotel is my business," said Walters, "but I have not yet found a hotel that suits me. My idea of a hotel is to furnish a room and bath for a dollar a night. Such a place would advertise itself, and after the initial outlay would not cost any more to take care of than one run on the usual plan."</p>
+
+<p>After questioning Walters closely for a while, his new friend said:</p>
+
+<p>"Walters, I believe I can help you start that hotel. We have been thinking of something of the kind to take up some vacant rooms in the Arcade, and your plan is just about what we want."</p>
+
+<p>Thus Walters came into touch with the Arcade Realty Company, headed by C. H. Spencer, in which Walters' country friend was interested.</p>
+
+<p>The Arcade is a beehive of business activity in the heart of Newark. It is cut both ways, with spacious arcades roofed over with glass, thus increasing the "street frontage" within the block.</p>
+
+<p>In one section there were two big second-story halls that the management could not rent to advantage. It was decided to cut these halls up into rooms and start a hotel to be known as the "Arcade," with Walters as proprietor and manager.</p>
+
+<p>The hotel began to show a profit after the second week. It has never been operated a single day at a loss. From time to time the place has been enlarged until now the original forty rooms have grown to seventy rooms, and the only way now to get more space is to "raise the roof" and build another story.</p>
+
+<p>Guests are not pulled and hauled by bell-boys and porters in search of a tip; but those who want special service can get it. Tips are also ruled out of the dining-room. Walters says:</p>
+
+<p>"The money lent to me to put up the hotel has been repaid, and I am almost ashamed to tell you how quickly it was done. The Arcade is now, yielding a substantial and steadily increasing profit.</p>
+
+<p>"My opinion is that a hotel of this kind can be successfully operated in any city with a population of 25,00o and over, and that in a city of several hundred thousand a hotel of five hundred rooms could be kept filled all the time.</p>
+
+<p>"Hotel-keeping is purely a merchandising proposition. If you give big value for the money you will have plenty of customers, and will make your money on the volume of business done. I aim to give the service that travelers want, and to interfere with them as little as possible."</p>
+
+<p>Walters is a member of the Newark Chamber of Commerce and active in the civic enterprises of Newark. He is also prominent in the hotel men's organizations of his State, and is popular among commercial travelers, many of whom make it a point to get around to Newark for Sunday.</p><closer><signed>Albert Sidney Gregg.</signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 21" xml:id="ew.issue.19180223.p021" />
+
+<text type="nonfiction" xml:id="ideas.19180223">
+<body>
+<head type="main">WAR-TIME $1 IDEAS</head>
+
+<div1>
+<head type="sub">Your Rusty Blades</head>
+
+<p>A LITTLE economy with safety razor blades will reward you. Use one blade till it seems too dull to serve again; then lay it aside, and do the same with all the others instead of throwing them away.</p>
+
+<p>To my surprise, I found that after an interval they would each give two shaves at least and in many instances more. You have heard about having a razor for every day in the week, using Monday's for Monday only, etc.? You see, it has the rest of the week to recover in, and a razor needs just that. So your safety blades are resting in the same way. Try it. You'll see.</p> <closer><signed>C. B. A.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">The Watch-Pocket Bank</head>
+
+<p>I AM a member of the watch-pocket bank. I am both cashier and paying teller. In the winter season I carry my watch in my vest pocket. This leaves my watch pocket free. I have developed the habit of putting stray pennies and nickels and dimes in there. Very often I have found myself unconsciously putting my nickel change away in this manner. I have been able to give my family many pleasant little treats by this simple method of saving.</p> <closer><signed>C. W. H. B.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">Saving Yarn for Soldiers</head>
+
+<p>KNITTING for the Red Cross and the  soldiers, I found that yarn was very expensive and the right kind hard to get. While looking over some winter garments I found an old knitted shawl. The yarn in it was almost as good as new. I unraveled the shawl, dyed the wool, and knitted a sweater that looked just as well as the ones made with new yarn.
+I passed the idea on to my friends, and they have been utilizing old garments. Even small articles, such as caps and mufflers, may be used, if the wool is of uniform thickness.</p> <closer><signed>L. F.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">A Tonic for Soles</head>
+
+<p>I USED to wear out a pair of shoes every three months. Then I bought a fifteen-cent can of copal varnish, and carefully painted the soles before wearing them. At the end of the first month, when in the usual course of events a new sole was necessary, I found the stain worn off, but the leather showed hardly any signs of wear. A second coat was applied, and that lasted a second month. I painted them a third and fourth time, and only at the end of the fourth month were repairs to the soles needed. I wore the new soles a day, and painted them. They too responded to the treatment, and lasted another three months.</p> <closer><signed>T. A. B.</signed></closer>
+
+</div1>
+
+<div1>
+<head type="sub">The Barber Loses Again</head>
+
+<p>WOMEN are generally more dexterous with their hands than men, yet your barber is probably a man. But not in my family.</p>
+
+<p>We purchased one pair of hair-clippers (the catalogue says "for human hair only") at a cost of $1.37, and one pair of barber scissors at 98 cents.</p>
+
+<p>We have been using them for ten months. There are four men in the family and we average about four hair-cuts a month.</p>
+
+<table>
+<row>
+<cell>40 hair-cuts at 35 cents</cell><cell>$14.00</cell></row>
+<row><cell>Cost of tools</cell><cell>2.35</cell></row>
+<row><cell>Saving in ten months</cell><cell>$11.65</cell></row>
+</table>
+
+<p>I assure you that you would pass my men without stopping to stare. They have the conventional appearance.</p> <closer><signed>MRS. M.</signed></closer>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="who.19180223">
+<body>
+<head type="main">Who is He?</head>
+
+<p>HE grew gray in the service of his country, regarded by many as an impossible military genius.</p>
+
+<p>Statesmen liked to hear him talk,&#8212;he had done brave things in strange parts of the world,&#8212;but they found his talk impractical.  It was unlikely that there would ever be another war of great magnitude, they argued, and if such a one did come, science and not strategy would decide it.</p>
+
+<p>He was forever talking strategy, this old man.  His military superiors laughed at him.  Strategy was all very well in fighting savages; Caesar and Napoleon had got away with it, and Hannibal, they said; but it had little place in the curriculum of a modern war college.  These were the years immediately preceding 1914.</p>
+
+<p>"I am old," he said; "I will retire."  He was then over sixty.  The small fortune he had inherited from thrifty parents had dwindled away while he was seeing service in the colonial possessions of the republic.  He had his retired general's pay, however, and a small estate in the vine country of France.  He planned to spend his last years cultivating flowers in a modest way.  And, as he made his plans, the Great War came.  One of the strangest things about this strange war is the chance it has given to old men to prove the efficiency of theories they had held while others laughed.  There is von Hindenburg&#8212;but he is another story.</p>
+
+<p>In July, 1914, the old French general brushed his service clothes, polished his sword, and reported for duty, only to find that another general had been promoted over his head and given a superior command.  It was Joffre, unerring judge of military genius, who took him out of reserve and sent him into Alsace.  The Germans found him waiting when they attacked Verdun.  Until Verdun's long agony his tactics of ambuscade and indirect attack had been held little short of preposterous.</p>
+
+<p>Then suddenly France realized that another great old man had come to the fighting fore; for Verdun held, giving back blow for blow.  This general went farther than any one else in despising Germany's artillery onslaught.  Strategically he lured the foe into furious fire upon points where the danger was least while he worked to "trim the edges."  He had used similar methods, in former years, in fighting savages in Algeria and quelling uprisings in China.  The Germans were no more to him than maddened Hottentots&#8212;and Verdun held.  Now he is known as "the hero of Verdun"&#8212;all France regards him as the eccentric genius to whom she must look for ultimate victory.</p>
+
+<figure n="photograph">
+<head></head>
+<p>Mme. Sklodowska Curie, about whom we told you last week.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="pompeian.19180223">
+<body>
+
+<figure n="advertisement">
+<head>Brings Beauty While You Sleep Pompeian Night Cream</head>
+<p></p>
+<figDesc>Advertisement for The Pompeian Mfg. Co.</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 22" xml:id="ew.issue.19180223.p022" />
+
+
+<text type="advertisement" xml:id="club.19180223">
+<body>
+
+<figure n="advertisement">
+<head>Isn't it funny</head>
+<p></p>
+<figDesc>Advertisement for The Cash-In Club</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="fiction" xml:id="herendeen.19180223.jump">
+<body>
+
+<head type="sub">Melrose's Jerry</head><p rend="jumpline">&#8212;Continued from page 5</p>
+
+<div1>
+<p rend="jump">came to the door at my ring. But of Jerry and herearly struggles with "The Maiden's Prayer" she had little to say. She was fond of Jerry. Jerry had often been a bit difficult. There had been other Melrose girls with talent.</p>
+
+<p>I called on an old schoolmate of Jerry's and her husband. They could hardly believe that I had come clear out from Boston for a look at Jerry's birthplace (I didn't confess I had come all the way from New York).</p>
+
+<p>Yes, they had heard Jerry sing in the old days before her Boston teacher forbade her singing any more in school. No, they had never noticed anything unusual about her voice. There was Sally Turner, now, and for that matter Maude Harrison. They had good voices, too. (How abashed would have been the critic of the Paris <hi rend="italic">Figaro</hi> who summed up the voice of <hi rend="italic">la Farrar</hi> with: "Unique. Astonishing perfection, irresistible seductiveness, and penetrating intelligence.")</p>
+</div1>
+
+<div1>
+<head type="sub">Not Exactly Pretty</head>
+
+<p>WAS she pretty in those days? I asked. Did she give promise of the face that has brought <hi rend="italic">Marguerite</hi> to life, that has made <hi rend="italic">Butterfly's</hi> grief almost too real to be borne, that has recreated the wild beauty of <hi rend="italic">Carmen</hi>?</p>
+
+<p>My host meditated a while, and slowly shook his head.</p>
+
+<p>"No, I wouldn't ever have called Jerry exactly pretty. She didn't begin to be as nice looking as Nellie Macomber, for example, or&#8212;"</p>
+
+<p>"But the young lady is going to write up a piece for her paper, John," interrupted his more gallant wife, "and I think we ought to say she was pretty&#8212;some people might think so, you know."</p>
+
+<p>Back at the post-office I met up with a Melrose enthusiast who wanted me to be sure to get in all the important facts about the town.</p>
+
+<p>"Now, about Geraldine Farrar&#8212;" I began.</p>
+
+<p>"Oh, Jerry," said he. "Well, she doesn't come around very often now, and her folks have moved away, but I think you ought to put in that we have three thousand voters and fourteen churches and fourteen policemen (a policeman for each church?) and two thousand pupils in the schools."</p>
+
+<p>"Yes," I said; "and you've had some pretty celebrated pupils come out of those schools, haven't you? Take Miss Farrar&#8212;"</p>
+
+<p>"Oh," said he, "Jerry wasn't there a great while; but Charles Cox, now&#8212;there's a distinguished citizen: one that has made Melrose famous, I can tell you. Elected to the State Senate, served his State with honesty and self-sacrifice, very public-spirited."</p>
+
+<p>"Jerry Farrar is public-spirited too, don't you think ?" I suggested. "The way she came back that time and gave a concert for all the school children and&#8212;"</p>
+</div1>
+
+<div1>
+<head type="sub">The "Star of Melrose"</head>
+
+<p>"OH, Jerry's all right," said my informant. "A little bit original, but a good heart. But, to tell the truth, I don't know as I'd put in too much about her. There's been a good deal written about Jerry, one time and another, and too much attention that way is liable to turn a girl's head."</p>
+
+<p>I found one of these write-ups in the issue of the Melrose paper for May 21, 1895, which ran as follows:</p>
+
+<p>It is believed that Melrose will one day be proud of the attainments of Mr. Sidney Farrar's thirteen-year-old daughter in the world of music. With hopeful anticipation her many loving friends will follow her future, which seems already unfolding, and as the child glides to womanhood our little twinkling star may rise by and by from dear Melrose and become resplendent in the musical firmament where all the world will love to listen and do her homage.</p>
+
+<p>Part of the local critic's prophecy has come true. Melrose's "little twinkling star" has certainly risen, and does assuredly twinkle in the musical firmament. But it seemed to me that down Melrose way they don't altogether hold with stars. Starlight makes them a little uncomfortable.</p>
+
+<p>For Melrose's part, when darkness comes on, it pulls down the shades and lights the kitchen lamp.</p>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="week.19180223">
+<body>
+<head type="main">This is His Week</head>
+
+<figure n="photograph">
+<head></head>
+<p>John Henry Newman was born February 21, 1801. The charm of his personality, the ascetic fervor of his life, and the fame of his preaching gave him a tremendous power over the religious thought of his day. He died in 1890.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>YOUNG Newman, ordained from Oxford to the English Church, began by attacking Roman Catholicism. Years later he formally retracted what he said at this time, and himself became a Catholic. In Catholicism only, he declared, could he find security from the fighting rebellious generation in which he lived&#8212;a generation that was trailing an ancient faith in the dust and believing in nothing that it could not prove.</p>
+
+<p>His letter to the Duke of Norfolk, written as an answer to an attack upon him from Charles Kingsley, contains a striking account of the inner workings of the churchman's mind:</p>
+
+<p>"People can not understand a man being in a state of doubt, of misgiving, of being unequal to responsibilities. He must have clear views one way or another, or no views at all. I believe that Catholics, whose beliefs are theorized and diagramed, are happiest, after all. One must be all-liberal or all-unyielding. There is no half way, as I see it."</p>
+
+<p>There was never any compromise with Newman. It was all the way&#8212;or nothing. Disraeli said of him:</p>
+
+<p>"He could have been a great liberal; as it is, he is a great reactionary."</p>
+
+<p>Nevertheless, people flocked to hear him preach. In the seventies people went to London to hear Cardinal Newman, as they went to Brooklyn to hear Henry Ward Beecher.</p>
+
+<p>One of the most curious things about the great Cardinal was the fact that the chief interest to him of the present lay always in its connection with the past or the future. His journeys always led him to conjure up figures of men who had passed before, or awakened imaginings for the future. The Mediterranean to him, for instance, was only the sea where the Romans and Carthaginians had fought, where the Phoenicians had traded, where Jonah was in the storm, where St. Paul was shipwrecked, where Athanasius journeyed. Later these waters inspired him to a vision of the future expressed by him in his hymn "Lead, Kindly Light."</p>
+
+<note type="copyright" place="margin_bottom">Published weekly by The Crowell Publishing Company at Springfield, Ohio. George D. Buckley, President; Lee W. Maxwell, First Vice President; Thomas H. Beck, Second Vice President; Albert E. Winger, Treasurer. Executive and editorial offices, 381 Fourth Avenue, New York City, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign countries, $1.75. Entered as second-class mail matter at the post-office at Springfield, Ohio, under the Act of Congress of March 3, 1879.</note>
+
+
+</body>
+</text>
+
+<pb n="Page 23" xml:id="ew.issue.19180223.p023" />
+
+<text type="advertisement" xml:id="vapo.19180223">
+<body>
+
+<figure n="advertisement">
+<head>VapoCresolene</head>
+<p></p>
+<figDesc>Advertisement for The Vapo-Cresolene Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>30 Days Free Trial</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>LePage's China Cement</head>
+<p></p>
+<figDesc>Advertisement for LePage's China Cement</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Print Your Own Cards</head>
+<p></p>
+<figDesc>Advertisement for The Press Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Hello, Scouts</head>
+<p></p>
+<figDesc>Advertisement for Manager, Scout Helps</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="married.19180223">
+<body>
+<head type="main">Why I Have Never Married</head>
+
+<p>IN the last issue of the old year we published the little article that is here reprinted in the box. As you will notice, it quotes some figures showing the low percentage of marriages among the women graduates of a medical college; and it was intended merely to raise the interesting question as to whether specialized training tends to decrease a woman's likelihood of marriage.</p>
+
+<p>Immediately we began to receive letters, of which the following is an interesting example:</p>
+
+<floatingText>
+<body>
+<p>"I'm glad that didn't come from your own pen, Mr. Editor. But I'll wager a man wrote it. Isn't it the quintessence of the flaunting egotism of the male?</p>
+
+<p>"Might it not be just possible that the women who 'know too much' are doing some of the choosing themselves&#8212;or the <hi rend="italic">not</hi> choosing, rather? Might it not be possible that the women who know too much know too well <hi rend="italic">what there is to know</hi> about the average man, and so are <hi rend="italic">themselves</hi> afraid? Might it not be possible that with the coming of knowledge they have learned that they, too, might better exercise a choice instead of that blind, unquestioning, 'innocent' acceptance of their days of unwisdom?</p>
+
+<p>"Perhaps the women who know too much are just a little too proud to take less than the best. Perhaps they prefer to suffer a certain heartbreak in the giving up rather than a possible life break In the taking. Perhaps they would rather face a solitary and barren future than risk marriage with a man whose inner temple has not kept a single unspoiled sanctuary. Perhaps they choose to keep their heart's treasure-chamber locked for a lifetime, and its wealth forever unspent, rather than empty it forth (as many a dear girl who 'did not know' has done) and make of its place a charnel-house of dead dreams, <hi rend="italic">too late</hi>.</p>
+
+<closer>"ONE OF THOSE COLLEGE WOMEN."</closer>
+</body>
+</floatingText>
+
+<p>Looking around among the well bred, intelligent people whom you know, haven't you often wondered why it that some of the best of them have never married ? Why is it?</p>
+
+<p>Have they let their careers absorb their interest until it is too late? Or is it just because our social organization is so faulty that the chance of the right sort of young people coming into contact with each other is limited?</p>
+
+<p>We know one of the most celebrated women in America. She has everything that fame or money can give her; yet she said one day, wistfully, that she would gladly trade  it all for a home and a husband and children.</p>
+
+<p>If you are a middle-aged, normal man or woman, and are unmarried, why is it?  We have a horrid human curiosity to know. And we will pay $5 each for some 500-word letters on the subject that are frank and sincere. if you have something to say, say it and send it to our office, 381 Fourth Avenue, New York, before March 16. Keep a carbon of your letter:  the original will be destroyed when the letters are printed.</p>
+
+<floatingText>
+<body>
+<head type="main">THIS IS THE ARTICLE THAT STARTED IT</head>
+
+<p>ARE <hi rend="italic">men afraid of women who "know too much"?  Do they instinctively shun such women when they come to choose their mates?</hi>  The question is raised by a report published in the <hi rend="italic">Journal of Heredity</hi> showing the exceedingly low percentage of marriages among women graduates of medical schools.</p>
+
+<p>In the years between 1897-1907 sixty women received the degree of M. D. from Johns Hopkins University.  Three of these have since died:  of the remaining fifty-seven only twenty-one have married.  In other words, the marriage rate among them is only 36.8 per cent.</p>
+
+<p>Among all college women the marriage rate is below the average:  and these figures would seem to show that the higher the education the fewer the marriages.</p>
+</body>
+</floatingText>
+
+
+</body>
+</text>
+<text type="nonfiction" xml:id="blues.19180223">
+<body>
+<head type="main">How I Conquered the Blues</head>
+
+<p>I LEFT college full of hope and determination to open the world's oyster. My first job was that of mail clerk
+at eighteen dollars a week. Within a year I left to join the forces of my present employer as junior correspondence clerk at twenty dollars. Slowly I rose to twenty-five. Then, with youth's fearless abandon, I married. My wife and I managed fairly well on our salary for the first year. Then our first baby came&#8212;but no raise at the office. Things began to tighten.</p>
+
+<p>Six months later I got a three-dollar raise. Two other men in the same office and of shorter service got five dollars. Instead of bucking into the work harder than ever and thus earning a bigger raise, I drifted into sullenness and resentment.</p>
+
+<p>Things began to get worse. Several customers whose correspondence I handled proved troublesome. My employer called me into his office and carpeted me. I nearly lost my head. But I remembered that two other mouths were dependent upon me, and for once I curbed my tongue.</p>
+
+<p>That last interview with the boss did me no good, however. Instead of the curt nod of recognition which he usually gave, I found myself cut. I got blue. At nights I could do nothing but swear at myself and the world in general.</p>
+
+<p>"Why don't you try to forget the office when you're at home?" said my wife, one night.</p>
+
+<p>I snarled some reply; but finally the thought got into my head, though in distorted fashion. I started to work out a watch-the-clock philosophy. Next day, as I took my seat at the desk, I remarked to myself: "Well, I don't care a hang. Eight hours till five o'clock. Let 'em rip!'</p>
+
+<p>Strangely enough, this misguided indifference helped me. If my work was done mechanically, at least it was done more efficiently.</p>
+
+<p>One night I picked up a novel which my wife was reading, and in it I saw this quotation from Stevenson: "It is better to travel hopefully than to arrive." The line stuck in my memory.</p>
+
+<p>Next day, in an ironic mood, I typed it out and placed it on the desk before me. It proved a mental corrective. By degrees I found myself working, not to slam down the desk at five, but to get all my work done at that time.</p>
+
+<p>I hit upon a method of saving time and labor in handling correspondence. I talked the idea over with my wife. She suggested that I send a memorandum to the boss. I hesitated, but next day I typed my suggestion. The boss congratulated me upon the idea.</p>
+
+<p>The system was installed, and worked well. It did save time and prevented disturbance. I became interested in seeking other improvements. I discovered short cuts in my work. And not long afterward I got an additional batch of customers' correspondence and a more than welcome raise of five dollars.</p>
+
+<p>That started me on the road to doing things. And my wife, who had patiently borne my bickerings, came forward with other helps and suggestions. Since then I have had another five-dollar raise. The work has become really interesting. I have found a way of turning my ambition into effective channels.</p>
+
+<p>It was my wife who pulled me out of that lake of Prussian blue. I take off my hat to the wives of all correspondence clerks.</p> <closer><signed>T. A.</signed></closer>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="dean.19180223">
+<body>
+
+<figure n="advertisement">
+<head>Danger Ahead</head>
+<p></p>
+<figDesc>Advertisement for Dean Medicine Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>10 Cents a Day Pays for This Symphonola</head>
+<p></p>
+<figDesc>Advertisement for Larkin Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Bargains In Seeds</head>
+<p></p>
+<figDesc>Advertisement for Iowa Seed Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Ornamental Fence</head>
+<p></p>
+<figDesc>Advertisement for Kokomo Fence Mach. Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>62 Breeds</head>
+<p></p>
+<figDesc>Advertisement for F.A. Neubert</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Wanted &#8212; Your Idea</head>
+<p></p>
+<figDesc>Advertisement for Richard B. Owen</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The New Book Patent-Sense</head>
+<p></p>
+<figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for Randolph &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Songwriter's "Manual and Guide"</head>
+<p></p>
+<figDesc>Advertisement for Knickerbocker Studios</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Fix Your Own Salary!</head>
+<p></p>
+<figDesc>Advertisement for Every Week, Woman's Home Companion and The America Magazine</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 24" xml:id="ew.issue.19180223.p024" />
+
+<text type="advertisement" xml:id="woodbury.19180223">
+<body>
+
+<figure n="advertisement">
+<head>Sunlight can be kind or cruel</head>
+<p></p>
+<figDesc>Advertisement for Woodbury's Facial Soap</figDesc>
+</figure>
+
+</body>
+</text>
+
+</group>
+</text>
+</TEI>

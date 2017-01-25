@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170423">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, April 23, 1917</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19170423</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">In the original publication digitized for this project, Pages 21 and 22 are missing from this issue.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1917-04-23">April 23, 1917</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015-01-25"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2009-11-05"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2009-09-25"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009-08-26"><name>Katie Heupel</name>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+        
+<pb n="Cover" xml:id="ew.issue.19170423.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1917, By the Crowell Publishing Co.</publisher>
+<pubPlace></pubPlace>
+<docDate>April 23, 1917</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head></head>
+<ab type="credit">M.L. McMillan</ab>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19170423.p002" />
+
+<text type="advertisement" xml:id="gem.19170423">
+<body>
+
+<figure n="advertisement">
+<head>Gem Damaskeene Blades</head>
+<p></p>
+<figDesc>Advertisement for Gem Cutlery Co., Inc.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>You Can Earn $250 a Month With This New Machine</head>
+<p></p>
+<figDesc>Advertisement for Haywood Tire &amp; Equipment Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$1 a week buys a Black Beauty Bicycle</head>
+<p></p>
+<figDesc>Advertisement for Haverford Cycle Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Let Me Keep Your Ice for 30 Days</head>
+<p></p>
+<figDesc>Advertisement for White Frost Sanitary Refrigerator</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Spring-Step Rubber Heels</head>
+<p></p>
+<figDesc>Advertisement for Spring-Step Red Plug Cushion Heel</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton.19170423">
+<body>
+
+<head type="main">There Is a Great Deal of Encouragement in History for Most of Us</head>
+
+<p>A MOTHER writes me a very discouraged letter. Her boy is good and hard-working, but he is very backward in school.</p>
+
+<p>In fact, his teachers have about given him up in despair.</p>
+
+<p>Both the boy's father and his mother stood well in their classes: they are fond of books and study. They can not understand what is the matter with their boy.</p>
+
+<p>Fortunately, there are two very encouraging things that can be said in reply to a letter like this.</p>
+
+<p>One of them I have just been reading in a Life of Kitchener by Harold Begbie:</p>
+
+<quote>
+<p>Nothing in Herbert Kitchener created passionate friendships or stirred the admiration of smaller men among the cadets. He was remarkable for quickness in mathematics, but in everything else was accounted thick-headed&#8212;a slow coach, climbing the dull hill of duty, which has no dazzle of adventure on the crest.</p>
+
+<p>He managed to scramble into Woolwich: he was not high on the lists; and no one thought anything about him. After leaving Woolwich he got his commission in the Royal Engineers; and still no one thought much about him.</p>
+</quote>
+
+<p>The boy who was dull and thick-headed&#8212;whom nobody thought much about&#8212;grew up to become the idol of an empire.</p>
+
+<p>Cardinal Wiseman, as a boy, was termed "dull and stupid."</p>
+
+<p>Charles Darwin, who changed the whole channel of thought in the scientific world, was so lazy and do-less in boyhood that his father predicted he would be a disgrace to the family.</p>
+
+<p>Heine, by his own confession, "idled away his school days and was horribly bored" by the instruction given him.</p>
+
+<p>Wordsworth was so lazy up to the age of seventeen as to be "incapable of continued application to prescribed work."</p>
+
+<p>Henry Ward Beecher barely succeeded in graduating from Amherst, having stood almost at the foot of his class; and James Russell Lowell was suspended by Harvard "on account of continued neglect of his college duties."</p>
+
+<p>First of all, to this mother of a "backward" boy I would say: Have courage. He travels in good company. Hundreds of those of whom the world is most proud have been given up in despair by their parents in youth.</p>
+
+<p>Only when the spark of their special interest was struck have they shown the stuff that was in them.</p>
+
+<p>And the second thing that may be said to such a mother is even more encouraging.</p>
+
+<p>Dullness is the rule in the world: brilliance is the exception.</p>
+
+<p>Business and government and law and medicine and the church are ruled by mediocrities.</p>
+
+<p>"I have talked with great men," said Lincoln, "and I do not see how they differ from others."</p>
+
+<p>The truest bit of business philosophy ever penned is contained in the story of the tortoise and the hare.</p>
+
+<p>Any one who watches business life carefully for any length of time is continually seeing brilliant, unstable men overtaken and surpassed by men with half their inherent ability, whose very mental slowness has inculcated in them a mastering persistency.</p>
+
+<p>The mother of the boy who invariably leads his class has reason to be concerned: the mother of the dull boy might wish him more cleverly endowed, but she need not despair if only his slowness to learn fosters thoroughness.</p>
+
+<p>"My master whipped me very hard," says Dr. Johnson. "Without that, sir, I would have done nothing."</p>
+
+<p>Yet he who as a boy had to be whipped to learn, set himself in later life doggedly and unrelentingly to a task that raised him high above the brilliant men of his time in literary prominence, and made him a citizen of the ages.</p>
+
+<closer><signed>Bruce Barton, Editor.</signed></closer>
+
+
+
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19170423.p003" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 4, No. 17<lb/>
+April 23, 1917<lb/>
+
+Every Week<lb/>
+
+$1.00 per Year<lb/>
+3 Cents a Copy</p>
+</figure>
+</body>
+</text>
+
+<text type="fiction" xml:id="wilson.19170423">
+<body>
+<!-- 
+<figure n="illustration">
+<head></head>
+<p>"'What's the experiment?' I asked them. 'Tom will lie to you,' said the girl. 'He's still a mere man. He will go away, and I'll tell you.'"</p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="main">THE PAIN OF YOUTH</head>
+
+<byline>By <persName type="author" key="#Wilson, John Fleming">JOHN FLEMING WILSON</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#McCaig, Robert">Robert McCaig</persName></byline>
+
+<p>TOM ENDICOTT drew me aside out of the throng of sight-seers off the colonial liner <hi rend="italic">Ventura</hi>. He swung his cap from his silver-gray head and smiled.</p>
+
+<p>"You are a messenger from Ann Augusta," he murmured. "From New York!"</p>
+
+<p>Waikiki beach spread around me its endless serenity of splendor; and before my fancy was the face of a girl who had never seen the isles of Hawaii and (I thought) would scarcely recognize her former lover in the scarred man who looked at me with kindling eyes.</p>
+
+<p>"Not directly," I replied, "She mentioned your name in a crush when I told her I was going to the South Seas."</p>
+
+<p>"I ran away from her," he confessed. "I tried to explain, but Ann Augusta couldn't understand."</p>
+
+<p>"You mean you will never go back?" I demanded.</p>
+
+<p>"Not to sue at the feet of Ann Augusta," Endicott responded. "I loved her, man! Why not? She was&#8212;is&#8212;lovely and charming and splendid and adorable. Of course I loved her, just as a dozen other men did. You say she understands? I deny it. You won't understand, either, when I tell you I have discovered that there is a bond inexpressibly stronger and more enduring than my affection for her."</p>
+
+<p>I stared at him. He was unbelievably self-confident, a different person from the awkward fellow Ann Augusta had stooped to let adore her. Only one thing could make such a change.</p>
+
+<p>"Another woman!" I said. "Why not be fair and tell her? She hasn't married. She is still as lovely as ever. Is it square to let her wait for you?"</p>
+
+<p>"Another woman?" he repeated thoughtfully. "Well, hardly, in the sense you mean. But there is another woman. She isn't handsome or alluring or fascinating; neither you nor Ann Augusta
+
+<cb n="2" />
+
+would understand me if I tried to make it plain; and yet I've spilled my world for her, gone the limit&#8212;and without regret."</p>
+
+<p>"Married?"</p>
+
+<p>"No," he replied promptly. "She doesn't care for me that way. She's only my best friend&#8212;my pal."</p>
+
+<p>"I <hi rend="italic">did</hi> hear something," I murmured.</p>
+
+<p>"And got it wrong," he quickly told me. "I know it seems incredible to you folks in the States, who live back of a number over a door, eat at fixed times, dance at other fixed hours, and turn the lights out when the clock strikes. But all your lack of comprehension doesn't matter. I'm living a life without clocks, without street numbers, and where one dances when one feels like it. I don't glance at my watch and say, <hi rend="italic">'Too late.'</hi> Nor do I get up in the dawn with my mind full of things to say and do, and turn and twist and fume and fret and tell myself, <hi rend="italic">'It's too early.'</hi> I'm bound to a tremendous adventure by the unbreakable bond of friendship."</p>
+
+<p>"You admit that it is a woman," I reminded him dryly.</p>
+
+<p>"An adventure," he corrected me.</p>
+
+<p>"Well, an adventuress," I said lightly.</p>
+
+<p>Endicott laughed.</p>
+
+<p>"I wonder what Nan Harloe would say if she knew you had called her that."</p>
+
+<p>IT was exactly as if the circle of land and sea in the midst of which we stood widened till we were alone in a space bounded by vague, far horizons. I was silent. Memory recalled Nan Harloe. Though I hadn't ever dreamed of her in connection with Tom Endicott, it seemed as if the mere utterance of her name put Ann Augusta out of the problem.</p>
+
+<p>Nan, daughter of Ted Harloe! The
+
+<cb n="3" />
+
+man who had arrived after a few flamboyant years of speculation, and died in his prime&#8212;plunger, sportsman, and gallant gentleman. He had left his daughter a fortune. She had accepted it quietly and done nothing with it. She had neither beauty nor charm nor grace; nothing of the fine allure that ought to have been her heritage from Ted. I saw her as she was: a slim, awkward woman&#8212;insignificant even with all her wealth.</p>
+
+<p>"The deuce you say!" I stammered. "Where is she?"</p>
+
+<p>"Not in New York&#8212;not here, old friend," he said. "When I want to locate her I have to look up the charts. You don't go so many stations of the subway, nor so many half miles in a taxi. Instead you run down so many degrees of latitude and longitude, and a fine morning or a still evening you heave to off an island, and pick up your glasses and adjust them to your eyes, and there she is, right in the center of your field of vision. That's the way I always see Nan&#8212;in the very middle of a bright circle."</p>
+
+<p>"I remember now&#8212;I saw her name in the papers," I began.</p>
+
+<p>"Name in the papers!" he snorted. "Pooh! her name is in the sky. She's the biggest personage in our hemisphere, the only news in Oceanica&#8212;and my pal."</p>
+
+<p>"You had some money yourself," I mused. "So I'll do you the grace to suppose it wasn't her fortune. And Ann Augusta has money."</p>
+
+<p>"You're not in the city," he answered roughly. "Forget the rubbish they talk back there. Go back and tell Ann Augusta I'm bound west around the world&#8212;and I'm not due back till too late."</p>
+
+<p>"Don't be a cad," I told him. "You
+
+<cb n="4" />
+
+ought to have some kindly message to send back. After all, Ann Augusta is a splendid girl&#8212;better than you deserve."</p>
+
+<p>"Possibly," he answered. "I subscribe to her fineness and value. Man, I loved her&#8212;love her this minute. If I were free I'd go back as fast as steam could carry me, and marry her. That's not the question. I'm tied, hand and foot. I've started on the most gorgeous adventure any man ever tackled. I must see it through."</p>
+
+<p>"I promised Ann that I'd bring her the truth," I went. on. "Think it easy for a proud woman to come to a mere friend and ask him, when going across the world, to see whether a man isn't coming back to tell her he loves her? It isn't. But Ann Augusta took that terribly hard step for your sake. I can't see what there is about you so worthwhile. If I were Ann Augusta I'd forget you. But it seems she can't. You've got to tell me the truth&#8212;all the truth. You may say it's none of my business, and that Ann Augusta ought to be ashamed of herself to pursue a man who doesn't want her. But I undertook the job of finding you and reporting the facts, and I'm not going to be put off by mere commonplaces."</p>
+
+<p>"Commonplaces! Do you think what you call a mere commonplace would switch me from marrying so fine a girl as Ann Augusta&#8212;I love her, you know&#8212;and exile me here?" He scowled at me.</p>
+
+<p>"I don't understand," I told him. "Excuse my bluntness, but Nan Harloe isn't the girl to make a sensible man like you lose his head."</p>
+
+<p>He put both hands on my shoulders.</p>
+
+<p>"My schooner is in Pearl Harbor. You and I are talking different languages. I'll just give you some real news to carry back to New York, old friend. Are you game?"</p>
+
+<p>Three weeks later Tom Endicott
+
+
+<pb n="Page 4" xml:id="ew.issue.19170423.p004" />
+
+lounged up from the stuffy cabin of his schooner <hi rend="italic">Lady Lass</hi>, and puckered his eyelids to see through the golden haze of the setting sun. A small black cone rose due west, in the midst of the silent ocean.</p>
+
+<p>"That's where she is," he announced, "unless she took canoe and beat up to Loyal Island."</p>
+
+<p>He muttered a command, and the Kanakas of the crew prepared to snug the schooner down for the night.</p>
+
+<p>"You are going to keep away till morning?" I asked, with frank impatience.</p>
+
+<p>"Probably," he returned. "Nan is funny. I never make a landing till I get her signal."</p>
+
+<p>Very slowly we entered the velvety gloom under a lofty peak that swept upward to the stars. Still neither light nor sound told us that our arrival had been noticed.</p>
+
+<p>Suddenly a yellow flash shot up from what I supposed was the beach; it was followed by a faint glow.</p>
+
+<p>"She's there," Tom said, swinging round on me and calling to his men.</p>
+
+<p>The schooner headed up to the slow swelLs, a whale-boat was got over, and we left the ship.</p>
+
+<p>We landed briskly through the single breaker on the beach, and jumped out. I saw, through the lacy foliage that veiled the upward slope, a small fire burning.</p>
+
+<p>"Nan!" Endicott cried.</p>
+
+<p>A woman came down swiftly. The Kanakas mumbled hoarse greetings and withdrew. Tom caught at a white hand and shook it heartily.</p>
+
+<p>"I've brought down a visitor," he said. "From New York."</p>
+
+<p>It was Nan Harloe who came close to me, and looked at me through the dusk, and laughed.</p>
+
+<p>"I told Tom his friends would be wondering about him," she said, without any embarrassment. "How did you find him?"</p>
+
+<p>"I was down at Waikiki for a swim, and he dragged me out of a crowd and intimated I was a quitter," he told her. "He couldn't understand, so I brought him down to see."</p>
+
+<p>The woman led the way back toward the little fire, around which several natives were squatted.</p>
+
+<p>"I'm not what you came to see," she remarked. "And I'll warrant that's the impression Tom gave you."</p>
+
+<p>I suppose I murmured politely, for Nan seated herself with a sweep of short skirts, and nodded dismissal to her servants.</p>
+
+<p>"I've had my supper," she said. "I know you've had yours."</p>
+
+<p>Endicott fished in various pockets and brought out various letters, which he handed her. She glanced at the envelops and tucked them away.</p>
+
+<p>"I'll have plenty of time later," she told us. "First, what is the news from New York?"</p>
+
+<p>I SHALL always remember my astonishment at the fact that within the next fifteen minutes I was able to summarize all the news of two years. And newspapers are issued fresh every hour! The two of them listened quietly, catching now and then at a name, but apparently not greatly interested. At last Nan Harloe turned abruptly to Tom.</p>
+
+<p>"Are you going back to Ann Augusta?"</p>
+
+<p>"I've tried to explain that I can't," he answered.</p>
+
+<p>"I'm not so sure," she replied. "Our experiment seems to be rather tiresome. I don't think it proves anything worth while. I've been thinking, since you left a couple of months ago, that you had better give it up."</p>
+
+<p>"Oh, I say, Nan!" he protested. "Here I'm back after deciding that it was absolutely a success. Anyway, you remember we haven't found anything positively against it."</p>
+
+<p>"Explain," I broke in. "I came down here to plead the cause of a girl as straight and fine as any breathing. She thinks she still cares for Tom. Tom says he still cares for her, but drags me a couple of thousand miles farther to see you. You tell me all this is an experiment. Well and good! An experiment in what?"</p>
+
+<p>"Tom will lie to you," she said promptly.</p>
+
+<cb n="2" />
+
+<p>"He's still a mere man. He will go away, and I'll tell you."</p>
+
+<p>Endicott rose reluctantly.</p>
+
+<p>"Look here, Nan," he urged her. "It's all right for us to pooh-pooh the people down here. But here's a man from New York. I won't have him get a wrong impression. "</p>
+
+<p>He waved one arm menacingly. "I could kill him if he misunderstands&#8212;"</p>
+
+<p>"It was part of our bargain that we were not to care about that," she reminded him coldly. "I've noticed several times that you cared more for what people said than for our own objects. That's why I begin to confess to myself that the whole affair is bound to fail."</p>
+
+<p>He sulked above us till she rose, patted him on the cheek, and kissed him full on the lips. "Go away!" she murmured.</p>
+
+<p>"WHEN we were alone by the embers of fire, she began to laugh.</p>
+
+<p>"It strikes me as delightful that you are come down here just in the nick of time," she said. "Tom and I were getting at cross-purposes. It looked as if one of us would have to go back to New York to decide whether we were going to succeed or not. And you turn up and can decide for us right on the spot!"</p>
+
+<p>"Decide what?" I asked.</p>
+
+<p>"First," she said calmly, "do you think I am beautiful enough to take Tom away from Ann Augusta?"</p>
+
+<p>With the simplicity of a child she moved close up to me. I stared.</p>
+
+<p>"Yes," I said presently. "I used to think you were homely. I take it back. You have&#8212;developed."</p>
+
+<p>"I was afraid so," she answered. "But
+
+<note type="editors">
+<floatingText>
+<body>
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+<p>ELIZABETH YORK MILLER is an American girl who made good in newspaper work, first in Chicago, later in New York, and finally in London, where she now lives and writes both novels and plays. You probably have met her work elsewhere, but with us she appears next week for the first time in a new serial "The Blue Aura." It's the story of the married life of a girl of the theater; and it is told with a special and peculiar charm. That's the word for it&#8212;"charm."</p>
+</body>
+</floatingText>
+</note>
+
+back in New York you'd find in ugly again. Tom doesn't realize that.</p>
+
+<p>"Bless my soul!" I ejaculated.</p>
+
+<p>"No. He's falling in love with me,'" she went on&#8212;"the very thing he wasn't to do. And supposed he'd never forget Ann Augusta. Not really falling in love," she went on; "only thinking he's in love with me. But that's worse than the reality." She looked at me dazzlingly. "I'm going to marry another man, you see."</p>
+
+<p>"Whom?"</p>
+
+<p>She laughed gently. </p>
+
+<p>"He's yet to be found! But that was decided long ago. I was to have this chance&#8212;then Tom was going back to Ann." </p>
+
+<p>"This chance to make Tom fall in love with you?" I suggested.</p> 
+
+<p>"No; my chance to meet a man I could love," she told me: "Now for the first misunderstanding. You think&#8212;everybody thinks&#8212;that I'm in love with Tom.  I'm not."</p>
+
+<p>Silence seemed best. Nan raised her eyes to mine.</p>
+
+<p>"You know how I lived in New York? Of course you do. I was lost in the big city. I wasn't counted in. I had only money. And money didn't make me worth while to men like&#8212;like Tom Endicott. I had no chance at all! So I turned gambler. I staked my all on"&#8212;she indicated the sweet darkness about us by a gesture at once imperious and delicate&#8212;"my all on this."</p>
+
+<p>"Your all is right," I responded.</p>
+
+<p>"Everything I have," she said. "My father made his fortune that way. Not a penny did he hold back when the time came. He bet his livelihood, my education, my happiness, his own position&#8212;he bet his last possession past and to come
+
+<cb n="3" />
+
+&#8212;on a single turn of the market. He won. That's the way one wins in this world. So I wagered all I had&#8212;except my money. For they don't take gold in this game. It buys no chips."</p>
+
+<p>"The stake?" I asked gently.</p>
+
+<p>"A moment's life," she whispered.</p>
+
+<p>"With Tom?"</p>
+
+<p>She laid one slim hand on my knee.</p>
+
+<p>"How blind you are! No. With the man I'll know I love. How can I explain? Tom understood. He has loved Ann Augusta. I have never loved anybody. Liked men, yes. But no man ever made me feel&#8212;made me forget everything else in the world and not care for anything except to be loved. In New York I would never find that man. But somewhere in the world there is a man who would wager his life for a&#8212;a kiss from me."</p>
+
+<p>"You will find him here?" I demanded.</p>
+
+<p>She rose swiftly.</p>
+
+<p>"I shall not," she whispered, "I've lost. To-morrow you shall take Tom Endicott back to New York."</p>
+
+<p>I rose and caught her by the hand.</p>
+
+<p>"Riddles," I said roughly. "Listen to me! I find Endicott, and he tells me in one breath that he still loves Ann Augusta and that he is engaged on an adventure with you so splendid that he can't go back to her. He speaks of a bond so unbreakable that he laughs at all else. You tell me you quit New York and sacrificed your all&#8212;"</p>
+
+<p>"Merely my reputation," she flared.</p>
+
+<p>"Your reputation, then. You come down here to an unknown island alone with Tom Endicott. You aren't in love with him, nor he with you.  Yet <hi rend="italic">he</hi> refuses
+
+
+to quit, and you say you have lost. Why won't he go back? What have you lost&#8212;apart from your&#8212;your self-esteem?"</p>
+
+<p>"He shall tell you himself," she anwered, and whistled shrilly.</p>
+
+<p>ENDICOTT strode down the slope into the light of the rising moon. He looked very tall and strong and capable; but an ugly frown was on his forehead.</p>
+
+<p>"I can't make him understand the difficulty," she told him directly.</p>
+
+<p>"Naturally," he responded. He swung on me. "Nan wanted experience and a chance to see the world. She trusted me, and I brought her down here. Pals, not lovers. You saw her kiss me. Well, neither she nor I count such kisses. We think heaps of each other, but we aren't in love. We admitted when we left New York that people would misunderstand. That was accepted. We know there has been nothing out of the way. Just pals. Two people wanting the same thing and going after it with our life in our hands. And we've missed what we were after. There's no thrill to it."</p>
+
+<p>"None," she confessed. "I used to think that just to be a man's companion, to be always with him in his doings and his goings, would be magnificent. I dreamed of being Tom's pal. I am. And I'm sick of it. He thinks of Ann Augusta, and I think of nobody at all." She laughed. "We've proved one thing: a man and a woman can be the finest friends in the world."</p>
+
+<p>I turned on her severely. "Not long ago you told me Tom was in love with you."</p>
+
+<p>"Oh!" she cried.</p>
+
+<p>Endicott laughed indulgently.</p>
+
+<p>"She means by that that I've tried to patch this rotten business up by telling
+
+<cb n="4" />
+
+her that, as she doesn't meet with any good chap and I'm rather inclined to like this free life better than New York, we ought to get married. She says that would be an awful come-down&#8212;and she's right. I'm not the man. She doesn't like me well enough; do you, old girl?"</p>
+
+<p>"I do not," she responded firmly. "I could see you a thousand times and never care whether I kissed you or not. You <hi rend="italic">are</hi> a good pal, though. None better!"</p>
+
+<p>"Thanks," he responded. "Same to you, Nan. Hang it all, I wish I knew who you <hi rend="italic">were</hi> in love with," he continued. "For a long time, now, I've seen that you were remembering somebody. Can't kick on that myself, seeing I am still bound by Ann Augusta. But I'm frank about my infatuation! You might tell a fellow!"</p>
+
+<p>"I'm in love with nobody!" she replied. "You are impossible, with your heartsearchings and your surmises and your wise thoughts. You two be off to bed!"</p>
+
+<p>WE slept in a grass-roofed hut a mile distant from the cottage Miss Harloe had built for herself, and before midnight Tom had told me enough of the history of the past two years for me to understand that Nan had actually made money in various ventures, proving herself equal to the many emergencies that arise in lonely seas, and developed into a very competent individual.</p>
+
+<p>"A round dozen of the biggest men between Manila and Singapore and Yokahama and Papeite are in love with her," he told me. "She laughs at them all, though I'm sure she likes one or two of them. Some day there'll be bloodshed. Nan's the finest pal in the world; but when it comes to the tender passion, she doesn't know anything about what fools it makes of men. <hi rend="italic">She</hi> thinks she'll fall in love with somebody in a tremendous flash, and that nothing else will matter after that. Meanwhile&#8212;a lot of perfectly good fellows are slowly working themselves into frenzies over her. When the crash comes I must be there. She can never handle the situation."</p>
+
+<p>"Then you will return to Ann Augusta, I suppose?" I dryly suggested.</p>
+
+<p>"That wouldn't be fair to Ann," Tom explained patiently. "And I've got to see Nan safely settled."</p>
+
+<p>In the morning I found my hostess calmly superintending the punishment of an unruly servant. This attended to, she joined Tom and me at breakfast, and we discussed the day's work while the schooner edged in from sea.</p>
+
+<p>I found that Nan was anxious to be off to Melbourne on some trading-scheme or other. She and Tom disputed briskly as to who should take the schooner. No other vessel would call for a couple of weeks.  At last it was referred to me. Could I wait with Endicott, or must I hurry back to Honolulu?</p>
+
+<p>The situation was unpleasant; I was rude, and insisted that I had come only as an ambassador.</p>
+
+<p>Nan yielded. "Tom shall go back with you," she said. "To New York."</p>
+
+<p>He demurred at first&#8212;at last acquiesced. He and Nan went away to settle their business affairs, and returned apparently vexed with each other. She told me he was unreasonable.</p>
+
+<p>"Financially we have made a howling success of the venture," she told me. "Now Tom thinks he must give me more than my half of the profits. I fancy that is a man's way of dissolving a partnership with a woman, of letting me know that I'm no longer to be counted in."</p>
+
+<p>"I'd never have gone into the business if it hadn't been for Nan," he insisted. "She ought to take the money we've made, especially as pulling out on such short notice. That's business."</p>
+
+<p>"I hate you!" she affirmed. "You go and spoil everything! One would think you felt it necessary to remunerate me for my&#8212;my neglect of the conventions in joining you as a partner. You would never have thought of it unless you had also thought of Ann Augusta. I'm not in love with you. We've been no more than pals, and when we quit we quit even. Save your generosity for your wife."</p>
+
+<p>"Hang it!" Tom said gloomily. "We
+
+<pb n="Page 5" xml:id="ew.issue.19170416.p005" />
+
+<figure n="illustration">
+<head></head>
+<p>"'Nan!' Overhead the world shattered away in unspeakable tumult, and the sea battered to their very feet. Heedless the pair stood, clasped in each other's arms."</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 6" xml:id="ew.issue.19170423.p006" />
+
+got along splendidly. I was perfectly happy. I wasn't ever going to leave. But everybody thinks Ann Augusta has a claim on me. And here's our adventure gone on the rocks! Look here, Nan&#8212;marry me. That will put me out of Ann's thoughts and give me the right to&#8212;"</p>
+
+<p>"I yield no rights," she said firmly.</p>
+
+<p>The man stared at her.</p>
+
+<p>"Now, if I were a pirate," he muttered.</p>
+
+<p>"You aren't! You're a bully nice boy and a good pal. But you don't know the first steps in piracy&#8212;nor ever will. Lawful gains for you, Tom&#8212;and Ann Augusta as a reward."</p>
+
+<p>Their parting was of the briefest; they shook hands, and Nan, relenting at the last, offered him her burning cheek to kiss. He pecked at it, turned away surlily, and leaped into the whale-boat.</p>
+
+<p>As we clambered aboard the schooner, he turned to me with a grimace.</p>
+
+<p>"The only two kisses she ever gave me were in your presence," he mumbled. "Now what do you think of that?"</p>
+
+<p>"I don't think of that," I told him in irritation, "except that you are a pair of fools. What did you think you'd discover on this wild-goose chase?"</p>
+
+<p>"I'll tell you what <hi rend="italic">I</hi> hoped for," he said bitterly. "I hoped I'd fall in love with the finest girl God ever made. I didn't. Now"&#8212;he roared at his crew&#8212;"we'll spread some canvas and heat up for the American coast and Ann Augusta!"</p>
+
+<p>An hour later, as the <hi rend="italic">Lady Lass</hi> rounded the little headland, I picked up the binoculars and gazed back. On the shining beach, right in the midst of the crystal circle made by the glass, I saw Nan Harloe. She was looking at us, quite still, and remote.</p>
+
+<p>FOUR days thereafter Tom Endicott tumbled out of his berth at midnight, took the steps to the deck in two leaps, and I heard the tramp of bare feet, the rising song or the sleepy sailors, and the dull crash of swinging booms. The schooner laid over on the other tack. I drowsily went up to inquire the meaning of this maneuver.</p>
+
+<p>The moon was half way up the sky, slashed with dark ribbons of cloud, and backed by an opaque shadow that
+
+<cb n="2" />
+
+merged with the horizon. The <hi rend="italic">Lady Lass</hi> was nipping into a long, tumbling swell.</p>
+
+<p>"Hurricane," Tom snapped. "Hang it all! We've got to fetch back to Nan's island."</p>
+
+<p>"Four hundred miles sou'west," I reminded him. "Why?"</p>
+
+<p>"That other schooner will get caught in this, and Nan'll be marooned for months, maybe," he told me savagely. "Can't let her stop there alone that long."</p>
+
+<p>"She's safe enough," I insisted. "And we'll run right back into the worst of it."</p>
+
+<p>"If you can stop chattering and keep the wheel for a half hour, I'll be about my reckonings," he said, and was gone.</p>
+
+<p>The schooner behaved beautifully. The wind was blowing unsteadily, but with good strength, and, close-hauled as we were, we made fair weather of it.</p>
+
+<p>"We're in the exact position to make the four hundred miles by keeping dead before the storm as the wind veers. Now for some sailing, old friend!" said Tom.</p>
+
+<p>I remembered that Tom Endicott had been a pretty fair sailor of yachts in the old days, but I trembled when I saw him hoist a big, booming spinaker on the weaving foremast and double the sheets on the big mainsail. The very Kanakas looked askance at him as the little vessel began to surge along with gathering speed, and the swells broke under the forefoot with a roar.</p>
+
+<p>"Not much leeway," he told me in the afternoon, as the two men at the wheel toiled and sweated to keep the <hi rend="italic">Lady Lass</hi> on her course. "Got to make that island by morning, if we take the sticks out of her. This is only the first wave of the wind. To-morrow you'll see what a tropical hurricane can do."</p>
+
+<p>"Still I don't see your object," I protested. "Miss Harloe is safe&#8212;you can't say she would be safer aboard this schooner. And it's a sure thing we can't land and let your vessel go hang."</p>
+
+<p>He paused long enough to stare at the thickening vapor overhead and murmur:</p>
+
+<p>"Poor Nan! To think of her stopping down there for months, maybe, and not knowing whether I was lost or safe."</p>
+
+<p>"You mean to tell me you are taking this risk because you dream a woman who has made it plain she cares nothing for you may worry over your safety?"</p>
+
+<cb n="3" />
+
+<p>"You don't know Nan," he said, drawing me into the shelter of the poop. "She's the kind that worries. When I had the fever down in Guayaquil, I woke up to find her with a broken clinical thermometer in her hand. I spat out the glass and called her Ann Augusta. Bless her heart, she dropped down on her knees beside me and cried. She told me she was glad I would get well and go back to New York. A pal! D'ye think I'm not going back to speak the island and signal her I'm all right?"</p>
+
+<p>"But Ann Augusta?" I cried.</p>
+
+<p>"The butler, the footman, and the maids are looking after her," he said curtly.</p>
+
+<p>ONLY the sharp eyes of the natives found the island in the wild smother the next morning. Tom clung in the fore-rigging and peered long and anxiously ahead. When he came down and rejoined me where I held on by the jerking wheel, he nodded in satisfaction.</p>
+
+<p>"The gale won't be much worse till night," he bawled in my ear. "We can make it!"</p>
+
+<p>"Make what?" I yelled back.</p>
+
+<p>He brushed his bare head with one sinewy hand, and kicked a native from the wheel. The Kanaka glanced at him with an appalled expression. The peak rose ahead of us with prodigious speed, the thundering seas about us began to leap aboard, the long decks filled, the whale-boat went overside in splinters. And Tom held the shrieking vessel to her course into the reeking gulf ahead.</p>
+
+<p>I think we cried out with one voice, the Kanakas and I. For behind us a huge crested comber lifted itself perilously, steaming and boiling, its foaming ridge driving off in long whip-lashes over the doomed schooner. Ahead the vast shadow of the mountain loomed in echoing magnificence, bathed in spume and spray. The <hi rend="italic">Lady Lass</hi> soared, bows awash, bulwarks crashing, masts whipping, spun onward with a lurch, took a tremendous back-swell to the topmast, shot upward to the send of another surge, leaped clean through the terrific surf, and came down with a roaring, thudding impact on the rocky beach.</p>
+
+<p>An instant later Tom and I were
+
+<cb n="4" />
+
+scrambling after the natives out of the shallows to the higher ground. There I faced about and tried to peer into the unspeakable blast of the hurricane. I saw nothing of the schooner&#8212;was, in fact, flung backward in the undergrowth of the mountainside by the furious wind.</p>
+
+<p>I got my footing with infinite difficulty, clutching at my bleeding knees and struggling for breath. I was driven on up the slope as if an irresistible power impelled me, and fell at last exhausted in the shelter of an outjutting rock.</p>
+
+<p>The echo of the storm was about me, and poised on the ridge of a crag I saw a tree whipping straight out from its foothold before the blast, like a pennant. It seemed as if I heard its tortured roots yield under the strain, and I watched to see it flick away. It stayed, motionless and taut. I sat up and looked about me.</p>
+
+<p>Above me I saw Nan Harloe coming down the steep ascent, skirts blowing, her arms outstretched to balance her. Tom was waiting, braced against a boulder. They swept into each other's arms, and she lifted her streaming face to his. Their lips met.</p>
+
+<p>AS I watched them fascinatedly, I saw him suddenly hold her out at arm's length, his face contorted with anxiety. She held one hand over her bosom.</p>
+
+<p>"You are hurt!" he cried with profound solicitude.</p>
+
+<p>She nodded, her lips twisted with agony. "My heart!" she answered.</p>
+
+<p>As a mountainous sea crashed on the shore and drove up almost to my foothold, the Kanakas fled by me in a huddle, silent, terror-stricken. Tom stood with Nan in his embrace, staring into her eyes.</p>
+
+<p>"Nan!" he called.</p>
+
+<p>Slowly she held out her arms again, as if in a single gesture to dismiss pain and welcome happiness. Overhead the world shattered away in unspeakable tumult, and the sea battered clangorously to their very feet. Heedless pair, clasped in each other's arms, lips pressed to lips.</p>
+
+<p>I sat down wearily. I clutched my own hand over my breast, feeling another pain than they suffered in bliss. Mine was the pain of age and loneliness and desolation.</p>
+
+<p>I and Ann Augusta!</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="balmer.19170423">
+<body>
+
+<head type="main">Proving Up on Past Performance</head>
+<byline>By <persName type="author" key="#Balmer, Edwin">EDWIN BALMER</persName></byline>
+
+<p>"HE looks all right to you?"</p>
+
+<p>"Yes; what do you think?"</p>
+
+<p>"Oh, all right." Corlett, the general manager, nodded. "He's worked for Ganton &amp; Company, hasn't he? That'll tell about him; what kind of send-off did they give him?"</p>
+
+<p>"Fine. Here it is."</p>
+
+<p>Grant, the sales-manager, handed over a sheet of paper with Ganton &amp; Company's well known name and design at the top. The document was a formal recommendation of the usual sort, stating that Samuel Inglis had been in their employ for three years as city salesman; that he was at all times regular in his work, which was always satisfactory; and that his leaving the company was occasioned by necessary reduction in the city sales force following the discontinuance of certain specialties. 
+The letter was signed by L. J. Quade, the sales-manager.</p>
+
+<p>"That's all regular. You've telephoned this Quade, of course?"</p>
+
+<p>"Yes; he says Inglis is a bright fellow; made very good sales."</p>
+
+<p>"Take him on, then. Anything else?"</p>
+
+<p>"Nothing else, Mr. Corlett. I'll start Inglis right away; you know we need&#8212;"</p>
+
+<p>The sales-manager went out. Corlett, beyond making the mental note that he now had a good, well recommended man to take care of the growing sales on the northwest side, dismissed the matter, and he did not have occasion to take up employment problems again until just before starting for home that night, when the chief of the retail sales department
+
+<cb n="2" />
+
+<figure n="illustration">
+<head></head>
+<p>"The previous record of an applicant is of great importance."</p>
+<figDesc></figDesc>
+</figure>
+
+appeared at the door of the private office.</p>
+
+<p>"Come in, Barnes. Shut the door. Now you've located the trouble on your floor, have you?"</p>
+
+<p>"Yes, sir; that is, I think I have, sir."</p>
+
+<p>"Who is it?"</p>
+
+<p>"Dan Farrell. At least, it's the boxes that he's been handling where we have had the losses. Some of these drugs this year, you know, are worth their weight in gold. Ten ounces of the solution&#8212;almost thirty dollars' worth&#8212;are missing again to-day."</p>
+
+<p>"You've seen him take the stuff?"</p>
+
+<p>"Not seen him, sir, but almost the same as. I can trace the losses to him, all right. I'm sure it's Farrell."</p>
+
+<p>"Then get rid of him. If you've no definite proof, just let him out on any good excuse. You'd better not let even him know why we're firing him; and of course not any one outside. If he didn't do it, we'd he doing him an injustice; and, besides, we might lay ourselves open to trouble. Understand? Good night, Barnes."</p>
+
+<p>And Corlett went home quite easy
+
+<cb n="3" />
+
+in his mind, with both of the little problems that had been troubling him all settled. That there was any contradiction in the settlement of the two troubles never occurred to him.</p>
+
+<p>It was not until one day about a month later that the essence of the contradiction offered itself to him as a subject for thought.</p>
+
+<p>That day Grant burst into his office about noon, his hands full of receipted forms which he thrust down on the desk before Corlett.</p>
+
+<p>"Look at those, please!"</p>
+
+<p>Corlett, scrutinizing the sheets, saw that they were statements of sales to drug stores which all seemed to be on the northwest side of the city; all the statements had been stamped "Paid" by the firm stamp and initialed "S. I."</p>
+
+<p>"Well, what about these, Grant?"</p>
+
+<p>"Inglis is gone&#8212;skipped with four thousand dollars of our money, which he collected from our customers in his territory. That's what, Mr. Corlett! I suspected something was wrong yesterday when he didn't show up, and one of the druggists out there, who'd been told
+
+<cb n="4" />
+
+that his next order would be held up unless he paid Inglis at once, 'phoned in. Inglis has worked this drug shortage and the crisis with Germany to make those little foreign druggists out there believe&#8212;"</p>
+
+<p>Grant gave the details of the scheme.</p>
+
+<p>"Hm-m!" Corlett considered grimly. "Ganton &amp; Company sent that fellow to us, didn't they? And didn't they recommend him? Have you called them up?"</p>
+
+<p>"You bet I called them up! I talked to Quade&#8212;the man who recommended Inglis to us!"</p>
+
+<p>Grant gripped the desk to keep control of himself.</p>
+
+<p>"I told Quade what happened, and what do you suppose he had the nerve to say to me? He said he wasn't surprised! What do you know about that? I asked him what he meant, and finally I found out that they'd had a little trouble with Inglis over there. Nothing serious, Quade said; just a little irregularity about something. That was why they let him out&#8212;and recommended him to us!</p>
+
+<p>"I asked Quade why he couldn't tell me that before. He said he didn't want to give the fellow a black eye; besides, they had no proof against him; they just suspected enough to fire him. That was all; and they sent him to us with a recommendation! That was a fine trick, wasn't it? That was&#8212;"</p>
+
+<p>Corlett, as he listened, colored a little. A certain recollection of an action of his own recurred to him. When the sales- manager was gone, Corlett considered a moment, and then sent for Barnes.</p>
+
+<p>"About that man we let go for <choice><orig>dishon-
+
+
+<pb n="Page 7" xml:id="ew.issue.19170423.p007" />
+
+esty</orig><reg>dishonesty</reg></choice> a month back, Barnes. What do you think about him now?"</p>
+
+<p>"Farrell? I don't think about him any more, sir. I know it was him. The losses of everything stopped the day he went."</p>
+
+<p>"Hm! Where did he go, Barnes?"</p>
+
+<p>"J. K. Lowry Company have him, sir."</p>
+
+<p>"You recommended him to them?"</p>
+
+<p>"Certainly, sir; didn't you say to?"</p>
+
+<p>"Yes," Corlett admitted. "But now I want you to&#8212; No; that's all, Barnes; I'll attend to it myself."</p>
+
+<p>And when Barnes was gone the general manager called the Lowry Company. When he located the proper official:</p>
+
+<p>"This is about a salesman named Farrell whom our retail department recommended to you last month. How's he doing?"</p>
+
+<p>"Oh, all right! Fine! We've put him to selling crockery and things of that sort, so he wouldn't be under the temptation he was at your place&#8212;</p>
+
+<p>"Temptation?" Corlett repeated. "What do you mean? How did you know we had trouble with him over here?"</p>
+
+<p>The man at the other end of the wire laughed.</p>
+
+<p>"Oh, we've a system to find out little things like that, Mr. Corlett. The head of your retail department tried to lie like an employer and a gentleman for the fellow; but we have a way of finding out pretty much what the real situation is. . . . What? . . . Yes, sir. Of course; I'll be glad to send some one over or come over myself to explain our method. . . . All right; right away."</p>
+
+<p>RECENTLY I wrote for the readers of this magazine a brief explanation, under the title of "Selecting Salesmen by Science," of one of the tests now being used by many large and progressive companies for determining the native ability of applicants for positions as salesmen. While such tests as that which was published have proved of great value in marking natural capacity in men who have had experience, as well as in indicating the most able prospects in a group of green applicants, the tests are not intended to supplant other methods of examining applicants; they are planned to supplement other methods.</p>
+
+<p>There are always in the world more people who are employed, or who have been employed, than there are people applying for the first time for a position. The proper ascertaining and the proper estimating of "previous records" is, therefore, one of the most important things to every employer; and it is one of the features of the employment problem which is admittedly in the most unsatisfactory shape. The tests previously discussed come to the aid of the employer only in demonstrating for him, within reasonable limits, the grade of natural ability in an employee or in a prospective employee; they can not demonstrate the grade of the honesty or reliability of an applicant, or uncover other kinks in his character, which, entirely irrespective of his natural ability, may make him a good or bad employee. The <hi rend="italic">previous record</hi> of the applicant, in other employment or at school or elsewhere, is&#8212;or should be&#8212;of the greatest aid here.</p>
+
+<p>But the trouble is that, with few exceptions, each employer finds it practically impossible for him to secure trustworthy and usable information from previous employers of a person coming to him for a position; and, with very few exceptions, the employer who complains about the effect upon his business of this bad condition himself only aggravates it for others. This not only works injury to the employers, but also does injustice to the great majority of employees who are honest, reliable, and thoroughly industrious. It is a wrong to everybody when&#8212;as under our present loose practice&#8212;a man or a woman who has made an excellent record for industry and character under one employer, can carry to the next employer no better recommendation than the person who has been dismissed "for cause," and yet who is commonly recommended, either out of the customary soft-headed soft-heartedness, or from dread of causing "trouble," if the truth is told.</p>
+
+
+<figure n="illustration">
+<head></head>
+<p>The new tests have put an end to hiring an applicant on the usual general terms. It has reduced a 'recommendation' to something definite and reliable."</p>
+<figDesc></figDesc>
+</figure>
+
+<p>With a view of insuring more trustworthy and usable information, Dr. Walter D. Scott&#8212;the psychologist whose investigations in practical business problems have resulted in several recognizedly important works, and who devised the test for natural ability previously published, describes a form blank for the "previous record" which is being used along with the tests. As the tests have succeeded in supplanting the old method of employing on a general impression of the applicant's ability, so this new form has proved highly effective. It has put an end to employing a person recommended only in the usual general&#8212;and therefore utterly meaningless and untrustworthy&#8212;terms. It has reduced a "recommendation" to something definite and reliable.</p>
+
+<p>This is the form for salesmen which the Lowry Company sent to Corlett (the names of the companies are, of course, fictitious).</p>
+
+<floatingText>
+<body>
+<opener>
+<dateline><gap reason="fillin" />	1917</dateline>
+<gap reason="fillin" />
+<salute>Dear Sir:</salute>
+</opener>
+
+<p>Mr. <gap reason="fillin" />	of <gap reason="fillin" /> has applied to us for a position as salesman and given you as reference. He states that he was employed by you as <gap reason="fillin" />  for a period <gap reason="fillin" />.</p>	
+
+<p>Will you please advise whether this information is correct?</p>
+
+<p><gap reason="fillin" /></p>
+
+<p>Why did the applicant leave your employment? <gap reason="fillin" /></p> 	
+
+<p>Please place a check mark in the space below that indicates the character of his service:</p>
+
+<table>
+<row>
+<cell></cell><cell>Good</cell><cell>Fair</cell><cell>Unsatis-<lb/>
+factory</cell>
+</row>
+<row>
+<cell>Work</cell><cell>( )</cell><cell>( )</cell><cell>( )</cell>
+</row>
+<row>
+<cell>Conduct</cell><cell>( )</cell><cell>( )</cell><cell>( )</cell>
+</row>
+<row>
+<cell>Ability</cell><cell>( )</cell><cell>( )</cell><cell>( )</cell>
+</row>
+<row>
+<cell>Character</cell><cell>( )</cell><cell>( )</cell><cell>( )</cell>
+</row>
+</table>
+
+
+<p>Would you be willing to reëmploy him? <gap reason="fillin" /></p>
+
+<p>Would you recommend him for the position applied for? <gap reason="fillin" /></p> 	
+
+<p>Out of ten men filling the position which the applicant held with you, what would be his comparative rank? <gap reason="fillin" /></p>
+
+<p>(If he would be the best, please mark his rank 1; this estimate is, of course, only an approximation; but we will
+greatly appreciate your best judgment in the matter.)</p>
+
+<closer><salute>Sincerely yours,</salute></closer>
+
+</body>
+</floatingText>
+
+<p>The first two questions on this blank are, of course, only the usual ones which are now in use and which are customarily answered in the meaningless terms; the other questions allow no such laxity, and, whether they are all answered or not, elicit information of definite significance. The skipping of a question may be quite as significant as an answer.</p>
+
+<p>Under present conditions, it is seldom to be expected that a previous employer will mark the "unsatisfactory" column after <hi rend="italic">conduct</hi> or <hi rend="italic">character</hi> unless the applicant has been proved guilty of open or flagrant offense; a mark of unsatisfactory after either of these two, therefore, is of serious significance. A mark of
+
+<note type="editors">
+<p>THIS is the second of Mr. Balmer's articles presenting the results of Professor Scott's work in applying scientific methods to the problems of selecting, hiring, and handling men in business. The first article was called "Selecting Salesmen by Science." A third article in the series will appear shortly.</p>
+</note>
+
+<cb n="3" />
+
+"fair" warns of caution. Ordinarily the column "good" will be marked, as regards <hi rend="italic">conduct</hi> and particularly as regards <hi rend="italic">character</hi>, whenever possible. After <hi rend="italic">work</hi> and <hi rend="italic">ability</hi> a mark of "unsatisfactory" is less seriously significant. One will more readily indicate in writing an honest opinion of another's work or ability than of his character. Therefore a mark of "fair" on the first and third lines of that section need not be discounted.</p>
+
+<p>When a previous employer marks <hi rend="italic">work</hi> "good" and omits to mark conduct or character at all, nothing but an unfavorable opinion is to be deduced. Avoidance of the question, "Would you be willing to reëmploy him?" also may be set down as a "no,"&#8212;if everything else is answered,&#8212;or, at best, as a matter of doubt. A positive answer to the next question is not as significant as an affirmative to the previous one. Many people will quite willingly recommend to another a person whom they would not reëmploy.</p>
+
+<p>The last question&#8212;because its form encourages an unusually fair and frank answer&#8212;is one of the most important.</p>
+
+<p>An employer, who may vaguely feel that he exposes himself to action for damages if he goes on record as describing another person's character or conduct unfavorably, can answer the last question fairly without a qualm. To say that a discharged employee has an unsatisfactory character may be challengeable; but to say that, in your opinion, he is tenth among ten men in your employ tells a good deal and can not be combated. A man like Barnes, though eager to avoid trouble for himself and to get Farrell off his hands, finds himself bound to tell at least part of the truth in answering that last question, if only in fairness to the other men working under him.</p>
+
+<p>Dr. Scott indicates the grading of the blanks upon a percentage basis. The blank should be filled out by the last three employers, if the applicant has had that many. If all the previous employers fill in all the blanks under "good" and put a (1) in the last paragraph, Scott gives 100 per cent. on previous record. Corresponding percentages are given for all the various combinations found in the blank.</p>
+
+<p>In such a customary case as described at the beginning of this article, Barnes would be expected to "lie like an employer and a gentleman" in his general answer to the question as to why Farrell left his last employment; he would mark Farrell's work good; his conduct, good; ability, good; and avoid marking character.</p>
+
+<p>Barnes would dodge going on record as willing to reëmploy Farrell, but would cheerfully recommend him, per custom; however, he would rank him down near the bottom of ten men in his employ. From all this the Lowry Company would perceive that Farrell was a good salesman who conducted himself properly, but that there was something to watch out for; which would lead to ascertaining the truth and the placing of Farrell in a job where he would be removed from the temptation to which previously he was exposed, and where he would get a grip upon himself and make good: while Inglis, having lost in stocks four thousand <choice><orig>dol-
+
+<cb n="4" />
+
+lars</orig><reg>dollars</reg></choice> of his employers' money, was making for Canada.</p>
+
+<p>Adoption of such a system for insuring trustworthy information as to previous record will put a quick end to the pernicious practice to-day under which an employee who gives seriously unsatisfactory service can count upon the weakness of his employer to give him a good recommendation and send him, without having suffered for his derelictions, to victimize another employer. Establishment of such a system will insure to the great majority of worthy workers the reward of an honest record of achievement which can not be counterfeited for the slack or dishonest man, and which therefore will encourage a good man to maintain his standing.</p>
+
+<p>The record form which is here discussed is one designed primarily for ascertaining and grading the records of salesmen; but the principles of it apply to the record of any sort of employee, and may well be extended into the field of domestic service, where the "reference" has become so abused as to be almost completely worthless.</p>
+
+<p>I have described, previously, something of Dr. Scott's method of standardizing the grade of native intellectual ability to be required of applicants for positions as salesmen. Standards of physical condition to be required of applicants for positions are so generally understood that they require no particular definition here. Determining the grade of the technical ability to be required of an applicant for a selling position is a problem now being solved. Dr. Scott has attacked it most successfully in a manner described on one of his "Instruction to Applicants" blanks.</p>
+
+<quote>
+<p>In Room A is a merchant who is to be regarded as a "buyer." You are to enter Room A, introduce yourself to Merchant A, and try to sell him some kind of merchandise. You will spend five minutes with Mr. A, then pass on to Room B and repeat your selling talk to Merchant B. You will keep this up till you have called on all the "buyers."</p>
+
+<p>You may sell any line of merchandise. The following are examples: automobiles, breakfast food, clothing, fountain-pens, life insurance, office supplies, real estate, rubber goods, sporting goods, tobacco, typewriters, etc.</p>
+
+<p>You may make the same talk to each "buyer." If you decide to sell an automobile, then you may assume that each of the merchants is an automobile dealer. If you decide to sell a breakfast food, then assume that each "buyer" is a grocer, etc.
+Present your merchandise for five minutes in such a way that the "buyer" will actually want to purchase your line. Sell
+as you would if the "buyer" were a real prospective.</p>
+
+<p>Prepare your line of talk in advance!</p>
+</quote>
+
+<p>The <hi rend="italic">peresonality</hi> of each applicant similarly is passed upon by several interviewers, who judge upon personal appearance, tact, industry, promise of usefulness to the company, etc. Personality, of course, is particularly hard to reduce to "quantitative determinations"; but, whatever the qualities that are judged, the examiners must summarize their judgment in a single figure.</p>
+
+<p>"Some of these quantitative determinations," Scott says, "are, of course, more important than others; but all must be combined into a single figure according to their relative importance" in respect to the place to be filled. Previous record, physical condition, native intellectual ability, technical ability, personality!</p>
+
+<p>How few firms make the slightest attempt to determine how applicants for positions grade in the qualities that make for success or failure; how few could even define those qualities, much less define any real standard in respect to each that must be reached by a successful applicant. Dr. Scott's work, if not revolutionary, certainly is most dynamically evolutionary. It is in recognition of this that thirty of the most successful firms in the country are working together, and with him, as "cooperating members" of the Bureau of Salesmanship Research, and that hundreds of the most progressive men at the head of sales organizations' are following his work with the most eager interest.</p>
+
+<p>Of this work, as it continues to develop results which can be expressed in tried and tested terms, more will be written.</p>
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19170423.p008" />
+
+<text type="nonfiction" xml:id="read.19170423">
+<body>
+
+<head type="main">"I HAVE NO TIME TO READ"</head>
+<head type="sub">All Right&#8212;We'll Do Your Reading Or You. $300 Worth of New Books and Magazines Are Read Every Week for These Two Pages</head>
+
+<div1>
+<head type="sub">THE ONLY PHOTOGRAPH EVER TAKEN</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Brown &amp; Dawson.</ab>
+<p>A Canadian snapped this picture of the harbor from the Rock of Gibraltar. If the sentry had heard his shutter click, a shooting at sunrise&#8212;the conventional ceremony in such instances&#8212;would have taken place.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>A CANADIAN received permission to walk among the great guns that bristle from the Rock of Gibraltar, and the garrison didn't know he had a camera up his sleeve. Stepping into the mouth of one of the huge caves, he took his life in his hands and snapped the harbor, more than 1000 feet below, plus the handsome silhouette of the sentry.</p>
+
+<p>The British have fortified Gibraltar with three tiers of 110-ton guns, in built-in long galleries that circle the upper wall of the rock. The firing is mathematically perfect, for the surrounding waters have been mapped into squares, each of which has a gun trained on it. At the foot of the rock sixty-four flat acres have been reclaimed from the sea, and these are covered with great dockyards that can repair and coal a large fleet.</p>
+
+<p>Gibraltar has been coveted by warriors and kings and admirals for hundreds of years. In 1309 the ruler of a small Spanish kingdom captured it from the Moors, and, in order to keep out invaders, he offered it as an asylum to thieves and murderers.</p>
+
+<p>In 1704 the allied British and Dutch fleets captured it in the interests of Charles, the Archduke of Austria. But as the besieged gave way, it occurred to Sir George Rooke, the British admiral, that the Rock would be nice for England. So, in a flash of intuition, he planted the English flag and presented Gibraltar to Queen Anne. She accepted it, and ever since England has held it, withstanding a hundred-odd years of protests and sieges from France and Spain.</p>
+
+<p>To-day it is said that, with its reservoirs for storing rain-water, and its capacity for provisioning, Gibraltar can stand comfortably against a seven-year siege.</p>
+</div1>
+
+<div1>
+<head type="sub">PROVING THAT GOOD NATURE PAYS</head>
+
+<p>GOOD nature pays. A grouch is one of the most expensive luxuries in which a man can possibly indulge&#8212;expensive not merely in peace of mind and doctors' bills, but in actual coin of the real cash. Big business men do not want unhappy people about them&#8212;in any business. In the hotel business, says E. Statler in the May <hi rend="italic">American Magazine</hi>, they are impossible. Mr. Statler is "now the biggest hotel man in the world, in that his combined hotel interests exceed those of any individual or group."</p>
+
+<p>Recently he issued the following letter to all his managers:</p>
+
+<p>"From this date you are instructed to employ only good-natured people, cheerful and pleasant, who smile easily and often.</p>
+
+<p>"This ought to go for every job in the house, but at present I'll insist on it only for people who come in contact with
+
+guests. It <hi rend="italic">does</hi> go, from this day, for all department heads, front office people, cashiers, captains, elevator-men, porters, telephone operators, and other employees who have to deal directly with patrons.</p>
+
+<p>"And it isn't to be only a case of hiring. That policy is to govern <hi rend="italic">all promotions</hi>, and you are to begin, right now, to measure your <hi rend="italic">present staff</hi> by it.</p>
+
+<p>"If it's necessary to clean house, do it. Don't protest. Get rid of the grouches, and the people who can't keep their tempers, and the people who act as if they were always under a burden of trouble and feeling sorry for themselves. You can't make that kind of person over, you can't do <hi rend="italic">anything</hi> with him, profitably, but get rid of him. Let the other fellow have him; and you hire a man that can be taught.</p>
+
+<p>"Hire pleasant, cheerful people, and reject <hi rend="italic">every one</hi> who isn't."</p>
+</div1>
+
+<div1>
+<head type="sub">THE PRICE WE PAY FOR SHELTER</head>
+
+<p>THE first door of the first cave-men was a hole in front of the hut. After the family had all crawled in at night or during a storm, it was closed with a slab of stone. While this kept out the snakes and wild beasts, it kept out also light and air. But light and air for the inside of the house were trifles to the cave families, who spent all their time outdoors.</p>
+  
+<p>As man grew more civilized, he spent more time in the house; but, while the house grew larger and more comfortable, the apertures for light and air were not much bigger than that of the cave-man; and the more he gained in the way of shelter, the more he lost in the way of health.</p>
+
+<p>"These beautiful transparent windows of ours," says Dr. Woods Hutchinson in <hi rend="italic">Community Hygiene</hi> (Houghton, Mifflin Company), "though they let in the light, still keep out the air. We don't open them half as often as we should, because we have still the cave-dweller's dread of the cold or rain which used to come in when the shutter in the hut was left open.</p>
+
+<p>"Even with the largest and most beautiful windows placed upon two sides of a room, it is hard to keep indoor air as fresh and wholesome as that of outdoors. Once every hour it is best to throw windows and doors wide open. This changes the air in the room and in our lungs, and exercises every part of our brains and bodies."</p>
+</div1>
+
+<div1>
+<head type="sub">BABIES THE REAL CAUSE OF WAR</head>
+
+<p>WHAT causes wars? Court intrigues? Vaulting ambitions? Big navies? Not primarily, says Havelock Ellis in <hi rend="italic">Essays in War-Time</hi> (Houghton, Mifflin Company). When you get right down to the bottom of the subject, the real cause of wars is babies.</p>
+
+<p>"'A French gentleman well acquainted with the constitution of his country,' wrote Thicknesse in 1776, 'told me above eight years since that France increased so rapidly in peace that they must have a war every twelve or fourteen years to carry off the refuse of the people.'</p>
+
+<p>"Recently a well known German Socialist, Dr. Eduard David, setting forth the same great truth, states that it would have been impossible for Germany to wage the present war, had it not been for the high German birth-rate during the past half century. A more distinguished social hygienist, Professor Max Gruber, declares the war was inevitable and unavoidable, and that Germany was responsible for it, not, he hastens to add, in any moral sense, but in a biological sense, because in forty-four years Germans have increased in numbers from forty millions to eighty millions. The war was therefore a 'biological necessity.'</p>
+
+<p>"The four nations most prepared to welcome the war," in Mr. Ellis's opinion, "were Russia, Austria, Germany, and Serbia: and these are the four nations of Europe whose birth-rate is largest. On the other hand, France, of all the nations, was least eager for war. And the decline of the birth-rate in France has been notorious for decades. Generally speaking, history shows that as the birth-rate of a nation declines its tendency to war declines also."</p>
+</div1>
+
+<div1>
+<head type="sub">ALL FRANCE IS PROUD OF HIM</head>
+
+<p>NOT many years ago Auguste Rodin was rejected for the third time by the Beaux Arts, a society of artists who thought they knew exactly how sculpture should look. When he tried to exhibit his work at the Salon he was rebuffed again.</p> 
+
+<p>"The work I sent in, 'The Man with the Crooked Nose,' was not conceived after the taste of my judges," he said. "I represented him as I saw him, while they think it is legitimate to tamper with nature and <hi rend="italic">beautify</hi> her."</p>
+
+<p>While the popular sculptors of the day seemed to feel that every sculptured figure
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; E. O. Hoppe.</ab>
+<p>Rodin labored fifty years to prove that great sculpture is not necessarily pretty and pleasing. Now Mestrovic has sculptured this portrait of Rodin. Seems like the workings of Nemesis, but Rodin thinks the statue is great art and a good likeness.</p>
+<figDesc></figDesc>
+</figure>
+
+should have pleasing features, well rounded limbs, if not a Greek nose at least a Roman nose, Rodin felt that nature was the only thing worth copying. When pupils came to him, he could only say, "Study nature." He admired models who had large feet unmaimed by tight shoes, "because only large feet are natural and proportionate." For these heresies he was denounced as indecent and a madman.</p>
+
+<p>Before he received any appreciation from art critics, this sculptor of whom all France is proud suffered nearly fifty years of extreme poverty. His parents were peasants, and for long periods he would have to give up his sculpture to work as a mere artizan, for the sake of getting bread for his earthly body.</p>
+
+<p>Rodin's first wife died about a year ago, an old, old woman whom he married in his artizan days. She never advanced a step along the road that her husband took, and when great rulers and great artists and great writers came to his studio to pay their respects, his little old wife was always there knitting, in a little cap and shawl. All we know of her is that she kept his house for him and was glad that they had plenty of money for their old age.</p>
+
+<p>Strange to say, according to a notice that appeared in the Paris journals, Rodin&#8212;a patriarch of seventy-six with a patriarchal white beard&#8212;married a girl named Rose Beurre on January 29, 1917. Three weeks later she died, and the only people who can explain this wedding are the two necessary witnesses.</p>
+</div1>
+
+<div1>
+<head type="sub">LIFE IS TOO SHORT TO QUARREL</head>
+
+<p>"I AM too busy to quarrel with you," said Lincoln to a man who came to explain a letter of brutal criticism. "If you hadn't shown me your letter, I probably wouldn't ever have seen it." And this, says Helen Nicolay in <hi rend="italic">Personal Traits of Abraham Lincoln</hi> (Century Company), was characteristic of him.</p>
+
+<p>To a young officer who had been court-martialed for fighting, he sent this gentle reprimand:</p> 
+
+<p>"The advice of a father to his son&#8212;'Beware of entrance to a quarrel; but, being in, bear it, that the opposed may beware of thee'&#8212;is good, but not the best. Quarrel not at all. No man resolved to make the most of himself can spare the time for personal contention. Yield larger things to which you can show no more than equal right; and yield lesser ones, though clearly your own. Better give your path to a dog than be bitten by him in contesting the right. Even killing the dog would not cure the bite."</p>
+
+<p>He was sensitive to criticism, but he felt that anger was inefficient, and personal quarrels cost energy sorely needed for more important tasks. When the office of Chief Justice became vacant, he appointed Chase, though Chase had been one of his bitterest critics. He once waited an hour in McClellan's house; and when that headstrong young man came home and went to bed without a word, Lincoln refused to resent it. "It is better at this time," he said to Seward, "not to be making points of etiquette and personal dignity."</p>
+</div1>
+
+<pb n="Page 9" xml:id="ew.issue.19170423.p009" />
+
+<div1>
+<head type="sub">IS WOMAN'S PLACE AT THE WASH-TUB?</head>
+
+<p>WHEN a wife gives up housework and goes into business, you expect the family income to be increased by just the amount of her salary. But it isn't. What she makes at the office she spends in hiring some one to do the baking and washing and sewing that she used to do. She is, in the meantime, by increasing competition and by working for a small wage, lowering the income of men in business, perhaps even that of her husband. This, says Henry Pratt Fairchild in <hi rend="italic">Outline of Applied Sociology</hi> (Macmillan Company), is one of the problems caused by women in business.</p>
+
+<p>Another evil is the dissatisfaction often felt by a woman who gives up a well paid occupation for the financially dependent position of the married woman, says Professor Fairchild.</p>
+
+<p>"If, as often happens, the earning power of the woman is equal, or even superior, to that of the man, the resulting friction may be extreme, especially if the man belongs to that class of husbands who force their wives to take the position of suppliants for any money given them for their own uses."</p>
+
+<p>Against such drawbacks these are the advantages:</p>
+
+<p>"The total working force of society is increased and production thereby augmented. Girls whose families are not able to provide them with educational opportunities are doubtless better off employed than idle.</p>
+
+<p>"The feeling of independence which the wage-earning girl draws from her employment prevents her from 'marrying for a meal-ticket.' The broadening influence of participating in the busy life of the world is also a definite gain."</p>
+</div1>
+<div1>
+<head type="sub">THE MAN WITH THE WONDERFUL MEMORY</head>
+
+<p>IN the giant organization of which he is president are 270,000 employees&#8212;more than the population of St. Paul or Louisville or Denver or Atlanta. He knows thousands of them personally, and never forgets a name. His list of engagements to see people at times averages from forty to fifty a day, besides which he carries on a large correspondence, and finds time to be "familiar with every minute phase of his concern's manufacturing and selling departments."</p>
+
+<p>This man, according to B. C. Forbes, writing in the May <hi rend="italic">American Magazine</hi>, is James A. Farrell, "ex-laborer, now president of the United States Steel Corporation.</p>
+
+<p>"For ten days Mr. Farrell sat in the witness chair during the Government's suit against the Steel Corporation and, without consulting books, papers, or data of any kind, answered every question fired at him. Not once did he have to reply, 'I don't know.' He appeared to know everything, and seemed to remember everything. Here, for example, is his reply&#8212;wholly without any notes or memoranda&#8212;to the question, 'Can you remember what percentage of the business of each of the subsidiaries of the Steel Corporation was foreign in 1910 and in 1912?'</p>
+
+<p>"'Yes, the Carnegie Steel Company, 21 per cent. in 1910; 24 per cent. in 1912. The National Tube Company, 10 per cent. in 1910; 12 per cent. for 1912. The American Sheet &amp; Tin Plate Company, 11 per cent. in 1910; 20 per cent. in 1912. The American Steel &amp; Wire Company, 17 per cent. in 1910; 20 per cent. in 1912. The Lorain Steel Company, 30 per cent. in both periods. The American Bridge Company, 6 per cent. in 1910; 8.5 per
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Underwood Underwood.</ab>
+<p>For ten days Mr. Farrell sat in the witness chair and, without glancing at his cuffs, answered hundreds of questions like this :"What percentage of the business of each of the subsidiaries of the Steel Corporation was foreign in 1910 and in 1912?"</p>
+<figDesc></figDesc>
+</figure>
+
+cent. in 1912. The Illinois Steel Company, 1.2 per cent. in 1910; 2.4 per cent. in 1912.'</p>
+
+<p>"The judge and everybody gasped.</p>
+
+<p>"'To cultivate a good memory,' says Mr. Farrell, 'at first requires effort&#8212;great effort. In time it becomes easy and natural to remember things. To retain things in your mind becomes a habit.</p>
+
+<p>"'Conan Doyle, in his writings, propounded the right idea. You must concentrate. You must not carry any useless mental baggage. You must concentrate on the things in which you are interested and expunge from your memory everything you are not interested in. There must be not only a spring cleaning, but a daily cleaning of your memory, so to speak, in order to make room for fresh stores of helpful information."</p>
+
+</div1>
+
+<div1>
+<head type="sub">THERE ARE WORSE THINGS THAN DROWNING</head>
+
+<figure n="cartoon">
+<head></head>
+<ab type="credit">From London Opinion.</ab>
+<p>"Please don't trouble to save me, father."</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+
+<div1>
+<head type="sub">WHAT CONSTITUTES A "LOVELY GIRL"?</head>
+
+<p>PEOPLE say that when a man falls in love and marries, it is only an incident in his life&#8212;a fortunate or unfortunate side-issue. To women a good marriage is their lifework, and love their whole existence. Times must be changing, for young men now brood over the subject of the ideal girl until we worry for their health.</p>
+
+<p>Fifty Harvard graduates, all bachelors, met in grave conclave "to draw up specifications as to the desirable qualities in the girls they would marry." Here is their identification of a "lovely girl," given in the <hi rend="italic">Philadelphia Public Ledger</hi>:</p>
+
+<p>"She is attractive, graceful, healthy, but not necessarily pretty.</p>
+
+<p>"She can dress tastefully and entertain any one and make him feel at ease.</p>
+
+<p>"She can make bread as well as fudge, and cake as well as rarebit.</p>
+
+<p>"She is appreciative of the dance and of the sports.</p>
+
+<p>"She is broad-minded, sympathetic, tactful, unselfish, thrifty, optimistic, and of good disposition.</p>
+
+<p>"She has good social standing, is of a religious nature, and is not too proud to pray."</p>
+
+<p>A little later the University of Missouri, which is co-educational, took the same sort of census in its sociology classes.
+The young Missourians didn't ask that their ideal be religious, economical, or a good cook&#8212;taking these qualities for granted perhaps. The men stood solidly for good character in the girl of their choice, for intellectual ability, good looks, playfulness, and, strangely enough, for
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson.</ab>
+<p>In our eyes this is a lovely girl; but is she "sympathetic, unselfish, thrifty, optimistic, of good disposition, a good cook, and not too proud to pray"? Then only will fifty Harvard graduates take an interest.</p>
+<figDesc></figDesc>
+</figure>
+
+good heredity. The girls' prime requisite in the ideal man was morality, and next in importance came physical beauty. Then followed youth, honesty, and congeniality.</p>
+
+<p>On the whole, the specifications of the Missourians seem more romantic and idealistic than those of Harvard, whose romantic yearnings might be boiled down to this: "Somewhere in the world there is an unselfish, well dressed girl of good social standing who can make me perfectly comfortable."</p>
+</div1>
+
+<div1>
+<head type="sub">GIVE YOUR BOY THESE BOOKS</head>
+<p>IF a boy has to leave school and go to work before he has had a chance to read many books, the United States government will give him a reading course free.</p>
+
+<p>For admission to the circle of boys reading in this course, write to the Home Education Division of the Bureau of Education, Washington, D. C., giving your name, post-office address, age, and a brief statement of your education and occupation. This list should be read within three years of the time you register:</p>
+
+<bibl><title>HANS BRINKER</title>, Mary Mapes Dodge.</bibl>
+<bibl><title>THE JUNGLE BOOK</title>, Rudyard Kipling.</bibl>
+<bibl><title>ROBINSON CRUSOE</title>, Daniel Defoe.</bibl>
+<bibl><title>THE LAST OF THE MOHICANS</title>, James Fenimore Cooper.</bibl>
+<bibl><title>TOM SAWYER</title>, Mark Twain.</bibl>
+<bibl><title>STOVER AT YALE</title>, Owen Johnson.</bibl>
+<bibl><title>LORNA DOONE</title>, R. D. Blackmore.</bibl>
+<bibl><title>TREASURE ISLAND</title>, Robert Louis Stevenson.</bibl>
+<bibl><title>THE CLOISTER AND THE HEARTH</title>, Charles Reade.</bibl>
+<bibl><title>DAVID COPPERFIELD</title>, Charles Dickens.</bibl>
+<bibl><title>WESTWARD HO</title>, Charles Kingsley.</bibl>
+<bibl><title>AGE OF CHIVALRY</title>, Thomas Bulfinch.</bibl>
+<bibl><title>IVANHOE</title>, Sir Walter Scott.</bibl>
+<bibl><title>IDYLLS OF THE KING</title>, Alfred Tennyson.</bibl>
+<bibl><title>MACBETH</title> and <title>THE MERCHANT OF VENICE</title>, Shakespeare.</bibl>
+<bibl><title>OREGON TRAIL</title>, Francis Parkman.</bibl>
+<bibl><title>BENJAMIN FRANKLIN'S AUTOBIOGRAPHY</title>.</bibl>
+<bibl><title>ABRAHAM LINCOLN</title>, Norman Hapgood.</bibl>
+<bibl><title>ROBERT E. LEE</title>, Philip A. Bruce.</bibl>
+<bibl><title>BURKE'S CONCILIATION</title>.</bibl>
+<bibl><title>WEBSTER'S FIRST BUNKER HILL 0RATION</title>.</bibl>
+<bibl><title>WASHINGTON'S FAREWELL ADDRESS</title>.</bibl>
+<bibl><title>LINCOLN'S GETTYSBURG ADDRESS</title>.</bibl>
+<p>(The four above published by Houghton, Mifflin Company, Boston.)</p>
+<bibl><title>LIVES OF POOR BOYS WHO BECAME FAMOUS</title>, Sarah K. Bolton.</bibl>
+<bibl><title>FAMOUS SCOUTS</title>, C. H. L. Johnston.</bibl>
+<bibl><title>CAREERS OF DANGER AND DARING</title>, Cleveland Moffett.</bibl>
+<bibl><title>WHAT CAN LITERATURE DO FOR ME?</title> C. Alphonso Smith.</bibl>
+</div1>
+
+<div1>
+<head type="sub">WHAT KIND OF HEADACHES DO YOU HAVE?</head>
+
+<p>MIGRAINE (sick headache) is the commonest type of recurring headache, says Walden E. Muns, instructor in pathology at the University of Missouri, in a bulletin dealing with the ten or twelve kinds of headache.</p>
+
+<p>Investigators differ regarding the immediate cause of headaches of this type. The present drift of opinion of medical men is that there is a marked derangement of the circulation in the brain, following certain disturbances due to a congenital defect in the chemistry of nutrition.</p>
+
+<p>The attack usually begins, says the writer, with a feeling of chilliness and with eye symptoms of blurring, floating specks and colorations, which may advance to partial blindness. During the preliminary period it is sometimes possible to prevent the attack by drinking a pint of warm water in which has been dissolved from two to forty grains of bicarbonate of soda.</p> 
+
+<p>"After the attack has commenced, it is hard to control the pain. The patient should rest in a dark and quiet room. There should be plenty of cool, fresh air, and the body warmth kept up to normal with hot-water bottles and added wraps. Heat or cold may be applied to the head, according to preference. Epsom salts, if the patient can retain the dose, and a cup of black coffee may mitigate the attack.</p>
+
+<p>"A general hygienic régime should be instituted by those who suffer frequently and severely. Plenty of exercise in the open air is important. Frequent bathing is essential.</p>
+
+<p>"A simple but nutritious diet of small amount must be followed rigidly. The tendency to overeat should be guarded against. Rich sauces and fried food must be avoided. Cheese, especially the French cheeses, is to be excluded. Sugar is to be used very sparingly and all candy is forbidden."</p>
+
+</div1>
+
+
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19170423.p010" />
+
+<text type="fiction" xml:id="tilden.19170423">
+<body>
+<head type="main">Her Own Business</head>
+<byline>By <persName type="author" key="#Tilden, Freeman">FREEMAN TILDEN</persName></byline>
+<byline>Illustration by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<note type="editors">
+ELIZABETH FARNUM, on her father's death, becomes owner of his business, the manufacture of Escutcheon paper, and is made an officer in the company. On a trip South with her mother, she meets Edwin Hyatt, a young advertising man, who inspires her with the idea of going into her own office and directing the business. Edwin Hyatt returns to his job in Chicago, and one day receives a letter from Miss Farnum inviting him to come to Farnumville and be her advertising manager. Hyatt accepts the offer, and three days later arrives at the factory. From the first he is silently antagonized by the general manager, Samuel Rouss, who has grown up with the company. Meantime the Paper Trust makes Miss Farnum an attractive offer for the plant. Knowing that her father had resisted the Trust for years before his death, Miss Farnum decides to refuse the offer. But Mrs. Farnum, who has social ambitions for her daughter, would like nothing better than to sell and get out of "trade." She sends for Rouss and asks his advice. The general manager assures her that if she will give him authority to go to the Trust he can manage to put over the deal in spite of her daughter's strange attitude. Miss Farnum and Hyatt are working hard on a national advertising scheme. When this is finally launched it brings a flood of orders which the general manager&#8212;skeptical in the face of Miss Farnum's warning to be ready for increased sales&#8212;is unprepared for. At this critical time Hyatt returns from a business trip to find the paper-makers on strike.
+</note>
+
+<p>"A STRIKE!" cried Hyatt, sitting down hard on the nearest chair. "A strike! Great Scott, what about?"</p>
+
+<p>"It's absolutely beyond me," replied Elizabeth Farnum. "It's just left me bereft of any little understanding I might have had. I don't see it at all. Here is all I know about it: Ten days ago a committee of three of the paper-makers waited on me here in the office. They were courteous enough, and, though I didn't understand enough about the technical points to know precisely what they were after in some cases, they had drawn up a paper of 'demands,' which they left with me.</p> 
+
+<p>"The principal points were for a closed shop, an eight-hour day instead of nine, a slight increase in wages, and double time, instead of time and a half, for night work. Then there were minor demands, such as remodeling the washrooms, and things like that.</p>
+
+<p>"I gathered that they have brought a walking delegate, or whatever you call him, here to advise them. But the central figure is one of our own men, named Schopp. Perhaps you've seen him?&#8212;a
+
+<figure n="illustration">
+<head></head>
+<p>"'I love you&#8212;hopeless as it is, foolish as it is, disloyal as it is. I love you!'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="2" />
+
+man with a big red face, and bristly light hair that stands straight up from his forehead?"</p>
+
+<p>"What did you do?" asked Hyatt.</p>
+
+<p>"What could I do? Imagine my state of mind! It came out of a clear sky&#8212;and just when we were turning heaven and
+
+<cb n="3" />
+
+earth to fill orders.  There was nobody to whom I could turn except Mr. Rouss. First I thought of wiring you to come right back. But it did seem a pity to bother you, when your letters showed the progress you were making; and, besides, I thought perhaps it was something we
+
+<cb n="4" />
+
+could easily patch up. So I called in Mr. Rouss and submitted the demands to him."</p>
+
+<p>"What did he say?"</p>
+
+<p>"After he read the paper he threw it on the desk and said, 'We'll show them who's running this place, Miss Farnum! Give way to those fellows one inch, and they'll crowd you out!'</p>
+
+<p>"'But under the circumstances,' I told him, 'it might be well to make concessions. Perhaps some of these demands should be granted as a matter of justice.'</p>
+
+<p>"'Not a concession!' said Mr. Rouss. 'If you leave it to me, I'll settle them in short order.'</p>
+
+<p>"What could I do, Mr. Hyatt? He seemed so confident of being able to manage the situation, and I have gone over his head so many times, it looked sensible at the moment to give him leave to go ahead."</p>
+
+<p>"And he settled it," remarked Hyatt dryly.</p>
+
+<p>"Yes, he settled it. He told the men that we would not treat with them unless they went back to their places first. The men gave their answer day before yesterday. They stopped everything at three o'clock in the afternoon, and filed quietly out of the plants, without any noisy demonstration or mischief. And now&#8212;I'm so discouraged I don't know which way to turn.</p>
+
+<p>"Just when things were going so well, Mr. Hyatt! Oh, I wonder if it's true, as Mr. Rouss said, that the men in the plants have no respect for a woman at the head of the business? Have I been wrong all the time in trying to do something&#8212;something&#8212;?</p>
+
+<p>"Oh, I believe if a representative of the Trust should come along this minute with the papers ready to sign, I'd just let everything go and sell to them!"</p>
+
+<p>Her lips trembled as she spoke, and her eyes were wet with tears.</p>
+
+<p>"No, you wouldn't, Miss Farnum!" cried Hyatt quickly. "You wouldn't give up like that! You may sell to them sometime, but you won't do it because you're in a corner. You won't do it under compulsion!"</p>
+
+<p>UNDER the pressure of his faith, Elizabeth Farnum's head went erect again.</p>
+
+<p>"Talk to me like that!" she burst out. "Say those things to me! Oh, if you had been here I'm sure this wouldn't have happened. Give me courage to go on, Mr. Hyatt. You&#8212;you are the only one who seems able to do it! Tell me to hold on, to fight it out. Tell me what to do!"</p>
+
+<p>"I can do all that," replied Hyatt, "except to tell you what to do. At the moment, I haven't the least idea, because I don't know how things stand. Is there no one, of all your employees, who seems friendly?"</p>
+
+<p>"Oh, yes!" was the glad reply. "Three of dad's oldest men came to me this morning, with tears in their eyes, telling me they never, never would have done it except they were forced to. Though they didn't say so, I think they were threatened into it. And I know there are many others like that. It seems to be Schopp and a few of the newer, younger help who are at the bottom of it."</p>
+
+<p>"Have you a copy of the demands?"</p>
+
+<p>"Yes; here it is."</p>
+
+<p>Hyatt read the typewritten document carefully. Then he read it through again, more closely, before he put it down. The young woman was watching him with pathetic hopefulness, as if she half expected that when he had finished reading the whole matter would be solved. Hyatt laid the paper down, perplexed.</p>
+
+<p>"The trouble is, Miss Farnum," he said, "that only a man with both shop practice and a knowledge of your books could say how far these demands are justifiable. I&#8212;I wish I could know <hi rend="italic">something</hi>."</p>
+
+<p rend="continued">"You must know everything! Please</p>
+
+<p rend="jumpline"><ref target="tilden.19170423.jump">Continued on page 20</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19170423.p011" />
+
+<text type="photograph" xml:id="acts.19170423">
+<body>
+
+<head type="main">BETWEEN THE ACTS</head>
+
+<figure n="photograph">
+<head></head>
+<p>IT seems reasonable to suppose that an old-school actress, whose hand has shaken the hand that shook Edwin Booth's, should spend the time between acts in writing her <hi rend="italic">Memoirs</hi>; but we had no idea that pretty, fox-trotting leading ladies improved their shining spare minutes. Now, Hazel Dawn, who takes one of those fascinating golden-curls tulle-and-chiffon parts in "The Century Girl," flies to her dressing-room, imperiously pushes her maid out of the room, sticks a blank sheet of music on the mirror, seizes her violin, and plays the first thing that comes into her head. When that is over she writes it down on the blank page.</p>
+<ab type="credit">Photograph by Gertrude A. Brugman.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ELSIE JANIS is the only one of God's creatures who looks almost handsome in a dress suit. Between the acts we always imagined that she filed calling cards or catalogued proposals of marriage and dictated tactful refusals to a private secretary. Contrariwise, this all-round cart-wheel turning actress paints china for her country house&#8212;dinner-set after luncheon-set after breakfast-set; and then vases to match every flower in the back yard.</p>
+<ab type="credit">Photograph by Gertrude A. Brugman.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Alice Boughton.</ab>
+<p>ADELINE GENEE is so exquisitely refined that Queen Mary of England, who stands for high-necked dresses, chaperons, and sewing circles, permitted her to dance before her. Here is Mme. Genée between the acts. Sitting primly in her skirt of pink cloud, she knits mufflers for soldiers.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE gentleness of her voice, the tenderness in her glance, and the wistful curves of her upper lip convinced us that Laurette Taylor is one of the do-one-kind-deed-a-day-if-not-more people. In "The Harp of Life" we pictured her between acts as looking through the peek-hole in the curtain to see if Aunt Jessie from up-State had found her reserved seat all right. Instead, she serves tea in her dressing-room to her cast, ministering with her own hand the cup that excites and the cakes that invigorate.</p>
+<ab type="credit">Photograph by White Studio.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Gertrude A. Brugman.</ab>
+<p>WHICH would you rather be, a nartist, a nactress, or a nauthor? Lola Fisher, says her press agent, is yea, all of these. Before she became the 105 lb. leading lady of "Good Gracious Annabelle!" she was an illustrator. Her literature as yet is "Just little things&#8212;I shall not publish them." While the stage-hands are tacking down the English garden, Miss Fisher slips on a robe and a lace cap (just in case some photographer might drop in), and paints pretty girls and the profile of the leading man. One thing about her art&#8212;she isn't one of these here cubists!</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Gertrude A. Brugman.</ab>
+<p>WHERE are the actresses we used to read about? They had tantrums; they fainted and screamed and boxed the maid's ears; they stayed up late, and laughed and carried on. Enlarging an eyebrow or lengthening an eyelash took up the rest of their time. Now we learn that Gipsy O'Brien, acting in "Cheating Cheaters," beautiful, spirited, and temperamental as she is, sits like this for hours arranging landscape gardens. She acts just to keep herself in pruning-hook and lawn-mower money.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19170423.p012" />
+<text type="photograph" xml:id="wives.19170423">
+<body>
+
+<head type="main">WORSE WIVES THAN OURS</head>
+
+<figure n="photograph">
+<head></head>
+<p>THE innocent-looking maid with the broken pitcher is not a pretty figment of the imagination. It is sad allegory, Greuze confesses in his Memoirs. The woman is Ann Gabrielle, his wife, and the broken pitcher is symbolic of his shattered happiness. The young lady coyly proposed to him while she was his model. Later she took charge of everything. She gambled away his income, defalcated his accounts, and neglected his home. The sauce-pans in her kitchen were so full of verdigris that the painter was thrown into convulsions by the food cooked in them. When he refused to yield to her extortions, she would rouse him at night and threaten to dash his brains out. Greuze left this bit of philosophy: "Sudden riches turns a lot of women's heads."</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>"FOR God's sake, have a little care of yourself. Give away as little to melancholy as you can. Try ass's milk." This remarkable remedy for a shrewish disposition was prescribed by Queen Anne to Sarah Jennings, first Duchess of Marlborough, one of the most notorious scolds in history. She is credited with indulging in a daily spat with her husband, whether the gentleman merited the outburst or not. At one time, after a quarrel, she remembered that her husband delighted especially in her glossy golden hair; so she cut it off in a fit of rage, leaving the shorn locks where he could not fail to see them. Consuclo Vanderbilt now holds that lady's title&#8212;without the appellation.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"I SHALL be getting jealous!" Heine remarked to his friend Weill, when Mathilde Heine threw a dish in the latter's face. "She never does those things to any one but me, as a rule." Heine got tired of brilliant women, so he married Mathilde, "a superb female animal, whose plastic beauty only equaled her intellectual nullity." "What a destiny is mine!" he cried. "To have made love a religion, to believe in it as others do in a dogma, yet not be able to believe in the beings who inspire it!"</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson of a painting</ab>
+<p>LADY RICHARD BURTON insisted that Lord Richard swathe his neck with a collar while exploring in the torrid Sind jungles. And Lord Richard donned his collars dutifully&#8212;and cussed in his diary. The famous Don Juan of the nineteenth century fought Maghrahis with ash staves, and rode on the backs of crocodiles; but he had to submit and let Lady Richard edit his famous annotations to the "Arabian Nights." The manuscript of the Scented Garden and Catullus went into the flames by exercise of this wifely prerogative. Lady Richard didn't like them.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson of a painting</ab>
+<p>PHILIP V of Spain wanted a modest, submissive little princess, and a scheming monk brought him Isabel Farnese, Princess of Parma. Her first act was to banish the king's closest adviser, and then she immediately took affairs into her own hands. Her dominion over Philip was so complete that the poor king fell a victim to melancholia, and later to insanity, after dangling along as a figure-head for several years behind his obstreperous mate. The two sons of the king by a former marriage both died mysteriously and in quick succession; but, when Isabel finally placed her own son on the throne, she was told plainly by the Spanish people that feminine influence must cease.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<pb n="Page 13" xml:id="ew.issue.19170423.p013" />
+
+<figure n="photograph">
+<head></head>
+<p>BARBARA VILLIERS PALMER, Duchess of Cleveland, gave Mr. Palmer the distinction of being the husband of one of the first vampires. She betrayed him to become the favorite of Charles II; and, while she and the king meditated as to his future, the gentleman had to sulk about Europe as an exile. Finally they decided to give him his freedom, provided he left the duchess free to play her own role. That doughty lady immediately proceeded to plunder the king, and in time became known as the "Curse of England." At the end, however, Palmer was avenged; for Barbara Villiers died in poverty and misery, after disporting with many of the high nobility of England.</p>
+<ab type="credit">Photograph by Paul Thompson of a painting.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>POOR John Wesley courageously preached this marriage tract: 1. A woman must recognize herself as the inferior of her husband; 2. She must behave as such. However, Mrs. Wesley held other views. She trailed the venerable churchman around on the floor by the roots of his hair whenever he crossed her whim, mocked him in the pulpit, twisted his correspondence, and gibed him in public. "If you were to live a thousand years, you could not undo the mischief you have done me," he wrote tragically. And Wesley bided until the discreet age of forty-eight before choosing Mrs. Wesley.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>POOR Minna! She trained her parrot to repeat, "Richard is a great man! Richard is a great man!" Nevertheless she heads the list of the long roll of women who "don't understand." After a performance of "Meistersinger" she turned to a friend and queried dubiously: "Now, honestly, is Richard such a great genius?" Wagner unburdens himself of their eternal wrangles in his autobiography. The eagle chose a butterfly for a mate; that she could not follow was perhaps as much her tragedy as his. Wagner exclaims in his Memoirs. "Not a soul knows what I have been through!"</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson of a painting.</ab>
+<p>STRIFE, storm of emotion, lashing sorrow, the critics prescribe for genius. These ladies all helped to keep the passions boiling. Out of Mrs. Molière's wrangling came the wonderful cynicisms of "The Misanthrope." Tschaikovsky's wife drove him twice to the river, and the Russian poured out his misery in torrents of burning melodies. So do wives go down in history. Molière married Armande Bejart, and during his courtship he wrote the rollicking domestic comedy, "School for Husbands." Nine months later he whined cynically over "the artful tricks, the subtle plots, which women use to leave us in the lurch," in the "School for Wives." A few years later he went on a milk diet to recover from his domestic worries. Armande kept Paris busy with her scandals, and, when accused, fabricated several about Molière and so diverted publicity.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>SIR WILLIAM HAMILTON raised her from the dregs to the position of an English ambassador's wife at Naples. He defied family and public opinion for this tavern maid, the daughter of a blacksmith and a cook. In time she became the famous Lady Hamilton. Her gratitude? She plotted for the old man's wealth, and made a traitor of his best friend, Lord Nelson. Her beauty colors her adventures; but the house of Warwick remembers poignantly the buffoon she made of Sir William, and Englishmen will always recall how she heartlessly sold the uniform in which Nelson was killed at Trafalgar.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19170423.p014" />
+
+<text type="photograph" xml:id="religion.19170423">
+<body>
+<head type="main">IN THE NAME OF RELIGION</head>
+
+<figure n="photograph">
+<head></head>
+<p>MAN, as some one has said, is "incurably religious." Except for the unsoftened pagans of New York City, there are probably no human beings in the world who do not have some religious sense. In New Mexico there has been, since the oldest Mexican can remember, a strange sect known as the Penitentes. They scourge themselves at their secret meetings, and any one who tries to look in on one of their services is likely to get a bullet through his forehead. The picture on the right is somewhat dim, as the photographer who took it from behind a bush had an absurd idea that he would like to continue living.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Newman Traveltalks and Brown &amp; Dawson</ab>
+<p>THE next time you happen to be in the Higashi Hong-wanji Temple in Japan, you'll be interested in seeing this rope. It was made from the hair of thousands of Japanese girls, offered to the gods. It is four inches in diameter, and was used in the construction of the huge temple. It would be interesting to trace through history the curious connection between religion and hair. Some religions decree that hair be shaved off: some religions are strong for beards. But all of them seem to have some hair laws. Even the barber-ous ones.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>BEFORE making fun of this gentleman with the hardware gown, let us remind you that he is a very eminent personage in his own county in Siberia&#8212;a shaman, as a matter of fact, with rare ability in the banishment of evil spirits and the cure of everything from pip to housemaid's knee. This magazine aims to be helpful. Therefore we pass on the shaman's prescription for whatever ails you, which is: "Dress yourself up like this and dance continuously in a circle for one hour and twenty minutes."</p>
+<ab type="credit">Photograph from Walter Beasley.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE last time that William Henry (Billy) Williams alighted from the water-wagon was in the evening. Six weeks elapsed (as they say on the theater programs); and then, one morning when Billy got up, there was only one sun in the east where there had been two before. Billy was cured: not only cured, but converted. Out of his six weeks' experience came his famous sermon, "The Last Romp with the Tiger," which Billy&#8212;who is known as the Drummer-Evangelist&#8212;has delivered 2671 times.</p>
+<ab type="credit">Photograph from B. D. Anderson.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph front Janet Cumming.</ab>
+<p>BEING religious in India is no simple matter of sitting in the back pew and noticing that Mrs. Smith's new gown isn't new at all, but just her old one made over. To be truly religious over there, one must occasionally dance on a bed of hot coals or lie on a couple of sharp knives. And to be very truly religious it is proper once in a lifetime to do a high dive off one of the temples, as shown in the illustration. Isn't it wonderful, where we get all these pictures?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from 0. R. Geyer.</ab>
+<p>THE biggest advertiser of religion in Iowa is John Wesley Fulton, whose farm is covered in every available spot with scriptural warnings. Even the Fulton flivver bears the warning, "Heaven or Hell Awaits You," while the Fulton check-book is inscribed, "Jesus watches you."</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19170423.p015" />
+
+<text type="nonfiction" xml:id="collins.19170423">
+<body>
+<head type="main">How Can I Argue This With My Boss?</head>
+<byline>By <persName type="author" key="#Collins, James H.">JAMES H. COLLINS</persName></byline>
+
+<p>PREXY was very human. His little mail-order school taught a lot of hard-working fellows the technology of their trades at moderate cost, and bettered their earning powers. He liked to feel that he was useful in the world. So every year he told a clerk to compile a list of brilliant graduates&#8212;students who had taken diplomas under difficulties. That list meant a lot to Prexy.</p>
+
+<p>One year he gave the job to Sam, a new clerk&#8212;restless, inquiring, red-headed. Prexy wasn't quite sure he liked Sam, who pestered him with so many questions, and showed such apparent scorn for the job that finally he had to he firm with him, telling him to carry out his instructions.</p>
+
+<p>It was two weeks before Sam came back with a list.</p>
+
+<p>"That's what you wanted, ain't it?" he asked skeptically, as Prexy looked it over.</p>
+
+<p>"Yes, Sam&#8212;very well done."</p>
+
+<p>"Well, it ain't what you want at all!"</p>
+
+<p>"What do you mean? It is our yearly compilation."</p>
+
+<p>"Sure! But say, listen!" Sam burst out. "That's no good! Why, only two per cent. of your students ever get diplomas. Are you lookin' for the real bright guys? Well, here&#8212;I wrote to fifty that didn't graduate, and thirty of 'em tell me they got better jobs after studyin' from a month to three months. They used what they learnt right away&#8212;see?"</p>
+
+<p>Prexy was astonished at this view of results; but he looked over the letter eagerly.</p>
+
+<p>"Sam, I believe you're right. These are our really brilliant scholars. They know how to apply what they learn immediately. We will write to all of our students and ask them your questions."</p>
+
+<p>For years, other clerks had been doing what they were told without argument or thought. Sam was not merely an argufier&#8212;he thought!</p>
+
+<p>It is good policy to argue matters with the boss when one sees him going wrong&#8212;but not always in words. Words may not say enough. Facts must be gathered and presented to tell the story.</p>
+
+<p>The head nurse in a big city hospital disagreed with her boss, who was the house physician. They had two ways of handling patients, both inherited. She favored one, and he the other. He would not listen to argument. So she compiled some statistics to prove that she was right. More patients got well under her system, and quicker.</p>
+
+<p>The house physician threw her figures in the waste-basket. She went to the board of governors, one by one, and found them all on the doctor's side, except one. Through the latter, her story was given to the newspapers, in a way that did not endanger her job. When the public learned the facts, it changed the system. Really, this case had to go to the public, which was the real boss.</p>
+
+<p>Business is always falling into ruts, for lack of information. The boss has only two eyes and one pair of ears, and can not be everywhere. When an employee believes that he has better information than the boss on some detail, then proper presentation of his facts in the right quarter is more than a matter of policy&#8212;it becomes duty. And if real facts are not of value in running that business, then maybe he had better be working elsewhere.</p>
+
+<p>If facts do not impress the boss, perhaps he will he interested in an experiment.</p>
+
+<p>The deliveryman in charge of milk routes for a creamery in a good-sized town believed that daylight deliveries would be an improvement on the system then used, tinder which wagons started out about two in the morning. But he could not bring the manager around to his way of thinking. Milk had always been delivered before breakfast, said the latter, and
+
+<cb n="2" />
+
+if any other method was adopted, competitors would get all their customers.</p>
+
+<p>The deliveryman proposed an experiment on one route, to last one week; and the manager consented, because he expected that results would prove daylight deliveries to be a fallacy.</p>
+
+<p>But it proved just the opposite. Under the old system, housewives had never seen the milkman, and so could put in only an unvarying order for one bottle, or two, or whatever was wanted. With daylight deliveries they varied the quantity bought from day to day, because they saw the
+
+<cb n="3" />
+
+milkman and were able to put in orders for specialties like cream, buttermilk, butter, and eggs.</p>
+
+<p>The sales value of the new method was so great that the manager extended it to all their routes; and it then solved most of the difficulties of getting good drivers, for a man could work on a milk route and still live a normal life.</p>
+
+<p>There is always room for an argument with the boss along such lines. For business conditions are ever changing. An employee's estimate of a new situation may be better than that of somebody
+
+<cb n="4" />
+
+<note type="editors">
+<floatingText>
+<body>
+<p>ANOTHER of Mr. Collins' half pages of helpfulness for young men and women in offices. Letters to Collins should be addressed to our new offices, 381 Fourth Avenue, New York. Mr. Collins' next article will be entitled "What Can a Clerk Learn from Salesmen?"</p>
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+</body>
+</floatingText>
+</note>
+
+
+higher up. Business grows by change in method to meet new conditions. The man who has enough interest to get facts can afford to take a chance in getting a hearing. If the boss is a live one, he is looking for an argument of this kind.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="fund.19170423">
+<body>
+<head type="main">A Fund for Graciousness</head>
+
+<p>UNTIL I married I had given no thought to the fact that a dollar consists of one hundred cents, and so at the end of my first month of house-keeping my bills exceeded my husband's salary. Although he laughed and made light of my incompetence, I was deeply chagrined, and set to work studying economy.</p>
+
+<p>I learned how to give appetizing flavors to cheap cuts of meat; I found out what to do with left-overs; I grew expert in
+dovetailing one meal into another; and I learned to buy economically.</p>
+
+<p>My efforts did not stop at the table. Into every corner and cranny of our lives I carried my thrifty torch, hunting out all those little extravagances one so unconsciously slips into. By the time our first anniversary came around I felt that I knew all there was to be known on the subject. I was simply permeated with it; but I was not quite happy in my proficiency.</p>
+
+<p>For a year I had exercised such monetary caution in every transaction that I felt as if my soul bore the imprint of
+penny pieces. I did not so much mind the weighing of every cent so far as I myself was concerned. It was in my relation to other people that I found the thing so irksome. Every generous impulse I felt I must scrutinize carefully before I could
+let it get hold of me. Personally I should have preferred to let the whole business of fore-handedness go by the board, and live out my life from hand to mouth, like any other jolly beggar. But a woman who has given herself the happiness of marrying the man she loves incurs responsibilities. So, with a wry face, I made up my mind to it: I had to be a tight-wad.</p>
+
+<p>About that time my husband took me to visit his sister-in-law, Nan&#8212;"Nan," the beloved and adored of every member of her husband's family. I had heard so much about her that I had a very definite mental picture of a plump, laughing, dark-eyed girl, with sparkles of dynamic energy simply sizzling from her. The Nan who met us at the gate was tall, slender, fair-haired, the most beautifully gracious woman it has ever been my good luck to meet.</p>
+
+<p>Nan's home was like herself. A comfortable refinement&#8212;the constantly in use kind&#8212;pervaded every inch of it.
+Comfort and beauty seemed to be the key-note in each room, and I said to myself, with a little bitterness of spirit: "Economy never obtrudes its hateful presence in this household."</p>
+
+<p>My belief was strengthened at dinner. I had suppressed several yawns,&#8212;two thirds of the previous night had been given to preparations for our journey,&#8212;but my husband caught my surreptitious gestures and, manlike, advised openly.</p>
+
+<p>"Buck up," he counseled, "with an extra cup of coffee. You want to feel fit for Nan's treat. She has tickets for Mary
+Garden."</p>
+
+<p>"We'll go some other evening," Nan hastily interposed. "She sings next week."</p>
+
+<p>"But you have the tickets," I objected.</p>
+
+<cb n="3" />
+
+<p>"I'll send them to the Briggses'. They'll be delighted to get them. They never have a chance for anything of the kind."</p>
+
+<p>She had arranged the matter instantly, graciously, and with a sincerity that left no room for remonstrance. I was not only relieved at Nan's arrangement&#8212;I could feel myself permeated through and through with the warm glow of her easy generosity. Even when I fell asleep it stayed on in the back of my mind, and was the foundation for a lot of pleasant dreams.</p>
+
+<p>The next day I was amazed to find Nan practising some of my own saving ways. Not only that, but she had a number of her own thinking out. Her economies were unobtrusive. They seemed to have the smoothness of long habit. It all meant, of course, that Nan was doing beautifully and graciously the thing that I was fretting my soul over.</p>
+
+<p>Finally, one day, we got to talking about household expenses. I found that Nan put everything down in black and white, the same as I did, had the same budget system, in fact, a monthly page, ruled with perpendicular lines, each section given to a certain expense and the name of the expense and its allotment at the top of the page. She had, "Table, Rent, Clothes, Incidentals, Amusements, Savings"&#8212;about like mine. But a strange item at the farther side of the page caught my attention. It read, "Improvidence."</p>
+
+<p>"Improvidence?" I repeated. "What's that?"</p>
+
+<p>Nan hesitated, laughed, then explained:</p>
+
+<p>"I come of a very improvident family, and I can't always overcome my weakness; so I indulge it at times, and set aside a fund for that purpose.</p>
+
+<cb n="4" />
+
+<p>Light was dawning on me. "Did those tickets we didn't use come under that head?"</p>
+
+<p>Nan nodded assent.</p>
+
+<p>In that instant a burden was lifted from my spirit.</p>
+
+<p>"Why need I," I thought, "always fly to extremes? If I must not be extravagant, neither need I be stingy; and as for my stunted soul, I'll give it a chance to grow by using my brains."</p>
+
+<p>When I went home I revised my budget. A new column was added to my page; but, remembering Nan's beautiful manner, I called my indulgence "Graciousness." By pruning something from the table expenses, a little more from dress and amusements, I managed to set aside a fund of fifty dollars a year. Fifty dollars for two people for a whole year of graciousness may not seam much, but to me it meant the difference between a very acute sense of meanness and an easy feeling that a few generous impulses might be allowed to sprout. As for my husband's appreciation of the arrangement, I'll give his own words:</p>
+
+<p>"Bully for graciousness!" he exclaimed one evening, when he came home from business. "Ned Craig's widow got in from Manila to-day. They&#8212;she and the two children&#8212;missed their overland and had to stop over. I found a hotel for them, but the poor little woman was worried over the extra expense. I'm thinking when she departs to-morrow"&#8212;he stopped to smile with anticipatory pleasure&#8212;"that she'll be relieved to find she has no bill to pay. I don't know when I've liked doing anything so well. But I don't believe," he added, with twinkle of his eye, "that I'd have done it if it hadn't been for that queer little fund of yours."</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="idea.19170423">
+<body>
+<head type="main">Farming in a City Flat&#8212;A $1 Idea</head>
+
+<p>I WAS standing in my dining-room one day, regretting that because lettuce and radishes were a bit out of season they were so high that I couldn't afford them, when my attention was drawn to the flood of sunshine pouring in at a big bay-window that lights my dining-room, and an idea suddenly popped into my head&#8212;an idea that has saved me not merely one but a good many dollars, besides giving me no end of genuine pleasure.</p>
+
+<p>The bay-window referred to is square, 7 feet long and 4 feet deep; and, up to the time my idea hit me, the alcove it formed had served only to show off a hand-painted china tea set that was never used, but had to be carefully dusted every week. My son was taking pre-vocational training along with his eighth-grade work, and had developed a mechanical turn; so I laid my scheme before him, and we counseled long together. The result was that he made for me three boxes, each of them 12 inches deep, covered at the joints with strips of zinc to make them water-tight. The two boxes designed for the end windows were 42 inches long and
+
+<cb n="4" />
+
+18 wide; and the one for the center 48 inches long and 24 wide.</p>
+
+<p>When all was ready, I arranged with the garbage-man to bring me enough fine rich soil to fill them; then planted them to lettuce and radishes, which&#8212;thanks to a recent innovation, seed-tape&#8212;was no task at all. In one end box I put radishes, and in the other lettuce; and it wasn't long before tender green shoots began to appear. As I needed it, I transplanted the lettuce into the center box reserved for that purpose.</p>
+
+<p>It was around the first of September that my window-garden inspiration came to me and in two months we were eating our own radishes. It takes lettuce raised in this way from three to four months to mature; but, by dint of a little forcing, our Christmas salad was garnished with crisp lettuce grown only a few feet from the table. All winter long, while my friends were paying twenty-live cents a head for lettuce and fifteen a bunch for radishes, we had all we wanted, just for the fun of producing it ourselves, and I could have sold at top prices all I raised, had I cared to.</p><closer><signed>B. S. A.</signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19170423.p016" />
+
+<text type="fiction" xml:id="ohara.19170423">
+<body>
+<head type="main">The Sham Girl</head>
+<byline>By <persName type="author" key="#O'Hara, Frank Hurburt">FRANK HURBURT O'HARA</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Snapp, Frank">Frank Snapp</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"She took the oars without giving Carson a chance. 'Tell me,' she said abruptly. 'You're from Chicago, aren't you?'"</p>
+<figDesc></figDesc>
+</figure>
+
+<p>AT first it was only the house that was called a sham. It was the sort of rambling, pretentious, impossible structure that every town seems to have, built by some dreamer who thought the sand dunes across the river would make up for the want of almost everything else. It had been vacant a long time when Laurian and her mother, and Granny, their single old servant, came to live there. No one knew anything about them. Nor were they communicative. So, as the years went on, and the independent, quaint girl grew up, the other girls called her a sham, too. They said she was sham, like the red of her mother's cheeks. They said it with the sure-fire cruelty of youth.</p>
+
+<p>When her mother "went away," as Laurian put it wistfully, they would have relented and taken her to them, if she had let them. But it was too late. So she lived on alone, with only aged Granny, and with no real friend except Doctor Garber, who had cared for Mrs. Temple and perhaps knew more about them than he would tell. The others wondered, and talked.</p>
+
+<p>It wasn't strange that they talked. Out of a self-reliant, curly-headed tomboy, Laurian had grown into a creature radiant with young-womanhood. Her hair was like amber. The curls broke loose over her ears, though she brushed them back vigorously. Her slim figure and the odd, childlike tilt of her head made her singularly beautiful. And she was quite unconscious of her charm.</p>
+
+<p>IT was this way when young Carson Lee came to spend the summer on the Drive. Having one of <hi rend="italic">the</hi> Carson-Lees in town was an event &#8212; especially since young Carson was stalwart and lithe and large-eyed, his looks as good as his metropolitan social rating or his money. Altogether, it was disconcerting to have him turn from the wheel of his car and exclaim ingenuously to the town girls in the back seat:</p>
+
+<p>"I say, that's a mighty pretty girl over there. The one with the wonderful hair. Does she <hi rend="italic">live</hi> here?"</p>
+
+<p>"Oh, yes, she lives here."</p>
+
+<p>"And you've never let me meet her!"</p>
+
+<p>Of course they hadn't. Laurian had come out of one of the shops while they were sipping sodas in front of the drug store. She had a basket on her arm, and a funny little home-made hat on her gloriously amber head. She was walking quickly down the street toward the river bridge. Carson Lee stared after her.</p>
+
+<p>When they were speeding along the Drive, he turned to Terry Prehn.</p>
+
+<p>"You've lived here all your life, Ter," he said. "Tell me about the girl."</p>
+
+<p>"The girl?" Terry repeated.</p>
+
+<p>"Yes. The one with the yellow hair."</p>
+
+<p>"Oh."</p>
+
+<p>Terry hesitated. He glanced over his shoulder. The girls in the back seat were chattering among themselves. His words merged into the hum of the motor.</p>
+
+<p>"I don't wonder," he remarked, "that you call her 'the girl.' She's a peach, isn't she? Really, you know, <hi rend="italic">I</hi> kind o' like her. They"&#8212;he jerked his head toward the rear&#8212;"wouldn't like to hear me say that."</p>
+
+<p>Carson glanced at him quickly. "Why the mystery, Ter? Isn't she&#8212;nice?"</p>
+
+<cb n="2" />
+
+<p>Terry colored. "I wouldn't say that."</p>
+
+<p>"Of course not," tersely. "I shouldn't have asked. It was caddish."</p>
+
+<p>He lounged down into his seat as if dismissing the subject.</p>
+
+<p>"See here," his companion stammered. "I'm not going to leave it that way. Darn it, Car, Laura Temple <hi rend="italic">is</hi> a nice girl! She is a brick. She's funny, that's all. When we were all kids together, high-school kids,&#8212;that was shortly after they moved here,&#8212;they were poor, awfully poor. But proud. Laurie used to talk like a swell. Told about a fine home they'd had in Chicago, and things like that, when they were living in the 'Sham' over on the beach. It's really a barn of a place, all run down. The girls made fun of her. Thought she was bluffing. They said she was a fake, like her mother's cheeks."</p>
+
+<p>"Her mother's cheeks?"</p>
+
+<p>"She painted 'em, I guess," Terry admitted reluctantly. He smiled <choice><orig>reminis-
+
+<cb n="3" />
+
+cently</orig><reg>reminiscently</reg></choice>. "Gee, but Laurie was a stunner, even then. All the fellows wanted to take her to parties, and help her over the bridge, and carry her books. But the girls&#8212;the other girls&#8212;they didn't like it; and after a while Laurie didn't go to many parties, and we sort of dropped out of the habit of being nice to her. I guess we're all cads sometimes, aren't we?"</p>
+
+<p>"Yes," meditatively.</p>
+
+<p>THE next day Carson went out on one of his long hikes. He crossed the river, and made his way leisurely through the dune region. In the middle of the afternoon he took sandwiches and a Thermos bottle from his haversack, and lunched under scraggly pines on a sand peak several miles north. Then for a long while he lay staring up at the blue of the sky through the pines.</p>
+
+<p>He slept longer than he had expected. The sun was getting down toward the rim
+
+<cb n="4" />
+
+of the lake. He jumped up quickly, stretched himself with the sense of luxury that follows rest in the open, and climbed down the dune to the hard sand of the beach. He loped easily toward town.</p>
+
+<p>The twilight came on so gradually that he scarcely noticed it. But when he passed the life-saving station and government supply house, and went on to the bridge, he found that the sun had gone down. Lights were reflected hazily in the darkness where the river lay. The bridge was swung open. He walked out on the ties of the railroad track as far as he could go, and indolently watched the shimmer of red and green in the water. It was a pleasant evening, and there was no hurry.</p>
+
+<p>After a while&#8212;half an hour, perhaps&#8212;he began to wonder when the bridge would close. It occurred to him that it might remain open until the ten-fifteen train from the city. He wandered back.</p>
+
+<p>There was a light almost straight ahead. He made his way toward it slowly. The stars were out, and the plash of the lake beyond the dunes made a pleasant sound. He walked on toward the light.</p>
+
+<p>HE stopped outside the window where the block of light stood yellow on the sands, and glanced into a large, bare room. He could see a girlish form seated at an old square piano. She was singing. Her back was to him, but he knew her by the yellow curls. He was not surprised. Subconsciously he realized that he had half expected this. The great, irregular hulk of the house was enough to mark the place Prehn had called the "Sham." He felt an instinctive sympathy for the girl as he watched the white-muslined figure and listened to her singing, plaintively off key and a bit exotic because of it.</p>
+
+<p>Laurian turned. He drew back. She smiled, tilting her head sideways. She was speaking. He felt suddenly ashamed of his transgression. She must have seen him. But when he perceived that she had not, he felt even guiltier.</p>
+
+<p>"Isn't that a nice song?" Laurian was saying.</p>
+
+<p>Carson had seen everything in the room. There was no one there. A mastiff dozed in a corner, but the girl was not looking at the dog. It came over Carson that the girl, out of loneliness, was entertaining herself with an imaginary guest. He turned to go. His foot crunched into gravel. The dog growled. Laurian rose quickly. Carson went boldly up to the door, and knocked.</p>
+
+<p>Laurian stood less than a foot from him, with only the screen between them. She did not seem afraid. The mastiff came, sniffing, to stand by her side.</p>
+
+<p>"I've been waiting for the bridge to close," he explained awkwardly. "I didn't know how long it would be. I saw your light, so I came over to find out."</p>
+
+<p>She looked at him appraisingly.</p>
+
+<p>"That's too bad," she said. "The boats will be coming through. The bridge won't shut until the ten-fifteen."</p>
+
+<p>"Thanks," he murmured. He turned, and wavered. Then: "I don't suppose I could get a boat on this side?"</p>
+
+<p>"I'm afraid you couldn't. You want to get back, I suppose?"</p>
+
+
+<pb n="Page 17" xml:id="ew.issue.19170423.p017" />
+
+<p>"I'm a little late for dinner," he laughed.</p>
+
+<p>She studied him frankly&#8212;the clean, firm lines of his face, the thick hair waving away from his tanned forehead.</p>
+
+<p>"You're a friend of Terry Prehn's, aren't you?" she surprised him by demanding. "I saw you with him yesterday," she added honestly.</p>
+
+<p>"We went to college together. He's my best friend, I guess."</p>
+
+<p>"I'll take you over," she announced.</p>
+
+<p>"Oh, but I couldn't think of it!" He had an inordinate wish that it were the proper thing to let her.</p>
+
+<p>"Granny," Laurian called up the big stairway that circled from a corner of the room, "I'll be back in a few minutes."</p>
+
+<p>She unhooked the screen, pulled the wooden door shut, took a key out of a pocket in her skirt, and locked it. Her action was so simple that Carson didn't know how to protest. He didn't want to; he was being carried along by a strange new instinct pulsing through him.</p>
+
+<p>"I've gone over lots of nights," she told him, as they walked briskly toward the river, the mastiff trailing them dubiously. "Times when my mama needed things," she added, the diminutive slipping from her lips with a naïve pathos that reached the man. "That was before she went away."</p>
+
+<p>He felt something thick at his throat. He remembered what Terry Prehn had told him.</p>
+
+<p>"She must have meant a great deal to you&#8212;your mother."</p>
+
+<p>"She does!" Laurian looked at him sidewise. He could see her large, childlike blue-gray eyes through the dusk. "You see," she went on slowly, "it's just as if my mama were still with me. We were always together in this house. Folks think I'm&#8212;funny because I stay over here alone. But I couldn't leave. Not now. Could I?"</p>
+
+<p>She seemed to expect him to agree, so he said, "No."</p>
+
+<p>They had reached the boat-house. As she sprang the padlock, she observed, without looking at him: "I don't know why I tell you these things."</p>
+
+<p>The youth put his hand on her arm for a moment. "Perhaps it's because I'm your friend," he said, and withdrew his hand.</p>
+
+<p>"<hi rend="italic">Are</hi> you going to be?" she cried girlishly. "That's nice of you."</p>
+
+<p>Laurian took the oars without giving him a chance. When he saw how expertly she handled the boat, he was a little glad that she hadn't let him show his clumsiness.</p>
+
+<p>"Tell me," she said abruptly. "You're from Chicago, aren't you?"</p>
+
+<p>"Yes."</p>
+
+<p>"I wonder&#8212; Is it just as noisy in the Loop?"</p>
+
+<p>He laughed. "Noisier!"</p>
+
+<p>"And Michigan Avenue&#8212;is it just as beautiful as ever, and just as cold in winter at the corner of Randolph? And how's the Zoo at Lincoln Park? You see, I haven't been there in seven years. I was a little girl when we moved away."</p>
+
+<p>So he told her about Chicago, as she pulled steadily over to the docks.</p>
+
+<p>"You must let me see you again, and tell you all about it," he finished.</p>
+
+<p>"<hi rend="italic">Will</hi> you?" she exclaimed. Then: "But I'm afraid it wouldn't be nice."</p>
+
+<p>"Shucks!" said Carson Lee.</p>
+
+<p>"HELLO, there, Car!"</p>
+
+<p>The greeting came resonantly from the dock. Carson looked up to see the surprised face of Terry Prehn peering down, bright in the glare of arc lights where the night steamer was being loaded. He was with a party of young people coining back from a corn-roast on the beach.</p>
+
+<p>"Thought you were lost," they chorused. Then they saw Laurian.</p>
+
+<p>"You all know Miss Temple, of course?" Carson suggested, climbing out.</p>
+
+<p>"Oh, yes," uncertainly. "How do you do, Miss Temple?"</p>
+
+<p>"How do you do," she answered quietly.</p>
+
+<p>She was still in the boat. Carson reached a hand to help her out. She shook her head.</p>
+
+<p>"But of course you're going to have a
+
+<cb n="2" />
+
+sundae or something with us?" he remonstrated.</p>
+
+<p>"Thanks, no," Laurian replied, smiling up at him. "I've really got to get back."</p>
+
+<p>"But I can't let you go alone at this hour. We'll get another boat."</p>
+
+<p>"Oh," she laughed. "Tike's waiting for me on the bank. He's almost human, Tike is! Good night."</p>
+
+<p>And she was out toward midstream before he could thank her.</p>
+
+<p>He turned to his companions. They avoided his eyes. Even Terry Prehn appeared occupied with something else. Carson felt the blood stinging his cheeks. He made some excuse and left them.</p>
+
+<p>THE next day his resentment lingered. It was subdued, however, so that he did not decline the day's invitation, as he had intended. Still, he could not keep the picture of Laurian Temple out of his mind.</p>
+
+<p>Next day Carson went boldly over to the dunes, and tramped with Laurian in the afternoon of the day following. And that was really the beginning of their romance.</p>
+
+<p>It sped afterward. They scarcely knew what was happening. Carson merely knew he liked her. That was enough. She was the kind of girl he had always wanted to know&#8212;unpretentious, frank, simple. She had a man's liking for things in the open; yet she was feminine, too.</p>
+
+<p>His resentment at the town girls' behavior toward Laurian did not diminish after an incident at the pavilion. He had been perch-fishing with Laurian, and the coolness of the lake that hot afternoon had appealed to both of them. He had suggested swimming. There was only one
+
+<note type="editors">
+<floatingText>
+<body>
+<p>NO more coal bills, no more ear-muffs, no more chilblains and frozen radiators. Next week comes May, and one of the most delightful love stories in the world: "I'm to Be Queen of the May," by Grace Mason.</p>
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+</body>
+</floatingText>
+</note>
+
+place to go, of course, so he took her to the pavilion.</p>
+
+<p>In her blue bathing-suit, with the smart red rubber cap over her curls, she looked more healthily, exhilaratingly beautiful than ever.</p> 
+
+<p>And when she swam! Carson sat on the edge of the raft, with his feet crossed in the water, and watched her with open admiration. She swam under water, and on her back, and with an astounding crawl stroke, and dived and floated. She was like a little mermaid girl just let out of school.</p>
+
+<p>He said something of the sort.</p>
+
+<p>"Pshaw," she gurgled, rejecting his outstretched hand and jumping lithely to a place beside him. "I don't know how to swim. I just taught myself, dog-fashion at first, you know. It's about all I can do. That, and fishing, and tramping."</p>
+
+<p>He wanted to tell her he didn't believe there was anything she couldn't do.</p>
+
+<p>"Gee, but I'm hungry!" he exclaimed, when, after dressing, they met later.</p>
+
+<p>"Well," laughed Laurian, "I think I could manage a red-hot sandwich myself!"</p>
+
+<p>Carson laughed with her. "You're overruled," he said. "We're going to have regular food." They could hear the clink of dishes in the restaurant.</p>
+
+<p>Laurian's face sobered. "Really&#8212;"</p>
+
+<p>"Really!" And he led her to the open-air caf&#233;, where little tables were tucked into corners, with the lake splashing under the floor.</p>
+
+<p>An hour later, in the twilight, they reluctantly got up. Laurian crumpled her napkin with a sigh. It might have been a sigh of satisfaction. Sighs are subtle.</p>
+
+<p>They made their way leisurely between the gay tables. Before one of them Carson had to stop. Sylvia Brown stopped him. Her bright blue eyes widened when
+
+<cb n="3" />
+
+she saw Laurian, but she greeted them sweetly.</p>
+
+<p>"Hello, there, Car," she purred. "Isn't it <hi rend="italic">lovely</hi> here, Laurie?"</p>
+
+<p>The fresh pink in Laurian's cheeks flamed to a grateful red. It was the first time in years any girl had called her Laurie, or spoken sweetly. Then Sylvia Brown was presenting her friends. They chatted a moment merrily about nothing in particular, and Carson and Laurian turned to go on. Their way was blocked. A gray-haired man, in a blue suit with gold braid at the collar, was putting out his hand to the girl; and just behind him a matronly woman was beaming upon her.</p>
+
+<p>"Well, well," said the man cordially, "if it isn't our little dune girl, like a fish out of water!"</p>
+
+<p>Laurian laughed.</p>
+
+<p>"Captain Sims," she began happily, "I want you to meet&#8212;" </p>
+
+<p>She stopped abruptly. Her smile faded. She made a nervous movement with her hands, and her handkerchief dropped to the floor. She glanced at her companion.</p>
+
+<p>"How do you do, Captain," Carson put in quickly. "Name's Lee&#8212;Carson Lee. Fine evening, isn't it?"</p>
+
+<p>They shook hands. Carson met Mrs. Sims; and learned that the Captain was in charge of the government supply house near Laurian's home, and presently they separated. Laurian started on quickly. Carson stooped to pick up her handkerchief; and as he did so he heard Sylvia Brown's purring tones.</p>
+
+<p>"Isn't it too funny," she was saying, with a delicious little laugh. "She didn't even know his name! Of course Carson's a nice boy, but&#8212;how <hi rend="italic">could</hi> she do it?"</p>
+
+<p>Carson hurried after Laurian.</p>
+
+<p>"Please don't talk," she said, when he had caught up with her. "It's all right. Only I <hi rend="italic">wish</hi> I had known before. I wouldn't have done all these things if I had. I simply knew you were Terry Prehn's friend and I knew I could trust you. I never guessed who you were."</p>
+
+<p>"But what difference can that make? Of course I thought you knew my name. It was stupid of me."</p>
+
+<p>"No. You wouldn't know I couldn't know, the same as you knew mine. You see, there wasn't any one to tell <hi rend="italic">me</hi>," she repeated.</p>
+
+<p>The inflection hurt him. He knew she was thinking of the things they must have told him. As if to corroborate his thought, she added:</p>
+
+<p>"I wish they hadn't heard, just when they were being nice to me. But of course they did."</p>
+
+<p>THERE wasn't anything he could say.</p>
+
+<p>He heard Sylvia Brown's comment ringing in his ears. And honest, simple, open-hearted Laurian thought they were being "nice" to her!</p>
+
+<p>They went to the dock without speaking. They rowed to the other side, still wordless. He wanted to say things, but the words that occurred to him seemed less kind than silence.</p>
+
+<p>At her door, however the girl spoke quietly:</p>
+
+<p>"You've been nice to me, Mr. Lee. I want to thank you."</p>
+
+<p>She put out her hand.</p>
+
+<p>"But, Laurian," he cried, "you don't mean it makes a difference?"</p>
+
+<p>"Yes."</p>
+
+<p>He thought she meant his money. Money didn't matter. He said so. She shook her head.</p>
+
+<cb n="4" />
+
+<p>"It's something else."</p>
+
+<p>"I don't care about anything!"</p>
+
+<p>"Perhaps not. I don't think you do. But others&#8212;might. You don't understand, and I can't tell you, not now. But don't think, please,"&#8212;her voice caught a little,&#8212;"that I don't appreciate what you've done. I do. And I like you."</p>
+
+<p>There was nothing coy in the remark. He held the hand she had extended. She withdrew it.</p>
+
+<p>"Listen," he said earnestly. "I don't know what you mean. I didn't try to deceive you. I simply thought, of course, you knew me. Why, you must think me a cad!"</p>
+
+<p>"No," she said sharply. "I think you're a one hundred per cent. man!"</p>
+
+<p>He felt strangely awkward at the words.</p>
+
+<p>"Then you've got to let me prove it."</p>
+
+<p>She looked away from him.</p>
+
+<p>"I shouldn't let you come. They'll talk. Besides, it isn't right. I don't know why I ever did all this, anyway. I'm ashamed, too, because&#8212;"</p>
+
+<p>"Yes?" he prompted.</p>
+
+<p>"Because I'm going to let you come!"</p>
+
+<p>She ran into the house without saying good night.</p>
+
+<p>CARSON wished that his friends could know Laurian for what she was. It was partly with this end in view that he accepted their suggestion of a lawn party at his aunt's cottage. They did not suspect his design. He let their plans mature. He graciously allowed them to make and "edit" the extensive guest list. He slyly watched them pairing off the couples. When they asked him whom he'd like to take, he nonchalantly replied that he didn't care. They fixed on Maggie Dake. Carson said it was fine. Then:</p>
+
+<p>"By the way," carelessly, "who's going, to bring Miss Temple?"</p>
+
+<p>To their credit let it go down in social strategics that they didn't even waver.</p>
+
+<p>"Why," said Sylvia Brown, "we're going to ask Georgie Jewell."</p>
+
+<p>That sounded all right to Carson. After all, he didn't want revenge: he wanted Laurian to have a good time. And when he asked her later if she'd got the invitation, and she said she had, and he asked her earnestly if she would go, she hesitated, and looked at him with her strange blue-gray eyes, and said she would.  So Carson took Maggie Dake to the party. It was a wonderful night. The lawn was pale green under the glow of Chinese lanterns. The stringed orchestra played soft music from the orchard. When Carson and Maggie Dake came out on to the wide lawn, he breathed in the clear night air, cooled a bit by the off-lake breeze, and thought he had never felt happier. He began looking about for Laurian.</p>
+
+<p>He did not see her. He wandered around a while, talking small talk to Maggie, and expecting Laurian and Georgie Jewell. Half an hour went by. He found Terry Prehn.</p>
+
+<p>"Ter," he murmured, "I wish you'd take care of Miss Dake for a minute. I want to speak with Sylvia."</p>
+
+<p>He found her pouring punch. She smiled sweetly at his advance.</p>
+
+<p>"Oh, Car," she commiserated, before he had time to ask, "I'm terribly sorry. Georgie Jewell had to go back to the city. Isn't it <hi rend="italic">too</hi> bad?"</p>
+
+<p>"He's missing a nice party," Carson answered casually.</p>
+
+<p>He strode away, a heat that had nothing to do with the summer evening warm under his soft collar. He went directly to his car, and fifteen minutes later was at the river bridge. He did not wait to negotiate for a boat. He hurried over the ties.</p>
+
+<p>Laurian was sitting primly in a straight-backed chair, her gloves in her hand. Carson stopped at the doorway, and drew his breath sharply.</p>
+
+<p>"Hello," he said, feeling suddenly confused.</p>
+
+<p>"Hello," Laurian answered gayly. "I thought you were never coming. But, you see, I'm not used to parties."</p>
+
+<p>She had got up. She was slipping her gloves on hands that would have been a bit too large if they had not been so well formed&#8212;and Laurian's.</p>
+
+
+<pb n="Page 18" xml:id="ew.issue.19170423.p018" />
+
+<figure n="illustration">
+<head></head>
+<p>"'You don't remember meeting me before, do you, young man?'"</p>
+<figDesc></figDesc>
+</figure>
+
+<p>"I'm glad you had faith in me," the youth approved. "Glad you knew <hi rend="italic">I</hi> wouldn't play any of Georgie Jewell's tricks."</p>
+
+<p>"Georgie Jewell?" she repeated.</p>
+
+<p>"Didn't you&#8212; But, of course I understand."</p>
+
+<p>He stopped. Of course he understood! Sylvia had never asked Jewell; but he couldn't tell Laurian that. "They were thinking of having Jewell bring you," he explained haltingly. "He went to the city. There was some mistake."</p>
+
+<p>The girl's eyes misted.</p>
+
+<p>"I didn't understand," she murmured. "I thought&#8212;when you asked me&#8212;I mean&#8212;"</p>
+
+<p>"Don't think I didn't <hi rend="italic">want</hi> to take you from the first," he blurted out.</p>
+
+<p>They hastened out of the house and down to the river.</p>
+
+<p>An exclamation fell from Carson's lips. Their Nemesis, the bridge, was once more open. Or was it Nemesis, after all? It had been his Good Samaritan once.</p>
+
+<p>"It'll be open until the ten-fifteen now, won't it?"</p>
+
+<p>"Yes"&#8212;with a little catch in her voice.</p>
+
+<p>"We'll have to take your boat."</p>
+
+<p>"I&#8212;I haven't it."</p>
+
+<p>She was not looking at him. She turned, and, with that odd, fascinating dislike of anything but truth between them, added:</p>
+
+<p>"I sold it."</p>
+
+<p>A weight seemed to oppress Carson. With something like a million in his own name, he rebelled at the wrongness of her lot. He wanted to take her in his arms and tell her it was all right, and not to worry, because&#8212; The sudden realization sent a panic throbbing through him.</p>
+
+<p>"We can get Captain Sims to row us over," he declared.</p>
+
+<p>Laurian put her hand quickly on his arm.</p>
+
+<p>"No," she murmured; "I'd rather&#8212;not."</p>
+
+<p>He knew she was remembering the meeting at the pavilion.</p>
+
+<p>"Who cares about a party, anyway?" he demanded, meaning it.</p>
+
+<p>He looked out at the misty blueness of the lake, and the dark line of the pier.</p>
+
+<p>"I say," he exclaimed, "isn't it fine!"</p> 
+
+<p>"What?"</p>
+
+<p>"The lake."</p>
+
+<p>"It <hi rend="italic">is</hi> beautiful."</p>
+
+<p>He took her arm. They walked slowly over the sands and on to the pier. They sat on the end of the pier, with their feet dangling over the water. Overhead, in the lighthouse, the lamps flashed alternately red and yellow.</p>
+
+<p>After a time they rose. The moonlight caught the glint in her hair and fell on the velvet of her face. She lifted a hand to smooth back the curls the wind had disarranged. Carson took the hand in both of his. Her eyes turned to his wistfully, yet they were reliant. She drew her hand gently from his clumsy caress.</p>
+
+<p>BUT, at the door of the "Sham," she put out her hand and said: "Thanks for being so&#8212;nice to me."</p>
+
+<p>Then Carson held the soft hand in his big, trembling one, and peered into her wide, wondering eyes, and answered:</p>
+
+<p>"I want to be nice to you, Laurian, because I want you to marry me."</p>
+
+<p>The girl did not move. She stared, a little frightened. He went on with a sudden rush of words&#8212;incoherent, impetuous, extravagant, sincere.</p>
+
+<p>"But you don't know me." There was a plaintive note in her voice.</p>
+
+<p>"I've known you a long time!" he denied. "Why, you're the very girl I've always known&#8212;or wanted to," he finished.</p>
+
+<p>"You don't know <hi rend="italic">about</hi> me," she murmured. "And you haven't paid any attention to what they&#8212;say. I think it's been dear of you."</p>
+
+<p>She stood up straight, forlorn-looking.</p>
+
+<cb n="2" />
+
+<p>"I wish I hadn't known." She smiled wistfully. "This makes it all the harder."</p>
+
+<p>"But, Laurian," he whispered, close beside her, "I want you. I'm awfully young, I know. You may think I don't know what I'm saying. But I do. I do!"</p>
+
+<p>"I wish you'd go," she said. "I think I'm going to cry. And I don't want to."</p>
+
+<p>Young Carson Lee smiled tenderly.</p>
+
+<p>"All right," he said softly. "I'll go. But I'm coming back to-morrow. I've got to, because we're going to be married."</p>
+
+<p>SHE hadn't said she loved him. He  didn't know that she did. It simply seemed to the young man that she'd have to, he wanted her so much.</p>
+
+<p>They could hear the hoarse whistle of the ten-fifteen sounding beyond the town.</p>
+
+<p>"You'll have to hurry," she said.</p>
+
+<p>"Good night. See you to-morrow," he cried, and dashed toward the bridge.</p>
+
+<p>He glanced over his shoulder as he ran. She was standing where he had left her.</p>
+
+<p>The rumble of the train was growing into a roar. He reached the tracks, and hurried across the switch and on to the ties leading to the bridge. The train whistled again. Its headlight silvered the tracks in front of him. He heard the cars crunch to a stop at the switch, where the train always paused before going on over the river. He was a third of the way across when the two staccato blasts signaled its oncoming. The rails trembled under his feet. For a moment a sense of helplessness possessed him. He could neither retreat nor make the farther side. Then he swung to the side, gripped at the iron framework, and held himself out over the water. Yellow windows rattled past.</p>
+
+<p>Almost immediately everything was surprisingly still. He could hear the current swishing past the piles. He swung back to the track, and looked over toward Laurian's house. His breath caught sharply. He could see the white form at the doorway. Back of her, bearing down with long strides, he saw the dark form of a man. An ominous dread tattooed at his temples. He rushed back over the ties, stumbling now and then, but deftly keeping his footing.</p>
+
+<p>Laurian turned suddenly. She saw the man, now almost beside her. She lifted her hands in a startled gesture, seemed to waver, and then rushed into the man's outstretched arms. Carson stood at the
+
+<cb n="3" />
+
+end of the bridge, watching stupidly. A cold moisture formed on his forehead. He turned and made his way dully to the town. At every step his footfalls seemed to echo, "Sham, sham, sham." The term the town folk had used came without any volition on his part.</p>
+
+<p>He did not sleep that night. After an hour's nervous tossing, he switched on the light at his head and read until dawn. Then he dozed for an hour or so, fitfully. After he had got up and taken a cold shower, he went out into the fresh morning to meet his disillusion calmly.</p>
+
+<p>He walked rapidly along the high clay bluffs. There were things he could not understand, but at least he was going to be honest with himself. He had trusted her. And yet&#8212; The vision of Laurian as he had seen her last flashed before him.</p>
+
+<p>He stopped suddenly, and sat down on the edge of the bluff. The lines of his face were firm with a new resolution. He knew now, very clearly, that he could not put Laurian Temple out of his life by mere rapid walking and logic. He had asked her to marry him. He had asked her because he wanted her more than anything else in the world. And he knew now that he was going to keep on wanting her. He got up resolutely, walked briskly back to his cottage, took his car from the garage, and drove to town. He knew that no one could help him but Laurian herself.</p>
+
+<p>THE sound of her off-key singing as he approached was disconcerting. It seemed unaccountably strange that she should be happy when he was pained. As he stood, irresolute, close to the door, he became subtly aware of another presence. Laurian was not alone. With a final tug at his determination, he knocked.</p>
+
+<p>The singing ceased. Laurian came to the door.</p>
+
+<p>"Oh," she said, surprised, Lad smiling gayly, "I didn't think you'd come so soon."</p>
+
+<p>She had expected him, then. But, of course&#8212;he had said he would come today, and she could not guess he had had a reason for not coming.</p>
+
+<p>"Yes." His voice sounded metallic. "I couldn't wait any longer."</p>
+
+<p>"How sweet of you!" Then she saw the drawn look on his face. "Is something&#8212;wrong?" she questioned.</p>
+
+<cb n="4" />
+
+<p>He was staring beyond her, at the back of the man sitting in a corner, looking out toward the lake. She understood.</p>
+
+<p>"Come in," she hurried on. "I want you to meet my father."</p>
+
+<p>There was a great light in her gray-blue eyes. It seemed as if that light, and the knowledge back of it, swept over Carson and took with it a great burden. He went in.</p>
+
+<p>Temple got up and shook hands in silence. It was an awkward moment. Carson was readjusting many things in his mind. The other man's face was masklike, creased with wrinkles that had ceased to be expressive. His gray hair matted over a forehead that was eloquent of care and sadness. He looked into Carson's oyes thoughtfully.</p>
+
+<p>"I'm&#8212;glad to meet you," Carson stammered in the embarrassed pause.</p>
+
+<p>A wisp of a smile crossed Temple's face.</p>
+
+<p>"You don't remember meeting me before, do you, young man?"</p>
+
+<p>Carson was puzzled.</p>
+
+<p>"Why, n-no," he replied. "Have we&#8212;"</p>
+
+<p>"It was a long time ago," Temple explained, speaking in a low, colorless tone. "You wore just a little fellow. I think you used to like me."</p>
+
+<p>Carson was looking at the man intently. An elusive memory seemed to stir. Laurian had left them alone.</p>
+
+<p>"I was in your father's office. I was pretty close to him; he trusted me."</p>
+
+<p>Carson was gazing fixedly at him.</p>
+
+<p>"I think I do remember you," he said slowly, as if thinking aloud. "Dad called you&#8212;John, wasn't it? I remember! And when I came back from my first vacation they told me you had gone away."</p>
+
+<p>"Yes," the other said. "To prison."</p>
+
+<p>Carson started.</p>
+
+<p>"There was something wrong with the books&#8212;something rather bad. But I should like you to know that I didn't do it. I couldn't. I thought too much of your dad."</p>
+
+<p>"Wasn't he a brick!" Carson cried boyishly, and grew suddenly quiet.</p>
+
+<p>Then John Temple went on in his dull voice, recounting the bare details of his time-serving; and the hardships it had brought to Laurian and her mother.</p>
+
+<p>"But it wasn't right that they should suffer. It wasn't like dad to let them."</p>
+
+<p>"I'm glad you understood your father," Temple approved. "No; he wanted to take care of them. But when your uncle came into charge, they&#8212;well, they didn't like to take help from him."</p>
+
+<p>Something in his tone made Carson uneasy. He didn't wholly like his uncle.</p>
+
+<p>"Mr. Temple," Carson said, "if my family has wronged you, I'm sorry. Naturally, because I want to marry your daughter, sir. And I want you to go back into the office."</p>
+
+<p>Temple shook his head. "I'll get on all right."</p>
+
+<p>Laurian was outside. Carson went to her. Without speaking, he put his strong young arms about her. Presently she whispered:</p>
+
+<p>"I'm glad daddy's here to see how happy I am. I wish my mama&#8212;" She paused. Her face lighted. "But I can't help feeling she is somewhere near. She was beautiful, Carson. Oh, I know she wasn't beautiful to them"&#8212;she inclined her head toward the town. "They said she painted her cheeks. I think she did. She made them pink because she wanted them to be pretty when he came back." Her eyes were wide. They seemed to be looking a long way off. "She was very beautiful, Carson&#8212;because she was very good."</p>
+
+<p>Carson bent down until their warm young lips met in their first kiss.</p>
+
+<p>"I understand," he whispered. "Just like you."</p>
+
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19170423.p019" />
+
+<text type="nonfiction" xml:id="science.19170423">
+<body>
+<head type="main">WHAT SCIENCE IS DOING</head>
+<head type="sub">To Roll This Old World Along</head>
+
+<div1>
+<head type="sub">MAINE HAS A MOLYBDENUM KLONDIKE</head>
+
+<p>IT is too late to start a molybdenum rush to Blue Hill and Cooper, Maine. All the good claims have been staked out, and before long the largest mine in the world that produces this metal will be in operation at Catherine Hill. Molybdenum is known to chemists as the greatest and latest benefactor of steel, as a substitute for platinum, as a coloring agent for porcelain, and for making fast dyes of the most expensive shades.</p>
+
+<p>The European war has brought into prominence the use of three rare metals&#8212;tungsten, vanadium, and molybdenum&#8212;which are necessary to modern armor-plate, to rifle linings, automobiles, machinists' tools, and every operation for which steel is too soft, too fragile, or too coarse-grained.</p>
+
+<p>Molybdenum has been found to be by far the most valuable of the three rare metals, and ever since war broke out the British have held it as absolute contraband of war.</p>
+
+<p>Cooper, Maine, is only ten miles from the great summer resort at Bar Harbor, but is in a typical forest wilderness. The
+ore is easy to obtain, and railroad service is very near, the only drawback being that the mine run is very low grade. Development has been going on for some time, however, and it is planned to put a hundred tons of raw material through the crusher every day. This amount will yield a ton a day of molybdenum concentrates.</p>
+
+<p>The State geologist of Maine, C. Vey Holman, who tells the story of molybdenum in <hi rend="italic">American Industries,</hi> describes his own interest in the metal. He learned of the discoveries at Blue Hill and Cooper, and found that they were in line, so that by prospecting in the territory between the two locations he found more deposits. These he immediately acquired, and he has been developing them ever since.</p>
+
+<p>Molybdenum seems to have been made to bolster up man's increasing needs as he invented new appliances. The metal itself looks much like graphite, and is soft and malleable; but when put into the furnace with steel it makes the alloy retain magnetism, renders it tougher, though finer of grain, increases its capacity for elongation, and doubles its tensile strength. A tool made of the alloy can be used on a lathe until it becomes red-hot, and yet it does not lose its temper. A bank vault door becomes harder and harder with age, so that a burglar's drill would hardly scratch it. Propeller shafts, submarine plates,  armor-piercing shells, permanent magnets, and even high-pressure boiler-plates are better when made of molybdenum steel than when made of any other alloy.</p>
+
+<p>Dr. F. A. Fahrenwald of the Case School, Cleveland, has invented ways of handling the metal so that when alloyed with tungsten it takes the place of platinum in many of the uses of the latter metal. It can be used for dental work, and for the points of spark-plugs, in automobiles. Since more than one third of the world's supply of platinum goes into men's teeth, and since this metal is five times as valuable as gold, this discovery is of great importance.</p>
+
+<p>Dr. Fahrenwald is also opening up new uses for molybdenum and tungsten which promise to be of more value commercially than any of the present uses.</p>
+</div1>
+
+<div1>
+<head type="sub">ABOLISH THE GARBAGE-MAN</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Robert H. Moulton.</ab>
+<p>All unsanitary features of the garbage-pail, as well as the expense of the collections now in vogue, are done away with by the home incinerator.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>FOR five cents it is possible to burn a bushel of garbage without putting out your furnace fire. An incinerator
+for household use has been placed on the market which does away with the old-fashioned garbage-pail, and all its attendant inconvenience and dangers.</p>
+
+<p>The burner is a furnace that uses a small amount of gas. Waste material of any kind except minerals can be placed in the fire-box, and within a short time nothing will be left but the sterile ash in quite small quantities. The machine generates 1200 degrees of heat, yet it is so insulated with air space and asbestos that it does not heat the kitchen appreciably even in hot weather.</p>
+
+<p>The value of the incinerator to the home is that it makes it much more sanitary and does away with the tri-weekly collection by the private or municipal collector. More flies are bred in home waste containers than in that supposedly most fertile place, the stable. Garbage-pails are the most offensive appurtenances to the modern dwelling, but need be no more, since this gas-burner is guaranteed odorless.</p>
+
+</div1>
+
+<div1>
+<head type="sub">GETTING BACK AT THE SHARK</head>
+
+<p>SOMETHING is about to be done about the shark menace which frightened the entire Atlantic coast last summer. The United States Bureau of Fisheries is turning the hide of this piscatorial scavenger into shoe leather. Arrangements have been made with Florida fishermen to ship very large skins of different species to tanners all over the country this summer, for use in experiments in making shark leather.</p>
+
+<p>Europe has prepared acceptable leather for shoes from sharks in the past, but science has not determined just what can be done with it. We know that it is very tough and durable. We do not know what can be done with the minor sharks or with grayfish.</p> 
+
+<p>The boom in fish leather is due to the menace of last summer and to the alarming scarcity of the usual hides. Sole-leather has already sold at more than a dollar a pound, and as the population of this country increases it is probable that we can not supply real leather for footwear.</p>
+
+<p>Tanners are experimenting with all sorts of animal hides, but if the sea comes to bat with an inexhaustible supply we need worry no more about the shoes of our children to come.</p>
+
+</div1>
+
+<div1>
+<head type="sub">PRICELESS PLATINUM</head>
+
+<p>PLATINUM has been growing more scarce, and as a consequence more expensive, with each succeeding year. The present famine is due directly to the war.</p>
+
+<p>Platinum is used in the making of munitions, according to <hi rend="italic">Tit-Bits</hi>, and indirectly in all sorts of operations that are incidental to warlike operations. To cite just one example: in the manufacture of cordite, perfectly pure sulphuric acid has to be used, and sulphuric acid can be perfectly purified only in platinum retorts&#8212;each of which, by the way, represents a value of $15,000.</p>
+
+<p>Forty years ago platinum cost about $5 an ounce. To-day it is worth nearly $100 an ounce&#8212;and very little of it is available, at that. In fact, so scarce is it, and so urgently is it needed by the British government, that dealing in it without a permit is now prohibited.</p>
+
+<p>One result of this unprecedented increase in price is that many articles supposed by their owners to be of little value have "turned up trumps," so to speak.</p>
+
+<p>For instance, many years ago a gentleman living near Hyde Park received a bad sovereign. He sold it a week or two back for about $11.</p>
+
+<p>Old, discarded sets of artificial teeth, which at one time were fitted on plates of platinum or of platinum alloy, have been rummaged out of forgotten corners, to bring in considerable sums to their lucky owners.</p>
+
+<p>Platinum watch-chains, bracelets, and other articles of jewelry are now worth five times as much as eighteen-carat gold.</p>
+</div1>
+
+<div1>
+<head type="sub">PAPER FEET</head>
+
+<p>THE Danish physician Svindt, who formerly manufactured artificial legs out of papier-m&#226;ch&#233;, now makes artificial feet out of paper pulp. According to <hi rend="italic">Berlingske Tidende</hi>, a model of the foot is made out of wire gauze, and upon this is poured the specially prepared pulp, the latter entirely filling the interstices of the wire gauze.</p>
+
+<p>These paper feet are said to be strong enough for general use; they have, moreover, the advantage of being very cheap.</p>
+
+<p>Physicians report that they are very popular with crippled soldiers.</p>
+</div1>
+
+<div1>
+<head type="sub">GIVING THE DOG A CHANCE</head>
+
+<p>SUBSTITUTE for ether which enables animals to withstand operations that are particularly hazardous has been perfected by Dr. George W. Little, according to <hi rend="italic">Popular Science Monthly</hi>.</p>
+
+<p>The machine employed by Dr. Little in his work in the Animal Hospital in New
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Courtesy of <hi rend="italic">Popular Science Monthly.</hi></ab>
+<p>By means of this humane apparatus animals may now undergo operations and suffer no pain.</p>
+<figDesc></figDesc>
+</figure>
+
+York City, conducted by the American Society for the Prevention of Cruelty to Animals, consists of two cylinders, one containing nitrous oxid and the other containing oxygen. The cylinders are connected with two bags by tubes. One bag is filled with the gas, the other with the oxygen. The outlet of each bag passes into one tube connected with the mouthpiece attached to the patient's nose. The proportions of the gas employed may be regulated by means of valves.</p>
+
+<p>The dog or cat is placed on the operating table and the mouth-piece adjusted. Then the nitrous oxid gas is turned on. In a short time the animal loses consciousness, after which it is given a little oxygen to sustain the heart action. With the use of oxygen, the patient may remain under the anesthetic for hours. During the operation the animal feels no pain, and apparently feels no after effects.</p>
+</div1>
+
+<div1>
+<head type="sub">ANOTHER WAVE MOTOR</head>
+
+<p>IF you should examine the back numbers of the Patent Office <hi rend="italic">Gazette</hi> for the past ten years, you would find, in all probability, as many patents having to do with wave and tide motors as any other single type of machinery, with the exception of the gasolene engine.</p>
+
+<p>No one with an inventive turn of mind looks more than once at a heaving, smashing sea before he pictures in his mind some sort of contraption to harness a portion of that tremendous energy now running wild.</p>
+
+<p>The unfortunate part about wave motors is that the force that might cause them to be successful is the force that invariably wrecks them. Many wave motors have delivered power long enough for stock promoters to convince some people that a substitute for perpetual motion has been discovered. And then a night of angry waves wrecks dream and engine.</p>
+
+<p>The latest wave motor is at Long Beach, California. Perhaps it is more lusty than its predecessors. It utilizes a well known principle. Barges rise and fall with the waves. Each barge drags backward and forward a rod attached to a pump cylinder. It is planned that the water raised in this fashion shall turn water wheels.</p>
+
+<p>A tide-mill, depending upon a similar principle, was built on Long Island in 1670.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Della Phillips.</ab>
+<p>A new wave motor, which pumps water into a tank and delivers power by means of a mill wheel.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+</body>
+</text>
+
+<pb n="Page 20" xml:id="ew.issue.19170423.p020" />
+
+<text type="advertisement" xml:id="pen.19170423">
+<body>
+
+<figure n="advertisement">
+<head>No Soiled Hands&#8212;Spoiled Clothes&#8212;Ruined Dresses</head>
+<p></p>
+<figDesc>Advertisement for Parker Pen Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Modern Filing</head>
+<p></p>
+<figDesc>Advertisement for Yawman and Erbe Mfg. Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Study Law 30 Days Free</head>
+<p></p>
+<figDesc>Advertisement for Hamilton College of Law</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Pay as You Wish</head>
+<p></p>
+<figDesc>Advertisement for Harold Lachman Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>10 Cents a Day</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Exora Face Powder Stays On</head>
+<p></p>
+<figDesc>Advertisement for Chas Meyer</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="fiction" xml:id="tilden.19170423.jump">
+<body>
+
+<head type="main">Her Own Business</head>
+
+<p rend="jumpline"><ref target="tilden.19170423">&#8212;Continued from page 10</ref></p>
+
+<p>ask me! No matter how private a matter it seems to you, I want you to know all the circumstances."</p>
+
+<p>"Miss Farnum," said Hyatt slowly, "do you know&#8212;even approximately&#8212;what per cent. on the investment your plants netted last year?"</p>
+
+<p>"Not exactly; but somewhere around fourteen per cent."</p>
+
+<p>"Fourteen per cent.!" gasped Hyatt. "Fourteen per cent.!"</p>
+
+<p>She looked at him in surprise.</p>
+
+<p>"Yes, I believe so. Is&#8212;is that&#8212;why do you look at me that way?"</p>
+
+<p>"Fourteen per cent.!" repeated Hyatt. "Great C&#1237;sar's ghost! Can't you make some concessions to the men, Miss Farnum? Is it unreasonable that they should want a little of the profits that come from their work? I realize that capital should have its generous share&#8212;but, my goodness! the men ought to be thought of. And yet, I'm in deep water now. I'm not a business man; I can't advise you as to these things. There may be all sorts of compensating risks and offsets I can't know about. But surely you won't take the attitude, offhand, that you won't deal with these men? That isn't right&#8212;and it isn't good business."</p>
+
+<p>"Oh, dear! I shouldn't have let Mr. Rouss go ahead like "that!" Elizabeth sighed.</p>
+
+<p>"Where is Mr. Rouss? Is he in the office?"</p>
+
+<p>"No; he went to New York last night. He's to be back in the morning. It's on a matter of getting men to break the strike, I suppose."</p>
+
+<p>"Strike-breakers!" said Hyatt. "The word has an ugly sound, hasn't it? And it seems such a pity in a small place like Farnumville, where, somehow, we're all members of one big family. Why, Miss Farnum, with our advertising campaign just at its zenith, we simply can't have labor troubles. Can we?"</p>
+
+<p>She looked at Hyatt, and then, because she knew her eyes were going to fill and run over, she rose and walked quickly to the window.</p>
+
+<p>SAMUEL ROUSS was in New York at that moment, truly; but he was in earnest treaty with a gentleman who did not at all resemble the usual conception of a lessee of strike-breakers.</p>
+
+<p>Across a flat-topped mahogany desk, swept clean of befogging details, sat an astute-looking, white-mustached, pink-cheeked man in late middle life, who regarded Rouss with a penetrating, understanding watchfulness that embarrassed the general manager of the Farnum Paper Company without rendering him timid. The man was Philip Gaston, and his position in the direction of the Universal Paper Company was so important that he scarcely had an official designation. Gaston was&#8212;Gaston.</p>
+
+<p>"So I am to understand, Mr. Rouss," the Trust counsel was saying deliberately, "that Miss Farnum is about ready to entertain our offer. The&#8212;ah&#8212;strike&#8212;has undoubtedly done something to change her point of view?"</p>
+
+<p>Rouss nodded meaningly.</p>
+
+<p>"But, incidentally, isn't it also a fact that we should be buying a bunch of labor troubles?" went on Mr. Gaston. "Labor troubles are easy enough to acquire without going into the market."</p>
+
+<p>Rouss shrugged his shoulders and laughed.</p>
+
+<p>"It amounts to nothing," he replied. "Give me a good reason for doing it, and I'll stop all that to-morrow. I've got a bone to throw them when the time is ripe."</p>
+
+<p>"Ah, then we might call the strike&#8212;to use a police expression&#8212;an 'inside job,'" flashed back the man behind the desk. "A sort of 'stage' strike, eh?"</p>
+
+<p>The general manager flushed; but he knew that sooner or later this fact must have come out anyway, and he proceeded boldly:</p>
+
+<p>"If you want to call it that&#8212;yes. But don't you believe for a moment, Mr. Gaston, that I am playing a crooked game. I <hi rend="italic">am</hi> looking out for myself, I tell
+
+<cb n="3" />
+
+you frankly; but I have other authority. Mrs. Nathan Farnum&#8212;"</p>
+
+<p>ROUSS looked around cautiously.</p>
+
+<p>"No dictographs here," assured Gaston, with a tinge of sneer in his voice. "But I see it all clearly enough. Miss Elizabeth is making a nuisance of herself, with these notions of being a business woman. I see. So she is to be shown that business isn't all one sweet song. Clever, clever!&#8212;and possibly ethical. Very well. "What do <hi rend="italic">you</hi> want? You have some other purpose, I suppose, besides returning the young lady to an atmosphere more fitted to her charms?"</p>
+
+<p>"Yes, of course I have," replied Rouss, nettled at the irony. "I told you I was looking out for myself. I have managed that business capably, and you all know it. I want to continue, with fuller powers. Furthermore, I want some velvet. When the business is reorganized under your control, I want to have <hi rend="italic">that</hi> much reason for plugging my head off."</p>
+
+<p>As he spoke, Rouss slipped a piece of paper under Gaston's eyes, and sat back. Gaston raised his eyebrows.</p>
+
+<p>"You have brought your nerve with you, Mr. Rouss," he commented gently. "That's no mean block of stock you want.</p>
+
+<p>"You see, Mr. Rouss," he went on, after a pause, "while I don't doubt that you have the power to serve us at this moment, yet, on the other hand, why shouldn't we wait a little while longer, on the chance that we can pick it up without your help?"
+Rouss leaped to his feet.</p>
+
+<p>"Because," he cried, "you'll never get
+
+<note type="editors">
+<floatingText>
+<body>
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+<p>With next week's issue this magazine reaches its second birthday: hence the pleased look, and the cake with the two big candles. Half a million circulation in two years, and more all the time. Just a youngster yet. But gracious! how fast she outgrows her clothes.</p>
+</body>
+</floatingText>
+</note>
+
+another chance at Escutcheon; not in your life-time! And I'll tell you why. There's a chap named Hyatt out there in Farnumville whose power over Miss Farnum is growing every minute. Damn him, I hate to admit it! But it is! I've got him where I want him now. He can't deal offhand with a situation like this. But you once let this strike be settled&#8212;let him have a hand in the settlement of it&#8212;and you've got no more chance at Escutcheon than a jack-rabbit. He's the fellow that got Miss Farnum into the office; and, while his job depends on keeping her there, do you suppose he'll let her quit? I tell you, this is the psychological moment, Mr. Gaston."</p>
+
+<p>"I don't know but you're right," replied Gaston. "After all, I'm acting, not for myself, but for Bowles and the rest. I dare say Miss Farnum, a year from now, will be glad we put the skids under her. Mr. Rouss, you claim to be able to deliver Escutcheon at our figure, eight hundred and fifty thousand. Very well; go and do it. Convince Miss Farnum that she should sell. Wire me to that effect, and I'll come with the necessary papers. I accept your terms. My word is good for that, I suppose?"</p>
+
+<p>"Absolutely, Mr. Gaston."</p>
+
+<p>"All right. Wire me the minute she says yes. Wait! Women are changeable. Perhaps it would be better if I should be where I can get to her office in a hurry. Suppose I come to Regina, and have my car ready when you telephone?"</p>
+
+<p>"That's the best way," agreed Rouss.</p>
+
+<p>"Remember, though," was Gaston's last injunction, "this must be open and above-board. When Miss Farnum gets ready to sell, she must have her counsel there. We want Escutcheon, but we don't want a black eye&#8212;and a black eye
+
+<cb n="4" />
+
+is one of the easiest things for a Trust to get these days."</p>
+
+<p>The strike of the paper-makers was something of a shock to Julia Farnum, in spite of the fact that she was determined to wrest her daughter away from the business. It scared her a little. Besides this, Mrs. Farnum had imagined that, once a real obstacle were placed in Elizabeth's way, she would frown, come to her mother to be consoled and petted, and then gaily throw the whole business overboard. Instead of this program being realized, the good lady awoke to realize that her daughter was coming grimly, unsmilingly home from the office, dark rings under the eyes, silent, with her lips set in a straight line of combat.</p>
+
+<p>IN this predicament, Julia Farnum did what was, for her, the ready-made thing. She sent for Harvey Bowles. And, when he arrived, she went straight to the point with him, with that assurance of a mother who knows that, far from setting a trap to catch an eligible young man for an unsaleable daughter, she was putting Harvey in the way of accomplishing his dearest desire. She said bluntly:</p>
+
+<p>"Beth is very despondent, Harvey. She needs some one to cheer her up; to make her laugh; to take her away from this wretched business. I am very fond of you. So is Beth. I don't think you will ever have a better opportunity than the present."</p>
+
+<p>Harvey Bowles, big, good-natured, lazy, pleasure-loving, screwed up his mouth in a comical way and replied:</p>
+
+<p>"Yes, Mrs. Farnum, you know I'm crazy about her. But you know she turned me down flat last time I spoke to her. She treated me like&#8212;like a big kid. She laughed at me."</p>
+
+<p>"That was just when she got this absurd notion into her head about being a business woman," replied Mrs. Farnum. "It was all rose-colored to her then. I rather think the landscape is dark brown now."</p>
+
+<p>"If I thought I had a sailor's chance&#8212;"</p>
+
+<p>"Oh, do show some self-confidence, Harvey!" was the exasperated retort.</p>
+
+<p>"All right; I'll try again," was the hopeful announcement.</p>
+
+<p>It was gloomy enough at the Farnum table when the three sat down. It was evident that Elizabeth's thoughts were elsewhere. At first she seemed quite oblivious of Harvey's presence. But the young fellow, in spite of his annoying languor and his apparent practical worthlessness and parasitic existence, had the saving grace of animal spirits.</p>
+
+<p>Little by little, Elizabeth's eyes brightened. She had to laugh, in spite of herself. Very cleverly Harvey drew her into the conversation, too; and when they rose from the table, Elizabeth was gesticulating and her voice was vibrant with some of the old-time fun. Mrs. Farnum listened approvingly.</p>
+
+<p>FINALLY the two young people were alone. They sat silently for a few minutes, and then Harvey, perceiving that Elizabeth was relapsing into her earlier sober thoughtfulness, began nervously:</p>
+
+<p>"I say, Beth, I&#8212; want to come back to that&#8212;that matter&#8212;we were speaking about last time I was here. You know, Beth, you're a queer sort, aren't you? You didn't give me any answer at all&#8212;you just kind of wheezed me along. You know how frightfully fond of you I am. I&#8212;can't say those things you read about, but I think we ought to come to an understanding&#8212;"</p>
+
+<p rend="continued">"My dear Harvey," laughed Elizabeth,</p>
+
+
+</body>
+</text>
+
+<pb n="Page 21" />
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p />
+</body>
+</text>
+
+<pb n="Page 22" />
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p />
+</body>
+</text>
+
+<pb n="Page 23" xml:id="ew.issue.19170423.p023"/>
+    
+<text>
+<body>
+    
+<figure n="advertisement">
+<head>Speedy, Sturdy, "Bikes"</head>
+<p></p>
+<figDesc>Advertisement for Montgomery Ward Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Every Woman</head>
+<p></p>
+<figDesc>Advertisement for Hall &amp; Ruckel.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Advertisements for Personal, Patents, Corporations, Male Help Wanted, Miscellaneous Farms For Sale, Typewriters, Business Opportunities, News Correspondents, Photoplays, Stories, Etc.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<text>
+<body>
+    
+<cb n="1"/>
+    
+<p>the water whispering at our feet. Hopeless as it is, foolish as it is, disloyal as it is, I love you!"</p>
+    
+<p>Like a finger of the sunrise, drawn across the morning sky, the color came back into her white face. Into her eyes sprang something that never but once would linger there; the white throat flushed gorgeously. She fixed her eyes on those of the man, as if she would read every word of the book and distil the essence of it before it might escape. Then, with a little sob, she swayed toward Hyatt, her arms raised toward her face, murmuring:</p>
+    
+<p>"It <hi rend="italic">is</hi> true. It has come. I am so tired
+    
+<cb n="2"/>
+    
+&#8212;so glad! So glad you love me. Take me&#8212;home."</p>
+    
+<p>Scarcely able to realize that his hour had struck, Hyatt caught her in his arms, and took her home&#8212;home as she meant it, with his lips on hers.</p>
+    
+<p>And then,&#8212;it seemed long afterward,&#8212;sobbing deliciously, she ran from him and seized the office telephone with a shaking hand. His eyes followed her, amazed at what she did and said.</p>
+    
+<p>"Mr. Rouss? Yes, Mr. Rouss! This is Miss&#8212;Miss Farnam! Yes, I have changed my mind. I will sell&#8212;I am going to sell the business!"</p>
+    
+<p rend="jumpline"><ref target="tilden.19170430">To be concluded next week</ref></p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="stephans.19170423">
+<body>
+    
+<!--figure n="illustration"></figure-->
+        
+<head type="main">Why Is a Piston Ring, Mr. Motorist?</head>
+<byline>By <persName type="author" key="Stephens, Ernest A.">ERNEST A. STEPHANS</persName></byline>
+    
+<figure n="illustration"></figure>
+    
+<cb n="1"/>
+    
+<p>JUST as the strength of a chain is that of its weakest link, so is the piston ring representative of the measure of automobile engine operating efficiency. Of course there are other elements that exercise an influence for good or for evil, but nevertheless the fact remains that if there is anything wrong with the piston rings or their installation the engine simply can not give the adequate service for which it was designed or which its owner may reasonably expect of it.</p>
+    
+<p>If pistons and cylinder walls were expanded by heat at a similar rate, it is conceivable that pistons might be machined so accurately that hey would fit the cylinder perfectly; but, as this is not the case, a series of piston rings is used to form with the piston what is, in effect, a movable wall for the combustion chamber&#8212;a wall that is sufficiently gas-tight to withstand a pressure which is sometimes as high as 400 pounds per square
+    
+<figure n="illustration"></figure>
+
+inch. In other words, the piston ring renders the piston an accurate fit for the cylinder under all conditions of operation. Should it fail to do so, expect trouble&#8212;you will get it whether you expect it or not.</p>
+    
+<p>Briefly, the reason why piston rings effect a gas-tight joint is that they are originally made to a diameter slightly larger than that of the cylinder. A small section is then cut out of the circle, and the ring is compressed so that it will almost fit the cylinder. While in this state, the outer surface is finished to the exact diameter of the cylinder bore, and it therefore follows that when the ring is released from compression, fitted to the groove in the piston, and inserted into the cylinder, it will press against the cylinder wall over its entire surface and make a practically gas-tight joint, except at the cut-out section.</p>
+
+<p>As there are three, or possible four, piston rings on each piston, with the cuts so arranged that they do not come opposite each other or in line, all possible leakage at the joints is eliminated. This is the state of things when each individual
+
+<cb n="2"/>
+
+ring and also the whole assembly of rings are as they should be; and in such circumstances the insignificant little ring of cast iron is promptly forgotten. Too often the important part it plays is never realized until something happens, and then you know all about it.</p>
+    
+<p>If the rings should happen to work around until the openings come directly opposite each other, the immediate and obvious result is loss of engine power. The remedy is equally obvious, but entails some trouble. You just have to open things up and turn the rings until the openings are spaced evenly around the circumference of the piston. In doing this it is a good plan to text the rings and replace any that may have lost their elasticity&#8212;a loss that is often contributed to by the presence of carbon deposits in the grooves. It should be added that, should there be much carbon, the rings may stick or bind in such a way as to cause excessive friction or bad compression. Some rings are held in position by pins, but this practice of pinning has fallen into disuse to a great extent on account of the trouble involved.</p>
+    
+<p>In order to assure proper compression it is necessary that piston rings shall be adequately lubricated. Have you ever noticed that compression seems poor when running immediately after the engine has been idle for some time? Lack of lubrication is often the reason. Of course this is a circumstance that rectifies itself, assuming that the lubrication system is all right. Faulty lubrication during running also means ring trouble.</p>
+    
+<p>With the object of eliminating the various troubles to which piston rings of the ordinary type are subject, many variations in design have been introduced in the past couple of years. There are more than a score of these compound or other special rings on the market to-day, and the sketch opposite shows just a few of the methods by which it is sought to overcome the bugbear of leakage at the joints. Another object is to insure equal pressure around the surface of the cylinder walls, and to attain this end there have been many endeavors to combine concentric and eccentric members, and to produce rings that will accommodate themselves to cylinders which, because of wear, are not longer truly round. Some of these rings are made of steel&#8212;although this is not permitted to come in contact with the cylinder walls, but acts as a carrier which presses cast-iron section against the walls.</p>
+    
+<p>After all, it is the ordinary type of piston ring that is in general use, and it is therefore the ring with those faults we should be familiar. The others are refinements for which greater efficiency is claimed, and time and use will show whether all these claims can be substantiated, as some undoubtedly are.</p>
+
+<note place="bottom-margin" type="Copyright">Published weekly by The Crowell Publishing Company at New York, N. Y., George H. Hazen, President. Executive and editorial offices, 381 Fourth Avenue, New York City, N. Y. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y., under the Act of March 3, 1870.</note>
+    
+<figure n="advertisement">
+<head>Vacuum Cleaners</head>
+<p></p>
+<figDesc>Advertisement for Muenzen Specialty Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Jenkins Band and Orchestra Instruments</head>
+<p></p>
+<figDesc>Advertisement for Jenkins Music Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>You Can Have This</head>
+<p></p>
+<figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Has The Motor Boat Bug Got You?</head>
+<p></p>
+<figDesc>Advertisement for Gray Motor Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Pigeons Pay</head>
+<p></p>
+<figDesc>Advertisement for Majestic Squad Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Amazing Profits in Mushrooms</head>
+<p></p>
+<figDesc>Advertisement for Hiram Barton.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Songwriter's "Key To Success"</head>
+<p></p>
+<figDesc>Advertisement for Knickerbocker Studios.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>LePage's Glue</head>
+<p></p>
+<figDesc>Advertisement for LePage's.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 24" xml:id="ew.issue.19170423.p024"/>
+    
+<text>
+<body>
+    
+<figure n="advertisement">
+<head>Alabastine For Walls</head>
+<p></p>
+<figDesc>Advertisement for The Alabastine Company.</figDesc>
+</figure>
+
+</body>
+</text>
+    
+</group>
+</text>
+</TEI>
+

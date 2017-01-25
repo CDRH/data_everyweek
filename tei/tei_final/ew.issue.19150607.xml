@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19150607">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, June 7, 1915</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2014</date>
+<availability>
+<p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+<idno>ew.issue.19150607</idno>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>52 East 19th Street, New York</pubPlace>
+<extent>20 pages</extent>
+<date when="1915-06-07">June 7, 1915</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2014-06-23"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2012-01"><name>Charity Regennitter</name> Proofreading
+</change>
+<change when="2010-05-25"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2010"><name>Claire Harlan-Orsi</name> OCR/Initial Encoding
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19150607.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3 &#162;</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Every Week Corporation, Brooklyn, New York</publisher>
+<pubPlace>Executive Offices, 62 East 19th St., New York</pubPlace>
+<docDate>June 7, 1915</docDate>
+</docImprint>
+<docEdition>Vol. 1 No. 6</docEdition>
+
+<figure n="illustration">
+<head>A Bully Fire Story&#8212; The Human Pendulum</head>
+<ab type="credit"></ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19150607.p002" />
+    
+<text type="advertisement" xml:id="chalmers.19150607">
+<body>
+    
+<figure n="advertisement">
+<head>"Chalmers Lets the Body Breathe"</head>
+<p></p>
+<figDesc>Advertisement for Chalmers Knitting Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Cut Your Sock Bill In Two</head>
+<p></p>
+<figDesc>Advertisement for Ipswich Mills.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="oneminute.19150607">
+<body>
+    
+<head type="main">One Minute with the Editor</head>
+    
+<cb n="2"/>
+    
+<head type="sub">Confidentially</head>
+    
+<p>CONFIDENTIALLY, we think that the author of next week's lead story is going to be heard from later on. In May we had two short stories by authors of national reputation,&#8212;Meredith Nicholson and Justus Miles Forman. (By the way, this was one of the last stories that Mr. Forman wrote before the Lusitania tragedy gut short his brilliant career.) Both stories were bully.</p>
+    
+<p>Now comes a lead story by a newer writer, Florence Ryerson; good enough, we think, to be classed with the work of those others whose work is better known. There's fine satisfaction in this business of getting hold of writers who are new and coming. See if you agree with us that Florence Ryerson is one of that kind.</p>
+    
+<div1><head type="sub">Two of the Party Were Killed</head>
+    
+<p>A RICH man who loves adventure and doesn't mind the cost spend $50,000 in outfitting a party to explore the wilds of South America. Two previous parties had set out for the same region, and were never heard from afterward. The rich man's party straggled back to civilization last year, bringing with it important scientific discoveries, and enough hair-raising adventures to fill a book.</p>
+    
+<p>Cleveland Moffett tells the story of the expedition, compressing the whole
+
+<cb n="2"/>
+
+bookful into a thrilling full page. That comes next week too.</p></div1>
+    
+<div1><head type="sub">From Another Editor</head>
+    
+<p>TO THE EDITOR: That's a good idea of yours, running fewer stories, and publishing one story that is good enough to be called "the story of the week." In fact, I think it <hi rend="italic">such</hi> a good idea that I wish I had thought of it first.</p></div1>
+    
+<div1><head type="sub">Coming</head>
+    
+<p>THE autobiography of the most abused man in the world,&#8212; a big league umpire. Look for it two weeks from today.</p>
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit"></ab>
+<p>This is the most interesting picture submitted by a subscriber this week. Canaries are peculiarly sensitive to coal gas: the slightest taint in the air will cause them to succumb. So the miners use canaries as life savers. The picture shows a group at a mine where a disaster has occurred, watching the little life savers intently for the first faint sign of death in the air.</p>
+<figDesc></figDesc>
+</figure>
+    
+</div1>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="drlloyd.19150607">
+<body>
+    
+<head type="main">Putting It Up to Dr. Lloyd</head>
+    
+<p><hi rend="italic">THE QUESTION: Can a girl who has only a high school education and some business training, and has not been very much in touch with church work, be a successful minister's wife? This is the Rev. Dr. Lloyd's answer:</hi></p>
+    
+<cb n="1"/>
+    
+<p>A GIRL with a good high school education should have received sufficient culture to fill reasonably well any ordinary social position, in a minister's home, or elsewhere. It is not necessary that every girl should go to college, and there are other ways of obtaining the culture of mind and soul necessary to sustain such a position as a minister's wife must occupy. Your business experience is no disqualification,
+    
+<cb n="2"/>    
+    
+and may indeed be a source of added strength.</p>
+    
+<p>If you are to become a minister's wife, you would have to adjust yourself to a good many situations that are quite new to you. You would find it an exacting position, one in which you would be subject to criticism, both reasonable and unreasonable. and you would need to consider in advance whether any of these criticisms would be just. Ministers' wives have largely the same duties that belong to other married women; but there is a range of responsibility outside of these, and it falls heavily upon the wife of a minister.</p>
+    
+<p>There are two great questions: First, Do you love this man with all your heart, and will you for his sake meet any hardship that may come, and do it gladly and cheerfully, and be his helper all the way? The other is, Are you heart and soul in sympathy with his work? To that he is already committed. He married that before he married you. You say you have not had much experience in church work. That in itself is no disqualification. Very likely in your work you have not been able to give much time and attention to it; but is your heart in work of that kind? If it is, and you love him, and he loves you, you can somehow adapt your lives to each other</p>
+    
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19150607.p003" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>
+Volume 1	Number 6<lb/>
+<lb/>
+
+Every Week<lb/>
+<lb/>
+
+June 7, 1915</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="italian.19150607">
+<body>
+
+<head type="main">He Likes Italian Faces Best</head>
+
+<div1>
+<p>THE youngest prize exhibitor at this year's International Exposition of Photographic Arts knows what he wants. Joseph A. Popino, whose study of lower Fifth avenue on a rainy night carried off a prize, and whose portrait studies attracted much attention, means to be the photographic interpreter of the Italian-American. </p>
+
+<p>"I am an American without any sort of hyphen," says the youthful artist (he casts his first vote in November); "but naturally I feel the beauty that lurks in the Italian face most keenly. I want to capture it all,&#8212;the shy, elusive beauty of the girls I know, the work-worn, patient beauty of their mothers and grannies, the beauty in the face of the day laborer who has sold his little farm and crossed the sea so confidingly to build New York her subways."</p>
+</div1>
+
+<div1>
+<head type="sub">Growing Up in a Family of Ten</head>
+
+<p>POPINO'S father did just that,&#8212;sold his farm in Potenza some twenty years ago and came to America with his wife and nine children. Joseph, the youngest, was born on Thompson street. Of the ten only three are alive now. It is hard to raise so large a family, and Popino Sr. has not found America the country of his dreams.</p>
+
+<p>First of all there was the difficulty of literacy. Italy gives her sons of the divine fires of imagination and courage; but she overlooks the three R's. Then there were the strange new ways of life. The elder Popino found that one lived in this <unclear>big</unclear> country in unbelievably small quarters, for which he paid a fabulously high rent.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photo by Alice Boughton</ab>
+<p>This is Joseph Popino, an Italian boy of twenty, who has already made himself an artist in photography. He grew up in a New York tenement, one of ten brothers and sisters. The picture in the right hand corner is a portrait that he made of his father, who is a janitor.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>And over here the milk does not come from cows or goats, but from strange bottles and cans, and somehow the babies die.</p>	
+
+<p>But by a series of small-sized miracles Joseph managed to stay through the second year of high school.</p>	
+
+<p>Just before leaving school Joseph joined the dramatic club and the modeling class of a West Side Settlement House. Through his friends there the opening came along that decided him to work at photography.</p>
+
+</div1>
+
+<div1>
+<head type="sub">What They Say About Him</head>
+
+<p>IT may be many years before photography is ranked as one of the arts," he says, "and of course I should love to work in oils or clay; but for a person who has to work his way along the camera is a good friend. After all, it is feeling that counts. If only I can make other people understand and love the Italian here in New York as I do, that will make me happy!"</p>
+
+<p>One of Popino's most interesting studies is a portrait of his father enjoying his long-stemmed pipe after a busy day about the tenement of which he is now janitor.</p> 
+
+<p>Older photographers say that the lad's feeling for form, coupled with his searching, sympathetic feeling for intrinsic beauty of subject, should take him a long way toward realizing his ambition. There is much mutual admiration and respect between the young Italian and the master artist and color pioneer, Arnold Genthe. "Photograph everything," Genthe tells him: "never mind lack of equipment. The highest mechanical perfection is nothing without feeling, and that, my friend, you have."</p>
+</div1>
+
+</body>
+</text>
+<text type="nonfiction" xml:id="answer.19150607">
+<body>
+<head type="main">How Does He Get the Answer?</head>
+
+<p>HE'S two years old, and only a dog, but he'll take his chances on arithmetic with any boy or girl of ten. How does Hector do it? Does he really think, or is there some weird psychic connection between him and his master, C. J. Tryon, which makes it possible for him to add numbers, subtract and multiply them, with such startling precision?</p>
+
+<p>"Count ten, Hector!" calls his owner.</p>
+
+<p>The little two-year-old poodle, seated behind his box, bows his head a moment, and closes his eyes as though in deep thought; then, lifting his right forefoot, he taps the telegraph key before him, ringing an electric bell. One-two-three, he taps, and so on until he reaches nine. There is another moment's hesitation: then the little paw moves forward again&#8212;ten, he taps, and, like any child who has performed his lesson well, settles back into his seat with a look of quiet contentment.</p>
+
+<p>Hector will multiply any two numbers under ten, and tap out the answer unerringly. He will add three numbers, such as five plus seven plus four.</p>
+
+<p>All kinds of explanations of Hector's peculiar power are attempted. "His master signals to him," is the most frequent one. But how shall we explain this trick? A number is written upon a slate by one member of the company, who holds it upside down on a table. The minds of all the group are then fixed upon the number, and their eyes turned toward Hector. No one speaks; no one changes his position a particle. The little dog appears conscious of the fixed scrutiny, however; for in a moment or two he stirs uneasily, and then, raising his foot while the company sits almost breathless, he taps out the number on the slate.</p>
+
+<p>"I discovered Hector's wonderful power by accident," says his master, "and have developed it by the same methods as I would a child's."</p>
+
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">This two year-old poodle can add and multiply better than most children five times his age.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<text type="photograph" xml:id="gusher.19150607">
+<body>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">This is the biggest natural gas gusher known. It shoots out eighty feet of flame, and at night it lights up the whole surrounding country. It is called the Pelican Gusher, and is located near Edmonton, Canada.</hi> </p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+
+<pb n="Page 4" xml:id="ew.issue.19150607.p004" />
+
+<text type="photograph" xml:id="film.19150607">
+<body>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">It cost $25,000 to make this moving picture film. The company bought a real pier and a real train to do it with; but the passengers were only dummies.</hi></p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="toy.19150607">
+<body>
+<head type="main">Should We Have a Toy Censor?</head>
+
+<p>MARY L. READ, director of the New York School of Mothercraft, believes that we become what we play with. In her open air Child Garden there are no toys that teach destruction, no models of submarines or torpedo boats, no wooden guns, lead soldiers, or toy cannon. There are no flimsy toys, put together with a little uncertain glue, wabbly wooden lambs or papier mache puppy dogs. There are no nerve-taxing toys or intricate puzzles, and there is nothing that makes an ugly noise.</p>
+
+<p>But blocks, both the wooden kind and the stone kind, are to be found there. All kinds of musical toys are in high favor, along with paint boxes and colored crayons and tool boxes and sewing kits and dress-able dolls and playshops and playhouses and playbarns. Kites and tops and marbles are there, cook stoves that will really heat things, and engines that will really go.</p>
+
+<p>It is said that when Edith Craig, Ellen Terry's daughter, who had been brought up on Whistler etchings, was given a regulation prettified French doll, she burst into tears. A child brought up on intimate terms with genuine beauty of color, form, and sound will not in after years have to depend upon guidebooks and catalogues to tell him what he should like.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="policeman.19150607">
+<body>
+<head type="main">She Can Throw a Policeman</head>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">She can throw a policeman by jiu-jutsu, and swim ten miles at a stretch.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<p>THIS is one of Philadelphia's most formidable athletes, Florence McLoughlin, age eleven.</p>
+
+<p>The fact recently leaked out that Florence had overthrown in a friendly but final sort of way several stalwart members of the Philadelphia police force, who had been persuaded to meet her through the influence of her trainer, Sergeant B. Frank Rodman.</p>
+
+<p>Florence turns the trick on all comers by means of jiu-jutsu, in which subtle science she is as expert as an Oriental. And there isn't any comeback for the vanquished, such as throwing the muscular youngster off a cliff, as the villain continues to do to "Poor Pauline"; for Florence in the water is twice as invincible as Florence on land.</p>
+
+<p>In 1913, when only nine years old, she swam a mile and a half in the Schuylkill River in forty-six minutes.</p>
+
+<p>In August of that year she swam five miles in the same river in the remarkable time of three hours and three minutes, and when examined at the finish was pronounced in perfect physical condition.</p>
+
+<p>In last July, at the age of ten, she made a wonderful swim from Philadelphia to Riverton, New Jersey, a distance of ten miles, and again in August, in the women's amateur half-mile championship race, she won third position, and lost second only by failing to touch the tape at the finish line, because of her childish ignorance of the proper thing to do on such an occasion.</p>
+
+<p>The young athlete is a happy, pretty, natural little girl, noticeably different from her playmates only in that she actually likes to go to school. She brought home last June a report for the year of an average of ninety-seven and a half per cent. in all her studies.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="canary.19150607">
+<body>
+<head type="main">The Canary with the Farrar Voice</head>
+
+<p>AMONG canaries good voices are not accidental. They are invariably the result of breeding and proper training. A bird dealer who knows his business (of these there are not a great many) will take an order for a singer of certain quality a year before the egg is laid from which it is to come.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photo by Brown Bros., N.Y.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>All good singers must he reared far from unlovely noises. The breeder, when the birds are very young, weeds out the poorer voices, sells the birds cheap, and works only with the promising singers. He decides whether his bird has a properly low or high voice, puts his cage next to that of one of his mature singers that has the register of which he believes his young bird is capable, and then segregates the pupil and the teacher from all other birds. At Andreasberg, where some of the best voices are produced, the breeder often puts the pupil with a European nightingale instead of with a master canary.</p>
+
+<p>Among canaries the fine singers are much more intelligent than the indifferent voices. They observe and imitate, like appreciation, and will sing best for an audience. They are fond of people, especially of yellow-haired women and tow-headed children, and distinguish perfectly between different members of a family. Their preferences in people are decided.</p>
+
+<p>Often the finest singers are frugal of their best songs, and will twitter and chirp about in a rather ineffective way, throwing out an occasional trill, until, at a signal from some favorite human friend, they will take their perches firmly, throw back their heads, and pour out their best. A good singer is seldom too prodigal of his best singing, and gives it out only when he has some agreeable stimulus from the outside.</p>
+
+<p>Good singers have an instinct, too, about saving their voices, and it is cruel to overwork them by stimulating them too much. Overwork ruins any voice. If a bird is expected to work in the evening, his cage should be put in a dark place for two or three hours in the afternoon. His evening song will be all the more brilliant for this, and his voice will not be overstrained.</p>
+
+<p>A singer should be kept out of drafts,&#8212;they are positively fatal to him,&#8212;and should never be left in a chilly place or in a place where there is steam. Steam ruins a bird's throat. No canary should be hung in the sunshine for more than fifteen minutes; after the bath, for instance. Bright sunlight in the cage is especially bad for singers. A bird should never be encouraged to sing when he has a cold.</p>
+
+<p>The cage must never be covered with a shawl or a towel, with cloth of any kind. The proper covering is a paper bag that fits close over the bottom of the cage and comes about four inches above the ring by which the cage hangs.</p>
+
+<p>Too much physical exercise is ruinous to a canary's voice. If a bird is let out of his cage and allowed to fly about the room, he will sing less and less often. Soon his owner will find that the bird's best songs are but a memory. The bird never produces them again, and constant confinement in the cage does not now bring them back. The superfluous energy that was needed to produce his song has gone into his wings.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photo by Brown Bros., N.Y.</ab>
+<p><hi rend="italic">This is Holden, the famous bird breeder, piping to one of his best singers. The bird above is a Campanini Holden, a canary with a wonderful voice.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19150607.p005" />
+
+<text type="fiction" xml:id="mcfarlane.19150607">
+<body>
+<head type="main">The Human Pendulum</head>
+<byline>By <persName type="author" key="#McFarlane, Arthur E.">ARTHUR E. McFARLANE</persName></byline>
+
+<note type="editors">THIS is a story of New York and of the thing that makes life in New York more interesting than in any other city in the world. It tells of how two men took the hundredth chance, and how, with pluck, humor, and iron nerve, they got away with it.</note>
+
+<p><hi rend="italic">SAVE me! Save me!"</hi></p>
+
+<p><hi rend="italic">"Sure, Madam, sure we'll save you!"</hi></p>
+
+<p><hi rend="italic">"These sort of acts is our speciality."</hi></p>
+
+<p>And then, both together:</p>
+
+<p><hi rend="italic">"For we're two of the lads of old Hook an' Ladder Three Hunderd an' Eighty-eight!"</hi></p>
+
+<p>Into the middle room of that top-floor-rear McCreary flat they had pulled the bureau, sideboard, and chest of drawers. Mounted end to end on them, and roped for security to stove and beds and door-knobs, were the kitchen and the ironing tables. And the said kitchen and ironing tables were the roof edge of a fire-engulfed apartment house.</p>
+
+<p>Stomach down on the ironing table, with his off leg crooked about its off leg behind, and his head hanging far down in front, lay the first artist. With his large, red, freckly arms he was gripping the knees and hocks of the second, who like-wise swung head down. And clasped to <hi rend="italic">his</hi> fearless fireman bosom was what may be called the third, a wire-framed, wax-headed garment model in a night-dress.</p>
+
+<p>The first artist was Special Driver Thomas Jackson, better known, because of his favorite oath, as Gosh. The second was First Grade Truckman John McCreary, commonly called Buck. Both were of true hook-and-ladder construction,&#8212;long and rangy and solid of joint. Obviously too, they were of Walt Whitman's tribe of "powerful, uneducated persons." And they were at present engaged concentratedly and dramatically in the rescue of the lady with the wire frame by that "highest feat of fireman derringdo, the human pendulum."</p>
+
+
+<p>THE human pendulum is this:</p>
+
+<p>When a person on an upper window sill cannot be reached from ladder or fire escape the rescue can sometimes be made from the roof. If the cornice or parapet gives leg-hold to a fireman big and strong enough, he will let down a second fireman head first, till the person on the window sill can be grasped by him. And then that upper fireman begins steadily to swing them. By sheer muscle he gets rescuer and rescued always higher, until other hands can clutch them from above, or until, by one final, superhuman swing, he can bring them to the roof alone.</p>
+
+<p>That is what the human pendulum is. And its present performers were doing everything alone.</p>
+
+<p>By now too the act had all but reached breathless, thrilling, climax.</p>
+
+<p><hi rend="italic">"Oh, I fear you will let me fall!"</hi></p>
+
+<p>The lady being unable to speak her own lines, Buck, as the lower man, was speaking them for her. But, clenched together 
+in a regular clove hitch like that who would know who was speaking? And&#8212;</p>
+
+<p><hi rend="italic">"Oh, do not"</hi> (she continued), <hi rend="italic">"do not let me fall!"</hi></p>
+
+<p><hi rend="italic">"Madam"</hi> (Gosh continued), <hi rend="italic">"we will say only this: Before we let you fall, we will fall ourselves!"</hi></p>
+
+<p><hi rend="italic">"Oh, you cannot do it. You will only perish, and thus lose your own lives too!"</hi></p>
+
+<p><hi rend="italic">"Madam, if we do it will be a pleasure; for"</hi> (again both together) <hi rend="italic">"we will be
+
+<cb n="2" />
+
+doing it for old Hook an' Ladder Three Hunderd an' Eighty-eight!"</hi></p>
+
+<p>But they were not so to perish and lose their lives. One more terrific swing, a lurching flip-back, a smashing strain on ropes and tables and garment-model wires, and, with a <hi rend="italic">"Pretty good, not?"&#8212;"Yeh, pretty dang good!"</hi> that human pendulum could gaspingly unjoint itself and sit up perspiringly to rest.</p>
+
+<p>"The Human Pendulum"&#8212;for such too was its title as a drama&#8212;had been written
+
+<figure n="illustration">
+<head></head>
+<p><hi rend="italic">"The pendulum came back in another long and fearful swing. From every sash joint was now whiffing that sharp, gray, blistering smoke."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+with a purpose,&#8212;to immortalize an unequaled record of heroism held by an Hook &amp; Ladder 388. Where ordinarily an entire fire department may make one pendulum rescue in a dozen years. 388 alone had made three in the last five. "The Human Pendulum" was to be performed that night, and within three hours, at Clarion Hall, as 388's special, top-liner contribution to the Eleventh Grand Annual Firemen's Concert and Benefit. And, as might be read on the already-quoted program of the same, "the said Act and Drama by have been originated and composed by the members of the company
+
+<cb n="3" />
+
+it so greatly honors."</p>
+
+<p>Nor was there any sister, wife, or lady friend of those joint members but would be at Clarion Hall to see their triumph.</p>
+
+<p>"Bucky, old scout," this time Gosh was the first to he able to speak again, "she's goin' to tear 'em up&#8212;right up by the roots!"</p>
+
+<p>"Nothin' to it! Jinks, did yuh hear what that doorman over at the hall was sayin'?"</p>
+
+<p>"Yeh?"</p>
+
+<p>"That if ever we wanted to shake the d'partment, a team like us could make everlastin' dang good money in Art!"</p>
+
+<p>"Gosh! But yuh might say that he's sure the lad that'd ought to know. Well, four o' the boys'll be able to get off anyways. They'll be waitin' for us behind the scenes."</p>
+
+<p>It was very hot up there under the ceiling. But their time was short. They must get in at least one last once-over. And as soon as they had mopped the heaviest of the sweat away they would begin again.</p>
+
+<p>"That red fire is goin' to be great stuff, all right, all right!"</p>
+
+<p>"Sure! An' the spotlight sharp he says he'll be holdin' <hi rend="italic">her</hi> on us every minute. Well, yuh ready?"</p>
+
+<p>"Let her go!" And, linking up, they dropped down to it.</p>
+
+<p><hi rend="italic">"Save me! Save me!"</hi></p>
+
+<p><hi rend="italic">"Sure. Madam, sure we'll save you!"</hi></p>
+
+<cb n="4" />
+
+<p><hi rend="italic">"These sort of acts is our speciality..."</hi></p> 
+
+<p>Again they ran it through.</p>
+
+<p>But by then it was long after six. From 98th street to the hall it was a good thirty-five minutes. Buck's old woman was still "doing for" Katie, sick in Williamsburg, and they had to feed themselves. Hurrying more and more, they ate what was handiest, and shaved and dressed. And then they had to wrap and tie up the lady of the wire frame in a street garb of old newspapers. Seven had struck when finally they were turning out the gas.</p>
+
+<p>AND, even at that last moment, Gosh remembered that at the Clarion they needed an extra guy line, and he had to go hack to get one from their tables. No need, though, of lighting up again. It was only a matter of easing a few half hitches. And he pulled himself up to do it.</p>
+
+<p>He was feeling for the third when his fingers came strangely to a stop and he stood motionless. As nearly as Buck could make out, he seemed to be staring into the top-floor flat next door.</p>
+
+<p>And, "Bucky," he half breathed at last, "easy on the noise stuff, an' come up here!"</p>
+
+<p>The people in the flat across the air shaft&#8212;Zolnochy their name was&#8212;had pulled all their blinds far down. But one blind had been torn from the roller in a little dog-ear, which left an opening for vision from above. Between the bed and the hall door, which opened into that middle room, a young man was stooping over a pair of suitcases. He was in fact taking garments from those suitcases and hanging them in the big, ever-present tenement wardrobe. And the said garments all alike possessed one peculiarity, though clearly of considerable former value, all were now soiled and crumpled, watermarked or singed.</p>
+
+<p>"Do you get it?" breathed Gosh again. "My Gawd! do you get it?"</p>
+
+<p>"Do I get it?"</p>
+
+<p>And what they were getting was something which meant that in all human probability the performance of "The Human Pendulum" at that night's Grand Annual was therewith and definitely postponed. For the last three months 388 company, and every other company in the same division, had been in pursuit of a gang of professional tenement fire-makers. And, according to all reliable information, they, Gosh Jackson and Buck McCreary, were now looking on at the first step in the preparation&#8212;and that next door to them!&#8212;of one more thorough-going rear-flat "flash."</p>
+
+<p>THE average four-room tenement flat contains property worth less than $100. It is offered insurance policies for $400,
+
+<pb n="Page 6" xml:id="ew.issue.19150607.p006" />
+
+$500, $750. And for long the result has been arson, at once a business and a finished art. When a really up-to-date band of tenement operators "solicits" fires, the tenement dweller who "accepts" one need, if timid, merely hand over his keys, take his family away for the day or the evening (as doubtless Zolnochy was doing now), and all will be over when he comes home again.</p>
+
+<p>The firebugs run little risk. They may leave evidence sufficient for the fireman and the fire marshal. But rarely do they leave any legal evidence; which, in arson, must be incredibly <hi rend="italic">legal</hi>. The tenement householder runs practically no risk at all; for he has his alibi. He is given enough of the insurance money to make the experiment pay him well, and to make some of his intimate friends want fires. And very soon the "flashes" or "touch-offs" in a single district will number dozens. They had long since numbered that in the district covered in part by 388 company.</p>
+
+<p>Again, since the tenementers' own belongings will, unassisted, make the poorest of "loss claims," very often, to help them out, "phony fire stuff" is brought in. "Phony fire stuff" consists of the stored-up debris of flood and dump and previous fires. Though it has been in half a dozen previous fires, who can prove that ten minutes after the singeing and water-soaking, the treading and miring, it will receive in the fire to come? And the young man with the suitcases&#8212;he looked like a disreputable well dressed young Italian&#8212;was now bringing in his part of the Zolnochys' "fire stuff" clothing.</p>
+
+<p>He was not merely unpacking and hanging it up, he was arranging it. He was placing those things already badly singed nearest to the wardrobe doors. He was surrounding all garments not naturally inflammable with garments that were. And everywhere he was leaving good air spaces for drafts between.</p>
+
+<p>But he finished at last, and, running his eye rapidly and reckoningly over such wardrobe hooks as still were garmentless, apparently to estimate what more was needed, he turned out the gas and departed.</p>
+
+<p>AND, on the McCreary ironing table, two erstwhile artists of "The Human Pendulum" could let out breath again.</p>
+
+<p>"Well, I'm a son of a gun!"</p>
+
+<p>"Say, wouldn't it&#8212;wouldn't it eat you up?"</p>
+
+<p>Their eyes turned to where, palely outlined beside the door, the lady of wire and wax seemed already to be gazing at them apprehensively.</p>
+
+<p>And well she might; for,&#8212;what need to say it?&#8212;when compared with the duty of preventing crime, even "Human Pendulum" acts must become as things of naught.</p>
+
+<p>"But, Lord! o' course it couldn't come on any other night but this&#8212;not in a million years!"</p>
+
+<p>"Will I chance pikin' it," asked Buck, "an' gettin' it to the firehouse? I could do it in ten minutes. An' they&#8212;they could 'phone the hall."</p>
+
+<p>"We couldn't risk it. Maybe they're ready to pull her now&#8212;an' one of us wouldn't be enough alone. What's more, if they're pullin' her P.D.Q., no need of doin' any 'phonin'; for we don't go on till
+
+<figure n="illustration">
+<head></head>
+<p><hi rend="italic">Fire will not of itself run readily from room to room. and a really successful tenement 'touch-off' must first burn slowly for long enough to let the 'touch-off' man make his get-away."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="2" />
+
+near to intermission. An', by Gosh! maybe we'll have the time to make her yet!"</p>
+
+<p>"Sure&#8212;sure!" Buck too went through the motions of deluding himself with that hundredth chance. "Likely we'll be able to nail 'em both."</p>
+
+<p>IF they pulled her P.D.Q!" But the gentlemen arranging the flash in those Zolnochy rooms were in no hurry whatsoever.</p>
+
+<p>The thing that would make it seem almost impossible to prepare a fire, with everybody still about in a crowded tenement, is the thing that makes it easiest. In the average six-story "double decker" there will be more than twenty families, most of them with boarders, and half are ceaselessly moving in or moving out. The janitress herself does not pretend to know then all. Strangers with suitcases (the "boarders," as they are often known, of the tenement firebug business) are noticed as little as they would be in the street outside.</p>
+
+<p>IN some fifteen minutes the Zolnochy door was opening to another.</p>
+
+<p>He might have been a brother of the first. He too brought more clothing&#8212;and hats. Even the little Zolnochys were well provided for. Then his suitcases began to yield chair drapes and mantel decorations, second-hand table covers and third-hand dittos for bureau and dresser. A pair of unspeakable portieres followed, and two silk-quilted bedspreads in even worse condition.</p>
+
+<p>Merely to put so many things in their proper places took much time. A certain Grand Annual Concert and Firemen's Benefit, for example, had by now reached its fourth number&#8212;with a delegation from 388 company in the wings gnawing at their fingers with anxiety.</p>
+
+<p>But at last that second "boarder" had finished. And, strapping up, he turned out the gas and in his turn departed.</p>
+
+<p>AN' you too," choked Gosh, "we're goin' to get too&#8212;sometime! Lord! only that it ain't legal evidence till you've flared your match!"</p>
+
+<p>Buck was flaring one now. And, glimpsing an ancient dollar watch, he saw what he knew already,&#8212;it was nearly nine.</p>
+
+<p>"But that's all right, see," he said doggedly, "that's all right. Likely we've got the time to make her yet."</p>
+
+<p>"Meanwhile," said Gosh, "me to see that the way to the Zolnochys is all clear."</p>
+
+<p>He slipped noiselessly down and out into the hall, and rapidly reconnoitered the stairway and scuttle that opened upon the roof. In such tenement rows the roof, save for the airshafts, is level and continuous. Like their own, the house next door gave access from it through an open scuttle. And when the awaited moment
+
+<cb n="3" />
+
+<figure n="illustration">
+<head></head>
+<p><hi rend="italic">"He wasted no time. Like the man before him, he carried a pocket flash."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+came, in twenty jumps they would be able to cover both Zolnochy exits, the door and the fire escape, together.</p>
+
+<p>"All O.K!" No time would be wasted there.</p>
+
+<p>AND it was barely five minutes till that Zolnochy door was letting in the individual who has been called the "fixer with the tin pail."</p>
+
+<p>The tin pail&#8212;when there is a tin pail&#8212;contains benzin, or "gas," or "clean alcohol," or some combination of the same. It is carried up those tenement stairs publicly and without fear, because in the average tenement a dozen such pails are used nightly for the carrying in of beer. And, since the pail is covered, who would know if it contained nitroglycerin?</p>
+
+<p>Needless to say its present bearer lit no gas. But he had a pocket flash, and he could be seen steering himself through to the kitchen. There he opened the window, and, by the sounds, set the pail out-side upon the fire escape. Plainly he was first going to do some preliminary "fixing."</p>
+
+<p>Fire will not of itself run readily from room to room. And a really successful tenement "touch-off" must first burn slowly for long enough to let the "touch-off man" make his get-away; and then burn with all possible speed to destroy all betrayals and to make the loss complete by the time the firemen can break in.</p>
+
+<p>The present "fixer" was making sure that the Zolnochys' fire would do all that. Room after room he "fixed"; while two watchers on the ironing table hooked and unhooked their fingers, looking to the moment when he should return to the kitchen window and the tin pail. As they lay there their bell began to ring. And it. rang and rang again. But they let it ring. In about another two minutes now, in just about another two minutes&#8212;</p>
+
+<p>"Gosh!"</p>
+
+<p>Leaving the tin pail untouched, that "fixer" had shut his flash and opened the door and slipped away like the two be-
+fore him. The actual "touch-off" man was still to come.</p>
+
+<p>"Could you beat it?"</p>
+
+<p>"<hi rend="italic">Could</hi> you beat it?"</p>
+
+<p>And for the present they spoke no more about the Clarion.</p>
+
+<p>"Bucky, old scout," said Gosh, "if they lay on the fluid like they've done their fixin', an' I guess they will, we can't take the chance alone. I'll try to hold things here while you beat it down to the house and have them have an engine ready."</p>
+
+<p>THE McCreary flat was on 98th street, and the firehouse of 388 company on 92d. The runner reached it speechless.</p>
+
+<p>But Foxey Creel, "on the desk," spoke for him. "Well&#8212;what the blazes! The bunch at the hall have been burnin' the 'phones for you. I send Johnny up, an'
+
+<cb n="4" />
+
+he reports you've left, an' the flat is dark. Say, you ain't welshin' on her? You
+ain't&#8212;"</p>
+
+<p>"Welshin' nothin'!" he cried. And, as he got his breath he told him all he needed. "No, an' we don't want anyone else&#8212;inside. Get a man up on 98th that can take a wigwag from the roof. Have 300 engine planted with you round the corner. And that'll be all required from you. An' if you're askin' about the Pendulum&#8212;you can tell the boys that&#8212;by James! Maybe she'll be swingin' yet!"</p>
+
+<p>STILL inextinguishable beam of hope!</p>
+
+<p>And they were still hoping, and the Zolnochy rooms were still in darkness and silence, when&#8212;it seemed hours later&#8212;some neighboring clock began to strike. It was only ten; but it was enough.</p>
+
+<p>"No use, Bucky."</p>
+
+<p>"Aw, t'hell&#8212;t'hell!"</p>
+
+<p>And at last they gave it up.</p>
+
+<p>AND at Clarion Hall they had likewise given it up.</p>
+
+<p>When first the chairman, the Hon. Chauncey O'Niel, announced that "owing to the performers of the number known as 'The Human Pendulum' not having as yet arrived, the said number will be temporarily postponed," there was every belief that that postponement was only temporary. In fact, ten minutes later announcements could be made that other members of 388 company, present to assist the performers, had learned by telephone phone that Messrs. Jackson and McCreary were on their way, and accordingly they might now be expected to appear at any time.</p>
+
+<p>But they did not appear at any time. They did not appear in time to take the next number, nor the next, nor the next.</p>
+
+<p>When intermission came it was pro longed for a quarter of an hour, in the hope that all might then be well. In vain! By then, indeed, the rumor had been spread abroad&#8212;though it found no believers&#8212;that the artists of "The Human Pendulum" had not yet left their rooms.</p>
+
+<p>Whether they had or not, another number had to be taken, and another. And in the end, amid general wonder and resentment, the still unshaken resistance of 388's delegation behind the scenes, and the stupefaction of its sisters, wives, and lady friends, the Hon. Chauncey had to announce that the <hi rend="italic">chef d'&#230;uvre</hi>, the <hi rend="italic">piece de r&#233;sistance</hi>, the peerless top-line act of that year's Grand Annual, could no longer be called.</p>
+
+<p>IT was perhaps ten minutes after that that on 98th street the Zolnochy door opened opened once more, and the gentleman for whom the tin pail had been left arrived.</p>
+
+<p>He wasted no time. Like the man before him, he carried a pocket flash; and like him, he used it to light himself directly to the kitchen and the fire escape. Another minute, and the dull clinking of the pail said that he had gone to work.</p>
+
+<p>He finished the kitchen first. Then he laid his train in the second room. Now he was in the middle room again. He passed from it to the fourth and last. And now, once more, he was working his way back to the kitchen.</p>
+
+<p>That's the dope&#8212;that's the dope, all right!" Buck followed him ineffably. "Us poor simps has held the sack times enough to know you've got the fire-stuff dope all right!"</p>	
+
+<p>"An' if the whole bug bunch of yourselves was in there now, there might be some thing in it for us after all&#8212;or even if we could put it up to the big bugs. But you alone, Gosh&#8212;I reckon we couldn't choke it out of&#8212;"</p>
+
+<p>AND then from the kitchen they caught the reflection of a small, greenish sickly, firefly glimmering.</p>
+
+<p>"Come on!"</p>
+
+<p>"Jump him!"</p>
+
+<p>They flipped to the floor like cats. At the door Gosh stumbled and fell over something,&#8212;the still unrescued lady 
+of wire and wax.</p>
+
+<p>"Ah, far enough for yours!" he cried. "It's been all off for Art an hour ago!"</p>
+
+<p>Buck was already on the roof. "But
+
+
+<pb n="Page 7" xml:id="ew.issue.19150607.p007" />
+
+we're goin' to nail one little torch-man, anyways!"</p>
+
+<p>He sped around the airshaft, across to the next house scuttle stairs, and down the half-flight to the Zolnochy hall.</p>
+
+<p>Meanwhile Gosh too was once more hot upon his heels. He ran to the front of the roof, did his wigwagging, and then whipped back to his place above the fire escape. If that "torch-" or "touch-off man" did not show himself at the one get-away, he must show himself at the other. Could anything be surer?</p>
+
+<p>ONLY this: For once a very slight miscalculation in the use of that till pail, and for once a fire so instant and leaping that within ten seconds it had barred the fire escape. Within twenty it was racing, a blue-green wraith, through the second room and the third&#8212;and the door was barred! And, within some fifteen seconds after that, to Gosh upon the roof there began to come, seemingly from the air-shaft, a kind of gibbering cry for help.</p>
+
+<p>"Bucky!" he yelled. "Buck!"</p>
+
+<p>And they ran to it together.</p>
+
+<p>Their man had fought his away out through the middle-room window, had managed too to force it down behind him; which, for several minutes, would keep the fire inside. He was standing on the sill, clinging to a big clothes-line hook. And as he stared upward. "Safe me!" he was crying, "Safe me!"</p>
+
+<p>"Well, I'm a son of a gun!" said Thomas Gosh Jackson, and "Wouldn't that&#8212;wouldn't that eat you up?" said John, Buck McCreary; for if that "torch-man" was to be saved at all, a thing that at least seemed necessary, they could do it only by "that highest feat of fireman derringdo, the Human Pendulum!"</p>
+
+<p>FROM the street outside there whirled up to them first a shouting, and then the sirening, gonging oncome of 300 engine and 388 truck. The house itself too was now wildly awakening. And within three minutes, to make a way for the water, the men of 388 would have their work in clearing the strangled halls.</p>
+
+<p>But from neither street nor halls could anyone see the airshaft. And again, the human vocabulary being limited under conditions of stress, "Safe me!" screamed the man who had made the fire, "Ah, <hi rend="italic">mein Gott</hi>, safe me!"</p>
+
+<p>"Oh, sure! Nothin' to it!" "Sure we'll save you! Ain't you heard us recitin' it for a month? These acts is our speciality."</p>
+
+<p>Just behind that airshaft parapet, and a half-dozen feet to the right of the window, was an iron vent pipe, the ideal leg-hold. Gosh crooked himself to it, and with the swift dexterity of unnumbered rehearsals Buck went down and over him. Gosh's large, rooty arms and wrists knotted themselves around Buck's hocks
+
+<cb n="2" />
+
+and knees. Another moment, and they would be tinder way in their full swing.</p>
+
+<p>But at the last moment Gosh balked. Exasperation itself had suggested the opportunity. And. "By-y Gosh!" he said. "we've got a minute anyways&#8212;the time it'd take him to wise us to that boarder bunch. An' that'd square us some!"</p>
+
+<p>"Sure! Sure!" Not less instantly and implacably did Buck grasp at it. "We ain't any third-degree men. But, by Gee&#8212;" and then to the figure trying writhingly to reach him from the clothes-line hook. "By Gee! before we get you we just want to know who them boarders was."</p>
+
+<p>"Boarders! I swear to <hi rend="italic">Gott</hi>&#8212;"</p>
+
+<p>"Shoot it, now, shoot it! For once them winda' panes crack out&#8212;"</p>
+
+<p>In point of fact, once that had taken place the position of all three of them would be substantially the same.</p>
+
+<p>"Shoot it! Oh, no! No, you don't. Not yet!"</p>
+
+<p>"Oh, <hi rend="italic">Schweinehund!</hi> If it wass my last hour&#8212; An' they would cut my heart oudt!</p>
+
+<p>"Not if you roast here first. An' by Gee&#8212;"</p>
+
+<p>"Padula!" It came in a shriek. "Nick
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+an' Mike Padula. You know, by the Car Barn Gang by Afenue A."</p>
+
+<p>They did know! The Car Barn Gang was about the best known of political-cadet and gun-fighting gangs on the upper East Side. Nick and Mike Padula were the personal lieutenants of its local padrone-boss protector.</p>
+
+<p>WELL, I'm a&#8212; An', by Jinks! just for that I'm goin' to ask him another!"</p>
+
+<p>"What iss? Oh, <hi rend="italic">zum Teufel&#8212;</hi>"</p>
+
+<p>"Your fixer lad&#8212;where do we get to him?"</p>
+
+<p>Behind that "torch-man" on the sill those Zolnochy rooms now seemed full of fire. "You are crazies!" he yelled 
+raucously. "You are madt alretty! You will burn yourselds!"</p>
+
+<p>"Sure we're mad&#8212;dang mad. An' with everlastin' dang good cause! That fixer?"</p>
+
+<p>"Herron&#8212;Maxey Herron!" Again it came in a shriek. "He iss a barkeep&#8212;in the oldt man's place in Williamsburg."</p>
+
+<p>"Could you beat it?"</p>
+
+<p>"Say, wouldn't that&#8212;wouldn't that&#8212;"</p> 
+
+<p>For the "old man" was that district boss and protector himself.</p>
+
+<p>"But, Lord, Bucky, you better get him now!"</p>
+
+<p>"Sure." And, taking Gosh's motion, a second swing brought him almost near enough to make his catch. "Oh-h no! I'll find the hold&#8212;because we want you to keep on talkin'&#8212;an' if you don't&#8212;"</p>
+
+<p>Again Gosh swung him in. In a twitch he had found his hold&#8212;by the shoulders. And next moment they were bucketing hack through space in their first real pendulum sweep.</p>
+
+<p>"An' now&#8212;the old man&#8212;for you betcha he's in it too himself&#8212;how do we get the goods on him?"</p>
+
+<p>"<hi rend="italic">Ach—Himmel und Erde!</hi> For security that he gets hiss&#8212;I&#8212;I get him the policies."</p>
+
+<p>"Gawd!" The pendulum came back in another long and fearful swing. And from that sixth-floor level the black but ruddied air-shaft bottom looked as deep as the floor of hell. The voice of panic, too, that now came from every room and hall below was the voice of hell. "Gawd! we'd ought to&#8212;let you drop. But your fire stuff—where does it come from?"</p>
+
+<p>"From Messing's&#8212;the Empire Bargain Store&#8212;on
+
+<cb n="4" />
+
+First afenue. An' Messing&#8212;he fixes eferythings—oh, <hi rend="italic">mein Gott!</hi>" And again he took the downward jerk. From every sash joint, too, of that middle window there was now whiffing that sharp, gray, blistering smoke which must turn to spouting flame at any moment.</p>
+
+<p>"Go on&#8212;go on!"</p>
+
+<p>"He fixes the broker an' adjuster. They are together alretty at the Capitol&#8212;at Heide's cider <hi rend="italic">Stube</hi>&#8212;tonight. All iss in Messing's expense book too. They haf made forty, fifty, touch-offs&#8212;"</p>
+
+<p>And&#8212;barely in time&#8212;with one last heave and swing that human pendulum, and the evidence for a most memorable, comprehensive, and satisfying arson trial, came safely to the roof.</p>
+
+<p>THEY were still lying where they had rolled when two fellow members of 388 company, in dress uniforms, tried desperately to burst their way past the truck and pipemen down below. They had just come from Clarion Hall, crazily and in a taxi, with a pause en route to get information at the firehouse.</p>
+
+<p>"It's all right, too! It's all right!" they kept repeating. "They've got the time to make it yet. If they'll only beat it now,&#8212;you can 'phone them we're a comin',&#8212;by James the act'll he a re'lar grand funnalley!"</p>
+
+<p>AT the Eleventh Grand Annual Fire-men's Concert and Benefit the Hon. Chauncey was making one last preliminary announcement and explanation. Though late the hour, no seat had yet been emptied, and the rapt hundreds sat expectant.</p>
+
+<p>"<hi rend="italic">And</hi>, Ladies and Gents," he continued, "far and on the contrary from havin' to make any apology for said delay, I am now in a position, and I say it with new pride in this the greatest fire department in the world&#8212;I am now in a position to inform you of the circumstances why the said delay has been caused and taken place. Ladies and Gents&#8212;"</p>
+
+<p>Concealed only in part by the scenery of the act, one member of "The Human Pendulum" company moved rapidly back-ward, his large, red Adam's apple rose two inches, and "Well, I'm a son of a gun!" he said. While from beside him, in a voice already thick with nervousness, there came a "Wouldn't that&#8212;wouldn't that eat you up?"</p>
+
+<p>But neither artist could have had less real cause for apprehension. The curtain rose upon an audience already thundering its artistic commendation. The red fire leaped. From her window sill the lady of wax and wire leaned inspiringly. The spotlight centered to its appointed work. And&#8212;verbatim and without an error&#8212;</p>
+
+<p><hi rend="italic">"Save me! Save me!"</hi></p>
+
+<p><hi rend="italic">"Sure, Madam, sure we'll save you!" </hi></p>
+
+<p><hi rend="italic">"These sort of acts is our speciality!"</hi></p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="lloyd.19150607">
+<body>
+<head type="main">How Men Die</head>
+<byline>By <persName type="author" key="#Lloyd, John H.">JOHN H. LLOYD</persName></byline>
+
+<p>I AM a minister, and have seen many men die. Physicians give less opportunity for contrast now than in former years. When they see death approaching they administer sedatives, and patients sleep their lives away. Yet it is not always so.</p>
+
+<p>One of the most inspiring scenes I have witnessed was the death of a good man who refused to lose a single minute of his consciousness. When he knew that he was dying he refused the anodyne that his physician had prepared for him. He asked how long he might probably live, and was told that it might be an hour, or two, or four, but could not be long. He asked his wife to summon three or our of his best friends by telephone. His minister was already there. Propped up in bed, and steadily growing weaker, watching himself die, yet with thoughts above death, he talked on great themes, so long as he was able to talk, on life and duty, and the joys that had been his, of employees and people in need whom he wished cared for, and almost to his last breath, fully conscious, he slipped away. Such a death is one of the noblest exhibitions of character, measured at high tide.</p>
+
+<p>I have seen a coward die, cringing, frightened, "driven to his dungeon like a quarry slave." I have seen a brave man die, to whose pure life death had no terrors.</p>
+
+<p>Recently I was at the deathbed of an old soldier. He had been a brave man, but a reticent one. In his early life he had been interested in religious matters; but there came to him a terrible shock, and he never recovered from it. He had a little son whom he loved, and the boy was taken sick.</p>
+
+<p>The father caught an hour away from the boy's bedside to attend the boy's and in that hour the necessary business, and in that hour the child died without warning. The father was stunned by the blow. He was by inheritance a Scot Covenanter, and when his faith was shaken it seemed to break. All his life he lived in uprightness; but no one ever heard him speak of his faith. When he was dying and knew it, I stood by him, and said:</p>
+
+<p>"You have lived your life and spoken to no man of your faith; but before you leave this world would you like to say to your family that you are trusting God, and would you like to have me pray?"</p>
+
+<p>For answer he pressed my hand, and into that clasp he put the silent, wounded faith of years, and died with a smile.</p>
+
+<p>I have seen men face what they thought was certain death, and have seen the cringing of the coward and the fine heroism of the brave man. I was diagonally across the street from the Iroquois Theater in Chicago on that fatal day when it took fire, and was early on the ground before a crowd gathered. The panic-stricken people were still emerging from the exits when I got there. Some of them did not know that there was really any danger. Some were scolding because they had left their wraps in the checkroom. I talked with people as they came out before they knew or anyone knew that there had been a single death. I saw the foolhardy joker who came out laughing; I saw the tittering chorus girl suddenly thrust into the street in her tights; I saw people in abject terror; I saw men brave and strong.</p>
+
+<p>I saw the first fireman enter the building just as the flame and hot air confined behind the proscenium arch burst out, the belch of death that killed so many people in their seats. When that occurred this first fireman was on a ladder set against the frame of the window above the front entrance. He was mid-way up the ladder when the heavy plate glass, leaded and ponderous, fell outward and broke on him. He had a second's warning in the crash above, bent forward a little, and received the weight on his helmet and shoulders, reeled, and seemed about to fall; but, though bruised and cut, he went on up the ladder and entered the inferno, followed by a whole line of others. There were no reporters on the ground at the time. No great crowd witnessed it; but I saw how a brave man goes to almost certain death.</p>
+
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19150607.p008" />
+
+<text type="nonfiction" xml:id="hungerford.19150607">
+<body>
+<head type="main">"Next!"</head>
+
+<byline>By <persName type="author" key="#Hungerford, Edward">EDWARD HUNGERFORD</persName></byline>
+
+<note type="editors">IN this number Edward Hungerford begins a series of articles giving inside figures and inside facts of some typical American businesses. Each article is written from first-hand investigation; each one gives a remarkable picture of the conditions that surround each business, of the factors that make for success or failure in it, of the risks, opportunities, earnings, and drawbacks that a man encounters in each calling. Mr. Hungerford's next article will deal with "The American Hotel."</note>
+
+<div1>
+<p>AS a leveler of caste and a bulwark of social democracy the Shop of the Striped Pole is to be at once compared with the voting booth and the jury box,&#8212;where each man is the peer of every other man and sharing equally the Republic's privileges of life, liberty, freedom, etc. You may be the chief man in your town,&#8212;and let us hope that you are,&#8212;but when you step within the door of the Shop of the Striped Pole the head barber looks up for a single moment from his chair, smiles his impartial smile of greeting to all good customers, and merely says:</p>
+
+<p>"There are only five ahead of you, Mr. Blinks."</p>
+
+<p>With three chairs working and two of them engaged upon somewhat complicated performances, you look dubiously at the prospect. It is Saturday,&#8212;a short day even in your town, which has not acquired all the metropolitan vices as yet. There is to be a meeting of the directors out at your factory, and you also must make the bank before the noon whistle blows. After that Jinks is going to take you out to lunch and a couple of rounds at the Country Club, and you do not know when you will be back. After that&#8212;an oasis of barbering until Monday noon, and you pass the plate tomorrow morning in church.</p>
+
+<p>You recount these things quickly in your mind. There is another shop at the new hotel, but it is sure to be more crowded; another down near the carriage works, but it has foreign barbers; then you have come to this shop for eighteen years now, and&#8212;</p>
+
+<p>You slink meekly into a seat and pick up a comic paper, three weeks old and badly thumbed. At another time you might enjoy it; but now you are thinking of the time you are going to waste until the two mechanics from the paper mill, old Dr. Hedges, the Jinks' chaffeur, and a weasel-faced stranger in town, shall have had their opportunity and your time is come. You fuss and fume&#8212;inwardly. At heart you are an aristocrat. You drop the comic weekly and pick up a religious one&#8212;and find ironic joy in so doing. Finally in your ears this:</p>
+
+<p>"All ready, Mr. Blinks."</p>
+
+<p>It is your favorite barber,&#8212;the favorite barber of all the wise men of the town. He tucks you in as a mother might tuck in her child, and runs his fat finger over your jowls as a butcher might inspect a fresh carcass in from the storehouse. But you like it&#8212;you honestly do! The splosh of the lather on your cheek has a feeling of enchantment; while in your ears there runs the music of the choice gossip of the town. In the chair the time goes quickly. There is gay banter as well as a democracy in the place, and before you know it you are sitting upright again, and the barber is softly asking:</p>
+
+<p>"Isn't it about time we tackled the hair once again?"</p>
+</div1>
+
+<div1>
+<head type="sub">What a Barber Earns</head>
+<p>THAT is one of his perquisites, and in a profession that goes back into dim centuries and proudly announces itself as the mother profession of modern surgery, perquisites count for something. In the modern barber shop in the modern city they count for something definite. The journeyman barber may be paid only $10 or $12 a week,&#8212;rarely more than that, except perhaps on the Pacific Coast, where all labor commands higher prices,&#8212;but in almost every case he receives a commission of from twenty to thirty-three per cent. on his weekly earnings over, say, $25. Then there are special commissions paid sometimes on the sale of hair tonic and other condiments.</p>
+
+<p>After which there remain the tips, always a problematical figure, and dependent largely upon the skill and cordiality of the barber. So it will be seen in an
+
+<cb n="2" />
+
+instant that the barber, like the waiter and the sleeping-car porter, draws his real income not from his employer, but from his patrons. And this is not a tradition that goes back through centuries of barbering. It came in with the tipping habit, one of the European nuisances that we have imported.</p>
+
+<p>For even such established institutions as barber shops do progress. It was a long time ago that the ancient profession of the cupper and the leecher was married to the able profession of the shoe shiner. And more recently others have come,&#8212;the chiropodist and the manicure (who is an institution of herself, and therefore deserves her own story).</p>
+
+<p>Some big modern shops, particularly those situated in or near the large railroad terminals, have complete bath and dressing rooms, and valet service in addition. But the once familiar swinging sign of the tin bathtub, which always used to hang adjacent to the Striped Pole, has disappeared. The private bathtub has become one of the Great American Institutions.</p>
+</div1>
+
+<div1>
+<head type="sub">Barber Shop 20 Years from Now</head>
+
+<p>WILL the barber shop itself disappear as well? There are some worldly wise folk who aver that they already see signs of its forthcoming disintegration. They will call your attention to the number of your friends who today shave themselves&#8212;perhaps you yourself have that cleanly and efficient habit. And the roll seems to be growing constantly.</p>
+
+<p>"Barber shops, yes," they will tell you; "but not to shave in. The barber shop of the future will be a hair-cutting establishment simply and entirely."</p>
+
+<p>And, as if in support of this theory, they can show you right in the heart of the city of New York two or three shops in which a man could no more hope for a shave than in a cigar store or a tango palace. And there is a smart old shop foreman down in the Wall Street district whose name is almost as well known as any of the big brokers there, who can tell you of the changing taste of his patrons.</p>
+
+<p>"Those fellows uptown who will only cut hair are really French beard cutters," he says; "but they get away with it pretty well, just as my old boss used to get away with it with his name and 'Hair Cutter' underneath it stuck up in the biggest gilt letters on the door. The big bugs would wait for him to tackle their hair, and get a worse job of it than they would have had at any other chair in the shop. Still, that's all in the day's work.</p>
+
+<p>"I can see the difference in the business these days myself, though. Twelve or
+
+<cb n="3" />
+
+fifteen years ago, and I'd have eighteen or twenty shaves and perhaps half a dozen jobs of hair-cutting, shampooing, and the like. Now I won't shave more than five or six men in the passing of a single day. But the shop keeps just as many chairs, and every chair is just as busy as then, because more men come to it, and because every man wants more work these days: not only hair-cutting, but shampooing, singeing, facial massage,&#8212;all those things that used to be looked on as dudified, but now have become a part of every business man's routine."</p>
+</div1>
+
+<div1>
+<head type="sub">Side Lines the Salvation</head>
+
+<p>IT is the development of special side lines, then, that has saved the barber shop, just at the very time that the safety razor threatened its very existence. But before the crisis arose there were shops that did not hesitate at specialties, nor at applying them by brute force. There is a tradition that in one of the historic hotels in downtown New York a country-man once paid $12.45 after a single session in its barber shop, and was fortunate in escaping with his life.</p>
+
+<p>By singular coincidence it was probably the barber himself who was the beginning of the popular craze for the safety razor. Not by his own methods or lack of cleanliness so much, as by his own autocratic position, did he give strength to his new opponent. He had forgotten one thing. He had forgotten that to a man whose beard grows fast and black an open shop each day of the week is a necessity, just as an open drugstore each day of the week is a necessity. Drugstores and rail-roads and newspapers and telephone exchanges manage to operate seven days a week by giving their employees Sundays scattered through the week.</p>
+
+<p>But the barber would not see it that way. He sought to work each of his men seven days a week, and long hours in addition. They rebelled. And in one State after another the men, working through their well organized unions, secured the passage of laws closing the barber shops all day Sunday.</p>
+
+<p>These laws still hold. And getting a shave on Sunday in many towns deserves to be reckoned among the great American adventures. It is quite out of the question, unless you are willing to pay a barber privately and have him come to your house on Sabbath morning, or else have a friend who is running a hotel. In this last case you will probably be examined more minutely than a German suspect going into the English lines, and, having passed this examination successfully, will he conducted through a small door <choice><orig>be-
+
+<cb n="4" />
+
+yond</orig><reg>beyond</reg></choice> the bellboys' bench, through devious and winding back halls and alleys, to be eventually let into an unused storeroom where a nervous barber hovers over an improvised chair, and between uncertain strokes dreams of the police and a jail sentence.</p>
+</div1>
+
+<div1>
+<head type="sub">You Can't Shave in Cincinnati</head>
+<p>SUCH cities as New York, Chicago, San Francisco, and New Orleans proclaim their metropolitanism by permitting barber shops to run openly and legally on Sunday. Boston has the advantage of a Massachusetts statute permitting hotel guests to be shaved in their own rooms. And in a good many other cities the hotels have made such a statute for their own convenience. The State laws are almost always forbidding on this point. Theaters may run, films do likewise, soda fountains gurgle, but if a man wishes to be shaved in a barber shop on Sunday he is immediately classed among the felons.</p>
+
+<p>There is variation, of course, in the way these State laws are observed. In Cleveland a man may be shaved easily in a shop on Sunday. In Cincinnati the thing is absolutely taboo. In Kansas City you may be publicly scraped; but in St Louis, in the same State, one must go unshaved or else cross the bridge to East St. Louis&#8212;which is nearly as bad. In Atlanta you are shaved on Sunday by aged and badly scared negro, who charges you five times the regular tariff for trembling on the verge of a jail settlement: but in Savannah&#8212;well, Savannah is not in the same State as Atlanta.</p>
+
+<p>The immediate result of these strict laws in regard to opening barber shops on Sunday was to boom the safety-razor trade. A man had more necessity of being clean-shaved on Sunday than on almost most any other day. And having solved the problem by shaving himself, it followed as only a matter of natural course that the he would shave himself each day of the week. So the barbers found themselves shaving six men a day instead of sixteen. and the business for its very existence has fallen back upon the development of its specialties. Men cannot cut their own hair. The barber thanks Heaven for that.</p>
+
+<p>Other businesses, indispensable and highly profitable, are being gathered into the chain-store systems across country. The barber shops, apparently, being neither indispensable nor highly profitable, have so far escaped this process of economic evolution.</p>
+</div1>
+
+<div1>
+<head type="sub">Gives Bargain Shaves</head>
+<p>A SMART barber who runs a shop in a city in the middle part of the country has worked out an ingenious plan for the development of his own business. His shop is situated on a side street, nearer the residence section of the town than the
+business. His rent is low; but his location not such as to draw much transient business. Yet he runs eighteen chairs, and keeps them filled almost all day long. This man has worked out an ingenious scheme. If you wish to become a regular patron of his shop, he will sell you on the first day of each month a card, which entitles you to a daily shave, two hair-cuts, and two shampoos. This card costs you three dollars, and is a great saving&#8212;if you can reach his shop regularly. Even if you do this, and use the card down to its last punch-mark, the boss smiles on you pleasantly. He is not losing. He is bringing to his shop the life-blood of any business,&#8212;steady income.</p>
+
+<p>A successful shop or store, a retail business of any sort, is rarely built up on what an engineer would call a "peak-load." The smart boss barber in Ohio has already learned that. And if a really large syndicate of barber shops should ever come into being, you may count upon him as leading it.</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 9" xml:id="ew.issue.19150607.p009" />
+
+<text type="fiction" xml:id="luehrmann.19150607">
+<body>
+<head type="main">Who Was Marie Dupont?</head>
+<byline>By <persName type="author" key="#Luerhmann, Addle">ADDLE LUEHRMANN</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<note type="editors">
+<floatingText>
+<body>
+<head type="sub">SYNOPSIS OF PRECEDING CHAPTERS</head>
+
+<p>GUY AMARINTH, very much in love with a young girl of his acquaintance, Marie Dupont, one night persuades her to run away from a ball and marry him. They have hardly concluded this impulsive act when Amarinth discovers to his dismay that his young wife has had a very ambiguous past.</p>
+
+<p>From her guardian, Hugh Senior, he learns that Marie's real identity is unknown. Seven years before Senior was motoring early one morning in Paris when he accidentally ran down a girl in the street. He carried her to his aunt's home, and in a day or two she recovered; but she had lost all memory of her life up to the time of the accident. No inquiries could unearth her identity. She was dressed at the time as a Paris working girl: but round her neck was a curious necklace, apparently of paste. Senior and his aunt, feeling responsible for the girl's situation, adopted her and called her Marie Dupont.</p>
+
+<p>Young Amarinth is disagreeably affected by this revelation. Mysterious hints have already come to him that Marie resembles a professional dancer of not too flawless reputation, who used to dance in Paris caf&#233;s. When Senior shows him the necklace that was found on Marie's neck Amarinth declares that the stones are genuine.</p>
+</body>
+</floatingText>
+</note>
+
+<div1>
+<head type="sub">CHAPTER X</head>
+
+<p>HUGH SENIOR laughed. "If those stones were real, they would be worth a fortune." </p>
+
+<p>"They look real."</p>
+
+<p>"What are you talking about. Amarinth?" Hugh took the necklace from the other's hand and examined it with frowning eyes. "Real? Look at the size of them&#8212;those pearls, for instance!"</p>
+
+<p>"Oh, they're not valuable: only baroque. But the emeralds&#8212;"</p>
+
+<p>"Emeralds? Green glass! And these colorless stones&#8212;surely you don't dream that they are diamonds! They are not brilliant enough."</p>
+
+<p>"That might be the way they are cut," Guy ventured doubtfully. "I may be mistaken. I&#8212;I hope I am."</p>
+
+<p>"I'm sure you are. Paris is full of imitation jewelry&#8212;very clever some of it is too."</p>
+
+<p>"You never asked her about it, you say?"</p>
+
+<p>"No. I have never even told Mrs. Thorley that I have it. Does that strike you as odd? Well, I didn't see either one of them for a year after the accident: not until the following summer. At first I expected my aunt to write me that the necklace had been asked for; but she never did. When I went over I took it with me. I intended to give it to Marie. It belonged to her; besides I thought it might rouse her memory. But when I saw her&#8212;well, somehow I couldn't bring myself to do it. It's such a tawdry affair, so unlike her, that I couldn't bear the idea of her connecting herself with it, as she would have done."</p>
+
+<p>"And you have never shown it to anyone?"</p>
+
+<p>"Never."</p>
+
+<p>Amarinth hesitated. "Would you object to an expert examining it?" he finally brought out.</p>
+
+<p>"You're not convinced?" Hugh asked with a keen glance at him.</p>
+
+<p>"I want to be sure that you're right, that's all. Of course I don't see how it could be real&#8212;"</p>
+
+<p>"It couldn't be&#8212;it's impossible. But I think you have a right to reassure yourself. The only condition I make is that you do not mention my name or Marie's in the matter."</p>
+
+<p>"Certainly not."</p>
+
+<p>Hugh held out the necklace, remarking as Amarinth took it from him. "Did you notice that there seems to have been some sort of pendant attached to that middle cluster? It looks as if it had been broken off, doesn't it?"</p>
+
+<p>Guy nodded. "Could it have happened in the accident, do you think?"</p>
+
+<p>"I don't know. If it had fallen off then, it is reasonable to suppose that it would have been found inside her clothes when the doctor examined her. But it was not."</p>
+
+<p>Guy wrapped the necklace again and put it into a pocket. "I will return it as soon as possible," he said. "I'll take it to Rice &amp; Lozier&#8212;I know them there."</p>
+
+<p>"Yes, they're all right, I dare say."</p>
+
+<p>The door closed, and Hugh sank back into his chair.</p>
+
+<p>"Suppose he's right? Suppose it is real?" he muttered.</p>
+
+<p>IN the brain of young Amarinth the same thoughts pounded as he made his way to the street. He felt bewildered. Crises had been few in his well ordered existence. Never had he faced one that, like this, threatened to wrench him from his comfortable moorings. Life had always seemed simple enough,&#8212;if a chap had the right traditions and thought straight, he couldn't go wrong. But now&#8212;</p>
+
+<p>"Don't marry a woman that you will have to explain!"</p>
+
+<p>His mother's advice had always seemed to cover the ground. Explain to one's friends, to society, had been its meaning.
+
+<cb n="2" />
+
+What would she have said to a girl whom one could not explain even to oneself?</p>
+
+<p>The story he had just heard struck him as utterly fantastic. That it should be the story of a girl he even knew was incredible enough, but that the girl should be his wife!</p>
+
+<p>His problem was not so simple as Hugh Senior supposed. He could not honorably advance or retreat, as he chose. A retreat was still possible; but only through the painful process of an annulment.</p> 
+
+<p>The thought of it caused him a swift physical recoil. He wheeled and started up the street, and the bodily activity brought with it a mental impulse. He would go straight to Gavock.</p>
+
+<p>What a different aspect the latter's encounter with Marie now presented! How damnably it dovetailed with what he had since learned! Gavock had said he had mistaken her for someone he had known in Paris, someone now dead. Well, Marie had been in Paris, and no doubt to all her former acquaintances must now
+
+<cb n="3" />
+
+be counted as dead. But had Gavock spoken the truth? Did he really believe himself mistaken? And even so, was he mistaken?</p>
+
+<p>The thought suggested to Guy his wisest course of action. If Gavock believed himself to have been mistaken, misled by a resemblance, he would probably talk freely. If he had lied, he would of course have a plausible story ready to cover the lie. Well, the wonderful Paris police records had shattered many plausible stories!</p>
+
+<p>Amarinth set his teeth hard, and the blood throbbed against his temples. He would he no man's fool! It was his right to know all that any man knew about this girl who was his wife.</p>
+
+<p>GAVOCK'S hotel was the Crustacea; but Gavock was not there when Guy arrived. Nothing remained then to do but go at once to a jeweler's and return later. He would probably catch Gavock about luncheon time.</p>
+
+<cb n="4" />
+
+<p>At Rice &amp; Lozier's luxurious shop he was informed that the gem expert was at that moment not in, but that they had another man, a very good judge of stones.</p>
+
+<p>Amarinth hesitated an instant. He would see the other man, he said.</p>
+
+<p>He took the package from his pocket, and as he removed the paper wrapping he was conscious that his hands were trembling visibly. As the necklace slid on the mat placed for it he glanced up quickly.</p>
+
+<p>The jeweler's eyes dilated suddenly. "Why!" he emitted in astonishment. He picked up the necklace and held it up before him where it caught the light fully, letting his glance travel slowly over its entire length. Twice he shifted his gaze for an instant to Amarinth.</p>
+
+<p>"Do I understand that you wish to know the exact value of this?" he asked.</p> 
+
+<p>Amarinth nodded.</p>
+
+<p>"I could not say offhand, of course. That would require detailed examination. The piece is undoubtedly very old, and gem setters, particularly of the oriental countries, were likely to carry out color schemes regardless of the quality of the material they employed. Some of the stones may not he genuine. May I ask if it belongs to you?"</p>
+
+<p>No," Amarinth returned a trifle unsteadily, "I am considering buying it&#8212;as an antique. What I want to find out is its intrinsic value, quite apart from its value as an antique."</p>
+
+<p>The man gave a short, odd laugh and looked at Amarinth curiously. "I should say that its value as an antique is practically nothing compared with its intrinsic value. All these larger stones seem to be genuine."</p>
+
+<p>"Emeralds and diamonds?"</p>
+
+<p>"Yes. If they were recut as we cut to-day, their brilliance would be multiplied a hundred times."</p>
+
+<p>"Is it French?"</p>
+
+<p>"French? Oh, no. The French have never conceived anything so strong or barbaric in style. Do you know its history?"</p>
+
+<p>"No."</p>
+
+<p>Once more Amarinth was conscious of surprised curiosity in the keen look that covered him in an instant.</p>
+
+<p>"There seems to have been a pendant attached here at one time. It was broken off."</p>
+
+<p>"Evidently," said Guy shortly, holding out his hand for the jewels.</p>
+
+<p>The man appeared not to see the gesture. "Mr. Stanislas, our expert, will be able to appraise and classify it exactly for you. I hope you will wait, or perhaps leave it for him. It is a remarkable piece from any point of view. No doubt it has an interesting history. As to that also Mr. Stanislas could probably give you information. Most of the very fine old pieces have been described and their histories recorded."</p>
+
+<p>"When will he return?" Guy asked.</p>
+
+<p>"Within an hour, possibly."</p>
+
+<p>"Is Mr. Lozier here? I'd like to see him."</p>
+
+<p>The jeweler despatched a young salesman for Lozier, who presently appeared and greeted Amarinth cordially by name. He was an affable, white-haired little man.</p>
+
+<p>"I have a necklace here that I should like to leave for your expert to appraise for me."</p>
+
+<p>"Certainly. I will give you a receipt for it," said Lozier.</p>
+
+<p>"That won't be necessary so long as I leave it in your hands," Guy said, adding as he turned away, "I'll return for it this afternoon."</p>
+
+<p>He hurried away, hardly waiting for a reply. His head was spinning, the blood pounding in his veins. He drank in the cold outer air like a drunken man.</p>
+
+<p>LOZIER put on his glasses and looked at the necklace. "Bless my soul!" he exclaimed. </p>
+
+<p rend="continued">"That young chap must have money to</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19150607.p010" />
+
+<text type="photograph" xml:id="pictures.19150607">
+<body>
+<head type="main">What Pictures Are Worth Seeing in America</head>
+<head type="sub">Here are a dozen that you ought to know, says Lorinda Munson <unclear>B</unclear> </head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Loaned by Hispanic Society of America to Metropolitan Museum, N. Y.</ab>
+<p><hi rend="italic">Nobody can paint water like Sorolla y Bastida. Several of his paintings are in the Metropolitan Museum, among them this one, "After the Bath."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">But Sorolla's are not all water pictures; for this one, "Another Marguerite," the poor peasant girl who has murdered her own child, is hanging in the City Art Museum, St. Louis.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">Rosa Bonheur, who, dressed in the blouse and pantaloons of a French peasant, visited the fairs to make her study of animals, is represented in the Wilstach collection, Philadelphia, with this picture, "Barbaro After the Hunt."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">Jean Francois Millet, the glorifier of peasant life, whose "Angelus" is one of the best loved paintings in the world, is represented in the Chicago Art Institute by this homely subject, "Bringing Home the New-Born Calf."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">The Middle West, as well as the East, has its treasures. This powerful landscape, "On the Somme," by Elmer Schofield, hangs in the John Herron Art Institute, Indianapolis.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">Pittsburgh has this treasure, "The Penance of Eleanor, Duchess of Gloucester," by Edwin Austin Abbey, whose mural paintings have added to the beauty of so many&#8212;</hi></p>
+<ab type="credit">Copyright, Carnegie Institute.</ab>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>Thomas W. Dewing's men have square shoulders and finely poised heads, and are always elegant and graceful. <unclear /> "Lady with Macaw"
+is in the Albright Gallery, Buffalo.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<pb n="Page 11" xml:id="ew.issue.19150607.p011" />
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">What is the secret of the Sphinx? Many painters have sought to picture it; but none has so well conveyed the feeling of cosiness and mystery as Elihu Vedder. This picture is in the Boston Museum.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">You feel the city bursting into the day's activity in this fine painting, "Morning on the River." It is by a young artist, Jonas Lie, and is owned by the Memorial Museum, Rochester, New York.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">&#8212;American buildings. This is one of his most famous works, and was first exhibited in America in 1901. It may be seen in the Carnegie Institute, Pittsburgh.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">There are more Rembrandts in America than in any other country. This study of an "Old Woman Cutting Her Nails" reflects the deep sympathy with old age of the artist who in his own old age felt the sting of neglect. It is in the Metropolitan Museum.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">Another painter who, like Sorolla, is usually associated with the sea, is Winslow Homer. "The Unruly Calf," an unusual subject for him, is in the Brooklyn Institute of Arts and Sciences.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">This "Writing a Letter," like the "Lady with Macaw," is a Dewing picture. The Toledo Museum owns it. A very empty room it would seem in real life: but all sense of emptiness is lost under Dewing's magic brush.</hi></p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19150607.p012" />
+
+<text type="fiction" xml:id="luehrmann.19150607.jump">
+<body>
+<div1>
+<p rend="jump">burn," said the jeweler. "He's thinking of buying it as an antique."</p>
+
+<p>Lozier held the necklace up and contemplated it thoughtfully. "Stanislas will not be back for several hours," he observed, looking out through the front door at the passing throngs. "I think there would be no objection from Mr. Amarinth if we should display it in the meantime."</p>
+
+<p>The heavy, studded chain was accordingly spread upon the black velvet cushion in the center of the show window. After one discriminating survey of the result, Lozier ordered everything else removed.</p>
+
+<p>"It kills them all," he said.</p>
+
+<p>GAVOCK was still out. Amarinth decided not to leave a message for him, but to watch for his return, since he might thus intercept him on his way to luncheon. He felt the need of time to adjust his thoughts to the fact of the genuineness of the necklace. More about the necklace he might still learn from Stanislas. If it had a history, the facts might offer some sort of clue. Aside from that his one chance of further information was Gavock.</p>
+
+<p>His immediate course, therefore, was to hear the latter's story, cable to Paris for confirmation of it, and, failing to receive it, to confront Gavock with his lie and so force the truth front him.</p>
+
+<p>Suddenly a familiar voice struck on his ear, and, peering round the sweep of palm leaves, he caught a glimpse of Sybil Lowther seated at a writing table nearby. She was talking to another girl, who had apparently just greeted her and after a few impersonal remarks departed, leaving Miss Lowther to return to her writing. Watching the latter, Amarinth observed that she glanced up frequently toward the entrance. Suddenly he saw her rise quickly and start forward.</p>
+
+<p>"Why, Mr. Gavock! Think of seeing you here!"</p>
+
+<p>Amarinth half rose, then dropped back to his seat. It would be better to wait until Gavock had left her.</p>
+
+<p>"Surely you're not stopping here!" Miss Lowther exclaimed next.</p>
+
+<p>"Didn't I tell you so last night?" Gavock reminded her.</p>
+
+<p>"Last night!" she echoed, her blue eyes widening to their most childlike stare. "I don't know&#8212;perhaps you did. You see, I have left unremembered the things I should have remembered, and," she paused an instant and her eyes fell, "I have remembered, those things I should not have remembered." She smiled and changed the subject. "I just dropped in here to dash off a few notes and to watch the lucky people going in to feed until I got hungry enough to face my humble boarding house luncheon. I didn't eat a bite of breakfast. It was simply too awful a slump from supper last night&#8212;with you."</p>
+
+<p>"Then you ought to be hungry enough to try it again with me."</p>
+
+<p>"Oh, I didn't mean that!" Miss Lowther protested reproachfully. "I felt that we were such friends that I could say anything that came into my head."</p>
+
+<p>"We are; but you must not deny me the same privilege."</p>
+
+<p>"It would be too lovely! If you really want me&#8212;"</p>
+
+<p>AMARINTH sprang up. If Gavock was going to have lunch with Sybil Lowther, he must try to get a few words with him before. But&#8212;he stopped at the thought&#8212;a few words would not serve him. Gavock would simply plead the engagement and give him no satisfaction. Perhaps it would be better to wait.</p>
+
+<p>As he reached the door it swung open and admitted a man carrying under
+
+<cb n="2" />
+
+one arm a large, flat package, which on its backward swing the door struck and almost jostled from his grasp. To save it the man's other arm shot out, and Amarinth noticed that this arm lacked a hand. The stump managed, however, to shove the burden back to its former position of security.</p>
+
+<p>"Here! Take that to the back door!"</p>
+
+<p>"I want to see Mr. Roger Gavock," said the stranger, staring at the hotel attendant as though he had not heard the 
+order.</p>
+
+<p>The name arrested Amarinth's attention, and unconsciously he paused. The man was shabbily dressed; but his hearing and speech did not suggest a tradesman. However, to the guardian of the Crustacea's sacred portal such distinctions were meaningless. A worn coat and a package went to the tradesmen's entrance.</p>
+
+<p>"No packages delivered here," he said sharply, waving the intruder back.</p>
+
+<p>The latter lingered uncertainly. "I have a note I want sent up." As he spoke he lowered the package to the ground and let it rest against his leg, then began feeling in a pocket for the note.</p>
+
+<p>"Send it up from the back," snapped the attendant. "Get along now!"</p>
+
+<p>Amarinth hurried out; but not in time to miss the quick flush that swept over the man's thin face. He looked ill, poor chap, thought Guy. And, confound it! he wasn't the sort to be barked at by a porter! He would report the incident to Gavock and have him complain.</p>
+
+<p>But his own concerns were too perplexing and urgent to remain in the background long, and as he hurried off they drove the annoying episode from his thoughts. He looked at his watch. It was too early to return for the necklace, and he had no appetite for food. Gavock would be an hour at least over luncheon.
+
+<cb n="3" />
+
+Amarinth decided to call his office and excuse his absence. He was informed that he had just been called very urgently by Lozier of the firm of Rice &amp; Lozier, jewelers. Lozier had requested that Amarinth communicate with him in person or by 'phone as soon as possible.</p>
+
+<p>Guy hung up the receiver and remained several moments frowning into space. He was conscious of an intolerable inner trembling. What could Lozier want with him?</p>
+
+<p>IS this Mr. Amarinth'?" Excitement was evident in Lozier's voice. He made two starts that came to nothing; but finally brought out the information that something most unlooked for, most distressing, had occurred. Someone, in short, had claimed the necklace that Amarinth had left there for appraisal.</p>
+
+<p>"Claims it! Who claims it?" Amarinth gasped.</p>
+
+<p>"A person who happened to pass a few minutes after it was placed in the window." There followed a stream of apologies for the liberty taken in displaying it,&#8212;the piece was so beautiful, so rare. It had not occurred to Lozier that&#8212;</p>
+
+<p>But Guy cut the flow short. "Who is the man?"</p>
+
+<p>"He refuses to give his name, Sir. He came in first and made a few inquiries about the necklace. We told him that it was not for sale. He went away, and returned in about ten minutes with the Rumanian Consul, who presented his credentials and entered a formal claim to the necklace as the property of a citizen of Rumania. He says that it has been missing for seven years. He says it was stolen in Paris."</p>
+
+<p>Guy felt a horrible tightening in his throat. He gulped hard. "Well?"</p> 
+
+<p>"He says also," Lozier continued, "that
+
+<cb n="4" />
+
+at the time of its disappearance it had a pendant attached, a large Greek cross that was exceedingly valuable. It is evident that there was a pendant&#8212;"</p>
+
+<p>"Yes, I noticed that. What else does he say?"</p>
+
+<p>"Nothing. He refuses to give the name of the person for whom he is acting. But I think it would be well to communicate at once with the&#8212;the present owner. You understand, Mr. Amarinth, that, this formal claim having been entered, it will be impossible for me to return the necklace to you."</p>
+
+<p>"I understand."</p>
+
+<p>"I cannot tell you how deeply I regret&#8212;"</p>
+
+<p>But Amarinth had hung up the receiver.</p>
+</div1>
+
+<div1>
+<head type="ms">CHAPTER XI</head>
+
+<p>MISS LOWTHER dipped her fingers into the glass bowl that the waiter had placed before her ten minutes earlier, and allowed them to linger in the water, dabbling it gently, and suggesting a reluctance to end the repast that her companion had already noted.</p>
+
+<p>He watched her with a glint of expectation in his eyes. She was not through with him, of that he was convinced; but just what it was she wanted he was not sure. Money? Certainly the dearth of it had been the most conspicuous feature of her recital of what she called her "struggles." That a crisis now impended she had allowed him to infer, had even created opportunities for his coming gallantly to the rescue; but these he had neglected. Her code, according to Mrs. Estell, permitted her to accept anything short of actual money, and it was wondering just how far short the demand on him was likely to fall that now sharpened his attention.</p>
+
+<p>As she finally sunk her dripping fingers into the folds of her napkin she lifted her eyes with a soft glance to his. "It's been too sweet of you to listen to my tale of woe. It's proved your friendship beyond a doubt," she declared.</p>
+
+<p>"Ah&#8212;then you were testing me!"</p>
+
+<p>She had a smile for his bantering tone; but it waned quickly, and she nodded with grave eyes.</p>
+
+<p>"I'm sorry you thought it necessary," he said lightly.</p>
+
+<p>"I did think so," she said after a moment; "but only because I am going to put your friendship to an even greater 
+test."</p>
+
+<p>"One that you think it won't stand?"</p>
+
+<p>"I don't know."</p>
+
+<p>He waited. She was evidently coming to the point; but he persisted in his determination not to help her reach it.</p>
+
+<p>"I'm sure you will do what I am going to ask," she added presently; "but I came not sure what you may think of me for asking, and you know a nice girl cares so much more about what a friend might think of her than about what an enemy might say."</p>
+
+<p>"A nice girl runs no risk either way does she?" he returned after a moment's reflection.</p>
+
+<p>He regretted the words the instant they were spoken. They were not kind and she winced at their sharpness&#8212;more indeed than she appeared to.</p>
+
+<p>"A girl, no matter how nice, if she has ambitions to achieve anything, sometimes has to run risks," she answered.</p>
+
+<p rend="continued">He took that in silence; but his contrition for his last remark had softened his expression, and she seemed to draw encouragement from his kindly gaze. She surveyed the room swiftly. Only a few people remained, and none were near them. The waiter had been paid, and had withdrawn. From her silk handbag she</p>
+
+<p rend="jumpline"><hi rend="italic"><ref target="luehrmann.19160607.jump2">Continued on page 19</ref></hi></p>
+
+<figure n="illustration">
+<head></head>
+<p><hi rend="italic">"Her eyes were narrowed in thought, and her breath came and went rapidly, as if from some inner excitement. "Will you give me ten thousand dollars for it?' she faltered."</hi></p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+</body>
+</text>
+
+<pb n="Page 13" xml:id="ew.issue.19150607.p013" />
+
+<text type="nonfiction" xml:id="safe.19150607">
+<body>
+
+<figure n="photograph">
+<head></head>
+<p>The man who has built up the finest life-saving service in the world.</p>
+<figDesc></figDesc>
+</figure>
+
+<head type="main">He Has Made You 99% Safe</head>
+
+<div1>
+<p>THE 2,000 men who keep watch and ward along our 10,000 miles of coast line call him "The Old Man"; but Kimball, Life Saver, he has been to the American people during his lifework&#8212;and surely no prouder title could ever be invented.</p>
+
+<p>First and only superintendent of the Life Saving Service,&#8212;for that organization and the Revenue Cutter Service have given up their individualities to form the larger, greater Coast Guard,&#8212;Sumner I. Kimball, retiring at the age of eighty, leaves behind him a triple monument. </p>
+</div1>
+
+<div1>
+<head type="sub">"Efficiency First"</head>
+
+<p>FIRST, during the forty-three years during which he built up from a few scattered crews the finest life-saving service in the world, an army of 178,741 persons were saved from drowning by his crews.</p>
+
+<p>Secondly, coincident with this wholesale saving of lives, more than $250,000,000 worth of ships and cargoes was saved from loss.</p>
+
+<p>Thirdly, the service stands unrivaled throughout the world. No other country, be its coast line small and simple, or huge and unwieldy like our own ten thousand miles, has any such perfected organization, any such methods, any such men.</p>
+
+<p>Even the other side of the shield is a tribute,&#8212;during all his administration the total number of lives lost in wreckage operations within the scope of the service amounted to less than the toll of life taken by the Titanic alone.</p>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">Undressing in the water is even more inconvenient than undressing in a Pullman car; but it is a useful accomplishment in case of <choice><sic>omergency</sic><corr>emergency</corr></choice>. It is one of the things that girls are now being taught in summer camps.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<p>Before Dr. Kimball created out of nothing and an idea the service that bears his name, in popular mind at least, there was no coast patrol, no special life-saving apparatus of note, no drill, no standards, no inspection. Today there are 285 stations, each with its well trained crew, keeping ceaseless watch over the water and the shoal, the bar and the reef, ready to lend instant aid to vessels in distress. To the intrepid courage of the coastman of America Dr. Kimball added the self-bailing boat, the self-righting boat, the modern life-boat, the modern powerboat, and the breeches buoy, the night signals, the telephone between station and station, the beach cart, the never-ending coast patrol, the daily drill, the&#8212;a catalog would be wearisome. The courage of the desperate alone will not save lives: it needs apparatus, apparatus designed for the work, tested in actual service, and built with the idea of real service, and never with the idea of saving cost.</p>
+
+<p>But even courage and apparatus are not enough. Remains training, <hi rend="italic">esprit de corps</hi>, a feeling of pride in the service, such as the fireman feels in his engine company, the soldier in his regiment, the crew in their battleship. This, then, is Superintendent Kimball's greatest monument,&#8212;the fact that he created such a spirit in his crews, and taught men not only how to use apparatus, but to apply their courage in the most efficient manner.</p>
+
+<p>Eighty years young, looking sixty, feeling, if you ask him, about forty, Sumner I. Kimball took his hands from the helm when his service was merged with another, content that at last Congress had granted his greatest wish,&#8212;of pensions to worn-out and injured men of the crews,&#8212;satisfied that, with its traditions and its record behind it, the crews of the new Coast Guard will not do less well than they did when they were of the Life Saving Service.</p>
+
+<p>And it seems probable that if any thought of those whom he was not able to save ever crosses Dr. Kimball's mind, he can take comfort in the thought that any man or woman, wrecked within knowledge of the Coast Guard, has, according to statistics, 99.17 per cent. chances of being brought safely to shore.</p>
+</div1>
+</body>
+</text>
+
+<text type="photograph" xml:id="thrift.19150607">
+<body>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">With true New England thrift, Edgar R. Lewis has cornered the entire available whalebone supply of the world and stored it in a three-story building at New Bedford.</hi></p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="baseball.19150607">
+<body>
+<head type="main">Where a Murderer Can Play Baseball</head>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">They have to play barefooted: their feet are too swollen from standing in swamp water to fit into any baseball shoe.</hi></p>
+<figDesc></figDesc>
+</figure>
+
+<div1>
+<p>WARDEN T. J. TYNAN of the Colorado penitentiary recently constructed for his prisoners a modern baseball park, with a fence and all the other appurtenances. The schedule of games consists of contests with many civilian teams, and it is his intention to promote an active season in the big national game, with a number of exhibitions on the home grounds of the convicts.</p>
+
+<p>"I will use the prison baseball team to encourage good behavior," said the warden. "To be permitted to play on the team or to watch its games will be a privilege bestowed only on the best behaved. The moment a player breaks a prison rule he no longer will be considered a member of the team, and the fan who is recalcitrant will be barred from the games.</p>
+</div1>
+
+<div1>
+<head type="sub">Movie Fans Make Good</head>
+
+<p>SINCE we have had moving pictures for the prisoners there have been 470 less reports of bad behavior. For a slight infraction of the prison rules the privilege of attending the movies is taken away for a certain period. We have a houseful of movie fans, and most of them would rather suffer any kind of physical punishment than miss the pictures that are thrown on the screen in the chapel every two weeks.</p>
+
+<p>"I shall expect baseball to have the same effect. It may reduce the number of disobedient ones even more than the moving pictures. Besides baseball I plan track meets and other athletic contests for the men."</p>
+
+<p>The appeal of the national sport is as strong in prison as it is without. When it is made a privilege and the reward of good behavior it becomes a specially effective instrument of reformation.</p>
+
+<p>It is a far shift from the humane methods of Colorado to the antiquated ways of Florida in the treatment of prisoners, but none the less interesting. In Florida, among negro prisoners in the turpentine and lumber camps, baseball is the chief sport, especially on Sunday afternoon during recreation hours.</p>
+</div1>
+
+<div1>
+<head type="sub">No Frills in This Series</head>
+
+<p>BUT in Florida there is no ball ground with a smooth clay surface and a concrete fence. There the convicts play in the palmetto stubble, and sometimes in their bare feet. Nearly all the men in the illustration are in their bare feet, which does not hinder their running bases as gracefully as Ty Cobb or Baker, though perhaps not so rapidly. Their feet are almost too swollen from constant standing in swamp water or heavy dew and running back and forth from tree to tree, as they dip the turpentine, resin, or pitch, to fit into the confines of a baseball shoe. There is hardly a common shoe that would fit some of these misshapen clubs of feet.</p>
+
+<p>But it does not by any means ruin the spirit or zest of the game. The pitcher swings his arm with all the importance and gusto of a big league twirler.</p>
+
+<p>The convict catcher makes only a pretense of catching the ball: this for the principal reason that his mitt is small protection to his hand. It is constructed of hemp sacking, stuffed with grass or straw, and it needs constant repacking and handling to keep it in any kind of usable condition.</p>
+</div1>
+
+<div1>
+<head type="sub">Bloodhounds On Guard</head>
+<p>THE privilege of playing baseball is accorded practically to all convicts during the Sunday holiday in camp; but their game is played under the strict surveillance of a group of guards and the ever-watchful eye of the trained bloodhound.</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19150607.p014" />
+
+<text type="advertisement" xml:id="johnsons.19150607">
+<body>
+
+<figure n="advertisement">
+<head>Keep Things Bright with Johnson's Prepared Wax</head>
+<p></p>
+<figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="curve.19150607">
+<body>
+<head type="main">What Does Your Curve Look Like?</head>
+
+<div1>
+<p>PROFESSOR DUDLEY A. SARGENT of Harvard University has worked out a method by which a mathematical curve is made to represent in utmost completeness of detail the physical development of a man or of a woman.</p>
+
+<p>Nay, more, when a young man comes to him for examination he is able to tell, after drawing his curve, just what kind of sport&#8212;rowing, baseball, running, jumping, or what not&#8212;the applicant is best adapted for by nature. "No, my dear sir," he will say, "you will never make a first-class runner; but if you will go in for jumping or lawn tennis, you will excel."</p>
+</div1>
+
+<div1>
+<head type="sub">Swimmers and Golfers Have Different Curves</head>
+<p>THERE is a curve for every man and for every woman, and no two are alike. Necessarily this must be the case, because no two human beings are just alike. The curve is drawn from measurements made of the individual, which include such details as arm strength, leg strength, back strength, and the development of muscles and bones.</p>
+
+<p>The curve shows at a glance every detail of the physical makeup of the individual it represents. A series of such curves can be made to stand for an entire class at college, the average of them (shown by a single curve) affording an opportunity for comparison with any other class. Thus it might be made to appear, in such a way as to be beyond dispute, that the class entering in 1915 was superior at the time of matriculation to any other class that had preceded it. </p>
+
+<p>Study of such curves has enabled Professor Sargent to determine with scientific accuracy the physical types to be chosen for various sports and exercises,&#8212;the football player, the baseball player, the oarsman, the track athlete (sprinter, hurdler, middle-distance runner, long-distance runner, pole vaulter, bicyclist), the wrestler, the weight thrower, the boxer, the gymnast, the swimmer, the golfer.</p>
+
+<p>He finds that certain athletic types are characterized by definite muscular and bony development; as illustrated by the sprinter's thigh, the oarsman's back and forearm, etc. There is also such a thing as a type of physical development that is best for the all-round athlete.</p> 
+</div1>
+
+<div1>
+<head type="sub">Women Today Built More Like Men</head>
+
+<p>PROFESSOR SARGENT has made measurements of more people of both sexes than any other man living or dead, having passed in such review class after class through a long series of years, not only at Harvard, but at nineteen other American colleges. Out of these measurements he has constructed, descriptively speaking, two types, one representing the average American man at twenty-one years, and the other the average American woman of the same age. </p>
+
+<p>Under his direction a skilful sculptor has made two statues, one representing the typical young man, and the other the typical young woman. But he is careful to explain that these do not stand for ideal types. They are simply meant to exhibit averages.</p>
+
+<p>It is worth mentioning that Professor Sargent attributes chiefly to outdoor exercise the fact that the young women of today are "built much more like men" than those of a generation ago, their hands and feet being larger, their necks thicker and more muscular, their shoulders squarer, their backs better developed, their waists thicker, and their hips decidedly smaller.</p>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="moulton.19150607">
+<body>
+
+<head type="main">The Youngest Dairy Worker</head>
+
+<figure n="photograph">
+<head></head>
+<p><hi rend="italic">He is three and a half years old, and he milks the cow regularly.</hi> </p>
+<figDesc></figDesc>
+</figure>
+
+<p>MILKING a cow regularly at the age of three and a half years has brought fame to Master George Foster Beard, the sturdy little son of Mr. and Mrs. George M. Beard, who reside at Twin Maple Farm, one mile out of Dover, New Hampshire. </p>
+
+<p>When the Beards bought their stock farm thirteen years ago there came with the purchase a well bred Holstein-Durham cow, nine years old, and giving then twenty-four quarts of milk a day. Master George, as soon as he could toddle to the cow barn, became greatly attached to Old Dutchy, as she is called, and one afternoon last summer when the cows came up from pasture he asked his father if he might milk her.</p>
+
+<p>His father, pleased with the prospect of having so young a pupil in the milking art, consented, and provided him with a low stool and a pail. The youngster had watched the men milk, and he sat down to his first milking stunt with the air of a veteran. The twenty-two-year-old cow took kindly to the efforts of the novice; though Mr. Beard had misgivings as to whether she would brush him away.</p>
+
+<p>Dutchy milked easily, and George secured three quarts at his first attempt. He milked the cow regularly every night after that through the summer, and gradually acquired the requisite strength to milk her clean. The constant exercise has made him very muscular.</p>
+
+<p>The little lad seems to be a born husbandman. When only three years old he used to go to the pasture alone and bring in twenty cows. He could not tie them, but would have them in their right places and knew the name of each one. He takes a keen interest in all affairs of the farm. During the last season he took in charge of a Jersey calf, which he led about and trained to drive with an improvised harness and reins.</p>
+<closer><signed><hi rend="italic">--Robert H. Moulton</hi></signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19150607.p015"/>
+
+<text type="nonfiction" xml:id="flylesstown.19150607">
+<body>
+    
+<head type="main">The Only Flyless Town</head>
+    
+<cb n="1"/>
+    
+<figure n="photograph">
+<head></head>
+<p>He has caught nearly four million flies.</p>
+<figDesc></figDesc>
+</figure>
+    
+<p>HOW many flies make a gallon? 75,000 flies make a gallon. This isn't a joke. It is official estimate of the only official fly catcher in the United States.</p>
+    
+<cb n="2"/>
+    
+<p>A year ago last July the town of Redlands, California, created the position of municipal fly catcher and appointed A. E. Chapman to fill it. The office requires no assistants. Mr. Chapman attends personally to the Redlands flies.</p>
+    
+<p>Nor does it require any more scientific knowledge to be a fly catcher than is possessed by any ordinary housekeeper; <hi rend="italic">viz</hi>., that flies instinctively fly upward and toward the light.</p>
+    
+<p>On this basis the fly catcher constructed a large trap, a screened frame twelve inches square and over two feet hight. This he raised tow inches from the ground, inserting in the bottom a cone-shaped screen, large end downward. Under this cone he placed a banana skin. The whole contraption he nailed to a post on a street corner.</p>
+    
+<p>The flies did the rest.</p>
+    
+<p>In the first month, from the one hundred traps scattered through the business section of Redlands, he had emptied and burned fifty gallons of flies,&#8212;3,750,000 of them!</p>
+    
+<p>There are now five hundred of these flytraps in Redlands, and according to the natives all the flies of Redlands are in them.</p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="sixyears.19150607">
+<body>
+    
+<head type="main">Six Years in the Jungle</head>
+    
+<cb n="1"/>
+    
+<p>AFTER six years in the Belgian Kongo, James Chapin has returned to New York with one of the finest collections of birds and animals ever brought from Central Africa to the Museum of Natural History. Much of these six years was spent 1,500 miles inland, often for months at a time seeing no white man, except his coworker, Mr. Lang.</p>
+    
+<div1><head type="sub">This Wife Is Well Treated</head>
+    
+<p>ONE of their most central posts of trade with the natives was Avacubi, a negro village 300 miles from Stanleyville, the nearest white settlement, and 1,500 from the coast. Okondo, the chief of Avacubi, is the modest possessor of 170 wives. Moreover, it is an open secret in Avacubi that the favorite wife, Mutubani, although extremely fat, and, at least ot foreigners, excessively ugly even in her costume of fig-tree bark, is the reigning authority in teh place. She has merely to signify a desire to her husband and it is instantly fulfilled. This is likely to be awkward when she displays a fondness for the possessions of her visitors; but it is wisest ot accede to her wish. Her one rival is Niangarga, widow of a former chieftain, and now an honorary wife of Okondo. Mutubani's sister also is married to Okondo.</p>
+    
+<p>The natives explain the foreigners' objection to some of their ancient customs by their ignorance and inability to
+    
+<cb n="2"/>
+    
+understand them. Even those converted by the missionaries adhere to many old ceremonies. They still solve their problems by feeding a chicken poison, and the question is answered in the affirmative or negative according to whether the chicken lives or dies. However, they seldom try this on human beings, as a few years ago.</p></div1>
+    
+<div1><head type="sub">Where Grass Grows 20 Feet High</head>
+    
+<p>MR. CHAPIN generally needed twelve negroes to carry the cases of specimens, the tent, and the supply of food. White men in the Kongo depend almost entirely on canned stuffs for their provisions. The negroes thrive on monkey and antelope meat, and especially a diet of plantains, which is unendurable to foreigners. They have also some domestic chickens, though pretty small and scraggly.</p>
+    
+<p>In the fall rainy season comes the most difficult tramping, because the grass grows to a height of fifteen or twenty feet, and there is nothing to do but push one's way through it. There was no danger from animals. Mr. Chapin saw sixty elephants; but hey are harmless unless aroused. The negroes occasionally get up parties to shoot them when they are feeding in the night, and then someone is likely to be tramped on&#8212;if the elephants  pay any attention to them at all. Poisonous snakes often find their way into the tents; but they can easily be clubbed, and are then thrust into specimen jars.</p></div1>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="wouldthis.19150607">
+<body>
+    
+<head type="main">Would this Make You Nervous?</head>
+    
+<p>SWAYING precariously in the wind many feet above the water, these light cable bridges offer the only means of cable bridges offer the only means of crossing the turbulent mountain streams in some districts of the Pacific Northwest. Nervous persons may at first regard these slender spans as dangerous playthings of the varying breezes; but the cables, supporting heavy footboards two feet wide, are anchored securely in solid granite, and are safely used by people and animals that otherwise could find no way of crossing the wild streams for miles.</p>
+    
+<p>The photograph shows the suspension bridge over the Spokane River near the site of old Fort Spokane, about sixty miles below the city of the same name. The bridge is located in the heart of a trout-fishing region possessing some of the most imposing scenery in the Northwest.</p>
+    
+<cb n="2"/>
+    
+<figure n="photograph">
+<head></head>
+<p>The man in this picture is not walking a tight rope. He is merely crossing a river means of a cable bridge.</p>
+</figure>
+    
+<figure n="advertisement">
+<head>Invite your friends to have a glass of Coca-Cola</head>
+<p></p>
+<figDesc>Advertisement for The Coca-Cola Co.</figDesc>
+</figure>
+    
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19150607.p016"/>
+
+<text type="advertisement" xml:id="nestle.19150607">
+<body>
+    
+<figure n="advertisement">
+<head>For a Healthy, Happy, Big Baby</head>
+<p></p>
+<figDesc>Advertisement for Nestlé's Food Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>White Frost Sanitary Refrigerator</head>
+<p></p>
+<figDesc>Advertisement for White Frost Refrigerator Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>3 1/3c a Day</head>
+<p></p>
+<figDesc>Advertisement for Harold Lachman Co.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="thisisland">
+<body>
+    
+<head type="main">This Island Floats On the Water</head>
+    
+<cb n="1"/>
+    
+<p>FLOATING islands have occasionally been the theme of imaginative sailors when called upon to tell marvelous stories of the sea. As a matter of fact, however, there is actually such an island in this country. It is on Lake Sadawga, Whitingham, Vermont.</p>
+    
+<p>Nature, for some unknown reason, joined together in a vast inextricable tangle the innumerable roots of reeds, willows, and other water-loving vegetation. Soil accumulated upon this, so that now there is actually seventy-five acres of land buoyed up on the bosom of the lake. Moss, cattails, etc., grow here in great profusion. Even fir and beech manage to attain a growth of twenty-five
+
+<cb n="2"/>
+
+or thirty feet. Further development seems prohibited, probably owing to the fact that the rots, after piercing through the thin layer of soil, cannot find sufficient nourishment in the liquid element beneath.</p>
+    
+<p>Visitors to his part of the Green Mountain State are always incredulous when told about the marvelous island; but their doubt is speedily changed to wonder on being actually brought face to face with the phenomenon. It is not at all unusual for the shrewd fishermen Whitingham to cut holes through the land in winter, and thus catch the fish below, as is down through the ice in less favored regions.</p>
+    
+<figure n="photograph">
+<head></head>
+<p>Seventy-five acres of tangled roots and water weeds, with a few inches of soil on top, make up this island.</p>
+<figDesc></figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="bowers.19150607">
+<body>
+    
+<head type="main">"Had I Better Quit Coffee?"</head>
+<byline>By <persName type="author" key="#Bowers, Edwin F., M. D.">Edwin F. Bowers, M. D.</persName></byline>
+<head type="sub">Dr. Bowers will each week answer the most interesting question received. Next week: "How Can I Stop Snoring?"</head>
+    
+<cb n="1"/>
+    
+<p>MILLIONS consider the morning cup of coffee the key that daily winds their mainspring of mental and physical stability. Lacking coffee, they would be as devoid of "punch" as a jellyfish. Such people, from a medical viewpoint, are in bondage; for any artificial stimulus is theoretically unnecessary.</p>
+    
+<p>Nobody should require to be kicked into wakefulness. And perhaps nobody would require it who slept soundly in fresh, vigor-inspiring air, whose digestion, metabolism, and elimination were perfect, who had placid nerves. But the fact remains that few are so happily constituted. To most of the others coffee is a cheering potion, providing just that amount of stimulant which enables them ot grid up their loins and attack the problems of existence with energy and courage.</p>
+    
+<div1><head type="sub">Caffeine a Real Medicine</head>
+    
+<p>COFFEE can hardly be classed as a food; for it does not in itself build tissue, and its nutritive value is negligible. It contains no starch, carries only 1.26 per cent. of protein, and its 12 per cent. of oil (caffeone) remains mostly in the grounds. It also contains a trifling amount of sugar and destrin, as well as traces of alcohol, which possess no importance from a physiological viewpoint. The sugar and cream added at the table are the most nourishing elements in a cup of coffee.</p>
+    
+<p>However, granted that coffee is comparatively valueless as food, it does not necessarily follow that it is without use; for its 1.23 percent. of caffeine makes it a real medicine, which relieves fatigue, assists concentration, and provides a relatively harmless stimulant for those who must pursue the daily grind. By diminishing nervous fatigue it undoubtedly increases muscular power.</p>
+    
+<cb n="2"/>
+    
+<p>That coffee produces indigestion is not proved. This charge rests upon the fact that dyspeptics are able to taste the coffee taken at a previous meal; which signifies only that coffee has a taste and an aroma. Any other aromatic or positive-tasting food or substance might affect them similarly. In other words, coffee distresses dyspeptics, not because it is coffee, but because they are dyspeptics.</p></div1>
+    
+<div1><head type="sub">Worst Thing about Coffee Drinking</head>
+    
+<p>THAT coffee drinking is a cause of high blood pressure, worn-out arteries, frazzled kidneys, and frayed hearts has not been conclusively proved. Its worst effects arise from the fact that by its aid one will keep on pounding away when one should be resting. This, in time, on the principle of attempting to get something out of nothing, will result in a grand smash. It is only commonsense to realize that sooner or later one must settle accounts with Nature.</p>
+    
+    
+<p>That excessive coffee drinking&#8212;and even the smallest amounts many to many be excessive&#8212;deranges the nervous system is a matter of a daily observation. Thousands are peculiarly susceptible to its ill effects, and for them there is only one thing to do,&#8212;quit!</p>
+    
+<p>They may derive considerable help in this from drinking decaffeinated coffee,&#8212;coffee from which the caffeine has been removed. This gives them all the generous sensations of warmth, as well as the pleasant taste, without the nerve prick of the caffeine. Whether coffee is a king or a knave will depend largely upon individual susceptibility to its effects. Therein the patient must minister to himself. He is in this his own best doctor and judge.</p>
+    
+<figure n="advertisement">
+<head>For Appearance, Comfort, Service, Choose Holeproof</head>
+<p></p>
+<figDesc>Advertisement for Holeproof Hosiery Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Japanese Rose Bushes Five for 10cts.</head>
+<p></p>
+<figDesc>Advertisement for Japan Seed Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Advertisements for California Farm Lands, Corporations, Miscellaneous, Agents Wanted.</figDesc>
+</figure>
+
+</div1>
+</body>
+</text>
+
+<pb n="Page 17" xml:id="ew.issue.19150607.p017" />
+
+<text type="advertisement" xml:id="kalamazoo.19150607">
+<body>
+
+<figure n="advertisement">
+<head>Pay As You Use</head>
+<p></p>
+<figDesc>Advertisement for Kalamazoo Stove Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>New Motorcycle Type</head>
+<p></p>
+<figDesc>Advertisement for Arrow Cycle Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Learn to Earn</head>
+<p></p>
+<figDesc>Advertisement for Elizabeth King</figDesc>
+</figure>
+
+
+<figure n="advertisement">
+<head>Ornamental Fence</head>
+<p></p>
+<figDesc>Advertisement for Kokomo Fence Mach. Co.</figDesc>
+</figure>
+
+
+<figure n="advertisement">
+<head>Would You Like To</head>
+<p></p>
+<figDesc>Advertisement for Nadico</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Song Poems Wanted</head>
+<p></p>
+<figDesc>Advertisement for Marks-Goldsmith Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Advertising Rates for Every Week</head>
+<p></p>
+<figDesc>Advertisement for Every Week Corporations and The Associated Sunday Magazines</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="germs.19150607">
+<body>
+<head type="main">Dishes, Feet, Money, and Germs</head>
+
+<div1>
+<p>ONE new way to wash and wipe dishes is by far the most sanitary and cleanest yet devised. The old way was of course to wash the dishes, rinse them, and wipe with a towel, which was very often greasy or full of dust and germs. Now the dishes are washed with hot water and soap, then rinsed with a stream of cold or lukewarm water, then turned upside down or sidewise to drain, while a stream of air from an electric fan is turned on them. In this way the dishes and tumblers do not come into contact with hands or towel after washing, and so bear no finger marks, particles of lint, or dust from the towel, and very few germs of any kind. </p>
+</div1>
+
+<div1>
+<head type="sub">Money Loaded with Germs</head>
+<p>THE two things to which can be traced nearly all transportation of germs from outside into the house (except of course flies and other insects) are probably the feet and pieces of money. All the money we receive has probably passed through numerous hands in the preceeding twenty-four hours. The calculation of chances will show that only a small percentage of these people had clean hands, and statistics will show that many people always have some contagious disease. As the hand is the only general tool possessed by humanity (for scratching, dressing, etc.), it is safe to assert that on many of the money-touched hands germs abide, and consequently that on practically all the money we handle there exist numerous bad germs.</p>
+</div1>
+
+<div1>
+<head type="sub">Gum a Germ Storehouse</head>
+<p>THE feet are the most democratic parts of the body,&#8212;they will go anywhere and trample in anything, and bring it to the house and deposit it on the carpet or floor. Later someone will sweep the floor, and the dust on which the germs reside will be thrown into the air, to be breathed by the occupants of the house. Think about where the feet travel during a day! They certainly step on anything on the sidewalk too small to be particularly noticed. And the no-expectoration ordinance of cities is very hard to enforce. Pieces of chewing gum thrown down into the street are veritable storehouses for germs of all kinds, and this stuff certainly has a capacity for sticking to the feet. The only precautions possible about this danger are never to throw gum in the street yourself, to have a good mat (which in turn must be cleaned frequently) to rub your feet on before entering the house and when going out if you have sickness, and to use a vacuum cleaner instead of a broom in cleaning house.</p>
+</div1>
+</body>
+</text>
+
+<text type="advertisement" xml:id="promo.19150607">
+<body>
+
+<figure n="advertisement">
+<head>Sewell Ford</head>
+<p></p>
+<figDesc>Advertisement for Every Week Magazine</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>My advice Is&#8212;Use Upson Board</head>
+<p></p>
+<figDesc>Advertisement for The Upson Company Fibre Board Authorities</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Better Bicycle Tires For Less Money</head>
+<p></p>
+<figDesc>Advertisement for The Goodyear Tire &amp; Rubber Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>How One Pair of Pigeons Earned Me One Thousand Dollars</head>
+<p></p>
+<figDesc>Advertisement for Plymouth Rock Squab Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Stop Forgetting</head>
+<p></p>
+<figDesc>Advertisement for Dickson Memory School</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$2<hi rend="superscript">50</hi> a Month</head>
+<p></p>
+<figDesc>Advertisement for Burlington Watch Co.</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 18" xml:id="ew.issue.19150607.p018" />
+
+<text type="advertisement" xml:id="bauer.19150607">
+<body>
+
+<figure n="advertisement">
+<head>My Corns</head>
+<p></p>
+<figDesc>Advertisement for Bauer &amp; Black</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$3,000 in One Year</head>
+<p></p>
+<figDesc>Advertisement for Haywood Tire and Equipment Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The "Real" Keens Them All</head>
+<p></p>
+<figDesc>Advertisement for Canton Razor Strop Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Free List of Names</head>
+<p></p>
+<figDesc>Advertisement for The Photo Exchange</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Killed by the Score</head>
+<p></p>
+<figDesc>Advertisement for Black Flag</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="job.19150607">
+<body>
+
+<head type="main">"Only Part of Me Job," Says Boyle</head>
+
+<figure n="photograph">
+<head></head>
+<p>He was too feeble to do more than tend a gate crossing; but he was strong enough to save a man's life.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>TELL me," I said to the vice president of one of the great railroads, "haven't you got a man in your organization, an obscure, unheard of man, who in spite of his obscurity has proved himself a hero none the less?"</p>
+
+<p>For answer the busy man reached into a drawer of his desk and handed me the cheap postcard picture reproduced here.</p> 
+
+<p>"That's Tom Boyle," he said, "and you'll find him tending a railroad crossing out in Danville, Illinois. Tom came across here years ago with the great army of sturdy Irishmen who stretched our railroads out across the land. When he grew too old to work we gave him a job tending gates.</p>
+
+<p>"A few weeks ago a train pulled across Tom Boyle's street, stopped, and began backing slowly down again. Boyle lowered his gates and stood steady with the warning flag. Suddenly he looked up to see lurching across the tracks from the other side a half-blind old man. Unconscious of the threatening danger, he moved straight across the tracks until he stood almost within the shadow of the approaching train. An instant more and nothing could have saved him; but in that instant old, wrinkled Tom Boyle acted. With no thought of his own safety, he flung himself upon the old man with the leap of a panther, and the two rolled together across the track. The train crashed down and past them, and they picked themselves up out of the dust unhurt.</p>
+
+<p>"We heard about Tom Boyle's heroism down here in New York, and sent out to reward him for it. But he would have no reward. 'It's all a part of me job,' he said.</p>
+
+<p>"You asked me for an abscure hero," concluded the big man. "Will Tom Boyle do?"</p>
+
+<p>And I told him Tom Boyle would.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="atwood.19150607">
+<body>
+<head type="main">Is the Smallest Income Always Safest?</head>
+
+<byline>By <persName type="author" key="#Atwood, Albert W.">ALBERT W. ATWOOD</persName></byline>
+
+<note type="editors">Next week Mr. Atwood will answer the question: 
+"What Shall I Do with My First $1000?"</note>
+
+<div1>
+<p>IT is a mistake to be contented with too low a rate of interest on your money, just as it a mistake to strive for too high a return. A reader wants to know if there are any safe investments to pay 8%. </p>
+
+<p>"I have heard," he says, "that in some States one can obtain 8% and even 10% with safety. Is that possible?"</p>
+
+<p>Yes, it is possible; but extremely careful discrimination is necessary if one goes above 7%. Enormous returns often spell danger; but 4% on one's money, or even a uniform rate of no more than 5%, may mean only sluggishness and unwillingness to look around a bit.</p> 
+
+<p>It is no uncommon thing for low interest-bearing investments to turn out badly (witness New Haven stock, which sold above 200 and paid 8%). The truth is that low interest rates do not by any means always indicate real underlying safety. They are just as likely to mean that the company is widely known, big, and near at hand. Low rates mean in many cases that such safety as a company possesses has become so familiar to thousands of investors that the demand for the stock or bond has driven the price up, and consequently pushed the net interest return down. What the energetic and thrifty investor will do is to search out a business that is <hi rend="italic">actually</hi> safe, but the <hi rend="italic">knowledge</hi> of which has not become a matter of course in general public estimation.</p> 
+</div1>
+
+<div1>
+<head type="sub">Don't Judge by Popularity</head>
+
+<p>A GREAT error that so many fall into is to judge securities by their popularity. If you wait until bonds or stocks are popular, you will have to pay more for them, just as you must pay more for this year's hat than you do for a headgear that is just as good, but no longer in style. Of course it is easier to pick out a well known investment than one not so familiar. But any reliable investment banker will gladly recommend securities not yet brought to wide public notice, but in which he has invested his own money, after making an expert legal, engineering, and auditing investigation.</p>
+
+<p>Then too, far higher rates of interest are to be had in Western and Southern States than in the East. Of course the West is relatively new, and the South is relatively poor and too much of a one-crop section. But any person of common-sense is well aware that innumerable prosperous enterprises exist outside the New England and the Atlantic and Middle States. Investment prejudices are slow to change. Because money was lost in Western farm mortgages in the '70's many New York and New England investors will have nothing to do with them now; although conditions have entirely changed.</p> 
+</div1>
+
+<div1>
+<head type="sub">7% Bonds with a Fine Record</head>
+
+<p>IT takes a long time to put new things "on the map"; although they may really be better than the old. For example, there are the street improvement bonds issued by cities in California, such as Los Angeles, which pay 7%, and have a fine record. If they were as well known as railroad stocks, and mentioned every day in Stock Exchange reports, they would not be selling to pay anything like 7%.</p>
+
+<p>Laziness costs a lot of money when it comes to investments. The lazy man can pick out a safe security to pay 4% or 5% without much trouble; but the man who is willing to look around a little is sure to win out with just as much security and a lot more interest return. The great West and South are full of splendid opportunities. Of course only a fool will send his hard-earned dollars to a new, fly-by-night town that has no real justification for permanent existence. Those who find a reliable banker in one of the hustling, growing, well founded cities of the South or West can make their money earn from 6% to 7%, instead of only two-thirds or three-quarters of that amount.</p> 
+</div1>
+</body>
+</text>
+
+<text type="advertisement" xml:id="burlington.19150607">
+<body>
+
+<figure n="advertisement">
+<head>Sent Free for Trial</head>
+<p></p>
+<figDesc>Advertisement for Burlington Basket Factory</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Free "Linene" Collar</head>
+<p></p>
+<figDesc>Advertisement for Reversible Collar Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents Secure or Fee Returned</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>A Fortune to the Inventor</head>
+<p></p>
+<figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Bowstrait Makes Bow Legs and Knock Knees look Straight</head>
+<p></p>
+<figDesc>Advertisement for Cavanagh Bros.</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="sharks.19150607">
+<body>
+
+<head type="main">Superstitions About Sharks</head>
+    
+<p>NOT a few of the Hawaiians still believe that sharks can help them, especially when they are fishing or swimming, or if about to drown. Many still regard the shark as possessing supernatural powers. More than one Hawaiian family even today clings to the belief in some special shark as the family deity&#8212;or perhaps it would be better to describe the shark's role as that of guardian angel.</p>
+
+<p>Some Hawaiians believe that down at the beach, before they eat anything, they should set aside a dish for their shark. If they should forget, they will either be drowned or else not be able to catch any fish.</p> 
+
+<p>If one fishes and does not get anything, he calls to the shark and tells it that certain kinds of fish are wanted. The shark will disappear, and a school of fish will be seen coming after the bait or into the net. Then the fisher is satisfied; but the shark too must have some.</p>
+
+<p>If a person wants to go swimming, the shark god must be told. Sometimes the swimmer almost drowns, and is saved only by calling for the aid of the friendly shark. Some rescuing sharks take the rescued to the shore, others take them clear to their homes. Sometimes the shark worshippers forget about their shark gods, and when they are drowned the sharks come and weep.</p> 
+
+<p>Occasionally a man or woman is seen sitting out in deep water. They are neither on a rock nor in a boat, but are perched 
+on a shark's back fishing. When through the person turns the reins toward the shore and rides to the land; for such a shark is muzzled and bridled and can be led about by reins.</p> 
+
+<p>If a man or woman is angry at anybody, they call the guardian shark and tell him to go and eat the enemy or to destroy the enemy's boat. Sometimes the two sharks will fight till one of them is killed.</p> 
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19150607.p019"/>
+    
+<text type="photograph" xml:id="puppies.19150607">
+<body>
+    
+<figure n="photograph">
+<head></head>
+<p>Here are two black fox puppies tow weeks old. These are improved stock raised in captivity, and before the war would have been worth $1,500 a piece. The outbreak of the war, however, has brought the fur trade almost to a standstill, and the fox-raising industry has suffered a big slump. So this year men who paid high prices for breeder stock are probably to going to realize more than enough from the progeny to pay the interest on the money invested.</p>
+<figDesc></figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+    
+<text type="fiction" xml:id="luehrmann.19150607.jump2">
+<body>
+    
+<head type="sub"><hi rend="italic">Here ends this instalment of</hi></head>
+<head type="main">Who Was Marie Dupont?</head>
+
+<p rend="jumpline"><hi rend="italic">Continued from page 12</hi></p>
+
+
+<p rend="jump">drew out an object wrapped in a handkerchief which she held a moment in her hand hesitatingly.</p>
+    
+<p>"I want you to look at this," she said presently. "But please don't take the covering off entirely. If anyone saw it&#8212;"</p>
+    
+<p>SHE passed the thing across to him, and he lowered it beneath the level of the table before lifting the handkerchief. Within he found a large Greek cross studded with emeralds and diamonds. His eyes flew back to hers with swift surprise and inquiry.</p>
+    
+<p>"What do you think of it?" she asked eagerly.</p>
+    
+<p>"Think of it!" he echoed, staring again at the jewels. "Is it yours?"</p>
+    
+<p>"It's been in our family for years. That's why I can't bear the idea of selling it."</p>
+    
+<p>"But surely you're not thinking of such a thing!"</p>
+    
+<p>She leaned forward. "I have to have money, Mr. Gavock. I must have some at once. What I hoped was that you would lend me some and take this as security."</p>
+    
+<p>"What is its history?" he asked.</p>
+    
+<p>There are all sorts of stories told about it. My mother's family left France to escape religious persecution. Money and jewels were all they were able to take with them. This is the last of the jewels.</p>
+    
+<p>"It is very handsome.</p>
+    
+<p>"Oh, they were a very rich and distinguished family&#8212;the De Ceux."</p>
+    
+<p>"De Ceux? Not the De Ceux of Touraine?"</p>
+    
+<p>"Yes."</p>
+    
+<p>"Indeed! You are of that family?" He leaned forward eagerly. "I know the present Duke quite well. Really this is most interesting."</p>
+    
+<p>His eyes returned to the cross in his hand. She bit her lip nervously.</p>
+    
+<p>"You see what a small place this world is," she said, "and that I was wise to get your promise of secrecy."</p>
+    
+<p>SINCE I am sworn to secrecy," Gavock answered, "won't you let me into the family history a little further? This cross interests me exceedingly."</p>
+    
+<p>"Will you give me ten thousand dollars for it?" she faltered.</p>
+    
+<p>He laughed an stated in blank incredulity. The sum she mentioned was absurd: she could not be serious.</p>
+    
+<p>"Is it too much?" she questioned.</p>
+    
+<p>"Too much? My dear child, it's too little&#8212;far, far too little! It is possible that your people had no idea of its value all these years?"</p>
+    
+<p>She shook her head.</p>
+    
+<p>"Well, that was fortunate for you; for you probably owe its possession to the
+    
+<cb n="2"/>
+
+fact. Now I need not tell you, I hope, that I don't drive bargains at a friend's expense. I should like to own this cross. It's beautiful and rare, and it would interest me to trace its history. It is not French&#8212;that much I know. That the De Ceux should have owned it strikes me as very curious."</p>
+    
+<p>He was again intent on the jewels, and missed the furtive glance she shot at him before inquiring, "Why?"</p>
+    
+<p>"Because it's a Greek cross, and the De Ceux are the most Catholic of Catholics. Some old dignitary of the early Greek Church may have worn this on state occasions. The enameling on the back suggests rather the Byzantine&#8212;"</p>
+    
+<p>He broke off suddenly and looked at her sharply. "if you really mean to sell, the proper way will be to have an expert opinion as to the value."</p>
+    
+<p>"An expert?" she repeated.</p>
+    
+<p>"Yes. Take it to Tiffany's."</p>
+    
+<p>"Oh, no! I wouldn't like to do that," she said nervously.</p>
+    
+<p>"Would you like me to take it for you?" he asked.</p>
+    
+<p>She did not reply at once, but seemed to consider the matter. "You're very kind," she said at length; "but I don't believe I want to sell it after all. It's been in our family so long, and I&#8212;</p>
+    
+<p>"I wouldn't dream of urging you," he interrupted. "I quite understand how you feel; so we'll say no more about it. I shall be glad to lend you whatever sum you require."</p>
+    
+<p>He had wrapped the handkerchief about the cross, and now held it out to her. But she refused to take it.</p>
+    
+<p>I can't borrow from you unless you do. And I need the money dreadfully," she pleaded.</p>
+    
+<p>"Oh, if you make it an absolute condition," he began.</p>
+    
+<p>"I do&#8212;I must!" she put in.</p>
+    
+<p>"In that case I must yield, of course." He held the cross a moment longer before her; but at a gesture of refusal he slipped it into an inner pocket of his coat. "I shall put it in my safe deposit drawer, and you shall have it back whenever you like. Shall we go out to the lounge now? I can write you a check there.</p>
+    
+<p>SHE hesitated, then after a moment, "I would rather not have a check, Mr. Gavock. I should have to cash it, and it would look so&#8212;so odd. Oh, a girl has to think of that! The men in banks have imaginations&#8212;and tongues."</p>
+    
+<p>"As you like," he agreed. "I can probably
+
+<cb n="3"/>
+
+get the cash here at the office&#8212;that is, if the amount is not too large." He paused with a glance of inquiry.</p>
+    
+<p>"I need fi&#8212;a thousand dollars."</p>
+    
+<p>He gave her a keen look. The false start had not escaped his ear. She had been going to ask for five hundred dollars, and had suddenly doubled the amount. He acquiesced with a short nod; but as they walked together from the room he questioned himself, disturbed by vague doubts.</p>
+    
+<p>AS they crossed the lobby Gavock felt his companion give a start. Involuntarily he looked at her. The next moment he saw her bow in recognition of an acquaintance, and following her glance he observed a young man a short distance away raising his hat. The sweeping scrutiny with which the stranger favored him in passing caused Gavock to stare in turn and he noted a longish face with Vandyke beard, flashing black eyes, and fine, straight nose,&#8212;handsome, in the Mephisto type, but hardly prepossessing.</p>
+    
+<p>The incident was momentary. Miss Lowther made no comment; but Gavock saw that her small, white teeth were presses deep into her lower lip. Had the encounter with her young friend been not altogether to her liking? he wondered.</p>
+    
+<p>At the entrance to the lounge he halted. "Will you wait for me here? I may have to go to the bank or send. The hotel probably banks nearby; so it ought not take more than ten minutes or so."</p>
+    
+<p>"I will be here," she said, adding with a gesture, "over there behind those palms."</p>
+    
+<p>He nodded and left her.</p>
+    
+<p rend="jumpline"><hi rend="italic"><ref target="luehrmann.191506014"> To be continued next week</ref></hi></p>
+    
+<note type="copyright" place="column_bottom">Copyright, 1915, Every Week Corporation: John H. Hawley, President; J.F. Bresnahan, Vice President; Bruce Barton, Secretary; R.M. Donaldson, Treasurer: Brooklyn, N.Y. Executive offices, 52 Wast 19th Street, New York. All rights reserved. Subscription terms in the United States, $1.00 a year. Application for entry as second-class matter at the postoffice at Brooklyn, N.Y., pending.</note>
+    
+<figure n="advertisement">
+<head>The Next Important Thing for You to do&#8212;</head>
+<p></p>
+<figDesc>Advertisement for Ætna Life Insurance Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Starrett Tools for all Mechanics</head>
+<p></p>
+<figDesc>Advertisement for The L. S. Starrett Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Increase Your Income $25.00 a Week</head>
+<p></p>
+<figDesc>Advertisement for Pease Mfg. Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>$2.00 and You Get This Superb Cornet</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Big Profits to Rider Agents</head>
+<p></p>
+<figDesc>Advertisement for Howard Bicycle Co.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 20" xml:id="ew.issue.19150607.p020"/>
+    
+<text type="advertisement" xml:id="bride.19150607">
+<body>
+    
+<figure n="advertisement">
+<head>Are You A June Bride?</head>
+<p></p>
+<figDesc>Advertisement for The Shredded Wheat Company.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+
+</group>
+</text>
+</TEI>

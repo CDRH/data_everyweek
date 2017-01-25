@@ -1,0 +1,2535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, October 9, 1916</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19161009</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<biblScope type="volume">Vol. 3</biblScope>
+<biblScope type="number">No. 15</biblScope>
+<extent>24 pages</extent>
+<date when="1916-10-09">October 9, 1916</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2015"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2015"><name>Laura Weakly</name> Validation
+</change>
+<change when="2014-01-21"><name>Samantha Greenfield</name>Initial Encoding
+</change>
+<change when="2010"><name>Arman Zeljkovic</name> Initial Encoding
+</change>
+<change when="2010"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19161009.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3&#162;</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Published Weekly by Every Week Corporation,</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<docDate>October 9, 1916</docDate>
+</docImprint>
+
+<figure n="illustration">
+<ab type="credit"></ab>
+<head></head>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19161009.p002" />
+    
+<text>
+<body>
+    
+<figure n="advertisement">
+<head>Greater Success through Electricity</head>
+<p></p>
+<figDesc>Advertisement for Theo. Audel &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>This Editor Had a Corn</head>
+<p></p>
+<figDesc>Advertisement for Baurer &amp; Black.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Make More Money On a Seaboard Farm</head>
+<p></p>
+<figDesc>Advertisement for Seaboard Air Line Railway Company.</figDesc>
+</figure>   
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="barton.19161009">
+<body>
+    
+<head type="main">A Letter to a Young Man in the Food Business</head>
+    
+<p>A YOUNG man employed by a large food Manufacturer writes me a letter.</p>
+    
+<p>He despises his business: he wants to be a writer. He says he feels he is worthy of "something better than merely packing food."</p>
+
+<p>I say to him that there <hi rend="italic">is</hi> nothing better: I say that the man who can discover no glory, no romance, no thrill in the business of feeding the world, will find no glory in any other business.</p>
+    
+<p>Let me picture the food business as it looks to me.</p>
+    
+<p>There was a famine in Egypt.</p>
+    
+<p>Wan, emaciated men crowded about Pharaoh's palace, clamoring for corn. Women fainted in the streets, and little children died.</p>
+    
+<p>Only one man had been wise enough to foresee the famine: he through seven plenteous years had stored up corn. When the famine came, "all countries came into Egypt to Joseph for to buy corn."</p>
+    
+<p>And Joseph, who fed Egypt, became the ruler of Egypt. <hi rend="italic">No honor was too great for the man who fed the ancient world.</hi></p>
+    
+<p>Always through history the men who have fed the world have been honored by it.</p>
+    
+<p>Apicius was "almost deified by ancient Rome for discovering how to maintain oysters fresh and live during a long journey."</p>
+    
+<p>He must have been the father of cold storage.</p>
+    
+<p>Four hundred years before the Christian era, Hippocrates announced his belief that all men are born with the same mental capabilities. What they develop into later, he said, depends almost entirely upon what the eat.</p>
+    
+<p>And now, more than two thousand years afterward, scientists are coming back almost to the position of that wise old man. What a nation eats, they tell us, determines what it shall be.</p>
+    
+<p>"An army marches on its stomach," was Napoleon’s phrase.</p>
+    
+<p>Victory or defeat: mental vigor or mental decay; health and optimism, or disease and distress&#8212;these are a nation's lot, according to its food.</p>
+    
+<p><hi rend="italic">The men who feed the nation make the nation.</hi></p>
+    
+<p>And, little by little, the men who feed the nations have pushed back one of man's great enemies: the fear of famine has almost been banished from the world.</p>
+    
+<p>This generation, and the one that preceded it, and the one that preceded that, have never known that fear as their ancestors did.</p>
+    
+<p>It never occurs to us that there may not be food enough. We have never known a time of want: we assume that the world has always had enough to eat.</p>
+    
+<p>Yet, all through ancient and medieval days, the awful fear of hunger was never absent from men's minds.</p>
+    
+<p>Periods of plenty alternated with starvation. Men never knew when a storm or a frost or an enemy attack might wipe out the harvests of a year.</p>
+    
+<p>And when the single year's harvest was wiped out, famine stalked.</p>
+
+<p>It is a very recent thing in the world&#8212;this conquering of the fear of famine. Only within a few generations have men learned so to store their food and so to distribute it that, though the crops of States and nations might fail, the world would still be fed.</p>
+    
+<p>I pity this young man in the food business who sees in it only the means of making a living: whose vision does not penetrate beyond the dull routine of each day's work.</p>
+    
+<p>Such a man will not go far. Around him and over him will rise the men who can catch a glimpse of the bigness of their task.</p>
+    
+<p>Men who see themselves, not as mere parts of a vast business machine, but as the servants of humanity&#8212;the banishers of the fear of famine from men's minds: <hi rend="italic">sharers in the glory of feeding the world.</hi></p>
+    
+<closer><signed><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</signed></closer>
+
+<note type="editor">Have you sent me 4 cents for Dr. Bowers' book, "Eating for Health and Efficiency"? My address is 95 Madison Avenue, New York.</note>
+
+</body>
+</text>
+    
+<pb n="Page 3" xml:id="ew.issue.19161009.p003" />
+ 
+<text type="advertisement" xml:id="nomoney.19161009">
+<body>
+<figure n="advertisement">
+<head>No Money In Advance</head>
+<p></p>
+<figDesc>Advertisement for Hartman Furniture &amp; Carpet Co.</figDesc>
+</figure>
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19161009.p004" />
+
+<text type="photograph" xml:id="thousandeyes.19161009">
+<body>
+
+<head type="main">The Night Has a Thousand Eyes</head>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Photograph taken in Denver by Wiswall Brothers.</ab>
+<p>THOSE straight lines of lights and this geometric zigzag in front have taken just fifty-seven years to evolve. But Denver started in the right direction. "Any town," said Horace Greeley, "that can accumulate half a hundred miscellaneous shanties in six months, hasn't received a rainfall in all its municipal existence, and yet could charge the paltry sum of one dollar for a shave, possesses all the elements of true greatness." Denver needed to charge some one for something in those days when potatoes were $15 a bushel and sugar 40 cents a pound.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph of Chestnut Street, Boston, by Jessie Tarbox Beals.</ab>
+<p>THE first telegram Denver ever sent was to Boston, costing $9.25&#8212;proving how eager the Western city was for the approval of the "Hub." There are no records of Boston having condescended any reply. Boston offers four especial pleasure trips (properly approved by the Board of Aldermen): 1&#8212;The birthplace of Benjamin Franklin; 2&#8212;A visit to the 20,570 acres of "park system"; 3&#8212;Henry G. Frick's house; and 4&#8212;for a real spree, a visit to the house where Louisa M. Alcott wrote "Little Women."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Photograph of New York harbor by Brown Brothers.</ab>
+<p>TAKE one long look at New York Harbor; then turn, walk up Broadway, glance down Wall Street, and begin your tour of the city. Walk reverently past the corner at Wall and Nassau that is worth $825 a square foot, follow the longest street in the world&#8212;and consider how much more orderly all these millions of persons are than those few that lived in the hamlet of New Amsterdam 250 years ago. According to a court record of 1655, barristers "Find that pltf., because deft.'s boy chased a hen out of his garden, assaulted and sorely beat the said boy, struck also deft.'s wife, and finally beat deft. himself."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph of the New York water-front by Brown Brothers.</ab>
+<p>SAID an Englishman: "The huddled beauty of these buildings and the still, silver expanse of the water seemed unreal. Then I looked down at the water immediately beneath me and knew that New York was a real city. All kinds of refuse went floating by." It's the city where some of its five million citizens go on strike for three months to get a 25-cent raise, and others pay $100,000 for an opera box.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+ 
+<pb n="Page 5" xml:id="ew.issue.19161009.p005" />
+
+<text>
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 3, No. 15 October 9, 1916
+Every Week
+$1.00 per Year 3 Cents a Copy</p>
+</figure><p></p>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="barton2.19161009">
+<body>
+
+<head type="main">A Visit To The President</head>
+<byline>By <persName type="author" key="#Barton, Bruce">BRUCE BARTON</persName></byline>
+    
+<note type="editor">
+<floatingText>
+    <body>
+<p>AS most of you who read this magazine could not go to see the President and Mr. Hughes for yourselves, I went down and looked them over for you. This article is frankly friendly to the President. Next week I shall publish an article which will be frankly friendly to Mr. Hughes. I am trying to give facts, not arguments&#8212;letting each candidate put his best foot forward and be presented as he would like to present himself if he could call at your homes.</p> <closer><signed>THE EDITOR.</signed></closer>
+ </body>
+</floatingText>
+</note>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>"I tremble to think of the variety and falseness of impressions I make: it is borne in on me so that it may change my very disposition."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+
+<p>I FIRST met President Wilson while I was in college. There was a conference of undergraduates at Hartford, and President Wilson, then of Princeton, was present and spoke on the claims of the ministry on the college man. One sentence in that address I have never forgotten. Said he:</p>
+
+<p>"I am constantly amazed by young men who come to me for advice about entering the ministry and who talk to me about wanting to <hi rend="italic">do</hi> something when they ought to talk to me about wanting to <hi rend="italic">be</hi> something."</p>
+
+<p>There was an English clergyman present, who, when Mr. Wilson had finished, expressed his delight and surprise that the president of a great university should publicly proclaim his interest in religion and religious work. In England, he said, no university president would have dared to make such a speech. To Mr. Wilson and to us who heard him it seemed the perfectly natural thing that a man intrusted with the education of young men should have a thorough-going religious faith and publicly avow it.</p>
+
+<p>The last time I saw the President was in his office in the White House on a warm day in early August. He was clothed in white from head to foot&#8212;necktie, shoes, socks, all white. Not for a long time has any President been kept so constantly on the job in Washington through the terrible summer months, and he has learned how to take care of his comfort. Beside the big desk loaded with bills awaiting his signature, we sat and talked for half an hour. And I thought, as we talked, that perhaps in the big chair where I was sitting Mr. von Bernstorff had sat on one occasion, and Senator Stone on another, and the representative of Carranza on another. And I wondered what tales that chair might tell, if it could.</p>
+
+<p>It is interesting to note that both the President and Mr. Hughes have found it necessary to protest to the world that they are not cold, not merely intellects devoid of emotion, but really very warm, very friendly, very human sort of folks. One who has talked with them both, as I have, when they knew they were not talking for publication and could therefore drop into the vernacular without being publicly punished, finds it very easy to take both men at their own estimate in this particular. It seemed to me that both of them have mellowed with the years. The President is grayer; there are deeper lines in his face: but his smile is ready and unforced, and he tells a funny story so that it is really funny, and laughs in a way to leave no doubt that his digestion is in first-class shape. Both he and Mr. Hughes have the appearance of being physically fit.</p>
+
+<p>At thirty he was so frail that a half hour lecture left him completely tired out: at sixty he is asking for another four years of the most laborious job in the world. And how laborious it is! Little by little we are forming the habit of looking to the President for attention to every conceivable sort of problem. Do the sharks annoy our bathers? Telegraph the President and ask for life-savers. Is there a garment strike? Ask the President to arbitrate. Are the mosquitos unusually pestiferous? Washington should attend to it. I sometimes wonder whether the time will come when the Presidency will be too big a job for any one human being; whether it is possible for men to build a machine so huge and exacting that no man can drive it.</p>
+
+<p>That the President, who at thirty was almost an invalid, should have come through these past
+
+<cb n="2" />
+
+four years so well, speaks much for the painstaking self-mastery of the years between thirty and sixty. Let us take a hop, skip, and jump over those years.</p>
+
+<p>WOODROW WILSON was born in Staunton, Virginia, December 28, 1856, the son of a two-fisted, hard-hitting Presbyterian preacher and a quiet, book-loving woman of unusual charm. One who studies his career may see in him the father and the mother well blended&#8212;the ready expression and willingness to face a fight of the one, and the love of seclusion among his books which is the gift of the other. The family moved very early to Augusta, Georgia; and the boy's first vivid recollection is of some one crying in the streets of
+    
+<cb n="2" />
+    
+that little city: "Lincoln has been nominated, and there will be war."</p>
+
+<p>He was rather a delicate boy, and it was not until he had reached his ninth year that his parents allowed him to learn to read. After that his education took him in regular stages through the schools of Augusta and on to Princeton University. He played some baseball there, did a lot of debating, and graduated with honors. It was while he was there that he got hold of the files of an old English magazine containing reports of the debates in Parliament during the days when Parliament was full of giants. And there began to be formed in him even then the interest in politics that has been constant throughout his life, and the ambition some day to have a political career.</p>
+
+<p>Years later, when he came back to Princeton as a professor, his course in practical politics was voted the most popular course in college. He dealt with all kinds of politics, but particularly the politics of the day, handling men and affairs at Washington and Trenton and Albany without gloves. There were always a number of men in his classes who made a part of their college expenses by writing for the daily papers, and to them he would say at the beginning of the term:</p>
+
+<p>"Now I am going to speak very frankly about a lot of things that would make very good news stories if they ever leaked out. I have got to put you fellows on your honor to see that they do not leak out. If they <hi rend="italic">do,</hi> if you should forget yourselves, there will be no punishment for you except this&#8212;I shall have to cut all the really interesting parts of my lectures out. I shall have to make the course just dull and uninteresting."</p>
+
+<p>In all the years no student reporter ever forgot himself.</p>
+
+<p>After his graduation from college Mr. Wilson went back home and took up the practice of law, because it seemed the most direct way into politics. But his heart was not in it: he got tired of sitting around his office waiting for clients, and spent most of his first year at work on his book on Congressional Government. At the end of a year he went to Johns Hopkins to fit himself for teaching.</p>
+
+<p>At forty-five he became president of Princeton University, the first layman to hold that position. At fifty-four he was elected Governor of New Jersey.</p>
+
+<p>The Democratic party in New Jersey at that time was about as prosperous as the Republican party in Texas. It had been out of power for seventeen years, and jolly well deserved to be. The owners and controllers of the party, Messrs. Smith, Davis, and Nugent, decided in 1910 that with Wilson there was a chance to reseat the party in power. They succeeded in winning the election, but it was a costly victory. In winning with Wilson they destroyed themselves.</p>
+
+<p>The blow fell first on Jim Smith, who, as ruling boss and the man chiefly responsible for Wilson's nomination, expected of course to go back to the United States Senate. The Governor served notice on him that he could not go, and forced the legislature to elect Martine in his place. Davis fell next, and finally Nugent, who came to the capitol to protest against the progressive legislation that Governor Wilson was forcing through.</p>
+
+<p>"Don't you think you are making a mistake in opposing these measures, Mr. Nugent?" asked the Governor very suavely.</p>
+
+<p>"I do not," replied Nugent with no suaveness
+
+<pb n="Page 6" xml:id="ew.issue.19161009.p006" />
+
+<cb n="1" />
+
+at all, "and furthermore I don't think you could get them passed except by the methods you are using."</p>
+
+<p>A bad gleam came into the Governor's eye.</p>
+
+<p>"What methods do you mean?" he demanded. </p>
+
+<p>"I mean you're using your patronage."</p>
+
+<p>It was not the kind of a charge that Governor Wilson cared to debate. He rose to his feet, his eyes flaming, and pointed to the door.</p>
+
+<p>"Good day, Mr. Nugent," he said; "good day."</p>
+
+<p>"You're no gentleman," cried the boss, as he stumbled toward the door.</p>
+
+<p>"I don't think you're any judge," responded the Governor, and settled himself to work again as if nothing had happened.</p>
+
+<p>In twenty-four hours the news had traveled through the State that Woodrow Wilson, the college professor and political theorist, had kicked the boss of New Jersey through his office door.</p>
+
+<p>THERE is a Biblical injunction that bids a man beware when all men speak well of him. If President Wilson read the newspapers at the time of his inauguration&#8212;particularly if he remembered the newspapers at the time of President Taft's inauguration and what happened to Taft afterward&#8212;he must have been a bit troubled by that verse. For eighteen months Mr. Wilson and his administration went their quiet ways, with comparatively little criticism. The record of those months has been pretty well overshadowed in popular memory by the events in Europe and Mexico, but it is a record worth noting.</p>
+
+<p>In those months this legislation was placed on the statute books, in accordance with the promise of the platform:</p>
+
+<list><item>A revision of the tariff.</item>
+
+<item>The Federal Reserve Bank Law.</item>
+
+<item>The income tax.</item>
+
+<item>The Clayton Anti-Trust Act.</item>
+
+<item>The Alaska Railroad Bill.</item>
+
+<item>The repeal of the Panama Canal Tolls Bill.</item></list>
+
+<p>Since then there have been added the act creating the Trade Commission; the Rural Credits Act; and the National Child Labor Bill.</p>
+
+<p>He has had no "Wilson program." All of these things were promised in the platform of 1912, except the Child Labor Act, which is promised in the platform of 1916. When Senators in his party have balked he has simply pointed to the platform. When ladies have demanded his support, when business men have wanted to know why Congress was not doing something to meet this or that condition created by the war, his answer has been that he was engaged in making good on the promises already given. His is a "single-track" mind. You may doubt its wisdom or its ability, but those who want to know how it will act in the next four years need not be in any doubt. It will go forward along the lines of the Democratic platform&#8212;patiently, toilfully turning that platform into law.</p>
+
+<p>Had it not been for Mexico and the European War there would be little question about the outcome of the next election. For the first time in America we are to have a Presidential campaign wherein foreign affairs will overshadow all other issues. Our old-time isolation is lost: the steamship and the cable have moved our snug old house up into the very same block with England and Germany, and have put Mexico into our very back yard.</p>
+
+<p>Mr. Hughes recognized this in his speech of acceptance. Except for his attack on those appointments of the President which were inspired by Mr. Bryan and some of the other members of his Cabinet, almost his whole charge was delivered against the administration's conduct of foreign affairs.</p>
+
+<p>The President, if one may accept the testimony
+    
+<cb n="2" />    
+    
+of his close friends in Washington, is not perturbed by these charges. His own conscience, they say, is perfectly clear. No matter how his course may look from the standpoint of his opponents, from where he sits it looks like a perfectly straight, consistent line.</p>
+
+<p>In the case of Germany, they ask: "What would you have done? Would you have declared war? To have done so would have exposed every American ship and every American traveler on the seas to attack; it would have cost us blood and money: and what would it have accomplished more than has been accomplished? Germany has been forced to surrender the submarine as an instrument against commerce; and will be forced to make reparation for the wrongs she has done. Against England's high-handed actions on the seas vigorous protest has and is being made. No American right has been surrendered: American lives are now safe on the seas in the midst of the world's greatest cataclysm: <hi rend="italic">and we have kept out of war.</hi>"</p>
+
+<p>This is the answer of the President's friends on the European questions, and they conclude it by reiterating: "What would you have done?"</p>
+
+<p>On Mexico I thought as I talked with them that they are a bit more sensitive. Yet even here they contend that the President has had a perfectly consistent policy from which he has not swerved.</p>
+
+<p>Immediately after his inauguration, they say, he received a direct intimation from Central America that the Democratic party was looked on down there as being the party of insurgency. The word had gone out through those countries that now, while the Democrats are in, is the time to stir things up. Nobody will object. The party of Roosevelt is out: a new party is in. Come on, boys!</p>
+
+<p>In order to correct those impressions at once, the President announced to the world in general and to Central American revolutionists in particular, that he would recognize no man in any country who came up to power as the result of a revolution selfishly engineered.</p>
+
+<p>And having made that announcement he glanced over at Mexico and beheld who? Mr. Huerta! <hi rend="italic">There</hi> was an immediate test of the sincerity of his announcement: the President met it squarely. He not only refused to recognize Mr. Huerta, but he sent our ships and troops to Vera Cruz, not to get a salute for the flag, but to force Huerta out.</p>
+
+<p>SINCE then there has been chaos and bloodshed and destruction of property. But no more chaos, no more destruction, say the President's friends, than the French endured in winning their change of government. The great fundamental on which America stands, they say, is that every people has the right to determine its own form of government and to work out its own salvation. The President's effort has been to determine what the Mexican people really want and to aid the leader that seems most nearly to embody the popular yearning and demand. When it seemed that Villa was that leader, the President supported Villa. When Carranza showed himself superior in leadership and organization, and became the titular head of the Constitutionalists, he transferred his support to Carranza.</p>
+
+<p>The succeeding months have tried the President's patience sorely, but he has stood firm. He believes that slowly but surely the Mexican people are working toward peace and stability. He believes that the people of the United States are firm against intervention, and that intervention would mean occupation for many years, and good-by to our hope of friendship and respect and trade with all Latin-American countries, good-by to Pan America.</p>
+    
+<cb n="3" />
+
+<p>This is the answer of the President's friends on Mexico; and again they ask: "What would <hi rend="italic">you</hi> have done?"</p>
+
+<p>ONE more fact about the President&#8212;his "isolation." He is probably the most difficult man in the world to-day to see. There are Congressmen and Senators in Washington, many of them, who have never once succeeded in getting a minute's interview with him in all his four years. In this he stands in special contrast to Mr. Roosevelt, who had a marvelous facility in handling a crowd of visitors without tiring himself or getting in the way of his work. The country, I think, has somewhat resented the thought of its President closeted alone, without confidants, settling the destinies of the nation behind a locked door.</p>
+
+<p>I think the President has been conscious of that feeling and has regretted it. Yet his "isolation" is something for which he is not really responsible.</p>
+
+<p>Mr. O. G. Villard, in a recent article, recalled the experience of Paul Lidau, the novelist, who was a visitor to Washington during Grover Cleveland's administration. A friend who met him on the street one day asked him if he would like to meet the President. Lidau was delighted. He would go home at once, he said, and get into a dress suit.</p>
+
+<p>"Not necessary, not necessary," said his friend. "Come along."</p>
+
+<p>So they walked over to the White House, past one sleepy-looking policeman, and into the office of the President's secretary.</p>
+
+<p>"Hello," said that gentleman. "Want to see the President? Sure. Go right upstairs. You'll find him in his study."</p>
+
+<p>Those days are gone. Not because the President does not want to meet the people as informally as any President ever did, but simply because of the almost unbelievable pressure of work that crowds upon the President's time and strength.</p>
+
+<p>Friends of Mr. Wilson say that the thing that troubles him most is not criticism, not foreign affairs, but the oppressive consciousness that he is every day deciding in an instant matters that really deserve the consideration of a week.</p>
+
+<p>Once, to a group of newspaper men, he unbosomed himself.</p>
+
+<p>"I tremble to think of the variety and falseness of the impressions I make&#8212;and it is borne in on me so that it may change my very disposition&#8212;that I am a cold and removed person, who has a thinking machine inside, which he adjusts to the circumstances, which he does not allow to be moved by any winds of affection or emotion of any kind, but turns like a cold search-light on anything that is presented to his attention and makes it work.</p>
+
+<p>"I am not aware of having any detachable apparatus inside of me. On the contrary, if I were so to interpret myself I would say that my constant embarrassment is to restrain the emotions that are inside me. . .</p>
+
+<p>"I am listening, I am diligently trying to collect all the brains that are borrowable, in order that I may not make any more blunders than it is inevitable a man should make who has great limitations of knowledge and capacity. And the emotion of the thing is so great that I suppose I must have some kind of mask to cover it. . . .</p>
+
+<p>"If you calculated the number of blunders a fellow can make in twenty-four hours if he is not careful and if he does not listen more than he talks, you would see something of the feeling that I have."</p>
+
+<p>There, in a few words, is Woodrow Wilson, twenty-eighth President of the United States, as he would like to be seen by his countrymen&#8212;as he sees himself.</p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="onedollaridea.19161009">
+<body>
+
+<head type="main">The Best $1 Idea of the Week</head>
+    
+<cb n="1" />
+
+<p>WE were traveling in Paris, my wife and I and the baby. The baby, two years old, had pretty curls, but weighed an appreciable part of a ton to carry.</p>
+
+<p>Ah, the long boulevards, oh, the miles of art gallery! Even the patent collapsible runabout was impossible. Alas, how my arms ached! There was no joy in life, no art, no music, no charm, no Paris&#8212;only one big baby on my arm, getting heavier every minute.</p>
+
+<p>I saw mothers toiling with like burdens,
+    
+<cb n="2" />    
+    
+sometimes other fathers, often little sisters&#8212;my heart ached for their arm-ache.</p>
+
+<p>Then flashed my 25-cent thought&#8212;my valise strap.</p>
+
+<p>My arm ached because the baby's weight fell on the arm, not on the shoulder. Here is my idea:</p>
+
+<p>Buckle the strap, making an adjustable loop. Put baby on whichever arm you choose; slip the strap loop over the <hi rend="italic">opposite</hi>
+    
+<cb n="3" />    
+    
+shoulder and then around the wrist of the baby-freighted arm. Presto! the weight is placed on the shoulder, both hands are free to use, the ache is gone, life returns, you boldly step forth and walk a dozen miles: for now your yoke is easy and your burden is light.</p>
+
+<p>Try it on the next baby.</p>
+
+<note type="editor"><p>EDITOR'S NOTE: As we now have in our office something like 2000 dollar ideas still 
+    
+<cb n="4" />    
+    
+awaiting judgment, we have decided to discontinue temporarily the $1 Idea Contest.</p>
+
+<p>We shall go on, week by week, publishing the best dollar ideas that have come in to us, and paying for them at the rate of $10 apiece on publication. We shall not return the letters that we do not use.</p>
+
+<p>As soon as our supply of available dollar ideas begins to run short, the renewal of the contest will be announced in the magazine.</p>
+
+<p>In a number of instances the same idea has been sent to us from half a dozen different sources. When the idea is available, we pay the contributor who was the first to submit it to us.</p></note>
+
+</body>
+</text>
+
+<pb n="Page 7" xml:id="ew.issue.19161009.p007" />
+   
+<text type="fiction" xml:id="irwin.19161009">
+<body>
+    
+<head type="main">The Crater</head>
+<byline>By <persName type="author" key="#Irwin, Inez Haynes">INEZ HAYNES IRWIN</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"'There ain't witch of a story to tell. learn eight dollars a week, and I can't live on it. Besides&#8212;you see&#8212;there's Adolph.'"</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+<p>"WELL, what do you think of her?" Maxwell Lee asked Cordelia Livingstone.</p>
+
+<p>"Well, what do <hi rend="italic">you</hi> think of her?" Cordelia Livingstone asked Maxwell Lee.</p>
+
+<p>"I think she'll do," Maxwell answered immediately and with conviction. "She's quick, smart, practical, and efficient, but rather&#8212;rather&#8212;"</p>
+
+<p>Her tone had a faint tinge of dubiety.</p>
+
+<p>"Colorless?" Cordelia finished her sentence for her, but with an upward inflection.</p>
+
+<p>"Exactly. Almost anemic mentally, I should say&#8212;without ideas or convictions. A machine in perfect order, well oiled, ready to work. But we've got to do her thinking for her. She'll be the pawn, the buffer, and the feather-bed of this expedition."</p>
+
+<p>"A typical self-respecting wage-earner," Cordelia added, "but with&#8212;"</p>
+
+<p>She fixed her gaze on the porter hustling bags and suit-cases to the platform. </p>
+
+<p>"Wonderful eyes?"</p>
+
+<p>"Yes," Cordelia agreed. "Wonderful eyes! Haven't her comments been touching! It appears it's her first traveling. <hi rend="italic">Ma che!</hi> What a pig I've felt as I've watched her delight over this one little stingy trip from Boston to New York, when I think of all the years I've had in Europe and the Orient."</p>
+
+<p>"I know what you mean," Maxwell agreed. "Did you notice the look in her face the other night at the Settlement when we were talking about college? Miss Nye told me afterward that it's always been her secret ambition to go to college. I'd give her those four years at Radcliffe as quick as a flash if I could."</p>
+
+<p>"Here she comes now," Cordelia said. "Lord<hi rend="italic">ee,</hi> doesn't she look fresh? She's one of those girls who are always crisp."</p>
+
+<p>The girl who was walking down the car aisle toward them was indeed what Cordelia described, "a typical self-respecting wage-earner." Shirt-waist of a white stuff that laundered easily and did not muss; blue suit of a rough cloth that cleansed easily and did not spot; small, neat black hat of materials that would longest withstand the weather; black gloves and black shoes that had been chosen for durability. She was so slim of figure as to seem almost frail, and so pale of face as to look almost sickly. The crescents of hair that showed under her hat were the color of rust. The lashes without curl, the brows without curve, were the color of rust too. The freckles that speckled her forehead, dappled her cheeks, powdered her nose, and dotted her chin were also the color of rust.</p>
+
+<p>Eyelids down, she buttoned a glove with a perfectly distributed weight as she walked through the swaying car. That glove adjustment completed, she lifted her lids. It was as if stars of purple light grew in her face&#8212;as if an arrow of purple fire shot through the air. Wonderful eyes indeed! She seated herself quietly in the chair beyond the other girls. But when she glanced out of the window, it was with a gasped "Oh!" of surprise.</p>
+
+<p>"New York!" said Maxwell Lee.</p>
+
+<p>"New York!" said Cordelia Livingstone.</p>
+
+<p>"<hi rend="italic">New York!</hi>" said Kate Carroll.</p>
+
+<p>"We'll be at a Hundred and Twenty-fifth Street in a moment, Miss Carroll," Maxwell informed her.</p>
+
+<p>"New York!" Miss Carroll said a second time. She leaned forward and pressed her face against the pane. "It looks different from Boston," she said in a perplexed tone.</p>
+
+
+<p>INSIDE, the impatient excitement that marks the end of a journey filled the air. The women, freshly washed, combed, and powdered, neatly hatted, veiled, and gloved, tapped impatient feet. The men, coated and gloved, but more philosophical, apathetically watched the sliding scene. The porter finished brushing and pocketed his last tip. The conductor called, "Hundred and Twenty-fifth Street." Passengers alighted. The train started again.</p>
+    
+<cb n="2" />
+
+<p>Miss Carroll's face still pressed against the glass.</p>
+
+<p>Street after street made a bee-line from the blue of one river to the blue of another. All alike, those streets; straight, symmetrical cañons cut through a rock, paved with asphalt that was worn smooth and shining, covered equally with debris and children. All alike, those houses, carved from cliffs of brownstone, retreating behind tiny yards and dragging a tail of worn brownstone steps.</p>
+
+<p>"Now we're getting into the tunnel, Miss Carroll," Maxwell explained presently. "This is the most unpleasant part of the trip; but the next stop is the last."</p>
+
+<p>The car darkened, slowed. Miss Carroll withdrew her gaze from without, sat upright. For a long period they ambled through a semi-opaque obscurity.</p>
+
+<p>"What shall we do first, Maxie?" Cordelia Livingstone asked.</p>
+
+<p>"The hotel first," Maxwell answered. "Then round to Tiffany's to get the 'Crater."</p>
+
+<p>"Maxie, you can wear it to dinner tonight," Cordelia suggested. "Oh, I am <hi rend="italic">crazy</hi> to see it."</p>
+
+<p>"Cordie,"&#8212;Maxwell's tones were impressive,&#8212;"it's the only piece of jewelry I've ever wanted in my life."</p>
+
+<p>"We're getting into the station, Miss Carroll," Cordelia exclaimed. "There are the red-caps."</p>
+
+<p>Again Miss Carroll peered out. A line of scarlet disks, topping the heads of negro porters who ran with the train, bobbed along under the window.</p>
+
+<p>"Grand Central Station!" the conductor called.</p>
+
+<p>Passengers gathered near the doors.</p>
+
+<p>"New York!" Miss Carroll said for the third time. And she whispered. But she was quite composed an instant later when she stood up, a little traveling typewriter in one hand, a small black traveling-bag in the other, and followed the other two.</p>
+    
+<cb n="3" />
+
+<p>"Lord, isn't this station a wonder," Cordelia said. "I get a thrill every time I come here."</p>
+
+<p>"Isn't it beautiful!" Miss Carroll said, a note of awe still whispering in her voice. "Why, it's almost like a church."</p>
+
+<p>Cordelia stopped short. "It <hi rend="italic">is</hi> like a church. It would be a perfectly wonderful place for a royal wedding," she announced. "Just imagine a temporary altar, enormous, gigantic, <hi rend="italic">colossal,</hi> there&#8212;decorated with trees; not flowers, <hi rend="italic">trees</hi>&#8212;orange trees in full blossom; the bridal party in front&#8212;<hi rend="italic">there;</hi> the military and diplomatic corps back of them&#8212;<hi rend="italic">there,</hi> and the guests <hi rend="italic">there</hi>&#8212;and <hi rend="italic">there</hi>&#8212;and <hi rend="italic">there.</hi> Imagine hundreds of uniforms and evening gowns massed in those huge spaces&#8212;diamonds, rubies, emeralds, sapphires, plumes; trains of purple velvet&#8212;robes of crimson velvet&#8212;ermine&#8212;gold lace&#8212;brass buttons. My word! I'd love to plan it!"</p>
+
+<p>IT is difficult to describe Cordelia Livingstone. It would be easier to say simply, "Turn back the pages of <hi rend="italic">Punch</hi> until you come to the Du Manner drawings." There you will come again and again on the prototypes of the glorious Trilby and the adorable Duchess of Towers, who in turn were Du Maurier's artist version of the golden Ellen Terry and the marble Lily Langtry. You will find Cordelia among them&#8212;the American version of the Du Maurier translation of the English type. In other words, she is Trilby with an American filip, the Duchess of Towers with an American tang. Slim, tall, statuesque, she stood smiling and gesturing. The smile, Du Maurier fashion, closed eyes that were like green ice filled with fire. Her gestures, as with quick, broad strokes she painted her picture, turned her arms to banners and her hands to pennants.</p>
+
+<p>Here and there a bystander automatically detached himself from the crowd the
+    
+<cb n="4" />    
+    
+better to observe that action of this beauful human semaphore. Utterly unconscious of her audience, Cordelia suddenly ceased windmilling, fell into a brown study, and meekly followed Maxwell.</p>
+
+<p>"The same old New York air!" she exclaimed joyously as she came out on the street&#8212;"a combination of champagne, electricity, and radium. Say, Miss Carroll&#8212;" She interrupted herself. "What's that&#8212;music?"</p>
+
+<p>Maxwell glanced absently in the direction of Fifth Avenue. "What's going on?" she asked the red-cap.</p>
+
+<p>"The suffrage parade, miss," he answered, smiling as one sure of having made a good joke.</p>
+
+<p>"The suffrage parade!" Maxwell exclaimed. "I had forgotten all about that. Why, of course!"</p>
+
+<p>She stood preoccupied, gazing in the direction of the Avenue.</p>
+
+<p>You would have noticed Maxwell Lee anywhere, I think, first because of her figure and later because of a something in her face. The quality that made her figure noticeable was obvious enough&#8212;beauty. Towering and, in a feminine way, powerful, it was small-headed and small-waisted, slim-hipped and slim-limbed&#8212;it flared into square shoulders and tapered into slender ankles. That perfection was obviously the product of much out-of-door exercise&#8212;tennis, golf, walking, riding, swimming.</p>
+
+<p>But that something in her face was a subtler problem; for it was not, in any conventional sense, beauty. Perhaps at first you might have called it breeding or poise or calm. You might have attributed it to the stillness and directness and intentness of her gaze. Thick as cream, smooth as marble, warm as a lily-petal in the sun, her skin was untouched by color except in the purple-red of the lips. This colorlessness added to the calm of her expression. The long, thick, dark lashes that fringed the clear gray eyes were perfectly straight. This straightness added to the intentness of her look. Whatever it was&#8212;that <hi rend="italic">something</hi>&#8212;those who serve the public accepted it as authority. Whenever she entered a dining-room, the head waiter leaped to serve her. Telephone girls, saleswomen, waitresses accorded her a haughty deference.</p>
+
+<p>THE music started again. The band struck up "I Love You, California."</p>
+
+<p>"That's the California delegation," Maxwell said. "See, there's the bear-flag." Her eyes followed the gorgeous, gold-fringed banner meditatively. Suddenly she smiled.</p>
+
+<p>The smile made an astonishing change in her. It broke up the calm of her face with glisten, glimmer, gleam. The gray eyes flashed the silver light of mischief. The purple-red lips flashed the silver white of mirth. A flock of tiny hollows, too faint to be dimples, too deep to be shadows, flittered in bird-flight across her face. The smile died. The little hollows smoothed out. One realized suddenly that that <hi rend="italic">something</hi> in her face was not the breeding or poise or calm of her look; it was not the stillness and intentness and directness of her gaze. It was that her face was filled with solitudes and serenities and austerities of the spirit, just as a landscape might be filled with the solitudes and serenities and austerities of the desert.</p>
+
+<p>"I wonder if we'd better go first to the&#8212;" Maxwell meditated aloud. "No, it will be too long, making these crossings. Porter, check all these things and bring the checks to me. Give him your coat and umbrella!" she ordered Cordelia Livingstone. "Give him your bag and typewriter," she ordered Kate Carroll. "We're going to parade."</p>
+
+<p>"<hi rend="italic">Parade!</hi>" Miss Carroll gasped. "All right!" she agreed, frowning. She relinquished her burdens with reluctance.</p>
+
+<p>"Parade!" Cordelia repeated. "All right!" she agreed, sparkling. She relinquished her burdens with alacrity.</p>
+
+<p>"We'd better join Mrs. Belmont's 
+
+<pb n="Page 8" xml:id="ew.issue.19161009.p008" />
+
+<figure n="illustration">
+<head></head>
+<p>"'New York!' said Miss Carroll. 'Isn't the station beautiful ! Why, it's almost like a church!'"</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+delegation," Maxwell said, as the porter returned with the checks. "Come on, girls! Hurry!"</p>
+
+<p>The other two followed her striding progress down Madison Avenue and into Forty-first Street. Ahead, where the street intersected the Avenue, was a mass of women. In suits of uniform cut made of white duck, and hats of uniform shape trimmed with purple and green and yellow, they stood in the midst of a jungle of gay-colored banners and pennants.</p>
+
+<p>Beyond them and above their heads a stream of banners and pennants, equally gay-colored, was flowing up the Avenue.</p>
+
+<p>"They'll fall in presently," Maxwell explained, "and we'll go with them. This is bully, because we can see some of the parade before we get into it ourselves. May we stand in your wagon?" she asked an expressman.</p>
+
+<p>"Sure!" he answered.</p>
+
+<p>PRESENTLY there was a stir in the white-duck ranks ahead.</p>
+
+<p>"They're falling in, girls," Maxwell exclaimed. "Come on!"</p>
+
+<p>She jumped to the sidewalk, and the other two jumped after her. A ripple ran through the white-duck mass. Suddenly it was a symmetrical phalanx.</p>
+
+<p>The last line in the phalanx, and only three in number, the girls approached the corner.</p>
+
+<p>"Can I march with you ladies?" came a voice in Maxwell's ear. "I'm all alone."</p>
+
+<p>It was a girl who spoke.</p>
+
+<p>"Of course!" Maxwell answered. "We're glad to have you."</p>
+
+<p>Still the last line, but now four, they swung into the Avenue.</p>
+
+<p>For a few moments, busy getting into step, alining themselves, stealing surreptitious glances at their surroundings, the girls took no notice of one another. In truth, they looked a little dazed; for the scene was an extraordinary one.</p>
+
+<p>Above was a sky so blue and close that it might have been a painted canvas. Below was a street so smooth and silky that it might have been a plane of polished agate set between the sidewalks. And falling sheer from painted blue sky to polished gray street were what might have been side-drops. These drops were painted too&#8212;each with a line of buildings that stretched into the very infinity of
+    
+<cb n="2" />    
+    
+distance: low dwelling-houses, old, of red brick or brownstone, or red brick trimmed with brownstone; high store-buildings, new, of plain gray stone or white marble; hotels whose roofs threatened to scrape that canvas sky, and churches whose steeples threatened to pierce it.</p>
+
+<p>Against this painted background&#8212;everywhere&#8212;stood people. Curbs and sidewalks; above them doorways and door-steps; above them windows and balconies; and above all roofs, were crowded so thick that it was as if the side-drops had been cushioned in black and white. Watching the procession attentively, they stood in a massed quiet. Indeed, the only thing that seemed to move actively in all that still, boxed-in scene was the parade itself. And that&#8212;a narrow, many-colored human ribbon&#8212;surged steadily up the incline of the Avenue as if it were being unwound from a monster reel stationed in Washington Square. Banners of all sizes, shapes, and colors topped it. Everywhere glared the slogan: "VOTES FOR WOMEN."</p>
+
+<p>Here and there uniformity in costume had been obtained. More often only an approximate uniformity had been produced. Oftenest of all uniformity had not even been attempted. Picturesque and even beautiful features sometimes evoked a brief, faint applause.  Occasionally hands clapped; cheers, jeers, hisses resounded. But for the most part the effect was of a growing silence and stillness, and this growing silence and stillness of the spectators was the accumulative effect, not of beauty, but of numbers. On they came, and on&#8212;thousands of women&#8212;thrown together as with an undiscriminating hand, short with tall, fat with thin, weak with strong, old with young, shabby with smart, alien with native, black with white. On they came, and on and on, as if they would never cease.</p>
+
+<p>Miss Carroll spoke first.</p>
+
+<p>"As long as I live, I'm going to remember this," she said. "Just women."</p>
+
+<p>"I watched you three ladies quite a while," the stranger murmured in Maxwell's ear. "I made up my mind I'd come here this afternoon because I wanted to find some lady I could talk to. I'd been standing on the corner nearly two hours when you came along. I hadn't seen anybody that I felt like opening up to. There's something&#8212;" She stopped. "I thought I'd like to talk it over with somebody."</p>
+
+<p>"All right," Maxwell said. "We'll help you if we can. Keep your shoulders back! Look straight ahead. Talk as low as you can without seeming to talk. I'll listen carefully. Stop when the marshal comes by. My name is Maxwell Lee. I'll introduce you to my friends when I get a chance."</p>
+
+<p>"My name is Pauline Le Favor," the stranger said simply.</p>
+
+<p>She was a tall girl, full-busted, strong-featured, vigorous-motioned, and handsome. She was blond; that is to say, the bag of hair hanging from under her little cocked, pill-box-shaped hat was gold: but her skin, pink in the sun, had a tinge of brown in the shadow, and her big eyes were brown in any light. She wore a suit of shepherd's plaid which, following the mode of the previous year, made her look like a cross between a French Zouave and a figure in a Japanese
+    
+<cb n="3" />    
+    
+print. Her waist, of cheap lace but clean, her gloves, of cotton but spotless, her spats, of woolen but immaculate, were all white. Little cheap pearl and jet ear-rings tinkled at her ears, a soiled red leather vanity-box dangled from one hand.</p>
+
+<p>"What is that building, Miss Livingstone?" Miss Carroll slipped sideways to Cordelia, out of a mouth that looked closed.</p>
+
+<p>"The Public Library," Cordelia answered with moveless lips.</p>
+
+<p>"Peach!" Miss Carroll commented laconically. "There's the Cathedral," she announced to herself presently.</p>
+
+<p>"Is that Central Park&#8212;ahead&#8212;where the trees are?" she began again presently.</p>
+
+<p>"Yes; and the gold gentleman whom you will presently see riding a gold horse is General War-Is-Hell Sherman. Who's Miss Lee talking to?"</p>
+
+<p>"I don't know. Some girl that followed us into the parade."</p>
+
+<p>The music stopped abruptly. There came a quick stop in the marching. The reel from which the human ribbon was unrolling buckled. The ribbon bunched. Banners and flags dropped to the asphalt. The ranks broke. Small groups formed.</p>
+
+<p>"Girls, let me introduce Miss Le Favor," Maxwell said. "Miss Carroll and Miss Livingstone, Miss Le Favor."</p>
+
+<p>Again the music started. The lines reformed. The four girls fell into line.</p>
+
+<p>"HOW would you like to stay and have dinner with us, Miss Le Favor?" Maxwell asked.</p>
+
+<p>Miss Le Favor stood in the center of the hotel room, swinging her vanity-box. She seemed dazed, almost frightened. It was a big room, spacious enough to hold comfortably, in addition to a desk, a table, and chairs, two single beds and a couch. A big wardrobe trunk stood upright in one corner; a second trunk, smaller but still large, stood open beside it; a hat trunk, open, stood beside the smaller trunk, and a traveling bag of black leather brought up the rear. Maxwell, in a rose-colored négligée, her hair down, was unpacking. At the two windows were boxes of crimson geraniums and white daisies that breathed a delicate mingled perfume. Above them awnings in broad green and white stripes seemed to scoop out of the air great cubes of purple shadow and to throw them back into the room.</p>
+
+<p>Three doors stood open. One led into a big closet where an electric light starred the dusk; another to a big, airy
+    
+<cb n="4" />    
+    
+bathroom, lustrously tiled and vividly tessellated, where a tub of gleaming porcelain decorated with nickel yawned, and where, in wanton abundance, towels of all sizes and thicknesses ranged. The third led into another room. Through that door came the sound of voices as Miss Livingstone and Miss Carroll chattered over their unpacking.</p>
+
+<p>"I don't know," Miss Le Favor answered. "I don't feel dressed right."</p>
+
+<p>"What you are wearing is all right, but I'd like to lend you an evening dress," Maxwell went on pleasantly, "if you'd care to wear it. I have one that I am sure will fit you. It's old, but very simple and very pretty, I think."</p>
+
+<p>Miss Le Favor stood for an irresolute interval, thinking. She bit her upper lip. That exercise protruded her jaw a little.</p>
+
+<p>Maxwell went to the wardrobe trunk, and lifted a gown from the hanger.</p>
+
+<p>"This is the one. Wait; I have stockings and slippers to match."</p>
+
+<p>Miss Le Favor looked at the gown, like fog-colored gossamer; at the stockings, like fog-colored films; at the slippers, fog-colored too, but high-heeled and golden-buckled. She was scowling now, and that scowl wiped out suddenly all the feminine values of her face.</p>
+
+<p>"I'd be crazy to wear it," she breathed roughly. "I never had a dress like that on my back."</p>
+
+<p>Maxwell opened the drawers in the big mahogany bureau.</p>
+
+<p>"Help yourself to whatever you need," she offered. "You bathe first. I want to do a little unpacking."</p>
+
+<p>Miss Le Favor examined the contents of the bureau drawers with a hawk-eyed interest. Shyly at first, then with eagerness, she picked out things here and there. With one arm full of clothes, she stopped at the bath-room door. "Say, you got hair just like a lion's mane, haven't you?" she commented.</p>
+
+<p>Maxwell's hair was short; it reached a point half-way between her shoulders and her waist. But it was so thickly crinkled as to be bushy, a dusky bronze-brown frame for the white stillness of her face.</p>
+
+<p>"You don't ever have to wave it, do you?" Miss Le Favor went on. "What are you girls doing?" she asked suddenly. "Just traveling round?"</p>
+
+<p>"Yes," Maxwell answered. "That describes it perfectly. Traveling round."</p>
+
+<p>Pauline fingered the lock of the door.</p>
+
+<p>"Are you rich?" she asked, "or do you work?"</p>
+
+<p>"I'm not rich. But many people would
+
+<figure n="illustration">
+<head></head>
+<p>"'Can I march with you ladies?' came a voice in Maxwell's ear."</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 9" xml:id="ew.issue.19161009.p009" />
+    
+<cb n="1" />
+
+think my father was. Miss Livingstone is poor most of the time. Miss Carroll is the richest of us all. She draws a salary. She's my secretary."</p>
+
+<p>"Well, if Miss Livingstone is poor, how can she afford to be traveling round?" Miss Le Favor demanded, with a strong accent of disapproval.</p>
+
+<p>"You see, she's a painter and&#8212;"</p>
+
+<p>"A painter!" Miss be Favor repeated, incredulity augmenting the disapproval in her tone.</p>
+
+<p>"She's an artist. She paints landscapes. She's just had an exhibition and sold some pictures, so she's got a little money. She and I are much interested in the world&#8212;and life. It occurred to us a little while ago that because we'd traveled so much we both knew certain&#8212;" Maxwell paused as if to recast her phrases, then obviously went on using her first choice&#8212;"certain special and precious phases of it; neither of us had seen real life. We both feel that we have never seen life in the raw&#8212;I mean as every-day people live it. So we'd decided that we'd start off on a journey and look the every-day, work-a-day world in the face. We're going straight across the continent to California. I may even write a book about it."</p>
+
+<p>"Oh, I see&#8212;uplifters and highbrows."</p>
+
+<p>Miss Le Favor's tone carried a stratum of disappointment.</p>
+
+<p>"It sounds that way, doesn't it?" Maxwell said with unimpaired good humor. "And yet, I think we're not exactly that."</p>
+
+<p>"She's full of ginger&#8212;that Miss Livingstone, isn't she? No; I shouldn't call <hi rend="italic">her</hi> a highbrow."</p>
+
+<p>"She's lived all over the world," Maxwell went on, ignoring an unconscious uncomplimentary emphasis. "She has the choicest collection of knowledge and ignorance of any human being I have ever known. She can't add, subtract, multiply, or divide as well as an eight-year-old child; and yet she has traveled, alone often, in foreign countries ever since she was eighteen, and understands their money. She knows nothing whatever about geography; yet she can draw maps of many of the biggest cities of the world. She has never studied literature or history; but she is full of surprising information about all kinds of queer countries and places. She knows nothing of grammar; and yet she can talk well in three languages and a little in three more, including Japanese. You see, her father and mother were both painters&#8212;artists&#8212;and they wandered like gypsies all over the world."</p>
+
+<p>"Gee, that's the life!" Miss Le Favor approved enviously. "What's your life been like?"</p>
+
+<p>"Very dull," Maxwell conceded. "Boston in the winter&#8212;or Egypt or the French Riviera&#8212;and in the summer a place in Massachusetts called Pride's Crossing. Then I went to college for four years. That's about all there is to me."</p>
+
+<p>"Well, I'd call that <hi rend="italic">some</hi> life!"</p>
+
+<p>MISS LE FAVOR shut the door abruptly. When she opened it again, she was dressed but for her gown.</p>
+
+<p>"Can I do my hair?" she asked. She looked hard at the comb Maxwell handed her. "Ivory," she said. "Isn't that swell!"</p>
+
+<p>She took the pins from her hair. The great bag dropped slowly off her head, split open, rolled over her shoulders, and spread out into a great fan of gold. She attacked it with the comb, divided it, coiled it. She started to draw on the fog-colored gown.</p>
+
+<p>Maxwell watched the reflection in the glass. Pauline was a rounded creature. Her flesh was of a singular transparency, and of a delicious lush pinkness, yet without softness. For underneath that lushness lay a structure of bone and muscle that was not only definite but prominent. It was as if a body of gauze, rose-tinted and velvet-surfaced, had been fitted over a framework of iron.</p>
+
+<p>"Miss Le Favor," Maxwell said, "you are a very pretty girl."</p>
+
+<p>Miss Le Favor glanced at the mirror. Her eyes narrowed; her brow furrowed; and again her jaw pushed forward.</p>
+
+<p>"Lot of good it's done me!" she remarked scornfully.</p>
+
+<p>Maxwell made no comment. But she
+    
+<cb n="2" />    
+    
+reached into her bag, brought out a small key, and unlocked the jewel-case that lay on the dresser-top. From it she took a gold chain that twisted into a rope ending first in a pendant of black enamel and pearl, and then in two heavy gold tassels. She threw it over Pauline's head.</p>
+
+<p>"That belonged to my mother," she said.</p>
+
+<p>"Gee, isn't it swell!" Pauline exclaimed.</p>
+
+<p>OUTSIDE, the Avenue was growing quieter and quieter. Daylight still flickered in the air, though the street lights&#8212;like purple full moons&#8212;dripped purple reflections on the shining gray asphalt. Inside they had not lighted up. Cordelia lay on the couch, her slim blue-clad figure banked at every angle with cushions. Maxwell, who by means of her black evening gown had merged with the dusk, sat in one of the big chairs. Miss Carroll had almost disappeared in the shadow of another, her face only a white, fan-shaped plane, out of which gleamed two violet pools. Miss Le Favor sat opposite the dresser. The light from the street reflected in the mirror, and frequently she contemplated her image there.</p>
+
+<p>There came a pause in conversation.</p>
+
+<p>Miss Le Favor broke it ultimately.</p>
+
+<p>"Well, I suppose it's time for me to loosen up," she said, with a sigh. "Of course I <hi rend="italic">wanna</hi> tell you. That's what I started to do. And yet&#8212;I dunno that I can make you ladies understand. In some ways it's easier now than it was, and in some ways it's harder. But one thing's sure. All this makes it tougher going back. I never wore a swell dress like this before&#8212;I never sat in a swell room like this before&#8212;I never fed my face in a swell dining-room like that before. And when I think there's plenty of people can do this every night of their lives and never notice the size of the check&#8212;"</p>
+
+<p>Miss Le Favor paused. Her eyes flew to the mirror.</p>
+
+<p>"There ain't much of a story to tell. I earn eight dollars a week, and I can't live on it. That's it in a nut-shell. Oh, a course I <hi rend="italic">can</hi> live on it, if I haft to; because I <hi rend="italic">have</hi> lived on it for three years. But I don't wanna. It's too hard work. I can't stand it any longer and I ain't gonna stand it any longer. Besides&#8212;you see&#8212;there's Adolph."</p>
+
+<p>She paused and did not speak for a moment. Nobody else spoke. And in the significant silence the twilight seemed to thicken and blacken and whirl.</p>
+
+<p>Maxwell broke the pause. "And Adolph?" she questioned.</p>
+
+<p>"Adolph&#8212;Adolph, he's my gell-man friend&#8212;well, he says that two of us can live easier off his pay and my pay than either can alone. And I guess he's said something. That's all."</p>
+
+<p>"Does he&#8212;now let me be sure that I understand&#8212;" It was again Maxwell who spoke. "Does Adolph want to <hi rend="italic">marry</hi> you?"</p>
+
+<p>"No. But, say, he's on the level with me. He don't wanna marry nobody. He's got a wife somewhere that he ain't seen for years. And I&#8212;I dunno. It's such a fierce struggle and such a hard one, and nothing ahead to work for. If I seen something ahead&#8212;well, that might make
+    
+<cb n="3" />
+    
+a difference. I dunno that I can make you three understand. But I haft to divide that eight dollars every Saturday night into so many parts&#8212;see? Two dollars for rent&#8212;fifty cents for breakfasts&#8212;seventy-five cents for lunches&#8212;one dollar and seventy-five cents for dinners. There ain't much left, believe me, for a soda or a movie-show&#8212;let alone a trip to Coney. I get so tired countin' out that money every week. It don't seem like it belonged to me somehow&#8212;it seems like if only passed through my hands. I don't ever get nothing out of it that I want&#8212;only things that I've gotta have. Sometimes it seems like to me, I'd rather take a high dive off the bridge than go on dividing that money.</p>
+
+<p>"So&#8212;well&#8212;last night I made up my
+    
+<figure n="illustration">
+<head></head>
+<p>"Maxwell drew the opal pendant out of the box. Black as night, all the flame of a volcano burned at its heart."</p>
+<figDesc></figDesc>
+</figure>    
+    
+mind that I was gonna say yes to Adolph. And then I started to read the paper about this parade. And I says to myself, 'Kid, I'm going to give you one more chanct. There'll be lots of ladies in that bunch who are good and kind and would help you if you told them the truth. You go up to Forty-foirst Street and stick aroun' till you see some doll that looks like she'd understand, and then you go to it and tell her.' Well, believe me, I looked at ladies for two hours, but I didn't see nobody I wanted to open up to till you three came along." She addressed herself to Maxwell. "I spoke to you because you look like a swell that ain't a snob."</p>
+
+<p>PRESENTLY she went on. Her voice had taken on a sulky stridency.</p>
+
+<p>"I love nice clothes and hats and shoes and gloves, and I want to have them before I die. I like to go to swell theayters and eat at swell restaurants, and I want to do it before I die. I like to go to dances and have a good time with the fellers, and I want to go before I die. I can't get a good time and stay straight. That's Gawd's truth. Anyhow, I ain't got it yet. And I wanna good time more'n I wanna stay straight. And if any one you got anything to say about it, you jess try living on eight dollars a week for three years. I don't mean for one week, or one month, or one year. I mean three years. And you jess try lookin' ahead and seein' the years stretching on and on, and all you can hear is, 'Two dollars for the room, fifty cents for breakfasts, seventy-five cents for lunches, one dollar and seventy-five
+    
+<cb n="4" />    
+    
+cents for dinners,' and you getting homelier and homelier every day until you dry up into a fierce old maid that every one hates, who spends all her days yappin' and snappin' and rappin', and all her nights shiverin' and worryin' and cryin' for fear some chicken's going to get her job. Until you tried it yourself, don't you be knocking me."</p>
+
+<p>Her voice, which had risen to a rough raucousness, crescendoed in a fury of passionate resentment.</p>
+
+<p>"WE won't knock in any circumstance, Miss Le Favor," Maxwell said. "And I'll admit I don't like to think how long I'd last in those conditions."</p>
+
+<p>Cordelia came to an upright position. </p>
+
+<p>"Do you know what I'd do?" she demanded. She shot her long arms to their most indignant horizontal, then to their most despairing vertical. "I'd steal!"</p>
+
+<p>"Well, girlie, that wouldn't get you anywhere," Miss Le Favor asserted sardonically, "except Blackwell's Island."</p>
+
+<p>"Do you mind telling me how old you are, Miss Le Favor?" Maxwell asked.</p>
+
+<p>"Nineteen," Miss Le Favor answered.</p>
+
+<p>"Are your parents living?"</p>
+
+<p>"No."</p>
+
+<p>"Have you any brothers and sisters?"</p> 
+
+<p>"No."</p>
+
+<p>"Have you always lived in New York?"</p> 
+
+<p>"Yes."</p>
+
+<p>"Go to school here?"</p>
+
+<p>"Yes. I didn't graduate from the grammar school. My father and mother died, and I had to go to work."</p>
+
+<p>"What do you do?"</p>
+
+<p>"Book-binder."</p>
+
+<p>"How did you manage before you made eight dollars a week?"</p>
+
+<p>"I lived with a cousin for a while. Then they moved out West."</p>
+
+<p>"Is there anything you can do&#8212;or that you want to do? Have you any knack for dressmaking or millinery?"</p>
+
+<p>"No; I hate sewing. Of course I can think of a lot of things I'd like to do. I'd like to be a swell stenographer with a swell gentleman for a boss and a swell office all furnished up grand at the top of a skyscraper. But how'd I learn to be a stenographer? Where'd I get the time or the money? Once a lady advised me to get a job at housework. You get better paid and better fed, she said. And she's right.</p>
+    
+<p rend="jumpline"><ref target="irwin.19161009.jump">Continued on page 21</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19161009.p010" />
+
+<text type="fiction" xml:id="bartlett.19161009">
+<body>
+
+<head type="main">The Triflers</head>
+<byline>By <persName type="author" key="#Bartlett, Frederick Orin">FREDERICK ORIN BARTLETT</persName></byline>
+<byline>Author of "The Wall Street Girl"</byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"'It's Teddy again!' she trembled. 'We're to be married to-morrow?' he asked quietly. 'It's the only way to get rid of him.'"</p>
+<figDesc></figDesc>
+</figure>
+    
+<note type="summary">
+<floatingText>
+    <body>
+<div1><head type="sub">READ THIS: THEN START THE STORY</head>
+
+<p>MONTE COVINGTON, an American bachelor, finds his schedule of pleasure marred, on his tenth visit to Nice, by the death of Edhart, his favorite maître d'hôtel. He feels suddenly old, at thirty-two. For the first time in his life he is bored. Going on to Paris, he is pursued by the feeling of something gone wrong. One night he meets, coming from the opera alone, Marjory Stockton, a girl he has known a long time, but whose time has been devoted to an elderly aunt to the exclusion of her friends. The aunt is now dead, and Marjory, inheriting her fortune, is enjoying her first taste of freedom. But she is unable to enjoy it because of admirers offering marriage. She tells Monte that the most troublesome of these is Teddy Hamilton, a music-hall favorite, whom she met on the boat coming over. Monte's zest for life returns, and he sees Marjory frequently. One morning he finds her in a nervous state because Hamilton is threatening to shoot himself if she refuses his suit. While she is talking to Monte in her sitting-room, Teddy arrives downstairs. To Monte's proposal to go down and settle the boy, Marjory replies that he has no right&#8212;that it would only cause a scandal in Paris. Monte wishes he could be transformed into a brother or even a cousin. It suddenly occurs to him that there is one relationship he can assume that would solve the whole problem. He makes his suggestion to Marjory&#8212;to marry him for protection against unwelcome attention and to be a <hi rend="italic">camarade de voyage,</hi> without further obligation on the part of either. Marjory accepts the strange proposal. Monte goes down and tells Teddy that Marjory is going to marry him, and the crazed boy whips out a revolver and shoots&#8212;wounding Monte's right shoulder. When Marjory and her maid come in, he conceals his hurt and hurries Teddy out and into a cab, accompanying him. He gets Hamilton home, and then starts for his own hotel. Before he has reached it he becomes unconscious in the cab.</p></div1>
+ </body>
+</floatingText>
+</note>
+
+<cb n="1" />
+
+<p>WHEN the gendarmes came hurrying to 64 Boulevard St. Germaine, Marjory was the only one in the house cool enough to meet them at the door. She quieted them with a smile.</p>
+
+<p>"It is too bad, messieurs," she apologized, because it did seem too bad to put them to so much trouble for nothing. "It was only a disagreeable incident between friends, and it is closed. Madame Courcy lost her head."</p>
+
+<p>"But we were told it was an assassination," the lieutenant informed her. He was a very smart-looking lieutenant, and he noticed her eyes at once.</p>
+
+<p>"To have an assassination it is necessary to have some one assassinated, is it not?" inquired Marjory.</p>
+
+<p>"But yes, certainly."</p>
+
+<p>"Then truly it is a mistake, because the two gentlemen went off together in a cab."</p>
+
+<p>The lieutenant took out a memorandum-book.</p>
+
+<p>"Is that necessary?" asked Marjory. </p>
+
+<p>"A report must be made."</p>
+
+<p>"It was nothing, I assure you," she insisted. "It was what in America is called a false alarm."</p>
+
+<p>"You are American?" inquired the lieutenant, twisting his mustache.</p>
+
+<p>"It is a compliment to my French that you did not know," smiled Marjory.</p>
+
+<p>It was also a compliment to the lieutenant that she smiled. At least, it was so he interpreted it.</p>
+
+<p>"The report is only a matter of routine," he informed her. "If mademoiselle will kindly give me her name."</p>
+
+<p>"But the newspapers!" she exclaimed. "They make so much of so little."</p>
+
+<p>"It will be a pleasure to see that the report is treated as confidential," said the lieutenant, with a bow.</p>
+
+<p>So, as a matter of fact, after a perfunctory interview with madame and Marie, who had so far recovered
+    
+<cb n="2" />    
+    
+themselves as to be easily handled by Marjory, the lieutenant and his men bowed themselves out and the incident was closed.</p>
+
+<p>Marjory herself escorted them to the door, and then, a little breathless with excitement, she went into the reception-room a moment to collect herself.</p>
+
+<p>The scene was set exactly as it had been when from upstairs she heard that shot&#8212;the shot that for a second had checked her breathing as if she herself had been hit. As clearly as if she had been in the room, she had seen Monte stretched out on the floor, with Hamilton bending over him. She had not thought of any other possibility. As she sprang down the stairs she had been sure of what she was about to see. But when she entered she had found Monte standing erect&#8212;erect and smiling, with his light hair all awry like a school-boy's. Then, sinking into the chair near the window,&#8212;this very chair beside which she now stood,he had asked her to go out and attend to madame.</p>
+
+<p>Come to think of it, it was odd that he had been smiling. It was not quite
+    
+<cb n="3" />
+    
+natural for one to smile over a matter as serious as that. After all, even if Teddy was melodramatic, even if his shot had missed its mark, it was not a matter to take lightly.</p>
+
+<p>SHE seated herself in the chair he had occupied, and her hands dropped wearily to her side. Her fingers touched something sticky&#8212;something on the side of the chair next to the wall&#8212;something that the gendarmes had not noticed.</p>
+
+<p>She did not dare to move her fingers. She was paralyzed, as if they had met some cold, strange hand. For one second, two seconds, three seconds, she sat there transfixed, fearing, if she moved as much as a muscle, that something would spring at her from below&#8212;some awful fact.</p>
+
+<p>Then finally she did move. She moved slowly, with her eyes closed. Then, suddenly opening them wide, she saw her fingers stained carmine. She knew then why Monte had smiled. It was like him to do that. Running swiftly to her room, she called Marie as she ran:</p>
+
+<p>"Marie&#8212;my hat! Your hat! Hurry!"</p>
+    
+<cb n="4" />
+
+<p>"Oh, <hi rend="italic">mon Dieu!</hi>" exclaimed Marie. "Has anything happened?"</p>
+
+<p>"I have just learned what has already happened," she answered. "But do not alarm madame."</p>
+
+<p>It was impossible not to alarm madame. The mere fact that they were going out alarmed madame. Marjory stopped in the hall and quite coolly worked on her gloves.</p>
+
+<p>"We are going for a little walk in the sunshine," she said. "Will you not come with us?"</p>
+
+<p>Decidedly madame would not. She was too weak and faint. She should send for a friend to stay with her while she rested on her bed.</p>
+
+<p>"That is best for you," nodded Marjory. "<hi rend="italic">Au revoir.</hi>"</p>
+
+<p>With Marie by her side, she took her little walk in the sunshine, without hurrying, as far as around the, first corner. Then she signaled for a cab, and showed the driver a louis d'or.</p>
+
+<p>"Hotel Normandie. This is for you&#8212;if you make speed," she said.</p>
+
+<p>IT was a wonder the driver was not arrested within a block; but it was nothing less than a miracle that he reached the hotel without loss of life. A louis d'or is a great deal of money, and these Americans are all mad. When Marie followed her mistress from the cab, she made a little prayer of thanks to the <hi rend="italic">bon Dieu</hi> who had saved her life.</p>
+
+<p>Mademoiselle inquired of the clerk for Monsieur Covington.</p>
+
+<p>Yes, Monsieur Covington had reached the hotel some fifteen minutes before. But he was ill. He had met with an accident. Already a surgeon was with him.</p>
+
+<p>"He&#8212;he is not badly injured?" inquired Marjory.</p>
+
+<p>"I do not know," answered the clerk. "He was carried to his room in a faint. He was very white."</p>
+
+<p>"I will wait in the writing-room. When the surgeon comes down I wish to see him. At once&#8212;do you understand?"</p>
+
+<p>"Yes, mademoiselle."</p>
+
+<p>Marie suspected what had happened. Monsieur Covington too had presented the driver with a louis d'or and&#8212;miracles do not occur twice in one day.</p>
+
+<p>Marjory seated herself by a desk, where she had a full view of the office&#8212;of all who came in and all who went out. That she was here doing this, and that Monte Covington was upstairs wounded by a pistol shot, was confusing, considering the fact that as short a time ago as yesterday evening she had not been conscious of the existence in Paris of either this hotel or of Monsieur Covington. Of the man who, on the other hand, had been disturbing her a great deal&#8212;this Teddy Hamilton&#8212;she thought not at all. It was as if he had ceased to exist.</p>
+
+<p>HE had stood by the window in Madame Courcy's dingy reception-room, smiling&#8212;his hair all awry. She recalled many other details now: how his arm had hung limp; how he had been to a good deal of awkward trouble to keep his left arm always toward her; how white he had been.</p>
+
+<p>She must have been a fool not to understand that something was wrong with him&#8212;the more so because only a few minutes before that he had stood before her with his cheeks a deep red, his body firm, his eyes clear and bright.</p>
+
+<p>That was when he had asked her to marry him. Monte Covington had asked her to marry him, and she had consented. So, technically, she was at this moment engaged. The man upstairs was her fiancé. That gave her the right to be here.</p>
+
+<p>Where was the surgeon? She rose and went to the clerk.</p>
+
+<p>"Are you sure the surgeon has not gone?" she asked.</p>
+
+<p>"Very sure," answered the clerk. "He has just sent out for a nurse.</p>
+
+<p>"A nurse?" repeated Marjory.</p>
+
+<p>"The doctor says Monsieur Covington must not be left alone."</p>
+
+<p>"It's as bad&#8212;as that?"</p>
+
+<p>"I do not know."</p>
+
+<p>"I must see the doctor at once," she</p>
+    
+<p rend="jumline"><ref target="bartlett.19161009.jump">Continued on page 18</ref></p>
+    
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19161009.p011" />
+
+<text type="photograph" xml:id="eatingeasier.19161009">    
+<body>
+
+<head type="main">THEY MADE EATING EASIER</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from E.I. Farrington.</ab>
+<p>REMEMBER the old family dinner-parties&#8212;and the difficulty you all had untangling your teeth after the string-beans? Well, C. N. Keeney is the man who abolished those parties. He tested thousands of string-bean plants, until he found two that produced stringless string-beans. These he haled before a justice of the peace and wedded. And from their descendants come the string-beans with no strings. We have high hopes of Mr. Keeney. For instance, sandless spinach.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from C. L. Edholm.</ab>
+<p>"WILL you have some chicken?" we once said to our friend Mr. Splitstone, editor of <hi rend="italic">Leslie's Weekly,</hi> passing him the menu-card. "No," said he; "I came for food, not exercise." That's the trouble with too many foods; it's too much work to eat them. Hence all hail to P. F. Popenoe, who imports the luscious South American fruits that melt in your mouth, and teaches them to grow in this land of the free. Mr. Popenoe has already welcomed the cherimoya, the feijoya, and the pineapple guava to our shores, and expects any day to go down to the dock and meet a couple of nice zapotas. We can think of nothing lovelier than to sit under a feijoya tree, sipping a nice zapota.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Underwood &amp; Underwood.</ab>
+<p>CAPTAIN HANSON GREGORY discovered the hole in the doughnut. Back in 1847, according to his claim, doughnuts were made on ships all in one piece&#8212;no holes, making them doughy and greasy. It was Captain Gregory who took the cover off the ship's tin pepper-box and put the first hole in the first real doughnut. Yo ho! for you, Cap, and ahoy!</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from the Gilliams Service.</ab>
+<p>IN Langhorne, Pennsylvania, Professor H. G. Walters is slowly developing his "table d'hôte tree." Professor Walters has already grafted rhododendrons, roses, and blackberries on to one tree. He means to go on adding other fruits and vegetables. We are glad to see an honest man enter the field of table d'hôte grafting: the waiters have had it to themselves long enough.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from J. R. Henderson.</ab>
+<p>A.S. ROLLO, on his experimental farm near El Paso, has succeeded in crossing the Jerusalem artichoke with the common sunflower, and what is the result? Why, something that looks like a potato and tastes somewhere between asparagus and mushrooms. We sometimes feel sort of Burbankish ourselves. How about a combination of the peach tree with the cowslip and the milkweed? Peaches and cream?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THIS is "Sam" Jordan, of Pettis County, Missouri, county farm advisor. On the table before him is a handful of oats. "Sam" Jordan believed that the reason men growl at their stenographers in the morning is because their breakfast food does not digest well. He induced the farmers or the Middle West to raise a better and purer brand of oats, which brand is now being used by many of the breakfast food companies. Hence the kind words from the boss, Nellie, instead of the old "Take note Jones. Write quick. Two carbons."</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19161009.p012" />
+    
+<text type="photograph" xml:id="workingclothes.19161009">
+<body>
+    
+<head type="main">THEIR WORKING CLOTHES</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit"><unclear reason="torn" />ite Studio.</ab>
+<p>WE were going to be awfully original and run the picture of one Dolly sister only. Then underneath we planned to say, "If you want to see the other Dolly, take another look." But somehow it can't be done. Wherever one Dolly is, there is the other also. These simple little traveling frocks&#8212;and the Dollys are some travelers in "His Bridal Night"&#8212;are made of dark blue serge and trimmed with old blue satin. The bonnets repeat the blue of the dresses, and every time you see the flash of a brilliant blue veil, you know that a Dolly has changed her identity.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by White Studio.</ab>
+<p>FAR be it from Arline Chase to show the white feather in "Very Good Eddie." It is a coral-colored one to match her coral hunting coat. Once we knew a young lady who said she rode religiously every Sunday morning. Miss Chase doesn't ride at all in "Exceedingly Excellent Edward." Which seems odd, inasmuch as she has the habit&#8212;and it is such a good one.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Hartsook.</ab>
+<p>RELIGION can't give it, nor a knowledge of kinetics or baseball or cookery&#8212;the satisfaction that comes only with being well dressed. Take a Chance like Miss Carroll McComas, one of the Seven Chances recently presented to Broadway by Mr. Belasco. Doesn't she stand to reason? In this gown of cloth-of-gold, heavily embroidered with much more of the same, what emergency couldn't a young girl meet?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from the Palace Press Bureau.</ab>
+<p>NAN HALPERIN, vaudeville authorities tell you, is one of the greatest single women the stage has. By which they mean nothing at all about her home life, but simply that she does her act all alone. In one of her series of imitations she runs the entire gamut of feminine experience, from débutante to divorcée. "It's largely a matter of the clothes you work in," says Miss Halperin.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Delux Studio.</ab>
+<p>REGARDLESS of labor difficulties, trains keep coming in for the early winter evening&#8212;or the early evening winter&#8212;gowns. Dorothy Maynard, of "The Girl from Brazil," says hers, a narrow silver one with rounded corners, is on its way. The second most important thing about stage clothes this season is that petticoats uniformly cost more than the dresses above them. Part of the preparedness agitation, doubtless. A mouse, you know, or other form of panic.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from the Palace Press Bureau.</ab>
+<p>"YOU have to have the clothes" for a first-class vaudeville act. Well, Mrs. Lea Herz, she who dances and sings and everything, certainly qualifies. This little winter costume (the photographer charged nothing extra for throwing in the winter) confections itself in white satin and marabou. Mrs. Herz is in the West now with a vaudeville sketch of her own.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19161009.p013" />
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">© E. O. Hoppé.</ab>
+<p>HEROINES of stories by men writers really ought to strike for larger wardrobes. They always have to wear either "something black and clinging, which made her look taller than she really was," or that poor worn-out rag of a frock, "charming in its costly simplicity." Here is one of the latter, exploited by Miss Estelle Winwood, who is to be under Winthrop Ames' management this season. Sash and beads and short taffeta skirt, Miss Winwood might have escaped from the discreet confines of a fashionable boarding-school&#8212;except that the headdress, palpably from Regent Street, gives her away.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Coppergravure Company.</ab>
+<p>THEY aren't going to problem plays in London now. Let's take in something gay," say the Tommies, back on leave for a little rest from the roar of the big guns. A lot of them were considerably enlivened last summer by Margot Kelly, who recently came over to New York with "A Little Bit of Fluff." This drama demanded, among other things, this panne velvet frock. But, "A Little Bit of Fluff" proving unfortunate, Miss Margot's kelly-red hair now altogether delights the world in "Pierrot the Prodigal."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from the Palace Press Bureau.</ab>
+<p>BONNIE GLASS, bouffant frocks and all, has danced off the vaudeville stage, and is now, as Mrs. Ben Ali Haggin, deep in domesticity. Will she ever come back to us? She says not. But some day, when she moves or comes back from Europe or something, and tips over a bandbox containing this really unparalleled hat, won't she just naturally hop into the first taxi headed toward Broadway? We will wait&#8212;and see her.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by the Campbell Studio </ab>
+<p>"I thought a husband would be an awful, wonderful, beautifully disturbing creature, who would bring adventure, color, romance into my life!" exclaims one Mrs. Billy Bartlett down-heartedly, for the 400th consecutive time to-night in "Fair and Warmer." Whereupon Madge Kennedy enters in this frock and makes the Fair and Warmer cocktail, which thickens the plot all up.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19161009.p014" />
+    
+<text type="photograph" xml:id="ladiesandtigers.19161009">
+<body>
+    
+<head type="main">THE LADIES AND THE TIGERS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Mrs. G. T. K. Norton.</ab>
+<p>COMIC supplement jokes about mice notwithstanding, women make the best wild-animal trainers. Carl Hagenbeck, greatest of exhibitors, has said it. Of course there have been great men trainers; we are not unmindful of Bonavita and Bostock. But for the most part men slip up on animal training just the way they slip up on being good telephone operators or night nurses for insane persons. They haven't the tact, the sympathy, or the plasticity of mind. Mme. Agie has all three, and some people call her the greatest living lion trainer. She has been in the game for years, also the hospital a number of times. She wants to own a lion farm, and no lion should hesitate a moment about applying for admission. She seldom uses even a whip on her silken pets.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Mrs. G. T. K. Norton.</ab>
+<p>IT'S not only country boys who run away from home to join a circus. Mme. Pauline milked the cows very contentedly up in New York State until she saw a circus unload. When the circus left, Pauline left too. Mme. Pauline says her pupils are the gentlest in the world, and those cruel-looking scars on her shoulders are only the marks of their kittenish playfulness.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Mrs. G. T. K. Norton.</ab>
+<p>MARY had a little lamb, but Gladys Ditmars has a little tegu. Gladys' father is curator of reptiles of the New York Zoölogical Society. Next to the tegu in Gladys' affections come a red-headed lizard and a hog-nosed snake. Well, people's tastes change as they grow older. Gladys is twelve now.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Mrs. G. T. K. Norton.</ab>
+<p>ORA CECIL is an American girl who has been at the animal-training game ten years. The leopard in the picture is a bit of an amateur at ball-rolling, but he will learn; it may be in one month, and it may be in three. Another reason why women carry off the plums in animal-training&#8212;patience. All wild creatures are militant prohibitionists. They will kill any one who disagrees with them on the liquor question&#8212;if they can reach him.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Mrs. G. T. K. Norton.</ab>
+<p>MME. <hi rend="smallcaps">D</hi>'ARCY is the first person to succeed in breaking the most vicious animal in Africa, the black-maned lion. He is seldom even seen by hunters, much less captured. Perhaps her success is a matter of inheritance, for Mme. d'Arcy comes of a family of trainers. Perhaps it is because she is French. Décolletée is a sort of tradition among women trainers.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Bostock's, Luna Park, Coney Island.</ab>
+<p>MLLE. OTTAWA started animal-training when she was eight. She has captured many of her own animals, does all her own breaking and training, and is now working with a large group of South American pumas. The puma here pictured is a recent immigrant, and is very vicious.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Mrs. Norton.</ab>
+<p>MME. ALONZO raised d'Artagnan from a cub, side by side with the dog Don, and both animals are now eight years old. Will Mme. Alonzo's beloved d'Artagnan "go bad," as lions are apt to, when he reaches the "dangerous age" of ten? It is told that one trainer had his head literally in his lion's mouth (it was his specialty), when the sixth sense which all trainers have told him that his beast had "gone bad." He drew out his head slowly, and got away with all of it except a small piece of chin. But that animal could never be put through his act again. No animal can who has once "gone bad."</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19161009.p015" />
+    
+<text type="nonfiction" xml:id="whatscience.19161009">
+<body>
+   
+<head type="main">WHAT SCIENCE IS DOING</head>
+<byline>To Roll This Old World Along</byline>
+
+<div1><head type="sub">STOP! LOOK! LISTEN!</head>
+    
+<cb n="1" />
+
+<p>PICK up your newspaper any Monday morning and you will see from ten to twenty-five reports of fatal automobile accidents at railroad grade crossings. Have you ever stopped to consider why such accidents are so frequent? According to <hi rend="italic">Motor Print,</hi> it is safe to say that there are two major causes of grade-crossing mishaps: First, the recklessness of motorists; second, the unsympathetic, haphazard forms of protection in use at such crossings.</p>
+
+<p>The recklessness of motorists is placed first, because every available influence should be brought to bear upon those people who lack either the sense or the decency to take the necessary precautions for safety. There are thousands of such people: You may think that nobody would be insane enough to drive deliberately through wooden grade-crossing gates. But it is done constantly.</p>
+
+<p>You might think that by this time people would know better than to try to beat a train at a crossing. But they don't. Read next Monday's paper and see.</p>
+
+<p>In the same class with those who race with trains are the people who do not believe in signs. Do you slow down every time you see the sign "Danger, Curve! Slow Down!" These signs might just as well say "How do you do" as far as thousands of drivers are concerned. They spin along between forty and sixty miles an hour, and put pedestrians in two divisions: the quick and the dead.</p>
+
+<p>It is a difficult task to educate these would-be suicides. But many railroads are spending countless thousands of dollars in the attempt. Extensive advertising campaigns are carried on, showing with vivid illustrations what happens to those who pay no attention to their warnings.</p>
+
+<p><hi rend="italic">Motor Print</hi> lays the second cause of grade-crossing accidents to the lack of standardized protection at crossings. It asserts that conditions are all wrong when it is possible in a fifty-mile drive around New York to pass over grade crossings where warning to the traveler is given by flags of varying colors by day and lights of varying colors by night. Crossing watchmen are found using green flags, white flags, and combinations of the two indiscriminately; also green, white, and
+    
+<cb n="2" />    
+    
+red lights. In some cases it is the practice of roads to permit crossing watchmen to motion to motorists to come ahead, while others forbid it; so that many times a driver is at a loss to know what the form of protection afforded by the railroad company means.</p>
+
+<p>The Special Committee on the Prevention of Accidents at Grade Crossings, appointed by the American Railway Association, has recommended that specific standards be adopted covering the following for grade crossings:</p>
+
+<list><item>1. Uniform approach lights.</item>
+
+<item>2. Uniform color of lights for night indications.</item>
+
+<item>3. Uniform use of a circular disk marked "Stop," instead of varied colored flags.</item>
+
+<item>4. Uniform painting of crossing grades&#8212;alternate diagonal stripes of black and white.</item>
+
+<item>5. Uniform rules governing crossing watchmen or flagmen while regulating street or highway traffic.</item></list>
+
+<p>This is what you can do: When these standards have been decided upon, see to it that your State Legislature adopts them. Remember that it is to your interest to do so.</p></div1>
+
+<div1><head type="sub">SHORT AND INTERESTING</head>
+
+<p>WARM-WEATHER comfort for a nickel is now insured by the invention of a slot-machine electric fan. The fan will run one hour for a nickel, and is intended to prevent the continued operation and consequent heavy electricity bills of fans in every hotel room.</p>
+
+<p><hi rend="italic">Electrical World.</hi></p>
+    
+
+<p>THE first Chinese typewriter has just been designed by a Chinese graduate of the Massachusetts Institute of Technology. From the keyboard are controlled four thousand characters. The present machine weighs forty pounds, but the inventor believes that its weight may be reduced by one half.</p>
+
+<p><hi rend="italic">Machinery.</hi></p>
+    
+<p>DESPITE the invention of the wireless telegraph and other improved apparatus for the rapid and safe transmission of messages, we still hear of carrier pigeons. The other day one of them carried a message safely to its destination more than 2200 miles away.</p>
+
+<p>COOKING by wire is gaining in popularity in southern California, says the <hi rend="italic">Electrical World,</hi> especially among the feathered tribe. Two transmission line short circuits were recently caused by birds dropping snakes across the line. The snakes were beautifully roasted.</p></div1>
+
+<div1><head type="sub">AT LAST! EFFICIENCY IN CONGRESS</head>	
+
+<figure n="photograph">
+<ab n="credit">Photograph by Harris &amp; Ewing.</ab>
+<p>When your Congressman wants to vote, all he has to do is to press a little button, and the Machine does the rest. A photograph is taken of the score-board, and posterity will see how he voted on important questions.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+
+<p>FOR years Congress has realized that much time is wasted in taking a roll-call. Now B. L. Bobroff has set up an electrical apparatus that promises to save two months in time each session.</p>
+
+<p>A separate wire runs from every desk
+
+<cb n="2" />
+    
+to a registering-board, which is set up like a score-board, and in plain view of all. The name of every member is listed, and is followed by two lights, of different colors, to denote "yes" and "no." When a question is put to vote, each member presses a button on his desk, and instantly the proper light flashes on the recording-board. The result is automatically tabulated and flashed on the board, as well as on the Speaker's desk. A photographic record may be made in thirty-six seconds.</p></div1>
+
+<div1><head type="sub">BEAUTY DOCTORS NOW WORK ON DOGS</head>
+
+<figure n="photograph">
+<ab n="credit">Photograph from Gertrude Sanborn.</ab>
+<p>This looks like a vivisection, but it isn't. It is a scene in the operating-room of a beauty specialist and dentist who makes a specialty of treating dogs.</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+<p>WE have manicured Fido's nails, and have often assisted, during his morning toilette, in applying boric washes to his eyes. Now we are sending him to a beauty doctor for facial improvements!</p>
+
+<p>In the centers of wealth, fashion, and idleness, a number of specialists have set up shops and created quite a stir among the wealthy owners of Fidos, Pom Poms, and other canines of pedigree.</p>
+
+<p>While we were inspecting one of these establishments, Duke, valued at $150, was brought in for treatment. He was placed on a table, stout leather thongs were fastened to his feet and body, and a large light was fixed over his head. As he opened his mouth to yawn a nickel-plated speculum was slipped between the upper and lower jaws.</p>
+
+<p>A big dental machine came into view, to which a whirling brush covered with pumice was attached. The motor buzzed, and Duke was subjected to a thorough overhauling of his incisors and molars.</p></div1>
+
+<div1><head type="sub">OUR MONEY HARDEST TO COUNTERFEIT</head>
+    
+<cb n="1" />
+
+<p>AN official of the Treasury Department assures the Philadelphia <hi rend="italic">Record</hi> that not only do American engravers of bank-notes excel all others in artistic quality, but likewise in the ingenuity of their provisions against counterfeiting.</p>
+
+<p>Jacob Perkins, of Newburyport, Massachusetts, invented the method of transferring designs from hardened steel plates to steel cylinders and of transferring to flat plates, thus enabling the engraver to devote the time necessary to accomplish his best work in the original and reproduce it at will. Asa Spencer, another Yankee, contributed another instrument, the geometric lathe, which renders difficult the successful counterfeiting of paper money.</p>
+
+<p>In speaking of the difficulties encountered by European governments in preventing counterfeiting, the <hi rend="italic">Record</hi> says:</p>
+
+<p>"Most European governments depend for the protection of their paper money upon color work. Several of the large banks of issue employ civil engineers in their bureaus of engraving and printing, a proceeding that puzzles American experts, who can not see the connection between engineering and engraving. Many Italian bank-notes are easy to counterfeit. A few years ago the Bank of Spain was obliged to abandon its own plant, since
+    
+<cb n="2" />    
+    
+its notes were imitated so successfully that the counterfeits were without question accepted by the bank itself. A private concern now does the work.</p>
+
+<p>"The Bank of Greece employs the American method, having suffered a sad experience with notes of German, Austrian, and English make.</p>
+
+<p>"The American experts do not hold to the popular notion abroad that the notes of the Bank of England can not be counterfeited. They contend that these famous notes can be imitated readily enough, for little attempt is made to protect them beyond the use of a watermarked paper, and this watermark can easily be copied. A sensitized gelatin-film soaked in cold water after contact with an original watermark will show every detail.</p>
+
+<p>"One practical safeguard of great effectiveness is the custom of the Bank of England of canceling every note that is returned to the bank and issuing another in its place. This and the practice of keeping a record of the numbers of all bank-notes used in every business establishment keep alive a keen sense of responsibility which adds to security.</p>
+
+<p>"The American style of bank-note has become the standard in the countries of Central and South America." </p></div1>
+
+<div1><head type="sub">HERE IS A POCKET FIRE-ESCAPE</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Seline Hess.</ab>
+<p>When the alarm rings you take your fire-escape out of your pocket, fasten your wife therein, and descend gracefully to the ground.</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+<p>FIRE breaks out in your hotel. It is right at your door, and you can not reach the elevator or the stairway. Your window is six stories from the ground, and the fire-escape is on the other side of the building.</p>
+
+<p>Reaching into your right-hand coat pocket, you pull out a roll of thin steel tape, like the familiar surveyor's tape-measure. You fasten one end to the bed-post, and place your wife in a loop provided for the purpose. You get into a similar loop, and jump bravely out of the window. The
+    
+<cb n="2" />    
+    
+slender strand bears both of you safely to the ground&#8212;providing that your total weight does not exceed eight hundred pounds.</p>
+
+<p>This remarkable little pocket fire-escape was invented by Pietro Vescova, of Stockton, California, and has attracted widespread interest. The tiny instrument is only four and three quarters inches in diameter, and the tape is slightly more than an inch wide.</p>
+
+<p>Hundreds of trial descents have been made by the inventor, who claims that his life-saving device is infallible.</p></div1>
+    
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19161009.p016" />
+    
+<text type="nonfiction" xml:id="carnegielibrary.19161009">
+<body>
+    
+<head type="main">OUR OWN CARNEGIE LIBRARY</head>
+<byline>On These Two Shelves&#8212;The New Books and Magazines</byline>
+
+<div1><head type="sub">THE BEST KNOWN WOMAN IN GERMANY</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>Frau Heyl is the kitchen strategist who has found something that will "do" for every food element that can not be got in Germany. "There is a substitute for everything," she says, "except the German appetite."</p>
+<figDesc></figDesc>
+</figure>   
+    
+<cb n="1" />
+
+<p>SHE is Frau Hedwig Heyl, the woman who would not let Germany starve. Even before there was any real danger that Germany might go hungry, this kitchen strategist wrote a war cook-book telling housewives how to economize. But in three months the book was worthless, because many of the ingredients required in the recipes had disappeared from Germany. Then Frau Heyl, together with other food experts, began to seek substitutes for the foods that were no longer available.</p>
+
+<p>"'We have found a substitute for everything," she is quoted as saying in the <hi rend="italic">Independent,</hi> "'but the German appetite. We can find nothing to take its place.'</p>
+
+<p>"But they have certainly taught it to keep its place," the author, Charlotte Teller, goes on; "for the Germans, who were the heaviest eaters in Europe, are to-day probably the lightest."</p>
+
+<p>They make everything out of potatoes&#8212;potatoes so disguised that you could eat a whole meal of them without knowing it. Professor Nathan Zuntz has even extracted certain elements from this "miracle vegetable" to add to the milk fed to infants when there is not enough cream.</p>
+
+<p>In those first days of the war a great "food organization" was begun. Cooking classes were opened, in which housewives learned about the various food substitutes. Old-fashioned methods of drying fruit and vegetables were reintroduced, because it was recognized that
+    
+<cb n="2" />    
+    
+the winter food had to be laid in while the sun shone.</p>
+
+<p>"The reason for returning to old methods was that there were not enough glass jars for the great increase in preserves, and for what jars there were the rubber bands were lacking.</p>
+
+<p>"It was Hedwig Heyl and the women who worked out the scheme of bread cards, without which chaos would have reigned. And she stood for milk cards and butter cards before the rest of the world saw the need of them. As an example of the sort of effective work that was done, in August, 1914, there was a sum of 13,000 marks spent in food tickets or to supply the food the tickets called for, and there were 25,000 persons seeking help from the headquarters of the Women's National Service League. And by the end of 
+    
+<cb n="3" />    
+    
+October there were only 4000 dependent upon the organization for help. I have seen some quick organization in times of catastrophe, but I have never seen anything to equal this.</p>
+
+<p>"I lost all sense of there being any danger of starvation when I had one conversation with this little woman. A natural tyrant, in whom the love for the people has something a little dramatic, but nothing
+    
+<cb n="4" />    
+    
+sentimental; a good business woman, as I saw when I went over to her dye-works, converted now into a canning factory, and watched her quiet management of the women in white caps and aprons, putting up the cans of beef for the army at the rate of 6000 a day.</p>
+
+<p>"Although she is over sixty, she works there every morning. The day I went, I found myself soon seated upon a high stool, taking marrow out of monstrous beef bones, while we discussed her theories about suffrage. She put me to work first, and talked afterward. The marrow was to be put on the market (combined, of course, with potato flour) as a substitute for butter, since that was so high.</p>
+
+<p>"Of the vote, she said it was like an apple; it would fall into our laps when it was ripe; that what women had to do was to water the tree. The war&#8212;to her thinking&#8212;has given them their biggest chance to water the tree. And she has done her share."</p></div1>
+
+<div1><head type="sub">TEST YOUR OWN MENTAL CALIBER</head>
+
+<figure n="illustration">
+<head></head>
+<p>With your pencil make a dot over any one of these letters F G H I J, and a comma after the longest of these three words: boy mother girl Then, if Christmas comes in March, make a cross right here..... but it not, pass along to the next question, and tell where the sun rises..... If you believe that Edison discovered America, cross out what you just wrote, but if it was some one else, put in a number to complete this sentence: "A horse has.....feet." Write <hi rend="italic">yes</hi>, no matter whether China is in Africa or not....., and then give a wrong answer to this question: "How many days are there in the week?".....Write any letter except <hi rend="italic">g</hi> just after this comma, and then write <hi rend="italic">no</hi> if 2 times 5 are 10......... Now if Tuesday comes after Monday, make two crosses here.....; but if not, make a circle here....... or else a square here..... Be sure to make three crosses between these two names of boys: George....... Henry. Notice these two numbers: 3, 5. If iron is heavier than water, write the larger number here......, but if iron is lighter write the smaller number here...... Show by a cross when the nights are longer: in summer?..... in winter?.... Give the correct answer to this question: "Does water run uphill?"...... and repeat your answer here..... Do nothing here (5 + 7=.......), unless you skipped the preceding question; but write the first letter of your first name and the last letter of your last name at the end of this line:</p>
+
+<p>A lofty brow and a Phi Beta Kappa key will avail you nothing, the next time you are arrested for speeding, if you can't pass a few simple tests like this. "Everything extracted from the bean," the judge will say wearily. "Six years at hard decimals."</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+<p>IF you can follow the directions set forth in this test, and can do it accurately and quickly, you may reasonably conclude that you are a normal person.</p>
+
+<p>This is the basis, as explained in the <hi rend="italic">Journal of Heredity,</hi> on which the New York Police Department judges the five or six hundred people who are arrested every day. Formerly every suspected person was tried and sentenced according to the charges made against him. Now it has been proved, as the result of tests instituted by Dr. Louis E. Bisch of Columbia University, that at least five per cent. of the transgressors ought to be sent to hospitals or institutions
+    
+<cb n="2" />    
+    
+for the insane rather than to prison.</p>
+
+<p>"'Crime,' says Dr. Bisch, 'should never be considered apart from mentality. Hitherto the Police Department has presented facts regarding evidence of guilt when the prisoner was brought before the presiding judge. Now, in addition, the department also furnishes certain facts regarding the mental responsibility of the offender. If a man is feeble-minded at his fifth conviction, he was just as feeble-minded at his first conviction; it will pay the community, therefore, to examine, segregate, and properly treat prisoners before arraigning them, instead of waiting until they reach the court or penitentiary.'"</p></div1>
+
+<div1><head type="sub">WHAT IS A PRESENTIMENT?</head>
+
+<p>AN English mother whose son was at the front was praying in church one Sunday when, suddenly, her son appeared before her. She gazed at him, half doubting the evidence of her senses.</p>
+
+<p>"Mother," he said, "it is well with me. Whatever you hear, I am happy and well."</p>
+
+<p>Then he disappeared, and the mother continued her prayers, hardly daring to believe&#8212;and yet convinced&#8212;that her son had been near her.</p>
+
+<p>The next day news came from the War Office that he had been killed. But his message had made such an impression on the mother that she was scarcely affected by the news.</p>
+
+<p>This is one of the stories told by M. MacDermot Crawford in his book, "Peeps into the Psychic World" (Lippincott). How can we account for such strange forebodings? Mr. Crawford is not pleased with the reply of the materialist who blandly puts it on the "liver." He is more inclined to believe that some disturbance of the astral plane is the demoralizing factor.</p>
+
+<p>"What disturbance?" says he. "No one quite knows, though these attacks of astral or commonplace irritability are more often than not followed by tidings of some catastrophe which furnishes ground for the irritability, or excess of electricity."</p>
+
+<p>Especially since the war, there have come to light many instances of men who were strongly impressed in advance with the belief that death was close at hand. Some felt the presentiment so strongly that they gave their watches and trinkets to comrades, and left messages to be sent to loved ones at home.</p>
+
+<p>Young Warneford, the daring birdman who met an untimely end, declared he would never live to return home and be fêted and lionized.</p>
+
+<p>Children are sometimes most susceptible to presentiment. A story is told of a Belgian boy who was ill in a hospital. He wakened on the evening of June 21, and told his nurse that D&#8212;&#8212; was being bombarded.</p>
+
+<p>"She only laughed and mentioned the name of another place which seemed to her more probable, but the youngster persisted. One of the doctors coming along at the moment heard him say, 'No, D&#8212;&#8212;. I know, for I saw it.'"</p>
+
+<p>The bombardment, just as it had appeared in the boy's vision, occurred at three o'clock the next morning.</p>
+    
+<cb n="2" />
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Arnold Gentile.</ab>
+<p>"Mother, whatever you hear, I am happy and well." This is the psychic message an English mother got one Sunday at church from her boy at the front. The next day came news of his death.</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+
+<div1><head type="sub">WILLS AGAINST WIVES</head>
+
+<p>SOME husbands find a subtler, safer revenge than wife-beating for all they have suffered at the hands of their cruel spouses. They get the last word in their wills.</p>
+
+<p>One William Ash, says the <hi rend="italic">Saturday Night</hi> of Toronto, left his widow a shilling for picking his pockets of fifty guineas, while an aggrieved sailor left his widow the same sum to be expended on hazelnuts, as she was more fond of cracking nuts than of darning his socks.</p>
+
+<p>A Boston man who wanted company in his misery left his widow penniless unless she should marry again.</p>
+
+<p>A Norwich man with a taste for expiation of sins left a neat sum to his widow in case she should walk barefoot to the market-place, where, holding a lighted candle, she must confess that her cruel conduct shortened her husband's life. In default, she was to receive only £20 a year.</p>
+
+<p>A reproach to all of these is the Mount Vernon man who recently left $50 a week to each of his three wives.</p></div1>
+    
+<pb n="Page 17" xml:id="ew.issue.19161009.p017" />
+
+<div1><head type="sub">DOES YOUR WAITER WASH HIS HANDS?</head>
+
+<p>SEVENTEEN men in the offices of your business building come down with typhoid fever within two weeks. Of course the authorities examine the water. The water is pure. Then they overhaul the whole building. The building is sanitary. They inspect the city in general. The city in general has less typhoid than usual. Then they inquire into the habits of the seventeen victims. They find that they, in common with most of the other men in the office block, eat their lunch at Jim's Place across the street.</p>
+
+<p>They apply the same methods of examination to Jim's Place, and find a waiter who is just recovering from typhoid. He is still carrying typhoid germs, which he transmits from his fingers to the food and which you transmitted from the food to your system.</p>
+
+<p>What is to prevent any one from getting typhoid in this manner at any time? Arthur I. Kendall, in the <hi rend="italic">American Journal of Public Health,</hi> tells how the public may be protected:</p>
+
+<p>Employees of restaurants should be told in simple terms how they may be
+    
+<cb n="2" />
+
+carrying typhoid germs. Then a nurse (with a strong personality) should demonstrate a thorough soaping and scrubbing of the hands, and this cleanly measure should be enforced. The scrubbing-brush should be kept in a disinfectant, the water should be filtered from all impurities, and the soap should contain a little phenol.</p>
+
+<p>The practical success of this method was shown by a test. Water in which seventy-two restaurant employees had washed their hands was examined.</p>
+
+<p>Twelve of these employees had washed their hands in the usual fashion, which is not a thorough fashion: all twelve left in the water bacilli which, if these men should happen to be typhoid carriers, would be passed from their fingers to the food they handled, and from the food to the restaurant patrons. The rest of the employees had had their hands previously scrubbed in a scientific method before they washed them in the test water, and left no traces of <hi rend="italic">bacillus coli.</hi></p>
+
+<p>The moral of the article is: When you get typhoid, don't stop with an examination of the water: examine the waiter.</p></div1>
+
+<div1><head type="sub">HE RANSACKED THE WORLD FOR THESE MEN</head>
+
+<p>THE story of the Flonzaley Quartette is the story of one man's passion for perfection.</p>
+
+<p>Thirty years ago, in his little house near Broadway, recalls the editor of "En Casserole" in the <hi rend="italic">Unpopular Review,</hi> Edward de Coppet used to gather about him amateur quartet players.</p>
+
+<p>Although de Coppet himself was a fine pianist, he seldom played for his guests. His wife, however, often formed one of the quartet.</p>
+
+<p>Twelve years ago he built a larger house; and so important a part of his life had these musical gatherings become that, he built a music room just the right size for a quartet.</p>
+
+<p>Then he began his search for the four musicians who were to be the most wonderful string quartet in the world.</p>
+
+<p>He ransacked the conservatories of Europe. Name and fame meant nothing to him. He wanted a certain combination of inspiration and industry that is known as genius. He searched until he found it&#8212;in two Italians, a Belgian, and a Swiss.</p>
+
+<p>Having the best performers he could find, he naturally would have nothing short of the best instruments. These instruments must not only be individually perfect, but they must harmonize perfectly.</p>
+
+<p>At last he thought he was satisfied. The quartet began its work at his Villa Flonzaley, on Lake Geneva near Lausanne.</p>
+
+<p>But no. There was a small serpent in
+    
+<cb n="2" />    
+    
+Eden. The viola spoke with a beautiful voice when it spoke alone; but, to the man who wanted perfection, its timbre varied from that of the other instruments ever so slightly. Again Europe was scoured, and when the new viola was found the quartet was actually ready.</p>
+
+<p>For the first five years the quartet played only at Flonzaley and in New York for de Coppet and his friends. Gradually he let it tour Europe and America
+    
+<figure n="photograph">
+<head></head>
+<p>Almost every day for twelve years these men&#8212;two Italians, a Swiss, and a Belgian&#8212;have played together. The late Edward de Coppet ransacked the musical world to find them and their instruments.</p>
+<figDesc></figDesc>
+</figure>
+        
+until it, of course, became self-supporting.</p>
+
+<p>Never since its beginning has it changed one of its men. Almost every day for twelve years the four men have practised together; and it is perhaps the only quartet where the instruments were chosen for the general harmony rather than because they were the favorites of their owners. These are three of the reasons why de Coppet's quartet, probably more than any other, reached the perfection he spent his life in seeking.</p></div1>
+
+<div1><head type="sub">WHAT CHANCE HAS YOUR BABY?</head>
+
+<p>IF he lives in England, he has 895 chances out of every thousand, according to the Manchester <hi rend="italic">Guardian,</hi> which says that ignorance kills more babies than anything else in the world.</p>
+
+<p>In America his prospects are even poorer; for only 876 out of every thousand survive.</p>
+
+<p>If he lives in an American city&#8212;New York, for instance&#8212;he may hope to live on an average fifty-four years, according to the Washington <hi rend="italic">Star;</hi> but if his home is in a rural district, he may expect to live sixty-two years.</p>
+
+<p>Comes now Dr. Thomas D. Wood, in the <hi rend="italic">Forecast,</hi> with the assurance that your baby has a much better chance of life in the city than in the country. He draws a chart to show that the New York baby in 1914 had a chance for life that amounted to 15.4 percent., while the country baby's chance was only 14 per cent.</p>
+
+<p>Says the <hi rend="italic">Star:</hi></p>
+
+<p>"The city baby has not the same chance of life that the country baby has. White males in cities die at the rate of 13,380 per 100,000 during their first year, as against 10,326 per 100,000 in rural communities.</p>
+
+<p>"It is also shown that the expectation of life at birth for white males born in cities is almost eight years less than for white males born in rural communities. The difference in the case of females is six years less in cities than in the country."</p>
+
+<p>Says Dr. Wood:</p>
+
+<p>"The country was once supposed to be the home of health; but to-day, in spite of its natural advantages, it must give way to the city. The natural advantages
+    
+<cb n="2" />    
+    
+of the country have been discounted by the artificial advantages of the city. If the death rate throughout the State could be reduced to the level of the city, it would mean the saving of 10,000 lives annually.</p>
+
+<p>"Although the country feeds the city, more than twice as many country children suffer from malnutrition as do city children.
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph By Brown Brothers.</ab>
+<p>Is your child better off in the country or in the city? Experts disagree. Perhaps the layman's prescription is as good as any: Fresh air, sunshine, and pure food&#8212;with a minimum of cucumbers and fussing over.</p>
+<figDesc></figDesc>
+</figure>   
+    
+In spite of the pure air which they are supposed to enjoy, the former have more lung defects than the latter. They also have more tooth defects, more diseased tonsils, more adenoids and enlarged glands, more eye and ear defects, more heart disease, and more mental defects."</p>
+
+<p>But the worst place in the world to bring up your child, Dr. Wood points out, is the small town. In a recent census in regard to health conditions in various cities, it was found that, of cities having a population of more than 300,000, all did something toward bettering conditions, while 94.5 per cent. had what might be called a complete program of infant welfare, including milk inspection and nurses and infant welfare stations, to follow up births and educate mothers. Of the smaller cities, 33 per cent. did nothing whatever.</p>
+
+<p>But again comes the <hi rend="italic">Star:</hi></p>
+
+<p>"Further proving that rural children are more healthy than city babies comes Indiana with the lowest rate of mortality of any individual State considered. Indiana, with 2,704,767 population, has but 820,895 people in her cities."</p>
+
+<p>What is a poor parent to do?</p></div1>
+
+<div1><head type="sub">TOSSING MOTOR-CARS INTO SPACE</head>
+
+<p>SINCE it had to be done, Fortier Jones, in the <hi rend="italic">Century,</hi> regrets that there were no American small boys present to witness the spectacular destruction of Serbian motor-cars by their own chauffeurs near Ipek at the time of the Austro-German invasion.</p>
+
+<p>The most popular method was to open up the cars at a right-angle turn of the road where there was a sheer drop of four hundred feet to a little stream below.</p>
+
+<p>"It was a great game," says Mr. Jones. "There was a long gray Cadillac that took the brink like a trained hunter, leaping far out over the edge. As its power was suddenly released from the friction of the road, the car roared and trembled like a live animal during the infinitesimal instant that it hung upright, held by its own momentum. Then the motor dragged its nose downward as true as an arrow
+    
+<cb n="2" />    
+    
+until it struck the steep slope, down which it did quick somersaults, the tires bursting with bangs that could be heard above the crash. Before it had rolled into the stream it became a ball of fire. A ponderous Benz limousine followed, and tucked its nose into the slope without a spectacular leap. It was like a fat old lady falling downstairs. Its tires blew out, and its body came loose from the chassis, both running a race to the river. An expensive-looking Fiat behaved much in the manner of the Cadillac. . . . One very famous and very cheap American car made the leap. Its lightness sent it far beyond the brink, where it floated four hundred feet above the river. It acted quite as if it wanted to fly. But, once started on its downward course, it gyrated with incredible swiftness, swam the stream, and came to an eternal resting-place on the farther side."</p></div1>
+    
+<div1><head type="sub">SHOWING THAT THE GERMANS HAVE NOT LOST THEIR SENSE OF HUMOR</head>
+<byline>From "Simplicissimus."</byline>   
+    
+<figure n="illustration">
+<head></head>
+<p>"A German dachshund! He signaled with his tail to the Zeppelins!"</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="illustration">
+<head></head>
+<p>"Confounded German spy!"</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="illustration">
+<head></head>
+<p>"Fire!"</p>
+<figDesc></figDesc>
+</figure></div1>
+    
+</body>
+</text>
+
+<pb n="Page 18" xml:id="ew.issue.19161009.p018" />
+
+<!--figure n="advertisement">
+<head>Going Up!</head>
+<p></p>
+<figDesc>Advertisement for Mssrs. Alfred H. Smith &amp; Company.</figDesc>
+</figure-->
+
+<text type="fiction" xml:id="bartlett.19161009.jump">
+<body>
+
+<head type="main">The Triflers</head>
+<p rend="jumpline"><ref target="bartlett.19161009">Continued from page 10</ref></p>
+
+<p>said. "But, first&#8212;can you give me apartments on the same floor&#8212;for myself and maid? I am his fiancée," she told him.</p>
+
+<p>"I can give mademoiselle apartments adjoining," said the clerk eagerly.</p>
+
+<p>"Then do so."</p>
+
+<p>She signed her name in the register, and beckoned for Marie.</p>
+
+<p>"Marie," she said, "you may return and finish packing my trunks. Please bring them here."</p>
+
+<p>"Here?" queried Marie.</p>
+
+<p>"Here," answered Marjory.</p>
+
+<p>She turned to the clerk.</p>
+
+<p>"Take me upstairs at once."</p>
+
+<p>There was a strong smell of ether in the hall outside the door of Monte Covington's room. It made her gasp for a moment. It seemed to make concrete what, after all, had until this moment been more or less vague. That pungent odor was a grim reality. So was that black-bearded Doctor Marcellin who, leaving his patient in the hands of his assistant, came to the door wiping his hands upon a towel.</p>
+
+<p>"I am Mr. Covington's fiancée&#8212;Miss Stockton," she said at once. "You will tell me the truth?"</p>
+
+<p>After one glance at her eyes Doctor Marcellin was willing to tell the truth.</p>
+
+<p>"It is an ugly bullet wound in his shoulder," he said.</p>
+
+<p>"It is not serious?"</p>
+
+<p>"Such things are always serious. Luckily, I was able to find the bullet and remove it. It was a narrow escape for him."</p>
+
+<p>"Of course," she added, "I shall serve as his nurse."</p>
+
+<p>"Good," he nodded.</p>
+
+<p>But he added, having had some experience with fiancées as nurses:</p>
+
+<p>"Of course I shall have for a week my own nurse also; but I shall be glad of your assistance. This&#8212;er&#8212;was an accident?"</p>
+
+<p>She nodded.</p>
+
+<p>"He was trying to save a foolish friend from killing himself."</p>
+
+<p>"I understand."</p>
+
+<p>"Nothing more need be said about it?"</p>
+
+<p>"Nothing more," Dr. Marcellin assured her. "If you will come in I will give you your instructions. Mademoiselle Duval will soon be here."</p>
+
+<p>"Is she necessary?" inquired Marjory. "I have engaged the next apartment for myself and maid."</p>
+
+<p>"That is very good, but&#8212;Mademoiselle Duval is necessary for the present."</p>
+
+<p>She followed the doctor into Monte's room. She heard him muttering a name. She listened to catch it.</p>
+
+<p>"Edhart," he called. "Oh, Edhart!"</p>
+
+<p>UNDER proper conditions, being wounded in the shoulder may have its pleasant features. They were not so obvious to Monte in the early part of the evening, because he was pretty much befuddled with ether; but sometime before dawn he woke up.</p>
+
+<p>Monte was conscious of a burning pain in his shoulder, and he was not quite certain as to where he was. So he hitched up on one elbow. This caused a shadow to detach itself from the dark at the other end of the room.</p>
+
+<p>"Who the deuce are you?" he inquired in plain English.</p>
+
+<p>"Monsieur is not to sit up," the shadow answered in plain French.</p>
+
+<p>Monte repeated his question, this time in French.</p>
+
+<p>"I am the nurse sent here by Doctor Marcellin," she informed him. "Monsieur is not to talk."</p>
+
+<p>She placed her hand below his neck and helped him to settle down again upon his pillow. Then she rushed off again beyond the range of the shaded electric light.</p>
+
+<p>"What happened?" Monte called into the dark.</p>
+
+<p>Then he thought he heard a door open, and further rustling, and a whispered conversation.</p>
+
+<p>"Who's that?" he demanded. "Turn up the light, will you?"</p>
+    
+<cb n="2" />
+    
+<p>"But certainly not," answered the nurse, coining toward him again. "Monsieur is to lie very quiet and sleep."</p>
+
+<p>"I can't sleep."</p>
+
+<p>"Perhaps it will help monsieur to be quiet if he knows his fiancée is in the next room."</p>
+
+<p>Momentarily this announcement appeared to have directly the opposite effect.</p>
+
+<p>"My what?" gasped Monte.</p>
+
+<p>"Monsieur's fiancée. With her maid, she is occupying the next apartment in order to be near monsieur. If you are very quiet to-night it is possible that tomorrow the doctor will permit you to see her."</p>
+
+<p>"Was that she who came in and whispered to you?"</p>
+
+<p>"Yes, monsieur."</p>
+
+<p>Monte remained quiet after that&#8212;but he was not sleeping. He was thinking.</p>
+
+<p>Marjory was in the next room, awake, and at the sound of his voice had come in. In the dark, even with this great night city of Paris asleep around him, she had come near enough so that he heard the rustle of her skirt and her whispering voice. That was unusual&#8212;most unusual&#8212;and rather satisfactory. If worse came to worse and he reached a point where it was necessary for him to talk to some one, he could get her in here again in spite of this nurse woman. He had only to call her name.</p>
+
+<p>"Is she in there now?" Monte called to the nurse in the dark.</p>
+
+<p>"Certainly, monsieur. But I thought you were sleeping."</p>
+
+<p>NO, he was not sleeping; but he did not mind now the pain in his shoulder. She had announced herself as his fiancée. Well, technically, she was. He had asked her to marry him, and she had accepted. At the time he had not seen much further ahead than the next few minutes; and even then had not foreseen what was to happen in those few minutes. The proposal had given him his right to talk to Hamilton, and her acceptance&#8212;well, it had given Marjory her right to be here.</p>
+
+<p>Curious thing about that code of rights and wrongs! Society was a stickler for form. If either he or Marjory had neglected the preliminaries, then he would have lain here alone. This nurse woman might have come, but she did not count; and, besides, he had to get shot before even she would be allowed.</p>
+
+<p>Now it was all right. It was all right and proper for her, all right and proper for him, all right and proper for society. Not only that, but it was so utterly normal that society would have frowned if she had not hurried to his side in such an emergency. It forced her here, willy-nilly. Perhaps that was the only reason she was here.</p>
+
+<p>Still, he did not like to think that. She was too true blue to quit a friend. It would be more like her to come anyway. He remembered how she had stood by that old aunt to the end. She would be standing by her to-day were she alive. Even Chic, who fulfilled his own obligations to the last word, had sometimes urged her to lead her own life, and she had only smiled. There was man stuff in her.</p>
+
+<p>"Is Mademoiselle Stockton sitting up&#8212;there in the next room?"</p>
+
+<p>"I do not know," answered the nurse. </p>
+
+<p>"Do you mind finding out for me?" </p>
+
+<p>"If monsieur will promise to sleep after that."</p>
+
+<p>"How can a man promise to sleep?"</p> 
+
+<p>"Monsieur can at least promise not to talk."</p>
+
+<p>"I will do that," agreed Monte.</p>
+
+<p>She came back and reported that mademoiselle was sitting up, and begged to present her regards and express the hope that he was resting comfortably.</p>
+
+<p>"Please to tell her I am, and that I hope she will now go to bed," he answered.</p>
+
+<p>Nurse Duval did that, and returned.</p>
+
+<p>"What did she say?" inquired Monte.</p>
+
+<p>"But, monsieur&#8212;"</p>
+
+<p>She had no intention of spending the rest of the night as a messenger between those two rooms.</p>
+
+<p>"Very well," submitted Monte. "But you might tell me what she said."</p>
+    
+<cb n="3" />
+
+<p>"She said she was not sleepy," answered the nurse.</p>
+
+<p>"I'm glad she's awake," said Monte.</p>
+
+<p>Just because he was awake. There was nothing sentimental about this conclusion. He did not think of it as it affected her&#8212;merely as it affected him. It gave him rather a comfortable, completed feeling, as if he now had within himself the means for peacefully enjoying life, wherever he might be, even at thirty-two. Under the influence of this soothing thought, he fell asleep again.</p>
+
+<p>AFTER the doctor and his assistant were through with Monte the next morning, they decided, after a consultation, that there was no apparent reason why, during the day, Miss Stockton, if she desired, should not serve as his nurse while Miss Duval went home to sleep.</p>
+
+<p>"My assistant will come in at least twice," said Doctor Marcellin. "Besides, you have the constitution of a prize-fighter. It might well be possible to place a bullet through the heart of such a man without discommoding him."</p>
+
+<p>After they had gone out, Marjory came in. She hesitated at the door a moment, perhaps to make sure he was awake; perhaps to make sure that she herself was awake. Monte, from the bed, could see her better than she could see him. He thought she looked whiter than usual, but she was very beautiful.</p>
+
+<p>There was something about her that distinguished her from other women&#8212;from this nurse woman, for example, who was the only other woman with whom it was possible to compare her in a like situation. She was dressed in something white and light and fluffy. Around her white throat there was a narrow band of black velvet.</p>
+
+<p>"Good morning, Marjory," he called.</p>
+
+<p>She came at once to his side, walking graciously, as a princess might walk.</p>
+
+<p>"I didn't know whether you were awake," she said.</p>
+
+<p>It was one thing to have her here in the dark, and another to have her here in broad daylight.</p>
+
+<p>"Did you rest well last night?" she inquired.</p>
+
+<p>"I heard you when you came in and whispered to the nurse woman. It was mighty white of you to come."</p>
+
+<p>"What else could I do?" She seated herself in a chair by his bed.</p>
+
+<p>"Because we are engaged?" he asked. </p>
+
+<p>She smiled a little.</p>
+
+<p>"Then you have not forgotten?" </p>
+
+<p>"Forgotten!" he exclaimed. "I'm just beginning to realize it."</p>
+
+<p>"I was afraid it might come back to you as a shock, Monte," she said. "But it is very convenient&#8212;at just this time."</p>
+
+<p>"I don't know what I should have done without it," he nodded. "It certainly gives a man a comfortable feeling to know&#8212;well, just to know there is some one around."</p>
+
+<p>"I'm glad if I've been able to do anything."</p>
+
+<p>"It's a whole lot just having you here," he assured her.</p>
+
+<p>It changed the whole character of this room, for one thing. It ceased to be merely a hotel room&#8212;merely number fifty-four attached with a big brass star to a key. It was more like a room in the Hotel des Roses, which was the nearest to home of any place Monte had found in a decade. It was as if when she came in she completely refurnished it with little things with which he was familiar. Edhart always used to place flowers in his apartment; and it was like that.</p>
+
+<p>"The only bother with the arrangement," he said, looking serious, "is that it takes your time. Oughtn't you to be at Julien's this morning?"</p>
+
+<p>She had forgotten about Julien's. Yet for the last two years it had been the very center of her own individual life. Now the crowded studio, the smell of turpentine, the odd cosmopolitan gathering of fellow students, the little pangs following the bitter criticisms of the master, receded into the background until they became as a dream of long ago.</p>
+
+<p>"I don't think I shall ever go to Julien's again," she answered.</p>
+
+<p>"But look here&#8212;that won't do," he
+
+<pb n="Page 19" xml:id="ew.issue.19161009.p019" />
+
+<cb n="1" />
+
+objected. "If I'm to interfere with all your plans&#8212;" </p>
+
+<p>"It isn't that, Monte," she assured him. "Ever since I came back this last time, I knew I didn't belong there. When Aunt Kitty was alive it was all the opportunity I had; but now&#8212;"</p>
+    
+<p>She paused.</p>
+
+<p>"Well?"</p>
+
+<p>"I have my hands full with you until you get out again," she answered lightly.</p>
+
+<p>"That's what I object to," he said. "If being engaged is going to pin you down, then I don't think you ought to be engaged. You've had enough of that in your life."</p>
+
+<p>The curious feature of her present position was that she had no sense of being pinned down. She had thought of this in the night. She had never felt freer in her life. Within a few hours of her engagement she had been able to do exactly what she wished to do without a single qualm of conscience. She had been able to come here and look after him in this emergency.</p>
+
+<p>"Monte," she said, "I'm doing at this moment just exactly what I want to do;  and you can't understand what a treat that is, because you've always done just exactly as you wanted. I'm sure I'm entirely selfish about this, because&#8212;because I'm not making any sacrifice. You can't understand that, either, Monte&#8212;so please don't try. I think we'd better not talk any more about it. Can't we just let it go on as it is a little while?" </p>
+
+<p>"It suits me," smiled Monte. "So maybe I'm selfish, too." </p>
+
+<p>"Maybe," she nodded. "Now I'll see about your breakfast. The doctor told me just what you must have."</p>
+
+<p>So she went out&#8212;moving away like a vision in dainty white across the room  and out the door. A few minutes later she was back again with a vase of red roses, which she arranged upon the table where he could see them.</p>
+
+<p>MONTE'S recovery was rapid&#8212;in many ways more rapid than he desired. In a few days Nurse Duval disappeared, and in a few days more Monte was able to dress himself with the help of the hotel valet, and sit by the window while Marjory read to him. Half the time he gave no heed to what she was reading, but that did not detract from his pleasure in the slightest. He liked the sound of her voice, and liked sitting opposite her.</p>
+
+<p>Her eyes were always interesting when she read. For then she forgot about them and let them have their own way&#8212;now to light with a smile, now to darken with disapproval, and sometimes to grow very tender, as the story she happened to be reading dictated.</p>
+
+<p>This was luxury such as Monte had never known, and for more than ten years now he had ordered of the world its choicest in the way of luxury.</p>
+
+<p>At his New York club the experience of many, many years in catering to man comfort was placed at his disposal. That same service was furnished him, if to a more limited extent, on the transatlantic liners. At Davos his needs were anticipated a week in advance; at Nice there had been Edhart.</p>
+
+<p>But no one at his club, on the boat, or at Davos&#8212;not even Edhart&#8212;had given him this: <hi rend="italic">this</hi> being the somewhat vague word he used to describe what he was now enjoying as Marjory sat by the window reading to him. It had nothing to do with being read aloud to. He could at any time have summoned a valet to do that, and in five minutes would have felt like throwing the book&#8212;any book&#8212;at the valet's head. It had nothing to do with the mere fact that she was a woman. Nurse Duval could not have taken her place.</p>
+
+<p>It would seem, then, that in some mysterious way he derived his pleasure from Marjory herself. But, if so, then she had gone farther than all those who made it their life-work to see that man was comfortable; for they satisfied only existing wants, while she created a new one. Whenever she left the room he was conscious of this want.</p>
+
+<p>Yet, when Monte faced the issue squarely and asked himself if this were
+    
+<cb n="2" />    
+    
+not a symptom of being in love, he answered it as fairly as he could out of an experience that covered Chic Warren's pre-nuptial brain-storms; a close observation of several dozen honeymoon couples on shipboard, to say nothing of many incipient cases that started there; and, finally, the case of Teddy Hamilton.</p>
+
+<p>The leading feature of all those distressing examples seemed to indicate that, while theoretically the man was in an ideal state of blissful ecstasy, he was, practically, in a condition bordering on madness. At the very moment he was supposed to be happy, he was about half the time most miserable. Even at its best, it did not make for comfort. Poor Chic ran the gamut every week from hell to heaven. It was with a sigh of relief that Monte was able to answer his own question conscientiously in the negative.</p>
+
+<p>Monte was not in love: that was certain. Marjory was not in love: that also was certain. This was why he was able to light his cigarette, lean back his head on the pillows she arranged, and drift into a state of dream content as she read to him. The only objection he could see to an indefinite continuation of this happy arrangement was that, in the course of time, his shoulder was bound to heal. And then&#8212;he knew well enough that old Dame Society was even at the end of these first ten days beginning to fidget. He knew that Marjory knew it, too. It began the day Doctor Marcellin advised him to take a walk in the Champs Élysées.</p>
+
+<p>He was perfectly willing to do that. It was beautiful out there. They sat down at one of the little iron tables&#8212;the little tables were so warm and sociable now&#8212;and beneath the whispering trees sipped their café au lait. But the fact that he was able to get out of his room seemed to make a difference in their thoughts. It was as if his status had changed. It was as if those who passed him, with a glance at his arm in its sling, stopped to tell him so.</p>
+
+<p>It was none of their business. Yet he knew that, with every passing day that he came out into the sunshine, these same people were managing to make Marjory's position more and more delicate. It became increasingly less comfortable for her and for him when they returned to the hotel.</p>
+
+<p>Therefore he was not greatly surprised when she remarked one morning:</p>
+
+<p>"Monte, I've been thinking over where I shall go, and I've about decided to go to Etois."</p>
+
+<p>"When?" he asked.</p>
+
+<p>"Very soon&#8212;before the end of the week, anyway."</p>
+
+<p>"But look here!" he protested. "What am I going to do?"</p>
+
+<p>"I don't know," she smiled. "But one thing is certain: you can't play sick very much longer."</p>
+
+<p>"The doctor says it will be another two weeks before my arm is out of the sling."</p>
+
+<p>"Even so, the rest of you is well. There isn't much excuse for my bringing in your breakfasts, Monte."</p>
+
+<p>"Do you mind doing it?"</p> 
+
+<p>"No."</p>
+
+<p>"Who is to tie on this silk handkerchief?" He wore a black silk handkerchief over his bandages.</p>
+
+<p>She met his eyes a moment, and smiled again.</p>
+
+<p>"I'm going to Etois," she said. "I think I shall get a little villa there and stay all summer."</p>
+
+<p>"Then," he declared, "I think I shall go to Etois myself."</p>
+
+<p>"I'm afraid you mustn't."</p>
+
+<p>"But the doctor says I mustn't play golf for six months. What do you think I'm going to do with myself until then?"</p>
+
+<p>"There's all the rest of the world," she suggested.</p>
+
+<p>Monte frowned.</p>
+
+<p>"Are you going to break our engagement, then?"</p>
+
+<p>"It has served its purpose, hasn't it?" she asked.</p>
+
+<p>"Up to now," he admitted. "But you say it can't go any farther."</p>
+
+<p>"No, Monte."</p>
+
+<p>The next suggestion that leaped into Monte's brain was obvious enough,
+
+<figure n="advertisement">
+<head>Life Insurance Without Agents is <hi rend="italic">a Distinct Public Service</hi></head>
+<p></p>
+<figDesc>Advertisement for Postal Life Insurance Company.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Aurora Reed's New Book "The Woman's Manual"</head>
+<p></p>
+<figDesc>Advertisement for Laird &amp; Lee.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>English Grammar Simplified</head>
+<p></p>
+<figDesc>Advertisement for Funk &amp; Wagnalls Company.</figDesc>
+</figure>
+
+<pb n="Page 20" xml:id="ew.issue.19161009.p020" />
+
+<figure n="advertisement">
+<head>What Should Be Done</head>
+<p></p>
+<figDesc>Advertisement for Bauer &amp; Black.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Advertisement for Corporations, California Farm Lands, Female Help Wanted, Agents Wanted, Patents, Games and Entertainments, Music Lessons.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Garage $69.50</head>
+<p></p>
+<figDesc>Advertisement for The Edwards Mfg. Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Birch Car Given to You!</head>
+<p></p>
+<figDesc>Advertisement for Birch Motor College, Inc.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Avoid Heart Trouble</head>
+<p></p>
+<figDesc>Advertisement for Funk &amp; Wagnalls Company.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Amazing Profits</head>
+<p></p>
+<figDesc>Advertisement for Hiram Barton.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Direct From Maker</head>
+<p></p>
+<figDesc>Advertisement for Larkin Co.</figDesc>
+</figure>
+
+<cb n="1" />
+
+and yet he paused a moment before voicing it. Perhaps even then he would not have found the courage had he not been rather panic-stricken. He had exactly the same feeling, when he thought of her in Etois, that he had when he thought of Edhart in paradise. It started as resentment, but ended in a slate-gray loneliness.</p>
+
+<p>He could imagine himself as sitting here alone at one of these little iron tables, and decidedly it was not pleasant. When he pictured himself as returning to his room in the hotel and to the company of the hotel valet, it put him in a mood that augured ill for the valet.</p>
+
+<p>FOR the present Marjory was absolutely indispensable. She ought to know that a valet could not adjust a silk handkerchief properly, and that without this he could not even go upon the street. And who would read to him from the American papers?</p>
+
+<p>There was no further excuse, she said, for her to bring in his breakfasts; but if she did not sit opposite him at breakfast, what in thunder was the use of eating breakfast?</p>
+
+<p>"Marjory," he said, "didn't I ask you to marry me?"</p>
+
+<p>She nodded.</p>
+
+<p>"That was necessary in order that we might be engaged," she reminded him.</p>
+
+<p>"Exactly," he agreed. "Now there seems to be only one way that we may keep right on being engaged."</p>
+
+<p>"I don't see that, Monte," she answered. "We may keep on being engaged as long as we please, mayn't we?"</p>
+
+<p>"It seems not. That is, there isn't much sense in it if it won't let me go to Etois with you."</p>
+
+<p>"Of course you can't do that."</p>
+
+<p>"And yet," he said, "if we were married I could go, couldn't I?"</p>
+
+<p>"Why&#8212;er&#8212;yes," she faltered. "I suppose so."</p>
+
+<p>"Then," he said, "why don't we get married?"</p>
+
+<p>She did not turn away her head. She lifted her dark eyes to his.</p>
+
+<p>"Just what do you mean, Monte?" she demanded.</p>
+
+<p>"I mean," he said uneasily, "that we should get married just so that we can go on&#8212;as we have been these last ten days. Really, we'll still only be engaged, but no one need know that. Besides, no one will care, if we're married."</p>
+
+<p>He gained confidence as he went on, though he was somewhat afraid of the wonder in her eyes.</p>
+
+<p>"People don't care anything more about you after you're married," he said. "They just let you drop as if you were done for. It's a queer thing, but they do. Why, if we were married we could sit here all day and no one would give us a second glance. We could have breakfast together as often as we wished, and no one would care a hang. I've seen it done. We could go to Etois together, and I could pay for half the villa and you could pay for half. You can bring Marie, and we can stay as long as we wish without having any one turn an eye."</p>
+
+<p>He was growing enthusiastic now.</p>
+
+<p>"There will be nothing to prevent you from doing just as you wish. You can paint all day if you want. You can paint yards of things&#8212;olive trees and sky and rocks. There are lots of them around Etois. And I&#8212;"</p>
+
+<p>"Yes;" she interrupted; "what can you do, Monte?"</p>
+
+<p>"I can watch you paint," he answered. "Or I can walk. Or I can&#8212;oh, there'll be plenty for me to do. If we tire of Etois we can move somewhere else. If we tire of each other's company, why, we can each go somewhere else. It's simple, isn't it? We can both do just as we please, can't we? There won't be a living soul with the right to open his head to us. Do you get that? Why, even if you want to go off by yourself, with Mrs. in front of your name they'll let you alone."</p>
+
+<p>At first she had been surprised, then she had been amused, but now she was thinking.</p>
+
+<p>"It's queer, isn't it, Monte, that it should be like that?"</p>
+    
+<cb n="2" />
+
+<p>"It's the way it is. It makes everything simple and puts the whole matter up to us."</p>
+
+<p>"Yes," she admitted thoughtfully.</p>
+
+<p>"Of course," he said, "I'm assuming you don't mind having me around quite a lot."</p>
+
+<p>"No, I don't mind that," she assured him. "But I'm wondering if you'll mind&#8212;having me around?"</p>
+
+<p>"I didn't realize until this last week how&#8212;well, how comfortable it was having you around," he confessed.</p>
+
+<p>She glanced up.</p>
+
+<p>"Yes," she said, "that's the word. I think we've made each other comfortable. After all&#8212;that's something."</p>
+
+<p>"It's a whole lot."</p>
+
+<p>"And it needn't ever be anything else, need it?"</p>
+
+<p>"Certainly not," he declared. "That would spoil everything. That's what we're trying to avoid."</p>
+
+<p>To his surprise, she suddenly rose as if to leave.</p>
+
+<p>"Look here!" he exclaimed. "Can't we settle this right now&#8212;so that we won't have to worry about it?"</p>
+
+<p>He disliked having anything left to worry about.</p>
+
+<p>"I should think the least you'd expect of me would be to think it over," she answered.</p>
+
+<p>"It would be so much simpler just to go ahead," he declared.</p>
+
+<p>There seemed to be no apparent reason in the world why she should not assent to Monte's proposal. In and of itself, the arrangement offered her exactly what she craved&#8212;the widest possible freedom to lead her own life without let or hindrance from any one, combined with the least possible responsibility. All this she would receive without any of the obligations with which most women pay so heavily for their release from the bondage in which they are held until married. For they pay even more when they love&#8212;pay the more, in a way, the more they love. It can not be helped.</p>
+
+<p>She was thinking of the Warrens&#8212;the same Warrens Monte had visited when Chic, Jr., had the whooping cough. She had been there when Chic, Jr., was born. Marion had wanted her near&#8212;in the next room. She had learned then how they pay&#8212;these women who love.</p>
+
+<p>She had been there at other times&#8212;less dramatic times. It was just the same. From the moment Marion awoke in the morning until she sank wearily into her bed at night, her time, her thought, her heart, her soul almost, was claimed by some one else. She gave until nothing was left for herself.</p>
+
+<p>Marjory, in her lesser way, had done much the same&#8212;so she knew the cost. She paid her debt of duty in full&#8212;paid until her release came. In the final two weeks of her aunt's life she had never left her side. Patiently, steadfastly, she helped with all there was in her to fight that last fight. When it was over, she did not break down, as the doctors predicted. She went to bed and slept forty-eight hours, and awoke ten years younger.</p>
+
+<p>SHE awoke as one out of bondage, and stared with keen, eager eyes at a new world. For a few weeks she had twenty-four hours a day of her own. Then Peter had come, and others had come, and finally Teddy had come. They wanted to take from her that which she had just gained&#8212;each in his own fashion.</p>
+
+<p>"Give us of yourself," they pleaded. "Begin again your sacrifices."</p>
+
+<p>Peter put it best, even though he did not say much. But she had only to look in his eyes to read his proposal.</p>
+
+<p>"Come with me and stand by my side while I carve my career," was what his eyes said. "I'll love you, and make you love me as Marion loves. You'll begin the day with me, and you'll guard my home while I'm gone until night, and you'll share my honors and my disappointments, and perhaps a time will come when Marion will stand in the next room, as once you stood in the next room. Then&#8212;"</p>
+
+<p>It was at this point she drew back.
+    
+<pb n="Page 21" xml:id="ew.issue.19161009.p021" />
+
+<cb n="1" />
+
+When Marion laughed and said that she was as she was because she did not know, Marion was wrong. It was because she did know&#8212;because she knew how madly she would give.</p>
+
+<p>She did not wish to give like that. She wished to live a little. She wished to be herself a little&#8212;herself as she now was. She wished to get back some of those years between seventeen and twenty-seven&#8212;taste the world as it was then.</p>
+
+<p>What Teddy offered was different. Something was there that even Peter did not have&#8212;something that made her catch her breath once or twice when he sang to her like a white-robed choir-boy. It was as if he asked her to take his hand and jump with him into a white-hot flame. He carried her back to seventeen. But on guard within her stood the older woman, and she could not move.</p>
+
+<p>Now came Monte&#8212;asking nothing. He asked nothing because he wished to give nothing. She was under no illusion about that. There was not anything idealistic about Monte. This was to be purely an arrangement for their mutual comfort. They were to be companions on an indefinite tour of the world&#8212;each paying his own bills.</p>
+
+<p>It was not that she did not trust Monte. Not the slightest doubt in the world existed in her mind about that. She would trust him farther than she would even Peter&#8212;trust him farther than any man she had ever met. He was four-square, and she knew it. Perhaps&#8212;it was a curious suggestion&#8212;it was just because of this that she hesitated.</p>
+
+<p>IN a way, she was considering Monte.</p>
+
+<p>She did not like to help him give up responsibilities that might be good for him. She was somewhat disappointed that he was willing to give them up. He did not have the excuse she had&#8212;years of self-sacrifice. He had always been free.</p>
+
+<p>She knew there was a lot to Monte. She had sensed that from the first. He had proved it in the last two weeks. It only needed some one to bring it out, and he would average high. Love might do it&#8212;the same white-hot love that had driven Teddy mad.</p>
+
+<p>But that was what he was avoiding, just as she was. Well, after all, it was not within her province to direct Monte's life. She was selfish&#8212;she had warned him of that. He was selfish&#8212;and had warned her.</p>
+    
+<cb n="2" />
+
+<p>Yet, as she lay there in her bed, she felt that she was about to give up something forever, and that Monte was about to give up something forever. It is one thing not to want something, and another to make an irrevocable decision never to have it.</p>
+
+<p>MONTE had risen early and gone out and bought her violets again. When she came in, he handed them to her, and she buried her face in their dewy fragrance.</p>
+
+<p>"Well, have you decided to marry me?" he demanded.</p>
+
+<p>She shook her head, her face still buried in the violets.</p>
+
+<p>"What's worrying you about it?" he asked.</p>
+
+<p>"You, Monte," she answered.</p>
+
+<p>"I? Well, that isn't much. I looked up the time-tables, and we could take the six-ten to-night if you were ready."</p>
+
+<p>"I couldn't possibly be ready," she replied decidedly.</p>
+
+<p>"To-morrow, then?"</p>
+
+<p>When he insisted upon being definite, the proposition sounded a great deal more absurd than when he allowed it to be indefinite.</p>
+
+<p>She was still hesitating when Marie appeared.</p>
+
+<p>"A telephone for madame," she announced.</p>
+
+<p>Monte heard her startled exclamation from the next room. He hurried to the door: She saw him, and, placing her hand over the telephone, turned excitedly.</p>
+
+<p>"It's Teddy again," she trembled.</p>
+
+<p>"Let me talk to him," he commanded.</p>
+
+<p>"He says he doesn't believe in our&#8212;our engagement."</p>
+
+<p>"We're to be married to-morrow?" he asked quickly.</p>
+
+<p>"Oh!"</p>
+
+<p>"It's the only way to get rid of him."</p>
+
+<p>"Then&#8212;"</p>
+
+<p>"To-morrow?"</p>
+
+<p>Catching her breath, she nodded. </p>
+
+<p>He took the receiver.</p>
+
+<p>"This is Covington," he said. "Miss Stockton and I are to be married tomorrow. Get that? . . . Well, keep hold of it, because the moment I'm her husband&#8212;"</p>
+
+<p>Following an oath at the other end, Monte heard the click of the receiver as it was snapped up.</p>
+
+<p>"That settles it very nicely," he smiled.</p>
+
+<p rend="jumpline"><ref target="bartlett.19161016.jump">To be continued next week</ref></p>
+
+</body>
+</text>
+
+<text type="fiction" xml:id="irwin.19161009.jump">
+<body>
+
+<head type="main">The Crater</head>
+<p rend="jumpline"><ref target="irwin.19161009">Continued from page 9</ref></p>
+    
+<p>But you ain't nothin' more'n a slave. No; nothin' to that."</p>
+
+<p>"That suit you were wearing looked like a fairly good one to me," Maxwell said.</p>
+
+<p>"You betcher life it does. That suit was a gift from Gawd. The whole outfit was. Nothing like it ever happened to me before. Two weeks ago some suffrage ladies come down to our neighborhood and had a rummage sale. I dunno yet what took me in there early 'fore work&#8212;it was like something inside me told me to go. This suit was there. It was all dirty and spotty, but it fit me fine. The girl who was waiting on me kinder got interested when she seen how dippy I was. Gee, I nearly had a brain-storm! So she helped find some other things for me. She give the suit and the waist and the hat and the gloves and the&#8212;she called them 'spats'&#8212;for five dollars. I had three dollars saved up and my week's pay. I seen this was my chant all righto. And I beat it straight home and got the cash and come back. Five dollars! I didn't eat much that week. Of course I hadda buy some cleaning stuff to fix the suit up, but when I got through with it&#8212;well, you could see yourself how good-looking it is. But now I'm all right for the spring, I've gotta begin worryin' about the fall. And I'm tired of worrying. No. Nitski. Nix. Adolph for mine!"</p>
+
+<p>Another silence fell. Miss Le Favor sank back in her chair.</p>
+
+<p>"Miss Le Favor," Maxwell said evenly,
+    
+<cb n="2" />    
+    
+"I came over here to New York from Boston a week or two ago. While I was here I saw in Tiffany's a very beautiful piece of jewelry&#8212;an opal pendant&#8212;the only piece of jewelry that I have ever wanted in my life. It was a black opal, but so full of fire that they had christened it 'the Crater.' I told my father about it when I went home, and he said that I might have it for a birthday present. I intended to go straight to Tiffany's the moment we had settled ourselves in the hotel. But we joined the parade and that prevented. I'm not going to buy the Crater now."</p>
+
+<p>Maxwell paused; then went on in the same quiet tone: "Instead I shall give the money to you. It is two thousand dollars."</p>
+
+<p>Looking at Maxwell, Miss Le Favor's gaze changed to a stare. She seemed gradually to ossify where she sat. But presently came signs of returning life. She began to struggle for expression. Her mouth opened, although at, first no words came. She could only gasp and sputter.</p>
+
+<p>"Two thousand dollars!" she finally brought out. "You're nutty!" she added roughly.</p>
+
+<p>Maxwell's smile brought the shadow hollows bird-fluttering across her face.</p>
+
+<p>"I've been told that before," she admitted; "but I don't think it's true. You see, Miss Le Favor, it is my belief that there's only one sure cure for any kind of trouble. And that cure is&#8212;money. I don't care very much for money myself, but I think that's because I've always had
+
+<figure n="advertisement">
+<head>Next Comes the Cypress "Sugi" Book:</head>
+<p></p>
+<figDesc>Advertisement for Southern Cypress Manufacturers' Association.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$100.00 Earned By Young Artist in 2 Days</head>
+<p></p>
+<figDesc>Advertisement for Federal School of Commercial Designing.</figDesc>
+</figure>
+
+<pb n="Page 22" xml:id="ew.issue.19161009.p022" />
+    
+<figure n="advertisement">
+<head>Chalmers Underwear</head>
+<p></p>
+<figDesc>Advertisement for Chalmers Knitting Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Banking By Mail At 4% Interest</head>
+<p></p>
+<figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Poultry Paper</head>
+<p></p>
+<figDesc>Advertisement for Poultry Advocate.</figDesc>
+</figure>   
+    
+<cb n="1" />
+ 
+enough&#8212;too much. So, if you'll accept my two thousand dollars, it is yours. My advice to you is to take it and to use it in training yourself for some special occupation. But I don't stipulate. I give it to you freely, with no strings. You will know better than I what to do with it, because you've reached the Pass of Desperation. And when people come to that Pass&#8212;"</p>
+
+<p>The shadow hollows bird-flitted out of Maxwell's face. The serenity and austerity and solitude flowed back.</p>
+
+<p>Miss Le Favor still stared at her.</p>
+
+<p>"Two thousand dollars!" she muttered. "I'm dreaming. But I'd know what to do with it, all right. I'd go to a business college and fit myself for one of those twenty-five-dollar-a-week jobs. You watch me. I'll be some queen before I get through."</p>
+
+<p>"What do you think, Cordie?" Maxwell asked.</p>
+
+<p>"I say, bully for you! I was just about to offer my fifteen hundred. Eight dollars a week! Think of it!"</p>
+
+<p>"What do you think, Miss Carroll?" Maxwell asked this in the tone of one who courteously includes a stranger in the conversation.</p>
+
+<p>"I'm afraid my opinion is of no value," Miss Carroll answered in the tone of one who retreats from committing herself.</p>
+
+<p>"Would you rather have a check tonight, Miss Le Favor?" Maxwell asked. "Or would you like to wait and go down to the bank with me to-morrow?"</p>
+
+<p>Miss Le Favor considered the question with a ferocity of concentration, gnawing first at her upper lip, then at her lower one. "I'll take the check <hi rend="italic">now,</hi>" she said. "I ain't never had one before&#8212;you'll hafter tell me what to do with it."</p>
+
+<p>MAXWELL walked over to the desk, drew out writing paper, envelops, a check-book.</p>
+
+<p>"How do you spell your name?" she asked.</p>
+
+<p>Miss Le Favor followed her. She hung over Maxwell's shoulder. Her eyes had changed from brown to yellow. At times those eyes glared like a tigress sensing her prey. She spelled her name.</p>
+
+<p>"Now let me explain to you, Miss Le Favor," Maxwell said, after writing a moment. "This check is for two thousand dollars. It is made out by <hi rend="italic">me</hi> to <hi rend="italic">you.</hi> You see, it says here, 'Pay to the order of Pauline Le Favor,' and I have signed my name to it. Take it to the bank tomorrow morning. Wait; I'll write the name and address. Present this check at the window that says 'Paying Teller.' I'll write that down too. Now, the check being a large one, they may question you. On the back I'm going to ask you to write your name, and under it I'll write 'Signature guaranteed' and sign it myself. They will ask you to sign your name again&#8212;to compare signatures. Do you understand?"</p>
+
+<p>Pauline nodded.</p>
+
+<p>"Now, to make doubly sure, I'm going to give you this note to the paying teller. If he should still be uncertain, you call me up here and I'll talk to him."</p>
+
+<p>Miss Le Favor scooped the check up from the blottered surface of the desk.</p>
+
+<p>"Oh, my Gawd!" she burst out suddenly. "I know I'm dreaming. It's too much like the movies." Suddenly she flung about and faced Miss Carroll. "What are you holding back, old frozen-face?" she demanded. "What have you got against me? You don't wanna see me have any luck, do you? <hi rend="italic">Jealous!</hi> That's your trouble. Say, spit it out, will you? I wanna know what you're thinkin' and what you're gonna say about me the moment my back's turned."</p>
+
+<p>Miss Carroll's face emerged from the shadow of her chair. She arose and switched on the lights. Miss Le Favor, the check tight in her hands, watched her. Then they both sat down.</p>
+
+<p>"All right," Miss Carroll said in a clear voice. "I'll tell you just what I think. I think Miss Lee is doing the most foolish thing she could possibly do for <hi rend="italic">you</hi> in giving you this money. And you're doing the most foolish thing you could possibly do for <hi rend="italic">yourself</hi> in taking it."</p>
+
+<p>Miss Le Favor put the check down on
+    
+<cb n="2" />    
+    
+the table. "What do you mean?" she snarled.</p>
+
+<p>"I mean," Miss Carroll answered, "getting a big bunch of money like that isn't going to help any. It's only walking round the question. What good will two thousand dollars do you? Not a bit of good. Nor three, nor four, nor five. And why? Because it'll go the way all easy money goes. You ain't got any real ambition or spunk or grit or ginger, or you'd have found out long before this what you wanted to do and started to do it. You think you're going to a business college to fit yourself for something. I bet you dollars to doughnuts by to-morrow night you'll have two hundred of that two thousand spent on the flossiest outfit of clothes you can find anywhere. And so it'll go. And when you're cleaned out you'll only be easier fruit for Adolph."</p>
+
+<p>Each word might have been a whiplash that landed on Miss Le Favor's undefended body. The girl's hands suddenly became fists. She thrust her face, chin first, forward.</p>
+
+<p>IN the pause that followed, Cordelia came to a sitting posture, and Maxwell moved over to the couch and sat beside her.</p>
+
+<p>Miss Le Favor's words came slowly, in a series of hisses:</p>
+
+<p>"Is&#8212;that&#8212;so, old frozen-face? P'r'aps you'll tell me&#8212;how you know&#8212;so much more&#8212;about me&#8212;than I know&#8212;about myself. P'r'aps you'll tell me&#8212;how you know&#8212;I'll spend that money&#8212;on clothes when I'm crazy&#8212;to be a stenographer."</p>
+
+<p>"Sure, I'll tell you!" Miss Carroll answered directly. "The reason you won't stay straight, even with all that money, is because you don't really care to stay straight. The reason you'll go crooked with that money is because you want clothes more than anything else in the world. That two thousand dollars will only grease the way. For you're not fighting for something that's worth all there is in a girl. You're fighting for something that ain't worth the powder to blow it up. <hi rend="italic">Fighting!</hi> There ain't no fight in you!"</p>
+
+<p>"No fight in me! No fight in <hi rend="italic">me!</hi> Say, do you know who you're talking to? Lefty Le Favor's daughter!"</p>
+
+<p>"Lefty Le Favor's daughter! <hi rend="italic">Lefty Le Favor's daughter!</hi> Lefty Le Favor's daughter drawing a salary to be good. And your father the gamest man that ever put foot inside the ring. Gawd! Ain't you ashamed of yourself?"</p>
+
+<p>"Say," Miss Le Favor said, "I'll listen to you when you've lived on eight dollars a week for three years."</p>
+
+<p>"Eight dollars a week! Three years! I've got you beat by two dollars and two years. I lived on six dollars for five years when I was a telephone girl. Yes, sir. For five years! You can't tell me anything about the straight and narrow. I know every inch of it."</p>
+
+<p>"Aw&#8212;well&#8212;I can see, you all right," Miss Le Favor dropped scornfully. "Goin' home every night, cookin' a warmed-over, burned-up dinner on the gas. Goin' to church on Sunday and findin' that fun enough. Say, girls like you don't know what real living is. You never came up against a real temptation."</p>
+
+<p>"Perhaps I didn't," Miss Carroll said. "Perhaps I <hi rend="italic">didn't.</hi> I'm not saying whether I did or not. That's not here nor there. I lived on six dollars for five years, though. But I made up my mind that I wasn't going to live on six dollars all my life. No, sir! I worked and worked for it, and planned and planned for it, and dreamed and dreamed for it. Oh, I had some ways of making easy money offered to me; but they weren't straight and I threw them down. Maybe it didn't half kill me to do it. But I did it. I says to myself, 'If it beats you here, it'll beat you all along the line.' And I kept saying over and over again, You can't afford to let it beat <hi rend="italic">you.</hi> You've got to beat <hi rend="italic">it.</hi>' I studied stenography and typewriting. And, believe me, I was some bonehead. It was awful hard, but I stuck and after a while I began to learn. I answered bushels of ads. And finally I got an office job. Then I got a better one. And then I got a better one than that. And now I'm with Miss Lee&#8212;private
+    
+<figure n="advertisement">
+<head>"Mama I Want My Denton.</head>
+<p></p>
+<figDesc>Advertisement for Dr. Denton Sleeping Garmet Mills.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Hygeia</head>
+<p></p>
+<figDesc>Advertisement for The Hygeia Nersing Bottle Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Before Baby Comes</head>
+<p></p>
+<figDesc>Advertisement for Dr. Alice B. Stockham.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Better Than Paste</head>
+<p></p>
+<figDesc>Advertisement for Le Page's Glue</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>You Can Have</head>
+<p></p>
+<figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
+</figure>
+    
+<pb n="Page 23" />
+    
+<cb n="1"/>
+
+secretary: fifteen dollars a week and expenses, traveling across the country."</p>
+    
+<p>Miss Le Favor jumped to her feet.</p>
+    
+<p>"Just the same," she said, "I'm going to hang on to the little two thousand." She made for the bath-room, talking as she went; and as she talked she unfastened her gown. "And I'm gonna get out of here while the goin's good and I still got that check in my fist." She tore off the gold chain as she passed the bureau, dropping it in an open drawer.</p>
+    
+<p>From the bath-room came the sound of frenzied undressing, of frantic re-dressing&#8212;the rustle of silky things coming off, the murmur of woolen things going on.</p>
+    
+<p>"Say, Miss Maxwell," Miss Le Favor entreated with husky suddenness, "don't let her get you to change your mind about that check, will you? If they don't give me that money at the bank I'll be in the harbor inside half an hour."</p>
+    
+<p>Maxwell's arm crept round Cordelia's waist. Cordelia's arm crept round Maxwell's waist.</p>
+    
+<p>"You'll get the money, Miss Le Favor," Maxwell said steadily. "Never fear."</p>
+    
+<p>"I knew <hi rend="itlalic">you'd</hi> understand."</p>
+    
+<p>"What do they do about it?" Miss Carroll's voice rang suddenly. "They never had to earn a cent by hard work in their lives. Everything is pretty soft for them. They've never got dog-tired from work. They don't know what it is to have a hungry pain last over from one meal to the next. They don't know what it is to shiver all the time from not having enough on. They don't know what it is to worry about the rent and meals and clothes and carfare even&#8212;all at once. They never had to make one cent do the work of ten and ten cents do the work of fifty and a dollar do the work of five. They don't know any more about the world that you and I live in than if they'd never been here. Of course they think money is a cure for everything. And it does cure any trouble <hi rend="italic">they've</hi> ever had. But money can't cure our troubles. And money won't keep a girl straight unless she wants to go straight. Nobody keeps good 'cause they're paid for it. If you're putting up a fight&#8212;I don't care what it's for&#8212;you've got to want to win that fight more than anything in the world. You've got to be willing to give up everything for it."</p>
+    
+<p>Sounds of hurrying even more tempestuous came from the bath-room.</p>
+    
+<p>"Aw, you give me a fierce pain!" Miss Le Favor exclaimed.</p>
+    
+<p>She finally appeared, her face red, her forehead moist from haste.</p>
+    
+<p>"Say,"&#8212;she turned to Maxwell,&#8212;"don't you get cold feet about what you've done. You'll never be sorry. Good-by."</p>
+    
+<p>"Good-by," Maxwell said quietly. And "Good-by," Cordelia quavered.</p>
+    
+<p>Miss Le Favor tore to the door. Miss Carroll ran after her.</p>
+    
+<p>"Don't!" Miss Carroll entreated. "Fight it on your own! Remember, you're Lefty Le Favor's daughter. Fight for it!"</p>
+    
+<p>"Aw, shut up!"</p>
+    
+<p>Presently the elevator door clanged.</p>
+    
+<p>Quietly Miss Carroll returned to her own room, entering from the hall. For a time Maxwell and Cordelia sat moveless, still clinging to each other. After the sounds in Miss Carroll's room died down, they went to bed. They talked in whispers.</p>
+    
+<p>AT ten o'clock the next morning the two girls, in combing jackets, very hollow-eyed, were getting ready for breakfast. A knock came at the door at their right.</p>
+    
+<p>"Come," Maxwell called.</p>
+    
+<p>The door opened. Miss Carroll, more than usually white-faced, stood on the threshold. "Good morning, Miss Lee," she said. "Good morning, Miss Livingstone. I've come to&#8212;"</p>
+    
+<p>The telephone interrupted.</p>
+    
+<p>"Excuse me," Maxwell said.</p>
+    
+<p>"Hello," she called into the machine. "Send her up!" she added in another instant. "Miss Le Favor! she explained
+
+<cb n="2"/>
+
+briefly, turning from the telephone. "Please sit down, Miss Carroll."</p>
+    
+<p>Miss Carroll sat down. Cordelia sat down. Maxwell sat down. In silence they waited until a knock sounded on the door.</p>
+    
+<p>"Come!" Maxwell ordered.</p>
+    
+<p>Miss Le Favor entered. Shepherd's plaid suit, little streamered pill-box-shaped hat, red vanity-box, she looked exactly as she did the night before, except that she carried a small parcel.</p>
+    
+<p>"Good morning," the three girls said.</p>
+    
+<p>"Good morning," Miss Le Favor answered. "I've come back to tell you," she began immediately, addressing herself Maxwell, "that I can't keep the  money." She placed the little parcel on the table. "You're right," she went on, addressing herslef now to Miss Carroll. "I saw that after I'd laid awake all night thinkin' of it. I've gotta play it alone, and I've gotta play it straight. And I'm gonna win. You watch me."</p>
+    
+<p>"I know you're going to win," Miss Carroll said, her voice swelling; "that is, if you've got a drop of Lefty Le Favor in you. Why, Sailor Donovan knocked your father through the ropes twice, and Lefty climbed back both times. And finally he lifted him with a wallop that&#8212;well, Donovan ain't come down yet."</p>   
+    
+<p>"I think you two ladies," Miss Le Favor continued steadily. "You've done me a lot of good. It'll help some jess to think I threw down two thousand dollars. I've gotta go now. Good-by."</p>
+    
+<p>"You'll come to see us?" Maxwell said.</p>
+    
+<p>"Every time you pass me the word."</p>
+    
+<p>Miss Carroll's arm went round Miss Le Favor's waist. The two girls disappeared into the hall. Miss Carroll's voice came back:</p>
+    
+<p>"Say, I got two hundred dollars saved up. You wouldn't go hungry, dearie, when I could slip you something so easy, now would you?"</p>
+    
+<p>"You bet I wouldn't," Miss Le Favor said. "Say, I handed Adolph the ice-pitcher this morning. And say&#8212;" The two girls melted through the doorway.</p>
+    
+<p>MAXWELL and Cordelia sat where they had left them.</p>
+    
+<p>"Maxie, I guess we'd better withdraw that idea in regard to Miss Carroll's colorless personality," Cordelia remarked dryly.</p>
+    
+<p>"I guess we had, Cordie," Maxwell agreed. "I fancy we won't have to do any thinking for that young person."</p>
+    
+<p>Absently she reached for the little package. Miss Carroll reëntered, stood waiting while Maxwell pulled off paper and string. Inside was a jeweler's flat gray box. Maxwell pressed the spring. The cover flew up. Nestling in the white satin interior was an opal pendant. Black as night, all the flames of the volcano burned at its heart.</p>
+    
+<p>Maxwell drew the pendant out of the box by its slender gold chain.</p>
+    
+<p>"She bought that the moment the store opened, to get temptation out of her way," she said. "I guess I'll have to wear that always." She clasped the chain about her neck.</p>
+    
+<p>It was as if a flame had burnt through the white flesh.</p>
+    
+<p>Miss Carroll broke the silence:</p>
+    
+<p>"I want to apologize to you, Miss Lee, and you too, Miss Livingstone, for the disrespectful way I talked about you last night to Miss Le Favor. I think probably under the circumstances, Miss Lee, you might want to get another stenographer. And if you do I'll give up my job now."</p>
+    
+<p>"You did not offend me at all," Maxwell said. Cordelia shook her head vigorously. "In fact, you taught me a great deal that I could never have learned in any other way. Do you mind if in the future we call you Katie?"</p>
+    
+<p>Katie's eyes filled.</p>
+    
+<p>"No, Miss Lee," she said.</p>
+    
+<p>Maxwell looked at her.</p>
+    
+<p>"Maxwell, I mean," Katie faltered.</p>
+    
+<p>Maxwell still looked at her.</p>
+    
+<p>"Maxie," Katie said.</p>
+    
+<note place="bottom-margin" type="Copyright">Copyright, 1916, Every Week Corporation: Joseph P. Knapp. President; J. F. Bresnahan, Vice-President; Bruce Barton, Secretary; R. M. Donaldson, Treasurer; 95 Madison Avenue, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada. S1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y , under the Act of March 3, 1879.</note>
+    
+<figure n="advertisement">
+<head>For Their Sake&#8212;Ætna-ize!</head>
+<p></p>
+<figDesc>Advertisement for Ætna Life Insurance Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Stiff Aching Limbs</head>
+<p></p>
+<figDesc>Advertisement for W. F. Young, P. D. F.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Driver Agents Wanted</head>
+<p></p>
+<figDesc>Advertisement for Bush Motor Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Songwriter's "Key to Success"</head>
+<p></p>
+<figDesc>Advertisement for Knickerbocker Studios.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Sunshine Lamp Free</head>
+<p></p>
+<figDesc>Advertisement for Sunshine Safety Lamp Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Voice Thrower</head>
+<p></p>
+<figDesc>Advertisement for Royal Novelty Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>"Bow Legs and Knock-Knees" Unsightly</head>
+<p></p>
+<figDesc>Advertisement for Perfect Sales Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents that Protect</head>
+<p></p>
+<figDesc>Advertisement for R. S. &amp; Lacey.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents Secured or Fee Returned</head>
+<p></p>
+<figDesc>Advertisement for G. P. Kimmel.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 24" xml:id="ew.issue.19161009.p024"/>
+    
+<text type="advertisement" xml:id="johnson.19161009">
+<body>
+    
+<figure n="advertisement">
+<head>Never Use an Oily Greasy Polish on Any of my Furniture</head>
+<p></p>
+<figDesc>Advertisement for S. C. Johnson &amp; Son.</figDesc>
+</figure>
+    
+</body>
+</text>
+</group>
+</text>
+</TEI>
+    

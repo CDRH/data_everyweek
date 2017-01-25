@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160821">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, August 21, 1916</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2013</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19160821</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2013</date>
+<availability>
+<p>Copyright &#169; 2013 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">Pages 1, 2, 17, 18, 19, and 20 are missing from the issue digitized for this project.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<biblScope type="volume">Vol. 3</biblScope>
+<biblScope type="number">No. 8</biblScope>
+<extent>20 pages</extent>
+<date when="1916-08-21">August 21, 1916</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2015"><name>Laura Weakly</name> Validation
+</change>
+<change when="2013-12-03"><name>Samantha Greenfield</name> Initial Encoding
+</change>
+<change when="2010"><name>Arman Zeljkovic</name> Initial Encoding
+</change>
+<change when="2010"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<group>
+
+<pb n="Cover" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 2" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19160821.p003" />
+
+<text>
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 3, No. 8 August 21, 1916
+Every Week
+$1.00 per Year 3 Cents a Copy</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="hungerford.19160821">
+<body>
+    
+
+<figure n="illustration">
+<head></head>
+<p>"'It can't be done,' they told him. Harriman's reply was characteristic: 'You must carry it through, whether it is possible or not.'"</p>
+<figDesc></figDesc>
+</figure>
+
+    
+<head type="main">It Can't Be Done</head>
+<byline>By <persName type="author" key="#Hungerford, Edward">Edward Hungerford</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Riesenberg, Sidney H.">Sidney H. Riesenberg</persName></byline>
+
+<cb n="1" />
+
+<p>FOR many years men dreamed of tunneling the Hudson River at the city of New York. It seemed an idle dream, even when one considered the many tunnels that London had managed to bore beneath the Thames. For the Thames has a rocky bottom, while the floor of the Hudson where it joins the sea is silt.</p>
+
+<p>Finally, in 1879, an effort was made to accomplish this seemingly impossible thing. A group of men financed and began a tunnel which was to connect Jersey City with Washington Square, New York. They dug 1800 feet of brick-lined tunnel&#8212;driving their heading forward simply by the use of compressed air: for the shield method of tunnel-cutting had not then been perfected. But the day came when the leakage of air through the soft earth and the fresh masonry more than offset the air pressure. Then the river swept into man's puny enterprise; and, in less time than it takes to tell it here, it filled with water. And the twenty men who were working in the heading literally were drowned like rats.</p>
+
+<p>"It will never be done; <hi rend="italic">it can't be done,</hi>" said New Yorkers, and it looked as if they were right. And if a younger and bolder generation of New Yorkers were unwilling to believe this, they had their doubtings set at rest&#8212;thirteen years later. A second attempt was made to dig the tunnel that would mean so much in traffic relief to the biggest and most congested city in America. The original bore was pumped out and extended another 1800 feet. After that the heading ran into soft mud and slowly filled with water.</p>
+
+<p>"<hi rend="italic">It can't be done,</hi>" said the engineers. "The Hudson will never be tunneled at New York."</p>
+
+<p>Somewhere about the beginning of the present century a young Tennesseean came up to New York to seek his fortune. He wanted to do something big&#8212;and different. The one thing went with the other. In New York it generally is necessary to do something different in order to do something big. All the big things are occupied by men already on the ground.</p>
+
+<p>"If you want to do something big, McAdoo, why don't you tunnel the Hudson?" some one said to him one day.</p>
+    
+<cb n="2" />
+
+<p>Then he showed the lean boy from the Tennessee hills just what such a tunnel would mean to the town: to all the big railroads, whose terminals were on the west bank of the Hudson.</p>
+
+<p>William G. McAdoo caught the idea in an instant. He went to the construction engineers. They laughed first at his enthusiasm, and then they repeated the time-honored dictum.</p>
+
+<p>"<hi rend="itaic">It can't be done,</hi>" they told him. "The Hudson will never be tunneled at the city of New York."</p>
+
+<p>And then they told him the history of the two ghastly attempts. But McAdoo, in return, only laughed in their faces, boarded a train, and went down to see the officers of the Pennsylvania Railroad at their headquarters in Philadelphia. The Pennsylvania people did not laugh at him. They merely told him that some day they were going to do something of the same sort. In the meantime, if McAdoo wanted to bore under the Hudson to the very tip of Manhattan, they would stand back of him&#8212;would deliver their passenger traffic for that part of the city to him. The other roads at Jersey City made similar encouragements for an uptown branch of the tunnel.</p>
+
+<div1><head type="sub">McAdoo Did the Impossible</head>
+
+<p>IT was the uptown branch of the tunnel that McAdoo built first&#8212;with apparently no more difficulty than he would have had in placing an ordinary railroad across the country. And when the <hi rend="italic">can't-be-done</hi> engineers came to him, in surprise and frank admiration, to ask him how he had done it, McAdoo told them that he had made his great subterranean tubes of solid ringed metal instead of the more costly and less substantial brick lining.</p>
+
+<p>And after he had done it once it was easy for him to dig another pair of tunnels under the Hudson to downtown New York, to pave the way for the Pennsylvania's own great enterprise a few years later. No longer was the tunneling of the Hudson a <hi rend="italic">can't-be-done.</hi> The other
+    
+<cb n="3" />    
+    
+day men were walking on the dry floor of a tunnel that goes eleven hundred feet beneath the surface of that great stream. And it had been cut merely for the purpose of bringing fresh water to New York from the mountain streams of the Catskills.</p>
+
+<p>About the same time that William G. McAdoo was coming toward New York, a little man, whose bristling mustache and large spectacles proclaimed his dynamic energy, was rejuvenating some of the great railroads of the West. The first of these roads that came under his vitalizing touch were the Southern Pacific and the Union Pacific systems&#8212;together forming the most direct and important line from Omaha to San Francisco. It took only a single glance at his atlas to show E. H. Harriman how very direct was this line&#8212;save at one point, just west of Ogden, where it bent sharply to the north to round the Great Salt Lake. That time-taking bend irritated Harriman.</p>
+
+<p>"I want it ironed out," he commanded his engineers.</p>
+
+<p>"<hi rend="italic">It can't be done,</hi>" was their reply. </p>
+
+<p>"Why?" he demanded.</p>
+
+<p>They tried to explain to him&#8212;carefully and courteously, for he was their boss. They told him that in the whole daring history of American railroading no one had ever even attempted to bridge a lake thirty-two miles in width.</p>
+
+<p>"Make an embankment, then," said Harriman.</p>
+
+<p>He had his mind on the forty-four miles of actual shortening that he was going to make in the main stem in his growing group of railroads. They shook their heads and tried to explain the insecure foundation that the bottom of the lake would give. Harriman let them have about three minutes of his immensely valuable time. Then he cut them short, saying:</p>
+
+<p>"You had better get to work without further delay."</p>
+
+<p>They went to work&#8212;without enthusiasm. They knew that the cut-off could never be completed. Sink-holes developed, and the engineers began whispering
+    
+<cb n="4" />    
+    
+"I-told-you-so's" to each other. But they did not tell their big boss anything of that sort. Finally bad went to worse. Whole long sections of the completed line began dropping completely out of sight.</p>
+
+<p>"<hi rend="italic">It can't be done,</hi>" they told him.</p>
+
+<p>But Harriman's mind refused to budge from that forty-four miles that he was going to save in the main line of his biggest road.</p>
+
+<p>"You must carry it through, whether it is possible or not," was his reply.</p>
+
+<p>And eventually they carried it through.</p>
+
+<p>So was that cut-off built over the Great Salt Lake upon the wreckage of tracks and trestles and concrete piling. It was not the first time in the annals of railroad engineering that this has been done; it will not be the last.</p></div1>
+
+<div1><head type="sub">When a New Lake Was Formed</head>
+
+<p>TAKE another great salt lick of the mysterious West&#8212;the Salton Sea, down in southwestern California, close to the brink of the Colorado River. Here is one of the strangest spots in the entire Southwest&#8212;in itself filled with strange works of nature. For a great area, equal in size to several Eastern States, is actually lower&#8212;from a hundred to two hundred feet&#8212;than the level of the sea. Only a portion of this bowl is occupied by the Salton Sea. Much of the rest of it is divided into fine farms.</p>
+
+<p>In the spring of 1907 the Colorado River swept down its course in a tidal flood, and thrust its waters against the narrow neck of land in a fearful impact. The natural dike gave way, and the water began pouring into the Imperial Valley at the rate of 44,000 cubic feet to the second. In a time measured by hours and minutes rather than by days there was a new lake in southern California, fifteen miles in width, fifty miles in length, one hundred feet deep at the center.</p>
+
+<p>California was alarmed. Washington was alarmed. It looked as if the entire great productive area were to be permanently inundated. Theodore Roosevelt was President, and Harriman was the head of the Southern Pacific, the railroad that threaded and served the Imperial Valley. Roosevelt asked Harriman for
+
+<pb n="Page 4" xml:id="ew.issue.19160821.p004" />
+
+<cb n="1" />
+
+help; and Harriman said that the Colorado would be dammed out of the Imperial Valley.</p>
+
+<p>It was a big contract; it was one of the <hi rend="italic">can't-be-dones,</hi> if you please, perhaps the biggest one that America has ever known. But Harriman had a man in his organization who enjoyed tackling <hi rend="italic">can't-be-dones.</hi> He threshed two of them in the Ohio Valley once, and when he was done the Ohio River was bridged, at Cincinnati and again at Louisville, with two of the greatest single-span truss bridges in the entire world. The man's name is Epes Randolph, and he is the scion of one of Virginia's most distinguished families.</p></div1>
+
+<div1><head type="sub">He Pushed Back the Colorado</head>
+
+<p>COLONEL RANDOLPH was ill in the Southwest. On the day that Harriman called him on the long-distance telephone and asked him to go to the Imperial Valley and rebuild the dike above the Salton Sea, Randolph was very ill, in bed; but he told his chief that he might count upon him. His bed was carried out to his private car, and the car hurried to the edge of the break in the dike. There, still in bed, he planned a dam to hold back the river.</p>
+
+<p>You probably know something of the great dams of this land: the Ashokan, the Roosevelt, others of their sort&#8212;magnificent to look upon, magnificent in their silent power. But the chances are that you do not know of Randolph's dam. It is not impressive to look upon. But it was built by stop-watch, and in fourteen days and twenty-one hours. In that time the engineer, lying flat upon his back in a railroad car, had placed more than a quarter
+       
+<cb n="2" />    
+
+<figure n="illustration">
+<head></head>
+<p>"The twenty men who were working in the tunnel literally were drowned like rats."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="3" />
+    
+of a million cubic yards of rock and gravel in the gap in the dike&#8212;and there was no gap. The Colorado had been sent back into its own bed.</p></div1>
+
+<div1><head type="sub">Hopkinson Smith's Lighthouse</head>
+
+<p>THERE died in New York last winter a man particularly loved by his fellows. In the clubs of the town, at its dinners, public and private, he was much in demand. He had polish, vivacity, charm, loyalty. He had traveled far, painted really good pictures, written successful and able books. A genuinely good fellow was Hopkinson Smith&#8212;his cronies invariably spoke of him as "Hop." Yet a man coining to meet him, to know him, and to love him, would probably not think of him as a man who had conquered <hi rend="italic">can't-be-dones.</hi></p>
+
+<p>Yet this was the case. This man, this same Hopkinson Smith, built for himself a monument that probably will outlive his books and his paintings. It is tall and white and straight&#8212;a lighthouse, if you please, set upon a jagged point of New
+    
+<cb n="4" />    
+    
+England shore that sits far out into the sea. </p>
+
+<p>Other men had tried to build a light-house upon wave-washed and storm-beset Race Rock. And long before Hopkinson Smith, an ambitious young engineer and contractor, tackled the job, they had shaken their heads and said:</p>
+
+<p>"<hi rend="italic">It can't be done.</hi>"</p>
+
+<p>Hopkinson Smith never said that. He knew it must be done. It was a danger point that took its annual toll in men and ships. And build it he did. He built the foundations by experimenting on a smooth and slippery rock set in the middle of an open field. When he found the possibilities of Portland cement&#8212;it was long before the arrival of the cement age&#8212;upon the field rock, he made them solve the problem of the one that was set in the swirl of the sea. So he worked out each successive problem.</p>
+
+<p>But, when it seemed as if he had solved them all and was on a fair way to success with his great enterprise, they brought him bad news. The big stone-barge used for carrying material out to the lonely rock had exploded. And with it, it seemed, exploded all the nerve and backbone of the undertaking. The captain of the barge had jumped overboard at the moment of the explosion and so had saved his own life. He met his chief in the railroad station at New London.</p>
+
+<p>"Well, Mr. Smith, what are we going to do now?" he asked.</p>
+
+<p>Hopkinson Smith has said that it was the <hi rend="italic">can't-be-done</hi> look in the skipper's eyes that gave him determination at that moment.</p>
+
+<p>"We are going to build the Race Rock lighthouse, captain," said he.</p>
+
+<p>And build the Race Rock light he did.</p></div1>
+    
+</body>
+</text>
+
+<text type="fiction" xml:id="ritchie.19160821">
+<body>
+    
+<head type="main">High as Haman</head>
+
+<byline>By <persName type="author" key="#Ritchie, Robert Welles">Robert Welles Ritchie</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Dresser, L. T.">L. T. Dresser</persName></byline>
+
+<cb n="1" />
+    
+<p>THE narrator hung his dénouement in the air, and left it toppling there while with aggravating pains he rolled a cigarette. His the mastery; his the prerogative to accent art. The men about the table in the Silver Bit's back room fidgeted.</p>
+
+<p>"Which you can see those Bible folks was simple and direct," Dime Dessart, sheriff of Grey Bull, continued at length. "This King A. Hasuerus he takes off his crown and wipes it round the brim, and puts the question sort of casual: 'Haman, m' son, I hear you're rigging up a purty fancy gallows over to your place for to use on Mr. Mordecai.'</p>
+
+<p>"Oh, it's just so-so as gallowses go,' says Haman, smiling like a baked 'possum. 'I reckon it'll be appreciated by a certain party.'</p>
+
+<p>"Queen Esther she gives him one dazzling flash from those baby eyes of hers. </p>
+
+<p>"'How 'bout a little work-out on your fancy gallows to-night?' Old Man Has suggests offhand. 'If it's only fifty cubicks high I misdoubt that a tall man&#8212;like you, f'r instance&#8212;'</p>
+
+<p>"Oh, I wouldn't allow Mr. Haman was too tall, popper,' purrs Esther, with her meltin'est smile. 'Why not try him out, just for sake of argument?'</p>
+
+<p>"'Good girl!' The King gives his hearty laugh. 'Come on over to your place, Haman, m' boy, and get hung.'</p>
+
+<p>"So right then and there this here Haman gets the drift and kisses hisself good-by.</p>
+
+<p>"Which," the sheriff gravely concluded, "any honest man is bound to admit was a fair-to-middlin' joke for them days of pride and ignorance."</p>
+
+<p>FOR a minute, silence about the table save for noisy exhalations. Auditors relaxed, shifted to easement of climactic strain, rolled their heads approvingly. For them this tale of two thousand years ago was fresh and piquant as yesterday's report of an episode on the range.</p>
+
+<p>Chick Mather spoke first, in exaggerated surprise:</p>
+
+<p>"You don't tell me all that's been
+    
+<cb n="2" />    
+    
+writ into opery&#8212;a reg'lar show opery?" Dime nodded.</p>
+
+<p>"And that's the show Parson Hollingshed and Miss Brownie Small are aiming to give over to the Star honkey-tonk?"</p>
+
+<p>"No call for <hi rend="italic">you</hi> to get alarmed if it might be," Dime drawled, with his slow, tantalizing smile. "More especial since you're going to be into it&#8212;you along with all the rest of the boys here."</p>
+
+<p>HAD Dessart dropped a rattler among the glasses he could not have wrought quicker reaction. Chick Mather leaped to his feet as if roweled. Tall Torn Bodie&#8212;Timberline Bodie&#8212;clapped his hat on his head and started for the door. Dime, there ahead of him, smiled him down. He held up a hand to still the clatter.</p>
+
+<p>"Boys, no use starting a mill," he called. "Just listen to me while I make a little medicine on this opery proposition. Maybe I did play it sort of low on you when I told you that Esther yarn without giving you a look-in on what lies behind it. But I figgered I sort of had to get you winging so's I could throw the rope onto you proper. Boys, we've knowed Parson Hollingshed, man an' boy, for ten years. We've seen him dealing fair from the top of the deck everything he's got&#8212;a little Methody, a smattering of hard-shell Baptist for them as favors their religion stiff, now an' then a four-flush of Episcopal to draw to: 'most every sort of hand except Mormon, which he don't savvy. For ten years he's nussed our wuthless souls, snatching us bald-headed outa sin&#8212;and we returning nothing but a thin white chip in the basket on a Sunday, now and then. Now the parson wants a church&#8212;a real church 'stead of the hotel parlor; an' he's going at it fair. He and Miss Brownie Small and some of the best young ladies in Two Moons, they're aiming to give us a play for our church building contributions; besides which, to bring a
+    
+<cb n="3" />    
+    
+little learning and culture to this town in the shape of a highly elevating opery. Which Two Moons sure needs, it being all bound round by horned cattle and bad whisky.</p>
+
+<p>"So I give my word to Parson Hollingshed I'll round up a bunch of singing larks for his Queen Esther show. An' here we are, all present or accounted for. Any son-of-a-gun what makes to climb outa the branding-pen on this proposition has got to fight Dime Dessart."</p>
+
+<p>He stood there before the door, hand carelessly propped on hip, chin a little out-tilted, and broad mouth playing to the humors of a teasing smile&#8212;that smile which had won for Dessart the heart of the big country, lifted him from the range saddle, and placed him in the watchman's seat before the fane of law.</p>
+
+<p>IN that little figure, bandy-legged, thin-waisted as a woman, but instinct with the lithe strength of the mountain cat, was compacted some ineffable quality of command potent to reinforce that quizzical parting of the lips and play of fun in the eyes. Sheriff Dime Dessart of Grey Bull was all silk over steel. In this instance of the beguilement of his fellows by narrative art&#8212;snaring victims by the appeal of an age-old story tricked out in the vernacular of the cow country&#8212;the feel of steel under silk was not to be escaped by them. The six who faced him shifted uneasily on their feet, passed anxious looks one to another.</p>
+
+<p>"Say, Dime"; it was Shinnery Luke. "You mean to say we gotta trick ourselves out like Ogalally squaws and sing&#8212;sing at the whole of Two Moons a-setting there in the benches and boxes and glaring acrost the lights at us?"</p>
+
+<p>"There'll be twenty of us onto the stage to pick from, Shinnery. Most likely your fatal beauty'll get by unnoticed."</p>
+
+<p>Guffaws that overwhelmed the lanky foreman of the Hashknife herd were first
+    
+<cb n="4" />    
+    
+signs of a general surrender. Only Timberline Bodie, of a sudden conscious of the menace of his height in the light of King Ahasuerus' repartee, held out for terms.</p>
+
+<p>"Who's the poor geezer what gets hung in this piece?" he cautiously inquired. Then, seeing the measuring eye of Dessart upon him, he hastily denied: "No, you don't pick me for that Haman rooster! I'll not get strung up on a fifty-foot gallows for to help build a church nohow. No, sir; not me!"</p>
+
+<p>The rebellion became general. Strive as he would to assure that the opera's big moment would be rendered perfectly safe for the star interpreting it, and argue as he might that the hanging scene would reflect tremendous credit upon the victim, Dime could not overcome common prejudice. They were all willing to make goats of themselves for a good cause, even to wear foreign clothes and make themselves out to be Persians, if it came to that; but blest if any one of 'em was going to be hung&#8212;even safely hung. No sense in spraining one's luck that way.</p>
+
+<p>The round of drinks sealing faith with the sheriff left only this problem to be faced: a competent and complaisant Haman was missing from the cast of "Queen Esther." Not only must the sheriff of Grey Bull find a Haman who could sing, but a Haman who could be hung. The singing eligibles of Two Moons, during this winter season filled with idle men from the ranges, were many; the hanging candidates woefully sparse.</p>
+
+<p>SO Dime's report of success to Miss Brownie Small had to be qualified in one particular.</p>
+
+<p>"A course we could cut out that hanging scene," he admitted tentatively, as he sat stiffly on the edge of the haircloth sofa in the Small parlor. "But I reckon that would be powerful disappointing to Two Moons folks. Even them as has no ear for music would give up two dollars cheerful to see a hanging&#8212;even what you might call a imitation hanging. But, you see, the boys look onto it as bad luck to get
+
+<pb n="Page 5" xml:id="ew.issue.19160821.p005" />
+
+<cb n="1" />
+
+strung up, allowing as you may for it being something short of the genuine. What's more, none of 'em wants to play the villyun, which same this Haman gent sure was."</p>
+
+<p>"Oh, that's all right, Mr. Dessart," chirped the competent musical director of "Queen Esther." "Just wait till <hi rend="italic">I</hi> speak to some of the boys at the first rehearsal."</p>
+
+<p>No surer summation of Miss Brownie Small's character than that emphasized <hi rend="italic">I.</hi> That sturdy member of the alphabetical brotherhood was grasped by her pudgy little hand at its shank and swayed as a scepter over a cowed kingdom in Two Moons. Heads of devoted courtiers were rapped by it in regal caprice, obstacles in the path of imperial will brushed aside by its single sweep. It laid rivals in the discard.</p>
+
+<p>Did Two Moons, all unconscious, lack a Literary Society and Saturday Night Debating Club? Brownie Small provided. Was there absence of the tender influence of music outside the somewhat raucous and unrefined confines of the Star saloon and theater? Brownie Small straightway to the front with the Two Moons Society Orchestra, of which the projected "Queen Esther" was the logical sequence. A dynamo under a top-piece of fluffy gold was she. Power lay in the pert upward tilt of her adorable nose, in the quick, bird-like flick of her eye, now roguish and inviting, now scorching with scorn. Her tongue could promise heaven and condemn to purgatory. Plump little, bouncing lit tie Brownie Small&#8212;the prickly-pear of Two Moons.</p>
+
+<p>The sheriff of Grey Bull, who feared no man, possessed himself not at all in the presence of Miss Brownie Small, one- twenty-two in her beaded moccasins, and with her eyes, oh, so quick on the draw!</p>
+
+<p>BUT, for once, the power of Two Moons' tyrant failed to command. That was the occasion of first rehearsal, three days after Dime's round-up of the needful strays in the Silver Bit's back room. The place was the "ladies' parlor" of the Bald Eagle Hotel, Two Moons' justly pride-worthy hostel.</p>
+
+<p>Parson Hollingshed was early at rendezvous. He circulated among the scared candidates huddled about the parlor door, reassuring each stiffly starched singer-elect with heartening words. A majority representation of the Two Moons Society Orchestra&#8212;three violins, a cornet, a French horn, an accordion, and a snare drum&#8212;sifted into the room and cloaked embarrassment by a great show of setting up music-racks and plucking of fiddle-strings. Mrs. Horatio Stauffer, <hi rend="italic">veuve,</hi> lady boniface of the Bald Eagle, was lifted to the fretful anxiety of a brooding hen by all this bustle of the impending event. She bobbed her head into the parlor a
+    
+<figure n="illustration">
+<head></head>
+<p>"Then was the 'ladies' parlor' of the Bald Eagle vocal with strange dissonances and the noise of strong men at labor."</p>
+<figDesc></figDesc>   
+</figure>    
+
+<cb n="2" />
+    
+dozen times to inquire solicitously "if everything was all right." Parson Hollingshed's assurances only excited her the more.</p>
+
+<p>IN bounced Brownie Small, a heavy music roll under her arm, and at her skirts ladies-in-waiting&#8212;less dynamic sisters who were content with her shepherding in social affairs. At her appearance hands suddenly became too large for pockets, and conscious feet covered incredible acres of floor space. Miss Brownie rewarded her waiting henchmen with a general largess of smiles, then immediately captained her forces. With little tugs and pats she lined the waiting male victims against the wall; her music roll then spawned thick sheaves. Down the line she skipped, slipping into reluctant hands scores of "Queen Esther."</p>
+
+<p>"Now, Buck, you're a Captain of the Guard. You, Bill Younger, you clumsy old yearling, you're First Seneschal of the Palace; and you want to let out that steam-whistle bass of yours when you sing the song to the headsman's sword. Sheriff Dessart,"&#8212;this with a mock bow of respect,&#8212;"you're King Ahasuerus; I'm making you a perfectly dandy crown out of my old work-basket&#8212;all gildy and shiny. Jinks Moseby! Come out from behind that portière, you Jinks man, for you're to be Mordecai; that tenor of yours'll just stampede the house. Here, you and you and you, soldier parts&#8212;just <hi rend="italic">umpah-umpah</hi> in the chorus, while Cissy and Phronie and M'liss, here, are throwing paper flowers for you to walk on."</p>
+
+<p>Brownie Small was chattering like a magpie to cover her strategy. Soon the parts were all distributed&#8212;all save one. This she held high above her head, like a prize for a good child.</p>
+
+<p>"And the best part of all&#8212;the star part&#8212;I'm saving for the handsomest man in Grey Bull County. Timberline Bodie, step forward and take the part of Haman."</p>
+
+<p>Timberline leaped in his place as if bored by a .45. His eyes roved. His face twitched and reddened.</p>
+
+<p>"Er&#8212;Miss Brownie, ma'am&#8212;I&#8212;well, now, fact is, Miss Brownie, just come up here to-night for to tell you I can't tie onto your show outfit." Timberline gulped deeply. "Fact is, Miss Brownie, I'm figgerin' on staging out to Casper right soon. Maybe to-morrow&#8212;yes, I reckon it's got to be to-morrow. Seven small brother's children&#8212;I mean, my brother's seven small children kicked in the head. Leastwise, my brother he's kicked in the head by a loco steer, an' seven sma&#8212;"</p>
+
+<p>"Timberline Bodie, look me in the eyes when you're telling that lie!"</p>
+
+<p>Brownie's wrath was lightning, and the giant winced under it. But he continued to mumble about the shocking bereavement of his brother's seven
+    
+<cb n="3" />    
+    
+small children as he searched for his hat.</p>
+
+<p>"Don't you dare move out of this room, sir!" Her glance impaled him. "I'll 'tend to your case presently. Chick Mather, I've got you down as a soldier; I'll move you up to Haman because you're a dear boy and I love you so."</p>
+
+<p>"'Scuse me!" the unmannerly Chick blurted out. "I reckon soldiering's good 'nough for Chick. He's not wishful for to sprain his luck none with no imitation hanging."</p>
+
+<p>Brownie stamped her little foot. Tears of anger and hurt pride were in her eyes. As her glance ranged down the row of her once lethal knights, rebellion flickered from veiled eyes; she could read the lie each one was framing against his nomination for the dreaded part. Seeing her authority slipping thus,&#8212;monstrous betrayal!&#8212;little Miss Brownie had recourse to the saving policy of rulers over kingdoms broader than Two Moons: she stifled her wrath and went ahead with the rehearsal, postponing until the morrow all proscriptions and punishments.</p>
+
+<p>Then was the "ladies' parlor" of the Bald Eagle vocal with strange dissonances and the noise of strong men at labor. Mrs. Horatio Stauffer, in the hallway just outside the closed door, and sundry idlers before the glaring front of the Star saloon and theater across the street, had ample reason to fear for Two Moons' waning day of primitive innocence and the advent of culture.</p>
+
+<p>AFTER he had escorted Brownie Small home at the rehearsal's end&#8212;no solo part, that, but one of an octette&#8212;Dime strolled past the jail on his way to his rooms over the Tin Front Emporium. This was a custom of his: to give the jail a good-night inspection, whether it held prisoners or not. Such precaution seemed to make for a nicety of professional zeal. He had but turned the corner of the keep, and was striding into the shadows where the jail yard debouched upon Prairie Dog Creek, when a flicker of song came to his ears:</p>
+
+<lg><l><hi rend="italic">"La vie est vaine:</hi></l>
+
+<l><hi rend="italic">Un peu d'amour,</hi></l>
+
+<l><hi rend="italic">Un peu de haine&#8212;</hi></l>
+
+<l><hi rend="italic">Et puis&#8212;bonjour!"</hi></l></lg>
+
+<p>Dime did not understand the words, but the sobbing sorrow in the voice arrested him, struck into his quick sympathies. Tenor it was, sweet and bell-clear as the whistle of quail.</p>
+
+<lg><l><hi rend="italic">"La vie est breve:</hi></l>
+
+<l><hi rend="italic">Un peu d'espoir&#8212;"</hi></l></lg>
+
+<p>Sad and moving, this shadow voice in the dark, coming from nowhere and losing itself in the thickets beyond the creek. Dime, in whom love of music was strong as love of sunlight, was wholly ensnared.</p>
+
+<p>It was the Frenchman, of course&#8212;the crazy Frenchman, sole occupant of the jail. He had a way, this Frenchman, of singing most unseasonably. He had sung in court when Judge Bain was in the midst of passing sentence upon him. "Thirty days more for contempt of this court," the old Judge had snapped. The crazy Frenchman&#8212;why, he laughed!</p>
+
+<lg><l><hi rend="italic">"Pour y dancer le cancan</hi></l>
+
+<l><hi rend="italic">Ou le Robert Macaire&#8212;</hi></l></lg>
+
+<p>"<hi rend="italic">Pouf!</hi>" A snap of the Frenchman's finger, and near approach to apoplexy on the part of Judge Bain.</p>
+
+<p>"Sixty days for contempt of this court, besides sixty for intoxication and resisting arrest!"</p>
+
+<p>"<hi rend="italic">Pouf! Pouf!</hi>"</p>
+
+<p>The crazy Frenchman&#8212;a stray off the big range, who came no man knew whence, and who, sober, was a tight-lipped gentleman, but, drunk, a flooring, devil-taunting bacchanal&#8212;Two Moons' private pride and judicial bugbear. Staying guest of
+    
+<cb n="4" />   
+
+<figure n="illustration">
+<head></head>
+<p>"'Miss Brownie Small, meet my friend, Mr.&#8212;Mr.&#8212;'"</p>
+<figDesc></figDesc>   
+</figure>
+    
+Grey Bull County, this same singer of soulful ballads and rowdy break-downs. He even sang when sober, as sober he must be this night, with two full weeks of his four months' sentence behind him.</p>
+
+<p>Dime listened, and the spotlight of a great inspiration fell upon him. He walked swiftly to the jail door and let himself in. The song in the dark abruptly ceased.</p>
+
+<p>Shinnery Luke, haply met over beef and beans in the Bon-ton next noon, was called into council by the sheriff. When he had heard the fruit of last night's inspiration, the Hashknife's foreman gravely tugged at his mustache and undertook judgment.</p>
+
+<p>"WELL, sir, when you've got a bad bronc in your <hi rend="italic">remuda,</hi> and you've dragged it outa him and larruped him to a whisper, you don't go and pen him up in a corral by hisself so's not to offend the rest of your bosses by mixing him in. Folks is mighty like hosses; only sometimes they're shy on charity. They say a bad bronc, like this here crazy Frenchman, must be corralled off to hisself, so's they're not to be made catching of his wickedness. Consequent the bad bronc stays bad&#8212;or gets worse. You ask me 'bout this Parleyvoo, and I says gentle him some and he'll be so surprised he'll forget he's bad. What's more, you'll save the fetchin'est scene in the whole show by so doing. And, by the way, did you break it to him easy&#8212;'bout the hanging business?"</p>
+
+<p>Dime laughed shortly.</p>
+
+<p>"He broke it to me. No sooner did I say 'Queen Esther' than he pops back with, 'Haman.' Knows all 'bout this opery, who wrote it, and especial what happens to Haman. 'I'll consider it an honor to make a Roman Fourth o' July for Two Moons,' he says in that laughing, double-meaning way he has; though what in time a Roman Fourth o' July is I pass up. 'The pleasure of being hung before a discriminatin' audience,' he says, 'discounts the inconvenience'&#8212;or words to that effect. Only there's a sort of silent laugh behind each word, like he's sticking you with a knife you can't see."</p>
+
+<p>"Just his way," Luke put in. "Somewhere back in that Frenchy's life he et some sort of loco weed outa a book, and he's been rollicky ever since. But I say he's the proper caper for this Haman trick, if you can smooth little Brownie to stand for it. He's got a first-class figger for a gallows."</p>
+
+<p>Brownie Small, next sought, received Dime's intelligence with a curious gleam, part mischief, in her eyes. Of that
+
+<pb n="Page 6" xml:id="ew.issue.19160821.p006" />
+
+<figure n="illustration">
+<head></head>
+<p>"She ran straight to the Frenchman. 'No&#8212;no! You shall not! I'll not have it.'"</p>
+<figDesc></figDesc>   
+</figure>
+
+<cb n="1" />
+
+tolerant West, now passing, was she: that West which counted misdemeanor, short of murder and cattle-thievery, merely a mood, and its perpetrator one to be laughed back to sanity rather than chastened.</p>
+
+<p>"I'm sure he'll be a spirited Haman," she said, with a laugh.</p>
+
+<p>"Not so long as I ride herd on him he won't," Dime vouchsafed with gravity. "That's what he's in for&#8212;being too spirited."</p>
+
+<p>Nor did Dime understand the reason for the rippling laugh that followed his declaration.</p>
+
+<p>The sheriff found it in no way incompatible with the responsibility of his office to maintain the rigors of punishment and still provide the cast of "Queen Esther" with a necessary Haman. He escorted the Frenchman to the next rehearsal, solemnly covering the distance between the jail and the Bald Eagle Hotel with a hand laid in the crook of the prisoner's arm. Main Street, quick to hear the report of the emergency Haman, and approving both the sheriff's latitude and choice, greeted them cordially on their way. The Frenchman, shaved to a marble blue, carrying his head high and his shoulders jauntily, accepted the rough salutes from saloon front and post-office corner with that enigmatic smile which cut like a knife you couldn't see.</p>
+
+<p>"Miss Brownie Small, meet my friend Mr.&#8212;Mr.&#8212;" Dime, at the door of the rehearsal room and attempting an easy introduction, boggled.</p>
+
+<p>"Bayard," his prisoner was quick to supply, and he bent low over the plump little hand that went out to him in naïve impulse of charity. "Always Bayard, mam'selle; never anything but Bayard."</p>
+
+<p>THERE was no restraint on either part, then or when the Frenchman met the other girls of the cast. The men he knew&#8212;erstwhile bottle companions, some of them. That he was the staying guest of Grey Bull County weighed not at all against him in the easy social balance of these folk of the big country; the distinction lay light as a feather on the man who named himself Bayard. His smile, quizzical, a little sardonic&#8212;could it have been read aright&#8212;seemed only an index of good humor.</p>
+
+<p>Among the feminine support of Queen Esther&#8212;Brownie Small no less&#8212;there
+    
+<cb n="2" />    
+    
+was a little flutter of anticipation when he essayed his first song. He read at sight, fluently, tunefully. Indeed, it needed no practised ear to detect the trained and controlled voice, compared with which the stertorous bassos and nosey tenors of the rest of the male cast were clod-born. At his first rippling arietta Brownie Small sat with wonder in her eyes, for she knew voice values a little better than the rest; and during the remainder of rehearsal those competent members yielded ever- increasing tribute. The first-act duet, "Oh, Night of Assyria," brought her voice into apposition with his. For the first time in her reign over Two Moons, she felt a slipping of confidence. Moreover, the light in his eyes, the smile on his lips&#8212;</p>
+
+<p>"IN me behold, mam'selle, the caged linnet," the Frenchman bantered, in an interval between songs. "They say the caged linnet he sings mos' better when he sees the lady of his species&#8212;the free lady bird&#8212;approach his prison. Me, I am content to be caged, if only that lady bird do r-remain to inspire."</p>
+
+<p>Which left little Brownie Small breathless and a bit shaken. The courtiers of her train&#8212;the Timberline Bodies and Jinks Mosebys&#8212;spoke no such language as this. Another shock, a bit more baffling&#8212;just as the rehearsal was over, and Dime was hovering by the door to claim his prisoner. The Frenchman leaned a little toward her, and his smile was wholly disarming.</p>
+
+<p>"I ap-prehend, mam'selle," he said, "it is not so much for the performance of my voice&#8212;so little as that may be&#8212;as for the performance of my neck I am valuable, even in the least, to this your so excellent entertainment. Both, mam'selle, I lay at your feet."</p>
+
+<p>Rehearsals progressed. "Queen Esther" slowly materialized from nebulous chaos, what though Jinks Moseby's Mordecai had a tincture of the plains of Wyoming rather than of Media, and Seneschal Bill Younger could never quite set "Ahasuerus" to tune, however patiently prompted.</p>
+
+<p>"No white man's expected to get the right twist to a Washakie name like that," was Bill's defense, "to say nothin' of singing it."</p>
+
+<p>The matter of costumes came to engage the Queen and her maids. Orders sent by stage down to the nearest railroad town brought mysterious bales of gaudy
+    
+<cb n="3" />    
+    
+cheesecloth, tinsel, paste jewels, and gewgaws essential to the establishment of an Oriental court in the heart of Wyoming. At rehearsals there was much fitting, snipping, and thimbling of vestures draped below blushing ears.</p>
+
+<p>Twice Brownie Small had to visit the jail, chaperoned by the vigilant sheriff, to consult with Haman upon some pressing detail, musical or sartorial. On these occasions growing puzzlement in the sheriff's breast over the attitude of an adored one vis-à-vis the prisoner of Grey Bull became a poignant hurt. He carried his doubts to Shinnery Luke, old pal of the trails and many years' confidant.</p>
+
+<p>"It tots up to me like Miss Brownie's sort of building pretty close 'longside this crazy Frenchman," he ruefully mourned. "Which it isn't what you'd call reg'lar for a young woman to do."</p>
+
+<p>"M' son," Shinnery Luke admonished out of his venerable experience, "didn't you never see the smartest filly in a string of boss animals make up to a plain Panhandle mule? Just 'cause he's different&#8212;'cause he's got longish ears an' a tossel onto his tail; that's the attraction."</p>
+
+<p>With which parable Shinnery Luke considered Dime's doubt expunged.</p>
+
+<p>The Star Theater was given over to dress rehearsal on the day before the prémière. It was Dessart himself who undertook the construction and arrangement on the stage of a certain property of the set. Not without a sense of grim satisfaction did he superintend the building of the gallows&#8212;that interesting adjunct to the tableau which all Two Moons awaited on the <hi rend="italic">qui vive.</hi> His quiet enthusiasm was shared by all the male cast, whose eyes had been no less acute to the development of events.</p>
+
+<p>The opera's four acts were spun through without a hitch; then came the moment of the final tableau. Dime approached the Frenchman with the ingenious harness and snap buckle designed to protect Haman from too realistic by-effect of the great hanging scene.</p>
+
+<p>The subject was standing near Brownie in the wings. Under the plush and tinsel cap he wore, his sharply etched features took on a dignity and patrician fineness at variance with their usual sardonic mold. A submerged man was heating back through oblivion; the eyes told it. He saw the sheriff approaching with the halter, and bent swiftly over the girl.</p>
+
+<p>"My queen," he hurriedly whispered, "<hi rend="italic">voilà</hi> the moment of my sacrifice&#8212;for you!"</p>
+
+<p>The trial tableau was technically a triumph; but little Brownie Small, huddled against a faded back drop, would not look.</p>
+
+<p>The great night followed a day of feverish anticipation. All Two Moons and the country round about, even down to the home ranches on the Crazy Squaw, rose to the lure of the great event. When the Society Orchestra struck up the overture down in the little rat pit below the kerosene footlights, there was not an inch of standing room in the theater, and in the adjacent bar disappointed would-be spectators were noisily anesthetizing their grief.</p>
+
+<p>UP went the curtain on Mordecai's home. A lovely Esther sat carding wool, warbling of domestic joys. "Ah-h-h!" breathed the house in rapturous delight, then settled itself to the enjoyment of the evening.</p>
+
+<p>Voluminous the applause when Mordecai entered to prepare his fair ward for the visit of the great king.
+    
+<cb n="4" />    
+    
+Feet pounded the boards and shrill whistles carried the affection of Two Moons to its beloved sheriff, effectually disguised, save for his essentially characteristic legs, under the trappings of a king of kings. Dime forgot his cue line, stared wildly about the stage, and, finally catching the hummed hint from Esther, launched boldly into "Beauteous Maid, Flower of My Kingdom."</p>
+
+<p>But it was upon Haman that the audience bestowed breathless attention&#8212;that dazzling, radiant Haman, whose voice was liquid as the plashing of water and whose every gesture charmed. How he sang, this crazy Frenchman, this unknown waif from the back country over the Big Horns, inciter of bar-room brawls, scoffer at justice, finger-snapper&#8212;oh, how he sang! But wait; the big moment was yet to come: this crazy Frenchman gets hung in the last act.</p>
+
+<p>THE fourth curtain dropped on Haman's abysmal fall, and the amateur stage-carpenters were pounding on the center set for the ensuing tableau. Up went two square beams, a topping piece across. Dessart himself tucked his kingly robes knee-high and climbed up a ladder to adjust the rope. The chorus fidgeted in the wings, eager as the packed house beyond the curtain for the dénouement.</p>
+
+<p>The Frenchman lolled against one scaffold beam, his eternal smile appearing a little wry against the chalk white of his make-up. Dessart approached to adjust the harness under his robes. Then came a little cry, and out of the wings bounded Brownie Small. She ran straight to the Frenchman, and fended the dangling halter with a quick sweep of her arm.</p>
+
+<p>"No&#8212;no! You shall not!"</p>
+
+<p>The Frenchman's eyes leaped to her face; they were, wonderfully alight.</p>
+
+<p>"I'll not have it&#8212;there'll be no hanging scene. Everybody to your places, and sing the final chorus as if&#8212;as if he was&#8212;up there."</p>
+
+<p>"But, Miss Brownie," Dime put in stutteringly, "they&#8212;they all expect a good hanging scene. That's what they paid their two dollars for."</p>
+
+<p>The Frenchman's hand dared to steal down a fold of the regal garment so near his side, to grope and find a little hand. Cold fingers closed over his, gripping tightly. "Please&#8212;not to disappoint. I am willing," he whispered.</p>
+
+<p>That which had tortured Brownie Small during all the performance&#8212;ever since that trial tableau at dress rehearsal&#8212;now took its toll in a gust of hysteria.</p>
+
+<p>"No&#8212;no&#8212;no! You'll not shame him! You'll not make this man a show for all the town to gloat over. Because I&#8212;I&#8212;"</p>
+
+<p>She whirled about and, before them all, hid her streaming eyes in the folds of the tunic on Haman's breast. An arm slowly lifted about her. A curly golden head snuggled even closer, and&#8212;</p>
+
+<p>From beyond the curtain came the stamping and calls of an impatient audience waiting to see Haman hung.</p>
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+    
+<pb n="Page 7" xml:id="ew.issue.19160821.p007" />
+    
+<text type="nonfiction" xml:id="herendeen.19160821">
+<body>
+    
+<head type="main">These Women Rule the U.S.A.</head>
+<byline>By <persName type="author" key="#Herendeen, Anne">Anne Herendeen</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from R. T. Dooner.</ab>
+<p>Mrs. William Cochran's success is worthy a place in the "Elsie Books." She was on time for 365 mornings the first year she had a job, and on the 366th they made her manager.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Campbell Studios.</ab>
+<p>Miss Emma Ottnian will probably be in Paris when you read this. She'll come home with enough new styles to insure husbands steady work for a year.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>Handling more blouses than any one else in the country is Mrs. Mary Haughan's claim to fame. Can one be found composed of equal parts of pale pink chiffon and patent leather? We don't know; but if there is such an animal Mrs. Haughan has it.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>Miss Isabel C. O'Donnell rules the dressmaking department of a big Philadelphia store&#8212;the city where a mere man once dared to ring the Liberty Bell.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from E. B. Kirkwood</ab>
+<p>They may call a jacket a yacket in St. Paul, but they know clothes&#8212;thanks to the benevolent dictatorship of Mrs. Genevra Edgington.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+
+<p>YOU can prove it by algebra. The Paris buyers of our department stores rule American women; and (at least, every foreigner says so) American women rule American men; therefore the half dozen women pictured on this page undoubtedly are the rulers of the U. S. A.</p>
+
+<p>Four times a year they go to Paris; for style comes from Paris. They see all the latest triumphs of the great masters of style. Lovely mannikins pivot before them. Then, before making many decisions, from the couturiers' show rooms they go to the races, to see what the fastidious Frenchwomen are wearing. It is then that they begin to settle the fates of the woman in Dayton and Bangor and Oshkosh and Napoleonville.</p>
+
+<div1><head type="sub">What They Say Goes</head>
+
+<p>THE American buyers bring back a few original models, of course, which are snapped up at once by the "upper ten"; but the backbone of their job consists in acquiring garments that can be adapted and copied in cheaper materials at moderate cost by the shops that can not afford ocean trips; for their buyers watch the big stores as Tabby does a mouse, and, in their turn, copy the Paris copies. Women in Fort Wayne, Indiana, go to Chicago to find out what's what, and women from Huntington, Indiana, go to Fort Wayne. Thus, from the single fact that one of the women on this page went abroad with her eyes wide open and unlimited credit behind her, the wave of a new fashion has been created which inside of a few weeks will have penetrated into the four corners of every State.</p>
+
+<p>In spite of the astonishing growth of the sale of ready-made garments, there are thousands of women, of course, who make
+    
+<cb n="2" />    
+    
+all their own clothes, as well as more thousands who depend on the home dressmaker. But they all watch the shop windows and the fashion books and the other women; so there is no getting away from the power of these uncrowned queens of dress. What they say goes. What they frown on curls up and dies.</p></div1>
+
+<div1><head type="sub">Who Are They?</head>
+
+<p>WHERE did these buyers come from? How did they gain their firms' confidence to such an extent that their signatures are good for thousands of dollars at any moment abroad? Who are they, anyway, that American femininity, almost to a woman, should so unquestioningly abide by their judgment?</p>
+
+<p>Mrs. William Cochran, of John Wanamaker's, New York, came from Philadelphia, where her word was law in the smart set. She started three years ago at eight dollars a week, and always got there when the store opened. At the end of her first year she was asked to become the manager and buyer of the dressmaking department. She proceeded to reorganize and develop the department, which had always shown a deficit, and at the end of her first year she had it on its present dividend-paying basis.</p>
+    
+<cb n="3" />
+
+<p>Miss Emma Ottman, now head of the costume department of James McCutcheon &amp; Company of New York, brought long business experience to her latest task. She had grown to understand women thoroughly.</p>
+
+<p>Mrs. Mary Haughan learned the beginnings of big business at first as cash girl and then as fur saleswoman in Chicago. Then she came to New York and found an opening with Siegel-Cooper, and it was during her experience there that she learned the value of percentages, a trade knowledge which leads to the ability of making quick turns and handling big volumes of business. Mrs. Haughan is now in the Gimbel shop, where she has built up the biggest blouse department in the city, in addition to being in charge of all the French importations.</p>
+
+<p>Miss Isabel C. O'Donnell, of the dressmaking department in a big Philadelphia store, insists that there is nothing thrilling in her career&#8212;quite overlooking, apparently, her frequent trips to Paris during the war. She has a simple explanation for her successful career. When she was small, it seems, she always wanted to make lovely clothes for ladies. Now she does it!</p>
+
+<p>There is the case of a woman buyer who built her record
+    
+<figure n="photograph">
+<head></head>
+<p>Mrs. Louise Ralston has sold clothes, made clothes, written about clothes, and bought clothes&#8212;thousands of dollars' worth of them. Now she is syndicating clothes designs.</p>
+<figDesc></figDesc>
+</figure>   
+
+<cb n="4" />
+    
+as a saleswoman on three words: "Smart, isn't it?" There was something about the way she made the remark. It was as if she were sharing a very important secret with you because you alone would appreciate it. St. Paul has a buyer like that, who is at the same time a designer&#8212;Mrs. Genevra Edgington. Mrs. Edgington went to Minnesota from Chicago, where she had learned how to tell the customer who wants to be advised from the customer who does not.</p>
+
+<p>Mrs. Louise Ralston started among the petticoats and peignoirs of a Philadelphia shop. She was soon made buyer for her department. Then Mr. Edward Bok persuaded her to write about fashions for the <hi rend="italic">Ladies' Home Journal.</hi> Mrs. Ralston apprenticed herself to a famous French designer; then she opened her own dressmaking establishment in New York; but there was one trick of the trade she had never learned, <hi rend="italic">i.e.</hi>, collecting bills from New York's four or more hundred. So she decided to let more experienced people do that for her, and became head of the French department in Wanamaker's, New York. Now she is again on her own, in the business of syndicating clothes designs.</p></div1>
+
+<div1><head type="sub">They All Have "Clothes Sense"</head>
+
+<p>IN income these women rank well up with the best paid men. Most of them came up from the department-store ranks without other equipment than a taste for hard work and that touch of genius known as "clothes sense." If you divide the feminine population of the United States by the number of Paris buyers, you discover that each woman on this page controls the sartorial destiny of four million women. Their success is a conclusive answer to the theory that there is "no chance for a girl in business."</p></div1>
+    
+</body>
+</text>
+
+<text type="nonfiction" xml:id="tagyoureit.19160821">
+<body>
+
+<head type="main">Tag, You're It!</head>
+   
+<cb n="1" />
+
+<p>THE conductor's wife scolded him over his breakfast. The irritation made his breakfast ferment. Tag, he's it!</p>
+
+<p>When you, on your way to your office, did not climb on his car fast enough, he yanked the bell-cord. The motorman jerked the car, and to save yourself from falling you clung to the neck of a fat woman with a firm footing. Your blood boiled. Tag, you're it!</p>
+
+<p>Your usual smile was missing when you reached your office. The hammering of a riveting machine on the steel framework of a building a block away crashed on your ear. Secretly, you blamed your stenographer for the noise; verbally, you asked her how she ever passed the third grade in spelling. Tag, she's it!</p>
+
+<p>Your stenographer felt humiliated. She went to lunch with her best friend, and told her the new blouse was not becoming to a fat girl. Tag, she's it!</p>
+
+<p>No telling how her best friend passed it along&#8212;how many hundreds of people
+    
+<cb n="2" />   
+    
+were tagged with irritation; and all because the conductor's wife scolded over the breakfast table.</p>
+
+<p>This is the deduction of William Vernon Backus, who tells of commonplace experiences under the forbidding title of "Making Happiness Epidemic" (Henry Holt &amp; Company).</p>
+
+<p>Instead of starting a string of grouch tags in the morning, why not start a string of smile tags? Employers and employees are beginning to realize that courtesy is a matter of cold cash, in profits to the one, in salary to the other. Thus Mr. Backus sums it up:</p>
+
+<p>The promulgation of the Golden Rule, the advocacy of the Christian virtues generally, have utterly failed to provide the remedy. The tireless efforts of the thousands of preachers and leachers have failed to lead to practical, visible results, for the reason that their appeals failed to present a sufficiently strong
+    
+<cb n="3" />   
+    
+motive to arouse individual action. This is an intensely utilitarian and practical age. To make courtesy popular it must be shown that it pays&#8212;pays in dollars and cents as well as happiness.</p>
+
+<p>The methods by which courtesy is made to pay actual pecuniary profits must be systematized.</p>
+
+<p>It became a passion with me to perfect a plan of action that should accomplish the results desired.</p>
+
+<p>First I sent out hundreds of inquiries to employers and employees. I put to employers the following questions:</p>
+
+<p>1st. Taking it for granted that you instruct your employees to be courteous in their dealings, do you consider that their compliance enhances their value to you to the extent that it would be taken into account in fixing their wages?</p>
+
+<p>2nd. If so, how do you ascertain whether or not they are courteous?</p>
+
+<p>The answer to the first question was invariably "Yes." The answer to the second question disclosed that they took it for granted that the employees were courteous unless they received complaints to the contrary.
+    
+<cb n="4" />    
+    
+Usually those against whom complaints of discourtesy were made were discharged.</p>
+
+<p>To employees I put this question:</p>
+
+<p>"Why are you not always courteous?"</p>
+
+<p>The answer was invariably along these lines:</p>
+
+<p>"It is hard to be courteous when customers are rude."</p>
+
+<p>It takes special effort to be polite under adverse conditions, and the effort seemingly is never appreciated."</p>
+
+<p>Excepting in cases of complaint, the employer does not know, or at least shows no appreciation of, the attitude of clerks toward the public. The polite clerk and the impolite clerk get the same pay.</p>
+
+<p>My experiences in former years taught me that you cannot make people courteous by punishing discourtesy. Force, threats, and punishment never breed anything but resentment and hatred. Ignore rudeness, but show appreciation of courtesy.</p>
+
+<p>If you are an employer, do you reward your clerks for increasing your profits through courtesy?</p>
+
+<p>If you are an employee, do you remember that a sullen word repressed, a genial word spoken, may pay your rent?</p>
+
+</body>
+</text>
+    
+<pb n="Page 8" xml:id="ew.issue.19160821.p008" />
+
+<text type="fiction" xml:id="ford.19160821">
+<body>
+    
+<head type="main">When Auntie Crashes In</head>
+<byline>By <persName type="author" key="#Ford, Sewell">Sewell Ford</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="Snapp, Frank">Frank Snapp</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"Say; next time I think I have a joke for Old Hickory, I'll try it on the statue of Horace Greeley first."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+    
+<p>YOU know Forty-seventh Street and Broadway, the northwest corner? Say, would you judge there was a specially foolish streak runnin' across town about there? No, I don't see why there should be; only it was exactly on that spot I was struck by the hunch that this kidnappin' act of Auntie's was a joke. </p>
+
+<p>Now, look. A freckle-faced parlor pirate with no more credentials than a park panhandler blows in from nowhere particular, and tells a wild yarn about buried treasure on the west coast of Florida. First off he gets Old Hickory Ellins, president of the Corrugated Trust and generally a cagey old boy, more or less worked up. Mr. Ellins turns him over to me, with orders to watch him close while he's investigatin' the tale. Then, when I'm gabbin' free and careless about it to Vee, her Auntie sits there with her ear stretched. She wants to know what hotel I've left the Captain at. And the next mornin' he's gone. Also on other counts, the arrow points to Auntie.</p>
+
+<p>There I was, too, on my way back to Old Hickory, figurin' whether I'd better resign first and report afterwards, or just take my chances that maybe after he'd slept on it he wouldn't be so keen about seein' this Captain Killam again. Then the whole thing hit me on the funny-bone. Haw-haw! Auntie, the sober old girl with the mixed-pickle disposition, suddenly comin' to life and pinchin' Old Hickory's find while he's tryin' to make up his mind whether it's phony or not. Auntie, of all people! More hearty haw-haws.</p>
+
+<p>WHEN I finally does drift into Old Hickory's private office and he motions me to shut the door, I'm still registerin' merry thoughts.</p>
+
+<p>"Well?" says he, snappin' it out crisp.</p>
+
+<p>"You'd never guess," says I, smotherin' a chuckle.</p>
+
+<p>"Eh?" says he, shootin' a puzzled glance at me from under them overhangin' eyebrows of his. "Who wants to guess? What about Captain Killam?"</p>
+
+<p>"That's just it," says I. "He's flitted." </p>
+
+<p>"Wha-a-at!" snorts Old Hickory. "You don't mean he has gone?"</p>
+
+<p>"Uh-huh!" says I. "Been lured away. But say,"&#8212;here I indulges in my most comic open-face movement,&#8212;"who do you suppose did the trick on us?"</p>
+
+<p>Old Hickory stares at me and waves his cigar impatient. "Go on," he growls.</p>
+
+<p>"You know Miss Vee's aunt," says I, "Mrs. Cornelia Hemmingway? Well, she's got him. Yep! Just naturally kidnapped him, I expect. I had my suspicions of her the minute I found the Captain was gone. So I chases right up there. She's out. The maid admits she went away with a party answerin' Killam's description. I wouldn't have been sure, though, if I hadn't found a map of Florida on the lib'ry table and Nunca Secos key marked on it. Now, what do you know about that? Auntie! Ain't that rich?"</p>
+
+<p>No hilarity from Old Hickory&#8212;not even one of them cracked concrete smiles of his. He just sits there glarin' at me, missin' the comedy cue altogether.</p>
+
+<p>"Young man," says he, "just a moment
+    
+<cb n="2" />    
+    
+before we get any further off the track. How did Mrs. Hemmingway happen to learn about Captain Kilian'?"</p>
+
+<p>"Why," says I, "she had her ear out while I was tellin' Miss Vee. Would you believe, though, that an old girl like her&#8212;"</p>
+
+<p>"I would," says he. "Humorous as it may seem to you, I should credit almost any one with wanting to dig up several million dollars, if they could find where it was hidden."</p>
+
+<p>"But&#8212;" I begins.</p>
+
+<p>"Besides Miss Verona and her aunt," goes on Old Hickory, "how many others have you made acquainted with what I was doing my best to keep a secret?"</p>
+
+<p>"Not a soul," says I. "Honest!"</p>
+
+<p>"Temporary paralysis of the tongue, eh?" he asks. "It's a wonder you didn't have it published in the morning papers. Quite thoughtless of you. Hah!"</p>
+
+<p>And say; next time I think I have a joke for Old Hickory, I'll go down to Thirty-third Street and try it first on the statue of Horace Greeley. If he rocks back and forth in his bronze chair and lifts the roof off the L station above, I'll know it may do to pass on to Mr. Ellins. Yep! That's just the way I feel about it.</p>
+
+<p>"I expect I'm released on this case, then?" says I, after waitin' while Old Hickory chews his cigar savage for a couple of minutes.</p>
+
+<p>"No," he snaps out. "You've succeeded in losing Captain Killam; now you'll help find him again. I'll go with you this time. Come."</p>
+
+<p>SEEMED too simple for words at first, me and Mr. Ellins startin' out to hunt New York for a batty stranger in a blue flannel shirt. By degrees, though, I got the idea. It's the competition that has stirred him up. Likely enough, he'd have turned Rupert and his scheme down cold if it hadn't been for that. But when Auntie crashes in, the case is entirely different; then he's strong for it. Settin' that time-lock jaw of his and lightin' a fresh perfecto, Old Hickory grabs his hat; and off we go, with me trailin' along reluctant. His first move is to hail a taxi.</p>
+
+<p>"Just goin' to cruise around town casual in the hopes of spottin' him on the fly, eh?" I asks.</p>
+
+<p>"Hardly," says Mr. Ellins. "I'm not
+    
+<cb n="3" />    
+    
+going to stand in the middle of Broadway and whistle for him either, or throw out a hook and line and troll. I think we will go first to Mrs. Hemmingway's, if you will kindly give the driver the number."</p>
+
+<p>He can be more brutally polite than any one I ever saw. I wasn't enjoyin' that ride so much, and it's a relief when we pulls up at the curb. I offers to run in and see if Auntie is back yet, but he won't have it.</p>
+
+<p>"Just lead the way; that's all," says he. </p>
+
+<p>"Oh, very well," says I.</p>
+
+<p>And when Hilda, the maid, has used up all her hyphenated English in assurin' us that "Meesus" is still out, I rubs it in by shruggin' my shoulders and glancin' knowin' at him.</p>
+
+<p>"Mees Verona, she coom," suggests Hilda.</p>
+
+<p>"Good!" says I. "I'd like a word with her, anyway."</p>
+
+<p>HAVING just finished her canter in the park, Vee is still in her riding togs; and, take it from me, that's some snappy costume of hers. Maybe she ain't easy to look at, too, as she floats in with the pink in her cheeks and her eyes sparklin'. Wish I could fit into a frock-coat like that, or wear such shiny little boots. Even Old Hickory cheers up a bit at sight of her.</p>
+
+<p>"Why, Torchy!" says she, holdin' out her hand. "And Mr. Ellins!"</p>
+
+<p>"Morning calls right along for me, after this," says I, sort of walkin' around her. "It's worth while."</p>
+
+<p>"Old thing!" says she. "Don't be silly. But what is the matter?"</p>
+
+<p>I glances at Mr. Ellins. "Shall I tell?" says I.</p>
+
+<p>"As that seems to be your specialty," says he, "perhaps you had better."</p>
+
+<p>"Yes, sir; thank you, sir," says I, salutin'.</p>
+
+<p>Then I turns to Vee. "Seen Auntie this morning?" I asks.</p>
+
+<p>"Why, no," says Vee. "I was up rather early, you know."</p>
+
+<p>"Not so early as she was," says I. "What do you think she's done? Jumped in on that treasure hunt I was tellin' you of. She's pinched Rupert, and by now maybe they're on their way South."</p>
+
+<p>Vee stares at me for a second, and then gives one of them ripply laughs.</p>
+
+<p>"How crazy of you to think such a thing!" says she.</p>
+
+<p>"Here's the evidence in the case," says I, pointin' to the map with the scribblin' on the side. "That's her writin', ain't it? And you remember her wakin' up and askin' questions, don't you?"</p>
+
+<p>"Ye-e-es," admits Vee; "but I'm sure she hasn't&#8212;"</p>
+
+<p>"She and the Captain are missing," says I. "That's what comes of my gettin' chatty about business affairs. I didn't dream, though, that Auntie was such a plunger."</p>
+
+<p>"I can't believe it," says Vee. "There's been some ridiculous mistake. But I can't imagine where she could have gone so early."</p>
+
+<p>"Couldn't have had time to pack a trunk, could she?" I asks. "If not, she'd be coming back sometime to-day. Shall we wait here a while, Mr. Ellins?"</p>
+
+<p>"I think I prefer a meeting on neutral grounds," says he.</p>
+
+<p>So we goes downstairs and paces up and down the sidewalk, watchin' the avenue traffic sleuthy.</p>
+
+<p>"Course she wouldn't start off without baggage," I suggests.</p>
+
+<p>"I'm not so certain," growls Old Hickory.</p>
+    
+<cb n="4" />
+
+<p>Ten minutes we waited&#8212;fifteen; and then I spots a yellow taxi rollin' up from downtown. Inside I gets a glimpse of a black straw lid with purple flowers on it.</p>
+
+<p>"Here she comes!" I sings out to Old Hickory. "Yep, that's her! And say! The Captain's with her. Quick! Dive into our cab."</p>
+
+<p>He's a little heavy on his feet, Mr. Ellins is, and someway he manages to get himself hung up on the cab door. Anyway, Auntie must have seen us doin' the wild scramble, and got suspicious; for, just as they got alongside, she pounds on the front window, shouts something at the driver, and instead of stoppin' the other taxi veers off and goes smokin' uptown.</p>
+
+<p>"Hey!" yells Mr. Ellins to our driver. "Catch that yellow car! Ten dollars if you catch it."</p>
+
+<p>And you know it's just the chance of hearin' a few kind words like them that these taxi pirates live for. This old coffee- mill that Mr. Ellins had hailed reckless could give out more groans and grinds and produce less speed than any other fare-trap I was ever in. The connectin' rods was wabbly on the shaft, the gears complained scandalous, and the hit-and-miss average of the cylinders was about 33 per cent.</p>
+
+<p>But after a few preliminary jack-rabbit jumps she begun to get headway, and the next I knew our driver was leanin' over his wheel like he was after the Vanderbilt cup. He must have been throwin' all his weight on the juice button and slippin' his clutch judicious, for we sure was breezin' some. Inside of two blocks we'd eaten up half the lead and was tearin' uptown like a battalion chief answerin' a third alarm.</p>
+
+<p>I glances at Old Hickory to see if he's gettin' nervous at some of the close shaves; but he's braced himself in one corner, his teeth sunk deep into his cigar and his eyes glued on that yellow taxi ahead.</p>
+
+<p>THEY was wise to the fact that we was after 'em, too. First Auntie would rubber back at us, and then lean forward to prod up her chauffeur. A couple of rare old sports, them two, with no more worries for what might happen to their necks than if they'd been joy-riders speedin' home at 3 A. M. from the Pink Lady Inn.</p>
+
+<p>Me, I was holdin' my breath and waitin' for the grand smash. If Auntie's driver had stuck to a straight-away run we'd either caught 'em or smeared ourselves against a beer truck or something. But after the first mile he takes to dodgin'. <hi rend="italic">Zip!</hi> he goes on two wheels around a corner.</p>
+
+<p>"After him now!" orders Old Hickory. "I'll make it twenty if you don't let him get away."</p>
+
+<p>"You're on!" says our speed maniac, and does a carom skid into a cross street that showed he didn't need any banked turns in his.</p>
+
+<p>In and out we goes, east and west and up and down; now losin' sight of the yellow taxi altogether, then pickin' it up again; droppin' behind a whole block when the traffic broke bad for us, but makin' it up when something got in the way of the other cab.</p>
+
+<p>Our gears was hummin' a reg'lar tomcat chorus, but with the throttle wide open the motor was hittin' on four most of the time.</p>
+
+<p>Talk about your chariot race! Say, if we'd had Ben Hur aboard he'd been down on the floor, clawin' the mat. Twice we scraped fenders with passin' cars, and you</p>
+
+<p rend="jumpline"><ref target="ford.19160821.jump">Continued on page 13</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 9" xml:id="ew.issue.19160821.p009" />
+    
+<text type="photograph" xml:id="fatherneeds.19160821">
+<body>
+<head type="main">When a Father Needs a Friend</head>
+<byline>Photographs by Gertrude A. Brugman</byline>
+
+<figure n="photograph">
+<head></head>
+<p>WHEN no missionary is looking, East Indian fathers still toss a girl baby or two to the hungry crocodiles in the Ganges. Because they know that one day those innocent-looking babies will demand a trousseau. A bride makes a perfectly relentless daughter. She takes her poor, tired mother shopping every morning, and they come home, just worn out, at 6.15. Brides are known to mention to the bridegroom that Miss Agnes Stein makes perfectly sweet shower bouquets&#8212;only $50.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MRS. LOUISA VAN HEMELRYK was, until recently, chief lace-maker to the Queen of Belgium, and of course her arrival in this country was just hailed with unstinted delight by American brides. Mrs. Hemelryk learned her art from her mother, who, as a girl, had learned it from her mother; and she loves her work. Her lace costs as many dollars per yard as many people earn per week; but the price is low, say the brides, when father stops to think that, working her fastest with her eye on the calendar, this artist can turn out only a quarter of a yard of wide real lace a day.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ENGAGEMENT luncheons and wedding breakfasts&#8212;other atrocities perpetrated by brides&#8212;supply Muriel Knight with her work in life. Miss Knight makes place-cards for these occasions, each one of which is an epithalamium in itself. She uses the color scheme of the wedding, and works on transparent vellum or fine white leather, so that samples of her art itemize thus for father: "18 place-cards, @ $2&#8212;$36."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE high wedding cake is at present quite out of fashion. What the bride will want this season is a low loaf shaped affair like this, built by that master cake architect, Chef Zeissler. Of course the chef doesn't make the body of the cake; that is turned out by his assistants, at 80 cents a pound, according to a recipe handed down in this particular baking firm from 1846. But the frosting! That is a different matter. It takes an artist to apply the frosting: for the frosting is to a wedding cake just what her snowy gown and veil are to the bride.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>A WEDDING gown by Mme. Atalanta Nicolaides Homer is a trifle that every bride really feels is her due; for, after all, that sort of thing is best put into the hands of a specialist. Mme. Homer will revive and rebeautify one's mother's or grandmother's wedding gown (making the 18-inch waist into the more practical 27), or she will fashion one of her own or the bride's design, for anywhere from $250 to $1000.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>A NORWEGIAN actress was recently nearly mobbed in the streets of Paris. With great presence of mind, she jumped upon a marble coping and, lifting her skirt well above her shoe-tops, cried: "Look at my feet! Do you still think I am a German?" John Azzimonti knows the real size of Bernhardt's feet and of many a notable of New York's Four Hundred, because he has fitted them. But he has never betrayed a confidence. The brides love to go to him and order the essential eight pairs (at from $30 to $60 a pair, dad).</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ONE thing more, father. Those altar cushions. Might as well have things right, you know, and Mrs. Lydie Marr makes wonderful ones. She will fix up Miss Bride with a pair of really enchanting ones that she can always keep, monogramed and everything&#8212;white satin with gold or silver lettering&#8212;for only $50. Is it any wonder that every year more and more fathers take their daughters aside as the wedding day approaches, and whisper gently: "Here, my dear, is $500. Wouldn't you and Jack enjoy a quiet little elopement?"</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19160821.p010" />
+
+<text type="photograph" xml:id="miliondollarmovies.19160821">
+<body>
+
+<head>Million-Dollar Movies</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">D W. Griffith.</ab>
+<p>WHEN Shakespeare first put on "Macbeth," along about 1606, he probably spoke to his stage manager somewhat in this wise: "Why&#8212;er&#8212;don't put yourself out at all, old man&#8212;just a caldron and a couple of green boughs for Birnam Wood. We'll have Lady Macbeth press out that white frock his wife wore at the Vicar's garden party. He'll want a candle too, and if you could make the soldiers look sort of soldiery, everything will be ripping." You couldn't get a starving Belgian orphan to stay through a piece put on like that nowadays. D. W. Griffith's production of "Macbeth"&#8212;with Sir Herbert Beerbohm Tree in it&#8212;cost about $150,000. The witches' scene alone, with its intricate electrical equipment for weird fire effects, came to $10,000.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Triangle-Ince.</ab>
+<p>THIS temple for "The Captive God" wasn't built in a day, any more than Rome was. Its construction took a number of weeks, since it was an exact reproduction of the original, even to the bas-relief work of the exterior. "Some temple" the producer pronounced it. It had cost him $10,000. The entire production of this play came to $60,000, we are told.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Thomas J. Ince.</ab>
+<p>REAL war ought to stop pretty soon out of sheer inability to compete with reel war. Soldiers back from France or the Far East tell us that war is hell because of its terrible monotony. What makes the trenches so hideous is, not the proximity to death, but the days and weeks of mud and inaction. All the delightful trappings of war, the drums and banners and thrilling charges and artful reconnoitering, have&#8212;like almost everything else&#8212;gone over to the movies. And there is one exclusive reason why reel war is the only kind: no one there will ever be&#8212;reelly&#8212;killed.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"><unclear reason="covered"/></ab>
+<p>IF you have an uncontrollable desire to produce a million-dollar "film miracle," take a popular romantic story with plenty of thrills, suspense, and heart interest in it. "Little Bo-Peep" would be a good one. Get Billie Burke to play "Bo-Peep." She will do it&#8212;if you spin out the story far enough to guarantee her six months' consecutive work, at $4000 a week. Of course you would have to devise scenes&#8212;showing how Bo-Peep put in her time waiting for her sheep to come home&#8212;where
+Billy could wear $50,000 worth of gowns and about a hundred different pairs of shoes and hats. In "Gloria's Romance" she never wore the same gown more than ten minutes; and this vase was a $200 item.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Clune Company.</ab>
+<p>ABOUT 126,000 people buy Helen Hunt Jackson's "Ramona" every year, which is going some; but 170,000 got acquainted with the tragic tale within ten weeks after it appeared on the screen. Two hundred and fifty thousand dollars is what this film cost the producers, the monastery pictured here being a $10,000 item. The production represents eight months' work of the entire force of a large studio. Many of the scenes were reproduced on the exact spots in California described by the author, and 500 of the 1800 scenes were specially built for this play.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Fox Film.</ab>
+<p>JUST for fun we picked out the very least expensive one of all the "stills" submitted to us from the million-dollar production&#8212;"A Daughter of the Gods." Here is a lot of the Caribbean Sea, perfectly free. Ditto sky and air. As for the mermaids' costumes&#8212;very, very reasonable, we are sure. Of course, it cost something to transport them to Jamaica from New York, but they more than paid for their passage by acting as marshals of the 10,000 native blacks used as "supes." Each mermaid had under her direction 250 natives.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 11" xml:id="ew.issue.19160821.p011" />
+
+<figure n="photograph">
+<head></head>
+<p>THE high cost of preaching began with the dramatization of Hudson Maxim's preparedness book, "The Battle Cry of Peace." Then came "The Fall of a Nation," with more of the same expense for guns, hundreds of "extras" in the way of soldiers and citizenry, and a costly array of things for them to demolish. Next on the list is Thomas Ince, who used up 200,000 feet of good film for "Civilization," from which this battle scene is taken, embodying all the arguments against militarism. And now next month comes "The Battle Cry Of War," with all the pro-fight arguments done over again still more expensively.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Vitagraph.</ab>
+<p>IT was the salaries of thousands of men used in the battle scenes that ran the cost of "The Battle Cry of Peace" up into the hundreds of thousands. Five dollars a day is what you got if you were a good villainous invader, and if you took the part of the vanquished American soldier (it is rumored) you insisted on being paid twice that. Here again is where reel war has it over the other kind. You get paid, in both, for being killed; but after a moving picture engagement, in which you have been mown down and Red-Crossed and properly buried, you knock off at five o'clock and go home to carve the pot roast for your family.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Triangle-Ince.</ab>
+<p>SODOM and Gomorrah, of course, went up in smoke on account of their extreme wickedness; but this town hadn't done a thing when a motion picture company destroyed it. It hadn't had time to do anything, because it had just been built by the same company. "Hell's Hinges" had to be made realistically, so this little mining town was put up and burned right down again, at a cost of about $6000. The whole production meant an outlay of $50,000.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">National Photo-Drama Corporation.</ab>
+<p>SAFETY second! Here we are tête-à-tête with one of the famous "caterpillar guns"&#8212;which cost, even in this paper facsimile, $10,000. Thomas Dixon opined that it would take four of these fellows effectively to put the "Fall" into "The Fall of a Nation." They were all brought on at the same time, too. Six hundred thousand dollars went into the production of this war picture.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Lubin&#8212;V. L. S. E</ab>
+<p>THE director of "The Gods of Fate" must have been the kind of small boy who left his new coaster-brake bike out in the rain the second day he had it. See what he has done with the two nice new $5000 engines the producer bought him! Smashed them all up completely the first thing. "The Gods of Fate" registered $40,000 on the debit side of the ledger.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Triangle.</ab>
+<p>EVERY one who has written a movie scenario (and of course every one has) remembers how thoughtful he was about causing extra trouble to the producing concern. Personally, we used to locate all our five-reel thrillers in California. But the careless author of "The Corner" wrote on his script "Show Stock Exchange scene," and, lo&#8212;even at the cost of $2000 for the salaries of "extras"&#8212;it was done. Fifteen thousand dollars paid for everything connected with this picture excepting the bulls and bears.</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19160821.p012" />
+
+<text type="photograph" xml:id="weatherprofit.19160821">
+<body>
+<head>Be Your Own Weather Prophet</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Amy Sebree-Smith.</ab>
+<p>"TEN thousand dollars to any one who can fill up the Morena reservoir," was the offer from San Diego. "I'll take you," said Charles M. Hatfield. "Filling reservoirs is my business. I'm the fellow that can make it rain." So they let him go to it, knowing that the reservoir holds fifteen billion gallons, and that it never had been filled and never could be. But Hatfield filled it&#8212;at least, it's full, and he claims his chemicals and his rain-towers did the trick. Personally, we know an easier way of filling a reservoir than using chemicals. Just lay out a golf course near the reservoir: it will rain every Sunday morning and afternoon.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Ivan Gaddis.</ab>
+<p>THOSE wishing advance information as to when they had better take off the light ones and put on heavier, may have it by consulting Dr. A. B. Tarbox, whose goose-bone has for thirty-five years been predicting whether the winter would be a hard one and the spring early or late. Dr. Tarbox is a practising physician as well as a fiddler and a goose-bone prophet. The goose by whose anatomy he benefits must have been the celebrated layer of golden eggs. Its body has lain moldering in the grave for thirty-five years, but its goose-bone goes marching on, saving the Doctor many a rain-soaked suit, many a ruined straw hat.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from K. L. O'Connor.</ab>
+<p>GOOD-BY to the taxi-cab business after our million readers have read this. Why pay taxi fares when you are provided against the storm in advance? And why be unprovided when a pack of ordinary playing cards is all you need? If on the ninth shuffle, says Ray Hancock, the queen of hearts is the ninth card drawn, the month will be all lovely weather; if the king of spades is drawn instead, the first week of the month will be rainy; if the five of clubs is the card, there will be only five nice days in the month. Try this on your piano-stool; but any reader drawing the five of clubs will have his subscription discontinued at once. We've had enough rain already.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from E. R. Mook.</ab>
+<p>OUT in Milwaukee they read the government forecasts just as a matter of curiosity, and then they call up Christ Spaeth, deputy sheriff, and ask him what about it. Ever since he was fifteen years old, when his parents gave him a telescope, Christ has been studying sun-spots. Now he is as familiar with them as the average housewife is with the spots Uncle Ed made on the parlor carpet (of course he's rich and we have to be good to him, but he is <hi rend="italic">so</hi> untidy). Christ, by reading the sun-spots, can tell the weather about a month in advance. He has no rival in the city: he is the seer that made Milwaukee famous.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from H.D Howell.</ab>
+<p>WHEN Moses Jimpson gets up on his ear, it means nothing&#8212;unless it be his left ear. But if it is his left ear, look out; it may mean an earthquake, a cyclone, or almost anything. Moses was the first to predict the long drought of '97. His left ear did it. It burns before falling weather and twitches before a drought. How much circulation will we have in 1918, Joe? Rub your ear well and let us hear from you at our expense.</p>	
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from W. E. Mair.</ab>
+<p>CHARLIE FODDLE, the sage of New Jersey, gets his weather premonitions through his spine. "Runs through me just like electricity," he says. "How strong it comes and how often shows me how soon it will rain or snow or how often." Charlie turns an honest penny now and then by betting on the weather with citizens whose spines are less responsive.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from J. R. Henderson.</ab>
+<p>AND this, ladies and gentlemen, is "Scalper Bill." Scalper is a Pawnee, 102 years old, whose collection of scalps is more than three hundred, comprising splendid specimens from Sioux, Cheyenne, Omaha, Osage, Apache Indians, and several white men. When his 300 scalps grow moist, Scalper knows that it will rain within twenty-four hours: when, in the midst of a rainy season, they become perfectly dry, he knows that in another day and night it will cease to rain. A simple, pleasant method.</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 13" xml:id="ew.issue.19160821.p013" />
+
+<text type="fiction" xml:id="ford.19160821.jump">
+<body>
+            
+<head type="main">When Auntie Crashes In</head>
+ <p rend="jumpline">Continued from page 8</p>
+
+<cb n="1" />
+
+<p>could have traced every turn we made by the wheel paint we left on the curb corners. It was a game of gasolene cross-tag. We wasn't merely rollin'; we was one-steppin', fox-trottin', with a few Loupovka motions thrown in for variety. And, at that, Auntie was holdin' the lead.</p>
+
+<p>Down at Fifty-ninth, what does her driver do but swing into Fifth Avenue, right in the thick of it. That was no bonehead play either, for if there's any one stretch in town where you can let out absolutely reckless and get a medal for it, that's the place. Course, you got to take it in short spurts when you get the "go" signal, and that's what he was doin'. I watched him wipe both ends of a green motor bus and squeeze into a space that didn't look big enough for a baby-carriage.</p>
+
+<p>"Auntie must be biddin' up on the results, too," I remarks to Mr. Ellins. "There they duck through Forty-third."</p>
+
+<p>"Try Forty-fourth," sings out Old Hickory. "In here!"</p>
+
+<p>It was a poor guess, for when we hits Sixth Avenue there's no yellow taxi in sight.</p>
+
+<p>"Wouldn't Auntie's game be to double back home?" I suggests.</p>
+
+<p>"We'll see," says Old Hickory, and gives the order to beat it uptown again.</p>
+
+<p>And, sure enough, just as we gets in sight of the apartment-house, there's the other taxi, with Auntie haulin' Captain Killam out hasty. Before we can dash up and pile out, they've disappeared in the vestibule.</p>
+
+<p>"Looks like we'd lost out by a nose," says I.</p>
+
+<p>"Not yet," says Old Hickory. "I intend to see what those two mean by this." </p>
+
+<p>And after 'em we rushes.</p>
+
+<p>But the one elevator was half way up when we fetches the gate. Old Hickory puts his finger on the button and holds it there.</p>
+
+<p>"They've stopped at the fourth," says I. "Now it'll be comin'&#8212; No; it's goin' all the way to the roof!"</p>
+
+<p>THERE it stayed too, although Old Hickory shoots some spicy commands up the elevator-well.</p>
+
+<p>"No use; he's been bought," says I. "What's the matter with the stairs? Only three flights."</p>
+
+<p>"Good idea!" says Mr. Ellins; and up we starts.</p>
+
+<p>He wouldn't break any stair-climbin' records in an amateur contest, though, and when he does puff on to the last landin' he's purple behind the ears and ain't got breath enough left to make any kind of speech. So I tackles another interview with Hilda.</p>
+
+<p>"No," says she; "Meesus not coom yet."</p>
+
+<p>"Ah, ditch the perjury stuff, Hilda," says I. "Didn't we just follow her in?"</p>
+
+<p>"No coom yet," insists Hilda in her wooden way.</p>
+
+<p>That's all I can get out of her, too. It wasn't that she'd had orders to say Auntie wasn't at home, or didn't care to receive just then. Hilda sticks to the simple
+    
+<figure n="illustration">
+<head></head>
+<p>"'Hey!' yells Mr. Ellins to the driver. 'Catch that yellow car! Ten dollars if you catch it.'"</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="2" />    
+    
+statement that Auntie hasn't come back.</p>
+
+<p>"But say," I protests; "we just trailed her here. Get that? We was right on her heels when she struck the elevator. And the Captain was with her."</p>
+
+<p>"No coom," says Hilda, shakin' her head solemn.</p>
+
+<p>"Why, you she-Ananias, you!" I gasps. "Do you mean to tell me that&#8212;"</p>
+
+<p>"I beg pardon," says a familiar acetic acid voice behind us&#8212;and I turns to see Auntie steppin' out of the elevator. "Were you looking for some one?" she goes on.</p>
+
+<p>"You've guessed it," says I. "In fact, we was&#8212;"</p>
+
+<p>"Madam," breaks in Mr. Ellins, "will you kindly tell me what you have done with Captain Rupert Killam?"</p>
+
+<p>"Certainly, Mr. Ellins," says Auntie. "Won't you step in?"</p>
+
+<p>"I should prefer to be told here, at once," says Old Hickory.</p>
+
+<p>"My preference," comes back Auntie, "if I must be cross-examined, is to undergo the process in the privacy of my own library, not in a public hallway."</p>
+
+<p>WELL, there was nothing else to it. We could either stay out there and stare at the door, or follow her in. So in we goes. And maybe Vee's gray eyes don't open some wide as she views the procession streamin' in. She glances at me inquirin'. I throws up both hands and shakes my head, indicatin' that it was beyond words.</p>
+
+<p>"Now," says Auntie, liftin' her purple-decorated lid off one ear and tuckin' a stray lock into her back hair, "I will answer your question. I have just sent Captain Killam back to his hotel."</p>
+
+<p>"The Illington?" demands Old Hickory.</p>
+
+<p>"No," says Auntie. "It was my fancy that Captain Killam deserved rather better quarters than those you saw fit to provide. So I found others for him&#8212;just where, I do not care to say."</p>
+
+<p>"But he came in here with you a moment ago," insists Old Hickory, could you&#8212;"</p>
+
+<p>"I'm next!" says I. "You smuggles him over the roof and down the elevator in the next building. Wasn't that how you gave us the slip?"</p>
+
+<p>Auntie indulges in one of them lemony, tight-lipped smiles of hers. "You have exposed my poor strategy," says she; "but a little late, I trust."</p>
+
+<p>Mr. Ellins makes her a bow.</p>
+
+<p>"Mrs. Hemmingway," says he, "my compliments on your cleverness as a tactician. But I fail to see how you justify your methods. You knew that I was negotiating with Captain Killam?"</p>
+
+<p>"Oh, yes," says she.</p>
+
+<p>"And in spite of that," goes on Mr. Ellins, "you induce him to break his word to me and you hide him in another hotel."</p>
+
+<p>"Something like that," admits Auntie, squarin' her jaw. "Why not, Mr. Ellins?"</p>
+
+<p>"Why, Auntie!" gasps Vee.</p>
+
+<p>"Verona!" says Auntie, shootin' over a reprovin' look.</p>
+
+<p>"But see here," protests Old Hickory. "I was arranging with this man to fit out
+    
+<cb n="3" />    
+    
+a treasure-hunting expedition. He had made a verbal contract with me. Just because you overheard my plans, you had no right to take advantage. You can't do that sort of thing, you know."</p>
+
+<p>"Oh, can't I?" sneers Auntie, lookin' him straight in the eye. "But I have, you see."</p>
+
+<p>And that's one of the few times I ever saw Old Hickory Ellins squirm at a comeback. He pinks up some, too; but he keeps a grip on his temper.</p>
+
+<p>"Then you&#8212;you intend financing this somewhat doubtful enterprise?" he asks. "A man you know nothing about, too. Suppose he never comes back?"</p>
+
+<p>"I shall go along myself," says Auntie. </p>
+
+<p>"You?" says Old Hickory. "To dig for buried treasure!"</p>
+
+<p>"I have always wanted to do something of the kind," says Auntie. "True, I may not look like that sort of a person, and I suppose that I do lead rather a dull, commonplace existence. Not from choice, however. Once I was shipwrecked in the Mediterranean, and I found it a thrilling experience. Also I once spent nearly a week on a snow-bound train in the Rockies; I would not have missed that for anything. And if Captain Killam can lead me to genuine adventures, I am going to follow.  So there you have it! All you saw in his story, I presume, was a chance to add to your millions. The romance of the thing, the mystery of that forgotten little island with its long hidden pirate hoard, never appealed to you in the least."</p>
+
+<p>"Oh, didn't it!" says Old Hickory. </p>
+
+<p>For a second or so he stares over her head at the wall beyond, and around his grim mouth corners come softer lines than I'd ever seen there before. Then, all of a sudden, he adds:</p>
+
+<p>"You'll need a roomy, light-draught yacht."</p>
+
+<p>"We were just going to look for one," says Auntie. "I was returning for my check-book when you interfered."</p>
+
+<p>"That was a rather lively pace you set for us," almost chuckles Old Hickory.</p>
+
+<p>"I have never enjoyed a ride more," says Auntie. "My blood is still tingling from it."</p>
+
+<p>"And mine," says Mr. Ellins. "We nearly overhauled you once. Did your cab hit anything?"</p>
+
+<p>"Only the hub of an ash-cart," says she. "We lost part of a front fender. And once a traffic policeman tried to arrest us. We rushed him, though."</p>
+
+<p>"Auntie!" comes from Vee husky, as she drops back on a window-seat. But Auntie takes no notice.</p>
+
+<p>"I say," goes on Old Hickory, "has Killam shown you the jewelry he dug from the mound?"</p>
+
+<p>Auntie nods. "It is genuine antique," says she, "the Louis Treize period, one piece. If there is much like that, no collection in the world can match it."</p>
+
+<p>"Hm-m-m-m!" says Old Hickory. "I am rather interested in that sort of thing myself. Then there is the bullion. Of course, if it should turn out to be part of the Louisiana purchase money, and it became known that it had been recovered, I suppose the federal government
+    
+<cb n="4" />
+
+<figure n="illustration">
+<head></head>
+<p>"Maybe Vee ain't easy to look at. She has just finished her canter in the park."</p>
+<figDesc></figDesc>
+</figure>
+    
+would step in, perhaps claim the larger share."</p>
+
+<p>"That would be an outrage," says Auntie. "There's no sense in that, not a bit. You&#8212;you mean you would give the information&#8212;that is, unless&#8212;"</p>
+
+<p>"I never make threats," says Old Hickory, "even when I think I have been cheated out of doing something I've wanted all my life to have a try at."</p>
+
+<p>It's Auntie's turn to stare at him. And hanged if she don't sort of mellow up.</p>
+
+<p>"Really?" says she. "I&#8212;I had no idea. And it would be fun, wouldn't it, sailing off for that enchanted coast to hunt for a real treasure island?"</p>
+
+<p>"`Yo, ho, ho, and a bottle of rum!'" roars out Mr. Ellins.</p>
+
+<p>It's the battiest remark I ever heard him make. I was lookin' for Auntie to throw some sort of a fit. But she don't. She comes nearer chucklin' than anything else.</p>
+
+<p>"Mr. Ellins," says she, "I think perhaps I have misjudged you. And I&#8212;I suppose I really ought not to attempt such a thing alone. Shall we&#8212;er&#8212;"</p>
+
+<p>"Why not?" says he, reachin' out his hand. "Share and share alike."</p>
+
+<p>"Agreed!" says Auntie. "And now, suppose we get the Captain and look for that yacht."</p>
+
+<p>They was so anxious to get at it that they chases off without a word to either Vee or me. She just sits there starin' after 'em.</p>
+
+<p>"Did any one ever hear of anything quite so absurd?" says Vee.</p>
+
+<p>"I don't know," says I. "I never worked in a filbert factory myself. I'm sure of one thing, though. With them two on the job, it's goin' to be put up to Rupert to come across."</p>
+
+</body>
+</text>
+    
+<pb n="Page 14" xml:id="ew.issue.19160821.p014" /> 
+
+<text type="nonfiction" xml:id="scott.19160821">
+<body>
+<byline>By <persName type="author" key="#Scott, Riley">Riley Scott</persName></byline>
+
+<head type="main">Has the Zeppelin Made Good?</head>
+
+<figure n="photograph">
+<head></head>
+<p>This is the training ship at Berlin, where day after day the Zeppelin crews are drilled. To build a Zeppelin crew is just as difficult as to build a Zeppelin: neither can be done well unless prepared for in advance of the actual need.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+    
+<note type="editor">
+<floatingText>
+    <body>
+<p>[EDITOR'S NOTE. The writer of the following article is a graduate of West Point, and is well known in international aeronautical circles both as an inventor and as an authority on military aëronautics. He has recently returned to America after an absence of eighteen months, during which he visited every belligerent country except Russia, much of this time being spent in Germany.]</p>
+    </body>
+</floatingText>
+</note>
+
+<p>RECENTLY I sat in the lobby of the Esplanade Hotel, Berlin, and talked with an American attaché who probably knows more about Zeppelins, their possibilities and shortcomings, than any other American. During our conversation I put the question that forms the title of this article. While not being at liberty to divulge the name of the attaché referred to, nor to quote his words, I may say that his answer was both unequivocal and in the affirmative. My conversation with him left no doubt in my mind as to the great military and naval value of the Zeppelin and the <hi rend="italic">absolute necessity</hi> for the United States to begin the construction of these dirigibles at the earliest, moment.</p>
+
+<p>Sixteen years ago the first Zeppelin airship rose from the waters of Lake Constance and made a successful trial trip at a speed of fifteen miles an hour. Since that time the private fortune of Count Zeppelin has been exhausted, and the German people and government have subscribed tens of millions of dollars to enable him to continue his work. And, little by little, the giant dirigibles were improved, were gradually increased in size and lifting capacity, became more air-worthy and were brought under better control, until, just before the beginning of the World War, they had reached a length of more than five hundred feet, could carry some four tons, had made speeds of more than fifty miles an hour, and had traveled distances of more than a thousand miles.</p>
+
+<p>It is known beyond doubt that the Zeppelin has been greatly improved during the war, its speed has been increased to well over a mile a minute, and its radius of action has been practically doubled. Like the submarine, improvements on the Zeppelin have probably been greater in the two years of the war than in the preceding period of thrice that time. Its most important uses in the present conflict have been as follows:</p>
+
+<p><hi rend="italic">Land Scouting.</hi> In the early part of the war, the Zeppelin was employed to a considerable extent in making reconnaissances over the enemy's lines; but after the period of trench warfare set in it was found that the aëroplane was more available and better suited for this class of work. Moreover, anti-aircraft guns have greatly increased in numbers and efficiency, and the huge dirigible offers too tempting a target. Zeppelins are not suitable for daylight scouting over land and consequently they have practically disappeared from over the battle lines.</p>
+
+<p><hi rend="italic">Raiding.</hi> It is in this rôle that the Zeppelin has attracted most attention and upon which public opinion has been based as to its military value. Naturally, facts as to the damage done by Zeppelins in their raids have been covered up as much as possible by the authorities. The fact, however, that such elaborate precautions have been taken against them leads one to suspect that the damage has been greater than reported.</p>
+
+<p><hi rend="italic">Sea Scouting.</hi> This is the master rôle of the Zeppelin&#8212;the rôle which my friend the attaché had in mind when he declared to me that the Zeppelin is "not only valuable, but <hi rend="italic">invaluable.</hi>"</p>
+
+<p>It does not take a naval expert to see
+    
+<cb n="2" />    
+    
+the reason why. A simple calculation shows that an aircraft, at a height of one mile, gives a radius of vision of about one hundred miles. The latest Zeppelins have a practical cruising capacity of more than a thousand miles. Moreover, they have a speed more than twice as great as that of the fastest sea scout ever built, and can remain in the air a whole day, or longer if necessary. It is evident that a fleet with such an "aërial eye" would have an overwhelming advantage over a fleet that depends upon the old-fashioned methods for its service of security and information.</p>
+
+<div1><head type="sub">Zeppelin Patrol of the North Sea</head>
+
+<p>THE reader may be surprised to learn that Germany has maintained a Zeppelin patrol over the adjacent waters of the North and Baltic Seas, especially the former, practically since the beginning of the war; and that it is this fact, combined with her predominance in submarines, that has compelled Great Britain to adopt the so-called "long-distance blockade." The principal naval Zeppelin bases are located in the vicinity of the Kiel Canal and upon the island of Heligoland, a natural sentinel in the North Sea about forty
+    
+<cb n="3" />    
+    
+miles from the German coast. From these bases regular patrols are sent out, when the weather permits; and it is Zeppelins on this duty that have been so frequently reported from the coasts of Holland, Denmark, and Sweden.</p>
+
+<p>Such, in brief, is the military and naval <hi rend="italic">raison d' être</hi> of the Zeppelin. That it has been of great value to the German naval commanders even English naval authorities admit. It has already enabled the German commanders to play hide-and-seek with the greatest navy of the world, and, in one instance at least, to meet it in battle upon an equal footing. That it will play a still more important part in this and future wars is highly probable. A careful study of the subject reveals the fact that the Zeppelin is peculiarly adaptable to the military and naval necessities of the United States. In any future war with one or more first-class powers, we shall most likely be compelled to adopt a naval defensive, just as Germany has been compelled to do in the present
+    
+<figure n="photograph">
+<head></head>
+<p>A Zeppelin caught by search-lights over London.</p>
+<figDesc></figDesc>
+</figure>  
+    
+<cb n="4" />
+    
+war. As far as the Zeppelin is concerned, however, the advantage would be wholly on our side, because of our isolation and the great distancse to European bases. This, of course, excepts Great Britain, which would undoubtedly utilize Canada as a base. Let us see, then, how the Zeppelin would be employed.</p>
+
+<p>In the first place, our most valuable, and probably our most vulnerable, strategic point is the Panama Canal. In building the Canal we have, from a military point of view, extended our coastline from the Atlantic to the Pacific. Our whole defensive system is largely based upon keeping the Canal open and thus being able to utilize our fleet, wholly or in part, upon either ocean.</p></div1>
+
+<div1><head type="sub">Peculiarly Adaptable to the United States</head>
+
+<p>IN case of war with a first-class power, it is more than likely that the enemy would make a desperate attempt at the very beginning either to get possession of the Canal or to destroy it. It is equally probable that we should adopt the defensive, and mobilize at least a considerable part of our fleet to protect the Canal. In any attack upon the Canal, imagine the immense advantage to our navy and to our Canal defenses if we should have even a single Zeppelin stationed on the Isthmus, with a cruising radius covering the West Indies and the greater portion of the Caribbean Sea. Moreover, it is possible that the attacking power might violate the neutrality of the adjoining states and attempt to land troops in order to take the Canal by land. In this contingency, a Zeppelin could immediately observe and report such a landing as well as harass the landing forces dropping bombs upon them. If the enemy should strike from the Pacific, the advantage of having a Zeppelin is equally apparent.</p>
+
+<p>The next most important point in our defense system is undoubtedly New York if the danger should come from the Atlantic, or San Francisco if it should come from the Pacific. It is hardly necessary to point out the incalculable advantage of having Zeppelin bases near these two cities, from which patrols could be sent out having a scouting radius of several hundred miles out to sea and up and down the two coasts.</p>
+
+<p>A few days ago a noted English naval airman expressed regret, at an official investigation into the conduct of the air services, that they had neglected the rigid airship,&#8212;that is, the Zeppelin,&#8212;saying that the fleet was "blind." Shall we too have occasion to regret that our fleet is "blind" when a powerful and merciless enemy is thundering at our gates?</p></div1>
+    
+</body>
+</text>
+
+<text type="nonfiction" xml:id="snakesfight.19160821">
+<body>
+<byline>By <persName type="author" key="#Scott, Riley">Riley Scott</persName></byline>
+
+<head type="main">When Blacksnakes and Rattlesnakes Fight</head>
+
+<cb n="1" />
+
+<p>SOME years ago I was hunting quails in one of the eastern counties of Nebraska bordering the Missouri River. Suddenly I heard a queer threshing noise in a little glade a few feet ahead of me, and I listened, standing stock-still.</p>
+
+<p>I could see nothing, for a rose-bush thicket made a dense screen between the noise and my position.</p>
+
+<p>The noise was a rasping rustling of leaves and grass, with a curious undertone of steady buzzing, unlike anything I had ever heard. I was curious to know what was going on; so, Indian-like, I dropped down and crept cautiously and silently around in a semicircle.</p>
+
+<p>Presently I could see into the open glade. Nothing was to be seen except the tops of the grass, and this was strangely agitated in a weaving, undulating fashion over a space some ten feet square.</p>
+
+<p>I turned and crept into the edge of the rose thicket, edging silently along until I could stand up behind a screen of short rose-bush and look down into the spot.</p>
+
+<p>Then I saw a strange tragedy of nature&#8212;a battle to the death between a big massasaugua rattlesnake and a long, glistening blacksnake. Both were in such
+    
+<cb n="2" />   
+    
+deadly earnest that they either did not see or paid no attention to me.</p>
+
+<p>The big rattler was coiled and sounding its rattle like a fire alarm while it watched the blacksnake weave and circle around it.</p>
+
+<p>The blacksnake&#8212;about six feet long&#8212;was circling around its antagonist, holding its head six inches or so above the ground; and never anywhere in nature have I seen such swift motions.</p>
+
+<p>It would glide along four or five feet away from the rattler, weave in and out among the grass tufts, disappear for a moment, and then dart straight at the rattler from a point several feet from where it had disappeared.</p>
+
+<p>Then, when the blacksnake came close, the big rattler would strike viciously, and coil again like a flash.</p>
+
+<p>This kept up for twenty minutes or so without a halt. Then, like a black flash of shining metal, the blacksnake came behind the rattler, a metallic streak of light across the open from the grass; and the ground was covered with a tangled mass of coiling, twisting snake!</p>
+
+<p>The blacksnake's head and neck appeared to be tangled up with the coils of the rattler, but its body was a rigid line
+    
+<cb n="1" />    
+    
+of metal back in the grass. Slowly the violent struggling grew less, and presently I saw that the blacksnake had coiled some three or four coils of its length tightly about the rattler's neck close up behind its jaws. The rattler was helpless in that grip, for it could not strike, though it writhed and twisted mightily.</p>
+
+<p>Slowly the rattler ceased its violent coiling contortions, and the blacksnake lay as rigid as a bar of iron, the light rippling over its skin as the muscles tightened that grip on the rattler's neck.</p>
+
+<p>It may have been half an hour that the two lay there, the rattler slowly ceasing its struggles, while the blacksnake hung on and tightened its coils with six inches or so of its free neck and head above the open jaws of the rattler.</p>
+
+<p>At last the rattler was still, save for a slow, weaving coiling of its rattling tail; then&#8212;so quickly that I could not see how it did it&#8212;the blacksnake let go its hold and vanished like a flash into the grass.</p>
+
+<p>I inspected the rattler, and found it as dead as a herring; then I cut off its ugly head and skinned its body, for it had a fine hide and twelve rattles.</p>
+
+<closer><signed><hi rend="italic">El Comancho.</hi></signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19160821.p015" />
+
+<text type="fiction" xml:id="curwood.19160821">
+<body>
+    
+<head type="main">The Girl Beyond the Trail</head>
+<byline>By <persName type="author" key="#Curwood, James Oliver">James Oliver Curwood</persName></byline>
+<byline><persName type="illustrator" key="#Benda, Wladyslaw T.">Wladyslaw T. Benda</persName></byline>
+
+<note type="summary">
+<floatingText>
+    <body>
+<p>IN the smoker of a train traveling in the Canadian northwest, David Raine makes the acquaintance of Father Roland&#8212;a sort of missionary to the trappers and Indians&#8212;and tells his story: that of a young man wronged by his beautiful wife. In another car a woman asks David if he knows Michael O'Doone; she seems unreasonably disappointed at his reply that he is a stranger. She leaves the train, and later David finds on her chair a forgotten package, which he puts in his pocket. Father Roland persuades David to make him a visit, and that night they sleep at the trapper Thoreau's hut. In his room that night, David finds the package to contain a photograph of a young girl dressed for bathing, standing at the edge of a pool, in evident fright of the photographer. An inscription tells him the picture was taken on Firepan Creek a year earlier. The girl takes on for David the quality of a living being in peril, and he resolves to find her. Next day he starts with Father Roland and an Indian named Mukoki on the ten days' trip to the missioner's hut on God's Lake. Half way they are to visit Tavish, who, Father Roland tells David, formerly lived on the Firepan. David immediately connects Tavish with the picture. When they reach Tavish's hut, they are horrified to find the man's body hung from a beam outside the hut. Father Roland has described Tavish as a strange, fear-driven man. David is filled with a kind of anger at him for escaping his questions about the girl. They bury Tavish and proceed on their journey. On the eleventh day they reach the missioner's hut. In the weeks that follow the younger man becomes aware of a mysterious influence in Father Roland's life. It is his custom daily to enter a room, and there, behind a locked door, to play a violin. Nobody else ever enters this mysterious room. Once, coming out of it, Father Roland drops the key on the floor and goes out of the house. David construes this as an invitation to visit the room in the owner's absence, and he enters. It is a woman's room, containing furniture of an earlier period. A woman's clothes of a curious style hang on the wall. A table is set for three people, including a high chair for a child. On another table, under a lamp which Father Roland has left lighted, is the most astonishing thing of all&#8212;a long, thick, dark tress of a woman's hair.</p>
+</body>
+</floatingText>
+</note>
+    
+<cb n="1" />
+
+<p>DAVID drew slowly back toward the door, stirred all at once by a great doubt. Had Father Roland meant that he should look upon all this? A lump rose suddenly in his throat. He had made a mistake. He felt like one who had broken into the sanctity of a sacred place. The missioner had not dropped the key purposely. It must have been an accident. And he&#8212;David&#8212;was guilty of a great blunder.</p>
+
+<p>He withdrew from the room, and locked the door. He dropped the key where he had found it on the floor, and sat down again with his book. He did not read. He scarcely saw the lines of the printed page. He had not been in his chair more than ten minutes when he heard quick footsteps, followed by a hand at the door, and Father Roland came in. He was visibly excited, and his glance shot at once to the room from which David had just come. Then his eyes scanned the floor. The key was gleaming where it had fallen, and, with an exclamation of relief, the missioner snatched it up.</p>
+
+<p>"I thought I had lost my key," he laughed, a bit nervously. Then he added, with a deep breath: "It's snowing tonight. A heavy snow, and there will be good sledging for a few days. God knows, I don't want you to leave me; but if it must be, we should take advantage of this snow; it will be the last. Mukoki and I will go with you as far as the Reindeer Lake country, two hundred miles north and west. David&#8212;must you go?"</p>
+
+<p>"Yes, I must go," answered David. "I have quite made up my mind to that. I must go."</p>
+
+<p>TEN days after that night David and Father Roland clasped hands in a final farewell at White Porcupine House, on the Cochrane River, two hundred and seventy miles from God's Lake. It was something more than a handshake. The missioner made no effort to speak in these last moments. His team was ready for the return drive, and he had drawn his traveling hood close about his face. In his heart he believed that David would never return. He would go back to civilization, probably next autumn, and in time he would forget. As he said on their last day before reaching the Cochrane, David's going was like taking a part of his heart away. He blinked now as he dropped David's hand&#8212;blinked and turned his eyes. And David's voice had an odd break in it. He knew what the missioner was thinking.</p>
+
+<p>"I'll come back, <hi rend="italic">mon père,</hi>" he called after him, as Father Roland broke away and went toward Mukoki and the dogs. "I'll come back next year."</p>
+ 
+<p>Father Roland did not look back until they were started. Then he turned and waved a mittened hand. Mukoki heard the sob in his throat. David tried to call a last word to him, but his voice choked. He too waved a hand. He had not known that there were friendships like this between men, and as the missioner trailed steadily away from him, growing smaller and smaller against the dark rim of the distant forest, he felt a sudden fear and a great loneliness&#8212;a fear that, in spite of himself, they would not meet again, and a loneliness that comes to a man when he sees a world widening between himself and the one friend he has on earth.</p>
+
+<p>The man had saved him from himself, had pointed out the way for him, had made him fight. More than a friend&#8212;a father. He did not stop the broken sound that came to his lips. A low whine answered it, and he looked down at Baree, huddled in the snow within a yard of his feet. "My god and master," Baree's eyes said, as they looked up at him, "I am here." It was as if David had heard the words. He held out a hand, and Baree came to him, his great wolfish body aquiver with joy. After all, David was not alone.</p>
+    
+<cb n="2" />
+
+<p>A distance from him the Indian who was to take him over to Fond du Lac, on Lake Athabasca, was waiting with his dogs and sledge. He was a Sarcee, one of the last of an almost extinct tribe, so old that his hair was of a shaggy white, and so thin that he looked like a famine-stricken Hindu. "He has lived so long that no one knows his age," Father Roland had said, "and he is the best trailer between Hudson's Bay and the Peace." His name was Upso-Gee, the Snow Fox, and the missioner had bargained with him for a hundred dollars to take David from White Porcupine House to Fond du Lac, three hundred miles farther north and west. And he was ready. He cracked his long caribou-gut whip to remind David of that. David had said good-by to the factor and the clerk at the Company store, and there was no longer an excuse to detain him.</p>
+
+<p>They struck out across a small lake. Five minutes later he looked back. Father Roland, not much more than a speck on the white plain now, was about to disappear in the forest. It seemed to David that he had stopped, and again he waved his hand, though human eyes could not have seen the movement over that distance.</p>
+
+<p>NOT until that night, when David sat alone beside his camp-fire, did he begin to realize fully the vastness of this adventure into which he had plunged. The Snow Fox was dead asleep and it was horribly lonely. It was a dark night, too, with that shivering wailing of a restless wind in the tree-tops&#8212;the sort of night that makes loneliness grow until it is like some kind of monster inside choking off one's breath. On Upso-Gee's tepee, with the firelight dancing on it, there was painted in red a grotesque fiend with horns&#8212;a medicine-man, or devil-chaser; and this devil-chaser grinned in a bloodthirsty manner at David as he sat near the fire, as if gloating over some dreadful fate that awaited him. It was lonely. Even Baree seemed to sense his master's oppression, for he laid his head between David's feet and was as still as if asleep.</p>
+
+<p>A long way off David heard the howling of a wolf, and it reminded him shiveringly of the lead-dog's howl that night before Tavish's cabin. It was like the death-cry that comes from a dog's throat; and where the forest-gloom mingled with the firelight he saw a phantom shadow&#8212;in the morning he found that it was a spruce bough broken and hanging down&#8212;that made him think again of Tavish swinging in the moonlight. His thoughts bore upon him deeply and with foreboding. He asked himself questions&#8212;questions that were not new, but that came to him tonight with a new and deeper significance.</p>
+
+<p>He believed that Father Roland would
+    
+<cb n="3" />    
+    
+have gasped in amazement and that he would have held up his hands in incredulity had he known the truth of this astonishing adventure of his. An astonishing adventure, nothing less. To find a girl&#8212;a girl he had never seen, and who might be in another part of the world when he got to the end of his journey&#8212;or married. And if he found her, what would he say? What would he do? Why did he want to find her? "God alone knows," he said aloud, borne down under his gloom, and went to bed.</p>
+
+<p>SMALL things, as Father Roland frequently said, decide great events. The next morning came with a glorious sun; the world again was white and wonderful; and David found swift answers for the questions he had asked himself a few hours before. Each day thereafter the sun was warmer, and with its increasing promise of the final "break-up" and slush snows Upso-Gee's taciturnity and anxiety grew apace. He was little more talkative than the painted devil-chaser on the blackened canvas of his tepee; but he gave David to understand that he would have a hard time getting back with his dogs and sledge from Fond du Lac if the thaw came earlier than he anticipated.</p>
+
+<p>David marveled at the old warrior's endurance, especially when they crossed the forty miles of ice on Wollaston Lake between dawn and darkness. At high noon the snow was beginning to soften on the sunny slopes even then, and by the time they reached the Porcupine, Snow Fox was chanting his despairing prayer nightly before that grinning thing on his tepee.</p>
+
+<p>"Swas-tao [the thaw] she kam dam' queek," he said to David, grimacing his old face to express other things that he could not say in English. And it did. Four days later, when they reached Fond du Lac, there was water underfoot in places, and Upso-Gee turned back on the home trail within an hour.</p>
+
+<p>This was in April, and the post reminded David of a great hive to which the forest people were swarming like treasure-laden bees. On the last snow they were coming in with their furs from a hundred trap-lines. Luck was with David. On this first-day Baree fought with a huge malamute and almost killed it; and David, in separating the dogs, was slightly bitten by the malamute. A friendship sprang up instantly between the two masters. Bouvais was a Frenchman from Horseshoe Bay, fifty miles from Fort Chippewyan, and a hundred and fifty straight west of Fond du Lac. He was a fox-hunter.</p>
+
+<p>"I bring my furs over here, m'sieu," he explained, "because I had a fight with the factor at Fort Chippewyan and broke out two of his teeth."</p>
+
+<p>Which was sufficient explanation. He
+    
+<cb n="4" />    
+    
+was delighted when he learned that David wanted to go west. They started two days later with a sledge heavily laden with supplies. The runners sank deep in the increasing slush, but under them was always the thick ice of Lake Athabasca, and going was not bad, except that David's feet were always wet. He was surprised that he did not take a "cold."</p>
+
+<p>"A cold&#8212;what is that?" asked Bouvais, who had lived along the Barrens all, his life.</p>
+
+<p>David described a typical case of sniffles, with running at eyes and nose, and Bouvais laughed. "The only cold we have up here is when the lungs get touched by frost," he said; "and then you die&#8212;the following spring. Always then. The lungs slough away." And then he asked: "Why are you going west?"</p>
+
+<p>David found himself face to face with the question, and had to answer. "Just to toughen up a bit," he replied. "Wandering. Nothing else to do." And, after all, he thought later, wasn't that pretty near the truth? He tried to convince himself that it was. But his hand touched the picture of the girl in his breast pocket. He seemed to feel her throbbing against it. A preposterous imagination! But it was pleasing. It warmed his blood.</p>
+
+<p>FOR a week David and Baree remained at Horseshoe Bay with the Frenchman. Then they went on around the end of the lake toward Fort Chippewyan. Bouvais accompanied them, out of friendship purely, and they traveled afoot with fifty-pound packs on their shoulders, for in the big sunlit reaches the ground was already growing bare of snow.</p>
+
+<p>Bouvais turned back when they were ten miles from Fort Chippewyan, explaining that it was a nasty matter to have knocked two teeth down a factor's throat, and particularly down the throat of the head factor of the Chippewyan and Athabasca district. "And they went down," assured Bouvais. "He tried to spit them out, and couldn't."</p>
+
+<p>A few hours later David met the factor, and observed that Bouvais had spoken the truth; at least, there were two teeth missing quite conspicuously. Hatchett was his name. He looked it: tall, thin, sinewy, with birdlike eyes that were shifting this way and that at all times, as if he were constantly on the alert for an ambush, or feared thieves. He was suspicious of David, coming in alone in this no-man's-land with a pack on his back&#8212;a white man, too, which made it all the more suspicious. Perhaps a possible free trader looking for a location. Or, worse still, a spy of the company's hated competitors, the Reveillon Brothers. It took some time for Father Roland's letter to convince him that David was harmless. And then, all at once, he warmed up like birch bark taking fire, and shook David's hand three times in five minutes, he was so hungry for a white man's companionship&#8212;an honest white man's, mind you, and not a scoundrelly competitor's!</p>
+
+<p>He opened four cans of lobster left over from Christmas for their first meal, and that night beat David seven games of cribbage in a row. He wasn't married, he said; didn't even have an Indian woman. Hated women. If it wasn't for breeding a future generation of trappers he wouldn't care if they all died. No good. Positively no good. Always making trouble, more or less. That's why, a long time ago, there was a fort at Chippewyan&#8212;a sort of blockhouse that still stood there. Two men, in two different tribes, wanted same woman; quarreled; fought; one got his blamed head busted; tribes took it up; raised hell for a time&#8212;all over that rag of a woman. Terrible creatures, women were.</p>
+
+<p>He emphasized his belief in short, biting snatches of words, as if afraid of wearing out his breath, or his vocabulary, or both. Maybe his teeth had something to do with it. Where the two were missing he carried
+
+<note place="bottom margin">Copyright, 1916, by James Oliver Curwood.</note>
+
+<pb n="Page 16" xml:id="ew.issue.19160821.p016" />
+
+<figure n="illustration">
+<head></head>
+<p>"She appeared like an apparition front behind a great boulder&#8212;a little older, a little taller, a bit wilder than she had seemed to him in the picture, but with the same glorious hair, and that same questioning look in her eyes as she stared at him."</p>
+<figDesc></figDesc>
+</figure>
+
+the stem of his pipe, and when he talked it clicked like a castanet.</p>
+
+<p>David had come at a propitious moment&#8212;a most "propichus moment," Hatchett told him. He had done splendidly that winter. His bargains with the Indians had been sharp and exceedingly profitable for the Company, and as soon as he had got his furs off to Fort McMurray on their way to Edmonton he was going on a long journey of inspection, which was his reward for duty well performed. His fur barges were ready. All they were waiting for was the breaking up of the ice, when the barges would start up the Athabasca, which meant south; while he, in his big war canoe, would head up the Peace, which meant west. He was going as far as Hudson's Hope, and this was within two hundred and fifty miles of where David wanted to go. He proved this by digging up an old Company map.</p>
+
+<p>DAVID'S heart beat an excited tattoo. This was more than he had expected. Almost too good to be true. "You can <hi rend="italic">work</hi> your way up there with me," declared Hatchett, clicking his pipe-stem. "Won't cost you a cent&#8212;not a dam' cent. Work; eat; smoke. Fine trip. Just for company. A man needs company once in a while&#8212;decent company. Ice will go by middle of May. Two weeks. Meanwhile have a devil of a time playing cribbage."</p>
+
+<p>They did. Cribbage was Hatchett's one passion, unless another was beating the Indians.</p>
+
+<p>"Rascally devils," he would say, driving his cribbage pegs home. "Always trying to put off poor fur on you for good.
+    
+<cb n="2" />    
+    
+Deserve to be beat. And I beat 'em. Dam' if I don't!"</p>
+
+<p>"How did you lose your teeth?" David asked him at last. They were playing late one night.</p>
+
+<p>Hatchett sat up in his chair as if stung. His eyes bulged as he looked at David, and his pipe-stem clicked fiercely.</p>
+
+<p>"Frenchman," he said. "Dirty pig of a Frenchman. No use for 'em. None. Told him women were no good&#8212;all women were bad. Said he had a woman. Said I didn't care&#8212;all bad just the same. Said the woman he referred to was his wife. Told him he was a fool to have a wife. No warning&#8212;the pig! He biffed me. Knocked those two teeth out&#8212;<hi rend="italic">down.</hi> I'll get him some day. Flay him. Make dog-whips of his dirty hide. All Frenchmen ought to die. Hope to God they will. Starve. Freeze."</p>
+
+<p>In spite of himself, David laughed. Hatchett took no offense, but the grimness of his long, somber countenance remained unbroken.</p>
+
+<p>A day or two later David discovered Hatchett in the act of giving an old white-haired, half-blind cripple of an Indian a bag of supplies. Hatchett shook himself as if caught in an act of crime.</p>
+
+<p>"I'm going to kill that old Dog Rib soon as the ground's soft enough to dig a grave," he declared, shaking a fist fiercely after the old Indian. "Beggar. A sneak. No good. Ought to die. Giving him just enough to keep him alive until the ground is soft."</p>
+
+<p>After all, Hatchett's face belied his heart. His tongue was like a cleaver. It was terrible in its threatening, but 
+    
+<cb n="3" />
+    
+harmless and tremendously amusing to David. He liked Hatchett. His cadaverous countenance, never breaking into a smile, was the oddest mask David had ever seen a human being wear. He believed that if it once broke into a laugh it would not straighten back again without leaving a permanent crack. And yet, he liked the man, and the days passed swiftly.</p>
+
+<p>IT was the middle of May before they started up the Peace, three days after the fur barges had gone down the Athabasca. David had never seen anything like Hatchett's big war canoe, roomy as a small ship, and light as a feather on the water. Four powerful Dog Ribs went with them, making six paddles in all. When it came to a question of Baree, Hatchett put down his foot with emphasis. "What! Make a passenger of a dog? Never. Let him follow ashore&#8212;or die."</p>
+
+<p>This would undoubtedly have been Baree's choice if he had had a voice in the matter. Day after day he followed the canoe, swimming streams and working his way through swamp and forest. It was no easy matter. In the deep, slow waters of the Lower Peace the canoe made thirty-five miles a day; twice it made forty. But Hatchett kept Baree well fed, and each night the dog slept at David's feet in camp.</p>
+
+<p>On the sixth day they reached Fort Vermilion, and Hatchett announced himself like a king. For he was on inspection&#8212;Company inspection, mind you. Important.</p>
+
+<p>A week later they arrived at Peace River Landing, two hundred miles farther west, and on the twentieth day came to Fort St. John, fifty miles from Hudson's Hope. From here David saw his first of the mountains. He made out their snowy peaks clearly seventy miles away, and with his finger on a certain spot on Hatchett's map his heart thrilled. He was almost there!</p>
+
+<p>Mac Veigh, the factor at Hudson's Hope, looked at David curiously when David told him where he was going.</p>
+
+<p>"You're the first white man to do it," he said, an inflection of doubt in his voice. "It's not bad going up the Finley as far as the Kwadocha. But from there&#8212;"</p>
+
+<p>He shook his head. He was short and thick, and his jowl hung heavy with disapproval.</p>
+
+<p>"You're still seventy miles from the Stikine when you end up at the Kwadocha," he went on, thumbing the map. "Who will you get to take you on from there? Straight over the backbone of the Rockies. No trails. Not even a post there. Too rough a country. Even the Indians won't live in it."</p>
+
+<p>He was silent for a moment, as if reflecting deeply.</p>
+
+<p>"Old Towaskook and his tribe are on the Kwadocha," he added, as if seeing a glimmer of hope. "He <hi rend="italic">might.</hi> But I doubt it. They're a lazy lot of mongrels, Towaskook's people, who carve things out of wood to worship. Still, he might. I'll send up a good man with you to influence him, and you'd better take along a couple
+    
+<cb n="4" />    
+    
+hundred dollars in supplies as a further inducement."</p>
+
+<p>The man was a half-breed. Three days later they left Hudson's Hope, with Baree riding amid ships. The mountains loomed up swiftly after this, and the second day they were among them. After that it was slow work fighting their way up against the current of the Finley. It was tremendous work. It seemed to David that half their time was spent amid the roar of rapids. Twenty-seven times in five days they made portages. Later on it took them two days to carry their canoe and supplies around a mountain. Fifteen days were spent in making eighty miles. Easier travel followed then. It was the 20th of June when they made their last camp before reaching the Kwadocha.</p>
+
+<p>David looked at his map and at the figures in the note-book he carried. He had come close to fifteen hundred miles since that day he and Father Roland and Mukoki had set out for the Cochrane. Fifteen hundred miles! And he had less than a hundred more to go.</p>
+
+<p>He looked at the picture a long time.</p>
+
+<p>It was the week of the Big Festival when David and his half-breed arrived at Towaskook's village. Towaskook was the "farthest east" of the totem-worshipers and each of his forty or fifty people reminded David of the devil-chaser on the canvas of the Snow Fox's tepee.</p>
+
+<p>That night Towaskook visited David at his camp. David sat in silence, trying to make out something from their gestures, as his half-breed Jacques and the old chief talked.</p>
+
+<p>Jacques repeated it all to him after Towaskook left. It was a terrible journey over those mountains, Towaskook had said&#8212;a ten days' journey. Many times you had to go above the clouds. There was one chance of a guide&#8212;just one. He had a young bear-hunter, Kio, who was anxious to perform a great feat, especially as he was in love with his medicine-man's daughter Kwak-wa-Pisew (the Butterfly). Kio might go to prove his valiancy to the Butterfly. Towaskook had gone for him.</p>
+
+<p>A little later Towaskook returned with Kio. Kio would go as far as the confluence of the Pitman and the Stikine, if Towaskook would assure him the Butterfly. Towaskook, eyeing greedily the supplies which Jacques had laid out alluringly, nodded an agreement to that. They would start the next day.</p>
+
+<p>THAT night Jacques carefully made up the two shoulder-packs that David and Kio were to carry, for thereafter their travel would be entirely afoot. David's burden, with his rifle, was fifty pounds. Jacques saw them off.</p>
+
+<p>Kio turned out to be a communicable and rather likable young fellow. He was ignorant of the white man's talk, but he was a master of gesticulation; and when, in climbing their first mountain, David discovered muscles in his legs and back that he had never known of before, Kio laughingly sympathized with him and assured him in vivid pantomime that he would soon get used to it.</p>
+
+<p>Their first night they camped almost at the summit of the mountain. Kio wanted to make the warmth of the valley beyond, but those new muscles in David's legs and back declared otherwise. David's blood ran warm with hope and anticipation. He was almost at the end of his journey. It had been a great fight, and he had won. After this he could face the world again.</p>
+
+<p>Day after day they made their way westward. It was tremendous, this journey over the backbone of the mountains. It gave one a different conception of the vastness of things, and of the pigmy insignificance of men. They were like ants on these mountains, David thought&#8212;insignificant, crawling ants. Here was where one might find a soul and a religion if he had never had one before.</p>
+
+<p>Early on the eleventh day they came to the confluence of the Pitman and the Stikine rivers, and a little later Kio turned back on his homeward journey, and David and Baree were alone. This aloneness fell upon them like a thing that had a pulse and</p>
+
+</body>
+</text>
+    
+<pb n="Page 17" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 18" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+    
+<pb n="Page 19" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+
+<pb n="Page 20" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+
+</body>
+</text>
+</group>
+
+</text>
+</TEI> 

@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170723">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, July 23, 1917</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19170730</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2016</date>
+<availability>
+<p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1917-07-23">July 23, 1917</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when= "2016-02-22"><name>Samantha Greenfield</name> Initial Encoding 
+</change>
+</revisionDesc>
+    
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19170723.p001" />
+    
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1917, By the Crowell Publishing Co.</publisher>
+<pubPlace></pubPlace>
+<docDate>July 23, 1917</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head></head>
+<ab type="credit"></ab>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+<group>
+
+
+<pb n="Page 2" xml:id="ew.issue.19170723.p002" />
+    
+<text>
+<body>
+    
+<figure n="advertisement">
+<head>Used in the Armies and Navies of the World</head>
+<p></p>
+<figDesc>Advertisement for Parker Pen Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>$3,000 in One Year</head>
+<p></p>
+<figDesc>Advertisement for Haywood Tire and Equipment Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Take the Backache Out of Washday</head>
+<p></p>
+<figDesc>Advertisement for I-V Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head></head>
+<p></p>
+<figDesc>Advertisement for Le Page's Glue.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for Randolph &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Money In Patents</head>
+<p></p>
+<figDesc>Advertisement for P. H. Pattison &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patentable Ideas Wanted.</head>
+<p></p>
+<figDesc>Advertisement for Richard B. Owen.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Banking By Mail at 4% Interest</head>
+<p></p>
+<figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>30 Days Free Trial</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>High-Value Patents</head>
+<p></p>
+<figDesc>Advertisement for R. S. &amp; A. B. Lacey.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents Secured or Fee Returned</head>
+<p></p>
+<figDesc>Advertisement for G. P. Kimmel.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents That Protect and Pay</head>
+<p></p>
+<figDesc>Advertisement for Watson E. Coleman.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Advertisements for Personal, United States Flags, Help Wanted Female, Rosicrucian Brotherhood, Corporations, NEws Correspondents, Photoplays, Stories, etc. Photoplays, Short Stories, Manuscripts Wanted</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="barton.19170723">
+<body>
+    
+<head type="main">"The Business . . . Is Undramatic"</head>
+    
+<cb n="1"/> 
+   
+<p>MUCH as I like Mr. Roosevelt, I am glad he is not to raise an army.</p>
+    
+<p>He would unquestionably put thrill and glamour and picturesqueness into the war: but thrill and glamour and picturesqueness are just the qualities that I want to see taken away from war.</p>
+    
+<p>"The business in hand," said the President, in refusing the Roosevelt division, "is <hi rend="italic">undramatic</hi>."</p>
+    
+<p>Never before has war had that word applied to it.</p> 
+    
+<p>Always peoples have entered on war with bands playing, and red fire, and fervid speeches, and cries of "Remember the <hi rend="italic">Maine</hi>," or "Fifty-four Forty or Fight," or "On to Canada," or "On to Paris."</p>
+    
+<p>They have been thrilled by the spectacle of heroes leaping to their nation's call.</p>
+    
+<p>This war, so far as possible, is to be divested of heroics. Men will not leap to arms; they will be assigned to arms. Troops will be sent quietly away in the night. We shall see nothing of the fabled glory of war: only the somberness of war&#8212;the hard, drab, unpleasant necessity.</p>
+    
+<p>We shall fight efficiently, but it will be the fight of men who do a bitter duty with solemn hearts.</p>
+    
+<p>And, going into war in this spirit, we shall have struck a blow against war.</p>
+    
+<cit>
+<quote>
+<p>It is the reproach of historians [says John Richard Green] that they have often turned history into a mere record of butchery of men by their fellow men.</p>
+</quote>
+</cit>
+    
+<p>If that is true,&#8212;if the wars of the nations have been allowed to overshadow everything else in history,&#8212;it is because men have been taught to believe that war is glorious, and the achievements of peace prosaic.</p>
+    
+<p>To this war we are assigning men as if they were assigned to jury service or to mending the State highways. We are reducing glamour to a minimum. It is a business undramatic.</p>
+    
+<p>I have read many of the books that have been written in extenuation of war.</p>
+    
+<p>I have read John Ruskin, who says:</p>
+    
+<cit>
+<quote>
+<p>The common notion that peace and the virtues of civil life flourish together I have found to be wholly untenable. Peace and the vices of civil life only flourish together.</p>
+</quote>
+</cit>
+    
+<p>And again:</p>
+ 
+<cit>
+<quote>
+<p>All healthy men like fighting and like the sense of danger. All brave women like to hear of their fighting and of their facing danger.</p>
+</quote>
+</cit>
+    
+<p>And still again:</p>
+
+<cit>
+<quote>
+<p>No great art ever rose on earth but among a nation of soldiers.</p>
+</quote>
+</cit>
+    
+<p>We shall doubtless hear much talk of this kind in the months to come: I mean to oppose such talk at every opportunity.</p>
+    
+<p>I believe the present war was forced upon us; and that, being in, it, is our duty to push it, with every ounce of energy in us, to a speedy and successful end.</p>
+    
+<p>But that war itself is either beneficial or glorious I deny.</p> 
+    
+<p>I agree with Seeley that "the Roman Empire perished for lack of men."</p>
+    
+<p>Marius and Cinna had slain the aristocrats: Sulla had slain the democrats. And when there were none left but cowards and slaves to breed sons for Rome, the barbarians overwhelmed and destroyed them.</p>
+    
+<p>I believe that one reason England has grown so great is because she has managed to avoid serious losses of men in most of the wars of the Continent. While Europe was bleeding, her people were busy attending to their business at home.</p>
+    
+<p>The Civil War spread its hateful shadow over our public life for a quarter of a century. No man could run for office unless he wore a uniform: there was no argument but the bloody shirt.</p>
+    
+<p>We want no such after-math following this war.</p>
+    
+<p>We shall do our greatest service to America and to civilization if we fight, so far as possible, without hate. If, while bending every energy to winning this war, we keep alive in our hearts a horror of all wars.</p>
+    
+<p>If we do not allow ourselves to forget for a single instant that, <hi rend="italic">through the undramatic business of war</hi>, we are fighting for the <hi rend="italic">glories</hi> and the <hi rend="italic">blessings</hi> of universal peace.</p>
+    
+<closer><signed><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</signed></closer>
+    
+</body>
+</text>
+    
+<pb n="Page 3" xml:id="ew.issue.19170723.p003"/>
+    
+<text type="advertisement" xml:id="oliver.19170723">
+<body>
+    
+<figure n="advertisement">
+<head>The Famous Oliver Typewriter&#8212;Standard Visible latest model&#8212;was $100&#8212;now $49</head>
+<p></p>
+<figDesc>Advertisement for The Oliver Typewriter Co.</figDesc>
+</figure>
+
+</body>
+</text>
+    
+<pb n="Page 4" xml:id="ew.issue.19170723.p004"/>
+    
+<text type="nonfiction" xml:id="monogamy.19170723">
+<body>
+    
+<head type="main">WHY MONOGAMY IS STILL POPULAR</head>
+    
+<cb n="1"/>
+    
+<p>THIS page of pictures explains many things. Why monogamy, as an institution, is still going strong. Why each man sees his own wife as the most beautiful woman in the world. Why all men do not fall in love with the same woman.</p>
+    
+<p>For, behold, Laurette Taylor went forth to the studios of six famous artists. The first one looked at her and drew her picture: the second&#8212;looking at the same girl&#8212;saw a different girl, and changed the picture. The third likewise, and the fourth, and the fifth, and the sixth.</p>
+    
+<p>Here&#8212;on the right&#8212;is the finished portrait of Miss Taylor, representing the combined work of all the six. Look at it. But first look at the five smaller portraits below: see how each of the trained pairs of eyes caught a little different charm. To each one of them she looked different from any other girl in the world: yet no two of them saw her alike.</p>
+    
+<p>Never remark again that you "can't understand what Jones ever saw in his wife." You never will understand. It's one of the blessed provisions of nature, that each man must see the world&#8212;and the women of it&#8212;through his own pair of eyes.</p>
+    
+<figure n="illustration">
+<head></head>
+<p>Here, then, is Laurette as Alonzo Kimball saw her&#8212;charming, a bit illusive, perhaps a trifle reserved.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="illustration">
+<head></head>
+<p>Howard Chandler Christy took the pencil next; and, behold, it is the same Laurette, yet with a touch that marks always the Christy girl.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="illustration">
+<head></head>
+<p>Then Penrhyn Stanlaws. And there's an expression in the eyes that wasn't there before. The same girl&#8212;but&#8212;</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="illustration">
+<head></head>
+<p>And C. Allan Gilbert saw her thus&#8212;with her hair all fluffy. It's Laurette all right, but compare her with Alonzo's Laurette.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="illustration">
+<head></head>
+<p>Clarence Underwood began rubbing out the picture when it reached his hands. His eyes saw the girl above.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="illustration">
+<head></head>
+<p>And here she is, with the final touch of Everett Shinn. The composite girl whom Alonzo Kimball and Howard Chandler Christy and Penrhyn Stanlaws, and C. Allan Gilbert and Clarence Underwood and Everett Shinn all saw&#8212;yet different from the girl seen by any one of them.</p>
+<figDesc></figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 5" xml:id="ew.issue.19170723.p005"/>
+    
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 5, No. 4<lb/>
+July 23, 1917<lb/>
+
+Every Week<lb/>
+
+$1.00 per Year<lb/>
+3 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by the Crowell Publishing Company, 381 Fourth Avenue, New York. Entered at the New York Post Office as Second Class Matter.</p>
+</body>
+</text>
+    
+<text type="fiction" xml:id="bartlett.19170723">
+<body>
+
+<head type="main">TIME TO GO TO NEWPORT</head>
+<byline>By <persName type="author" key="#Bartlett, Frederick Orin">FREDERICK ORIN BARTLETT</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<cb n="1"/>
+    
+<p>THERE were, in the life of Carl Wetmore Carroll, many matters of fact which as prosaic truths he would not have attempted to deny, but which played such a remote and unimportant part in his consciousness that he had no especial reason for recognizing them. For instance, he would not have disputed with any one the bald statement that New York as a city continued to exist during the summer months,&#8212;indeed, he had the evidence forced upon him by the necessity of occasionally addressing letters there to his lawyers,&#8212;but he could also maintain that he had no first-hand information on the subject, because he had never been in town later than June. He always departed before then for Newport.</p>
+    
+<p>He held the same mental attitude toward Newport in winter. He left it each year in October, and found it when he came back the following June, and so presumed that it remained where it was during the cold months, although if called upon to testify under oath he would have been obliged to refuse to commit himself.</p>
+    
+<p>He understood, of course, that various unfortunate persons remained in both places out of season, just as he understood. whenever he crossed the ocean that various persons remained down in the hold, busy with the job of making the ship goó although, as far as he personally was concerned, the ship just went of its own accord.</p>
+    
+<p>When, therefore, Carroll, on the eighth  day of July, found himself in town, it was something in the nature of a mild adventure&#8212;like a visit to a foreign city. It was, in fact, the culmination of a series of mild adventures which had had their beginning shortly after the holidays of the preceding winter. It had been an unusually gay season for both him and his wife, though more particularly for his wife; and doubtless the reaction that followed was altogether normal, although it may be stretching the point somewhat to class Courtney Benton as merely a psychological consequence. He was rather too big and good-looking. Still, it was at about this time that he began to make himself manifest.</p>
+    
+<p>Carroll himself did not care a great deal about auction and <hi>thé dansants</hi> and formal dinners. Considering the fact that he had been handicapped all his life with too much money, he was a peculiarly quiet fellow&#8212;quiet and wonderfully decent. It is no weakling's task to use the income from ten millions and reach the age of twenty- four with a clean record. But this much he had accomplished, if he had not accomplished much else. He was slight and wiry, with an earnest face and direct black eyes. He played a good game of golf, and at his clubs sat around with the older men. After his marriage he took quite an extraordinary interest in his home on West Sixtieth Street, which he remodeled for his bride along his own and her ideas.</p>
+    
+<p>RETURNING to the house late one night in January and finding his wife still out, Carroll, instead of retiring to his room as was his custom, proceeded to the library and settled down before the open fire to wait for her. He knew she had gone to a dance at the Rantouls', and that in all probability Benton would escort her home. There was nothing unusual about this. Perhaps that was the trouble. And
+    
+<cb n="2"/>    
+    
+yet, he could in no way blame her. He was not blaming her. He was blaming himself unreservedly. Only&#8212;the thing could not go on. He had been overhearing some ugly stories lately that were not fair to any one concerned. So, quietly and by himself, as he always did, he made his decision.</p>
+    
+<p>At half past two he heard a machine
+    
+<figure n="illustration">
+<head></head>
+<p>"Beneath the overhead light the red in her brown hair came out. Her cheeks were slightly flushed and her mouth a trifle tense as she came toward her husband."</p>
+<figDesc></figDesc>
+</figure>   
+    
+stop in front of the house, and soon after caught, in spite of himself, the low murmur of voices in the hall below. Five minutes passed, and then she came upstairs, Annette gliding from some hidden corner to greet her mistress.</p>
+    
+<p>At this point Carroll rose and came to the door.</p>
+    
+<p>"Can't you come in a moment?" he asked.</p>
+    
+<p>She looked very beautiful as she leaned against the dark oak banister, with her evening cloak slipping from one bare shoulder. Beneath the overhead light the red in her brown hair came out, and her dark brows and lashes appeared still darker. Her cheeks were slightly flushed and her fine mouth a trifle tense.</p>
+    
+<cb n="3"/>
+    
+<p>I'm very tired, Carl," she answered.</p> 
+    
+<p>"I won't keep you long."</p>
+    
+<p>As she stepped forward toward the library, Annette reached for her cape; but Madame shook her head.</p>
+    
+<p>"It seems cold here. I'll keep it on."</p>
+    
+<p>Carroll drew a chair close to the flames for her, and she sank down, leaning her head on her hand. She really did look tired.</p>
+    
+<p>He stood just the other side of the fire, feeling a good deal of a brute for his insistence. But he was not sure when he might be able to see her alone again; her days were very full.</p>
+    
+<p>When finally he spoke, it was with deliberation and an evident desire not to worry her any more than was necessary.</p>
+    
+<p>"Helen," he said, "I'm rather afraid I'm getting on your nerves."</p>
+    
+<p>She thought a moment, and answered:</p> 
+    
+<p>"What makes you think so, Carl?"</p> 
+    
+<p>"Because, under the circumstances, it seems to me inevitable that I should."</p> 
+    
+<p>She raised her brows.</p>
+    
+<p>"Under the circumstances?" she repeated.</p>
+    
+<p>"We may as well be frank," he
+
+<cb n="4"/>
+
+continued&#8212;"especially as no one in particular is to blame. Let's see&#8212;we've been married a little over two years, haven't we?"</p>
+    
+<p>She was able to be more precise.</p>
+    
+<p>"Two years the fifteenth of last month," she nodded.</p>
+    
+<p>"From your point of view, has the venture been a success?" he asked.</p>
+    
+<p>She sat up a little at that, studied his face for a moment, and then leaned forward, holding out her hands to the flames.</p>
+    
+<p>"At least, we haven't made a mess of it," she ventured.</p>
+    
+<p>"Not yet," he answered thoughtfully.</p> 
+    
+<p>"You mean&#8212;"</p>
+    
+<p>"I mean no more than I say," he cut in quickly. "I want very much not to mean any more than I say. That's why I thought we ought to talk it over right now."</p>
+    
+<p>"If you're referring to Courtney&#8212;" she began.</p>
+    
+<p>"There isn't any need of mentioning names, is there?" he interrupted. "After all, the concrete facts are nothing but symptoms of the deeper trouble."</p>
+    
+<p>"And that is?"</p>
+    
+<p>He hesitated a second before the beauty of her eyes, and then went through with it.</p>
+    
+<p>"We ought never to have married."</p>
+    
+<p>If, in the privacy of her own room, she had been anticipating any such scene as this,&#8212;as of late she sometimes had,&#8212;she would have drawn a sigh of relief at this point. He was telling her a truth she already confessed to herself, and he was telling it, gently and sweetly. He was helping her over a situation she had been dreading. And yet, instead of relief, she felt something like a sharp pain. Perhaps it was just because, in doing this, he was at his best. It took her back to those days of two years ago.</p>
+    
+<p>SHE had come to New York from the West though she had made her début under the auspices of an aunt who prided herself upon having begun to live here shortly after the island of Manhattan was Settled by the Dutch. She had met, in a few months, a great many men; but from the first Carl had been the only one to stand out distinctly. For a long while he had a way of appearing among the others and then disappearing. Then came the summer at Newport, when be had remained within her line of vision for quite a long time. After that she missed him, and when he turned up again in the fall she was so glad to see him&#8212;as if in a flickering world he was the one steady light&#8212;that she rather clung to him. A little later he asked her to marry him, and, like one coming home, she had consented.</p>
+    
+<p>But, somehow, she found she had not come home, after all&#8212;though while they were planning the house she had never been happier in her life. Instead of going away they had spent their honeymoon in it. Then she had been caught in the whirlpool of social life; and, though for a while she had eddied about in it with him, somehow he seemed to have been swung more and more toward the outer rim while she was drawn toward the center. She was popular&#8212;rightly and deservedly so&#8212;and in consequence her time became fully occupied.</p>
+    
+<p>This last winter she had scarcely seen Carroll for a week at a time; but Courtney&#8212;well, he was always around. That honestly was all there was to it: he was always around. Of late, to be sure&#8212;her
+    
+<pb n="Page 6" xml:id="ew.issue.19170723.p006"/>
+    
+cheeks grew suddenly crimson. She rose to her feet.</p>
+    
+<p>"I'm very tired, Carl," she pleaded once more.</p>
+    
+<p>"Your eyes show it," he nodded. "But if you can hang on a few minutes longer&#8212;"</p>
+    
+<p>She sat down again.</p>
+    
+<p>"As you said," he resumed, "we haven't made a mess of it yet, and there is no need of that&#8212;if we stop in time."</p>
+    
+<p>"If Courtney troubles you, I won't see him again," she murmured.</p>
+    
+<p>"I don't understand very well how you can help it," he replied. "Besides, it isn't the man himself I object to, but what, as the doctors would say, he indicates. There wouldn't be any especial danger if things could stand still where they are. But things don't stand still, do they?"</p>
+    
+<p>"I suppose not," she answered wearily.</p>
+    
+<p>"So the only way open is for us to go back to where we started, while there is time."</p>
+    
+<p>"Back to&#8212;before we were married?"</p> 
+    
+<p>"That's it," he nodded in relief.</p>
+    
+<p>He did not notice that her head was bending over so little lower, that she was breathing rapidly. That was because he did not dare look at her. Lighting a cigarette, he stared across the room.</p>
+    
+<p>"Very well, Carl," she said quietly.</p>
+    
+<p>"You understand that I don't blame you any?"</p>
+    
+<p>"It is very nice of you to say that."</p>
+    
+<p>"It's&#8212;it's just due to circumstances over which we had no control," he assured her.</p>
+    
+<p>It was so she herself had reasoned; but at just this moment she wondered if that were altogether true. But what was the use of wondering any more about it now?</p>
+    
+<p>"So there isn't any reason why we shouldn't remain good friends, is there?" he asked.</p>
+    
+<p>She smiled&#8212;the old smile with her eyes and lips.</p>
+    
+<p>"Perhaps this will help us to be better friends," she answered.</p>
+    
+<p>She was on her feet again&#8212;and how amazingly beautiful she looked! The cape slipped from her shoulders to the floor, and he hastened to pick it up. She took it, but did not put it on.</p>
+    
+<p>"Of course you will remain here," he ran on rapidly.</p>
+    
+<p>"No, Carl; I shall not remain here."</p> 
+    
+<p>"I did not mean to dictate," he apologized.</p>
+    
+<p>"I know it. Perhaps you will remain here yourself."</p>
+    
+<p>He shook his head.</p>
+    
+<p>"Wentworth has suggested a hunting trip to Africa; I may join him."</p>
+    
+<p>"You'll be very careful?"</p>
+    
+<p>She spoke without thinking. She tried to laugh, but it wasn't much of a success.</p>
+    
+<p>"I don't suppose I have any right to ask even that of you now."</p>
+    
+<p>"I'm not very important," he replied. "I guess I never was. But you&#8212;I'd like to think you'll always feel free to call on me for anything it's possible for me to do."</p>
+    
+<p>"Then," she said, "I shall ask you to be careful."</p>
+    
+<p>Here the conversation had ended. He extended his hand, and she took it.</p>
+    
+<p>"Good night and good luck," she said.</p>
+    
+<p>For the fraction of a second his head swam. He took a quick grip on himself.</p>
+    
+<p>"Good-by," he answered.</p>
+    
+<p>THAT was the last of January. He actually went to Africa with Wentworth, shot a rhinoceros and some other things, and then one day suddenly took a notion to come back.</p>
+    
+<p>He landed in New York in July, and from the boat made his way to one of his clubs, where he sat around for a day, replying with friendly nods to the servants, who seemed glad to see him. There was hardly any one else about, but the big rooms were quiet and cool&#8212;cooler than he would have thought it possible for New York to be at this time of year.</p>
+    
+<p>Most of the day he sat looking from a window, marveling at the number of people who passed&#8212;people he did not know.</p>
+    
+<p>All this while, as in the long days and nights at sea, as in the long days and nights. in the jungle, Carroll quite conscientiously tried to keep her&#8212;meaning no one else but Helen&#8212;out of his thoughts.
+    
+<cb n="2"/>
+    
+He felt this to be no more than fair. His lawyers had informed him that a certain interval must elapse&#8212;and it was fast elapsing&#8212;during, which he must live quite apart from her. The only safe plan, then, was not to think about her; because, when he did so far forget himself, immediately he became the victim of all sorts of impulsive promptings.</p>
+    
+<p>Toward the middle of the afternoon some of the younger members of the club came in, glanced indifferently in his direction, ordered drinks, and looked over the afternoon papers. It made him feel fifty years old. Picking up his hat and
+Avenue. So he came to Sixtieth Street. The next thing he knew, he was standing before his house&#8212;which, with all the shades drawn, was as a dead thing. He had never seen it like this before. It had always been waiting for himóflowers in the windows, smoke curling from the chimneys, John at the open door, Annette and the others in line behind him. Now it was like a blinded thing which could not recognize him. It depressed him.</p>
+    
+<p>Turning quickly, he hurried to the nearest telephone and summoned a taxi. He drove to the office of his agent, secured a key, and came back. Dismissing the cab, he went up the steps, fitted the key in the lock, and entered.</p>
+    
+<p>UNDER ordinary circumstances it would have seemed a cheerless enough place, but, standing there in the darkened hall, he could have sworn he caught the gentle aroma that always followed in the wake of Helen. Once he even thought he heard the rustle of her skirts. He was not much given to fancies of this sort, either.</p>
+    
+<p>And yet, as he went on, he rather clung to that illusion. It was a pleasing thought that the ghost of her old self still played about the house to which he had brought her as a bride. It was something to be here alone with even that much of her.</p>
+    
+<p>They had never been much alone. In his own home with her that had not been possible. Almost always there was a servant somewhere about. As far as he knew, that was inevitable. Through his whole life and her whole life always there had been servants about.</p>
+    
+<p>The first time he himself had ever known the luxury of being utterly and completely alone was less than three months before. He and Wentworth, with half a hundred natives, were beating a mountain-side in German East Africa one afternoon in search of lions, when somehow he became detached from the party. Rather thoughtlessly he went on until, toward dusk, he awoke to the fact that he was lost.</p>
+    
+<p>The discovery, instead of paralyzing him, roused him. In itself the situation was exceedingly dangerous. It left him in the unfortunate position of being the hunted instead of the hunter. Climbing a tree, he sat through the night, with his rifle across his knees, listening to their ominous, if distant, roars. But above him the stars were shining and he was alone. Something big filled him, as in those who commune in secret places with God. He sensed a certain kinship with elemental things. He thought of her, and so thinking could have met his death calmly, had that been his fate.</p>
+    
+<p>Carroll went on into the library&#8212;the room where she had stood before him that
+    
+<cb n="3"/>
+    
+night and bade him God-speed. It was getting dark behind the shaded windows, but, rather than let in the setting sun and with it the outside world, he hunted around for candles and lighted them. Then, although it was warm enough, he touched a match to the fire ready for kindling. The room was as she had left it.</p>
+    
+<p>IT was clear that he was still moved by the illusion which had mastered him when he entered. The faint rustle, as of her skirts, still reached his ears. Sitting before the flames, he was twice roused by this sound. Once it brought him to his stick, he went out for a walk up the feet. He went as far as the door, and stared down the empty hall&#8212;the hall that led to her room.</p>
+    
+<p>His cheeks actually crimsoned at a new impulse. He wished he might look' in there. He did not know how many of her things she had removed, but if nothing were left but the naked walls there would still be much of her left.</p>
+    
+<p>He hurried back to the library and seized a candle.. With his heart pounding at an absurd pace, he went to the door and opened it. He caught his breath; for there, prone upon the bed, lay his wife.</p>
+    
+<p>He saw her spring to her feet as the light met her astonished gaze.</p>
+    
+<p>"Helen!" he cried.</p>
+    
+<p>She did not answer at once, but passed her trembling fingers over her temples to put back into place some straggling curls. She had on a traveling dress. Her hat lay on a chair beside the bed.</p>
+    
+<p>He started away.</p>
+    
+<p>"I'm sorry," he apologized. "I&#8212;I didn't know you were here."</p>
+    
+<p>"And you," she gasped. "I&#8212;thought you were in Africa."</p>
+    
+<p>"I was," he hastened to assure her.</p>
+    
+<p>Still she seemed so shocked that the only suggestion he could think of was the rather extravagant offer:</p>
+    
+<p>"I only landed yesterday, but&#8212;I'll go back right away."</p>
+
+<p>As he turned, she found her breath long enough to exclaim:</p>
+    
+<p>"I don't want you to. If&#8212;if you'll only go back to the library, that will be&#8212;quite sufficient."</p>
+    
+<p>He did not delay a moment&#8212;though, once there, he did not know what to do next. He paced the floor, uncertain whether he should pick up his hat and stick and leave without further ceremony, or whether he should remain long enough to make further apologies. It was rather a cruel joke fate had played on him, to lead him half around the world to blunder into such a situation as this.</p>
+    
+<p>It seemed to Carroll that her eyes had grown deeper and more tender than when he last saw her. Because of that they were going to be all the harder to forget. And her hair with its straggling ends had made her look more girlish&#8212;which carried his thoughts back to the days when he had first met her. As she raised her head from the bed she had seemed for all the world like just Helen&#8212;just herself. She was detached from all the little world that had swallowed her up.</p>
+    
+<p>For a second she had seemed just like his wife. Perhaps the quiet, empty house helped; perhaps the fact that they two were there alone helped. He had come upon her as upon a desert island, and something in him primeval had leaped to greet herósomething he sensed below his stuttering confusion. Staring into the
+    
+<cb n="4"/>
+    
+flames, he tried to make it out. Then he heard her voice again.</p>
+    
+<p>"I'm sorry to have disturbed you like this, Carl," she was saying.</p>
+    
+<p>She was in the doorway. She had her hat on now, dressed to go out. He hurried across the room so impulsively that she swayed a little and put one hand against the door-frame for support.</p>
+    
+<p>"Can't&#8212;you come in a moment?" he asked.</p>
+    
+<p>It was so he had asked before. Curious that she should have remembered such trivial words. She hesitated.</p>
+    
+<p>"I haven't seen you for almost six months," he reminded her.</p>
+    
+<p>"I know, Carl, but&#8212;"</p>
+    
+<p>"Come in just long enough to warm your hands," he urged.</p>
+    
+<p>She laughed at that.</p>
+    
+<p>"Why, Carl, it's July. Have you forgotten that it's the middle of summer?"</p> 
+    
+<p>"I did forget," he admitted.</p>
+    
+<p>She entered and stood before the flames.</p> 
+    
+<p>"It's very quiet here."</p>
+    
+<p>"That's because we have the whole place to ourselves."</p>
+    
+<p>She started at that.</p>
+    
+<p>"There is no one upstairs or downstairs," he assured her. "There isn't even any one in town. I've been here a whole day without meeting any one I know."</p>
+    
+<p>"So have I," she said.</p>
+    
+<p>"You're here alone?"</p>
+    
+<p>"Without even Annette. I sent her ahead."</p>
+    
+<p>"To Newport?"</p>
+    
+<p>"To the Rantouls'. I'm to visit there a few weeks. And you?"</p>
+    
+<p>"I haven't made any plans," he replied. "I&#8212;I may stay right here."</p>
+    
+<p>It was an impromptu idea on his part, but no sooner had he voiced it than it took hold of his imagination. It was so cool and quiet and restful in these rooms.</p>
+    
+<p>"I might camp out here," he laughed. "I could cook my own meals: bacon and eggs for breakfast; and as for fish&#8212;I can catch all I want in the market."</p>
+    
+<p>"How absurd!" she answered. Then, with half closed eyes, she added: "And yet, it's perfectly possible."</p>
+    
+<p>"Possible? Of course it is. Here's our camp all ready, and as far as we're concerned it might be a thousand miles from anywhere. No one comes to town in July. Why, we'd have the whole city to ourselves!"</p>
+    
+<p>He was using the first person plural quite unconsciously&#8212;until he saw her straighten and her eyes grow big in wonder. Then he caught his breath.</p>
+    
+<p>"I forgot," he apologized.</p>
+    
+<p>SHE smiled a little then&#8212;a wan, trembly sort of smile. Up to that point she had been forgetting also. It was easy here with him alone. And restful&#8212;so very restful after the ache of the last few months. For that ache was what, if the truth were known, had brought her back here&#8212;an attempt to ease somewhat the biting hunger with which he had left her. Six months ago she would have laughed had any one suggested that she could ever feel like that. She must laugh at it now. At any rate, she must not dwell upon it.</p>
+    
+<p>She rose abruptly.</p>
+    
+<p>"I wish you luck in your fishing," she said lightly.</p>
+    
+<p>"You're going now?"</p>
+    
+<p>"It's getting late."</p>
+    
+<p>He glanced at his watch.</p>
+    
+<p>"Too late to make Newport comfortably to-night," he suggested.</p>
+    
+<p>"Oh, I sha'n't try. I shall go back to the hotel."</p>
+    
+<p>"And dine alone?"</p>
+    
+<p>"Yes," she said steadily, and met his eyes as she said it.</p>
+    
+<p>He hesitated a moment, and then ventured:</p>
+    
+<p>"When lone travelers meet in the woods toward sundown, they stop and take potluck together."</p>
+    
+<p>Her cheeks crimsoned slightly.</p>
+    
+<p>"Will you stay?" he pleaded.</p>
+    
+<p>His eyes were upon her&#8212;the eyes of the man to whom she had once before said yes.</p>
+    
+<p>She reached up and removed the pins from her hat.</p>
+    
+
+<div1>
+<head type="main">NEXT WEEK&#8212;"The Abandoned Room"</head>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>WADSWORTH CAMP has done it again. Almost before we were through shivering over his last mystery serial story&#8212;you remember the one where all the action took place in that cold old theater&#8212;here he comes with another one. It's called
+"The Abandoned Room," and it's a story&#8212;well, it's a story with a thrill and a shiver in every instalment. Some story,
+as your newsboy will remark to you. Look for it next week, right on the front page.</p>
+    
+</div1>
+
+    
+<pb n="Page 7" xml:id="ew.issue.19170723.007"/>
+    
+<cb n="1"/>
+
+<div1>
+<p>There was no one in the whole house but them&#8212;no one upstairs, no one downstairs. And there was no one in the other houses on that street. The windows of the other houses were sealed with wooden shutters. They were like blinded things. It was July.</p>
+    
+<p>A little beyond, in the main thoroughfares, there was life, but it was a life foreign to them. They could have walked the familiar streets for hours without meeting any one they knew. Her friends and his friends were all away : some of them in Newport, some of them in the mountains. One might have run across them almost anywhere except in New York.</p>
+    
+<p>It was July, and those who remained behind were those who make the ship go&#8212;far down in the hold. The upper decks were clear.</p>
+    
+<p>BOTH Carroll and his wife sensed this. They were alone with, each other for the first time in their lives. They were alone in their own home&#8212;the house which until now had remained scarcely more than a mass of stone and mortar.</p>
+    
+<p>As Helen removed her hat, tossed it on the library table, and sat down again before the fire, she gave a little sigh of content. The journey from the West had been long and tiresome and dusty. She had hurried to a hotel, but she had found it unbearable there. So she had come on up here. She had her own key and had entered quite unafraid.</p>
+    
+<p>She had gone direct to her own room, and there she had felt shut away from all the rest of the world. For a little while she had found the surcease she craved, and prone on the bed had rested. Then, bit by bit, the past began to creep upon her&#8212;the past, which had so dramatically merged into the present when Carl opened the door. It was small wonder that she had jumped up, dazed and frightened.</p>
+    
+<p>But now that seemed long, long ago; for, here alone with Carl, it was as if there were no past. Because there was no one from the past in the whole house; no one in the neighboring houses, which were blind; no one upon the streets filled with strangers, who glanced indifferently at her. It was almost as if she had died and gone somewhere else, finding Carl there.</p>
+    
+<p>The next second she smiled at the analogy. It was a bit far-fetched, especially in connection with the question he asked:</p>
+    
+<p>"What are we going to do about dinner?"</p>
+    
+<p>"Isn't there anything at all in camp?"</p>
+    
+<p>"I don't know," he answered. "We might see. Do you know the way to the kitchen?"</p>
+    
+<p>She had never been there more than twice in her life, but she knew it was downstairs.</p>
+    
+<p>"I think I can find it," she replied.</p> 
+    
+<p>"Then come on," he said.</p>
+    
+<p>He took a candle and led the way. Carroll opened one or two wrong doors, but in the end they came into the big room, which in its appointments resembled a hotel kitchen. They were confronted by a large coal range, but next to that there was a small electric range; only the electricity was not on.</p>
+    
+<p>"I'll have to go out and telephone the electric company," he decided. "But&#8212;I'm afraid, after it's on; bacon and eggs and flap-jacks is my limit."</p>
+    
+<p>"I can cook almost anything," she said simply.</p>
+    
+<p>"You?" he exclaimed.</p>
+    
+<p>"Yes, Carl."</p>
+    
+<p>"Jove, I didn't know that! Then we're all right."</p>
+    
+<p>He looked at her proudly.</p>
+    
+<p>She was investigating the larder. Most of the essential provisions were in stock. The only things lacking were milk, eggs, and butter.</p>
+    
+<p>"There must be some way of getting
+    
+<cb n="2"/>
+    
+<figure n="illustratoin">
+<head></head>
+<p>"'Yes, it would be like that,' he said. 'It would be like killing love.'"</p>
+<figDesc></figDesc>
+</figure>
+    
+those," he declared. "If I go out and get a taxi, will you come marketing with me?"</p>
+    
+<p>She flushed a little.</p>
+    
+<p>"Yes," she answered.</p>
+    
+<p>It was necessary to seek the advice of the taxi driver as to where to go, but they accomplished their mission within an hour, and brought back with them in a second car a man to turn on the water, and an electrician who in less than ten minutes had the house illuminated like a Christmas tree. As soon as he departed they turned out all the lights except those in the kitchen.</p>
+    
+<p>And there, before Carroll's face and eyes, Helen proceeded to broil chops and toast bread and brew coffee, so that half an hour later he sat down with her&#8212;right there in the kitchen, for convenience&#8212;to as fine a meal as ever Jacques at the club served him. To him it was little short of a miracle. The only objection he could find was that all too soon the dinner came to an end. But she insisted upon leaving the room tidy after that. So he removed his coat and washed dishes for her to wipe.</p>
+    
+<p>She was magnificent at the task. Had Carroll gone to an artist and suggested her portrait in such a pose, he had no doubt but what he would be laughed to scorn. The utmost that any respectable artist would have conceded in a pose symbolic of domesticity would have been to allow her to arrange roses in a vase. But, at that, Carroll had the evidence here of his two eyes, and she was nothing short of magnificent. She held her head well up and smiled at her work as he rambled on about his adventures in Africa.</p>
+    
+<p>"I'd like to have seen you in that tree!" she laughed.</p>
+    
+<p>"It was one of the best nights I spent on the trip," he declared.</p>
+    
+<p>IN the orderly course of events, everything must end; but it was after nine before they were back again in the library. Then she was entitled, after her efforts, to a brief rest, and so sat down before the dying camp fire for half an hour. It was a calm, restful half hour that sank into her very soul. In a chair on the other side of the hearth, Carl smoked. They talked but little, for the silence was welcome to them both. They talked but
+    
+<cb n="3"/>    
+    
+little&#8212;and the only light in the room was that from the embers.</p>
+    
+<p>They were alone in the house. There was no one upstairs or downstairs. He talked but little. Slowly her eyes closed.</p>
+    
+<p>When she awoke with a start, he was still sitting beside the hearth.</p>
+    
+<p>"Do you know the time?" he asked.</p> 
+    
+<p>She shook her head, only half awake.</p> 
+    
+<p>"It is half past one in the morning," he informed her.</p>
+    
+<p>He crossed the room, lighted a candle, and handed it to her as she stood up.</p>
+    
+<p>"It is too late for you to go to the hotel," he said. "You'll have to stay here."</p>
+    
+<p>She took the candle.</p>
+    
+<p>"Good night," he said.</p>
+    
+<p>THE next morning each awoke to a fresher and keener realization that there was no one else in the house but them; no one upstairs, no one downstairs. When she came into the library at eight, she found him waiting for her before a freshly kindled fire that took away all the dampness. She was conscious of the color in her cheeks.</p>
+    
+<p>"Did you sleep well?" he asked.</p>
+    
+<p>"Yes, Carl. And you?"</p>
+    
+<p>"Like a top;" he answered.</p>
+    
+<p>He crossed the room, threw up the windows, and, unfastening the outside shutters, swung them back, letting in a flood of sunshine. He did this with a certain air of proprietorship. The daylight revealed dust here, there, and everywhere. She placed a finger on the big table, and held the smutted tip up for him to see.</p>
+    
+<p>"I must find a cloth and clean here right after breakfast," she said.</p>
+    
+<p>He had forgotten that breakfast was still to be prepared. For a moment he had expected to go downstairs and find it awaiting him&#8212;John standing at attention. It brought a new thrill of joy to him.</p>
+    
+<p>"I'd better put on water to boil," he suggested.</p>
+    
+<p>"I'll go with you," she said.</p>
+    
+<p>On the way down, he stopped at every window and let in the morning light. He was no longer afraid of what lay outside. The windows of the houses opposite him were like blinded things with patches over their eyes. He laughed, calling her attention to them.</p>
+    
+<p>"Don't they look stupid?' he said.</p>
+    
+<p>"Stupid&#8212;but rather pathetic too, Carl," she answered.</p>
+    
+<cb n="4"/>
+    
+<p>"That's because they can't  see," he returned.</p>
+    
+<p>But he was too happy himself to be very sorry for any one else., As each room came to light, he stared about as if he were seeing it for the first time. In the end his eyes always came back to her, and it was then as if she let in still another flood of light, so that he must examine the room again in that new light.</p>
+    
+<p>Even the kitchen, when they entered it, seemed no longer like a hotel kitchen. All the memories of last night were there to greet him. The room was very tidy, as she had left it. But he also had had his part in that. He remembered how he had hung up the dish towels at her direction. They were still there, ready for his use again. It was weird how anything as commonplace, as negative as a dish towel, could acquire a certain identity merely from association with her.</p>
+    
+<p>They had a simple repast of toast and eggs and coffee. They left the kitchen tidy again, and went back into the main house, lingering a moment in the big dining-room and the reception-room, which they had planned together. The silver and glass were put away and the furniture covered with slips. The chairs looked like fat women and slim women in linen dusters. One could not tell to what period they belonged. They were just commonplace women. It was July.</p>
+    
+<p>Back in the library, Helen busied herself with dusting, and he looked on. As fast as she touched anything with the dust-cloth, it became hers&#8212;became theirs. The table and the chairs and the books took on identity.</p>
+    
+<p>"We must get some flowers for the windows," he said. "We ought to go downtown this morning and order them."</p>
+    
+<p>She looked up from her work with troubled eyes.</p>
+    
+<p>"Have you forgotten, Carl, that I must take the afternoon train?"</p>
+    
+<p>"For where?" he exclaimed.</p>
+    
+<p>"For Newport."</p>
+    
+<p>"Newport? But you can't go to Newport this time of year!"</p>
+    
+<p>He spoke so earnestly, so emphatically, that she smiled. But there was a hurt in her throat as she smiled.</p>
+    
+<p>He was striding toward her, and she shrank back a little, with the dust-cloth in her hand. But he came straight on&#8212;his shoulders back, his eyes burning.</p>
+    
+<p>"You can't go to Newport at this time of year," he was saying. "You can't leave home! Why, you wouldn't make a poor blind thing of this house so soon after giving it sight, would you?"</p>
+    
+<p>"I&#8212;I don't understand," she faltered.</p>
+    
+<p>"Why, it's clear as the light of day," he ran on. "You'll have to wire the Rantouls&#8212;we'll have to wire them when we go downtown for the flowers. To close the shutters again would be like killing something just born."</p>
+    
+<p>"Carl!" she cried, trembling.</p>
+    
+<p>"Yes, it would be like that," he went on with growing confidence. "It would be like killing love and all that comes of love."</p>
+    
+<p>He was reaching for her.</p>
+    
+<p>"We're here alone, my wife," he said.</p>
+    
+<p>She swayed a moment, and then his arms were around her. He kissed her on the lips, while she looked steadily into his eyes. And he saw the miracle of the shutters of her soul open wide&#8212;open wide.</p>
+    
+<p>ONE day in October she received a card from the Rantouls. She handed it to him.</p>
+    
+<p>"They are back again," she said.</p> 
+    
+<p>He smiled.</p>
+    
+<p>"Now," he said&#8212;"now it is time to go to Newport."</p>
+    
+</div1>
+</body>
+</text>
+    
+<pb n="Page 8" xml:id="ew.issue.19170723.p008"/>
+    
+<text type="nonfiction" xml:id="meltingpot.19170723">
+<body>
+    
+<head type="main">THE MELTING POT</head>
+<head type="sub">In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes of Health, Efficiency, Travel, Biography, and Adventure</head>
+    
+<head type="sub">THE BEST DRESSED WOMAN IN THE WORLD</head>
+    
+<cb n="1"/>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">© E. O. Hoppe.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>THE favorite model of Lady Duff-Gordon (Mme. Lucile) and one of the most beautiful women in the world! She has to be, to hold her job, for when queens and princesses and mere duchesses, dancers, and actresses come to the Hanover Street establishment with their pin-money in silver mesh bags, this unknown girl walks languidly to and fro, trailing Lady Duff-Gordon's own designs. Her name and address are not for publication. All that Mme. Lucile will tell about her is that her food is culled and prepared with exquisite care, and that she <hi rend="italic">must</hi> have nine hours' sleep.</p>
+    
+<div1><head type="sub">WILL THERE BE AN AMAZON-PACIFIC RAILWAY?</head>
+    
+<cb n="1"/>
+    
+<p>PERU has always wanted a railroad. It is necessary to the future of the country. Lima,&#8212;if you will get out
+your map,&#8212;the capital of Peru, lies near the west coast; and eight miles from Lima is the city of Callao, a port with a good harbor.</p>
+    
+<p>The next most important port of Peru is the city of Iquitos, across the Andes, on the Amazon River.</p>
+    
+<p>It takes forty-five days to go from Lima to Iquitos&#8212;either crossing the Andes on donkeys, or making a long, roundabout voyage by sea. Either way, it takes less time to go from Lima to England than it does from Lima to the principal town of Peru.</p>
+    
+<p>"The proposed railroad will pass through three distinct zones of country," says a writer in the New York Times. "The first, facing the Pacific Ocean, is a long, dry strip, which would, at first sight, seem devoid of value. There is no richer soil in the world than this when it is irrigated.</p>
+    
+<p>"In the spring the rivers come down to the sea, and for several months the natives irrigate the land from the rivers.</p>
+    
+<p>"When the river is sighted coming down the slopes, it is heralded to the towns below by riders, who go ahead to announce the good news to the people. The villages turn out for a holiday. There are usually many marriages coincident with this event.</p>
+    
+<p>"If the river is delayed in any way, the conditions are announced below and the priests pray for its arrival.</p>
+    
+<p>"The second zone crosses the first line
+    
+<cb n="2"/>
+    
+of mountains. Cotton and sugar are raised in this district&#8212;some of the finest in the world. It can be seen growing on plants ten and fifteen feet high. Some of the cotton is of a dark-brown color.</p>
+    
+<p>"The third zone represents the heart of tropical South America. Enough rubber to supply the world for an indefinite time could be found there. Cocoa grows in this district, and the ivory bean, which is the size of an egg, is a substitute for ivory."</p>
+    
+<p>Senator Enrique Zegarro has recently been in New York arranging for the financing of the railroad. After twenty years, a whole life-time of patience and disappointments, he will again ask the Peruvian Congress, when it meets in the summer, to make the necessary concessions.</p></div1>
+    
+<div1><head type="sub">SOMETIMES ENEMIES ARE POLITE</head>
+    
+<cb n="1"/>
+    
+<p>A GERMAN air-pilot had been killed by a British aviator. The Teuton giant, evidently a man of wealth, lay dead in his fur coat and diamond rings.</p>
+    
+<p>"A little to my surprise," says a witness of the battle, in <hi rend="italic">Tit-Bits</hi>, "the British airman proceeded to strip the dead man of his coat, and then to remove his rings and other jewelry; which he packed into a sort of tin canister. To my further surprise, he put the tin canister on his machine, and flew straight over the German lines, waving his handkerchief as he went. When he was over the Huns, he dropped the canister, then wheeled and flew slowly back, while a German party ran out to pick up the utensil."</p>
+    
+<p>This courtesy is said always to follow the bringing down of a pilot on either side.</p></div1>
+    
+<div1><head type="sub">HOW TO TELL A POISONOUS SNAKE</head>
+    
+<cb n="1"/>
+       
+<p>THERE are three groups of venomous snakes scattered through North America. These are the coral snakes, the moccasins, and the rattlesnakes. The coral snakes, says Raymond L. Ditmars, curator of reptiles in the New York Zoölogical Park, in <hi rend="italic">Poisonous Snakes of the United States</hi> (Elwin R. Sanborn), are beautiful gaudy reptiles of the Southwest, covered with broad alternating rinks of red and black, bordered with narrow rings of yellow. They are "mimicked" by harmless relatives who display the same colors arranged in rings. But, while on the poisonous corals yellow borders the
+
+<cb n="2"/>
+
+black rings, on the harmless snakes black borders the yellow rings.</p>
+    
+<p>The rattlesnake group is, of course, easily recognized by that unique and prominent organ, the rattle. Any snake possessing a rattle is dangerous.</p>
+    
+<p>The moccasins or copperheads have on each side, of the head, between the eye and the nostril, a deep pit. Harmless snakes have a round eye; moccasins have an elliptical pupil, like a cat. Moccasins are dull olive, with wide black bands. Copperheads are pale brown, crossed with rich reddish bands, and tinged with copper on top of the head.</p>
+    
+<p>A poisonous snake does not jump from the ground, says the curator, and seldom strikes more than a third of its length. It never chases an enemy. It is not necessary for a rattlesnake to coil before striking. It can strike from a crawling position, provided it can double its neck into an S-shaped loop to lurch the head forward. It is impossible, he says, to render a venomous snake permanently harmless by extracting the fangs, as a number of auxiliary fangs are ready to take their place.</p></div1>
+    
+<div1><head type="sub">A MATTER OF CHOICE</head>
+<head type="sub">From <hi rend="italic">Punch</hi></head>
+
+<figure n="illustration">
+<head></head>
+<p>RECTOR'S DAUGHTER: How splendid of Joe Jarvis's son to volunteer for that very dangerous job! I'm so glad he got the Military Medal.</p>
+<p>MRS. MULLINS (<hi rend="italic">not to be outdone)</hi>: Yes Miss. And <hi rend="italic">my</hi> boy could have got it too if he'd cared to have taken the risk.</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+    
+<div1><head type="sub">FARMERS ARE SATISFIED</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>Not the Rock of Gibraltar, but alfalfa, the crop that not only feeds cattle but gives nitrogen to the soil, so that grain will really grow the next year. That's why the farmer isn't one to groan about the high cost of living.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
+    
+<p>THE rise in the price of food and everything else has taken place all over the country; and yet, not every one groans about rare and costly cabbages, onions, and potatoes.</p>
+    
+<p>The <hi rend="italic">Independent</hi> recently asked its readers "what the high cost of living means to you?" and scores of confidential letters came in.</p>
+    
+<p>"What struck us most, on opening the letters, was the very large proportion who were well satisfied with the present situation. This shows the danger of forming a conclusion on any public question from what appears in print.</p>
+    
+<p>"The dissatisfied are vocal; the satisfied are silent."</p>
+    
+<p>Here are some of the letters:</p>
+    
+<cit>
+<quote>
+<p>I am glad the American farmer is getting a good price for his grain and milk. It is the first time such a thing has happened in half a century. He is the hardest worked citizen under the flag, and until recently the poorest paid.</p>
+    
+<p>His sons have been the staff upon which the nation leaned in former stress, and will be its dependence in future peril.</p>
+    
+<p>I would rejoice if the poultryman was realizing fair profits on fresh eggs, but he is not. Boycotts have reduced the price below cost of production.</p>
+    
+<p>The temporary high price of a few items of food has, not disturbed my economic equilibrium in the least.</p>
+    
+<p>SEDRO-WOOLEY, Washington.</p>
+</quote>
+</cit>
+    
+<cit>
+<quote>
+    
+<p>It is my opinion that most all farmers believe in the high cost of living. They believe in shoes selling for four, five, and six dollars a ,pair; for this would make cattle worth more.</p>
+    
+<p>The farmers rejoice when flour is selling at three dollars a sack, for they know they will get a better price for their wheat. The farm-wives are glad when eggs sell for fifty cents a dozen and butter for fifty cents a pound.</p>
+
+<cb n="2"/>
+
+<p>It is a mighty poor farmer who doesn't sell more than he buys.</p>
+    
+<p>These society women go around wearing one dollar hose, and kick on paying their butter woman fifty cents a pound for her butter.</p>
+    
+<p>They will pay twenty-five dollars for a feather to put on their hat, and organize clubs to reduce the price of eggs.</p>
+    
+<p>They will go into a cream parlor and pay fifteen cents for a soda-fountain drink, and object to paying the milkman eight cents a quart for his milk that has ten times the food value in it that that soda-fountain drink had.</p>
+    
+<p>Since the farmer is the one that makes a little money when the food prices arc high, and there are more of them than any one else, why not let "the thigh cost of living" go on?</p>	
+    
+<p>WEATHERFORD, Oklahoma.</p>
+</quote>
+</cit>
+    
+<p>But listen to the salaried man:</p>
+    
+<cit>
+<quote>
+    
+<p>My professional salary of $2000 has been increased only 14 per cent. in fourteen years. The increased value of my service has been acknowledged, but institutional and municipal economies (of which the consistency is questioned) have denied just compensation, promised and expected for many years.</p>
+    
+<p>In the meantime, I have reared a family. Wife and children deserve better fortune. We have planned with courage and managed with prudence, but the increased cost has overcome us.</p>
+    
+<p>We have been able to save only small insurance. We have denied ourselves every luxury and some things usually regarded as necessary; but there is hardly enough money for doctor, dentist, and oculist. Thus I fail in duties, and thus health, welfare, and happiness are impaired.</p>
+    
+<p>The excessive cost of meat must be paid from the cost of breakfast eggs. The excess cost of potatoes to satisfy the children's hunger must be paid from oranges conducive to health. The excess cost of coal to keep the home comfortable must be paid from the cost of service to wash the clothing. The higher cost of necessary clothing must be paid from the cost of books, music, charity, and social engagements.</p>
+    
+<p>NEW YORK CITY.</p>
+</quote>
+</cit>
+</div1>
+    
+<pb n="Page 9" xml:id="ew.issue.19170723.p009"/>
+
+<div1>
+<head type="sub">HOW MUCH IS A BILLION?</head>
+ 
+<cb n="1"/>
+ 
+<p>SUPPOSE some one were to offer to give you the Liberty Loan of two billion dollars, on the simple condition that you count it, a dollar at a time?
+ 
+<cb n="2"/>
+ 
+Would you accept it? Could you make good under the conditions laid down? How much is a billion, anyway?</p>
+ 
+<p>"We all know how rapidly an expert counter of coin can run through a pile of dollars," said a lecturer before the Educational Department of the National City Bank recently. "The Treasury experts will count four thousand silver dollars in an hour, and keep it up all day long; but that is their limit. Working eight hours a day, then, an expert counter of coins will count thirty-two thousand silver dollars in a day; but how long will it take him, at that rate, to count a million dollars? Thirty-one days.</p>
+ 
+<p>"But that is only the beginning of the measurement of great figures. For if this same man were to go on counting silver dollars at the same rate of speed for ten years, he would find that he had only counted one hundred million of them, and that to count a billion dollars would require one hundred and two years of steady work, at the rate of eight hours per day during every working day of the one hundred and two years.</p>
+ 
+<p>"Another illustration of the large number represented by the term 'billion' is found in the fact that one billion silver dollars laid down in a line, each coin touching its neighbors preceding and following it, would form a line sufficient to stretch practically around the world, the exact number of silver dollars required to form a continuous line equal to the earth's circumference at the equator being 1,052,000,000."</p></div1>
+ 
+<div1>
+<head type="sub">BOOKS WORTH SENDING FOR</head>
+ 
+<cb n="1"/>
+ 
+<p><hi rend="italic">Any of the following books may be secured by sending a money order to the Superintendent of Public Documents (mentioning the department indicated), Washington, D. C.</hi></p>
+ 
+<p>How TO SELECT A SOUND HORSE.
+(Department of Agriculture, Farmers' Bulletin 779.) Price, 5 cents.</p>
+ 
+<p>GOOSE RAISING.
+Gives description and pictures of the principal varieties, and full instructions for raising and marketing. (Department of Agriculture, Farmers' Bulletin 767.) Price, 5 cents.</p>
+ 
+<p>MUSHROOM PESTS AND How TO CONTROL THEM.
+(Department of Agriculture, Farmers' Bulletin 789.) Price, 5 cents.</p>
+ 
+<p>TRANSACTIONS OF A SPECIAL CONFERENCE OF STATE AND TERRITORIAL HEALTH OFFICERS WITH THE UNITED STATES PUBLIC HEALTH SERVICE FOR THE CONSIDERATION OF THE PREVENTION OF THE SPREAD OF POLIOMYELITIS.
+Poliomyelitis (as everybody knows by this time) is infantile paralysis. (Public Health Service, Public Health Bulletin 83.) Price, 15 cents.</p>
+ 
+<p>UNITED STATES GOVERNMENT SPECIFICATION FOR PORTLAND CEMENT.
+The result of several years' work of a conference of government officials with the American Society of Civil Engineers and the American Society for Testing Materials. Third edition. (Bureau of Standards, Circular 33.) Price, 10 cents.</p>
+ 
+<p>FARMERS' MUTUAL FIRE INSURANCE.
+The amount of insurance carried by such companies in the United States exceeds 55.250.000,000. (Department of Agriculture, Yearbook Separate 697.) Price, 5 cents.</p>
+</div1>
+ 
+<div1>
+ <head type="sub">TESTS THAT AIRMEN HAVE T0 PASS</head>
+ 
+<cb n="1"/>
+ 
+<p>AIRMEN must be picked carefully, for they attack and defend themselves in an unfamiliar medium, the air.</p>
+ 
+<p>"Realizing this, the 'French have devised a method of examining applicants for the. position of aviator," says an article in the Boston Medical and Surgical Journal, "which, in addition to the Ordinary physical examination which is given all recruits, comprises certain physiological tests."</p>
+ 
+<p>It is essential that the candidate's sense perceptions be in good order. Therefore his quickness of response to sound, sight, and touch is tested. But the most important thing to find out is the stability of his emotions. He must not be excitable, apprehensive, or nervous. The great aviators are as cool and unperturbed a thousand feet in the air as if they were operating their machines on the ground.</p>
+ 
+<p>"The candidate is tried with unexpected noises. Revolvers are fired off near him, and other loud noises made in his vicinity.
+ 
+<cb n="2"/>
+ 
+Magnesium powder is ignited without Warning, and .searchlights flashed in his eyes to test his reaction to unexpected visual stimuli.' Cold cloths are then applied suddenly to exposed parts of his skin, and needles thrust into him.</p>
+ 
+ <p>"The ideal' candidate shows such slight reaction to these tests that his tracings on paper show little or no change.</p>
+ 
+<p>"Some candidates will react somewhat at first until the purpose of the test is explained to them; they are then able to control their emotions completely. Others show such marked tremor and irregularities in their heart action that it is considered probable that they would not be capable of handling an aeroplane in the presence of hostile forces; and these men are weeded out.</p>
+ 
+<p>"Certainly it is a more scientific way of going about the thing than the forming of judgment based merely on the impression which a candidate makes on the examiner."</p>
+ 
+<figure n="photograph">
+<head></head>
+ <ab n="credit">Photograph by J. T. Jennings.</ab>
+ <p>The day will come when people won't stand looking at an a&#235;roplane and trying to figure how fast she's going. It will be, "Let's go inside and get out of the confounded noise!"</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+ 
+<div1>
+<head type="sub">CAN YOU SAVE A DROWNING PERSON?</head>
+ 
+<cb n="1"/>
+
+<p>THE annual death toll in the waters of the United States is between six and seven thousand lives, and many hundreds of these are lost during the summer months, because so few people know the simple rules of life-saving.</p>
+ 
+<p>Suppose you saw a pasty-white face and staring eyes in the waves out beyond the life-lines. The head goes down and bobs up again, gurgling. This is what you must do, says Charles Phelps Cushing in the <hi rend="italic">Red Cross Magazine</hi>.  After swimming out to him&#8212;</p>
+ 
+<p>"Get behind your man. Grab him by the hair or the collar of his suit with your left hand. Never let him come to grips with you. After you get hold of your
+ 
+<cb n="2"/>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Central News Photo Service.</ab>
+<p>At the beach, when a young lady does this at you, you think she is flirting; and, adjusting your water-wings, you continue to practise that breast stroke. Very likely she is drowning!</p>
+<figDesc></figDesc>
+</figure>
+
+man, swim on your back, and swim low, with no more of yourself or of your man out of water than your faces.</p>
+ 
+<p>"When you get the half drowned man to the shore, first pump the water out of his lungs by turning him on his face and lifting him at the hips. Then lay the body prone, turning the face a little to one side, so the sand will not get in his nostrils. Press with the palms on the small of the man's back and the short ribs, thumbs nearly together. With the regularity of breathing and with the same rhythm,&#8212;a rate of twelve or fourteen times a minute,&#8212;force an artificial respiration by pressing and releasing, pressing and releasing. A good rule is to keep working for a long time after you think there's no more hope.</p>
+ 
+<p>"Ammonia on a sponge or handkerchief put under but not on the patient's nose will help revive him.</p>
+ 
+<p>"As soon as the patient begins to breathe, but not before, his limbs should be well rubbed toward the heart, under the blankets. This will help restore the circulation.</p>
+ 
+<p>"He should afterwards be put to bed, well covered, and surrounded with hot bottles. The windows should be opened so that he may have plenty of air.</p>
+ 
+<p>"No food but hot beef tea should be given for several hours. Hot coffee, however, is useful as soon as he can swallow it.</p>
+ 
+<p>"If the breathing stops at any time after it has once begun, you must immediately start again with artificial respiration."</p>
+</div1>
+ 
+<div1>
+<head type="sub">WHAT OLD PEOPLE SHOULD EAT</head>
+ 
+<cb n="1"/>
+
+<p>LIBRARIES have been written on
+diets for business men and actresses, but little thought has been given to what aged people should eat. "Superintendents of homes for the aged show absolute ignorance of the diet that senile
+
+<figure n="photograph">
+ <head></head>
+ <ab n="credit">Photograph from Edith Watson.</ab>
+ <p>One thing about getting old&#8212;the doctor encourages you to take up  a few small vices, such as a little wine with your dinner. This old lady, who didn't smoke until she was seventy-six, claims that it has made a new woman of her.</p>
+<figDesc></figDesc>
+</figure>
+ 
+changes necessitate," writes Dr. I. L. Nasher in the <hi rend="italic">Medical Review of Reviews</hi>.</p>
+ 
+<p>With advancing age there is less strength and activity. For these reasons, the amount of food should 'be diminished. The loss of teeth in old age is nature's signal that an aged person should no longer eat meat, the only food that needs to be thoroughly masticated. "It is not necessary suddenly to discontinue the use of meat. There should be a gradual reduction, and only the light meat of young animals and fowl should be taken."</p>
+ 
+<p>There is no definitely prescribed diet for old age, but there are a few rules that can be followed: "The total amount of food must be diminished. It must be thoroughly cooked and finely chopped. Vegetables containing much cellulose should be freely used. Foods should be given in a liquid, semi-liquid, or mush form, and dry foods should be avoided. Foods should not be given at shorter intervals than four or five hours. Mild alcoholics at meals and at bedtime are not objectionable."</p>
+</div1>
+
+<div1>
+ <head type="sub">WHY YOUR LETTER WAS NEVER DELIVERED</head>
+ 
+<cb n="1"/>
+
+<p>"EVERY year nearly twenty million pieces of mail are dropped into mail-boxes either without proper postage or improperly addressed," says the Postmaster's Advocate. They find their way into the Dead Letter Office, whence, in spite of the wonderful detective ability of the officials assigned there, only a fraction of them are ever delivered or returned to the writers.</p>
+ 
+<p>Many of them are the commonplace communications of business or family life. But thousands contain Christmas gifts, and other thousands articles whose value is a remarkable commentary on the carelessness of the average American. "Within the past few months stock certificates worth $300,000 turned up in an envelop with a defective address, and a letter sent by a great banking house and destined for some one in Chicago was found to contain $40,000 in checks. It bore no address whatever.</p>
+ 
+<p>"Of the eleven million letters which were destroyed in the Dead Letter Office last year, more than ten million of them would not have reached that place, the money and articles they contained would not have been lost, their messages of love and friendship would not have miscarried, and the Post Office Department would have been spared millions of expense&#8212;if the writers of them had placed return addresses on the envelops."</p>
+ 
+<p>This is the real moral of the Dead Letter Office.</p>
+</div1>
+
+</body>
+</text>
+ 
+<pb n="Page 10" xml:id="ew.issue.19170723.p010"/>
+ 
+<text type="fiction" xml:id="ford.19170723">
+<body>
+ 
+<head type="main">When Torchy Got the Call</head>
+<byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Brown, Arthur William">Arthur William Brown</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<p>"'I got to go help swat the Hun,' says I. 'Must you?' says she, quiet. No jumpy emotions&#8212;not even a lip quiver."</p>
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="1"/>
+ 
+<p>NO, I ain't said much about it before. There are some things you're apt to keep to yourself, specially the ones that root deep. And I'll admit that at first there I didn't quite know where I was at. But as affairs got messier and messier, and the U-boats got busier, and I heard some first-hand details of what had happened to the Belgians&#8212;well, I got mighty restless. I expect I indulged in more serious thought stuff than I'd ever been guilty of.</p>
+ 
+<p>You see, it was along back when we were gettin' our first close-ups of the big scrap&#8212;some of our boats sunk, slinkers reported off Sandy Hook, bomb plots shown up, and Papa Joffre over here soundin' the S. 0. S. earnest.</p>
+ 
+<p>Then there was Mr. Robert joinin' the Naval Reserves, and two young hicks from the bond room who'd volunteered. We'd had postals from 'em at the trainin' camp. Even Vee was busy with a first-aid class, learnin' how to tie bandages and put on splints.</p>
+ 
+<p>So private seccing seemed sort of tame and useless&#8212;like keepin' on sprinklin' the lawn while your chimney was bein' struck by lightnin'. I felt like I ought to be gettin' in the game somehow. Anyway, it seemed as if it was my ante.</p>
+ 
+<p>Not that I'd been rushed off my feet by all this buntin'-wavin' or khaki-wearin'. I'm no panicky Old Glory trail-hitter. Nor I didn't lug around the idea. I was the missin' hero who was to romp rough the barbed wire, stamp Hindenburg's whiskers in the mud, and lead the Allies across the Rhine. I didn't even kid myself I could swim out and kick a hole in a submarine, or do the darin' aviator act after a half-hour lesson at Mineola.</p> 
+ 
+<p>In fact, I suspected that sheddin' the enemy's gore wasn't much in my line. I knew I should dislike quittin' the hay at dawn to sneak out and get mixed up with half a bushel of impetuous scrap-iron. Still, if it, had to be done, why net me as well as the next party?</p>
+ 
+<p>I'D been meanin' to talk it over with Vee—&#8212;sort of hint around, anyway, and see how she'd take it. But as a matter of fact I never could seem to find just the right openin' until, there one night-after dinner, as she finishes a new piece she's tryin' over on the piano, I wanders up beside her and starts absent-minded tearin' little bits off a corner of the music.</p>
+ 
+<p>"Torchy!" she protests. "What an absurd thing to do."</p>
+ 
+<p>"Eh?" says I, twistin' it into a cornucopia. "But you know I can't go on warmin' the bench like this."</p>
+ 
+<p>She stares at me puzzled for a second.</p>
+ 
+<p>"Meaning what, for instance?" shd asks.</p>
+ 
+<p>"I got to go help swat the Hun," says I.</p>
+ 
+<p>The flickery look in them gray eyes of hers steadies down, and she reaches out for one of my hands. That's all. No jumpy emotions&#8212;not even a lip quiver.</p>
+ 
+<p>"Must you?" says she, quiet. </p>
+ 
+<p>"I can't take it out in wearin' a button or hirin' some one to hoe potatoes in the back lot," says I.</p>
+
+<cb n="2"/>
+
+<p>"No," says she.</p>
+ 
+<p>"Auntie would come, I suppose?" says I.</p> 
+ 
+<p>Vee hods.	</p>
+ 
+<p>"And with Leon here," I goes on, "and Mrs. Battou, you could&#8212;"</p>
+ 
+<p>"Yes, I could get along," she breaks in. "But&#8212;but when?"</p>
+ 
+<p>"Right away," says I. "As soon as they can use me."</p>
+ 
+<p>"You'll start training for a commission, then?"' she asks.</p>
+ 
+<p>"Not me," says I. "I'd be poor enough as a private, but maybe I'd help fill in one of the back rows. I don't know much about it. I'll look it up to-morrow."</p>
+ 
+<p>"To-morrow? Oh!" says Vee, with just the suspicion of a break in her voice.</p>
+ 
+<p>And that's all we had to say about it. Every word. You'd thought we'd exhausted the subject, or got the tongue cramp. But I expect we each had a lot of thoughts that didn't get registered. I know I did. And next mornin' the breakaway came sort of hard.</p>
+ 
+<p>"I&#8212;I know just how you feel about it," says Vee.</p>
+ 
+<p>"I'm glad somebody does, then," says I.</p>
+ 
+<p>Puttin' the proposition up to Old Hickory was different. He shoots a quick glance at me from under them
+
+<cb n="3"/>
+
+shaggy eyebrows, bites into his cigar savage, and grunts discontented.</p>
+ 
+<p>"You are exempt, you know," says he.</p>
+ 
+<p>"I know," says I. "If tags came with marriage licenses I might wear one on my watch-fob to show, I expect."</p>
+ 
+<p>"Huh!" says he. "It seems to me that rapid-fire brain of yours might be better utilized than by hiding it under a trench helmet."</p>
+ 
+<p>"Speedy thinkers seem to be a drug on the market just now," says I. "Anyway, I feel like it was up to me to deliver something—I can't say just what. But campin' behind a roll-top hero on the nineteenth floor ain't going to help much, is it?"</p>
+ 
+<p>"Oh, well, if you have the fever!" says he.</p>
+ 
+<p>AND half an hour later I've pushed in past the flag and am answerin' questions while the sergeant fills out the blank.</p>
+ 
+<p>Maybe you can guess I ain't in any frivolous mood. I don't believe I thought I was about to push back the invader, or turn the tide for civilization. Neither was I lookin' on this as a sportin' flier or a larky excursion that I was goin' to indulge in at public expense. My idea was that there'd been a general call for such as me,
+
+<cb n="4"/>
+
+and that I was comin' across. I was more or less sober about it.</p>
+ 
+<p>They didn't seem much impressed at the recruitin' station. Course, you couldn't expect the sergeant to get thrilled over every party that drifted in. He'd been there for weeks, I suppose, answerin' the same fool questions over and over, knowin' all the time that half of them that came in was bluffin' and that a big per cent. of the others wouldn't do.</p>
+ 
+<p>But this other party with the zippy waist-line, the swellin' chest, and the nifty shoulder-straps&#8212;why should he glare at me in that cold, suspicious way? I wasn't tryin' to break into the army with felonious intent. How could he be sure, just from a casual glance, that I was such vicious scum?</p>
+ 
+<p>Oh, yes; I've figured out since that he didn't mean more'n half of it, or couldn't help lookin' at civilians that way after four years at West Point, or thought he had to. But that's what I get handed to me when I've dropped all the little things that seemed important to me and walks in to chuck what I had to offer Uncle Sam on the recruitin' table.</p>
+ 
+<p>SOME kind of inspectin' officer, I've found out he was, makin' the rounds to see that the sergeants didn't loaf on the job. And, just to show that no young patriot in a last year's Panama and a sport-cut suit could slip anything over on him, he shoots in a few crisp questions on his own account.</p>
+ 
+<p>"Married, you say?" says he. "Since when?"</p>
+ 
+<p>"Oh, this century," says I. "Last February, to get it nearer."</p>
+ 
+<p>He sniffs disagreeable without sayin' why. Also he takes a hand when it comes to testin' me to see whether I'm club-footed or spavined. Course, I'm no perfect male like you see in the knit underwear ads, but I've got the usual number of toes and teeth, my wind is fairly good, and I don't expect my arteries have begun to harden yet. He listens to my heart action and measures my chest expansion. Then I had to name different colors and squint through a tube at some black dots on a card. And the further we went the more he scowled. Finally he shakes his head at the sergeant.</p>
+ 
+<p>"Rejected," says he.</p>
+
+<p>"Eh?" says I. "You&#8212;you don't mean I'm&#8212;turned down?"</p>
+ 
+<p>He nods. "Underweight, and your eyes don't focus," says he snappy. "Here's your card. That's all."</p>
+ 
+<p>Yes, it was a jolt. I expect I stood there blinkin' stupid at, him for a minute or so before I had sense enough to drift out on the sidewalk. And I might as well admit I was feelin' mighty low. I didn't know whether to hunt up the nearest hospital, or sit down on the curb and wait until they came after me with the stretcher-cart. Anyway, I knew I must be a physical wreck. And to think I hadn't suspected it before!</p>
+ 
+<p>Somehow I dragged back to the office, and a while later Mr. Ellins discovers</p>
+ 
+<p><ref target="ford.19170723.jump">Continued on page 15</ref></p>
+ 
+</body>
+</text>
+ 
+<pb n="Page 11" xml:id="ew.issue.19170723.p011"/>
+ 
+<text type="photograph" xml:id="homebreakers.19170723">
+<body>
+ 
+<head type="main">HOME-BREAKERS</head> 
+<byline>Photographs by Paul Thompson</byline>
+ 
+<figure n="photograph">
+<head></head>
+<p>"GET rid of the junk," pleads Mrs. Emmot Bud. "Of course it may have a tender interest for you,&#8212;that first trip to Europe, that first housekeeping money you saved,&#8212;but you don't caress your husband in public, do you? Then don't bore your friends with uninviting souvenirs. Your home should grow with you," she insists. Home decoration has improved, in her opinion, because the modern woman is too busy to paint stones and shells and gild frying-pans.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHAT has become of the old-fashioned home with the chimney corner and the "what-not" and the ornaments made out of corn-cobs, and a place where a man could get a little comfort? Answer: these women have done for it. Now a home must have a "point of interest," according to Elsie Cobb Wilson. She designed a room for Mrs. Vincent Astor around a pair of mauve and mulberry Ming jars. And probably she took out the pipe-rack and foot-rest and made Vincent take his slippers upstairs.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ELSIE DE WOLFE, the Chintz Queen, says she dreams of beautiful houses as other women dream of love affairs. Her specialty is taking dark, grim old city houses and turning them into abodes of sunshine and light. "We are too much afraid of the restful commonplaces," she says. "How much better to have plain furniture, cretonne hangings, a few good prints, wicker, natural, and painted woods, than all the sham things in the world." Miss De Wolfe was the first decorator to realize the beauty of black. Her black and gold scheme in Ethel Barrymore's apartment was a nine days' wonder.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<p>IT'S up to you, girls. "Man," says Mrs. John Alexander, "is always 'a guest in the home. It is the personality of the mistress that the house expresses." Mrs. John is all for simplicity. "One vase is more beautiful than two, one flower more beautiful than a bunch." (One dollar a year for this magazine better than two for any other, etc.) Mrs. Alexander believes that every woman has a right to be pretty in her own home; and, to this end, you behold her matching a curtain to a complexion.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<p>THE Tired Business Man has a firm friend in Miss Alice Smith (the lady with the coat off). "Bring the home into the office," says she; "that's what he needs more than musical comedies." Working amid tasteful, restful, quiet surroundings has a distinct psychological effect on husband's temper, she thinks. Miss Smith deadened the jarring note of commercialism in the offices of the New York Merchants' Association so successfully that instinctively one looks for the tea-table on entering. Speaking of tea, Miss Smith is all for having it served in offices: "There would be fewer five o'clock cocktails in Wall Street," says she.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<p>"COMFORT rather than speed," Miss Florence Bass avers, "is what hotels need. It is wonderful how managers are beginning to realize this. They used to fight me because I tried to eliminate 'glitter'&#8212;now they beg me to avoid it." She is a foe to expensive and extravagant hangings and carpets, as such. She hates "parlors" vindictively. Bedrooms, she holds, should be small ante-chambers opening on boudoirs. Dining-rooms should be light and airy, not formal and impressive.</p>
+<figDesc></figDesc>
+</figure>
+ 
+</body>
+</text>
+ 
+<pb n="Page 12" xml:id="ew.issue.19170723.p012"/>
+ 
+<text type="photograph" xml:id="feudists.19170723">
+<body>
+
+<head type="main">A FEW WORDS ON FEUDISTS</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>LITTLE by little, progress is knocking the picturesqueness out of life. The railroads and schools have pushed into the Kentucky mountains; and feuds are almost a thing of the past. They were great while they lasted, though. Whichever side appealed to the law was almost sure to lose. In the French-Eversole feud the Eversoles invoked the law on their enemies. For counties around their name became a reproach, and so many strangers hastened to enlist with the Frenches that the Eversoles were forced out of the mountains. A little boundary dispute started the Barnes-Kellogg feud, and in one year all the fighting Barneses were dead. A short life and a merry one. Just good morning and good night.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Thomas A. Knight</ab>
+<p>IF you started early enough in life, and were blessed with a strong constitution, you might live to reach Mingo Hollow, Middlesboro, Kentucky. It is about as accessible as Lhassa, Thibet ; and it was in Mingo Hollow that the Night Riders staged their exciting little war against the American Tobacco Company in 1908. Farmers who sold to the company did so at the peril of their lives. Barns were burned, men beaten and shot; and yet, so difficult is Mingo Hollow to get to, only fifteen of the Night Rider were captured in two years. If you ever go to Mingo, watch your step or bingo! a bad man will get you if you don't look out.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>BREATHITT COUNTY has been quiet now for several years. But 'twas not ever thus. It worked hard to win the name "Bloody Breathitt," and was rather proud of it. There the Tolliver-Martin feud dragged on for sixty years, ending in 1907 with a grim battle in which 300 persons were engaged. In the fierce fighting Craig Tolliver, son of the leader of his clan, was killed, and the Tollivers vanquished. The death roll for the sixty years of fighting was 216 persons. It was in Breathitt, too, right across from the court-house, that Judge Haigis was shot down in his own store by his own son, ending the feud which his family had waged for years.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© G. V. Bock, from Underwood &amp; Underwood.</ab>
+<p>WHEN Judge Massis took the bench at Hillsville, his first words, "I shall enforce the law, no matter who it affects," were taken to mean that infractions of the law by the Allens and Edwardses would no longer be tolerated. The Allens tested it out immediately, and one of their number was handcuffed and put in prison. On the day of the trial his relations entered the court-room and killed the judge, the sheriff, and the officers of the court. The Allens and Edwardses then scattered to the dense forests, inaccessible caves, and lonely hill cabins they alone knew, and it took three years for posses to locate all of them. "All the trouble started because they put handcuffs on an Allen," said Sidna Allen, as he went to the electric chair.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>WHEN new clothes are needed in the mountains, the mother of the household spins the yarn, just as did Martha Washington. And around her the family carries on its conversation in quaint phrases that have come straight down from the England of Elizabeth. "That onion'll strong ye," they say; and "I fell into the mud and got benastied"; and "That bar'll meat me a month"; and "Pass me them molasses." Appendicitis is unknown, but "dew pizen" and "milk sick" are familiar diseases never satisfactorily diagnosed by travelers. Lincoln's mother is said to have died of the latter.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>IT'S a wonderful country to live in&#8212;the mountains of Kentucky. Wooded hills, sparkling brooks, rivers winding in and out. But one must have an appreciation of scenery strong enough to overcome the lack of such luxuries as bath-tubs, sheets, and individual rooms. It is no uncommon thing for the housekeeping of a family of twelve or thirteen to be carried on in one room. And the boys of the family, sleeping all in one bed, are so well.trained that when one cries, "Roll over," all six or eight of them will turn instinctively, without even waking up.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19170723.p013"/>
+
+<figure n="photograph">
+<head></head>
+<p>FROM left to right, behold Messrs. Youtsey, Powers, and Taylor. Whether any of them knows who fired the shot that killed Governor Goebel, the world will probably never find out. The Governor was killed by a shot fired from Secretary of State Powers' window in the Capitol. Governor William S. Taylor, Republican candidate, Goebel's opponent, was arrested with his Secretary, Henry Youtsey, and Secretary of State Powers. Powers proclaiming his innocence, was sentenced to prison, pardoned, and later elected to Congress. Taylor fled to Indiana; and no governor has ever granted requisition papers for him. Who shot Goebel? It's as much a mystery to <unclear/></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© G. V. Buck</ab>
+<p>THESE two circuit riders (Hard Shell Baptist, of course) are starting off on a fifty-mile ride to give what's what to
+a particularly troublesome community. The mountains are full of such itinerant Billy Sundays. Revivals are known as "feet-washin's," and arc big times. It is a time of ecstasy and "making up." Women "break" hatreds by exchanging babes to suckle. Men "bury the hatchet" literally. Weddings and funerals are other big occasions. "Moonshine" flows freely, and the singing, dancing and shouting continue as long as the barrel holds out</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>"IF thar's likker about and she don't git none, she jist raars," a mountain mother told John Fox, Jr., when he deprecated the wisdom of feeding whisky to a year-old baby. Distilling the mountaineer considers his vested right. To tax his "still" seems a blow at the one thing obdurate nature has given him. Eight bushels of grain will make sixteen gallons of whisky. This means from $8 to $12 for the moonshiner. Selling moonshine is his only means of acquiring cash, and he has to have cash for sugar, calico, and gunpowder. Other commodities he can secure by barter. So it has come about that even families "feuding" with one another have often effected an armistice for the confusion of their common foe&#8212;the revenue man.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Underwood &amp; Underwood.</ab>
+<p>"OUR contemporary ancestors" is the name President Frost of Berea College applies to the Kentucky mountaineers. Who are they? Well,&#8212;get ready for a shock,&#8212;they are the only really pure. blooded Americans in the country. Their ancestor came from England in the eighteenth century. got lost in the mountains, and the descendants have stayed there ever since. No marrying outside their own little circle: no mixing blood. Here's a typical old-style mountaineer. He has never seen a railroad train, or been twenty miles away from home. His wife has never visited her people, who live only ten miles away. Think of the joy of the life&#8212;no telephones, no paper towels, no liquid soap, no mothers-in-law.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Brown Brothers.</ab>
+<p>THE feudist of the distaff side will go the male one better any day. "I pray that my unborn child will be a boy, so that he can avenge the death of his father," cried Mrs. Adeline McHaffey, when they brought the dead body of her husband back to her. This was twelve years ago. One day little Don McHaffey, aged eleven, was seen running down a road in Rowan County, carrying a Winchester as large as himself. A mile back in the bushes lay Eli Howard, a bullet through his heart. At the trial Mrs. McHaffey wore a smile of proud disdain; and the jury, all mountaineers, decided that there was no evidence. The witnesses forgot what Mrs. McHaffey said at the time of her husband's death.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+ 
+<pb n="Page 14" xml:id="ew.issue.19170723.p014"/>
+ 
+<text type="photograph" xml:id="mines.19170723">
+<body>
+ 
+<head type="main">UP FROM THE MINES</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Paul Thompson.</ab>
+<p>OUR trouble was, we were too well born. The lower you start, the higher you go. If you want to be President, be born in a log cabin: if you want to be a millionaire, start in the mines. Harry Barnhardt didn't exactly start in the mines, and he isn't exactly a millionaire. He started in the Armor Plate Machine Shop at Homestead in the days when Ellis Corey and his family lived in the mill yard and Mrs. Charles Schwab ran a boarding-house. Now he is the leader of the great New York Community Chorus. The picture shows him singing&#8212;not protesting at the price of coal, as one might mistakenly imagine.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Underwood &amp; Underwood.</ab>
+<p>"NO country can rise higher than its women. And I don't have to see the woman to know what she is; I can tell by looking at the sons she's raised." So shouts Mother Jones, and the crowd of strikers cheer. Wherever there's a strike riot, look for Mother Jones. Trouble is the breath of her nostrils. She's as much at home in a jail as in a parlor. And whenever her boys in the mines take a notion they want to walk out, they can count on her. She'll be there, armed only with her trusty tongue: which, believe us, is enough.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Jennings, from Underwood &amp; Underwood.</ab>
+<p>RIGHT in the heart of the coal-mine district was born H. C. Frick. In 1869 he went to work as a bookkeeper. Along in the late '70's, after the panic of '73, people began to think he was crazy&#8212;buying up coal land and coke ovens and steel mills, when everybody knew that the country was busted and could never come back. But H. C. believed in the country, and when it did come back, it brought all sorts of nice things in its hands for him&#8212;a Fifth Avenue house, and paintings by Rembrandt, and a bathing suit to wear at Palm Beach, and everything.</p>
+<figDesc></figDesc>
+</figure> 
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Paul Thompson.</ab>
+<p>A ROLLING stone may not gather much moss; but who wants moss? Senator William A. Clark rolled around in the great West for years&#8212;mining, store-keeping, driving teams, and taking a shot at anything that had a dollar mark, attached to it. And to-day he lives on Fifth Avenue, in a house that all the bus-drivers point to, and owns some of the richest mining properties in the world. We suppose his picture has been published so often that this publicity won't affect him much. But we sorter wish he would invite us in some day to have a swim with him in his private tank, while his private pipe organist plays on his private pipe organ.</p>
+<figDesc></figDesc>
+</figure> 
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© G. V. Buck.</ab>
+<p>FEW men in the United States have had more reason to give up hope than has William B. Wilson at various times in his life. He started without education. When, by patient study at night, he succeeded in schooling himself, his progress brought him only the distrust of the men he was organizing and the opposition of the mine-owners. For years his life was constantly in danger, and he himself occasionally in jail on one charge or another. Yet he won out, and sits to-day in the President's Cabinet. New proof of the truth that you can't keep a good man down, as the whale discovered in the now celebrated case of Whale <hi rend="italic">vs.</hi> Jonah.</p>
+<figDesc></figDesc>
+</figure> 
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Underwood &amp; Underwood.</ab>
+<p>"JOHNNY" MITCHELL,  as the miners call him, or "Jack, as they sometimes say, knows the mining business from the lowest pit. He knows so well how hard the miners have to work for what they get, that when they wanted to present him with $75,000 he refused it; and another time a proposal to get together $30,000 for him by means of a ten-cent assessment came to naught because he heard about it in advance. He's a regular fellow, and we're for him strong, ever though he does wear a hard boiled hat, which we have sworn never to do again as long as we live.</p>
+<figDesc></figDesc>
+</figure> 
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19170723.p015"/>
+ 
+<text type="fiction" xml:id="ford.19170723.jump">
+<body>
+
+<p rend="jumpline"><ref target="ford.19170723">&#8212;Continued from page 10</ref></p>
+
+<p>me slumped in my chair with my chin down.</p>
+ 
+<p>"Mars and Mercury!" says he. "You haven't been through a battle so soon, have you?"</p>
+ 
+<p>At that, I tries to brace up a bit and pass it off light.</p>
+ 
+<p>"Why didn't some one tell me I was a chronic invalid?" says I, after sketchin' out how my entry had been scratched by  the chesty one. "I wonder where I could get a pair of crutches and a light-runnin' wheel chair?"</p>
+ 
+<p>"Bah!" says he. "Some of those army officers have red-tape brains and no more common sense than he guinea-pigs. What in the name of the Seven Shahs did he think was the matter with you?"</p>
+ 
+<p>"My eyes don't track and I weigh under the scale," says I. "I expect there's, other things, too. Maybe my floatin' ribs are water-logged and my memory muscle-bound. But I'm a wreck, all right."</p>
+ 
+<p>"We'll see about that," says Old Hickory, pushin' a buzzer.</p>
+ 
+<p>And inside of an hour I felt a lot better. I'd been gone over by a life insurance expert, who said I hadn't a soft spot on me, and an eye specialist had reported that my sight was up to the average. Oh, the right lamp did range a little further, but he claims that's often the case.</p>
+ 
+<p>"Maybe my hair was too vivid for trench work," says I, "or else that captain was luggin' a grouch. Makes me feel like a wooden nickel at the bottom of the till, just the same; for I did hope I might be useful somehow. I'll look swell joinin' the home guards, won't I?"</p>
+ 
+<p>"Don't overlook the fact, young man," puts in Old Hickory, "that the Corrugated Trust is not altogether out of this affair, and. that we are running short-handed as it is."</p>
+ 
+<p>I was too sore in my mind to be soothed much by that thought just then, though I did buckle into the work harder than ever.</p>
+ 
+<p>As for Vee, she don't have much to say, but she gives me the close tackle when she hears the news.</p>
+ 
+<p>"I don't care!" says she. "It was splendid of you to want to go. And I shall be just as proud of you as though you had been accepted."</p>
+ 
+<p>"Oh, sure!" says I. "Likely I'll be mentioned in despatches for the noble way I handled the correspondence all through a hot spell."</p>
+ 
+<p>THAT state of mind I didn't shake loose in a hurry, either. For three or four weeks, there, I was about the meekest commuter carried on the eight-three. I didn't do any gloatin' over the war news. I didn't join any of the volunteer boards of strategy that met every mornin' to tell each other how the subs ought to be suppressed, or what Haig should be doin' on the West front. I even stopped wearin' an enameled flag in my buttonhole. If that was all I could do, I wouldn't four-flush.</p>
+ 
+<p>The Corrugated was handlin' a lot of war contracts, too. Course, we was only gettin' our ten per cent., and from some we'd subbed out not even that. It didn't strike me there was any openin' for me until I'd heard Mr. Ellins, for about the fourth time that week, start beefin' about the kind of work we was gettin' done.</p>
+ 
+<p>"But ain't it all O. K.'d by government inspectors?" I asks.</p>
+ 
+<p>"Precisely why I am suspicious," says he. "Not three per cent. turned back! And on rush work that's too good to be true. Looks to me like careless inspecting&#8212;or worse. Yet every man I've sent out has brought in a clean bill; even for the Wonder Motors people, who have that sub-contract for five hundred tanks. And I wouldn't trust that crowd to pass the hat for an orphans' home. I wish I knew of a man who could&#8212;could&#8212; By the Great Isosceles! Torchy!"</p>
+ 
+<p>I knew I was elected when he first begun squintin' at me that way. But I couldn't see where I'd be such a wonderful find.</p>
+ 
+<p>"A hot lot I know about buildin' armored motor-trucks, Mr. Ellins," says I. "They could feed me anything."</p>
+ 
+<cb n="2"/>
+ 
+<p>"You let 'em," says he; "and meanwhile you unlimber that high-tension intellect of yours and see what you can pick up. Remember, I shall expect results from you, young man. When can you start for Cleveland? To-night, eh? Good! And just note this: It isn't merely the Corrugated Trust you are representing: it's Uncle Sam and the Allies generally. And if anything shoddy is being passed, you hunt it out. Understand?"</p>
+ 
+<p>Yep, I did. And I'll admit I was some thrilled with the idea. But I felt like a Boy Scout being sent to round up a gang
+gun-fighters. I skips home, though, packs my bag, and climbs aboard the night express.</p>
+ 
+<p>WHEN I'd finally located the Wonder works, and had my credentials read by every one; from the rookie sentry at the gate to the Assistant General Manager, and they was convinced I'd come direct from Old Hickory Ellins, they starts passin' out the smooth stuff.  Oh, yes! Certainly! Anything special I wished to see?</p>
+ 
+<p>"Thanks," says	I. "I'll go right through."</p>
+ 
+<p>"But we have lour acres of shops, you know," suggests the  A. G. M., smilin' indulgent.</p>
+ 
+<p>"Maybe I can do an acre a day," says I. "I got lots of time."</p>
+ 
+<p>"That's the spirit," says he, clappin' me friendly on the shoulder. "Walter, call in Mr. Marvin."</p>
+ 
+<p>He was some grand little demonstrator, Mr. Marvin&#8212;one of these round-faced, pink-cheeked, chunky built young gents, who was as chummy and as entertainin' from the first handshake as if. we'd been room-mates at college. I can't say how well posted he was on what was goin' on in the different departments he hustled me through, but he knew enough to smother me with machinery details.</p>
+ 
+<p>"Now, here we have a battery of six hogging machines," he'd say. "They cut the gears, you  know."</p>
+ 
+<p>"Oh, yes," I'd say, tryin' to look wise.</p>
+
+<p>It was that way all through the trip. I saw two or three thousand sweaty men in smeared overalls and sleeveless undershirts putterin' around lathes and things that whittled shavings off shiny steel bars, or hammered red-hot chunks of it into different shapes, or bit holes in great sheets of steel. I  watched electric cranes the size of trolley cars juggle chunks of metal that weighed tons. I listened to the roar and rattle and crash and bang, and at the end of two hours my head was whirlin' as fast as some of them big belt wheels; and I knew almost as much about what I'd seen as a two-year-old does about the tick-tock daddy holds up to her ear.</p>
+ 
+<p>Young Mr. Marvin don't seem discouraged, though. He suggests that we drive in to town for lunch. We did, in a canary-colored roadster that purred along at about fifty most of the way. We fed at a swell club, along with a bunch of cheerful young lieutenants of industry who didn't seem worried about the high cost of anything. I gathered
+
+<cb n="3"/>
+
+that most of 'em was in the same line as Mr. Marvin&#8212;supplies or munitions. From the general talk, and the casual way they ordered pink cocktails and expensive cigars, I judged it wasn't exactly a losin' game.</p>
+ 
+<p>Nor they didn't seem anxious about gettin' back to punch in on the time clocks. About two-thirty we adjourns to the Country Club, and if I'd been a mashie fiend I might have finished a hard day's work with a game of golf. I thought I ought to do some more shops, though. Why, to be sure! But at five we knocked off again, and I was towed to another club, where we had a plunge in a marble pool so as to be in shape for a little dinner. Mr. Marvin was gettin' up for me. Quite some dinner! There was a jolly trip out to an amusement park later on. Oh, the Wonder folks were no tight-wads when it came to showin' special agents of the Corrugated around.</p>
+ 
+<p>TRIED, another day of it before givin' A up. It' was no use. They had me buffaloed: So I thanked all hands and :hinted that maybe I'd better be goin' back: hope I didn't deceive any one, for I did go back--to the hotel. But by night rd invested $11.45 in a second-hand Outfitówarranted steam-cleaned-Land: I- had put up $6 more for a week's board with a Swede lady whose front porch faced the ten-foot fence guardin' the Wonder Motors' main plant. Also, Mrs. Petersen had said it was a cinch I 'could get a job. Her old man would show me --where in the mornin'.</p>
+ 
+<p>And say, mornin' happens early out in places like that. By five-thirty A. M. I could smell the bacon grease, and by sixteen-breakfast was all over and Petersen had lit his corn-cob pipe.</p>
+ 
+<p>"Coom!" says he in pure Scandinavian.</p>
+ 
+<p>This trip, I didn't make my entrance in over the Turkish rugs of the private office. I was lined up with a couple of dozen others against a fence about tenth from a window, where there was "Men Wanted" sign out. Being about as much
+ 
+<cb n="4"/>
+ 
+of a mechanic as I am a brunette, I made no wild bluffs. I just said I wanted a job. And I got it&#8212;riveter's helper, whatever that might be. By eight-thirty my name and number was on the pay-roll, and the foreman of shop No. 19 was introducin' me to my new boss.</p>
+ 
+<p>"Here, Mike," says he. "Give this one a try-out."</p>
+ 
+<p>His name wasn't Mike. It was something like Sneezowski. He was a Pole who'd come over three years ago to work for John D. at Bayonne, New Jersey, but had got into some kind of trouble there. I didn't wonder. He had wicked little eyes, one lopped ear, and a ragged mustache that stood out like tushes. But he sure could handle a pneumatic riveter rapid, and when it came to reprovin' me for not keepin' the pace he expressed himself fluent.</p>
+ 
+<p>In the course of a couple of hours, though, I got the hang of how to work them rivet tongs without droppin' 'em more'n once every five minutes. But I think it was the grin I slipped Mike now and then that got him to overlookin' my awkward motions. Believe me, too, by six o'clock I felt less like grinnin' than any time I could remember. I never knew you could ache in so many places at ,once. From the ankles down I felt fine. And yet, before the week was out I was he1pin' Mike speed up.</p>
+ 
+<p>It didn't look promisin' for sleuth work at first. Half a dozen times I was on the point of attain' the job. But the thoughts of havin' to face Old Hickory with a blank report kept me pluggin' away. I begun to get my bearin's a bit, to see things, to put this and that together.</p>
+ 
+<p>We was workin' on shaped steel plates, armor for the tanks. Now and then one would come through with some of the holes only quarter or half punched.
+
+<figure n="illustration">
+<head></head>
+<p>"In the course of a couple of hours I got the hang of how to work them rivet tongs without droppin' 'em more'n once every five minutes."</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 16" xml:id="ew.issue.19170723.p016"/>
+ 
+<cb n="1"/>
+
+Course, you couldn't put rivets in them places.</p>
+ 
+<p>"How about these?" I asks.</p>
+ 
+<p>"Aw, wottell!" says Mike. "Forget it."</p> 
+ 
+<p>"But what if the inspector sees?" I insists.</p>
+ 
+<p>Mike gurgles in his throat, indicatin' mirth.</p>
+ 
+<p>"Th' inspec'!" he chuckles. "Him wink by his eye, him. Ya! You see! Him coom Sat'day."</p>
+ 
+<p>And I swaps chuckles with Mike. Also, by settin' up the schooners at Carlouva's that evenin', I got Mike to let out more professional secrets along the same line. There was others who joined in. They bragged of chipped gears that was shipped through with the bad cogs covered with grease, of flawy drivin' shafts, of cheesy armor-plate that you could puncture with a tack-hammer.</p>
+ 
+<p>While it was all fresh that night I jotted down pages of such gossip in a little red note-book. I had names and dates. That bunch of piece-workers must have thought I was a hear for details, or else nutty in the head; but they was too polite to mention it so long as I insisted each time that it was my buy.</p>
+ 
+<p>Anyway, I got quite a lot of first-hand evidence as to the kind of inspectin' done by the army officer assigned to this particular
+
+<cb n="2"/>
+
+plant. I had to smile, too, when I saw Mr. Marvin towin' him through our shop Saturday forenoon. Maybe they was three minutes breezin' through. And I didn't need the extra smear of smut I put on my face. Marvin never glanced my way. This was the same officer who'd been in on our dinner party, too.</p>
+ 
+<p>Yes, I found chattin' with Mike and his friends a lot more illuminatin' than listenin' to Mr. Marvin. So; when I drew down my second pay envelop, I told the clerk I was quittin'. I don't mind sayin', either, that it seemed good to splash around in a reg'lar bath-tub once more and to look a sirloin steak in the face again. A stiff collar did seem odd, though.</p>
+ 
+<p>ME and Mr. Ellins had some session. We went through that red note-book thorough. He was breathin' a bit heavy at times, and he chewed hard on his cigar all the way; but he never blew a fuse until forty-eight hours later. The General Manager of Wonder Motors, four department heads, and the army officer detailed as inspector was part of the audience. They'd been called on the carpet by wire, and was grouped around one end of our directors' table. At the
+ 
+<cb n="3"/>
+ 
+other end was Old Hickory, Mr. Robert, Piddie, and me.</p>
+ 
+<p>Item by item, Mr. Ellins had sketched out to the Wonder crowd the bunk stuff they'd been slippin' over. First they tried protestin' indignant; then they made a stab at actin' hurt; but in the end they just looked plain foolish.</p>
+ 
+<p>"My dear Mr. Ellins," puts in the General Manager, "one can not watch every workman in a plant of that magnitude. Besides," here he hunches his shoulders, "if the government is satisfied&#8212;"</p>
+ 
+<p>"Hah!" snorts Old Hickory. "But it isn't. For I'm the government in this instance. I'm standing for Uncle Sam. That's what I meant when I took, those ten per cent. contracts. I'm too old to go out and fight his enemies abroad, but I can stay behind and watch for yellow-livered buzzards such as you. Call that business, do you? Fattening your dividends by sending our boys up against the Prussian guns in junky motor-tanks covered with tin armor! Bah! Your ethics need chloride of lime on them. And you come here whining that you can't watch your men! By the great sizzling sisters, we'll see if you can't! You will put in every missing rivet, replace every flawy plate, and make every machine perfect, or I'll smash your little two-by-four concern
+
+<cb n="4"/>
+
+so flat the bankruptcy courts won't find enough to tack a libel notice on. Now go back and get busy."</p>
+ 
+<p>They seemed in a hurry to start, too.</p>
+ 
+<p>AN hour or so later, when Old Hickory had stopped steaming, he passes out a different set of remarks to, me. Oh, the usual grateful boss stuff. Even says he's going to make the War Department give me a commission, with a special detail.</p>
+ 
+<p>"Wouldn't that be wonderful!" says Vee, clappin' her hands. "Do you really think he will? A lieutenant, perhaps?"</p>
+ 
+<p>"That's what he mentioned," says I.</p>
+ 
+<p>"Really!" says Vee, makin' a rush at me.</p>
+ 
+<p>"Wait up!" says L "Halt, I mean. Now, as you were! Sal-ute!"</p>
+ 
+<p>"Pooh!" says Vee, continuin' her rush.</p>
+ 
+<p>But say, she knows how to salute, all right. Her way would break up an army, though. All the same, I guess I've earned it, for by Monday night I'll be up in a Syracuse shovel works, wearin' a one-piece business suit of the Never-rip brand, and I'll likely have enough grease on me to lubricate a switch-engine.</p>
+ 
+<p>"It's lucky you don't see me, Vee," says I, "when I'm out savin' the country. You'd wonder how you ever come to do it."</p>
+ 
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="collins.19170723">
+<body>
+ 
+<head type="main">Lifting the Gloom of War</head>
+<byline>By <persName type="author" key="#Collins, James H.">JAMES H. COLLINS</persName></byline>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>The "butcher-shop" phase of war causes more dread than any other aspect of it. Although the trenches are certainly not SAFE, it is a sort of comfort to know that an average of only six men in a hundred will be killed and fifteen more wounded.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="1"/>
+
+<p>THE widow felt <hi rend="italic">so</hi> happy that morning as she motored downtown. It was in the merry month of May, and the world seemed all in tune, and life was an exquisite gift from God.</p> 
+ 
+<p>But the widow stepped into her bank for a three-minute transaction, and stayed fifteen minutes; and when she came out the birds had stopped singing, and the blue sky lay in ruins, and life was no longer a gift, but a horrid liability.</p>
+ 
+<p>They did something to the widow in there. She is a rich widow, with several hundred thousand dollars' worth of securities. But they made her fear she might not have enough money to pay her grocery bill next Saturday. The cashier and president had
+no wish to rob the widow of her joy in life. But they chatted about subjects that were uppermost in their minds just then&#8212;of how war was a more serious business than most people thought, of the food scarcity, of emergency taxes, of Russia making separate peace, of other "maybes." They filled her full of the apprehensions of the banking day, and when she reached home she had to sit down, like a woman, and regularly cry it all out of her consciousness.</p>
+ 
+<div1><head type="sub">New York's Cabaret Spirit Gone</head>
+ 
+<p>WHAT the widow picked up in the bank was the very definite gloom that began to settle over the United States with the declaration of war, and which may prevail more or less through the summer.</p>
+ 
+<p>Everybody has felt this war gloom, and witnessed its effects. Amusements and social affairs have slackened. The "bush league" baseball team can now afford to travel with no more than nine players and a couple of extra pitchers, in many cases, because patronage has fallen off.</p>
+ 
+<p>A one-o'clock closing regulation was provided to check the New York cabaret, as a war measure. It is unnecessary, because before that late hour patrons slink off to bed. The cabaret spirit is gone.</p>
+ 
+<p>At the country club on Wednesday
+
+<cb n="2"/>
+
+nights the orchestra plays alluring banjo music for a corporal's guard of lonesome dancers. Dinners and bridge parties languish because the women are down at Red Cross headquarters, making bandages and ambulance pillows. There is a feeling in the air that entertainment and pleasure are waste, if not wrong, and many of the elders voice this feeling in reproof of those who would still dance and play on the edge of war.</p>
+ 
+<p>Little need to go into further details of war gloom. For you have felt it yourself, and do not like it, and want to know if it is an inevitable accompaniment of war, and how long it will last, and whether you can do anything to lift it from your own spirit.</p>
+ 
+<p>Upon analysis, this gloom is found to be of two distinct kinds&#8212;both inevitable on the outbreak of war.</p>
+ 
+<p>There is the gloom of men, and the gloom of women.</p>
+ 
+<p>Man's war gloom comes from changes in business. Peace demand begins to slacken, affecting production, sales, and income, and war demand has not yet materialized, so that many men wonder how they are to carry on their interests. This is the gloom that the widow picked up at her bank.</p>
+ 
+<p>Woman's war gloom is more of the spirit&#8212;deeper-seated. Men are called to leave home and fight. Family life is
+ 
+<cb n="3"/>
+
+threatened, and lovers', hopes trend toward separation. This is a more serious kind of depression, certainly. Yet the actualities of wax, as experienced in other, countries, show  that it will not last in its present form. It is based largely on fear of he unknown. There are, compensations even in the real depression of war as it affects women.</p>
+ 
+<p>Let us look at the business situation.</p>
+ 
+<p>This is a time to think backward to the summer of 1914, when war paralyzed the world's business. Do you remember how people stopped buying goods after a brief period of purchase for hoarding, and how merchants canceled orders, and manufacturers laid off workers? Bread lines formed in our factory cities the following winter, and farmers found their products unprofitable&#8212;sometimes unsalable, as in the case of cotton.</p></div1>
+ 
+<div1><head type="sub">When Retrenchment Is Wrong</head>
+ 
+<p>THIS sudden change from peace to war affected the demand for peace goods to such an extent that business men thought the depression permanent. Only the Germans had any conception of the enormous industrial activity brought by modern war, which is eight tenths manufacturing and transportation, against two tenths military activity. During that six months' lull, while war orders were developing,
+
+<cb n="4"/>
+
+the American business man retrenched. Just over the hill a wonderful prosperity was corning. But few saw it, and contracts for clothing, food, and munitions that came from the Allies the following spring were secured through no business foresight of our own, but simply through the desperate needs of the purchasers.</p>
+ 
+<p>Every business man who stood still through the latter half of 1914, economizing and retrenching, was wrong. Looking back and viewing 1914 and 1915 as a whole, it can now be seen that there was no reason for standing still, but, on the contrary, every reason for going ahead. Every business concern that canceled orders, laid off men, called in salesmen, and played the ostrich generally, lost ground hard to regain. When men might have been getting their pick of machinery, goods, and workers at bargain prices, in preparation for the coming wave of activity, they waited until everything was scarce, and at record prices.</p>
+ 
+<p>Looking at 1917 in the same way, as a whole, it is clear	that we are now going, through a similar period of gloom and
+economy, though of shorter duration. And it is curious, as mob psychology, to see business men who paid for experience two years ago falling under the same influences to-day.</p></div1>
+ 
+<div1><head type="sub">One Man Who Didn't Profit by Experience</head>
+ 
+<p>ONE manufacturer may be used as an illustration. In September, 1914, he could see no future for his industry until peace returned. He neglected a golden opportunity to build up his plant with steel at twenty-eight dollars a ton, and copper at fifteen cents a pound. He was a bear, and cautioned everybody against unwise purchases. The munitions contracts caught him short of equipment and workers, yet he made so much profit that by September, 1915, he was a raging bull on the industry, buying materials to board, speculating in his own products, and fearing only one future factor in
+ 
+<pb n="Page 17" xml:id="ew.issue.19170723.p017"/> 
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>This factory on the Hudson, which runs twenty-four hours a day seven days a week, is one reason why the business man need not be gloomy in war-time. The wise manufacturer keeps his whole force at work, increases their wages, and listens to the demands of his workmen.</p>
+<figDesc></figDesc>
+</figure> 
+ 
+<cb n="1"/>
+ 
+business&#8212;peace! To-day he is a bear once more, and, while there is no opportunity now to buy cheap materials or hire idle workers, nevertheless the demand of our own government for war materials will find him unprepared.</p>
+ 
+<p>Our own demand will bring a larger order than the Allies placed in 1915, for our government is spending seven billion dollars this year, and will continue on that scale until the war ends. And it touches every line of business. The initial demand of 1915 was chiefly for munitions and clothing. The West was benefited in only one industry&#8212;mining. The South had to wait more than a year for its share, in the shape of high cotton prices. But the 1917 demand covers everything&#8212;munitions, clothing, army equipment, ships, food, transportation. It involves the manufacturer, farmer, wage-earner, railroader, merchant, professional man. Their war incomes will stimulate demand for peace goods.</p>
+ 
+<p>In the first hysteria of entering the war ourselves, we developed a false economy, cutting down consumer purchases of necessities, and dislocating industry and trade. This has been largely responsible for the gloom of business men.</p></div1>
+ 
+<div1><head type="sub">Effect of Government Control on Business</head>
+ 
+<p>THERE are only two real disturbing factors for business. One is the scarcity of labor and materials, and the necessity for readjustment, which will divert many activities from peace to war demand. The other is the prospect of government interference with business routine.</p>
+ 
+<p>For instance, in the first excitement of conserving food and transportation facilities, some zealous official at Washington rules that red apples shall no longer be hauled from the Northwest, because railroad cars are needed to haul food. Protest of red-apple industry, and matter submitted to Mr. Hoover, who remembers that he saw people eat red apples in Belgium, so they must be food&#8212;haul red apples as usual!</p>
+ 
+<p>There will be many incidents of that sort in the coming months. But they will simply bring out the facts about each industry, and help make honest war adjustments. Every business that is necessary will welcome the chance to make such an adjustment.</p>
+ 
+<p>Man's gloom will pass quickly&#8212;perhaps before this article appears. And each man in his place, whether executive or wage-earner, will know what to do and when to do it, because he will be handed an order or a job and told to "get busy!" War puts money into circulation on a scale unknown in peace times, creates a runaway demand for goods, gives everybody something to do at good wages or profits. After war there may be a reckoning&#8212;nobody really knows.</p>
+ 
+<p>For the gloom of women there is also a great deal of practical comfort, and the prospect that the present depression will lighten as we actually get into war.</p>
+ 
+<p>War takes men away as soldiers, and some of them are killed and wounded. On the present scale of war, every family in the United States may possibly be
+ 
+<cb n="2"/>
+ 
+directly affected before we see peace again. That looks bad to women, and they can not see any compensations.</p>
+ 
+<p>But&#8212;</p>
+ 
+<p>Not so many men are killed and wounded in war as is popularly supposed. In the newspapers one reads of whole regiments being wiped out and battlefronts heaped high with dead. As a matter of statistics, however, the casualties in war run along just like the mortality in life insurance. Insure ten thousand men, and so many of them are certain to die this year, so many next year, and so on, as a matter of averages. Enlist ten thousand men, and so many will be killed, so many wounded, so many die of sickness, so many come back alive and well.</p>
+ 
+<p>The present war is running on the same old averages of killed and wounded that have marked previous wars in modern times. There are a great many more men engaged, that is all. About six men in each hundred will be killed, and fifteen more wounded. The rest will escape. And the present war is notable for a great improvement in the matter of sickness. The percentage of soldiers who die from disease and wounds is steadily being decreased. Modern war is too efficient to tolerate the sick soldier, while in the  treatment of wounds the surgeons at the  European battle-fronts have perfected  methods that will be of lasting benefit to the race long after war is over. Only one amputation is now necessary where twenty were made at the beginning of the war, and the proportion of deaths from wounds has been cut from fifteen per cent. to one per cent.</p>
+ 
+<p>The "butcher-shop" phase of war
+ 
+<cb n="3"/>
+ 
+causes gloom just now, chiefly because it is misunderstood.</p>
+ 
+<p>Somebody asks you, nervously, what you think of the aviation corps or the field artillery, and on a little questioning it comes out that the kid brother enlisted last week in one of these arms of the service, and has gone for training, and mother and the girls want to know&#8212;well, not exactly if the kid brother is going to be <hi rend="italic">safe</hi>, for that is not to be expected in war, but whether he stands a good chance of coming back alive and well.</p>
+ 
+<p>And there is every chance that the kid brother will come back safely, with experiences and qualities that he might never have got in peace.</p>
+ 
+<p>There was a very good chance for the kid brother to be killed or wounded in a peaceful calling. About 60,000 persons are killed accidentally in the United States every year, and several times as many hurt. This is equal to the war casualties of an army of one million men.</p>
+ 
+<p>The danger of war is real enough; but it is not so bad as our own popular imagination paints it just now, before we have had actual war experience. The atmosphere in countries that have been at war several years is not gloomy, but rather stimulating, because along with the tremendous sacrifice there goes an industry, an energy, and a collective sympathy and efficiency that keeps people sane by keeping their minds off themselves.</p>
+ 
+<p>The kid brother stands a very good chance of getting through. And, if he does, war will do definite things for him, making him worth more to himself, his family, and his country.</p></div1>
+ 
+<div1><head type="sub">How War Training Benefits Individuals</head>
+ 
+<p>ALL over this broad land, on the farms as well as in the cities, are boys and men. who have never known the enjoyment that is to be got out of a well developed body, or felt the stimulus of doing anything by team work.</p>
+ 
+<p>In the cities, after a generation of peace, we have a pasty-faced kind of youth, with neither body nor brains, but turned out by the thousands to fill petty places that would be better filled by women. In the country and the country towns there are lop-sided, sprawling, gawky fellows who 'know neither how to work nor how to play efficiently.</p>
+ 
+<p>A regular army officer put it neatly in giving his opinion of a company of recruits.</p>
+ 
+<p>"Movie fans!" was the verdict. "Fed up on flag-waving! They think an American can lick any ten men of another
+ 
+<cb n="4"/> 
+ 
+nationality. But when I take them on a three-mile hike they're all in. Why, say, as these fellows are now, the Germans could walk them to death!"</p>
+ 
+<p>As soon as the army gets hold of the kid brother, it will skilfully groom up every muscle that he possesses, and keep it groomed. He will straighten in his walk, and always walk straight. In two weeks it will be a pleasure for him to walk and run and box. He will be disciplined by being taught to obey, as preparation for the handling of others later on&#8212;distinctly an asset in private life after the war.</p>
+ 
+<p>He will not merely take part in one of the greatest experiences of the ages, if he is sent '\to France, but will bring back something of practical money value in business. This war is breaking down our splendid isolation and giving us world imagination in business. It has already drawn us closer to England and France, and is going to change our whole business outlook in the future.</p></div1>
+ 
+<div1><head type="sub">What the War Has Done for England</head>
+ 
+<p>BEFORE the war Great Britain was possibly the worst governed country in the world. It had boundless wealth and superabundant ability and energy. But its wealth and ability were all at loose ends. Its people starved and went unschooled because everything worked at cross purposes, in a scheme of selfish individualism and party politics. War has pulled the British together, giving them a fresh, direct grasp on work and life. It promises to do as much for us&#8212;who in some ways need it as badly.</p>
+ 
+<p>For women, too, war means self-improvement, along with the sacrifice and suffering. It has given them broader opportunities and a wider life in England, and is beginning to do the same here&#8212;already the women and girls are stepping into places made vacant as men join the colors.</p>
+ 
+<p>War is certainly not an ideal measure of human progress. I would not write anything in apology for it: we fight this war, hoping that out of it will come, not more wars, but peace. War is serious enough&#8212;but one may look at it with all the seriousness it deserves, and still halt far outside the boundary of gloom. To regard war as wholly sacrifice and suffering is to take too narrow a view of it, and to overlook its opportunities. To be altogether down-hearted about war, now that we are in, is to ignore the experience of the nations that have been in from the beginning.</p>
+ 
+</div1>
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="thieves.19170723">
+<body>
+ 
+<head type="main">How Automobile Thieves Work</head>
+ 
+<figure n="illustration"></figure>
+ 
+<cb n="1"/>
+ 
+<p>IN the early days of automobile stealing, the thief stole only high-priced cars. To-day his interest is centered in the low-priced car. The explanation is simple. The high-priced cars were stolen because they were worth more; they are not stolen to-day, because they are too hard to dispose of. A person with a five hundred dollar car stands eight chances of having it stolen against two of the man who owns a five thousand dollar car.</p>
+ 
+<p>Here are two ways in which cars are stolen.</p>
+ 
+<p>Dr. Crews is sitting in his office when he gets a telephone call asking him to come to 65 Nagle Street, where there is a little girl sick on the top floor. He hurries to the number, and discovers the apartment-house to be without an elevator. He climbs the winding stairs, thinking that his car waiting at the curb is safe, as he has taken careful pains to turn the key on the ignition lock. Pantingly he arrives at the top floor, and looks for the name on the plate, but it is not there. He arouses
+ 
+<cb n="2"/>
+ 
+the janitor, but there is no such family living in the building. Very much at a loss to understand it; he starts out to his car. His car is gone.</p>
+ 
+<p>We will take another instance. Mrs. Seabrooke is accustomed to go down after her husband every afternoon at five o'clock and bring him home: She has done so for months. Leaving the car at the curb, she locks the fuel line, and goes into her husband's office and chats with him a few minutes. Then they come out to take their accustomed drive home. But their car is gone.</p>
+ 
+<p>The two thefts were committed in different ways. When Dr. Crews was lured away by a prepared telephone call, he was hardly inside the apartment-house building when the thieves were at work. He was careful to turn the key on his lock before he got out, but the thieves knew that he had an ignition lock and did not even try to start the car. Being expert mechanics, they simply adjusted the wires and turned on the power. In less than a minute they were off.</p>
+ 
+<p>When Mrs. Seabrook left her car standing at the curb, she took out a small chain and locked one of the wheels to a spring,
+
+<cb n="3"/>
+ 
+even though she was disobeying the law in so doing, for in most cities there is a fire law to the effect that a car must not be locked so that it can not be moved by hand. While she was in her husband's office a pair of steel nippers did their work.</p>
+ 
+<p>There are some thirty devices for locking an automobile, and none of them is thief-proof. One of the commonest locks is one that shuts off the supply of gasolene. The theory is that if the gasolene is cut off the car will not run; but the theory does not hold water. Many owners do not know that, when they have applied the lock, there is still enough gasolene in the carburetor to carry the machine a couple of blocks. The thief has only to make use of this supply and get the car to a garage, where he can work on it at leisure.</p>
+ 
+<p>A car is never stolen without its "habits" having been observed. That is, the thieves watch the owner, see when he comes, when he goes, and how long his car is likely to stop at a certain place. A thief never stumbles on to an unwatched car on the street and rides away in it; he always knows who the owner is and the history of the car. And he shadows the car until an opportune time comes to seize it.</p>
+ 
+</body>
+</text>
+ 
+<pb n="Page 18" xml:id="ew.issue.19170723.p018"/>
+
+<text type="fiction" xml:id="roche.19170723">
+<body>
+ 
+<head type="main">The Flag of Lolonnois</head>
+<byline>By <persName type="author" key="#Roche, Arthur Somers">ARTHUR SOMERS ROCHE</persName></byline>
+<byline>Illustration by <persName type="illustrator" key="#Gibbs, George">George Gibbs</persName></byline>
+ 
+<cb n="1"/>
+ 
+<p><hi rend="italic">(Continued)</hi></p>
+ 
+<p>ODD as it may sound, the next ten days were the happiest of my life, and Mary has since confessed that they were not the unhappiest she had known. For, you see, we were together practically all the time; and, though we were forced to view outrages that we had never dreamed of, still, youth is resilient, youth is selfish.</p>
+ 
+<p>In those ten days of stress and trial, man and wife but in name, we grew, I verily believe, to know each other better than most couples. And our exchange of .consolation consisted mainly in bald statements that, sooner or later, Ransome would release us. Yet we had little reason for such statements, and I am afraid that neither of us really believed them.</p>
+ 
+<p>For mercy was far from Ransome, though indeed he had shown a singular&#8212;for him&#8212;reluctance to slay Mary. Whether all women would have won an equal mercy from him, I do not know; for it so happened that no other women were aboard the craft that we encountered in those ten days.</p>
+ 
+<p>But it is idle to speculate on how that strange man would have acted under conditions that did not arise. His actions under the conditions that were with us are interesting enough, at least to me.</p>
+ 
+<p>And toward the end of those ten days we saw little of him. For the first few days he had been cheerful, and insisted on our dining with him. But later he ate alone. He had become moody, gloomy.</p>
+ 
+<p>With reason, too, if one can put himself mentally in Ransome's position. For the cruise was not proving a success. Seven ships he had sunk in that period&#8212;that is, up to the tenth day. On the tenth&#8212; But I get ahead of my story.</p>
+ 
+<p>On the day after the destroying of the <hi rend="italic">Beeston</hi>, the <hi rend="italic">Cornet</hi> sank two ships&#8212;one a Frenchman and the other a Brazilian. On the next day she sank one&#8212;a Spaniard. Two days later she sank another&#8212;a Canadian craft. For the next three days we sighted no vessels; and it was during that period that Ransome's humor began to change. Nor did it lighten with the sinking of three more vessels in as many days.</p>
+ 
+<p>And the reason was this: there was little treasure aboard his victims. Cargoes there were aboard these sunken craft, but there was no room for them aboard the Cornet. And though, in these last few cases, Ransome made the passengers&#8212;and there were few aboard the ships we destroyed&#8212;surrender their personal valuables and moneys, the profit was small. Considering the risk, it might be said that it was negligible.</p>
+ 
+<p>And Ransome knew that his great scheme was not proving the success he had anticipated. The Great War, which had given him his opportunity, had also taken away the fruits of opportunity. Though ships still sailed the seas, gold was not among their cargoes.</p>
+ 
+<p>So it seemed to me&#8212;and it must have seemed to every one else&#8212;that the buccaneers were risking their necks in vain. Eight ships&#8212;including the <hi rend="italic">Annabel Johnson</hi>, nine&#8212;and more than two hundred lives had been wiped out by the pirate, and the average share of the crew was hardly more than could have been gained in an ordinary burglary in New York City. And in the city one risked only one's liberty; here on the high seas one risked one's life.</p>
+ 
+<p>Whether or not the crew murmured I do not know. They must have been more deeply under Ransome's sway than even I thought if they did not talk among themselves. But the officers, including Barron and Pelletier, who were the only ones with whom I held any conversation, seemed in no wise downcast, even though their chief was. Their faith in him was so great that they could bide their time.</p>
+ 
+<p>And then, on the tenth day, we came in sight of a liner. Heretofore we had
+ 
+<cb n="2"/>
+ 
+kept somewhat south of the southern ocean passage from New York, to the Mediterranean; but I think that a desperation excited by our failure to overhaul wealth-laden, craft caused Ransome to take the greater risk of venturing among the well traveled ocean lanes.</p>
+ 
+<p>We had been making easting steadily since leaving the strewed wreckage of the <hi rend="italic">Beeston</hi>. Four of the craft we had sunk had, like Richley's ill-fated ship, carried oil, and we were not at all short of fuel. Still, as we never went at full speed save when coming up On a victim, and as time was always lost in the search and destruction of each, we were, I think, well to the westward of the Azores on this tenth day when we sighted the <hi rend="italic">Albuquerque</hi>.</p>
+ 
+<p>It was a lovely morning, the sky cloudless and the sea smooth. The soft airs of the semi-tropics brought perfumes from the east, and when I saw the smoke on the horizon that indicated another victim I could not repress a shudder. Weather has its effect upon man's sensibilities as well as upon his health. Somehow, when the sky was overcast, when spume ran before the gale, and when the sea was leaden in color and angrily restless in its tossing, the sinking of an innocent ship, the cries of her crew, the grinning savagery of the pirates in their bloody work, seemed less dreadful than when the day was fair.</p>
+ 
+<p>BUT to-day, a perfect day, seemed to make the anticipated crime but more heinous. Hardened though the past ten days had made me, calloused to all suffering because I was so impotent to prevent it, I debated the advisability of taking the revolver from Mary and shooting Ransome out of hand. I even discussed it with her as we sat there on the <hi rend="italic">Comet's</hi> deck, watching the liner's smoke grow nearer.</p>
+ 
+<p>She was thoughtful for a long time. But when she spoke she shook her head. "If I thought it would prevent more killing&#8212;I would tell you to do it, though we both died in the next moment," she said. "But&#8212;Ransome has a hold over his men, some hold over himself. Without him&#8212;Suppose"&#8212;and she shuddered&#8212;"that you did kill him. On this next ship there might be women. Think of the fate so much worse than death that would be theirs if Ransome were gone and his men left without a leader. Judging by his treatment of me, Ransome will respect women. But his men&#8212; And the piracy would not cease. Do you think it would?"</p>
+ 
+<p>I agreed with her. With Ransome or without Ransome, the <hi rend="italic">Comet</hi> would go on in her career. The death of Ransome would not prevent the attacking of the liner that was drawing closer every moment.
+ 
+<cb n="3"/>
+ 
+So, impotent, furious at fate, I sent her below, while I myself, in that calloused fascination which I have described, remained on deck to watch the tragedy impending.</p>
+ 
+<p>THE liner was from the west, making, I judged, for the Azores. We had been cruising irregularly back and forth across this southern lane since the sinking of a Portuguese sloop on yesterday, and now we bore down upon the <hi rend="italic">Albuquerque</hi> diagonally across her course.</p>
+ 
+<p>Our wireless crackled, and from words that passed between Burnham and Ransome I learned the liner's name, that she was an English boat plying between New York and the Mediterranean, and that, while a freighter, she carried a few passengers. Carey held quite a conversation with her, pretending that we were a Spanish war-ship. And we flew a Spanish naval flag to help out the deception. As an excuse for halting the <hi rend="italic">Albuquerque</hi>, Carey stated that we were low in our supply of water.</p>
+ 
+<p>But, when we had got within eight or ten miles, the liner suddenly veered off from us. There came a cry from the wireless room, and soon I learned that the liner, suspicious, was calling for help, and that Carey. was working his instrument as hard as might be to muffle her call and render indistinguishable her appeals.</p>
+ 
+<p>A stern chase, goes the saying, is a long one; but when the quarry can travel but a poor sixteen, and the pursuer can raise thirty knots with ease, the chase can not last long. Hand over hand, we drew up on the helpless&#8212;yet not so helpless, after all, as events proved&#8212;<hi rend="italic">Albuquerque</hi>. A shell from our port bow chaser shrilled above her, and she stopped, rolling in the swell, somehow reminding me of a spent hound crouched upon the ground.</p>
+ 
+<p>From our deck Ransome was like a wild man. Not only was he irritated by the senseless flight of the <hi rend="italic">Albuquerque</hi>, but her calls for help mystified and alarmed the buccaneer chief. Lack of suspicion was the strongest point in his plans; yet the liner's flight would seem to indicate that the <hi rend="italic">Comet</hi> was suspected. Barron, however, soothed his chief's irritability by the statement that the <hi rend="italic">Albuquerque</hi> undoubtedly took us for a German raider, possibly knowing that the Spanish navy had no craft of our type. Hence her flight at our near approach.</p>
+ 
+<p>But when Barron departed in the small boat, on his customary preliminary visit to the liner, Ransome's nervousness had not abated. Nor, when his lieutenant came back to report that the <hi rend="italic">Albuquerque</hi> was our richest prize so far, did the hunchback grow any calmer.</p>
+ 
+<cb n="4"/>
+ 
+<p>"You wrecked her wireless?" he asked Barron.</p>
+ 
+<p>"Of course, sir. But it's all right; she thought we was a German, that's all. It ain't any more risk than we've been running right along. She don't know what we really are, and won't until we open up on her."</p>
+ 
+<p>"Open up on her now, then!" snapped Ransome.</p>
+ 
+<p>"Without getting what we need off her?" Barron looked his amazement.</p>
+ 
+<p>Ransome shrugged his shoulders impatiently. "She's made me nervous. Better sink her now."</p>
+ 
+<p>Barron edged closer to his chief and lowered his voice. I, however, stood close to them, and could not help overhearing their talk. Indeed, they did not seem to mind me.</p>
+ 
+<p>"The men, sir," protested Barron. "They know about how much their shares figure so far, and they ain't satisfied, as you know. No; wait, sir," he pleaded, as Ransome scowled. "You really can't blame them, sir. We ain't had any luck so far. And now here's a boat that's a real prize. She's carryin' the mails, for all she's a freighter, with so many of the big passenger boats being used as transports. And there's a lot of money in them mails. Italian money, that is, sent by Italians in the States back home. Not post-office orders, either: gold and bills in registered packages. And there's half a million in gold from a New York bank to its Roman branch. I tell, you, sir, it's a prize."</p>
+ 
+<p>"I tell you, I have a feeling that it isn't wise to wait," said Ransome.</p>
+ 
+<p>I, knowing something of the cripple's superstition,&#8212;having profited by it to some large extent myself,&#8212;thought that this remark would quell Barron's protests. But it did not.</p>
+ 
+<p>"I know, sir; and them hunches of yours are usually winners. But this time&#8212;why, there ain't even the smoke of another ship in sight."</p>
+ 
+<p>Ransome hesitated, and finally greed won over superstitious fear.</p>
+ 
+<p>"Any oil?" he asked.</p>
+ 
+<p>"A little," said Barron.</p>
+ 
+<p>The hunchback swept the sea with his eyes.</p>
+ 
+<p>"Well, go ahead," he yielded.</p>
+ 
+<p>DURING this talk we had been crawling close to the freighter, and now lines attached the two ships. Looking over our rail across at the decks of the liner, I could see more than twoscore faces looking down upon us from their greater height. And something about the expression of those faces made me stir with expectation. For they seemed to wear more than the natural chagrin of merchantmen who have fallen into enemy hands. There seemed to be a hatred in their eyes, a determination in the set of their jaws, a compression about their mouths, that seemed no part of alarm. Rather, those things seemed to indicate intentions very different from meek surrender.</p>
+ 
+<p>Yet it was absurd that the <hi rend="italic">Albuquerque</hi> should contemplate any resistance, I told myself. How could her men hope to make resistance against the <hi rend="italic">Comet?</hi> And then, as I looked along that line of scowling faces, I doubted. But I kept my doubts to myself, naturally enough, and watched the gang-plank laid between the two craft.</p>
+ 
+<p>Barron started across it, got half way, stopped, and pointed to a man who stood at the <hi rend="italic">Albuquerque's</hi> end of the plank.</p>
+ 
+<p>"Who are you?" he demanded.</p>
+ 
+<p>It was an odd-sounding question, and the man addressed grinned, showing his teeth. They gleamed against his olive skin. He made no answer.</p>
+ 
+<p>"Come, who are you?" demanded Barron again.</p>
+ 
+<p>Barron turned a cautious head; from the corner of his mouth he snarled:</p>
+ 
+<floatingText type="nonfiction" xml:id="voice.19170723">
+<body>
+ 
+<head type="main">The Man with the Biggest Voice</head>
+ 
+<cb n="1"/>
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from B. H. Smith.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+ 
+<p>D. A. CURRY of the Yosemite Valley has the biggest voice in captivity. It can be heard twelve miles, and
+when he recently made 'some records for a talking-machine he had to stand a hundred
+
+<cb n="2"/>
+ 
+feet away from the machine and turn his back. Mr. Curry has for years been the host of a very popular camp in the Yosemite, and many guests from different parts of the country have heard his good-by sung out from Inspiration Point when they were twelve miles away from the good time they'd been having.</p>
+ 
+<p>Mr. Curry has his voice so housebroken that it almost never gives any trouble. Once it did slip its leash, and his "Please pass the butter" rattled the dishes on the sideboard. Another time he said "Fido, lie down," and was surprised, in walking over the place next day, to find the window in the garage broken.</p>
+ 
+<p>It is planned to send him to France to stand on the Eiffel Tower and read President Wilson's message to the German troops on the Western and Eastern fronts at the same, time.</p>
+ 
+</body>
+</floatingText>
+
+<pb n="Page 19" xml:id="ew.issue.19170723.p019"/>
+ 
+<figure n="advertisement">
+<head>Wear Shoes with Rinex Shoes</head>
+<p></p>
+<figDesc>Advertisement for United States Rubber Company.</figDesc>
+</figure>
+ 
+<pb n="Page 20" xml:id="ew.issue.19170723.p020"/>
+
+<cb n="1"/>
+ 
+<p>"He looks like the captain of the <hi rend="italic">Maris</hi>, the Portuguese we sank yesterday, and&#8212;ah, you would, would you?"</p>
+ 
+<p>Midway of the Portuguese's spring, Barron's pistol spoke. At the very feet of the buccaneer the dying man sprawled, and his last exertion was an effort to drive into Barron's leg the knife he carried in his hand. Barron's heavy shoe stamped on the nerveless fingers, and the Portuguese, gasping, died.</p>
+ 
+<p>But as life left him there came a roar from the <hi rend="italic">Albuquerque's</hi> deck. I saw it all at once. Clinging to some piece of wreckage from the <hi rend="italic">Maris</hi>, her captain had managed to escape the death we had dealt out, but yesterday, to his crew. The <hi rend="italic">Albuquerque</hi> had picked him up. When we got close enough, the Portuguese had recognized us and told his rescuers. Hence their effort to escape, their calls for help. And now, knowing that death awaited them in any event, they would die fighting.</p>
+ 
+<p>OTHER ships had taken it for granted that at least the lives of those on board would be spared, and had offered no futile resistance to the pirate. But this vessel, manned by men who knew that after robbery came death&#8212;this was a different case. Warned of their certain fate, they only craved to take into the next world with them as many of the pirate crew as might be. Indeed, their resistance being a surprise, they doubtless saw a chance of winning the fight.</p>
+ 
+<p>And they had waited until the two vessels were made fast, when the guns we carried could not be brought to bear upon the liner and were of no avail. The weight of metal was no longer ours, save as we might be better equipped with small arms. But even there they were not at such a disadvantage. Our crew had revolvers, it is true, but for a moment it seemed that they would have little chance to use them. And the men of the Albuquerque had weapons that, in a melee, were bound to prove even more dangerous than pistols.</p>
+ 
+<p>With cleavers from the galley, with belaying-pins, with capstan-bars, with fire-axes, with bars of iron from the engine-room, they debouched across the gang-plank and upon the pirate's deck. Barron went down in the first rush. Fascinated, spellbound, I watched them come, yelling, cursing, while the surprised buccaneers, as courageous as the <hi rend="ialic">Albuquerque's</hi> men, dashed to meet them.</p>
+ 
+<p>Heretofore the pirates had done their butchery from afar, dealing out death with shell and rapid-fire cannon. But now they were the attacked, not the attackers; and the battle waged on their own deck, hand to hand, man to man. For one moment I wondered if their courage were equal to this test. Face-to-face killing is more dangerous than shooting across an expanse of water. And even the most courageous of crews have faltered in the face of surprise.</p>
+ 
+<p>But, slum pickings though many of them were, criminals, gallows-fruit that they deserved to be, there was no lack of bravery among the <hi rend="italic">Comet's</hi> men. Ransome had picked his force well.</p>
+ 
+<p>From a place by the rail a score of feet from the gang-plank, in a sort of backwater of the battle, I looked on. Somehow, in my bewilderment, that held me rooted to the deck, I missed something. That something was the dash of color inseparable from all my imaginings of hand-to-hand conflict.</p>
+ 
+<p>For fifty years, since the iron-clad came in, there had been no hand-to-hand warfare on the seas. Great guns and greater guns settled the question of supremacy. No longer were boarding nettings manufactured. "Repel boarders," is a command that may have been used in drills, but surely was never expected to be heard above the din of actual battle. Yet, with what seemed to be a half of me that was remote from the physical presence of this strife, I seemed to listen for this cry. I seemed also to listen for the other order: "Out cutlasses and board!"</p>
+ 
+<p>This was the last hand-to-hand struggle of the seas, between pirates and their victims. Yet I saw no romance, beheld no color. There were no red bandannas
+
+<cb n="2"/>
+ 
+<figure n="illustration">
+<head></head>
+<p>"Midway of the man's spring, Barron's pistol spoke. At the very feet of the buccaneer the dying man sprawled."</p>
+<figDesc></figDesc>
+</figure>
+
+knotted about the pirates' brows; they held no knives in their teeth; they bawled no picturesque commands and oaths. Instead&#8212;grim struggle, grunts, snarled oaths that held naught of the picturesque, but were merely blasphemous or vile, and&#8212;yes, there was color: the color of blood, that, spurting from fearful gashes, stained the deck.</p>
+ 
+<p>Bunched as the Albuquerque's men were, the first opposition melted before their charge. The pirates were scattered about the Comet's deck, and, though they ran gallantly to meet the foemen, they came in twos and threes, not in a compact body. There was no force to their charge, no weight, and they either went down before the clumsy but effective weapons of the attackers, or, their guns empty, retreated for a chance to reload.</p>
+ 
+<p>HERE was the chance for the <hi rend="italic">Albuquerque's</hi> men, and one they neglected. For a moment, after driving across the form of Barron on to the <hi rend="italic">Comet's</hi> deck, they had the opportunity to sweep, a compact force, along it. But they did not do it. And now, with the first defense of the pirates beaten back, their chance came again. And this time, if seized upon, it would undoubtedly have gained the day at once.</p>
+ 
+<p>For, scattered, their weapons empty of bullets, the pirates would have been easier prey than in even the first moment of surprise. But the attackers lacked a leader. As, in the first plunge, they had halted, so now they delayed. True, a dozen men bawled orders; but the very number of the would-be commanders created confusion. For one cried this way, and another that; and the main
+
+<cb n="3"/>
+
+body of the men, bewildered, but flourished their weapons and emitted the hoarse cries of the blood-lustful.</p>
+ 
+<p>The truth was that the very success of their first charge and repulse of, the counter-attack had confused them. Each one hesitated to go ahead alone, and his fellows hesitated to follow when he made a tentative advance. So, from having the moral advantage&#8212;and physical advantage, too&#8212;of being the assailants, they suddenly found themselves upon the defensive. I suppose that their captain had been among the first to fall. In no other way can I account for their huddling together in uncertainty as they did. With the leader who had planned the surprise lost, they were like a ship without a rudder.</p>
+ 
+<p>And an advantage once lost in battle is rarely to be regained; twice lost, it has vanished forever. For suddenly, from the gang-plank behind the <hi rend="italic">Albuquerque's</hi> men, arose a bloody figure. It was Barron. Unnoticed by the liner's men, who thought him dead in the first rush, he rose to his feet and wiped the blood from his eyes. He stared uncertainly about him. Then comprehension came to him. He snatched at his hip, but his revolver was gone. He bent over, and when he arose again he held an iron bar, dropped by some member of the <hi rend="italic">Albuquerque's</hi> crew.</p>
+ 
+<p>Then, with a cry that was bestial, Barron charged upon them. Wounded, trampled upon, bloody, without a moment's hesitation he struck down the rear man of the attackers. And, pirate and bloody murderer that he was, I can not withhold an expression of admiration for the courage of Barron. For he could have crashed through and then raced across the deck to comparative safety. Indeed, he
+
+<cb n="4"/>
+
+did crash through them, leaving four men prone to mark his passage. But then he turned. Yes, with none to back him&#8212;a very berserk gone mad with the lust of killing&#8212;Barron turned.</p>
+ 
+<p>A CLEAVER missed his forehead. The man who swung it went down, never to move again. An iron bar like his own crashed upon his own weapon and knocked it from his hand. There was opportunity for him to fly; but I do not believe that such action ever occurred to him. He dived beneath the bar, again uplifted, and grappled with his foe. Together, struggling, they went to the deck.</p>
+ 
+<p>And then, as another of the <hi rend="italic">Albuquerque's</hi> men would have dashed the brains from his lieutenant, Ransome, who had been rallying his men at a point aft, fired, and the would-be killer fell across the writhing pair. As if the shot were a signal, the <hi rend="italic">Comet's</hi> crew, this time all together, charged across the deck. Their revolvers had been reloaded now. Firing as they came, they swept furiously over Barron and his opponent. Revolvers emptied, they struck with the barrels; they wrenched weapons from the hands of their enemies and plied them savagely.</p>
+ 
+<p>And in the van was Ransome. Endowed with wonderful strength as he was, it now was superhuman. So short that he could dodge beneath the foe's clumsy weapons, men went down before his powerful blows as if pole-axed.</p>
+ 
+<p>But he could face only one way at a time. His back was turned a moment to a bearded giant; a blow of a cleaver aimed for his head was parried by one of the <hi rend="italic">Comet's</hi> men; deflected, the flat struck Ransome on the shoulder, whirling him
+ 
+<pb n="Page 21" xml:id="ew.issue.19170723.p021"/>
+ 
+<cb n="1"/>
+ 
+around and sending him spinning across the deck. I saw him rise, start toward the mêlée again, saw him pause as if coolly measuring the tide of war, then turn and race forward. And then, for the moment, I lost track of the general battle, being too. busy taking care of myself.</p>
+ 
+<p>It may seem strange that I have said nothing of my own actions thus far. But it must be remembered that, while I have taken a long time to tell all this, I doubt if the whole business lasted more than five minutes. Five minutes, of course, is long enough for a man to make up his mind to get into action, ordinarily. But I was stupefied, amazed, held motionless by fascination of the scene.</p>
+ 
+<p>Only on seeing Ransome race forward, and guessing. what his flight might portend, did I become galvanized into action.
+So far, in the eddy of the action around me, I had been left alone. But now, as Ransome raced forward, I turned from
+spectator into participant.</p>
+ 
+<p>I HAD no weapon, and bitterly I regretted the fact. But, weaponless though I was, there were plenty of them along the deck, if I cared to acquire one. And I did. I rushed toward the struggling group by the gang-plank, and bent over when a few yards from the nearest of the combatants, seizing a revolver. And, as I raised it to fire upon a pirate who held an <hi rend="italic">Albuquerque</hi> man by the throat, a man detached himself from the group and, capstan-bar uplifted, rushed upon me.</p>
+ 
+<p>I dodged him. I cried to him that I was a friend, that I would help his side. But the man was inflamed with hate and rage. A wound in his head had rendered him incapable of reason. He was simply a man animal who no longer cared to differentiate between friend and foe.</p>
+ 
+<p>Twice I dodged him, and each time his weapon grazed me. And then he had me pinned against the rail. He either could not or would not understand, and the time for explanations had passed. And yet, even as his bar went up, I hesitated to shoot. I was with him; I wanted the <hi rend="italic">Albuquerque's</hi> men to win&#8212;was willing to risk my life with theirs. And yet, this insane warrior would make me weaken his own party. But I fired, aiming for his arm, risking myself in doing so. But, luckily, the bullet went where I wanted it to go; the bar fell from his hands, and he was unarmed&#8212;but not subdued.</p>
+ 
+<p>With a roar, he sprang for me, striking with his unhurt hand. I could not fire again, and so we grappled and went down. His good hand struck me twice upon the face, then found my throat and gripped it. Though I shrieked to him that I was his friend, his grip did not relax. And so I pressed my revolver against his side. But I did not fire. His body went limp upon me; and I rolled him off.</p>
+ 
+<p>Already the combat had degenerated into a series of hand-to-hand individual battles. The <hi rend="italic">Albuquerque's</hi> men were no cowards. Victory had found them leaderless, and so they were robbed of victory's fruits; but at plain fighting they were every whit as good as the men of the pirate.</p>
+ 
+<p>And in this bloody mêlée there was now no opportunity for leadership. It was every man for himself; one down, attack another. And the merchantman's crew were more than holding their own with the pirates. Once again the pirates' weapons were emptied, and now they had no opportunity to reload them. And, though they had shot down half the merchantman's crew, the pirates were still, if anything, outnumbered; for they had suffered severely. And it was not the crew alone that had charged the <hi rend="italic">Comet:</hi> it was every soul aboard the <hi rend="italic">Albuquerque</hi>, passengers and all.</p>
+ 
+<p>Out of this reek of battle two men had staggered my way. One of them, with a back-handed blow of a cleaver; had struck my opponent, and his life-blood spurted over me as I rolled his body off
+ 
+<cb n="2"/>
+ 
+and gained my feet. And my rescuer was Barron!</p>
+ 
+<p>"I needed you&#8212;for best man&#8212;at my own wedding," he gasped, closing again, grinning, upon the foe whom he had shaken off long enough to save my life.</p>
+ 
+<p>Yes, it was Barron. How again he had survived the wounds that had been given him, I do not know, save that the man possessed enormous vitality. But here he was, bleeding from a score of places, guarding with his cleaver the terrible blows launched at him by his opponent, who wielded a bar of iron.</p>
+ 
+<p>I lifted my revolver. Then I lowered it. Barron, finding me at death grips with my bearded foe, had risked a blow of that iron bar in order, as he supposed, to save my life. That I should have been found fighting against the <hi rend="italic">Albuquerque's</hi> crew must have surprised him&#8212;though, in that heat of battle, I don't imagine that he stopped to do much thinking. Anyway, he had risked his life for me: risked it through no liking for me, perhaps, but risked it with a jest upon his lips because he was, first, last, and all the time, a fighting man who fought because he loved it. But he had risked it, and I&#8212;pirate, murderer that he was&#8212;I could not shoot him down.</p>
+ 
+<p>And yet&#8212;I could not let him kill the man before him. I suppose men have suffered greater agonies of indecision. I suppose that most right-thinking people will say that I should not have hesitated a moment, but shot Barron down. But&#8212;the man had tried to save my life! I prefer '\virtue to vice; I am for honest men against thieves and murderers: but&#8212;the man had risked his life for mine!</p>
+ 
+<p>And I thank God that decision was taken from me. For, suddenly, above the mêlée sounded a shrill whistle. Barron stepped back.  He hurled his cleaver at his opponent, and then&#8212;ran! Ran straight forward, away from the bewildered man of the <hi rend="italic">Albuquerque</hi>. I stared. All over the deck the pirates were fleeing. I. wondered if the battle had 'suddenly gone against them, and, if so, why? So far as I had been able to tell, they had been holding their own. Then why this sudden retreat? And then I remembered Ransome's flight forward, and I knew.</p>
+ 
+<p>THE pirates had done some drilling in the past ten days. I had not observed it closely, but I had appreciation of Ransome to know that he would not neglect obvious precautions. In the first surprise these precautions had not shown; but now&#8212;</p>
+ 
+<p>Barron's late opponent dashed at me.</p> 
+ 
+<p>"Down, you fool, down!" I cried, menacing him with my revolver.</p>
+ 
+<p>This man had not gone insane with the fight, as had the man whom Barron had slain. He stopped, respecting my weapon, against which his bar was powerless.</p>
+ 
+<p>"Down!" I cried again. "Down!"</p>
+ 
+<p>And I dropped to the deck. He, not understanding, stood erect&#8212;but only for a moment. Then the leaden hail of the rapid-fire gun, which Ransome had gone forward to train upon the decks, and which I had guessed to be the purpose of his flight, stormed, breast-high; through the bewildered ranks of the men of the <hi rend="italic">Albuquerque</hi>. Before they had realized what was happening, the rapid-firer, hose-like with its deadly stream, had wiped out three fourths of the <hi rend="italic">Albuquerque's</hi> gallant crew.</p>
+ 
+<p>Then the rest availed themselves of my trick. Lying upon the deck, or crawling on hands and knees to the shelter of the deck-house, they sought to avoid this weapon that had settled the fight. And, as they did so, the pirates charged, once again with reloaded weapons, and now outnumbering their foes three to one. The rapid-firer ceased, and instead revolvers spat.</p>
+ 
+<p>The battle was lost, and the <hi rend="italic">Albuquerque's</hi> men knew it. Some of them leaped into the sea in their panic; others stood up like men and faced death; and still others gained the gang-plank and
+ 
+<figure n="advertisement">
+<head>Regimental Headquarters "Roll Their Own"</head>
+<p></p>
+<figDesc>Advertisement for "Bull" Durham Tobacco.</figDesc>
+</figure> 
+ 
+<note type="copyright" place="margin-bottom">Published weekly by The Crowell Publishing Company, at New York, N.Y., George H. Hazen, President. Executive and editorial offices, 381 Fourth Avenue, New York City, N.Y. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N.Y., under the Act of March 3, 1879.</note>
+
+<pb n="Page 22" xml:id="ew.issue.19170723.p022"/>
+ 
+<cb n="1"/>
+
+crossed to their own ship, pursued by the pirates.</p>
+ 
+<p>The <hi rend="italic">Comet's</hi> decks were swept clean of the foe, the living foemen, almost as swiftly as they had been crowded with them a little while before.</p>
+ 
+<p>Headed by Barron, a group of the pirates swept down by me. I saw them kill three of the <hi rend="italic">Albuquerque's</hi> men who made a last stand in the stern. Then Barron walked unsteadily to me. He held out his hand.</p>
+ 
+<p>"What for?" said I.</p>
+ 
+<p>"I saw you." He grinned hideously. "You'd have shot that gent that I was scrapping with."</p>
+ 
+<p>But I did not take his hand. I turned and walked to the rail, and stared gloomily across at the liner. If Barron was offended, he said nothing. In fact, I believe that he hardly noticed my rebuff. Still heading his group of men, he staggered across the gang-plank in pursuit of the survivors of the <hi rend="italic">Albuquerque</hi>, whose number, judging by the cries that came from the liner, was steadily growing less as the pirates cut or shot them down.</p>
+ 
+<p>But hardly had Barron gained the liner's deck when a roar sounded from her hold. Ransome, now at the gang-plank, himself about to cross, bawled an order to his lieutenant. The order was taken up and repeated from man to man. From doors and hatchways the pirates tumbled and raced across to the <hi rend="italic">Comet</hi>. Men of the pirate crew ran forward and aft, and severed the lines that held the destroyer alongside the liner. When, as nearly as any one could tell, the last of the pirates had regained their own ship, the gangplank was drawn in, and the <hi rend="italic">Comet</hi> moved off. And none too soon, for other explosions were sounding from the <hi rend="italic">Albuquerque's</hi> hold, and she listed dangerously.</p>
+ 
+<p>Flames burst from her decks before we had moved fifty yards, and for a moment it seemed that we had routed one danger only to be overcome by another. But we got clear. Before the liner blew up, we had got a quarter of a mile away.</p>
+ 
+<p>"Should have thought of that," I heard Ransome say to Pelletier. "Ammunition for Italy. If any of their men had had the nerve to do it earlier, we'd never got away."</p>
+ 
+<p>FOR the <hi rend="italic">Albuquerque</hi> was gone. A little wreckage&#8212;that was all. Gone! And not a cent's worth of treasure&#8212;nothing save death and wounds aboard the <hi rend="italic">Comet</hi>&#8212;to mark her passing. I shuddered as I watched the <hi rend="italic">Comet's</hi> crew at work cleaning up. Suddenly I bethought me of Mary&#8212;my wife&#8212;and what she must be suffering still. I started below. But Ransome detained me for a moment.</p>
+ 
+<p>"I notice you are armed, Mr. Fitch," he said, with a grin.</p>
+ 
+<p>I looked down; I still held my revolver in my hand. I put it calmly in my pocket.</p>
+ 
+<p>"Right," said Ransome. "Though why you should have fought for us&#8212;it's beyond me."</p>
+ 
+<p>"I didn't," I blazed. "I meant to join them and&#8212;"</p>
+ 
+<p>"He's making an alibi in advance," guffawed Barron. "I take it all back, chief. I'm glad you kept him safe. When it come to the point, he was with us. Haven't I told you how I killed the man he was fighting with?"</p>
+ 
+<p>"It was a mistake," I cried. "I&#8212;"</p>
+ 
+<p>"You knew we'd win, and you sided with the winners," said Ransome. "Natural enough. And now, as Barron puts it, you want an alibi for future use. All right, Mr. Fitch, you shall have it. We will all testify, if we decide to let you leave us, by a written paper, that you had no part in this fight. In the meantime, you helped us. That you did it to be with the winning side proves nothing but your good sense. Motives are little; deeds are what count. We shall not forget, Mr. Fitch."</p>
+ 
+<p>Like a veritable emperor, he said "we." I could have smiled. But I did not; it was hardly a time for smiles. Instead, as I went below to relieve the anxiety of Mary, I berated myself that I had denied fighting for the pirates. If Ransome thought me one of them, my freedom, sooner or later, would be assured. But I shook my head. Ransome could not be
+
+<cb n="2"/>
+
+deceived. He would know that I had not been willingly upon the side of the pirates. He would understand that it was a mistake.</p>
+ 
+<p>When I told Mary of the fight that had waged above her, and to which she had listened in horror, she turned white.</p>
+ 
+<p>"What will be the end, Seth?" she asked.</p>
+ 
+<p>But I could not tell her that. And I set down here, for what worth it may be to psychologists, that for a while I forgot all about the bloody battle on the <hi rend="italic">Comet's</hi> deck. I did not dream of it that night. Instead, I dreamed of Mary Richley's&#8212;Mary Fitch's&#8212;voice, and its softness when it pronounced the monosyllable "Seth."</p>
+ 
+<p>For the first time in several days, Ransome dined with Mary and me that evening. He seemed in a gloomy mood, and eyed me speculatively.</p>
+ 
+<p>"I wonder," he said, "if you really are lucky to me, Mr. Fitch?"</p>
+ 
+<p>"Whether lucky or not, I can not say," I answered. "But I rather imagine that I proved useful to-day."</p>
+ 
+<p>He smiled grimly.</p>
+ 
+<p>"A simple soul, Barron, isn't he, after all? You don't credit me with so little sense as to believe that you fought with us&#8212;for us?"</p>
+ 
+<p>"You said&#8212;" I began.</p>
+ 
+<p>"If anything should happen to me, Mr. Fitch," he said, "the fact that you fought on our side to-day will help you and your wife. Therefore, publicly, I accepted Barron's version and excused your protest as he did. That is because&#8212;well, possibly I am soft. More probably, however, I admire the courage of your wife, who has undergone much without whimpering, with rare courage. She is different from most women. Moreover,&#8212;and I shall be very frank with you, Mr. Fitch,&#8212;my men are murmuring. Not mutinous, but&#8212; If it came to a showdown between me and my men, which side would you espouse?"</p>
+
+<floatingText type="nonfiction" xml:id="war.19170723">
+<body>
+ 
+<head type="main">"What the War Has Meant to Me"</head>
+ 
+<p>HERE is a contest in which everybody can take part. We will pay $15 for the best letter of not more than 500 words: $10 for the second best letter; and regular magazine rates for all other letters considered good enough to print.</p>
+ 
+<p>We want to hear from the mothers of boys who have gone away, and from the boys themselves. From sweethearts and war brides. From business men who have been made richer or poorer by the war. From pacifists and conscientious objectors and German-Americans&#8212;those whose hearts have been wrenched by the division of their sympathies.</p>
+ 
+<p>Let everybody speak right out in meeting, and without reserve. No names will be published, of course. Tell us what is in your heart about the war, what changes your feelings have gone through&#8212;how it has affected you, inside and out.</p>
+ 
+<p>All letters must he in our hands by August 25. Start your letter to-day.</p>
+ 
+<p><hi rend="italic">Address</hi> BRUCE BARTON, Editor, 381 Fourth Avenue, New York.</p>
+ 
+</body>
+</floatingText>
+ 
+<p>And, thinking of Mary's fate with the influence of Ransome upon his men gone, I answered without hesitation:</p>
+ 
+<p>"Yours."</p>
+ 
+<p>"Which is why you retain your revolver," he said quietly.</p>
+ 
+<p>HE attacked his food; and there was silence for a while, to be broken by my question: "What are your plans now?"</p>
+ 
+<p>He started to mop his forehead with his left hand, but lowered it instantly, a grimace showing that his shoulder still hurt from the blow of the cleaver's flat side.</p>
+ 
+<p>"Now? Well, first, to be eternally cautious and take nothing for granted, Mr. Fitch. Had I followed my own intuitions to-day, instead of yielding to Barron's persuasions, I should not be short half my crew. Hereafter, when I sink a ship, I shall cruise around a while, to be certain that no one is left alive, to be picked up and give warning as did that Portuguese."</p>
+ 
+<p>He noticed Mary's irrepressible shudder.</p> 
+ 
+<p>"It is war," he told her.</p>
+ 
+<p>Defiantly she looked at him.</p>
+ 
+<p>"War is open and has certain rules," she said. "It is the attack by armed men upon other armed men. Non-combatants are spared in war. But yours&#8212;yours is murder."</p>
+ 
+<cb n="3"/>
+ 
+<p>"War, each war, makes its own rules," he retorted, with a shrug.</p>
+ 
+<p>Somehow or other, Mary's defiance of him never aroused him to wrath, but rather to a sort of admiration. He turned to me.</p>
+ 
+<p>"I suppose that dry land would appeal to you for a change, eh, Mr. Fitch?"</p>
+ 
+<p>I looked my question.</p>
+ 
+<p>"I must replenish my crew, you know. Have you forgotten the islands that I mentioned to you? We are going to one of them now. The African one. I hope that it will be pleasanter for you both for a while."</p>
+ 
+<p>And, actually, his smile seemed benevolent. Then abruptly he brought out his phonograph, and talked no more that evening.</p>
+ 
+<p>WE hardly saw him in the next four days. Barron, whose enmity to me had entirely vanished, informed me that the chief's head was bothering him greatly, and at times he seemed tremendously concerned.</p>
+ 
+<p>On the fourth morning after the sinking of the <hi rend="italic">Albuquerque</hi> we raised land. I presume we could have reached Ransome's island earlier; but I know that the <hi rend="italic">Comet</hi> pursued a rather circuitous course, doubtless to avoid French and British war-ships whose whereabouts we learned by wireless.</p>
+ 
+<p>Mary and. I, having been told by Barron the night before of our nearness to land, were up betimes, and on the deck.
+A bold headland, jungle-covered, was what we first saw; but as we came closer we saw that close to the headland lay a small island. By a zigzag channel we approached, and in the middle of the forenoon we dropped anchor in a little harbor
+but a stone's-throw from the island, and sheltered from seaward observation on all sides.</p>
+ 
+<p>It was a most perfect hiding-place, and I marveled at the ramifications of Ransome's schemes, and the forethought that had been used.</p>
+ 
+<p>As I learned later, the island had once been a Portuguese possession. It had been a sort of trading-post with the interior. But pestilence had swept the surrounding country so many times that Portugal had decided to relinquish the place, keeping a nominal title to it, but not even maintaining a corporal's guard of soldiers to enforce her sovereignty.</p>
+ 
+<p>But the iron-roofed buildings remained, and there was also a white-roofed and white-walled building, now sadly in need of repairs, that had doubtless been the governor's palace.</p>
+ 
+<p>How Ransome had heard of this place I do not know. Perhaps some ex-soldier of Portugal, gone to America and turned criminal, had told the hunchback of the spot. It must have been something like that.</p>
+ 
+<p>Anyway, with that forethought and lavishness of preliminary preparation which was the most amazing part of Ransome's deviltry, he had sent men over here,&#8212;at what cost he only knew,&#8212;and had as perfect a base for his depredations as man could imagine.</p>
+ 
+<p>I rather think that he had chartered a vessel in the fall, put aboard his own men as crew, loaded her with all possible necessaries, and sent her over here. I never
+
+<cb n="4"/>
+
+learned exactly how he had arranged it all, but later I learned that the <hi rend="italic">Albert Rossiter</hi>, an American tramp, had been chartered the previous fall, and that her cargo contained a most wonderful miscellany of goods. Further, the <hi rend="italic">Albert Rossiter</hi> never touched at a civilized port after leaving New York. Still further, the description of the man who hired her corresponded with a description of Barron.</p>
+ 
+<p>Whether, if this chain of reasoning be correct, the pirates had deliberately sunk the tramp after reaching the island, or whether some of the pirates turned faint-hearted, endeavored to run away in her, and were lost in a storm, will never be known. For I asked Ransome no questions, and he volunteered no information about the sources of his supplies or the method by which he had brought his men here in advance of the <hi rend="italic">Comet</hi>.</p>
+ 
+<p>Mary and I went ashore in the first boat with Ransome. There Ransome cut short the excited queries of a bearded man who greeted him, and whom the hunchback called Reardon. He introduced us as his guests, and demanded that we be immediately shown to quarters in the decayed white building. This done, we were left alone, save for some jabbering negro servants who eyed us cur:- ously, yet seemed to possess no English.</p> 
+ 
+<p>RANSOME joined us at luncheon, and requested that we keep to the house or its immediate grounds. This request&#8212;which was, of course, an order&#8212;we obeyed, wondering. And the afternoon passed without our being visited by any one. However, we did not mind, for here we could feel secure from interruption and talk of the many things that had leaped into our hearts these past two weeks. Yet we did not openly speak of love yet. We skirted it, played along its borders. But I no longer doubted that Mary loved me; and as for Mary&#8212;well, she, of course, being a woman, had known all along my feeling for her.</p>
+ 
+<p>Though naturally depressed by the uncertainty of our fate, we tried not to think of it or speak about it. Here in this beautiful though run-to-seed and tangled garden, with the wonderful sky of Africa above us and the vivid green of the jungle across the harbor, away from the actual presence of the pirate crew, we were more cheerful than we had been.</p>
+ 
+<p>All day long we knew that hasty work was being done aboard the <hi rend="italic">Comet</hi>. We saw boats plying swiftly to and from her, and we guessed, of course, that her supplies of fuel and ammunition were being replenished. But neither of us guessed how little time they would take. For of course the <hi rend="italic">Comet</hi> had not used up very much of her ammunition; she needed only oil for her engines. And that was aboard by evening. Those of the wounded who had not died were well on toward recovery by now, and the white men on this island replaced those lost by death.</p>
+ 
+<p>Ransome told us this at supper. Further, he informed us that the <hi rend="italic">Comet</hi> would sail at dawn. Then his face grew serious.</p>
+ 
+<p>"Not being certain any more, Mr. Fitch, that you bring me luck, and because I prefer, for many reasons, not to have your wife aboard the <hi rend="italic">Comet</hi>, I am leaving you two behind. I do not know when I shall return. But you may rest certain that you will not be annoyed while here. I can not offer you your freedom as yet. I do not know when I will be able to do so. I would not buoy you up with false hope by promising that I can ever let you go free. Events must determine that. But as yet, and for some little time to come, you are safe.</p>
+ 
+<p>"You have your revolver, Mr. Fitch. If I should be lost, and the <hi rend="italic">Comet</hi> comes back without me&#8212;well, you have judgment; you will know what to do. Meanwhile, you have the freedom of this island. Reardon, whom I leave in command, will see that you have servants, everything. He will answer to me for you. And so&#8212;good-by."</p>
+ 
+<p><ref target="roche.19170730">To be concluded next week</ref></p>
+ 
+</body>
+</text>
+ 
+<pb n="Page 23" xml:id="ew.issue.19170723.p023"/>
+ 
+<text type="nonfiction" xml:id="only.19170723">
+<body>
+
+<head type="main">The Only Slave in the United States</head>
+ 
+<cb n="1"/>
+
+<p>THE report, for this fiscal year, of the Special Indian Commissioner to the Florida Seminoles, contains some interesting facts that have not yet been given out for publication. The most startling of these is that slavery still exists in the United States of America. Yes, negro slavery at that, in spite of Lincoln's Proclamation of Emancipation and the Civil War.</p>
+ 
+<p>The slave is a woman, and she is in bondage to a Seminole Indian in Florida; and, since that tribe of Indians does not recognize the authority of the United States, the Emancipation Proclamation or the Constitution has little to do with this case.</p>
+ 
+<cb n="2"/>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from James S. Rickards.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+ 
+<p>The woman's name is Funko. She is ninety-seven years old, and was stolen from a south Georgia plantation during the Second Seminole War, in 1835. She was then a good-looking black girl of sixteen. She is now wrinkled and untidy, but happy; for the Seminoles are good to her despite the fact that they hold the average negro in contempt.</p>
+ 
+<p>The stubborn refusal of the Seminoles
+ 
+<cb n="3"/>
+ 
+to give back to the Southern planters the stolen slaves was the cause of the Second Seminole War, which ended in the majority of the Seminoles being carried across the Gulf of Mexico to Oklahoma in 1842.</p>
+ 
+<p>Funko is one of only three now living, among this remnant of people, who watched their nation sail out of sight. This event is described, in the Bulletin of the American Bureau of Ethnology, as resulting in "the practical expatriation of the tribe from Florida." However, the Commissioner's report for this fiscal year, ending June 30, 1916, shows the total number of Seminoles now living on the peninsula to be 574, sixteen of whom are not full-bloods.</p>
+ 
+<p>This census indicates that there has been practically no increase over previous years. It also states that there are 110 more males than females.</p>
+ 
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="atwood.19170723">
+<body>
+ 
+<head type="main">Look Before You Leap</head>
+<byline>By <persName type="author" key="#Atwood, Albert W.">ALBERT W. ATWOOD</persName></byline>
+
+<p>ABOUT a year ago, several hundred newspapers were filled with glaring advertisements of the stock of the Emerson Motors Company. Although this stock and numerous others of a similar nature were never mentioned by name in my articles, they were hinted at in a broad enough way on several occasions, and all the readers of this magazine who wrote in for information concerning Emerson Motors received a letter warning them against its purchase. So many requests for advice on Emerson Motors came to us that it was necessary to print a circular reply.</p>
+ 
+<p>Early in June, 1917, or just about a year later, a petition in bankruptcy was filed against this concern, and fourteen individuals engaged in selling its stock were indicted and arrested by Federal authorities on a charge of using the mails to defraud.</p>
+ 
+<p>Usually it is ill-mannered to say, "I told you so"; but the rule of strict modesty in this respect may be thrown overboard for once, because of the possible benefit in explaining why the ill-fated Emerson venture was suspected by us so long before it actually came to grief. </p>
+ 
+<p>It is too early to say whether stock in this company will prove a total loss. But when the slow but sure moving postal authorities get around to arresting a company's promoters, it is pretty safe to assume that the value of that particular corporation's stock is just about equal to the lowest priced wall- paper. In this case, the results are especially tragic, because more than six thousand persons were induced to buy the worthless stuff. </p>
+ 
+<div1><head type="sub">Sure Signs of Get-Rich-Quick Promotions</head>
+ 
+<p>THE Emerson Motors was only the most conspicuous of a flood of "bunk" motor promotions. They spread over the country in the summer of 1916 like a tidal wave, enriching&#8212;at least temporarily&#8212;the promoters and the newspapers that accepted their advertising. Several concerns besides the Emerson have also Tailed; and many others which flourished on paper for a brief period have become silent. It is just one more chapter in the old, old story of get-rich-quick promotion. It has no interest except for the thousands who were stuck, for the hundreds who came near biting but changed their minds at the last moment, and perhaps for the many thousands who may be warned to resist a like temptation in a different guise another time.</p>
+ 
+<p>Here are a few sure signs of a get-rich-quick promotion, all exemplified in the Emerson case. Whenever any industry becomes enormously profitable, reaching the crest of a wave, there is a tendency for fakirs to imitate and capitalize the great success for their own benefit through the medium of stock-jobbing companies.</p>
+ 
+<p>In the summer of 1916 the motor industry, after many hard years, had reached
+ 
+<cb n="2"/>
+
+a marvelous pinnacle of profits. Ford, Willys, Durant, and many other pioneers, after a period of relative hardship, were reaping immense rewards.</p>
+ 
+<p>But competition had increased by leaps and bounds, and the cost of doing business had gene up in the same way. Almost daily new cars of great merit were being put upon the market. Opportunities for profitable investment were, and perhaps even to-day are, many. But common sense indicated that with intense competition and rapidly increased cost of doing business such marked features of the motor trade, no dependence could be placed upon mere paper propositions, and the only stocks worth buying were those of companies with cars actually and successfully being sold to the public.</p></div1>
+ 
+<div1><head>Let Rich Men Take the First Risk</head>
+ 
+<p>IN a new or unsettled industry, where hazards are great, it is almost an axiom that small investors should leave stocks alone until wealthy men have taken the first risk and reputable banking houses have been willing to sponsor the securities. People who have observed this rule have been able to buy many motor stocks paying large returns.</p>
+ 
+<p>But the Emerson Motors Company started to unload the whole risk upon the investing public before cars were being produced and sold. That fact alone was enough to damn it.</p>
+ 
+<p>Then, too, it might seem as if the most unsophisticated would have balked at the advertising by which the stock was sold. Whole pages were taken in hundreds of newspapers. Obviously, a company that has no source of revenue from earnings can not afford months of daily full-page advertisements in hundreds of newspapers without almost wrecking the concern by
+ 
+<cb n="3"/>
+ 
+this initial expense. It is a serious problem, even with the wealthiest of going concerns, to pay the advertising and commissions necessary to float a new issue of securities.</p>
+ 
+<p>Such a consideration might be too technical for most investors, but there is no excuse when a man or woman buys stock the description of which consists chiefly of generalities. The Emerson Motors "literature" consisted mostly of such phrases as "Big Dividends Promised"; "How $100 Grew to $16,500"; "Your Opportunity".; and "Share in the, Immense Profits of the Automobile Industry."</p></div1>
+ 
+<div1><head type="sub">Demand Facts, Not Promises</head>
+ 
+<p>INVESTORS must learn to look for realities rather than promises. Any time in the last few years it has been possible, by applying to reliable brokers, to secure the names of dozens of automobile stocks paying large dividends. But thousands of people have bought shares in merely projected companies, solely on the basis of rosy promises and generalities. Of course, the purchasers were not quite so unreasonable&#8212;from their own point of view, at least&#8212;as might appear at first
+sight.  What they really thought was that by going into something entirely new, merely projected, they might make huge fortunes; whereas the established motor stacks would merely pay moderate or at the most large dividends.</p>
+ 
+<p>The chances are 999 out of 1000 that the organizers of an industry headed toward fortune will keep the stock to themselves. Honest promoters, organizers, managers, bankers, and brokers often sell good stock to pay reasonable dividends; and dishonest promoters sell worthless stock that pays nothing. But no class of men, whether honest or dishonest, ever sell the fortune-making kind of stock to the public&#8212;not if they know what they are about.</p></div1>
+ 
+<div1><head type="sub">Free Booklets You May Have for the Asking</head>
+<p><hi rend="italic">Arrangements have been made by which any reader mentioning, this magazine may have any or all of the following booklets on request.</hi></p>
+ 
+<cb n="1"/>
+ 
+<p rend="agate"><hi rend="italic">War Tax Opportunities</hi>,  a special circular dealing with investment issues which have been forced out of strong boxes on account of war income taxes, has been issued by John Muir &amp; Co. Copies may be had on application to the offices of the firm, 61 Broadway, New York.</p>
+ 
+<p rend="agate">Public utilities share immediately in general prosperity and remain stable in times of stress. The companies organized, financed, and managed by H. M. Byllesby &amp; Company serve upwards of 350,000 customers in 327 virile communities in 16 States. Investment literature "E" will be sent by addressing the firm at 218 So. La Salle Street, Chicago, or 1219 Trinity Building, New York.</p>
+ 
+<p rend="agate">Any one interested in the security market should send to L. R. Latrobe &amp; Co., No. 111 Broadway, New York, for their statistical books on Copper Stocks, Motor Stocks, Standard Oil Stocks, Investor's Guide (270 pages), or Weekly Market Letter. This firm will mail you any one of these books free on request. Partial-Payment Plan.</p>
+ 
+<p rend="agate">It is unusual for a financial periodical to interest every-day business people. The Bache Review is full of sound common sense, describes the situation clearly and graphically, thereby making the subject 
+ 
+<cb n="2"/>
+
+of finance interesting to everybody. Issued- weekly by J. S. Bache &amp; Co., 42 Broadway, New York. Sent free on request.</p>
+ 
+<p rend="agate">The demand for farm loan investments is steadily increasing, according to reports from Phelps-Eastman Company, McKnight Building, Minneapolis, Minnesota, who specialize in high-grade 6 per cent. arm loans. The Company will be pleased to furnish booklet and full detailed information on request.</p>
+ 
+<p rend="agate">The <hi rend="italic">Odd Lot Review</hi>, edited by P. M. Whelan, is a weekly financial publication which avoids technical financial terms or explains them when they are used. Copies may be had on application to the offices of the publication, 61 Broadway, New York City.</p>
+ 
+<p rend="agate">The Citizens Savings &amp; Trust Co. of Cleveland, Ohio, will furnish to our readers, upon request, Booklet P, which contains some very interesting information on banking by mail.</p>
+ 
+<p rend="agate">First farm mortgages and real estate bonds are not subject to fluctuations in value in these uncertain times. E. J. Lander &amp; Co., Grand Forks, North Dakota, will send a booklet free to those who are interested in farm mortgages. Ask for booklet "R."</p>
+ 
+<figure n="advertisement">
+<head>Backbone Investments</head>
+<p></p>
+<figDesc>Advertisement for H. M. Byllesby &amp; Company.</figDesc>
+</figure> 
+
+<figure n="advertisement">
+<head>War Tax Opportunities</head>
+<p></p>
+<figDesc>Advertisement for John Muir &amp; Co.</figDesc>
+</figure> 
+
+<figure n="advertisement">
+<head>Authentic Statistical Books</head>
+<p></p>
+<figDesc>Advertisement for L. R. Latrobe &amp; Co.</figDesc>
+</figure> 
+ 
+<figure n="advertisement">
+<head>Time Tested Investments</head>
+<p></p>
+<figDesc>Advertisement for E. J. Lander &amp; Co.</figDesc>
+</figure> 
+ 
+<figure n="advertisement">
+<head>"Mum"</head>
+<p></p>
+<figDesc>Advertisement for "Mum" Mfg. Co.</figDesc>
+</figure> 
+ 
+<figure n="advertisement">
+<head>Boys Like This</head>
+<p></p>
+<figDesc>Advertisement for Every Week.</figDesc>
+</figure> 
+ 
+</div1>
+</body>
+</text>
+ 
+<pb n="Page 24" xml:id="ew.issue.19170723.p024"/>
+ 
+<text type="advertisement" xml:id="coke.19170723">
+<body>
+ 
+<figure n="advertisement">
+<head>Drink Coca-Cola</head>
+<p></p>
+<figDesc>Advertisement for The Coca-Cola Co.</figDesc>
+</figure> 
+ 
+</body>
+</text>
+ 
+</group>
+</text>
+</TEI>

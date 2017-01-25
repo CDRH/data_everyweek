@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, October 16, 1916</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19161016</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<biblScope type="volume">Vol. 3</biblScope>
+<biblScope type="number">No. 16</biblScope>
+<extent>24 pages</extent>
+<date when="1916-10-16">October 16, 1916</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2015-10-08"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2015"><name>Laura Weakly</name> Validation
+</change>
+<change when="2014-01-21"><name>Samantha Greenfield</name>Initial Encoding
+</change>
+<change when="2010"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19161016.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3&#162;</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Published Weekly by Every Week Corporation,</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<docDate>October 16, 1916</docDate>
+</docImprint>
+
+<figure n="illustration">
+<ab type="credit"></ab>
+<head></head>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19161016.p002" />
+    
+<text type="advertisement" xml:id="gem.19161016">
+<body>
+    
+<figure n="advertisement">
+<head>Gem Razor</head>
+<p></p>
+<figDesc>Advertisement for Gem Cutlery Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>You Can Earn $250 a Month with This New Machine</head>
+<p></p>
+<figDesc>Advertisement for Haywood Tire &amp; Equipment Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Become an Expert Accountant</head>
+<p></p>
+<figDesc>Advertisement for LaSalle Extension University.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>10 Cents a Day</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents that Protect and Pay</head>
+<p></p>
+<figDesc>Advertisement for Watson E. Coleman.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents Secured or Fee Returned</head>
+<p></p>
+<figDesc>Advertisement for G. P. Kimmel.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>For gout and lumbago</head>
+<p></p>
+<figDesc>Advertisement for Sloan's Liniment.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Learn Electricity</head>
+<p></p>
+<figDesc>Advertisement for Wicks Electrical Institute.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Banking by Mail at 4% Interest</head>
+<p></p>
+<figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Pates that Protect</head>
+<p></p>
+<figDesc>Advertisement for R. S. &amp; A. B. Lacey.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="barton.19161016">
+<body>
+    
+<head type="main">Some Poor Blind Folk Have Never Seen a Miracle</head>
+    
+<p>HERE is an important distinction that many people overlook.</p>
+    
+<p>God made the world; but He doesn't make <hi rend="italic">your</hi> world.</p>
+    
+<p>He provides the raw materials, and out of them every man selects what he wants and builds an individual world for himself.</p>
+    
+<p>The fool looks over the wealth of material provided, and selects a few plates of ham and eggs, a few pairs of trousers, a few dollar bills&#8212;and is satisfied.</p>
+    
+<p>The wise man builds his world out of wonderful sunsets, and thrilling experiences, and the song of the stars, and romance and miracles.</p>
+    
+<p>Nothing wonderful ever happens in the life of the fool.</p>
+    
+<p>"A primrose by the river's brim a yellow primrose is to him," and it is nothing more; an electric light is simply an electric light; a telephone is only a telephone&#8212;nothing unusual at all.</p>
+    
+<p>But the wise man never ceases to wonder how a tiny speck of seed, apparently dead and buried, can produce a beautiful yellow flower. He never lifts a telephone receiver or switches on an electric light without a certain feeling of awe.</p>
+    
+<p>And think what a miracle it is, the harnessing of electricity to the service of man!</p>
+    
+<p>Who, unless his sense of awe had grown blunt through constant familiarity, would believe it?</p>
+    
+<p>The sun, the center of our universe, goes down behind the western horizon. I touch a button, and presto! I have called it back again&#8212;the room is flooded again with light.</p>
+    
+<p>The thunder that men once called the voice of God rolls out its mighty waves of sound, and the sound carried only a few score miles. But I&#8212;puny speck upon the face of the earth&#8212;I lift a little instrument: and, behold, my whisper is heard a thousand miles away.</p>
+    
+<p>Prometheus stole fire from the gods and brought it down to earth. And for that crime the gods chained him to a lonely rock and sent a huge bird to tear out his vitals. Each night the wound healed, and each day it was torn open again.</p>
+    
+<p>That was the punishment of the man who dared to wrest away the richest treasure of the gods.</p>
+
+<p>But fire&#8212;the treasure of the gods&#8212;has almost disappeared out of our daily life: we scorn it.</p>
+    
+<p>Do we want heat? We press a button: and lo, heat, invisible, silent, all-pervasive, flows into our homes over a copper wire.</p>
+    
+<p>Do we need power? We have but to press another switch, and giants come to us over the same slender roadway. Clothed in invincible garments, the cleanse our homes, wash our clothes, crank our automobiles&#8212;do everything that once taxed the strength of men and hurried women into old age.</p>
+    
+<p>Don't let your life become a prosaic affair: don't let familiarity with the marvels about you breed thoughtlessness and contempt.</p>
+    
+<p>Let the fool build his world out of mere food and drink and clothes: <hi rend="italic">you</hi> fashion <hi rend="italic">yours</hi> out of marvelous experiences: furnish and decorate it with miracles.</p>
+    
+<p>Exercise your mind in the wholesome activity of wonder: train your should to reverent awe.</p>
+    
+<p>If you had stood with Moses at the shore of the Red Sea, and had seen it divide to let the children of Israel pass over, you would have had no difficulty in recognizing <hi rend="italic">that</hi> as a miracle.</p>
+    
+<p>But every night when the sun goes down, a man stands in a power-house in your city and throws a switch, and instantly the city and the country for miles around are flooded with sunshine.</p>
+    
+<p>And you say to yourself casually: "Oh, I see the lights are on."</p>
+    
+<closer><signed><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</signed></closer>
+    
+</body>
+</text>
+    
+<pb n="Page 3" xml:id="ew.issue.19161016.p003" />
+
+<text type="advertisement" xml:id="tobacco.19161016">
+<body>
+    
+<figure n="advertisement">
+<head>The Smoke of the Service</head>
+<p></p>
+<figDesc>Advertisement for The American Tobacco Company.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 4" xml:id="ew.issue.19161016.p004" />
+
+<text type="photograph" xml:id="profiles.19161016">
+<body>
+    
+<head type="main">PROFILES</head>
+    
+<figure n="photograph">  
+<head></head>
+<ab n="credit">Photograph by Sarony.</ab>
+<p>PERHAPS she doesn't look hilarious, and you might as well know the reason first as last. In "The Flame," Violet Heming listens for three hours to ukalala music, with only one moment's rest&#8212;and that brief respite comes during a hurricane scene. Last year Miss Heming braved the "Big Berthas" in "Under Fire"; but even stage dum-dums don't tweak the nerves like that eternal "aloha-haing. "	</p>
+<figDesc></figDesc>
+</figure>   
+
+<figure n="photograph">  
+<head></head>
+<ab n="credit">© Victor Georg.</ab>
+<p>"WHAT'S in a name?" asked Shakespeare or Little Eva or somebody. The answer, in the case of these five ladies, is "electricity." It takes many thousand kilowatts, not to mention amperes and volts, to blazon their names upon Broadway this season. Ann Murdock appears this year in "Please Help Emily." The critics seem to agree that Ann is all right, but that Emily needs help, and a lot of it.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">  
+<head></head>
+<ab n="credit">Photograph by Arnold Genthe.</ab>
+<p>"I CAN'T imagine how these bad women have such remarkably good ideas," reflected Margaret Mower last season in "Helena's Husband," studying her face in the mirror while the audience studied her profile. This year she is seen in "The Happy Ending," though you would hardly guess it from this picture.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">  
+<head></head>
+<ab n="credit">Photograph by Sarony.</ab>
+<p>"How sorry I feel for Marie Odile" (pronounced O-deal, with the accent on the deal, as in poker)&#8212;so sang Ina Claire last summer in the "Follies." Ina simply dotes on nature&#8212;butterflies, mushrooms (on toast), chickens (á la king), and
+all the rest of the glorious outdoors. The picture shows her with her pet butterfly, Florenz. Named after Florenz Ziegfeld, we presume, a producer of problem plays&#8212;the problem being to find the plot.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">  
+<head></head>
+<ab n="credit">Photograph by Sarony.</ab>
+<p>LAST among our favorites this season, Miss Frances Starr. Oh, that actresses would never marry or grow old. It's a tremendous strain upon our emotions, falling in love with a new crop of stars every season. Miss Starr has starred along pretty constantly since "The Easiest Way." She is not a Buddhist, though appearances in the picture are against her. She practises on Buddha in preparation for the fat man in the front row who settles down and dares the actors to make him laugh.</p>
+<figDesc></figDesc>
+</figure>   
+    
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19161016.p005" />
+
+<text>
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 3, No. 16 October 16, 1916
+Every Week
+$1.00 per Year 3 Cents a Copy</p>
+</figure><p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton2.19161016">
+<body>
+    
+<head type="main">A VISIT TO MR. HUGHES</head>
+<byline>By <persName type="author" key="#Barton, Bruce">BRUCE BARTON</persName></byline>
+    
+<figure n="photograph">
+<head></head>
+<p>"It has become first nature with him to face facts squarely and decide upon them, no matter what the decision may mean to his fortunes or those of his friends."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+    
+<p>THE edition of "Who's Who in America" for 1900 did not contain the name of Charles Evans Hughes. The volume of Poole's "Index" that ends with 1904 shows not one single magazine article written about him.</p>
+    
+<p>But one year later&#8212;in 1905&#8212;his name was a household word: two years later he was Governor of New York: and a few months thereafter narrowly escaped nomination for the Presidency.</p>
+    
+<p>There ought to be an inspiration in that for every young man in the United States; an inspiration, and a moral.</p>
+    
+<p>The inspiration is the proof that, in spite of the tremendous growth of the country, the complex organization of business, and the long start with which some men are born over others, Opportunity is just as big to-day as it ever was. Lincoln's law office in Springfield was a no more unlikely place for the lightning to strike in 1860 than Hughes' law office in New York in 1905. Lincoln had at least been a member of the State and national legislatures. Hughes had been nothing with any publicity attached to it. He was utterly unknown outside the ranks of his college, his profession, and his church.</p>
+    
+<p>The moral is this: There is only one thing for a man to do in this world&#8212;<hi rend="italic">to deliver the goods and keep himself fit.</hi> The fool hires a press agent, joins many clubs, and wears himself out trying to look for Opportunity. The wise man uses only one form of advertisement&#8212;consistent, steady results in his job, whatever it happens to be, careful meantime to keep himself physically well and mentally growing. And when Opportunity comes to him, he is ready to make more progress in a single year than most men make in a lifetime.</p>
+    
+<p>I HAVE talked with Mr. Hughes only twice. The first time was in Chicago, when, as Governor of New York, he had been invited to deliver the speech at the Washington's Birthday celebration field under the auspices of the Union League Club. It was a holiday, and there are fifty golf clubs within a few miles of Chicago; yet the Auditorium was packed. We had heard of this new comet who had flashed across the eastern horizon, and we came out to be shown. We wanted to know what manner of man he was.</p>
+    
+<p>And we were satisfied. Grover Cleveland, McKinley, Roosevelt, Lodge&#8212;most of the big men of the day had been invited to deliver that annual address in former years. There were many men in the Hughes audience who had heard them all. And I remember one of them saying to me that never from that platform had he heard an abler address. The logic was perfect. The delivery was not that of a practised orator. There was, in fact, no oratory at all. Just a strong man standing solidly on his feet, and talking out in a voice that filled the theater and had an honest twang in it.</p>
+    
+<p>Afterward I met him for a moment. I was
+
+<cb n="2" />
+    
+only a kid, of course, just out of college; and he was Governor of the Empire State; it wasn't to be expected that he would pay much attention to me. But when I had met Teddy a little while before I had sort of thrilled with the experience for hours. Mr. Hughes didn't make me feel that way. I admired him. But I would have charged up San Juan Hill or swam the River of Doubt in December if Teddy had given the word.</p>
+    
+<p>Hughes was almost too admirable, too perfect. Logic 100%; deportment 100%; efficiency 100%; good old-fashioned deviltry 0. Not one redeeming vice. I would have voted for him for any office he might ask for, but I wouldn't have cheered my head off for him.</p>
+    
+<p>I set down this experience of ten years ago in some detail, because I want to contrast it with the entirely different experience I had with him a few weeks back. The years have dealt kindly with Mr. Hughes. He is a bit stouter; his beard is shorter, and gray instead of red; and there is a bald spot of considerable dimensions on the top of his head. But he has mellowed wonderfully. I can't explain it. I have seen the Supreme Court in session often. I can't understand how any man could have dozed with it for years and come out more human than when he went in. But Governor Hughes has done it. There is a sparkle in his eye and a charm in his smile and laugh that were not there ten years ago. I would have dreaded a little to be shut up alone for very long with the Hughes of ten years ago; but I want to serve notice on him right now that if the Hughes of to-day ever invites me to go fishing with him I am going to accept.</p>
+    
+<p>It was a busy morning on which I saw him last. He had delivered his speech of acceptance the night before, and every man that had the slightest chance of getting by the doorkeeper had crowded in to congratulate him on it or tell him how he could have made it better. I went in just behind a famous college president and a United States Senator, and just before a couple of Congressmen and a Governor. We were the successful ones, and as we passed by the doughty Major who guarded the door, we received pathetic glances from the horde of the unsuccessful&#8212;the drooping, shabby, ever hopeful crowd that always gathers about a candidate's headquarters. Old politicians, their whiskers tinted with tobacco juice; negro gentlemen from the South, wearing celluloid collars and promising to put Mississippi into the Republican column if only they could have a word with Mr. Hughes; serious-looking men with a mission, wanting indorsement&#8212;these the candidate has always with him. And this year the number is doubled, for women are in national politics; and women with a mission were there, each with the millennium neatly wrapped up and tucked under her arm.</p>
+    
+<p>I shot some questions at him, some very pertinent questions. He jumped at them like a full-back jumping for the ball. His answers were quick, decisive, clean cut as diamonds. It was fun to see his mind work, and his eye sparkle as he scored a point. Only a mind in a perfectly healthy body can work like that. Mr. Hughes' body is healthy; he has kept himself in splendid shape. His eye showed that he had slept soundly in spite of the excitement of the night before. Indeed, there was no trace of that night's work upon him except a slight huskiness in his voice.</p>
+    
+<p>I sometimes worry about my youngster (age nine months) because he is so distressingly healthy. I am afraid he will never be a famous man. All famous men seem to have been started out with a very small reservoir of physical strength. Mr. Roosevelt was a delicate lad; Wilson's parents did not let him learn to read until he was nine years old; and Hughes had so little excess energy that for years after he began the practice of law he was compelled to take long summer vacations in Switzerland, and was able only by the utmost care to make his strength meet the demands upon it. Both the President and Mr. Hughes to-day are a splendid testimony to what years of clean living can do.</p>
+    
+<p>HUGHES, like the President, was born in a preacher's household. Only one story has come down from his boyhood, and that one he would probably like to suppress. It is to the effect that at five years of age he protested against the primary schoolteacher who had him in charge because "she went over the same things too many times," and presented to his father "Charles Hughes' Plan of Study." His father approved the plan and allowed Charles to follow it for the next few years.</p>
+    
+<p>He graduated from Brown University, studied law, and began practice in New York. No wealthy friends, no fortune, no family connections&#8212;just one poor young lawyer among the thousands and thousands in New York, all with the same education and equipment. Good night, Mr. Hughes.</p>
+    
+<p>But along about 1905 an investigation was authorized into the history and operations of the Consolidated Gas Company of New York. The committee having the investigation in charge began looking around for an attorney. It was a good
+    
+<pb n="Page 6" xml:id="ew.issue.19161016.p006" />
+
+<cb n="1" />
+
+job they had to offer, but after looking for a long while they discovered that all of the really first-class lawyers in the city had conscientious objections against investigating so rich and powerful a possible client. The committee was beginning to be pretty well discouraged when some one mentioned a lawyer named Hughes, who was said to be really very able, though almost unknown. So Hughes was employed.</p>
+    
+<p>A howl went up from the newspapers. "Whitewash," they cried, "just a whitewash. Unknown lawyer. Worse than that, a Baptist&#8212;and John D. Rockefeller is a Baptist. Just a frame-up to conduct a fake investigation and give the company a clean bill of health."</p>    
+    
+<p>Hughes said nothing. He had several cartloads of records and ledgers sent over from the company's offices to his office, and for several weeks he lived with those figures, eating them, drinking them, absorbing them into his blood. And when the investigation opened New York was treated to such an entertainment as it had never known. Hughes made those figures tell a tale of carnival and corruption that read like fiction. "The man is a wizard," said the same newspapers that had scoffed at him. But it wasn't wizardy: it was simply work.</p>
+    
+<p>AFTER the gas investigation came the insurance investigation. Again Hughes took a deluge of figures, and when the overlords of the insurance world were put on the stand one after another, he amazed them by the things he knew. Out of those investigations grew a new order of things in the industrial world. Secret meetings and cabals, and the bribery of legislators, and the mishandling of the people's investments by little coteries of irresponsible men, began to give way. Business began to be done in the open, and great offices came to be regarded as great trusts.</p>
+    
+<p>I came back from the Chicago convention this year and met a prominent man in New York who once had large holdings in one of the insurance companies Hughes investigated. He had been a supporter of Roosevelt for the nomination, and I expected to find him much disappointed at the outcome. He appeared entirely reconciled.</p>
+    
+<p>"I wanted Teddy, to be sure," he said; "but I want to tell you that they have nominated a <hi rend="italic">real man.</hi> I went all through that insurance investigation. Those were pretty bitter days. But when the investigation was all over there wasn't a man in any one of those companies that wasn't Hughes' friend, except those that were crooks at heart. And most of them are now dead. He is as straight as they make 'em, and he simply don't know how to be unjust."</p>
+    
+<p>While the investigations were going on, the Republicans in New York City, needing help desperately, reached out for Hughes as a possible savior and offered him the mayoralty. His letter in reply is worth quoting:</p>
+    
+<p>I have no right to accept this nomination. A paramount public duty forbids it. . . . The non-political character of the investigation and its freedom from bias, either of fear or favor, not only must exist: they must be recognized. I can not permit them by any action of mine to become matters of debate.</p>
+    
+<p>So he refused the mayoralty. But a year later the Republicans of the State were in just as desperate need. His investigations were ended&#8212;his name was on every tongue. He was their one chance to defeat Hearst and to win. In a convention that swallowed him at the behest of its leaders like a bitter pill, he was nominated.</p>
+    
+<cb n="2" />
+    
+<p>I shall accept the nomination without pledge [he wrote], other than to do my duty according to my conscience. If elected it will be my ambition to give the State a clean, sane, efficient and honorable administration, free from the taint of bossism or of servitude to any private interest.</p>
+    
+<p>The convention received the message with all the enthusiasm of condemned men listening to the hammer at work on a gallows.</p>
+    
+<p>THE story of Hughes as Governor has been so often written as to be still fresh in the public mind. He had hardly settled himself in Albany before the bosses discovered that something had happened more terrible than they had even dreamed. The back stairs leading to the Governor's office were nailed up; Hughes moved his desk out into the big outer office, and every one who had business with the Governor was compelled to do it there with the sun shining in on all four sides. He made his appointments without asking the leave of any political leader, and they were efficient appointments. He urged progressive measures on the legislators, and when they balked, he went over their heads and appealed directly to the people. He gave the departments at Albany such a house-cleaning as they had never known. He vetoed more bills than any Governor since Grover Cleveland&#8212;297 vetoes in one session&#8212;and it apparently did not make a particle of difference to him whether his vetoes were popular, as many of them were, or exceedingly unpopular, such as his veto of the two-cent rate law. Was the law just? Was it well thought out? Was it needed? Would it do the work intended? These were his tests. They were new tests in Albany. My friend John Kendrick Bangs summed up the popular conception of his administration at the time in a verse that deserves reprinting:</p>
+    
+<lg><l>0 woe is me! 0 woe is us,</l>
+<l>That it should come to pass</l>
+<l>That gum shoe King Politicus</l>
+<l>Should go at last to grass.</l>
+<l>It is the dee dash darn dest thing</l> 
+<l>That ever we did see&#8212;</l>
+<l>A Governor a-governing</l>
+<l>At ancient Albanee.</l></lg>
+    
+<p>As I have studied the man and his record, three characteristics stand out preëminently:</p>
+    
+<p>His fairness. It has become to him, not second nature, but first, to get the facts and to face them squarely and decide upon them, no matter what the decision may mean to his own fortunes or the fortunes of any of those who may be close to him. This constitutes in him a very unpleasant weakness from the standpoint of those who have axes to grind; but the common people, who must trust him with their affairs at long distance, are not likely to regard it so. A machine politician expressed it more succinctly and forcibly than I can. He had come away from Albany disappointed. Hughes had turned down his little scheme.</p>
+    
+<p>"You can't do business with a fellow like that!" he exclaimed in disgust. "He don't know the first principles of politics. Why, the damn fool does right all the time."</p>
+    
+<p>The second characteristic that impresses me is his passion for efficiency. Criticism doesn't worry him, because he puts into every piece of work the very best that he can possibly deliver at that time. If any personal friend, any personal pleasure, gets in the way of the proper performance of the job, out with him or it. He found, sitting on the Supreme bench at Washington all day long, that his mind was more active in the afternoon
+
+<cb n="3" />
+
+than in the morning. He concluded that his favorite after-breakfast cigar must be the cause, and so, without hesitation, though not without regret, he gave up cigars.</p>
+    
+<p>He was on pins and needles at Albany until he could get into the State departments men who would do their work as it ought to be done and instil efficiency into the men under them. Through long, lonesome years, when nobody ever heard of him, he was drilling himself to do each day's job to the very best of his ability. And the habit is on him&#8212;he could not break it if he would. He is as efficient an individual as it is given a finite being to be.</p>
+    
+<p>And, finally, there is his tremendous appetite for work. Those dreary tomes of insurance data were wine and women and song to him. He loves work, and he can digest an amount of it that would overwhelm most men, even big men.</p>
+    
+<p>"Life is only work&#8212;then more work&#8212;and then more work."</p>
+    
+<p>Those are his own words. They help to explain the unspoiled simplicity of his family in the face of great honor. New honors, he has taught them, mean only the opportunity for new and bigger work. They help to explain the reason why a great party has turned to him three times for help, bringing each time a nomination he would not turn over his hand to get. They help to give a picture of Charles Evans Hughes as he sees himself.</p>
+   
+<p>LAST week I published an article entitled "A Visit to the President," which was frankly friendly to Mr. Wilson.</p>
+    
+<p>This article on Mr. Hughes is frankly friendly to him. I wanted to give each candidate a chance to put his best foot forward.</p>
+    
+<p>It is not my business to make up the mind of any reader of this magazine. Some readers, however, may be interested in the following questions, which I have set down as a help to myself in making up my own mind:</p>
+    
+<p>1. Assuming that the two men are equally able, equally conscientious, and equally sincere, which man, judged by his record, is most likely to gather strong men around him in the administration of our affairs through these next four critical years?</p>
+    
+<p>2. The Vice-President has usually been considered a zero in our Presidential campaigns. We can not afford so to regard him this year. Several Presidents have died or been assassinated in office. We can not run the risk at this particular juncture of having the government devolve upon a weak and incapable man. If death were to come to President Wilson or Mr. Hughes, which is the abler man to be intrusted with the nation&#8212;Mr. Marshall or Mr. Fairbanks?</p>
+    
+<p>3. Both parties promise pretty much the same things. Which party, judged by its record, is most likely to make good its promises, to give us an efficient and really worthy administration?</p>
+    
+<p>4. Apart from its effect on our own internal affairs, what will be the effect around the world of the reëlection of President Wilson or the election of Mr. Hughes? This election must do more than give us efficiency in Washington. It must serve notice on the world that the United States is a nation, not a mere conglomeration of peoples, a nation unhyphenated, self-reliant, just, seeking peace and service, but determined not to be treated lightly in any corner of the earth, not to surrender one iota of its rights.</p>
+    
+<p>Which man will, by his selection, be taken to mean <hi rend="italic">that</hi> to the world?</p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="womenreaders.19161016">
+<body>
+    
+<head type="main">A Letter from	One of Our Women Readers</head>
+    
+<p>DEAR EDITOR:</p> 
+    
+<p>The other day a dear little woman said to me, "You look so well, and you seem to grow young instead of old. How do you do it?" And I gave her my slogan: Walk, laugh, and drink water.</p>
+    
+<p>There is no better recipe for health and happiness. We all know it, but habit and carelessness stand in our way, and we lack the energy to overcome them. Get out in the open, whether it be December or June, and walk. See things and feel things, and know the joy of living.</p>
+    
+<p>Don't be afraid of rain or snow, or even a little blizzard. A brisk walk on a stormy day is worth quarts of tonic.</p>
+    
+<cb n="2" />
+     
+<p>Don't be a slave to your home and family, or to your business. You are worth more to your friends if you take the time to see the wonderful life going on all about you.</p>
+    
+<p>I have passed the fifty mark in years, but I walk from five to ten miles five days of the week.</p>
+    
+<p>Sometimes I walk along the beautiful residence streets of my city; sometimes I go down to the river, where the shipping and pleasure boats are a source of endless interest to me; or maybe I go over to our beautiful island park, Belle Isle, and walk around it. A couple of times a week,
+
+<cb n="3" />
+
+in the early morning, I walk two miles to a big outdoor market, and buy direct from the farmers and their families; and it is one of the most enjoyable as well as profitable things I do. If all housewives went to market there would be less complaint about the high cost of living.</p>
+    
+<p>I often ride out to the suburbs, then take long country walks. I even like to walk in our foreign settlements, for they bring to mind many a delightful tramp I have taken in some of their native countries.</p>
+    
+<p>And I <hi rend="italic">see</hi> things while walking&#8212;beautiful, happy, interesting, instructive things&#8212;which I remember and talk about. If
+    
+<cb n="4" />
+    
+I see something sorrowful, and can do nothing to better it, I forget it.</p>
+    
+<p>"But," says the busy housekeeper, "I haven't time to walk; and, besides, I am too tired when I finish my work."</p>
+    
+<p>Much of her work is unnecessary. While we may enjoy eating a big dinner, all the way from bouillon to coffee, physically and financially we would be better off with only two or three things at each meal.</p>
+    
+<p>It is this endless variety, ever tempting us to overload our poor overworked stomachs, and the lack of exercise in the fresh air, which is the most prolific cause of ill health. </p> <closer><signed><hi rend="italic">A Reader.</hi></signed></closer>
+
+</body>
+</text>
+
+<pb n="Page 7" xml:id="ew.issue.19161016.p007" />	
+    
+<text type="fiction" xml:id="duncan.19161016">
+<body>
+
+<!--figure n="illustration"></figure-->
+
+<head type="main">Madman's Luck</head>
+<byline>By <persName type="author" key="#Duncan, Norman">NORMAN DUNCAN</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Dunn, Harvey"> Harvey Dunn</persName></byline>
+
+<cb n="1" />
+
+<p>IT was one thing or the other. Yet it might be neither. There was a disquieting alternative. No doubt the message disposed of the delicate affair for good and all in ten terse words. The maid had made up her mind; she had disclosed it in haste: that was all. It might be, however, that the despatch conveyed news of a more urgent content. It might be that the maid lay ill&#8212;that she called for help and comfort. In that event, nothing could excuse the reluctance of the man who should decline an instant passage of Scalawag Run with the pitiful appeal. True, it was not inviting&#8212;a passage of Scalawag Run in the wet, gray wind, with night flowing in from the sea.</p>
+    
+<p>No matter about that. Elizabeth Lute had departed from Scalawag Harbor in confusion, leaving no definite answer to the two grave suggestions, but only a melting appeal for delay, as maids will&#8212;for a space of absence, an interval for reflection, an opportunity to search her heart and be sure of its decision. If, then, she had communicated that decision to her mother, according to her promise to communicate it to somebody, and if the telegram contained news of no more consequence, a good man might command his patience, might indulge a reasonable caution, might hesitate on the brink of Black Cliff with the sanction of his self-respect. But if Elizabeth Lute lay ill and in need, a passage of Scalawag Run must be challenged, whatever came of it. And both Tommy Lark and Sandy Rowl knew it.</p>
+    
+<p>Tommy Lark and Sandy Rowl, on the return from Bottom Harbor to Scalawag Run, had come to Point-o'-Bay Cove, where they were to lie the night. They were accosted by the telegraph operator:</p>
+    
+<p>"Are you men from Scalawag?"</p>
+    
+<p>She was a brisk, trim young woman from St. John's, new to the occupation.</p>
+    
+<p>"We is, ma'am," Sandy Howl replied.</p>
+    
+<p>"It's fortunate I caught you," said the young woman, glowing with satisfaction. "Indeed it is! Are you crossing at once?"</p>
+    
+<p>Sandy Rowl smiled.</p>
+    
+<p>"We hadn't thought of it, ma'am," said he. "I 'low you don't know much about Scalawag Run," he added.</p>
+    
+<p>The young woman tossed her red head.</p>
+    
+<p>"When you <hi rend="italic">have</hi> thought of it, and made up both your minds," she replied tartly, "you might let me know. It is a matter of some importance."</p>
+    
+<p>"Ay, ma'am."</p>
+    
+<p>By this time Tommy Lark had connected the telegraph operator's concern with the rare emergency of a message.</p>
+    
+<p>"What you so eager t' know for?" he inquired.</p>
+    
+<p>"I've a despatch to send across."</p> 
+    
+<p>"Not a telegram!"</p>
+    
+<p>"It is."</p>
+    
+<p>"Somebody in trouble?"</p>
+    
+<cb n="2"/>
+    
+<p>"As to that," the young woman replied, "I'm not permitted to say."</p>
+    
+<p>"Is you permitted t' tell who the telegram is from?"</p>
+    
+<p>The young woman opened her eyes.</p>
+    
+<p>"I should think not!" she declared.</p>
+    
+<p>"Is you permitted t' tell who 'tis for?"</p>
+    
+<p>Obviously the young woman could not send the message without announcing its destination. "Are you acquainted with Mrs. Jacob Lute?" said she.</p>
+    
+<p>Tommy Lark turned to Sandy Rowl. Sandy Rowl turned to Tommy Lark. It was Tommy Lark that replied.</p>
+    
+<p>"We is," said he. "Is the telegram for she?"</p>
+    
+<p>"It is."</p>
+    
+<p>"From Grace Harbor?"</p>
+    
+<p>"I'm not permitted to tell you that."</p>
+    
+<p>"Well, then, if the telegram is for Mrs. Jacob Lute," said Tommy Lark gravely, "Sandy Rowl an' me will take a look at the ice in Scalawag Run an' see what we makes of it. I 'low we'll jus' <hi rend="italic">have</hi> to. Eh, Sandy?"</p>
+    
+<p>Sandy Rowl's face was twisted with doubt. For a moment he deliberated. In the end he spoke positively.</p>
+    
+<p>"We'll take a look at it," said he.</p>
+    
+<p>They went then to the crest of Black Cliff to survey the ice in the run. Not a word was spoken on the way. A momentous situation, by the dramatic quality of which both young men were moved, had been precipitated by the untimely receipt of the telegram for Elizabeth Lute's mother.</p>
+    
+<p>POINT-O'-BAY, in the lee of which the cottages of Point-o'-Bay Cove were gathered as in the crook of a finger, thrust itself into the open sea. Between Point-o'-Bay and Scalawag Island was the run called Scalawag, of the width of two miles. There had been wind at sea&#8212;a far-off gale, perhaps then exhausted, or plunging away into the southern seas, leaving a turmoil of water behind it.</p>
+    
+<p>Directly into the run, rolling from the open, the sea was swelling in gigantic billows. There would have been no crossing at all had there not been ice in the run; but there was ice in the run&#8212;plenty of ice, blown in by a breeze of the day before, and wallowing there.</p>
+    
+<p>It seemed, from the crest of Black Cliff, where Tommy Lark and Sandy Howl stood gazing, each debating with his own courage, that the ice was heavy enough
+
+<cb n="3" />
+
+for the passage&#8212;thick ice, of varying extent, from fragments like cracked ice, to wide pans; and the whole, it seemed, floated in contact.</p>
+    
+<p>"Well?" said Tommy Lark.</p>
+    
+<p>"I don't know. What do you think?"</p> 
+    
+<p>"It might be done. I don't know."</p>
+    
+<p>"Ay; it might be. No tellin' for sure, though. The ice is in a wonderful tumble out there."</p>
+    
+<p>"Seems t' be heavy ice on the edge o' the sea."</p>
+    
+<p>"'Tis in a terrible commotion. I'd not chance it out there. I've never seed the ice so tossed about in the sea afore."</p>
+    
+<p>TOMMY LARK reflected.</p>
+    
+<p>"Ay," he determined at last; "the best course across is by way o' the heavy ice on the edge o' the sea. There mus' be a wonderful steep slant t' some o' them pans when the big seas slips beneath them. Yet a man could go warily an' maybe keep from slidin' off. If the worse come t' the worst, he could dig his toes an' nails in an' crawl. If there's evil news in that telegram, I 'low a man could find excuse enough t' try his luck."</p>
+    
+<p>"There's news both good an' evil in it."</p>
+    
+<p>Tommy Lark turned from a listless contemplation of the gray reaches of the open sea.</p>
+    
+<p>"News both good an' evil!" he mused.</p>
+    
+<p>"The one for me an' the other for you. An' God knows the issue! I can't fathom it."</p>
+    
+<p>"I wish 'twas over with."</p>
+    
+<p>"Me too. I'm eager t' make an end o' the matter. 'Twill be a sad conclusion for me."</p>
+    
+<p>"I can't think it, Sandy. I thinks the sadness will be mine."</p>
+    
+<p>"You rouse my hope, Tommy."</p>
+    
+<p>"If 'tis not I, 'twill be you."</p>
+    
+<p>"'Twill be you."</p>
+    
+<p>Tommy Lark shook his head dolefully. He sighed.</p>
+    
+<p>"Ah, no!" said he. "I'm not that deservin' an' fortunate."</p>
+    
+<p>"Anyhow, there's good news in that telegram for one of us," Sandy declared, "an' bad news for the other. An' whatever the news,&#8212;whether good for me an' bad for you, or good for you an' bad for me,&#8212;'tis of a sort that should keep for a safer time than this. If 'tis good news for you, you've no right t' risk a foot on the floe this night; if 'tis bad news for you, you might risk what you liked, an' no
+
+<cb n="4" />
+
+matter about it. 'Tis the same with me. Until we knows what's in that telegram, or until the fall of a better time than this for crossin' Scalawag Run, we've neither of us no right t' venture a yard from shore."</p>
+    
+<p>"You've the right of it, so far as you goes," Tommy Lark replied; "but the telegram may contain other news than the news you speaks of."</p>
+    
+<p>"No, Tommy."</p>
+    
+<p>"She said nothin' t' me about a telegram. She said she'd send a letter."</p>
+    
+<p>"She've telegraphed t' ease her mind."</p>
+    
+<p>"Why to her mother?"</p>
+    
+<p>"'Tis jus' a maid's way."</p>
+    
+<p>"Think so, Sandy? It makes me wonderful nervous. Isn't you wonderful nervous, Sandy?"</p>
+    
+<p>"I am that."</p>
+    
+<p>"I'm wonderful curious, too. Isn't you?"</p>
+    
+<p>"I is. I'm impatient as well. Isn't you?"</p>
+    
+<p>"I'm havin' a tough struggle t' command my patience. What you think she telegraphed for?"</p>
+   
+<p>"Havin' made up her mind, she jus' couldn't wait t' speak it."</p>
+    
+<p>"I wonder what&#8212;"</p>
+    
+<p>"Me too, Sandy. God knows it! Still an' all, impatient as I is, I can wait for the answer. 'Twould be sin an' folly for a man t' take his life out on Scalawag Run this night for no better reason than t' satisfy his curiosity. I'm in favor o' waitin' with patience for a better time across."</p>
+    
+<p>"The maid might be ill," Tommy Lark objected.</p>
+    
+<p>"She's not ill. She's jus' positive an' restless. I knows her ways well enough t' know that much."</p>
+    
+<p>"She <hi rend="italic">might</hi> be ill."</p>
+    
+<p>"True, she might; but she&#8212;"</p>
+    
+<p>"An' if&#8212;"</p>
+    
+<p>Sandy Rowl, who had been staring absently up the coast toward the sea, started.</p>
+    
+<p>"Ecod!" said he. "A bank o' fog's comin' round Point-o'-Bay!"</p>
+    
+<p>"Man!"</p>
+    
+<p>"That ends it."</p>
+    
+<p>"'Tis a pity!"</p>
+    
+<p>"'Twill be thick as mud on the floe in half an hour. We must lie the night here."</p>
+    
+<p>"I don't know, Sandy."</p>
+    
+<p>Sandy laughed.</p>
+    
+<p>"Tommy," said he, "'tis a wicked folly t' cling t' your notion any longer."</p>
+    
+<p>"I wants t' know what's in that telegram."</p>
+    
+<p>"So does I."</p>
+    
+<p>"I'm fair shiverin' with eagerness t' know. Isn't you?"</p>
+    
+<p>"I'm none too steady."</p>
+
+<p>"Sandy, I jus' <hi rend="italic">got</hi> t' know!"</p>
+    
+<p>"Well, then," Sandy Rowl proposed, "we'll go an' bait the telegraph lady into tellin' us."</p>
+    
+<p>It was an empty pursuit. The young
+
+<pb n="Page 8" xml:id="ew.issue.19161016.p008" />
+    
+<cb n="1" />
+
+woman from St. John's was obdurate. Not a hint escaped her in response to the baiting and awkward interrogation of Tommy Lark and Sandy Rowl; and the more they besought her, the more suspicious she grew. She was an obstinate young person&#8212;she was precise, she was scrupulous, she was of a secretive, untrustful turn of mind; and as she was ambitious for advancement from the dreary isolation of Point-o'-Bay Cove, she was not to be entrapped or entreated into what she had determined was a breach of discipline.</p>
+    
+<p>"This telegram," said she, "is an office secret, as I have told you already. I have my orders not to betray office secrets."</p>
+    
+<p>Tommy Lark was abashed.</p>
+    
+<p>"Look you," he argued. "If the message is of no consequence an' could be delayed&#8212;"</p>
+    
+<p>"I haven't said that it is of no consequence."</p>
+    
+<p>"Then '<hi rend="italic">tis</hi> of consequence!"</p>
+    
+<p>"I don't say that it is of consequence. I don't say anything either way. I don't say anything at all."</p>
+    
+<p>"Well, now," Tommy complained, "t' carry that message across Scalawag Run would be a wonderful dangerous&#8212;"</p>
+    
+<p>"You don't have to carry it across."</p>
+    
+<p>"True. Yet 'tis a man's part t' serve&#8212;"</p>
+    
+<p>"My instructions," the young woman interrupted, "are to deliver messages as promptly as possible. If you are crossing to Scalawag Harbor to-night, I should be glad if you would take this telegram with you. If you are not&#8212;well, that's not my affair. I am not instructed to urge anybody to deliver my messages."</p>
+    
+<p>"Is the message from a maid?"</p>
+    
+<p>"What a question!" the young woman exclaimed indignantly. "I'll not tell you!"</p>
+    
+<p>"Is there anything about sickness in it?"</p>
+    
+<p>"I'll not tell you."</p>
+    
+<p>"If 'tis a case o' sickness," Tommy declared, "we'll take it across, an' glad t' be o' service. If 'tis the other matter&#8212;"</p>
+    
+<p>"What other matter?" the young woman flashed.</p>
+    
+<p>"Well," Tommy replied, flushed and awkward, "there was another little matter between Elizabeth Lute an'&#8212;"</p>
+    
+<p>The young woman started.</p>
+    
+<p>"Elizabeth Lute!" she cried. "Did you say Elizabeth Lute?"</p>
+    
+<p>"I did, ma'am."</p>
+    
+<p>"I said nothing about Elizabeth Lute."</p>
+    
+<p>"We knows 'tis from she."</p>
+    
+<p>"Ah-ha!" the young woman exclaimed. "You know far too much. I think you have more interest in this telegram than you ought to have."</p>
+    
+<p>"I confess it."</p>
+    
+<p>The young woman surveyed Tommy Lark with sparkling curiosity. Her eyes twinkled. She pursed her lips.</p>
+    
+<p>"What's your name?" she inquired.</p>
+    
+<p>"Thomas Lark."</p>
+    
+<p>The young woman turned to Sandy Rowl.</p>
+    
+<p>"What's your name?" she demanded.</p>
+    
+<p>"Alexander Rowl. Is there&#8212;is there anything in the telegram about me? Aw, come now!"</p>
+    
+<p>"Wouldn't you like to know?" she teased, her face dimpling.</p>
+    
+<p>Sandy Rowl responded readily to this dimpling, flashing banter. A conclusion suggested itself with thrilling conviction.</p>
+    
+<p>"I would!" he declared.</p>
+    
+<p>"And to think that I could tell you!"</p>
+    
+<p>"I'm sure you could, ma'am!"</p>
+    
+<p>The young woman turned to Tommy Lark.</p>
+    
+<p>"Your name's Lark?"</p>
+    
+<p>"Yes, ma'am. There's nothin'&#8212;there's nothin' in the telegram about a man called Thomas Lark, is there?"</p>
+    
+<p>"And yours is Rowl?"</p>
+    
+<p>"Yes, ma'am."</p>
+    
+<p>"I'm new to these parts," said the young woman, "and I'm trying to learn all the names I can master. Now, as for this telegram, you may take it or leave it, just as you will. What are you going to do? I want to close the office now and go home to tea."</p>
+    
+<p>"We'll take it," said Sandy Rowl. "Eh, Tommy?"</p>
+
+<p>"Ay."</p>
+    
+<p>With that the young woman handed the sealed envelop to Tommy Lark.</p>
+    
+<cb n="2" />
+
+<p>Tommy Lark thrust the telegram in his waistcoat pocket and buttoned his jacket. Both men turned to the path that led to the shore of the sea.</p>
+    
+<p>"One o' the two of us," said Sandy Rowl, "is named in that telegram. I'm sure of it."</p>
+    
+<p>Tommy Lark nodded.</p>
+    
+<p>"I knows it," Sandy proceeded, "because I seed a flicker in the woman's eye when she learned the two names of us. She's a sly one, that young woman!"</p>
+    
+<p>"Ay."</p>
+    
+<p>"You is chosen, Tommy."</p>
+    
+<p>"No, 'tis not I. 'Tis you. You is selected, Sandy. The woman twinkled when she named you. I marked it t' my sorrow."</p>
+    
+<p>"The maid would not choose me, Tommy," Sandy replied, his face awry with a triumphant smile, "when she might have you."</p>
+    
+<p>"She've done it."</p>
+    
+<p>In advance, on the path to the crest of Black Cliff, Tommy Lark was downcast and grim. Of a faithful, kindly nature in respect to his dealings with others, and hopeful for them all, and quick with an inspiring praise and encouragement, he could discover no virtue in himself, nor had he any compassion when he phrased the chapters of his own future; and though he was vigorous and decisive in action, not deterred by the gloom of any prospect, he was of a gray, hopeless mind in a crisis.</p>
+    
+<p>Rowl, however, was of a saucy, sanguine temperament; his faith in his own deserving was never diminished by discouragement; nor, whatever his lips might say, was he inclined to foresee in his future any unhappy turn of fortune. The telegraph operator, he was persuaded, had disclosed an understanding of the situation in a twinkle of her blue eyes. Rowl was uplifted&#8212;triumphant.</p>
+    
+<p>In the wake of Tommy Lark he grinned, his teeth bare with delight and triumph. And as for Tommy Lark, he plodded on, striving grimly up the hill, his mind sure of its gloomy inference, his heart wrenched, his purpose resolved upon a worthy course of feeling and conduct. Let the dear maid have her way! She had chosen her happiness. And with that a good man must be content.</p>
+
+<p>IN the courtship of pretty Elizabeth Lute, Tommy Lark had acted directly, bluntly, impetuously, according to his nature. And he had been forehanded with his declaration. It was known to him that Sandy Rowl was pressing the same pursuit to a swift conclusion. Tommy Lark loved the maid. He had told her so with indiscreet precipitation; and into her confusion he had flung the momentous question.</p>
+    
+<p>"Maid," said he, "I loves you! Will you wed me?"</p>
+    
+<p>Sandy Rowl had proceeded to the issue with delicate caution, creeping toward it by inches, as a man stalks a caribou. Having surmised Tommy Lark's intention, he had sought the maid out unwittingly not an hour after her passionate adventure with Tommy Lark, and had cast the die of his own happiness.</p>
+    
+<p>In both cases the effect had been the same. Elizabeth Lute had wept and fled to her mother like a frightened child; and she had thereafter protested, with tears of indecision, torn this way and that until her heart ached beyond endurance, that she was not sure of her love for either, but felt that she loved both, nor could tell whom she loved the most, if either at all. In this agony of confusion, terrifying for a maid, she had fled beyond her mother's arms, to her grandmother's cottage at Grace Harbor, there to deliberate and decide, as she said; and she had promised to speed her conclusion with all the determination she could command, and to return a letter of decision.</p>
+    
+<p>In simple communities, such as Scalawag Harbor, a telegram is a shocking incident. Bad news must be sped; good news may await a convenient time.</p>
+    
+<p>Thus, Tommy Lark's conception of the urgency of the matter mounted high and oppressed him. Elizabeth Lute would not lightly despatch a telegram from Grace
+
+<cb n="3" />
+
+Harbor to her mother at Scalawag. Something was gone awry with the maid. She was in trouble. She was in need. She was ill. She might be dying!</p>
+    
+<p>When Tommy Lark and Sandy Rowl came to the crest of Black Cliff, a drizzle of rain was falling in advance of the fog. The wind was clipping past in soggy gusts that rose at intervals to the screaming pitch of a squall. A drab mist had crept around Point-o'-Bay and was spreading over the ice in Scalawag Run. Presently it would lie thick between Scalawag Island and the mainland of Point-o'-Bay Cove.</p>
+    
+<p>AT the edge of the ice, where the free black water of the open met the huddled floe, the sea was breaking. There was a tossing line of white water&#8212;the crests of the breakers flying away in spindrift like long white manes in the wind.</p>
+    
+<p>"'Tis a perilous task t' try," said Tommy Lark. "I never faced such a task afore. I fears for my life."</p>
+    
+<p>"'Tis a madcap thing t' try!"</p>
+    
+<p>"Ay, a madcap thing. A man will need madman's luck t' come through with his life."</p>
+    
+<p>"Pans as steep as a roof out there!"</p>
+    
+<p>"Slippery as butter, Sandy. 'Twill be ticklish labor t' cling t' some o' them when the sea cants them high. I wish we had learned t' swim, Sandy, when we was idle lads t'gether. We'll sink like two jiggers if we slips into the water. Is you comin' along, Sandy? It takes but one man t' bear a message. I'll not need you."</p>
+    
+<p>"Tommy," Sandy besought, "will you not listen t' reason an' wisdom?"</p>
+    
+<p>"What wisdom, Sandy?"</p>
+    
+<p>"Leave us tear open the telegram an' read it."</p>
+    
+<p>"Hoosh!" Tommy ejaculated. "Such a naughty trick as that! I'll not do it."</p>
+    
+<p>"'Tis a naughty trick that will save us a pother o' trouble."</p>
+    
+<p>"I'm not chary o' trouble in the maid's behalf."</p>
+    
+<p>"'Twill save us peril."</p>
+
+<p>"I've no great objection t' peril in her service. I'll not open the telegram; I'll not intrude on the poor maid's secrets. Is you comin' along?"</p>
+    
+<p>Sandy Rowl put a hand on Tommy Lark's shoulder.</p>
+    
+<p>"What moves you," said he impatiently, "to a mad venture like this, with the day as far sped as it is?"</p>
+    
+<p>"I'm impelled."</p>
+    
+<p>"What drives you?"</p>
+    
+<p>"The maid's sick."</p>
+    
+<p>"Huh!" Sandy scoffed. "A lusty maid 'like that! She's not sick. As for me, I'm easy about her health. She's as hearty at this minute as ever she was in her life. An' if she isn't, we've no means o' bein' sure that she isn't. 'Tis mere guess-work. We've no certainty of her need. T' be drove out on the ice o' Scalawag Run by the guess-work o' fear an' fancy is a folly. 'Tis not demanded. We've every excuse for lyin' the night at Point-o'-Bay Cove."</p>
+    
+<p>"I'm not seekin' excuse."</p>
+    
+<p>"You've no need t' seek it. It thrusts itself upon you."</p>
+    
+<p>"Maybe. Yet I'll have none of it. 'Tis a craven think t' deal with."</p>
+    
+<p>"'Tis mere caution."</p>
+    
+<p>"Well, well! I'll have no barter with caution in a case like this. I crave service. Is you comin' along?"</p>
+    
+<p>Sandy Rowl laughed his disbelief.</p>
+    
+<p>"Service!" said he. "You heed the clamor o' your curiosity. That's all that stirs you."</p>
+    
+<p>"No," Tommy Lark replied. "My curiosity asks me no questions now. Comin' up the hill, with this here telegram in my pocket, I made up my mind. 'Tis not I that the maid loves. It couldn't be. I'm not worthy. Still an' all, I'll carry her message t' Scalawag Harbor. I've no need o' you, Sandy. You've no call t' come. You may do what you likes an' be no less a man. As you will, then. Is you comin'?"</p>
+    
+<p>Sandy reflected.</p>
+    
+<p>"Tommy," said he then, reluctantly, "will you listen t' what I should tell you?"</p>
+    
+<p>"I'll listen."</p>
+    
+<p>"An' will you believe me an' heed me?"</p>
+    
+<p>"I'll believe you, Sandy."</p>
+    
+<p>"You've fathomed the truth o' this
+    
+<cb n="4" />    
+    
+matter. 'Tis not you that the maid loves. 'Tis I. She've not told me. She've said not a word that you're not aware of. Yet I knows that she'll choose me. I've loved more maids than one; I'm acquainted with their ways. An' more maids than one have loved me. I've mastered the signs o' love. I've studied them; I reads them like print. It pleases me t' see them an' read them. At first, Tommy, a maid will not tell. She'll not tell even herself. An' then she's overcome; an', try as she may t' conceal what she feels, she's not able at all t' do it. The signs, Tommy? Why, they're all as plain in speech as words themselves could be! Have you seed any signs, boy? No. She'll not wed you. 'Tis not in her heart t' do it, whatever her mind may say. She'll wed me. I knows it. I'm sorry, Tommy. You'll grieve, I knows, t' lose the maid. I could live without her. True. There's other maids as fair as she t' be found in the world. Yet I loves this maid more than any maid that ever I knowed; an' I'd be no man at all if I yielded her to you because I pitied your grief."</p>
+    
+<p>"I'm not askin' you t' yield her."</p>
+    
+<p>"Nor am I wrestin' her away. She've jus' chose for herself. Is she ever said she cared for you, Tommy?"</p>
+    
+<p>"No."</p>
+    
+<p>"Is there been any sign of it?"</p>
+    
+<p>"She've not misled me. She've said not a word that I could blame her for. She&#8212;she've been timid in my company. I've frightened her."</p>
+    
+<p>"She's merry with me."</p>
+    
+<p>"Ay."</p>
+    
+<p>"Her tongue jus' sounds like brisk music, an' her laughter's as free as a spring o' water."</p>
+    
+<p>"She've showed me no favor."</p>
+    
+<p>"Does she blush in your presence?"</p> 
+    
+<p>"She trembles an' goes pale."</p>
+    
+<p>"Do her eyes twinkle with pleasure?"</p>
+    
+<p>"She casts them down."</p>
+    
+<p>"Does she take your arm an' snuggle close?"</p>
+    
+<p>"She shrinks from me."</p>
+    
+<p>"Does she tease you with pretty tricks?"</p>
+    
+<p>"She does not," poor Tommy replied. "She says, ' Yes, sir!' an' No, sir!' t' me."</p>   
+    
+<p>"Ha!" Sandy exclaimed. "'Tis I that she'll wed!"</p>
+    
+<p>"I'm sure of it. I'm content t' have her follow her will in all things. I loves the maid. I'll not pester her with complaint. Is you comin' along?"</p>
+    
+<p>"'Tis sheer madness!"</p>
+    
+<p>"Is you comin' along?"</p>
+    
+<p>Sandy Rowl swept his hand over the prospect of fog and spindrift and wind-swept ice.</p>
+    
+<p>"Man," he cried, "look at that!"</p>
+    
+<p>"The maid's sick," Tommy Lark replied doggedly. "I loves her. Is you comin' along?"</p>
+    
+<p>"You dunderhead!" stormed Sandy.</p>
+    
+<p>"I got t' go! Can't you understand that? You leaves me no choice!"</p>
+    
+<p>WHEN Tommy Lark and Sandy Rowl had leaped and crept through half the tossing distance to Scalawag Harbor, the fog closed in, accompanied by the first shadows of dusk, and the coast and hills of Scalawag Island were a vague black hulk beyond, slowly merging with the color of the advancing night. The wind was up&#8212;blowing past with spindrift and a thin rain; but the wind had not yet packed the ice, which still floated in a loose, shifting floe, spotted and streaked with black lakes and lanes of open water. They had taken to the seaward edge of the pack for the advantage of heavier ice.</p>
+    
+<p>A line of pans, sluggish with weight, had lagged behind in the driving wind of the day before, and was now closing in upon the lighter fragments of the pack, which had fled in advance and crowded the bay. Whatever advantage the heavier ice offered in the solidity of its footing, and whatever in the speed with which it might be traversed by agile, daring men, was mitigated by another condition involved in its exposed situation. It lay against the open sea; and the sea was high, rolling directly into Scalawag Run, in black, lofty billows, crested with seething white in the free reaches of the open. The swells diminished as they ran the
+    
+<pb n="Page 9" xml:id="ew.issue.19161016.p009" />
+
+<cb n="1" />
+    
+length of the run and spent themselves in the bay. Their maximum of power was at the edge of the ice.</p>
+    
+<p>In Scalawag Run, thus, the ice was like a strip of shaken carpet&#8212;its length rolling in lessening waves from first to last, as when a man takes the corners of an end of the strip and snaps the whole to shake at the dust out of it; and the spindrift, blown in from the sea and snatched from the lakes in the mist of the floe, may be likened to clouds of white dust, half realized in the dusk.</p>
+    
+<p>As the big seas slipped under the pack, the pans rose and fell; they were never at rest, never horizontal, except momentarily, perhaps, on the crest of a wave and in the lowest depth of a trough. They tipped&#8212;pitched and rolled like the deck of a schooner in a gale of wind. And as the height of the waves at the edge of the ice may fairly be estimated at thirty feet, the incline of the pans was steep and the surface slippery.</p>
+    
+<p>Much of the ice lying out from Point-o'-Bay was wide and heavy. It could be crossed without peril by a sure-footed man. Midway of the run, however, the pans began to diminish in size and to thin in quantity; and beyond, approaching the Scalawag coast, where the wind was interrupted by the Scalawag hills, the floe was loose and composed of a field of lesser fragments. There was still a general contact&#8212;pan lightly touching pan; but many of the pans were of an extent so precariously narrow that their pitching surface could be crossed only on hands and knees, and in imminent peril of being flung off into the gaps of open water.</p>
+    
+<p>It was a feat of lusty agility, of delicate, experienced skill, of steadfast courage, to cross the stretches of loose ice, heaving
+
+<cb n="2" />
+
+as they were, in the swell of the sea. The foothold was sometimes impermanent&#8212;blocks of ice capable of sustaining the weight of a man through merely a momentary opportunity to leap again; and to the scanty chance was added the peril of the angle of the ice and the uncertainty of the path beyond.</p>
+    
+<p>Once Tommy Lark slipped when he landed on an inclined pan midway of a patch of water between two greater pans. His feet shot out and he began to slide feet foremost into the sea, with increasing momentum, as a man might fall from a steep, slimy roof. The pan righted in the trough, however, to check his descent over the edge of the ice. When it reached the horizontal in the depths of the trough, and there paused before responding to the lift of the next wave, Tommy Lark caught his feet; and he was set and balanced against the tip and fling of the pan in the other direction as the wave slipped beneath and ran on.</p>
+    
+<p>HAVING come, at last, to a doubtful lane sparsely spread with ice, Tommy Lark and Sandy Rowl were halted. They were then not more than half a mile from the rocks of Scalawag. From the substantial ground of a commodious block, with feet spread to brace themselves against the pitch of the pan as a man stands on a heaving deck, they appraised the chances and were disheartened. The lane was like a narrow arm of the sea, extending, as nearly as could be determined in the dusk, far into the floe; and there was an opposite shore&#8212;another commodious pan. In the black water of the arm there floated white blocks of ice. Some were manifestly substantial: a leaping man could pause to rest; but
+
+<cb n="3" />
+
+many&#8212;necessary pans, these, to a crossing of the lane&#8212;were as manifestly incapable of bearing a man up.</p>
+    
+<p>AS the pan upon which Tommy Lark and Sandy Rowl stood lay near the edge of the floe, the sea was running up the lane in almost undiminished swells&#8212;the long, slow waves of a great ground swell, not a choppy wind-lop, but agitated by the wind and occasionally breaking. It was a thirty-foot sea in the open. In the lane it was somewhat less&#8212;not much, however; and the ice in the lane and all round about was heaving in it&#8212;tumbled about, rising and falling, the surface all the while at a changing slant from the perpendicular.</p>
+    
+<p>Rowl was uneasy.</p>
+    
+<p>"What you think, Tommy?" said he. "I don't like t' try it. I 'low we better not."</p>
+    
+<p>"We can't turn back."</p>
+    
+<p>"No; not very well."</p>
+    
+<p>"There's a big pan out there in the middle. If a man could reach that he could choose the path beyond."</p>
+    
+<p>"'Tis not a big pan."</p>
+    
+<p>"Oh, 'tis a fairish sort o' pan."</p>
+    
+<p>"'Tis not big enough, Tommy."</p>
+    
+<p>Tommy Lark, staggering in the motion of the ice, almost off his balance, peered at the pan in the middle of the lane.</p>
+    
+<p>"'Twould easily bear a man," said he.</p>
+    
+<p>"'Twould never bear two men."</p>
+    
+<p>"Maybe not."</p>
+    
+<p>"Isn't no 'maybe' about it," Rowl declared. "I'm sure 'twouldn't bear two men."</p>
+    
+<p>"No," Tommy Lark agreed. "I 'low 'twouldn't."</p>
+    
+<p>"A man would cast hisself away tryin' t' cross on that small ice."</p>
+    
+<p>"I 'low he might."</p>
+    
+<cb n="4" />
+    
+<p>"Well, then," Rowl demanded, "what we goin' t' do?"</p>
+    
+<p>"We're goin' t' cross, isn't we?"</p>
+    
+<p>"'Tis too parlous a footin' on them small cakes."</p>
+    
+<p>"Ay; 'twould be ticklish enough if the sea lay flat an' still all the way. An' as 'tis&#8212;"</p>
+    
+<p>"'Tis like leapin' along the side of a steep."</p>
+    
+<p>"Wonderful steep on the side o' the seas."</p>
+    
+<p>"Too slippery, Tommy. It can't be done. If a man didn't land jus' right he'd shoot off."</p>
+    
+<p>"That he would, Sandy!"</p>
+    
+<p>"Well?"</p>
+    
+<p>"I'll go first, Sandy. I'll start when we lies in the trough. I 'low I can make that big pan in the middle afore the next sea cants it. You watch me, Sandy, an' practise my tactics when you follow. I 'low a clever man can cross that lane alive."</p>
+    
+<p>"We're in a mess out here!" Sandy Rowl complained. "I wish we hadn't started."</p>
+    
+<p>"'Tisn't so bad as all that."</p>
+    
+<p>"A loud folly!" Rowl growled.</p>
+    
+<p>"Ah, well," Tommy Lark replied, "a telegram's a telegram; an' the need o' haste&#8212;"</p>
+    
+<p>"'Twould have kept well enough."</p>
+    
+<p>"'Tis not a letter, Sandy."</p>
+    
+<p>"Whatever it is, there's no call for two men t' come into peril o' their lives&#8212;"</p>
+    
+<p>"You never can' tell."</p>
+    
+<p>"I'd not chance it again for&#8212;"</p>
+    
+<p>"We isn't drowned yet."</p>
+    
+<p>"Yet!" Rowl exclaimed. "No&#8212;not yet. We've a minute or so for prayers!"</p>
+    
+<p>Tommy Lark laughed.</p>
+    
+<p>"I'll get under way now," said he. "I'm not so very much afraid o' failin'."</p>
+    
+<p>There was no melodrama in the 
+    
+<figure n="illustration">
+<head></head>
+<p>"'We isn't drowned yet.' 'Yet! No&#8212;not yet. We've a minute or so for prayers!'"</p>
+<figDesc></figDesc>
+</figure>
+    
+<pb n="Page 10" xml:id="ew.issue.19161016.p010" />
+    
+<cb n="1" />
+    
+situation. It was a commonplace peril of the coast; it was a reasonable endeavor. It was thrilling, to be sure&#8212;the conjunction of a living peril with the emergency of the message. Yet the dusk and sweeping drizzle of rain, the vanishing lights of Scalawag Harbor, the interruption of the lane of water, the mounting seas, their declivities flecked with a path of treacherous ice, all were familiar realities to Tommy Lark and Sandy Rowl. Moreover, a telegram was not a letter. It was an urgent message. It imposed upon a man's conscience the obligation to speed it. It should be delivered with determined expedition.</p>
+    
+<p>Elsewhere, in a rural community, for example, a good neighbor would not hesitate to harness his horse on a similar errand and travel a deep road on a dark night in the fall of the year; nor, with the snow falling thick, would he confront a midnight trudge to his neighbor's house with any louder complaint than a fretful growl.</p>
+    
+<p>IT was in this spirit, after all, touched with an intimate solicitude which his love for Elizabeth Lute aroused, that Tommy Lark had undertaken the passage of Scalawag Run. The maid was ill&#8212;her message should be sped.</p>
+    
+<p>As he paused on the brink of the lane, however, waiting for the ice to lie flat in the trough, poised for the spring to the first pan, a curious apprehension for the safety of Sandy Rowl took hold of him, and he delayed his start.</p>
+    
+<p>"Sandy," said he, "you be careful o' yourself."</p>
+    
+<p>"I will that!" Sandy declared. He grinned. "You've no need t' warn me, Tommy," he added.</p>
+    
+<p>"If aught should go amiss with you," Tommy explained, "'twould be wonderful hard&#8212;on Elizabeth."</p>
+    
+<p>Sandy Rowl caught the honest truth and unselfishness of the warning in Tommy Lark's voice.</p>
+    
+<p>"I thanks you, Tommy," said he. "'Twas well spoken."</p>
+    
+<p>"Oh, you owes me no thanks," Tommy replied simply. "I'd not have the maid grieved for all the world."</p>
+    
+<p>"I'll tell her that you said so."</p>
+    
+<p>Tommy was startled.</p>
+    
+<p>"You speak, Sandy," said he in gloomy foreboding, "as though I had come near t' my death."</p>
+    
+<p>"We've both come near t' death."</p> 
+    
+<p>"Ay&#8212;maybe. Well&#8212;no matter."</p>
+    
+<p>"'Tis a despairful thing t' say."</p>
+    
+<p>"I'm not carin' very much what happens t' my life," young Tommy declared. "You'll mind that I said so. An' I'm glad that I isn't carin' very much any more. Mark that, Sandy&#8212;an' remember."</p>
+    
+<p>BETWEEN the edge of Tommy Lark's commodious pan and the promising block in the middle of the lane lay five cakes of ice. They varied in size and weight; and were swinging in the swell&#8212;climbing the steep sides of the big waves, riding the crests, slipping downhill, tipped to an angle, and lying flat in the trough of the seas. In respect to their distribution they were like stones in a brook: it was a zigzag course&#8212;the intervals varied.</p>
+    
+<p>Leaping from stone to stone to cross a brook, using his arms to maintain a balance, a man can not pause; and his difficulty increases as he leaps&#8212;he grows more and more confused, and finds it all the while harder to keep upright. What he fears is a mossy stone and a rolling stone. The small cakes of ice were as slippery as a mossy stone in a brook, and as treacherously unstable as a rolling stone; and in two particulars they were vastly more difficult to deal with&#8212;they were all in motion, and not one of them would bear the weight of a man. There was more ice in the lane. It was a mere scattering of fragments and a gathered patch or two of slush.</p>
+    
+<p>Tommy Lark's path to the pan in the middle of the lane was definite: the five small cakes of ice&#8212;he must cover the distance in six leaps without pause; and, having come to the middle of the lane, he could rest and catch his breath while he chose out the course beyond. If there chanced to be no path beyond, discretion would compel an immediate return.</p>
+    
+<p>"Well," said he, crouching for the first leap, "I'm off, whatever comes of it!"</p>
+    
+<p>"Mind the slant o' the ice!"</p>
+    
+<p>"I'll take it in the trough."</p>
+    
+<p>"Not yet!"</p>
+    
+<p>Tommy Lark waited for the sea to roll on.</p>
+    
+<p>"You bother me," he complained. "I might have been half way across by this time."</p>
+    
+<p>"You'd have been cotched on the side of a swell. If you're cotched like that you'll slip off the ice. There isn't a man livin' can cross that ice on the slant of a sea."</p>
+    
+<p>"Be still!"</p>
+    
+<p>The pan was subsiding from the incline of a sea to the level of the trough.</p>
+    
+<p>"Now!" Sandy Rowl snapped.</p>
+    
+<p>When the ice floated in the trough, Tommy Lark leaped, designing to attain his objective as nearly as possible before the following wave lifted his path to an incline. He landed fairly in the middle of the first cake, and had left it for the second' before it sank. The second leap was short. It was difficult, nevertheless, for two reasons. He had no time to gather himself for the impulse, and his flight was taken from sinking ground. Almost he fell short. Six inches less, and he would have landed on the edge of the cake and toppled back into the sea when it tipped to the sudden weight. But he struck near enough to the center to restrain the ice, in a few active steps, sinking by the edge; and as the second cake was more substantial than the first, he was able to leap with confidence for the third, whence he danced lightly toward the fourth.</p>
+    
+<p>The fourth cake, however, lay abruptly to the right. A sudden violent turn was required to reach it. It was comparatively substantial; but it was rugged rather than flat&#8212;there was a niggardly, treacherous surface for landing, and as ground for a flight the cake furnished a doubtful opportunity. There was no time for recovery. When Tommy Lark landed, the ice began to waver and sink. He had landed awkwardly, his feet in a tangle; and, as there was no time for placing his feet in a better way, he must leap awkwardly&#8212;leap instantly, leaving the event to chance. And leap he did. It was a supreme effort toward the fifth cake.</p>
+    
+<p>BY this time the ice was fast climbing the side of a swelling wave. The crest of the sea was higher than Tommy Lark's head. Had the sea broken it would have fallen on him&#8212;it would have submerged and overwhelmed him. It did not break. The wind snatched a thin spindrift from the crest and flung it past like a squall of rain. That was all. Tommy Lark was midway of the sea, as a man may be on the side of a steep hill: there was the crest above and the trough below; and the fifth cake of ice was tipped to an increasingly perilous angle. Moreover, it was small; it was the least of all&#8212;a momentary foothold, to be touched lightly in passing on to the slant of the wide pan in the middle of the lane.</p>
+    
+<p>All this was clear to Tommy Lark when he took his awkward leap from the fourth cake. What he feared was less the meager proportions of the fifth cake&#8212;which would be sufficient, he fancied, to give him an impulse for the last leap&#8212;than the slant of the big pan to which he was bound, which was precisely as steep as the wave it was climbing. And this fear was justified by the event. Tommy Lark touched the little cake with the toe of his seal-hide boot, with the sea then nearing its climax, and alighted prostrate on the smooth slant of the big pan. He grasped for handhold: there was none; and, had not the surface of the pan been approaching a horizontal on the crest of the sea, he would have shot over the edge.</p>
+    
+<p>Tommy Lark rose and established his balance with widespread feet and waving arms.</p>
+    
+<p>"'Tis not too bad," he called.</p>
+    
+<p>"What's beyond?"</p>
+    
+<p>"No trouble beyond."</p>
+    
+<p>There was more ice beyond. It was small. Tommy Lark danced across to the other side of the lane, however, without
+
+<cb n="3" />
+
+great difficulty. He could not have paused on the way. The ice, thick though it was, was too light.</p>
+    
+<p>"Safe over!" he shouted.</p>
+    
+<p>"I'm comin'."</p>
+    
+<p>"Mind the leap for the big pan. 'Tis a ticklish landin'. That's all you've t' fear."</p>
+    
+<p>SANDY ROWL was as agile as Tommy Lark. He was as competent&#8212;he was as practised. Following the same course as Tommy Lark, he encountered the same difficulties and met them in the same way; and thus he proceeded from the first sinking cake through the short leap to the second more substantial one, whence he leaped with confidence to the third, landed on the rugged fourth, his feet ill placed for the next leap, and sprang awkwardly for the small fifth cake, meaning to touch it lightly on his course to the big pan.</p>
+    
+<p>But he had started an instant too soon. When, therefore, he came to the last leap, with the crest of the wave above him and the trough below, the pan was midway of the side of the sea, its inclination at the widest. He slipped&#8212;fell; and he rolled - off into the water, and sank. When he came to the surface, the ice was on the crest of the sea, beginning its descent. He grasped the edge of it and tried to draw himself aboard. In this, he failed. The pan was too thick&#8212;too high in the water; and the weight of his boots and clothes was too great to overcome.  In the trough of the sea, where his opportunity was best, he almost succeeded. He established one knee on the pan and strove desperately and with all his strength to lift himself over the edge. But the pan began to climb before he succeeded, leaving him helpless on the lower edge of the incline; and the best he could do to save himself was to cling to it with bare, striving fingers, waiting for his opportunity to renew itself.</p>
+    
+<p>To Tommy Lark it was plain that Sandy Rowl could not lift himself out of the water.</p>
+    
+<p>"Hang fast!" he shouted. "I'll help you!"</p>
+    
+<p>Timing his start, as best he was able, to land him on the pan in the middle of the lane when it lay in the trough, Tommy Lark set out to the rescue. It will be recalled that the pan would not support two men. Two men could not accurately adjust their weight. Both would strive for the center. They would grapple there; and, in the end, when the pan jumped on edge both would be thrown off.</p>
+    
+<p>Tommy Lark was aware of the capacity of the pan. Had that capacity been equal to the weight of two men, it would have been a simple matter for him to run out, grasp Sandy Rowl by the collar, and drag him from the water. In the circumstances, however, what help he could give Sandy Rowl must be applied in the moment through which he could remain on the ice before it sank; and enough of the brief interval must be saved wherein to escape either onward or back.</p>
+    
+<p>Rowl did not need much help. With one knee on the ice, lifting himself with all his might, a strong, quick pull would assist him over the edge. But Rowl was not ready. When Tommy Lark landed on the pan, Sandy was deep in the water, his hands gripping the ice, his face upturned, his shoulders submerged. Tommy did not even pause. He ran on to the other side of the lane. When he turned, Rowl had an elbow and foot on the pan and was waiting for help; but Tommy Lark hesitated, disheartened&#8212;the pan would support less weight than he had thought.</p>
+    
+<p>The second trial failed. Rowl was ready. It was not that. Tommy Lark landed awkwardly on the pan from the fifth cake of ice. He consumed the interval of his stay in regaining his feet. He did not dare remain. Before he could stretch a hand toward Rowl, the pan was submerged, and he must leap on in haste to the opposite shore of the lane; and the escape had been narrow&#8212;almost he had been caught.</p>
+    
+<p>Returning, then, to try for the third time, he caught Rowl by the collar, jerked him, felt him rise, dropped him, sure that he had contributed the needed impulse, and ran on. But when he turned,
+
+<cb n="4" />
+
+confident that he would find Howl spraying on the pan, Rowl had failed and dropped back in the water.</p>
+    
+<p>For the fourth time Tommy essayed the crossing, with Rowl waiting, as before foot and elbow on the ice; and he was determined to leap more cautiously from the fifth cake of ice and to risk more of the pan that he might gain more&#8212;to land more circumspectly, opposing his weight to Rowl's weight, and to pause until the pan was flooded deep. The plan served his turn. He landed fairly, bent deliberately, caught Rowl's coat with both hands, dragged him on the pan, leaped away, springing out of six inches of water and when, having crossed on to the Scalawag shore of the lane, he turned, Rowl was still on the ice, flat on his back, resting. It was a rescue.</p>
+    
+<p>Presently Sandy Rowl joined Tommy Lark.</p>
+    
+<p>"All right?" Tommy inquired.</p>
+    
+<p>"I'm cold an' I'm drippin'," Sandy replied; "but otherwise I'm fair enough, an' glad t' be breathin' the breath o' life. I won't thank you, Tommy."</p>
+    
+<p>"I don't want no thanks."</p>
+    
+<p>"I won't thank you. No, Tommy. I'll do better. I'll leave Elizabeth t' thank you. You've won a full measure thanks, Tommy, from Elizabeth."</p>
+    
+<p>"You thinks well o' yourself," Tommy declared. "I'm danged if you don't!"</p>
+    
+<p>AN HOUR later Tommy Lark and the dripping Sandy Rowl entered the kitchen of Elizabeth Lute's home at Scalawag Harbor. Skipper James was off <unclear reason="torn" /> prayer meeting. Elizabeth Lute's mother sat knitting alone by the kitchen fire. To her, then, Tommy Lark presented the telegram, having first warned her, to ease the shock, that a message had arrived, contents unknown, from the region of Grace Harbor. Having commanded her self-possession, Elizabeth Lute's mother received and read the telegram, Tommy Lark and Sandy Howl standing by, eyes wide to catch the first indication of the contents in the expression of the slow old woman's countenance.</p>
+    
+<p>There was no indication, however&#8212;none that Tommy Lark and Sandy Rowl could read. Elizabeth Lute's mother stared at the telegram; that was all. She was neither downcast nor rejoiced. Her face was blank.</p>
+    
+<p>Having read the brief message once, she read it again; and having reflected, and having read it for the third time, and having reflected once more, without achieving any enlightenment whatsoever, she looked up, her wrinkled face screwed in an effort to solve the mystery. She pursed her lips, she tapped the floor with her toe, she tapped her nose with her forefinger, she pushed up her spectacles, she scratched her chin, even she scratched her head; and then she declared to Tommy Lark and Sandy Rowl that she could make nothing of it at all.</p>
+    
+<p>"Is the maid sick?" Tommy inquired.</p>
+    
+<p>"She is."</p>
+    
+<p>"I knowed it!" Tommy declared.</p>
+    
+<p>"She says she's homesick." Elizabeth's mother pulled down her spectacles and referred to the telegram. "'Homesick' says she," she added.</p>
+    
+<p>"What else?"</p>
+    
+<p>"I can't fathom it. I knows what she means when she says she's homesick; I've been that myself. But what's this about Squid Cove? 'Tis the queerest thing ever I knowed!"</p>
+    
+<p>Tommy Lark flushed.</p>
+    
+<p>"Woman," he demanded, eager and tense, "what does the maid say about Squid Cove?"</p>
+    
+<p>"She says she's homesick for the cottage in Squid Cove. An' that's every last word that she says."</p>
+    
+<p>"There's no cottage in Squid Cove," said Sandy.</p>
+    
+<p>"No cottage there," Elizabeth's mother agreed, "t' be homesick for. 'Tis a very queer thing."</p>
+    
+<p>"There's no cottage in Squid Cove," said Tommy Lark; "but there's lumber for a cottage lyin' there on the rocks."</p>
+    
+<p>"What about that?"</p>
+    
+<p>"'Tis my lumber!" Tommy roared. "An' the maid knows it!"</p>
+    
+</body>
+</text>
+    
+<pb n="Page 11" xml:id="ew.issue.19161016.p011" />
+    
+<text type="photograph" xml:id="refugees.19161016">
+<body>
+
+<head type="main">REFUGEES</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>IF you've always been lonely, if the people you want to know are always not at home, and if nobody pays any attention to you when you begin to tell the story of your early life, become a hermit. Then every one will dash to your place. One New England hermit has 5000 visitors a year&#8212;averaging 109 on Sundays. This man, John MacManus, can hardly milk his cow, having writer's cramp from giving away so many signatures. And, at that, he lives in a stone hut (with the cow) twenty miles from town, and makes only one trip a week, for flour and bacon.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Paul Thompson.</ab>
+<p>"HERE I stand in peace and content: Hark, what is that? 'Tis the man for the rent." There may be a more harassed man in the world than Charles Hanson Towne, editor of <hi rend="italic">McClure's Magazine,</hi> but he refuses to believe it. Mr. Towne can't unwrap his laundry without finding a poem that the laundress' little boy wrote, age nine, and don't it show talent? And the waiters in the restaurants slip manuscripts under his salad. He is the original refugee.</p>
+<figDesc></figDesc>
+</figure>
+		
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from the Century Company.</ab>
+<p>MARIE SUKLOFF threw a bomb at a Russian governor, with the simple explanation, "He suppressed the peasants; I suppressed him. She was sentenced to Siberia for life, but escaped, and came to America by way of China. Now she is married and has a baby, and takes suggestions from the grocer-man, just like any body else.</p>
+<figDesc></figDesc>
+</figure>
+		
+<figure n="photograph">
+<head></head>
+<p>HERE is your real refugee&#8212;the man with a price on his head. Last August Kindred absconded with $22,119.75, his employer's pay-roll. He may not appear especially reticent in Nome, or Honolulu, or some other favorite refuge of refugees since, but he certainly has not been conspicuous in New York life. Kindred had almost starved before he got his job in the new subway tunnel construction in New York; but there, $150 a month, added to an inheritance he came into, showed him the advantages of a little extra change.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Paul Thompson.</ab>
+<p>TWO tons of letters were forwarded to Andrew Carnegie, it is said, on one of his visits to Scotland. When you have $13,750,000 to give away every year, you've got to keep moving to dodge the horde of deserving applicants that want you to put their little sister through college, or to finance an invention to make the world better. Although he has already given 1352 libraries, he gets from forty to fifty requests a day for libraries or organs&#8212;and he gives an average of two a day.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Campbell Studios.</ab>
+<p>"MARRY me," says at least one man a day to Anita Stewart. One admirer ordered the chauffeur to drive at full speed over the roughest streets in town, and urged his suit in the midst of the jouncings. A steeplejack on the tower of the Woolworth Building recognized her, and begged her there to marry him. A fisherman in Sweden offers her his cottage, his dog, and fish three times a day. And a gentleman in Tokio proffers his tea gardens and rice farm. And when Anita thinks she is learning how to dodge them, they will try a new trick, such as sending her a parrot that has been taught to say: "Marry me."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Brown Brothers.</ab>
+<p>TEMPUS FUGIT&#8212;but not half so fast as Giulio Gatti-Casazza when he spies a soprano. In his seven years at the Metropolitan Opera House, not only has he harkened to the trills of world-famous singers to the tune of "I want a raise," but also to about two thousand singers whom he has had to advise to take up domestic science.</p>
+<figDesc></figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 12" xml:id="ew.issue.19161016.p012" />
+    
+<text type="photograph" xml:id="whoswhose.19161016">
+<body>
+    
+<head type="main">WHO'S WHOSE IN THE MOVIES</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Lasky-Paramount.</ab>
+<p>FANNIE WARD was one of those who left the legitimate stage for the fillums. And somehow, somewhere, she met Jack Dean. Then Fate turned them both to the Lasky studios, and Cupid nonchalantly shot an arrow over into their trenches. Mrs. Dean wants it clearly understood that the picture here shown is taken from a fillum and does not represent a scene out of their daily lives. The bandage on Mr. Dean's brow&#8212;of course, there <hi rend="italic">are</hi> wives: but, so far as she and Jack are concerned, never even a cross word.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Lasky-Paramount.</ab>
+<p>YOU can't play with germs in a laboratory without occasionally contracting disease: and, by the same token, you can't spend your life hugging pretty girls before the camera without sometimes getting married. Geraldine Farrar had successfully resisted proposals from dukes, millionaires, and opera stars innumerable. But there is some magic in the camera lens. The first man she saw when she began acting in the movies was Lou Tellegen: and thus far&#8212;more than six months now&#8212;they are living happily ever after.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Vitagraph.</ab>
+<p>THERE was once a Tom More who wrote about Utopia, a place where everything happens just as it should. Behold, in the picture below, Mr. and Mrs. Tom Moore, who live on a corner lot in that same place. When Tom joined the Kalem Company and began making screen love to Alice Joyce, the other players thought he did it very realistically. Alice liked it, too. Time passed, as they say on the screen: and now we have one Moore more.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Underwood &amp; Underwood.</ab>
+<p>WE tremble to think how many maiden ladies will rush for the Los Angeles studios after reading the story of Mlle. Rita Jolivet. For it was while Mademoiselle was appearing in her very first picture that she met Count De Cippico, a regular nobleman. And now she is a countess. Think of it&#8212;acting in motion pictures and marrying a count, both. Some women simply corner all the luck.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Famous Players.</ab>
+<p>OWEN MOORE and Mary Pickford had played lover parts in several pictures in the old Imp studio. Then, one day, they were cast as husband and wife. While the spell was still upon them Owen proposed to Mary, and they were married soon afterward. Sometimes they are seen in the same picture; sometimes the width of the continent separates them. But Owen doesn't have to worry for fear his wife may have stopped working: he can drop into any theater and reassure himself. Which is an important consideration when your wife is drawing something like six thousand a week.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19161016.p013" />
+
+<figure n="photograph">
+<head></head>
+<p>"JIMMIE" CRUZE once cruzed across the country in an automobile, stopping at various theaters to "personally appear"; but the real reason for the cruze was that "Peggy" Snow, his wife, was in San Francisco and he wanted to see her. "Jimmie" and "Peggy" met when they were playing leading rôles in the "Million Dollar Mystery." Now they have a little million dollar mystery in their own home, and ask us to state that the picture here shown is an old one and really doesn't do her justice at all, at all.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Lasky-Paramount.</ab>
+<p>WE can't pronounce their names, but we can spell 'em. Here goes. Tsuru Aoki was working away in pictures in the Lasky studios (gracious, what a lot of weddings that place is responsible for) when along came Mr. Sessue Hayakawa, also of Japan and the movies. Which one of them owned the bulldog we do not know, but anyway they decided that two could keep a dog much cheaper than one. And here they are. We saw them in a picture recently, and all we can say is, if all their countrymen are as good, then on with the yellow peril. </p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Triangle.</ab>
+<p>WHEN Roscoe Arbuckle first met Minta Arbuckle there was the dickens to pay with the automobile: later on there was the minister to pay. Minta does double duty now. She works in pictures all day, and in the evening has to pour liniment on the poor wounded head of Roscoe where the cruel director has run a steam roller over him to make the audience laugh. When Roscoe first went with Keystone he was paid at the rate of a dollar a pound. His pay was $3 a day. Now, children, what was Roscoe's weight?</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Lasky-Paramount.</ab>
+<p>AND here we have Marie Doro and Elliott Dexter, her husband, and between them the little camera which seems to take the place of Cupid in the studios. After all, life is pretty much the same everywhere. We sometimes think that the famous actors and actresses are different from us common mortals, but they aren't. Any husband can tell in a minute what Marie is saying to Elliott. All together, husbands: "My dear, I am sure you are smoking too much."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>LAST of all, Dorothy Phillips, star of the Universal, and Allen Holubar, her husband&#8212;also a star, also a director. The name of the third party in the picture we do not know, but we understand he is a near relative. We have no desire to go in motion pictures: we have no jealousy in our hearts. But we just can't help envying these folks on one little point. Their kids go on the pay-roll at the age of one month. It will be twenty-one years before our son will be bringing home his six dollars Saturday nights. Twenty-one years before we can be supported in the leisure for which we yearn.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+    
+<pb n="Page 14" xml:id="ew.issue.19161016.p014" />
+    
+<text type="photograph" xml:id="missionaries.19161016">
+<body>
+    
+<head type="main">ARE MISSIONARIES MOLLYCODDLES?</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">© S. Earl Taylor.</ab>
+<p>"IF I were a dromedary on the plains of Timbuctoo, I would eat a missionary: head and tail and hymn-book too." This little ballad was running through the mind of a nice African lion that stood on the shore, waiting for David Livingstone to land. In the ensuing party, Livingstone's arm was crunched to splinters. "Just a little adventure I would like to tell my grandchildren in my dotage, " he remarked, and went forward to discover the source of the Zambesi and change the world's conception of the "Dark Continent." He died in the midst of the jungle, still directing his party from his couch.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from <hi rend="italic">World Outlook.</hi></ab>
+<p>A FLAG-POLE of dead dogs' legs topped with a gray flannel shirt waved desperately from an Arctic ice-floe; and when at last it was discovered by a passing ship, another name was added to the list of missionary heroes. Dr. Wilfred T. Grenfell, who had started out by dog-sled to answer a sick man's call, had been caught in a melting ice-floe, and stranded for a day and a night. Just a little incident in the daily life of the doctor-missionary whose parish is the 600 barren miles of Labrador's shoreline, and whose heroism has won him six different titles and the honor of the Companion of St. Michael and St. George from the King of England.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from <hi rend="italic">World Outlook.</hi></ab>
+<p>WICKED residents of New York who are planning to flee the city before the advent of Billy Sunday might as well abandon hope. There is no safety anywhere in the world. Escape the American Billy, and you run <hi rend="italic">kerplunk</hi> into Kiyomatsu Kimura, the Billy of Japan. Kimura dances about the stage, slams the pulpit, and uses all the other patented Billy stuff; but his language is said to be less vulgar. Also, Billy's converts cost $3.08 apiece, while Kimura's figure only a couple of yen.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from <hi rend="italic">World Outlook.</hi></ab>
+<p>WHEN Dr. James van Buskirk arrived in Korea to practise medicine on the natives, they told Dr. Van that they were willing to try anything once, but that if any of his patients died they would consider it necessary to amputate his head just below the ears. The doctor still waves.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from <hi rend="italic">World Outlook.</hi></ab>
+<p>IN 1902 a band of Chinese visionaries, trying to be Pilgrim Fathers, set sail in a <hi rend="italic">Mayflower</hi> of their own for Borneo. Many of them starved, a few were clipped by the Borneo head-hunters, and the rest would have gone the same way except for the intervention of an American missionary&#8212;James Hoover. Hoover reports that the poor Chinese suffered from every ill that beset the Pilgrim Fathers, except frost-bite. He helped them to clear the jungle in that land where it is "nine months hot and three months hotter," and to-day a whole province hails this mild American as its popular hero.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Foreign Missions Library.</ab>
+<p>HUNTER CORBETT sailed for China when the battle of Gettysburg was raging. He tossed about on the high seas for six months, was stranded on the equator for seventeen days, and later shipwrecked off Chefoo. His first missionary meeting was broken up by the entrance of nine large cobble-stones simultaneously through the windows. Five different villages refused him living quarters, and he was finally compelled to take up his home in a haunted house, where he worked for a whole year before making his first convert. To-day, at the age of eighty, he is still at work and is supposed to be the oldest missionary in the world.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">© Underwood &amp; Underwood.</ab>
+<p>NEXT to godliness comes cleanliness: next to Sunday church the Saturday night bath. Speaking of American missionaries, let us not forget that forceful gentleman, the American soldier. Once the bubonic plague was an annual visitor in the Philippines: it has not showed its head for seven years. Of the 35,000 lepers who once roamed the islands, only 3000 remain, and they are concentrated in one settlement. And the annual death rate of the islands has been cut in half. Onward, Christian soldiers!</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19161016.p015" />
+    
+<text type="fiction" xml:id="bartlett.19161016">
+<body>
+    
+<head type="main">The Triflers</head>
+<byline>By <persName type="author" key="#Bartlett, Frederick Orin">FREDERICK ORIN BARTLETT</persName></byline>
+<byline>Author of "The Wall Street Girl"</byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"Marie thought her mistress looked as a bride should look. She saw monsieur's eyes warm as he slipped the wrap over madame's shoulders."</p>
+<figDesc></figDesc>
+</figure>
+    
+<p>ARRIVING in Paris on his usual schedule of travel and pleasure, Monte Covington, an American, for the first time in his ten years since college, realizes his thirty-two years. He is bored. One night he meets, coming from the opera alone, Marjory Stockton, whom he has long known, but whose time has been devoted to an elderly aunt. The aunt is dead, and Marjory, inheriting her fortune, is having her first taste of freedom. Its enjoyment is marred by offers of marriage, the most troublesome offender being Teddy Hamilton, whom she met on her last trip across. Monte, calling on her one morning, finds Marjory frightened at Teddy's threat to kill himself if she refuses him. Teddy arrives while they are talking, and is shown into the <hi rend="italic">pension</hi> sitting-room downstairs. Monte wishes he were Marjory's brother, so he would have the right to settle Teddy. He suddenly thinks of a solution of the problem, and makes his suggestion to Marjory&#8212;to marry him for protection against unwelcome attention and to be his <hi rend="italic">camarade de voyage</hi> simply. Marjory accepts the strange proposal. Monte then goes to Teddy and announces their engagement. The crazed boy whips out a revolver and shoots, wounding Monte's right shoulder. Marjory, as Monte's fiancée, decides it is her duty to nurse him, and, with her maid, takes up quarters in his hotel. Monte's splendid constitution pulls him through in a few weeks, and Marjory decides to leave Paris. But Monte, grown used to her attention and companionship, suggests their immediate marriage. While they are discussing this, Marjory is called to the telephone. It is Teddy Hamilton, who says he does not believe in her engagement. With her hand over the mouth-piece, she repeats this to Monte. Seeing her terror at Teddy's voice, Monte persuades her to marry him the next day, and himself announces the fact to Teddy.</p>
+    
+
+
+<p>MARJORY was to be married on June eighteenth, at eleven o'clock, in the chapel of the English Congregational Church. At ten o'clock of that day she was in her room before the mirror, trying to account for her heightened color. Marie had just left her in despair and bewilderment, after trying to make her look as bridelike as possible when she did not wish to look bridelike. Marie had wished to do her hair in some absurd new fashion.</p>
+    
+<p>"But, Marie," she had explained, "nothing is to be changed. Therefore why should I change my appearance?"</p>
+    
+<p>"Mademoiselle a bride&#8212;and nothing changed?" Marie had cried.</p>
+    
+<p>"Nothing about me; nothing about Mr. Covington. We are merely to be married, that is all&#8212;as a matter of convenience."</p>
+    
+<p>"Mademoiselle will see," Marie had answered cryptically.</p>
+    
+<p>"You will see yourself," Marjory had laughed.</p>
+    
+<p><hi rend="italic">Eh bien!</hi> something was changed already, as she had only to look in the mirror to observe. There was a deep flush upon her cheeks and her eyes did not look quite natural. She saw, and seeing only made it worse. Manifestly it was absurd of her to become excited now over a matter that up to this point she had been able to handle so reasonably. It was scarcely loyal to Monte. He had a right to expect her to be more sensible.</p>
+    
+<p>HE had put it well last night when he had remarked that for her to go to a chapel to be married was no more serious than to go to an embassy for a passport. She was merely to share with him the freedom that was his as a birthright of his sex. In no other respect whatever was she to be under any obligations to him. With ample means of her own, he was simply giving her an opportunity to enjoy them unmolested&#8212;a privilege which the world denied her as long as she remained unmarried.</p>
+    
+<p>Therefore it seemed scarcely decent for Marie to speak of her as a bride. Perhaps that accounted for the color. No sentiment was involved here. This was what made the arrangement possible. Sentiment involved caring; and, as Monte had
+
+<cb n="2" />
+
+once said, "It's the caring that seems to make the trouble." That was the trouble with the Warrens. How Marion cared&#8212;from morning till night, with her whole heart and soul in a flutter&#8212;for Chic and the children. In a different way, Marjory supposed, Teddy cared. This was the one thing that made him so impossible. In another way, Peter Noyes cared.</p>
+    
+<p>She gave a quick start as she thought of Peter Noyes. She turned away from the mirror as if&#8212;as if ashamed. She sprang to her feet, with an odd, tense expression about her mouth. It was as if she were looking into his dark, earnest eyes. Peter had always been so intensely in earnest about everything. In college he had worked himself thin to lead his class. In the law school he had graduated among the first five, though he came out almost half blind. His record, however, had won for him a place with a leading law firm in New York. He had made love to her with his lips set as if love were some great responsibility. He had talked of duty and the joy of sacrifice until she had run away from him.</p>
+    
+<p>Not daring to look in the mirror again, she called Marie to adjust her hat and veil.</p>
+    
+<p>"It is half past ten, Marie," she announced nervously. "I&#8212;I think Monsieur Covington must be waiting for us."</p>
+    
+<p>"Yes, mam'selle."</p>
+    
+<p>Her ears caught at the word.</p>
+    
+<p>"Marie."</p>
+    
+<p>"Yes, mam'selle."</p>
+    
+<p>"I wish&#8212;even after this&#8212;to have you always address me as mademoiselle."</p> 
+    
+<p>"But that&#8212;"</p>
+    
+<p>"It is my wish."</p>
+    
+<p>IT was a blue-and-gold morning, with the city looking as if it had received a scrubbing during the night. So too did Monte, who was waiting below for her. Clean-shaven and ruddy, in a dark gray morning coat and top hat, he looked very handsome, even with his crippled arm. And quite like a bridegroom! For a moment he made her wish she had taken Marie's advice about her hair. She was in a brown traveling suit with a piquant hat that made her look quite Parisienne&#8212;though her low tan shoes, tied with big silk bows at her trim ankles, were distinctly American.</p>
+    
+<p>Monte was smiling.</p>
+    
+<p>"You aren't afraid?" he asked.</p>
+    
+<p>"Of what, Monte?"</p>
+    
+<p>"I don't know. We're on our way."</p>
+    
+<p>She took a long look at his steady blue eyes. They braced her like wine.</p>
+    
+<p>"You must never let me be afraid," she answered.</p>
+    
+<p>"Then&#8212;<hi rend="italic">en avant!</hi>" he called.</p>
+    
+<p>In a way, it was a pity that they could
+
+<cb n="4" />
+
+not have been married out of doors. They should have gone into a garden for the ceremony instead of into the subdued light of the chapel. Then, too, it would have been much better had the Rev. Alexander Gordon been younger. He was a gentle, saintly-looking man of forty, but serious&#8212;terribly serious. He had lived long in Paris, but instead of learning to be gay he had become like those sad-faced priests at Notre Dame. Perhaps if he had understood better the present circumstances he would have entered into the occasion instead of remaining so very solemn.</p>
+    
+<p>As Marjory shook hands with him she lost her bright color. Then, too, he had a voice that made her think again of Peter Noyes. In sudden terror she clung to Monte's arm, and during the brief ceremony gave her responses in a whisper.</p>
+    
+<p>Peter Noyes himself could not have made of this a more trying ordeal. A ring was slipped upon the third finger of her left hand. A short prayer followed, and an earnest "God bless you, my children," which left her feeling suffocated. She thought Monte would never finish talking with him&#8212;would never get out into the sunshine again. Yet, when he did, she shrank away from the glare of the living day.</p>
+    
+<p>Monte gave a sigh of relief.</p>
+    
+<p rend="jumpline"><ref target="bartlett.19161016.jump">Continued on page 19</ref></p>
+
+</body>
+</text>
+    
+<pb n="Page 16" xml:id="ew.issue.19161016.p016" />
+    
+<text type="nonfiction" xml:id="carnegie.19161016">
+<body>
+    
+<head type="main">OUR OWN CARNEGIE LIBRARY</head>
+<byline>On These Two Shelves&#8212;The New Books and Magazines</byline>
+    
+<div1><head type="sub">KEEPING UP WITH INDIAN CASTE IN BRITISH HOSPITALS</head>
+
+<cb n="1" />
+    
+<p>THE mistress of a modern American household may think her lot a hard one because each member of her family requires a different breakfast food and a different shade of bread. The father wants bread sliced thick and steak thin, while the daughter insists upon the reverse. Each member occupies his own citadel, surrounded by his own cereal, beverage, and brand of salad dressing. The only place where the family meets on common ground is the breast of the chicken, and this is too frail to hold them all.</p>
+    
+<p>But the existence of the chef in a British hospital for East Indians is still more complicated. Major James, in the <hi rend="italic">Medical World,</hi> describes the mysteries of the caste system, which, he says, even English officers who have spent a lifetime in India are unable to solve.</p>
+    
+<p>One of the hospitals, however, where there are 2000 Indian patients, is conducted by officers of the Indian medical service, who do their plodding best to keep the members of that most subtle race from losing caste.</p>
+    
+<cb n="2" />
+    
+<figure n="photograph">  
+<head></head>
+<ab n="credit">Photograph front Janet M. Cummings.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="3" />
+   
+<p>For the patients they have to serve eight separate diets&#8212;not merely separate dishes, but separate diets throughout. Then, as East Indians maintain housing conditions for their food which would do credit to a New York social investigator, these diets must be prepared on the hospital grounds in twenty-one different kitchens.</p>
+    
+<p>For the staff sixteen other cook-houses in the village are used.</p>
+    
+<p>As to the Hindus the cow is a sacred animal, no beef is allowed within the hospital.</p>
+    
+<p>Since the succulent porker is unclean, he also is not permitted inside hospital walls. This is a sad blow to the liberty of the menu, for it cuts out bacon, roast or fried pork, pickled pigs' feet, headcheese, and ham and eggs, which the Irishman declared the best part of the hog, although a Bostonian would probably maintain it was pork and beans.</p>
+    
+<p>Mutton has an entrée (no pun intended) into the best Hindu circles only when it has been ushered in through an exclusive slaughter-house where a member of the proper tribe has severed the head from the body with a single stroke of the sword. For Mohammedans, the mouth of the sheep must be pointed toward
+
+<cb n="4" />
+
+Mecca at the time of its death before the flesh can enter into its reward.</p>
+    
+<p>Another serious problem is that of water. As every Indian must bathe before prayer, and as a good Mohammedan must pray five times between sunrise and sunset, each patient uses daily between sixty and seventy gallons of water. Also, once they get the water turned on, they are so pleased that they forget to turn it off, and the bath-rooms are continually flooded. Another efficacious method they have for using up water is to save themselves the trouble of twisting two faucets by turning on the hot water and letting it run out until it is cool enough for a bath.</p>
+    
+<p>Before electric lights were in use, the patients could not be restrained from blowing out the gas, so that hospital authorities were divided between rescuing their patients from the gas-jet and the flood, the perils of land and sea.</p>
+    
+<p>There is one custom which, while it makes life hard for the hospital management, has solved the servant problem for the Hindus: the cooks must be of the same caste as those they cook for, or else higher.</p>
+    
+<p>With this idea understood, there is, of course, no dearth of Hindu chefs.</p></div1>
+			
+<div1><head type="sub">ARE AMERICANS REALLY LIKE THIS?</head>	
+    
+<cb n="1" />
+			
+<p>"ANY sculptor, seeking to figure this republic in stone, must carve, in future, a young man in shirtsleeves, open-faced, pleasant, and rather vulgar, straw hat on the back of his head, his trowsers full and sloppy, his coat over his arm. The motto to be written beneath will be, of course: 'This is some country.'"</p>
+    
+<p>Yes, that's what a young man twenty-six years old said who visited us from England in 1913. Since then he has been buried in the Dardanelles, and a book of his poems has come out, as well as his <hi rend="italic">Letters from America</hi> (Charles Scribner's Sons), which make his opinion one we can't laugh away completely.</p>
+    
+<p>His friends were astonished when Rupert Brooke told them he was going to visit America. One of them wrote to him: "Think kindly of the Americans. They are so very young and so very anxious to appear grown up; and so very lovable."</p>
+    
+<p>On the way over one American offered to recite to Mr. Brooke the Declaration of Independence (which suggests that the American understood the young poet better than he did the American); but without other catastrophe Rupert Brooke arrived in New York.</p>
+    
+<p>"In five things America excels modern England&#8212;fish, architecture, jokes, drinks, and children's clothes. . . . The drinks and jokes, which curiously resemble each other, are the best. There is a cheerful violence about them. . . . People here talk with an American accent, their teeth are inlaid with gold; the mouths of the street-car conductors move slowly, with an oblique, oval motion, for they are chewing."</p>
+    
+<p>He has a great deal to say about our American street-cars:</p>
+    
+<p>"I started on a 'car.' American tram-cars are open all along the side, and can be entered at any point. The side is divided by vertical bars. It looks like a cage with the horizontal lines taken out. Between these vertical bars you squeeze into the seat. If the seat opposite you is full, you swing yourself along the bars by the hands till you find room. The Americans become terrifyingly expert at this. I have seen them, fat, middle-aged business men, scampering up and down the face of the cars by means of their hands,
+
+<cb n="2" />
+
+swinging themselves over and around and above each other like nothing in the world so much as the monkeys at the Zoo. It is a people informed with vital energy. I believe that this exercise, and the habit of drinking a lot of water between meals, are the chief causes of their good health."</p>
+    
+<p>A Harvard-Yale baseball game interested him somewhat, in spite of the "dusty-colored shirts and dingy knickerbockers, fastened under the knee, and heavy boots"; but it was the cheer-leader who impressed him most&#8212;"bright in the sunshine, conducting with his whole body, passionate, possessed by a demon, bounding in the frenzy of his inspiration from side to side, contorted, rhythmic, ecstatic. It seemed so wonderfully American, in its combination of entire wildness and entire regulation, with the whole just a trifle fantastic."</p></div1>
+    
+<div1><head type="sub">HOW GLADSTONE FELT ABOUT ALCOHOL</head>
+    
+<p>THE late William Ewart Gladstone, says the <hi rend="italic">American Issue,</hi> was in the habit of quietly handing out to his neighbors printed slips containing his thoughts on liquor, stated in the following clear and simple manner:</p>
+    
+<lg><l>DRUNKENNESS EXPELS REASON.</l>
+<l>DROWNS THE MEMORY.</l>
+<l>DISTEMPERS THE BODY.</l>
+<l>DEFACES BEAUTY.</l>
+<l>DIMINISHES STRENGTH.</l>
+<l>INFLAMES THE BODY.</l>
+<l>CAUSES INTERNAL, EXTERNAL AND INCURABLE WOUNDS.</l>
+<l>IT'S A WITCH TO THE SENSES.</l>
+<l>A DEVIL TO THE SOUL.</l>
+<l>A THIEF TO THE PURSE.</l>
+<l>A BEGGAR'S COMPANION.</l>
+<l>A WIFE'S WOE AND CHILDREN'S SORROW.</l>
+<l>IT MAKES A MAN BECOME A BEAST AND SELF MURDERER.</l>
+<l>HE DRINKS TO OTHERS' GOOD HEALTH. AND ROBS HIMSELF OF HIS OWN.</l></lg></div1>
+
+
+
+<div1><head type="sub">EDISON'S LIVELY BOYHOOD</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph front Underwood &amp; Underwood.</ab>
+<p>Thomas A. Edison was only twelve years old when he produced this dazzling smile&#8212;the result of his curiosity to know everything about life.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>THOMAS A. EDISON feels no animosity now toward the trainman who boxed his youthful ears so hard that his hearing was affected. Being slightly deaf, he says, has enabled him to escape much foolish chatter that he would otherwise have been obliged to hear, and to concentrate more effectively on the great problems he has solved.</p>
+    
+<p>The ear-boxing episode took place when Edison was twelve years old. By his own initiative, the lad had obtained the profitable privilege of train-boy on the Grand Trunk Railroad. His duties consisted in going from car to car, between Detroit and Port Huron, and selling newspapers, fruit, and various other articles.</p>
+    
+<p>Little by little his profits increased to between eight and ten dollars a day. The greater part of his savings were devoted to the purchase of technical books, and more especially to his experiments in chemistry. For this purpose he actually went so far as to instal a sort of laboratory, with flasks and test-tubes, in a car that was intended for baggage.</p>
+    
+<p>"One evil day," relates his biographer, in the <hi rend="italic">Great Men</hi> series, published by Frederick A. Stokes Company, "the train, while running at a high speed, gave a sudden and violent lurch. A piece of 
+    
+<cb n="2" />    
+    
+phosphorus fell to the floor and burst into flame. The car caught fire. The young experimenter, with the aid of the conductor, succeeded in putting out the blaze."</p>
+    
+<p>But the conductor, a brutal and vindictive individual, had small sympathy with the budding genius of Edison. At the very next station he threw out upon the platform the contents of the poor lad's laboratory, and also his entire printing outfit, which he had installed in the baggage car along with his chemical apparatus. Then he boxed the boy's ears, and threw him out after his belongings.</p>
+    
+<p>Long before this episode the boy's natural gift for taking the initiative had begun to show itself. One example of his shrewd business ability came to light after the Civil War had broken out. Of course, every one was anxious for news from the front.</p>
+    
+<p>"Young Edison," says his biographer, "made the acquaintance of the typesetters on the Detroit <hi rend="italic">Free Press.</hi> By running his eye over a proof sheet of the paper, he could inform himself of anything that it contained of special interest. It was in this way that on a certain day in April, 1862, he was one of the first to read the sensational news relating to the battle of Shiloh."</p>
+    
+<p>Edison made a deal with the telegraph operator by which the latter wired the news of the battle to every station-master, with the request that he place it on the blackboard used to announce the time of trains. He then went to the editor of the <hi rend="italic">Free Press</hi> and obtained credit for a thousand extra copies of the paper.</p>
+    
+<p>Edison tells about this venture:</p>
+    
+<p>"The first station, called Utica, was a small one, where I generally sold two papers. I saw a crowd ahead on the platform, and thought it some excursion; but the moment I landed, there was a rush for me. I sold thirty-five papers there. I decided that if I found a corresponding crowd at the next station, the only thing was to raise the price from five cents to ten.</p>
+    
+<p>"When I reached Port Huron, I was met by a large crowd. I then yelled, 'Twenty-five cents apiece, gentlemen! I haven't enough to go round.' I sold all out, and made what to me then was an immense sum of money."</p></div1>
+    
+<pb n="Page 17" xml:id="ew.issue.19161016.p017" />
+    
+<div1><head type="sub">PAINTING WOMEN'S CLOTHES</head>    
+    
+<cb n="1" />			
+			
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Janet M. Cummings.</ab>
+<p>Poor little Infanta Marguerita had to stand for hours in her Sunday clothes while Velasquez made this famous painting of her.</p>
+<figDesc></figDesc>
+</figure>			
+
+<p>SHOULD painters use their canvas to show our grandchildren what we are wearing to-day, as H. G. Wells intends his novels to tell them what we are thinking? Or are fashions too trivial to be worth a place in history?</p>
+    
+<p>Mrs. Aria, in the <hi rend="italic">Fortnightly Review</hi> of London, thinks them well worth attention. In "Fashion and the Painter," she calls to witness the masters who have been of her opinion.</p>
+    
+<p>Whistler, although outraged by certain shapeless green and yellow styles of his day, had great respect for clothes, and with his brush immortalized the crinoline, as Velasquez did the hoop. Romney, too, painted his favorite heroine in gowns of every shade, stuff, and outline.</p>
+    
+<p>On the other hand, with a presentiment that future generations would say, "What a beautiful woman&#8212;but spoiled by those sleeves!" Sir Joshua Reynolds refused to disfigure a patron for her granddaughter's
+
+<cb n="2" />
+
+taste by painting her in the latest mode; but, as the Duchess of Rutland grumbled, made her wear "that bed-gown of a thing."</p>
+    
+<p>Although women as women may be more passionately interested in dress than men, women as painters show less interest. Perhaps this demonstrates the theory that men, after all, are the real lovers of finery, but love it on women, who bedeck themselves merely to please the men. Or perhaps women have that familiarity with the details of a gown which breeds contempt, while men feel the enchantment born of distant acquaintance. At any rate, the few great women painters blur color, fabric, and design in a costume so that it might be a checked gingham apron worn by Xanthippe or a purple fragment nearly worn by Anna Held.</p>
+    
+<p>Velvet is the easiest fabric to paint. Alma-Tadema and Albert Moore can credit at least part of their fame to their vivid and faithful reproduction of Oriental carpets, silks, and gauzes.</p>
+    
+<p>The Italian flea, remarks the writer incidentally, has been the hero in enough novels to turn his head; but perhaps the highest honor ever paid him was by the painter who lived in Italy at the height of the insect season and gained the best result in his foliage by catching fleas in his brush and burying them on his canvas.</p>
+    
+<p>Painters in these days, if they are lively and industrious, may hope to keep up with the changing gorgeousness of women; but what incentive is there to paint the modern man in his dull khaki or unromantic frock-coat and trousers?&#8212;poor substitute for gold lace, red uniforms, satin breeches, velvet coats, and waving plumes.</p>
+    
+<p>It is impossible to ignore, concludes Mrs. Aria, that fashion plays its part in the making of portraits, and only by depicting a model in a costume she is used to wearing can the best results be gained. For "styles produce manners; gestures, movements, expressions even, are bred of costume."</p>
+    
+<p>If costumes, then, make customs as much as custom makes costumes, are they not worth a page in the painted history of their times?</p></div1>
+    
+<div1><head type="sub">WHAT MAKES A POOR GOLF PLAYER?</head>
+
+<p>WHY does an enthusiast play a splendid game of golf one day, and fall into the ranks of the simplest amateur the next? It's all in his state of mind, says the <hi rend="italic">Golfer's Magazine,</hi> and links or caddies or balls or clubs have precious little to do with it. Golf is a game of the head, and not of the feet. A bad game comes from "imperfect nerve response and a disturbed mentality."</p>
+    
+<p>"As soon as you have recognized that golf is a mental game," says the writer, "you will fully appreciate that the degree of perfection with which you play it will be very much influenced by your environment. The character or temperament of your opponent will influence for good or bad the game you play.</p>
+    
+<p>"The discovery of incongruous mental temperaments may arise between two players wherein both are rigid adherents to the ethics of the game, yet neither can play his game in the presence of the other. These antipathies do occur in golf, as they are known to exist in the walks of daily life.</p>
+    
+<p>"Many expressions are used upon the golf field which thoughtlessly give evidence of the psychological nature of golfing. Players speak of the 'hoodoo' links, 'links that have them bluffed,' of 'mental hazards' and many other expressions of their inability at times to play well in certain places. Physical weakness can not take the blame, nor can the topography of the links, for they remain always the same. Mental suggestions are responsible. If misfortunes have attended a golfer in his first time around on certain links, upon his arrival there on his second round the mind is full of suggestions of 
+    
+<cb n="2" />    
+    
+his former failure and he is most liable to repeat it. A strong effort of the mind is required to throw off these suggestions, but when accomplished you will recover your usual play on that links."</p></div1>
+
+<div1><head type="sub">GIPSIES PREFER GIRL BABIES</head>
+    
+<cb n="1" />
+    
+<p>GIPSY life, says London <hi rend="italic">Answers,</hi> shows the one instance in history where girl babies are more prized than boy babies. For the girls will grow up to be wage-earners, their professional success aided by alluring dark eyes and slim brown hands; but who would want his fortune told by a great, hulking man?</p>
+    
+<p>So, while the heathen kill off their surplus daughters by throwing them in infancy to the alligators, the gipsies treasure theirs so fondly that suitors are vigorously discouraged by irate parents.</p>
+    
+<p>In spite of this appreciation of women, one of the strange beliefs of gipsies is that food must not be touched by any part of a woman's dress. Food accidentally so touched is thrown to the dogs.</p>
+    
+<p>Another queer custom, but one that is dying out, is the habit of destroying everything that belonged to a dead gipsy. It is still done among the gipsy nobility, but the high cost of living has made it necessary for the poorer families to be less profligate with their property.</p>
+    
+<p>Although gipsies marry without benefit of clergy, they are fond of the baptismal ceremony, and have their children baptized over and over again.</p></div1>
+    
+<div1><head type="sub">DON'T CODDLE YOURSELF&#8212;WALK</head>
+    
+<p>YOU had been to the doctor. He had given you a tonic, told you to walk to your office, and charged you ten dollars. You decided to begin walking next day.</p>
+    
+<p>In the meantime, you had a lobster supper at midnight. The next morning you overslept. You were too late for your exercises, and you didn't feel up to your cold bath. You washed down your ham and eggs with two cups of black coffee and barely made the car. You had intended to walk part of the way to the office, but you didn't have time.</p>
+    
+<p>You didn't feel equal to going to the "gym" that day. So you hung around the office and smoked until seven o'clock, at which time you had an engagement in a French restaurant. This kept you so busy that you barely had time to take in the last act of a play. After this a caviar sandwich, a highball or two, and so to bed.</p>
+    
+<p>After three months of this you went to a new doctor. He wrote out your history, gave you a tonic, and then added casually: "Try to walk a little every day. It will work off some of the food poisons with which you overload your system. Ten dollars, please."</p>
+    
+<p>And if you had asked the doctor for an itemized account, he would have said : "Advice on walking, nine-fifty. Consultation and tonic, fifty cents."</p>
+    
+<cb n="2" />
+    
+<p>Walking is not only as good as any exercise, but in some respects it is better, according to Dr. F. C. Smith, past assistant surgeon of the United States Public Health Service.</p>
+    
+<p>"The woman who has no maid to take the baby out for its airing is fortunate," he writes in the <hi rend="italic">Forecast.</hi> "Lacking the necessary baby, even the influence of the poodle dog is not to be despised."</p>
+    
+<p>Dr. Smith quotes from Hinsdale: "The best medicine: two miles of oxygen three times a day. This is not only the best, but cheap and pleasant to take. It cures cold feet, hot heads, pale faces, feeble lungs, and bad tempers. It has often been known to reconcile enemies and settle matrimonial quarrels."</p>
+    
+<p>"A certain excellent consolidated rural school in Indiana," concludes the physician, "takes great pride in the fact that none of its pupils walk; that all are called for and returned to their homes by large omnibuses, comfortably heated in winter. This illustrates the present-day tendency to take undue advantage of modern opportunities for coddling ourselves.</p>
+
+<p>If you take your doctor's advice and put into walking boots that ten dollars you usually pay him, you'll never have to make the second call.</p></div1>
+    
+<div1><head type="sub">THE MOST SAVAGE CARTOONIST OF THE WAR</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Paul Thompson.</ab>
+<p>War has spoiled Raemaekers' disposition. He used to be just a good-natured cartoonist, and now he's the most savage artist of his time.</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+<p>A YEAR and a half ago, Louis Raemaekers was unknown beyond the narrow confines of Holland. To-day he is acclaimed as the greatest Dutch master of pen and pencil. His cartoons have been reproduced in a thousand periodicals throughout the world; he has been fêted by royalty; no humanist of the pencil has ever won such instant and universal recognition.</p>
+    
+<p>His slashing savagery of line, appearing in the Amsterdam <hi rend="italic">Telegraaf</hi> shortly after the outbreak of the war, almost led to the supression of the neutral journals, because they "threatened to endanger Dutch neutrality."</p>
+
+<p>A little later Nynheer Schroeder, editor of the <hi rend="italic">Telegraaf,</hi> was imprisoned for several weeks because of his utterances in the Telegraaf, and, incensed anew, Raemaekers turned out a fresh batch of cartoons, more forceful, more savage than those that had appeared before. With a few fierce strokes of the charcoal, he expressed the repulsiveness of brute force as few of his colleagues have been able to do.</p>
+    
+<p>"A genius," says the Westminster <hi rend="italic">Gazette,</hi> "apparently the only genius produced by the war, has come amongst us as our friend and most powerful ally. Long after the innumerable books on the war have fallen into the dusty crypt of back numbers, the
+    
+<cb n="2" />
+    
+cartoons of Mr. Raemaekers will live."</p>
+    
+<p>One amazing feature of the meteoric career of this young newspaper artist&#8212;he is still in his thirties&#8212;is the fact that until the remorseless malignity engendered by the war had aroused him, his art never had the slightest recognition from English critics. No one outside of his immediate circle had ever heard of him. Now all England is flocking to the Fine Arts Society to view his works.</p>
+    
+<p>J. P. Collins, writing to the Boston <hi rend="italic">Transcript,</hi> says:</p>
+    
+<p>"Raemaekers has probed every depth of protest and emotional resistance against the barbarism and wanton rapine of this war. He wields a pencil at once so human and so powerful that the results seem to throb with impatience under ordinary terms of discussion and analysis. It is given to a few privileged draftsmen to express, in a stroke or two, the truths and emotions that other men too often write volumes in the vain attempt to reach."</p>
+    
+<p>There is about his work a freedom of stroke that suggests a Titan hurling the mighty oaks of a forest into the face of Jove. Nor does he lose any element of the horror, the cruelty, the dire catastrophe.</p>
+ 
+<figure n="illustration">
+<head></head>
+<p>"Barbed Wire"&#8212;a typical cartoon by Raemaekers.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+</body>
+</text>
+    
+<pb n="Page 18" xml:id="ew.issue.19161016.p018" />
+
+<text type="nonfiction" xml:id="science.19161016">
+<body>
+    
+<head type="main">WHAT SCIENCE IS DOING</head>
+<byline>To Roll This Old World Along</byline>
+			
+<div1><head type="sub">HALF-SISTER TO THE DEUTSCHLAND</head>	
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from L. Shaw, Jr.</ab>
+<p>This American pleasure boat consumes oil and compressed air, and will run for seven hours for five dollars and a quarter. It is driven by the same kind of engine that brought the "Deutschland" to Baltimore.</p>
+<figDesc></figDesc>
+</figure>
+			
+<cb n="1" />
+
+<p>DOES any one present remember the <hi rend="italic">Robert Fulton,</hi> that wabbly little old steamboat that paddled up the Hudson River, causing fair women to faint and hardened men to gasp and rub their eyes? Probably no one present does recollect seeing that miracle, for it happened in the days when our great-great-grandmamas wore pantalettes reaching down to their shoe-tops, and that was long, long ago.</p>
+    
+<p>We, the proud descendants of those amazed folk along the Hudson River bank, neither faint nor gasp when marvelous accomplishments are revealed. We have become accustomed to mechanical miracles. The telephone, the submarine, the wireless, and the Hudson tubes have taught us to sneer when any one tells us that such-and-such a dream is impossible.</p>
+    
+<p>Anything is possible! Witness the <hi rend="italic">Deutschland.</hi> Witness the <hi rend="italic">Deutschland's</hi> small half-sister, a trim, speedy passenger craft that plies from uptown New York on the Hudson to Forest View Dock in
+    
+<cb n="2" />
+    
+New Jersey, without even leaving a "wake" behind. A "wake," for the benefit of the uninitiated, is the frothy, foaming billow that emerges from the stern of a screw-propeller boat.</p>
+    
+<p>But the wakeless feature is not the only remarkable thing about this boat. It has no smokestacks, for it is not a steamboat; nor has it a gasolene engine, nor yet an electric motor.</p>
+    
+<p>The <hi rend="italic">Palisades</hi> is driven by the same kind of engine that brought the <hi rend="italic">Deutschland</hi> to Baltimore. The <hi rend="italic">Palisades</hi> consumes oil and compressed air, and will run seven hours for $5.25. It is the first American-owned boat to make use of the Diesel engine. There are two engines, each of the 150 horse-power. They are self-starting, quiet running, and occupy only a fraction of the space taken up by the same powered steam engine.</p>
+    
+<p>The wakeless feature is obtained by placing the twin propellers in channels provided in the bottom of the hull.</p></div1>
+    
+<div1><head type="sub">HOW OLD IS MAN?</head>
+    
+<cb n="1" />
+    
+<p>FOR $100, more or less, you can have an expert on ancestry dig into the dusty annals of the past and trace your lineage back to the time when your esteemed forefather was a second cousin, by marriage, to the royal dish-washer of King Arthur of the Round Table. Some folks can trace their honorable ancestors as far back as 1000 years, some farther.</p>
+    
+<p>Theodore Roosevelt, who has made extensive study of the races and ages of man, assures us, in a recent number of the <hi rend="italic">National Geographic Magazine,</hi> that human creatures inhabited this planet as far back as 500,000 years. Nobody can trace his particular family tree to such distant roots as that.</p>
+    
+<p>Archœologists recently dug up the skull of the gentleman of the 500,000 birthdays, and they termed him the Ape Man of Java. He could not precisely be called a human being, so scientists have labeled him "pre-human."</p>
+    
+<p>Because of the lack of sufficient data, it is impossible to trace the races of the world through their exact stages back to the beginning of things. Rocks and implements and bones, however, have given us much help.</p>
+    
+<p>The most complete records of our fighting forebears have been found in France in stone. Followed in rapid succession the Polished Stone, the Bronze and the Iron ages. The records reveal that man came first from Asia, and with him such beasts as the saber-toothed tiger and the woolly rhinoceros.</p>
+    
+<p>Of this age the Heidelberg man, 250,000 years old, is given to us. The Piltdown skull, from a race existing "shortly" before or after the Heidelberg man,&#8212;100,000 to 300,000 years, to be exact,&#8212;was recently unearthed in England.</p>
+    
+<p>The first brainy humans lived in Europe
+
+<cb n="2" />
+
+25,000 years ago; but not until 3000 years ago did the slowly developing brain of our fathers of old make an impression on the world's history.</p></div1>
+    
+<div1><head type="sub">COLLIES THAT ARE EXILES</head>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Todd Carson.</ab>
+<p>These puppies ate destined to make commercial history. They have been sent by the government to herd reindeer in Alaska.</p>
+<figDesc></figDesc>
+</figure>
+    
+<cb n="1" />
+
+<p>JUST because Tom Gordon, who has charge of a herd of reindeer near Point Barrow, Alaska, has discovered that ordinary Lapland dogs make poor deer-herders, these three soft, roly-poly Scotch collies have left their comfortable home in Wisconsin.</p>
+    
+<p>The furry little bundles of mischief, unaware of the hard, cold, bleak existence that stretches before them, are a tiny part of the big plan of the United States to make northern Alaska habitable. It will be their job to help herd the reindeer upon the vast stretches of tundra around Point Barrow. They are the first pups to be sent from the United States so far north. They proceeded north on the coast-guard cutter <hi rend="italic">Bear,</hi> visiting both American and Siberian ports.</p>
+    
+<p>The pride and joy of a friendly crew on the <hi rend="italic">Bear</hi> will have many youthful illusions shattered when Tom Gordon takes them in charge at Point Barrow. Immediately
+    
+<cb n="2" />
+    
+they will become plain dogs, integral parts of a mighty pack.</p>
+    
+<p>Men who have been sent north to educate the Esquimaux will train the dogs in the task upon which hinges the very life of the community. For the people who inhabit that dreary stretch of ice and snow rely almost exclusively upon the reindeer for food and traction.</p>
+    
+<p>A herd of reindeer was imported from Siberia in 1891 for $6000. Since then the herd has increased to 60,000.</p>
+    
+<p>Last winter Alaskan reindeer meat was sold in Seattle. It even found its way to the menus of the transcontinental trains. If these collie pups attend to their herding, perhaps fillet of reindeer may come down within reach of our pocketbooks.</p>
+    
+<p>The girl in the photograph? Oh, she's only there for decorative purposes. Her father is Captain C. S. Cochran of the <hi rend="italic">Bear.</hi></p></div1>
+    
+<div1><head type="sub">ARE YOU "MATHEMATICAL" AT CARDS?</head> 
+    
+<cb n="1" />
+    
+<p>ALL of us have complained, at one time or another, that our friend Bob or Jim or Bill is altogether too lucky at cards. He always seems to hold winning hands, no matter who deals. Invariably he gets up from the poker, bridge, or "rummy" table with most of the money.</p>
+    
+<p>Is he lucky from the standpoint of superstitious beliefs, or do you attribute his winning hands, as scientists do, to a hard, dry mathematical explanation?</p>
+    
+<p>Some of the mightiest mathematical minds the world has known have tackled the mystery of the fifty-two pasteboards. When one of these lightning calculators works out a card game scientifically, the results are enough to make your head swim. If, for instance, you should deal to your partner the twenty-six red cards, and to yourself the twenty-six black cards, you could feel gratified for having done a thing that can happen exactly once in 8,000,000,000 times.</p>
+    
+<p>The next time you hold an all-trump hand in bridge, five hundred, or whist, pat yourself on the back for achieving a mathematical miracle&#8212;for it happens only once in 158,753,389,900 deals.</p>
+    
+<p>Nearly every one of us has played whist, although few of us have held what is called a "Yarborough" hand. The name is derived from the entertaining habit of a certain Lord Yarborough, who used to make the attractive but perfectly safe wager of £1000 to £1 that such a hand would not be dealt in one evening. The hand in question was one that contained no card above the nine-spot. He is said to have made this wager thousands of times without losing.</p>
+    
+<p>R. A. Proctor, an authority on chances, contends that Lord Yarborough had the odds all in his favor. He should have
+
+<cb n="2" />
+    
+offered £1827 to £1, as one hand in 1827 is, mathematically, a Yarborough.</p>
+    
+<p>"It has been computed," says one of the characters in "Sans Merci," "that 11,000 Englishmen, once heirs to fair fortunes, are now wandering about the Continent in a state of destitution, because they would not lead trumps, with five and an honor in their hands."</p>
+    
+<p>And, by the way, the next time you are inclined to bet on somebody else's whist hand, just bear in mind that there are 635,013,559,600 arrangements into which a whist hand can fall.</p></div1>
+
+<div1><head type="sub">ENJOYS HIS "PUP" TENT</head>
+
+<cb n="1" />
+
+<p>WHEN the folks down in Cincinnati see a horse jogging along the street with a flapping tent running length-wise from his shoulders to his tail, they
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from J. R. Schmidt.</ab>
+<p>This peripatetic tent is novel, but it protects Dobbin from the blistering sun of the summer months.></p>
+<figDesc></figDesc>
+</figure>
+
+chuckle; then they laud the indulgence of the driver. He has contrived a roof to shield his charger's back against the blistering sun of July, August, and September.</p>
+    
+<p>The tent is made of light canvas, and is fastened to the wagon-shafts in such a fashion that the horse can back in or walk out, to be harnessed or unharnessed, without disturbing the canvas. The arrangement is similar to the "pup" tents used by our soldier boys on the border.</p></div1>
+    
+<div1><head type="sub">SHORT AND INTERESTING</head>
+    
+<p>AN Oklahoma man makes his living by taking several ferrets to a rat-infested farm, and ridding the place of rodents at five cents per head.</p>
+    
+<p>THE Germans have made use of a Belgian machine for digging canals as a trench-digger. In one minute it excavates a cubic meter of ditch. In favorable ground it can advance more than 100 yards in an hour, which is equal to the work of 200 men with pick and shovel. It can be employed only well to the rear of the firing line.</p> <closer><signed><hi rend="italic">Scientific American.</hi></signed></closer></div1>
+    
+<div1><p>TO write a single letter of the alphabet requires from two to three hundred thousand processes, all of which are controlled by the mind. All these motions started by the brain occur almost instantaneously, but if they were to be performed consciously, years would be consumed in the process of writing one letter in a word.</p> <closer><signed><hi rend="italic">Tid-Bits.</hi></signed></closer></div1>
+    
+<div1><p>NORSE has now been put on the same basis as German, French, Latin, and Greek at the University of Wisconsin. It may be studied in fulfilment of the regular language requirements for degrees.</p> <closer><signed><hi rend="italic">University of Wisconsin Bulletin.</hi></signed></closer></div1>
+
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19161016.p019" />
+
+<text type="fiction" xml:id="bartlett.19161016.jump">
+<body>
+
+<head type="main">The Triflers</head>
+<p rend="jumpline"><ref target="bartlett.19161016">Continued from page 15</ref></p>
+    
+<cb n="1" />
+
+<p>"That's over, anyhow," he said.</p>
+    
+<p>Hearing a queer noise behind him, he turned. There stood Marie, sniffling and wiping her eyes.</p>
+    
+<p>"Good heavens," he demanded, "what's this?"</p>
+    
+<p>Marjory instantly moved to the girl's side.</p>
+    
+<p>"There&#8212;there," she soothed her gently; "it's only the excitement, <hi rend="italic">n'est ce pas?</hi>"</p>
+    
+<p>"Yes, madame; and you know I wish you all happiness."</p>
+    
+<p>"And me also?" put in Monte.</p>
+    
+<p>"It goes without saying that m'sieur will be happy."</p>
+    
+<p>He thrust some gold into her hand.</p>
+    
+<p>"Then drink to our good health with your friends," he suggested.</p>
+    
+<p>Calling a taxicab, he assisted her in; but before the door closed Marjory leaned toward her and whispered in her ear:</p>
+    
+<p>"You will come back to the hotel at six?"</p>
+    
+<p>"Yes, madame."</p>
+    
+<p>So Marie went off to her cousin, looking in some ways more like a bride than her mistress.</p>
+    
+<p>MARJORY preferred to walk. She wanted to get back again to the mood of half an hour ago. She must in some way get Peter Noyes out of her mind. So quite aimlessly they moved down the Avenue Montaigne.</p>
+    
+<p>She laughed a little. "The minister was terribly serious, wasn't he, Monte?"</p>
+    
+<p>"Too darned serious," he nodded. "But, you see, he didn't know. I suppose the cross-your-throat, hope-to-die kind of marriage is serious. That's the trouble with it."</p>
+    
+<p>"Yes; that's the trouble with it."</p>
+   
+<p>"I can see Chic coming down the aisle now, with his face chalk-white and&#8212;"</p>
+    
+<p>"Don't!" she broke in.</p>
+    
+<p>He looked down at her&#8212;surprised.</p>
+    
+<p>"My comrade," he said, "what you need is to play a little."</p>
+    
+<p>"Yes," she agreed eagerly.</p>
+    
+<p>"Then where shall we go? The world is before you."</p>
+    
+<p>He was in exactly the mood to which she herself had looked forward&#8212;a mood of springtime and irresponsibility. That was what he should be. It was her right to feel like that also.</p>
+    
+<p>"Oh," she exclaimed, "I'd like to go to all the places I couldn't go alone! Take me."</p>
+    
+<p>"To the Café de Paris for lunch?"</p>
+    
+<p>She nodded.</p>
+    
+<p>"To the races afterward and to the Riche for dinner?"</p>
+    
+<p>"Yes, yes."</p>
+    
+<p>"So to the theater and to Maxim's?"</p>
+    
+<p>Her face was flushed as she nodded again.</p>
+    
+<p>"We're off!" he said, taking her arm.</p>
+    
+<p>THE afternoon left Marjory no time to think. She was caught up by the gay, care-free crowd and swept around in a dizzy circle. Yet always Monte was by her side.</p>
+    
+<p>Then she was whirled back to the hotel and to Marie, with no more time than was necessary to dress for dinner. Marie thought madame's cheeks did not look like a good sign.</p>
+    
+<p>"I hope madame&#8212;"</p>
+    
+<p>"Have you so soon forgotten what I asked of you?" Marjory interrupted.</p>
+    
+<p>"I hope mam'selle," Marie corrected herself, "has not caught a fever."</p>
+    
+<p>"I should hope not," exclaimed Marjory. "What put that into your head?"</p>
+    
+<p>"Mam'selle's cheeks are very hot."</p>
+    
+<p>Marjory brought her hand to her face. It did not feel hot, because her hands were equally hot.</p>
+    
+<p>"It is nothing but the excitement that brings the color," she informed Marie. "I have been living almost like a nun; and now&#8212;to get out all at once takes away one's breath."</p>
+    
+<p>"Also being a bride."</p>
+    
+<p>"Marie!"</p>
+    
+<p>"<hi rend="italic">Eh Bien,</hi> madame&#8212;mademoiselle was married only this morning."</p>
+    
+<cb n="2" />
+    
+<p>"You do not seem to understand," Marjory explained; "but it is necessary that you should understand. Monsieur Covington is to me only like&#8212;like a big brother. It is in order that he might be with me as a big brother we went through the ceremony. People about here talk a great deal, and I have taken his name to prevent that. That is all. And you are to remain with me and everything is to go on exactly as before, he in his apartments and we in ours. You understand now?"</p>
+    
+<p>At least, Marie heard.</p>
+    
+<p>"It is rather an amusing situation, is it not?" demanded Marjory.</p>
+    
+<p>"I&#8212;I do not know," replied Marie.</p>
+    
+<p>"Then in time you shall see. In the meanwhile, you might smile. Why do you not smile?"</p>
+    
+<p>"I&#8212;I do not know," Marie replied honestly.</p>
+    
+<p>Though Marie was by no means convinced, she was ready to drop the matter in her admiration of the picture her mistress made when properly gowned. Whether she wished or not, madame, when she was done with her this evening, looked as a bride should look. And monsieur, waiting below, was worthy of her.</p>
+    
+<p>In his evening clothes he looked at least a foot taller than usual. Marie saw his eyes warm as he slipped over madame's beautiful white shoulders her evening wrap.</p>
+    
+<p>Before madame left she turned and whispered in Marie's ear.</p>
+    
+<p>"I may be late," she said; "but you will be here when I return."</p>
+    
+<p>"Yes, mam'selle."</p>
+    
+<p>"Without fail?"</p>
+    
+<p>"Yes, mam'selle."</p>
+    
+<p>Marie watched monsieur take his bride's arm as they went out the door, and the thing she whispered to herself had nothing to do with madame at all.</p>
+    
+<p>"Poor m'sieur!" she said.</p>
+    
+<p>IT was all new to Marjory. In the year and a half she had lived in Paris with her aunt she had dined mostly in her room. Such cafés as this she had seen only occasionally from a cab on her way to the opera. As she stood at the entrance to the big room, which sparkled like a diamond beneath a light, she was as dazed as a débutante entering her first ball-room. The head waiter, after one glance at Monte, was bent upon securing the best available table. Here was an American prince, if ever he had seen one.</p>
+    
+<p>Had m'sieur any choice?</p>
+    
+<p>Decidedly. He desired a quiet table in a corner, not too near the music.</p>
+    
+<p>Such a table was immediately secured, and as Covington crossed the room with Marjory by his side he was conscious of being more observed than ever he had been when entering the Riche alone. His bandaged arm lent him a touch of distinction, to be sure; but this served only to turn eyes back again to Marjory, as if seeking in her the cause for it. She moved like a princess, with her head well up and her dark eyes brilliant.</p>
+    
+<p>"All eyes are upon you," he smiled, when he had given his order.</p>
+    
+<p>"If they are it's very absurd," she returned.</p>
+    
+<p>Also, if they were, it did not matter. That was the fact she most appreciated. With Monte opposite her, she was at liberty to meet men's eyes and study them with interest. There was no danger. It was they who turned away from her&#8212;after a glance at Monte. It amused her to watch them turn away; it gave her a new sense of power. But of one thing she was certain: there was not a man in the lot with whom she would have felt comfortable to be here as she felt comfortable with Monte.</p>
+    
+<p>Monte was having a very pleasant time of it. The thing that surprised him was the way Marjory quickened his zest in old things that had become stale. Here, for instance, she took him back to the days when he had responded with a piquant
+
+<figure n="advertisement">
+<head>You're as Old as You Feel&#8212;Regardless of Actual Age</head>
+<p></p>
+<figDesc>Advertisement for Pabst Extract Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Sunshine Biscuits</head>
+<p></p>
+<figDesc>Advertisement for Loose-Wiles Biscuit Company.</figDesc>
+</figure>
+    
+<pb n="Page 20" xml:id="ew.issue.19161016.p020" />
+    
+<figure n="advertisement">
+<head>Cat's Paw Cushion Rubber Heels</head>
+<p></p>
+<figDesc>Advertisement for Foster Rubber Co.</figDesc>
+</figure>
+    
+<cb n="1" />
+    
+tingle to the lights and the music and the gay Parisian chatter, to the quick glance of smiling eyes where adventure lurked.</p>
+    
+<p>With the coffee he lighted a cigarette and leaned back contentedly until it was time to go.</p>
+    
+<p>As they went out of the room he was aware that once again all eyes were turned toward her, so that he threw back his shoulders a little farther than usual and looked about with some scorn at those who had with them only ordinary women.</p>
+    
+<p>THE comedy at the Gymnase was sufficiently amusing to hold her attention, and that was the best she could ask for; but Monte watched it indifferently, resenting the fact that it did hold her attention. Besides, there were too many people all about her here. For two hours and a half it was as if she had gone back into the crowd. He was glad when the final curtain rang down and he was able to take her arm and guide her out.</p>
+    
+<p>"Maxim's next?" he inquired.</p>
+    
+<p>"Do you want to go?" she asked.</p>
+    
+<p>"It's for you to decide," he answered.</p>
+    
+<p>She was dead tired by now, but she did not dare to stop.</p>
+    
+<p>"All right," she said; "we'll go."</p>
+    
+<p>It was a harlequin crowd at Maxim's&#8212;a noisier, tenser, more hectic crowd than at the Riche. The room was gray with smoke, and everywhere Marjory looked were gold-tipped wine bottles. Though it was still early, there was much hysterical laughter and much tossing about of long streamers of colored paper and confetti. As they entered she instinctively shrank away from it. Had the waiter delayed another second before leading them to a table, she would have gone out.</p>
+    
+<p>Monte ordered the wine he was expected to order, but Marjory scarcely touched it to her lips, while he was content to watch it bubble in his glass. He did not like to have her here, and yet it was almost worth the visit to watch her eyes grow big, to watch her sensitive mouth express the disgust she felt for the mad crowd, to have her unconsciously hitch her chair nearer his.</p>
+    
+<p>"The worst of it is," he explained to her, "it's the outsiders who are doing all this&#8212;Americans, most of them."</p>
+    
+<p>Suddenly, from behind them, a clear tenor voice made itself heard through the din. The first notes were indistinct; but in a few seconds the singer had the room to himself. Turning quickly, Marjory saw the slender figure of Hamilton, swaying slightly, standing by a table, his eyes leveled upon hers. He was singing "The Rosary"&#8212;singing it as only he, when half mad, could sing it.</p>
+    
+<p>She clutched Monte's hand as he half rose from his seat.</p>
+    
+<p>"Please," she whispered, "it's best to sit still."</p>
+    
+<p>Stronger and stronger the plaintive melody fell from the singer's lips, until finally the orchestra joined. Women strained forward, and half dazed men listened with bated breath. Even Monte forgot for a moment the boldness that inspired Hamilton, and became conscious only of Marjory's warm fingers within his. So, had the singer been any one else, he would have been content to sit to the end. But he knew the danger there. His only alternative, however, was to rise and press through the enraptured crowd, which certainly would have resented the interruption. It seemed better to wait, and go out during the noisy applause that was sure to follow.</p>
+    
+<p>At the second verse Hamilton, still singing, came nearer. A path opened before him, as before an inspired prophet. It was only Monte who moved his chair slightly and made ready. Still there was nothing he could do until the man committed some overt act. When Hamilton concluded his song he was less than two feet away. By then Monte was on his feet. As the applause swept from every corner of the room, Hamilton seized from a near-by table a glass of wine, and, raising it, shouted a toast:</p>
+    
+<p>"To the bride."</p>
+    
+<p>The crowd followed his eyes to the shrinking girl behind Monte. In good humor they rose, to a man, and joined in,
+
+<cb n="2" />
+
+draining their glasses. It was Monte's opportunity. Taking Marjory's arm, he started for the door.</p>
+    
+<p>But Hamilton was madder than he had ever been before. He ran forward, laughing hysterically.</p>
+    
+<p>"Kiss the bride," he called.</p>
+    
+<p>This he actually attempted. Monte had only his left arm, and it was not his strongest; but back of it he felt a new power. He took Hamilton beneath the chin, and with a lurch the man fell sprawling over a table among the glasses. In the screaming confusion that followed, Monte fought his way to the door, using his shoulders and a straight arm to clear a path. In another second he had lifted Marjory into a cab.</p>
+    
+<p>Leaning forward, she clutched his arm as the cab jumped ahead.</p>
+    
+<p>"I'm sorry I had to make a scene," he apologized. "I shouldn't have hit him, but&#8212;I saw red for a second."</p>
+    
+<p>She would never forget that picture of Monte standing by her side, his head erect, his arm drawn back for the second blow which had proved unnecessary. All the other faces surrounding her had faded into a smoky background. She had been conscious of him alone, and of his great strength. She had felt that moment as if his strength had literally been hers also. She could have struck out, had it been necessary.</p>
+    
+<p>"You didn't hurt your shoulder, did you?" she asked anxiously.</p>
+    
+<p>He did not know&#8212;it did not much matter. Had Hamilton actually succeeded in reaching her lips, he would have torn his wounded arm from the bandages and struck with that too. He had never realized until then how sacred her lips were. He had known them only as beautiful. They were beautiful now as he looked down at them. Slightly parted, they held his eyes with a strange new fascination. They were alive, those lips. They were warm and pulsating. He found himself breathing faster because of them. He seemed, against his will, to be bending toward them. Then, with a wrench, he tore himself free from the spell, not daring to look at her again.</p>
+    
+<p>LEAVING her to Marie at the door of her room, Monte went into his own apartment. He threw open a window, and stood there in the dark with the cool night breeze blowing in upon him. After Maxim's, the more clean air the better; after what had followed in the cab, the more cool air the better.</p>
+    
+<p>He was still confused by it; still frightened by it. For a moment he had felt himself caught in the clutch of some power over which he had no control. That was the startling truth that stood out most prominently. He had been like one intoxicated&#8212;he who never before in his life had lost a grip upon himself. That fact struck at the very heart of his whole philosophy of life. Always normal&#8212;that had been his boast; never losing his head over this thing or that. It was the only
+way a man could keep from worrying. It was the only way a man could keep sane. The moment you wanted anything like the devil, then the devil was to pay. This evening he had proved that.</p>
+    
+<p>He went back to the affair at Maxim's. He should have known better than to take her there, anyway. She did not belong in such a place. She did not belong anywhere he had taken her to-day. To-morrow&#8212;but all this was beside the point.</p>
+    
+<p>The question that he would most like to answer at this moment was whether this last wild episode of Hamilton's was due to absinthe or to that same weird passion which a few weeks before had led the man to shoot. It had been beastly of Hamilton to try to reach her lips. That, doubtless, was the absinthe. It robbed him of his senses. But the look in the man's eyes when he sang, the awful hunger that burned in them when he gave his mad toast&#8212;those things seemed to spring from a different source. The man, in a room full of strangers, had seen only her, had sung only to her. Monte doubted if the crazed fellow saw even him. He saw no one but this one woman. That was madness&#8212;but it did not come from absinthe.
+
+<cb n="3" />
+
+The absinthe may have caused the final utter breakdown of Hamilton's self-control here and at Madame Courcy's&#8212;but that the desire could be there without absinthe Monte had twice proved to himself that evening.</p>
+    
+<p>Once was when he had struck Hamilton. He alone knew that when he hit that time it was with the lust to kill&#8212;even as Hamilton had shot to kill. The feeling lasted only the fraction of a second&#8212;merely while his fist was plunging toward Hamilton's chin. But, however brief, it had sprung from within him&#8212;a blood-red, frenzied desire to beat down the other man. At the moment he was not so much conscious of trying to protect her as to rid himself of Hamilton.</p>
+    
+<p>The second mad moment had come in the cab, when he had looked down at her lips. As the passion to kill left him, another equally strong passion had taken its place. He had hungered for her lips&#8212;the very lips Hamilton, a moment before, had attempted to violate. He who all his life had looked as indifferently upon living lips as upon sculptured lips had suddenly found himself in the clutch of a mighty desire. For a second he had swayed under the temptation. He had been ready to risk everything, because for a heart-beat or two nothing else seemed to matter. In his madness, he had even dared think that delicate, sensitive mouth trembled a like desire.</p>
+    
+<p>Even here in the dark, alone, something of the same desire returned. He began to pace the room.</p>
+    
+<p>HOW she would have hated him had he yielded to that impulse! He shuddered as he imagined the look of horror that would have leaped into her dark eyes. Then she would have shrunk away frightened, and her eyes would have grown cold&#8212;those eyes that had only so lately warmed at all. Her face would have turned to marble&#8212;the face that only so lately had relaxed.</p>
+    
+<p>She trusted him&#8212;trusted him to the extent of being willing to marry him to save herself from the very danger with which he had threatened her. Except that at the last moment he had resisted, he was no better than Hamilton.</p>
+    
+<p>In her despair she had cried, "Why won't they let me alone?" and he had urged her to come with him, so that she might be let alone. He was to be merely her <hi rend="italic">camarade de voyage</hi>&#8212;her big brother. Then, in less than twelve hours, he had become like the others. He felt unfit to remain in the next room to her&#8212;unfit to greet her in the morning. In an agony of remorse, he clenched his fists.</p>
+    
+<p>He drew himself up short. A new question leaped to his brain. Was this, then, love? The thought brought both solace and fresh terror. It gave him at least some justification for his moment of temptation; but it also brought vividly before him countless new dangers. If this were love, then he must face day after day of this sort of thing. Then he would be at the mercy of a passion that must inevitably lead him either to Hamilton's plight or to Chic Warren's equally unenviable position. Each man, in his own way, paid the cost: Hamilton, mad at Maxim's; Chic pacing the floor, with beaded brow. With these two examples before him, surely he should have learned his lesson. Against them he could place his own normal life&#8212;ten years of it without a single hour such as these hours through which he was now living.</p>
+    
+<p>That was because he had kept steady. Ambition, love, drunkenness, gluttony&#8212;these were all excesses. His own father had desired mightily to be governor of a State, and it had killed him; his grandfather had died amassing the Covington fortune; he had friends who had died of love, and others who had overdrunk and overeaten. The secret of happiness was not to want anything you did not have. If you went beyond that, you paid the cost in new sacrifices, leading again to sacrifices growing out of those.</p>
+    
+<p>Monte lighted a cigarette and inhaled a deep puff. The thing for him to do was fairly clear: to pack up his bag and leave while he still retained the use of his 
+
+<pb n="Page 21" xml:id="ew.issue.19161016.p021" />
+    
+<cb n="1" />
+    
+reasoning faculties. He had been swept off his eet for an instant, that was all. Let him go on with his schedule for a month, and he would recover his balance.</p>
+    
+<p>The suggestion was considerably simplified by the fact that it was not necessary to consider Marjory in any way. He would be in no sense deserting her, because she was in no way dependent upon him. She had ample funds of her own, and Marie for company. He had not married her because of any need she had for him along those lines. The protection of his name she would still have. As Mrs. Covington she could travel as safely without him as with him. Even Hamilton was eliminated. He had received his lesson. Anyway, she would probably leave Paris at once for Etois, and so be out of reach of Hamilton.</p>
+    
+<p>MONTE wondered if she would miss him. Perhaps, for a day or so; but, after all, she would have without him the same wider freedom she craved. She would have all the advantages of a widow without the necessity of admitting that her husband was dead. He would always be in the background&#8212;an invisible guard. It was odd that neither she nor he had considered that as an attractive possibility. It was decidedly more practical than the present arrangement.</p>
+    
+<p>As for himself, he was ready to admit frankly that after to-day golf on an English course would for a time be a bore. From the first sight of her this morning until now, he had not had a dull moment. She had taken him back to the days when his emotions had been quick to respond to each day as a new adventure in life.</p>
+    
+<p>It was last winter in Davos he had first begun to note the keen edge of pleasure becoming the least bit dulled. He had followed the routine of his amusements almost mechanically. He had been conscious of a younger element there who seemed to crowd in just ahead of him. Some of them were young ladies he remembered having seen with pig-tails. They smiled saucily at him&#8212;with a confidence that suggested he was no longer to be greatly feared. He could remember when they blushed shyly if he as much as glanced in their direction. His schedule had become a little too much of a schedule. It suggested the annual tour of the middle-aged gentlemen who follow the spas and drink of the waters.</p>
+    
+<p>He felt all those things now even more keenly than he had at the time. Looking back at them, he gained a new perspective that emphasized each disagreeable detail. But he had only to think of Marjory as there with him and&#8212;presto, they vanished. Had she been with him at Davos&#8212;better still, were she able to go there
+
+<cb n="2" />
+
+with him next winter&#8212;he knew with what joy she would sit in front of him on the bob-sled and take the breathless dip of the Long Run. He knew how she would meet him in the morning with her cheeks stung into a deep red by the clean cold of the mountain air. She would climb the heights with him, laughing. She would skate with him and ski with him, and there would be no one younger than they.</p>
+    
+<p>Monte again began to pace his room. She must go to Davos with him next winter. He must take her around the whole schedule with him. She must go to England and golf with him, and from there home to his camp. She would love it there. He could picture her in the woods, on the lake, and before the campfire beneath the stars.</p>
+    
+<p>From there they would go on to Cambridge for the football season. She would like that. As a girl she had been cheated of all the big games, and he would make up for it. So they would go on to New York for the holidays. He had had rather a stupid time of it last year. He had gone down to Chic's for Christmas, but had been oppressed by an uncomfortable feeling that he did not belong there. Mrs. Chic had been busy with so many presents for others that he had felt like old Scrooge. He had made his usual gifts to relatives, but only as a matter of habit. With Marjory with him, he would be glad to go shopping as Chic and Mrs. Chic did. He might even go on to Philadelphia with her and look up some of the relatives he had lately been avoiding.</p>
+    
+<p>WHERE in thunder had his thoughts taken him again? He put his head in his hands. He had carried her around his whole schedule with him just as if this were some honest-to-God marriage. He had done this while she lay in the next room peacefully sleeping in perfect trust.</p>
+    
+<p>She must never know this danger, nor be further subjected to it. There was only one safe way&#8212;to take the early train for Calais without even seeing her again.</p>
+    
+<p>Monte sat down at the writing desk and seized a pen.</p>
+    
+<p><hi rend="italic">Dear Marjory</hi> [he began]: Something has come up unexpectedly that makes it necessary for me to take an early train for England. I can't tell how long I shall be gone, but that of course is not important. I hope you will go on to Etois, as we had planned; or, at any rate, leave Paris. Somehow, I feel that you belong out under the blue sky and not in town.</p>
+    
+<p>He paused a moment and read over that last sentence. Then he scratched it out. Then he tore up the whole letter.</p>
+    
+<p>What he had to say should not be written. He must meet her in the morning and tell her like a man.</p>
+    
+<p rend="jumpline"><ref target="bartlett.19161023.jump">To be continued next week</ref></p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="anobleend.19161016">
+<body>
+
+<head type="main">A Noble End</head>
+<cb n="1" />
+
+<p>BACK in the days of Pocahontas, sheath-skirts, and dinosaurs, a buffalo hunt was thought no more exciting than we think a game of croquet. But gone are the days when the amiable dinosaur loped over the country. Only the buffalo survives to attain immortality in the moving picture films. And even the buffalo are few and far between, whether eaten by dinosaurs, trapped by Pocahontas,
+
+<cb n="2" />
+
+or petrified with fear by the sheath-skirt. Of all the millions only 2000 are left.</p>
+    
+<p>Mr. A. J. Aylesworth procured a special permit from the Canadian government to institute a buffalo hunt on the Wainwright Reserve, where still live seventeen hundred buffalo. Judging from this action, the burly bison were just as much excited about having their pictures taken as any one of us. At the crack of a pistol the hunt was on. Mr. Wainwright, with his camera, raced after the hunters in a sled, turning the crank at all scenes of importance. One old bull was cut off from the herd and killed. His last words were:</p>
+    
+<p>"My only sorrow is that I have but one life to give the moving pictures&#8212;to-be-exhibited-at-all theaters-for-five-ten-twenty&#8212;passed-by-the-board-of-censors."</p>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from F. J. Dickie.</ab>
+<p>This old gentleman buffalo died a glorious death as the hero of a motion-picture romance.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>60 Books&#8212;Bound in Leather</head>
+<p></p>
+<figDesc>Advertisement for Little Feather Library.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Landa "Preparedness" Billfold</head>
+<p></p>
+<figDesc>Advertisement for A. Landa &amp; Sons Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Look for the Red Plug&#8212;It Prevents Slipping</head>
+<p></p>
+<figDesc>Advertisement for Spring Step.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Advertisements for Real Estate, Patents, Female Help Wanted, Salesmen, Missouri Farm Lands, Corporations, Music Lessons, Photoplays, Stories, Etc.</figDesc>   
+</figure>
+
+</body>
+</text>
+    
+    
+<pb n="Page 22" xml:id="ew.issue.19161016.p022" />
+    
+<!--figure n="advertisement">
+<head>How Present-Day Parents Keep the Hat-Rack Filled</head>
+<p></p>
+<figDesc>Advertisement for The Brunswick-Balke-Collender Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>"Don't Shout"</head>
+<p></p>
+<figDesc>Advertisement for The Morely Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>A Big Job for the Right Boy</head>
+<p></p>
+<figDesc>Advertisement for Every Week Corporation.</figDesc>
+</figure-->
+    
+<text type="nonfiction" xml:id="mosher.19161016">
+<body>
+    
+<head type="main">The Most Costly American Career</head>
+    
+<byline>By <persName type="author" key="#Mosher, John">John Mosher</persName></byline>
+    
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Paul Thompson.</ab>
+<p>On a salary of $17,500 a year, an ambassador must provide himself with a house fit to entertain royalty in.</p>
+<figDesc></figDesc>
+</figure>
+    
+<p>AS the diplomatic corps in a certain European court filed up the grand stairway, each ambassador was formally saluted by the guardsman at each turn on the stairway. The heavy halberds striking the stone floor crashed their obeisance to all except the American minister. This gentleman, dressed in ordinary black evening clothes, was entirely overlooked in the assemblage of gold braid and insignia. He stood the slight as long as he could, and then suddenly swung around on one of the halberdiers, demanding:</p>
+    
+<p>"Whack, damn you."</p>
+    
+<p>In spite of the fact that Europeans generally believe the American population to consist entirely of millionaires, and are willing to concede us our fighting ability, it has taken a lot of this "whack, damn you" spirit to get us our prestige&#8212;across the Atlantic. The most ardent advocates of Jeffersonian simplicity have found that the manners of Jonesville will scarcely succeed in Petrograd. Before the era that Mr. Whitelaw Reid introduced, when he rented the house of the richest commoner in England, the receptions of the American legation amazed London. They were so crowded that famished guests, having waited for an hour or two to get in, could seldom penetrate the throng around the refreshment table, and caterers made a great profit selling sandwiches in odd corners of the ambassador's "back parlor."</p>
+    
+<div1><head type="sub">The Salary of an Ambassador</head>
+    
+<p>IN the last few years a realization of these circumstances has led to the appointment&#8212;at least, the accepted appointment (for several men have turned down the offer because they could not afford it), of only wealthy men to the ambassadorship. The ambassador receives $17,500 a year, and out of that must provide himself with a house fit to entertain royalty in.</p>
+    
+<p>One man, after securing his dwelling, declared he was much puzzled just how he should spend "the remaining hundred dollars of his salary." Much as we boast of the democracy of our country, and vigorously as back-country newspapers approve the simple living of our ministers, our diplomatic service has become a more plutocratic institution than the service of any other country. It has become essentially the occupation of the wealthy.</p>
+    
+<p>As a career for the ordinary man it is not only objectionable on account of its financial requirements, but because in our system alone there is no regular promotion by merit. Not only must a man be prepared, if he attains the highest position, to spend from twelve to twenty thousand dollars a year in addition to his salary, but he can not hope with any certainty to work his way to such a position. If he does secure a good position as secretary or attaché at one of the legations, he may be turned out with the next administration. Although Mr. Wilson and Mr. Taft have both, for the most part, retained the same men, even when they were of the opposite party, there is one instance where at the change in the administration thirty out of thirty-five consuls-general were thrown out of jobs, and 133 out of 183 consuls.</p></div1>
+
+<div1><head type="sub">Why One Diplomat Resigned</head>
+
+<p>ON the other hand, one may remain in the service for years with no more chance of becoming ambassador than has any editor or college president who has distinguished himself at home. A most capable secretary in the legation at Petrograd retired because, as he said:</p>
+    
+<p>"I have been over twelve years in the American diplomatic service as secretary. I have seen the secretaries here from all other countries steadily promoted, until all of them still remaining in the service
+
+<cb n="2" />
+
+are in higher posts, several of them ministers and some ambassadors. I remain as I was at the beginning, with no promotion and no probability of any. I feel that my colleagues, seeing that I have not been advanced, look upon me as a failure."</p>
+    
+<p>Former Minister to Germany Andrew D. White, on retiring, drew up an elaborate system of reform for our service, designed to make it a real career, where a man entering as secretary by examination could work his way from the position of secretary to be diplomatic agent, then minister resident, minister plenipotentiary, and so to an ambassadorship. An ambassador would receive $25,000, besides being provided with a legation. This last specification is far from exorbitant, as not only must the ambassador now bear this great expense, but he must waste much precious time searching for a fitting residence, sometimes very difficult to find. England bought her ambassador in Paris a house for $155,000 (it is now, by the way, worth a million and a half). The French embassy in Berlin cost the government $102,000, and the German embassy in Petrograd $562,500&#8212;though these last investments may possibly not seem the most fortunate investments at the moment.</p></div1>
+
+<div1><head type="sub">The American and the Russian Aristocrats</head>
+    
+<p>BESIDES a private fortune, the diplomat must have paramount tact and poise&#8212;and endurance.</p>
+    
+<p>"The diplomat's life would be tolerable were it not for its pleasures," some one has said. That is quite comprehensible when "pleasure" means standing in crowded hot rooms for three or four hours at some court function. But the real strain lies in the tension of smoothing over the <hi rend="italic">faux pas</hi> of ebullient countrymen&#8212;especially difficult in case of American ministers, as our hearty men of the people are continually shocking the fastidious nobility of Europe. Mr. White described a dinner where several sensitive Russian aristocrats were almost driven from the table by the reminiscences of an American.</p>
+    
+<p>"When those river pirates," this gentleman narrated, "who murdered a sailor in New York harbor had to be hanged, the sheriff of the county hadn't the nerve to do it and ordered me to hang them. I rather hated the business, but I made everything ready, and when the time came I took an extra glass of brandy, cut the rope, and away they swung."</p>
+    
+<p>Mr. White broke the silence that followed with a hasty explanation that in America the business of hanging was
+
+<cb n="3" />
+
+considered so important that it was given to the chief officials. But even this could only partially reconcile the Russians to the indignity of dining with a hangman.</p>
+    
+<p>Diplomacy with a small <hi rend="italic">d</hi> is needed quite as often with cranks from our own country as in dealings with the foreign temperament. It takes all the art granted human beings to handle those wild-eyed gentlemen who must see the Czar at once on a personal matter, or those urgent ladies who write that the family inheritance awaits them in the imperial treasury, and "Will you please see about it at once." And one ambassador remembers a fellow citizen writing him to send a peck of turnips.</p></div1>
+    
+<div1><head type="sub">An Incident of the Czar's Visit to England</head>
+    
+<p>IN no other position in the world must one more obliterate his personal feelings. An eccentricity may bring about endless complications; an involuntary display of personal feeling necessitates all sorts of apologies and explanations to persons of importance who conceive themselves to be in some way injured. Fox, minister for Queen Victoria to Washington, almost reopened the wounds of 1812, so angry were lofty officials when he drove to a prominent political wedding, in the absence of other conveyances, in a hearse.</p>
+    
+<p>At the time of the visit of the Czar to Queen Victoria, the wife of the Russian ambassador had the importunity to die. The minister knew how important it was that his domestic affairs should not be allowed to interrupt the pleasures of royalty. He gave orders to his household that his wife's death must be kept absolutely secret, and answered all inquiries as to her health with: "Thank you; madame is in the same condition." Thus the Czar's visit was saved any disconcerting unpleasantness.</p>
+    
+<p>More recently Mrs. Nelson O'Shaughnessy, wife of the ambassador to Mexico before relations were broken off there, had to maintain the appearance of open-house hospitality during a time when she was momentarily expecting war to be declared and the embassy to be attacked. She could not omit any function or even pack her things, lest an alarm spread as to the intentions of the government. On the afternoon preceding her flight from Mexico City she held her usual tea, though a squad of Mexican soldiers interrupted it to take away the arms and munitions stored in the embassy for its protection. At half past seven, just after her last guest had gone, Huerta himself called to inform her that her train would leave at eleven-thirty that night. As he said good-by to her, on her veranda dressed in a gray sweater and soft hat, he ended with:</p>
+    
+<p>"All that is done I must do myself. Here I remain. The moment has not come for me to go. Nothing but death could remove me now."</p>
+    
+<p>At least one thing can be said about the diplomatic life. More than in any other are you uncertain of what will come next. The caprice of a monarch, the adroitnes of an anarchist, may reverse the whole tenor of your way. When Brand Whitlock went to Belgium he couldn't find anything to do. He was bored&#8212;terribly bored. It was much more stimulating, he decided, handling a Toledo newspaper. He was so bored, in fact, that he began to write a novel. He had just got to Chapter 8&#8212;describing a man hoeing a corn-field in Indiana&#8212;when the Grand Duke was assassinated in Serbia, some hundreds of miles away. In the weeks that followed Belgium became the most-talked-of country in the world, and Mr. Whitlock suddenly discovered that a minister plenipotentiary sometimes has enough to do. And that man is still hoeing the corn-field in Chapter 8.</p></div1>
+
+<note place="bottom-margin" type="Copyright">Copyright, 1916, Every Week Corporation: John H. Hawley. President; J. F. Bresnahan, Vice-President; Bruce Barton, Secretary; R. M. Donaldson, Treasurer; 95 Madison Avenue, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada. S1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y , under the Act of March 3, 1879.</note> 
+    
+</body>
+</text>
+    
+<pb n="Page 23" xml:id="ew.issue.19161016.p023"/>
+    
+<text type="advertisement" xml:id="latrobe.19161016">
+<body>
+    
+<figure n="advertisement">
+<head>4 Books</head>
+<p></p>
+<figDesc>Advertisement for L. R. Latrobe &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>$100 Bonds</head>
+<p></p>
+<figDesc>Advertisement for Merrill, Lynch &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Cities Service</head>
+<p></p>
+<figDesc>Advertisement for Williams, Troth &amp; Coleman.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>The Odd Lot Review</head>
+<p></p>
+<figDesc>Advertisement for The Odd Lot Review.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Women Earn Much This Way</head>
+<p></p>
+<figDesc>Advertisement for Oliver Typewriter Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Kidder's Pastilles</head>
+<p></p>
+<figDesc>Advertisement for Stowell &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head></head>
+<p>All contributions to this Magaxine should be addressed to THE EDITOR</p>
+<figDesc>Advertisement for Every Week.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="atwood.19161016">
+<body>
+    
+<head type="main">If You Want to Succeed, Read the Lives of Successful Men</head>
+<byline>By <persName type="author" key="#Atwood, Albert W.">ALBERT W. ATWOOD</persName></byline>
+    
+<cb n="1"/>
+    
+<p>YOUNG men who contemplate a business or financial career often make inquiry as to what books will be most helpful and stimulating. This question was answered, in part, under the title of "Can a Bank Clerk Win Promotion?" in this magazine of March 20, and to a greater extent in my booklet, "Making Your Money Work for You." But in neither place is any mention made of a most important class of books, namely, the reminiscences, biographies, and autobiographies of great business leaders, bankers, ministers of finance, and statesmen.</p>
+    
+<p>Not long ago an industrious newspaper man took a census of the favorite brand of literature perused by the present railroad, industrial, and financial leaders. What do you suppose most of them find interesting and inspiring in their moments of leisure? Fiction for the "tired business man"? No&#8212;books on the lives of the world's greatest men, ancient and modern.</p>
+    
+<p>If you want really to learn how great business leaders succeed, read a few authoritative biographies wherein is set forth the complete story of the man's life.</p>
+    
+<p>Perhaps the most valuable biography is E. P. Oberholtzer's <hi rend="italic">Life of Jay Cooke</hi>,financier of the Civil War. There are two big volumes, full of details, not all of which are important. But the book as a whole leaves an impression similar to the greatest work of fiction, poetry, or drama.</p>
+    
+<p>The <hi rend="italic">Life of Jay Cooke</hi> can not be purchased, for it is out of print; but most large libraries have a copy. In general, public libraries are the places to go to find good biographies. They are usually placed in a special section, and librarieans are usually glad to suggest additional reading.</p>
+    
+<p>Next to the <hi rend="italic">Life of Jay Cooke</hi> I would suggest Beckles Willson on the Life of Lord Strathcona and Mount Royal, the Grand Old Man of Canada, the employee of the Hudson Bay Company who, beginning
+    
+<cb n="2"/>
+    
+in fur-trading days, built up a great political, business, and financial empire out of a wilderness. Like the <hi rend="italic">Life of Jay Cooke</hi>, that of Lord Strathecona is more or less concerned with subjects that are especially timely now.</p>
+    
+<p>There is a little good reading, not much, in John D. Rockefeller's <hi rend="italic">Random Reminiscences of Men and Events.</hi> Too much is left unsaid. The real biography of Rockefeller has not yet been written. James J. Hill and Andrew Carnegie have written about themselves more fully than Rockefeller, but not enough at that. A great biography of E. H. Harriman was prepared, but suppressed. Material is now being gathered for a real life story of J. P. Morgan. Meanwhile Carl Hovey's so-called <hi rend="italic">Life Story of J. Pierpont Morgan</hi> makes interesting reading, though it does not get deep enough into the subject. A really valuable work into the subject. A really valuable work, treating of a number of different financiers, was <hi rend="italic">Masters of Capital in America</hi>, by Moody and Turner, which appeared some years ago in magazine form, but has never been put into book form. I can not recommend it too highly for young men who would like to know something about the structure of the financial world.</p>
+    
+<p>There is inexhaustible material for stimulus, inspiration, and knowledge in the lives of statesmen who have had to deal with great national issues of finance. Read Herbert Croly on Marcus Alonzo Hanna. For a long and carefully selected list of such books see "Suggestions to Students" at the beginning of Professor Dewey's valuable <hi rend="italic">Financial History of the United States</hi>, a text-book to be found in any library. Read the libes of such men as Robert Morris, Stephen Girand, Alexander Hamilton, Andrew Jackson, James Gallatin, Salmon P. Chase, Alexander H. Stevens, Judah P. Benjamin, and Thomas B. Reed. Of course there is always stimulus to any one in reading the lives of such men as Abraham Lincoln and Robert E. Lee.</p>
+    
+<div1><head type="sub">Free Booklets that You May Have for the Asking</head>
+
+<p><hi rend="italic">Arrangements have been made by which any reader mentioning this magazine may have any or all of the following booklets on request.</hi></p>
+
+<p><hi rend="agate">Write Slattery &amp; Co., 40 Exchange Place, New York, for pamphlet giving list of Standard Oil: which have piled up sufficient surplus to warrant near-by large extra cash or stock dividend. Ask for 25-E, including booklet explaining the Twenty-Payment Plan.</hi></p>
+
+<p><hi rend="agate">The partial-payment method of saving and investing is interestingly described in Booklet L-2, entitled "The Partial-Payment Plan," which will be sent to any applicant by Sheldon, Morgan &amp; Co., members New York Stock Exchange, 42 Broadway, New York.</hi></p>
+
+<p><hi rend="agate">The <hi rend="italic">American Investor</hi> is a monthly magazine of human and timely interest. The publishers will send a complimentary copy to any one interested in making sound investments. Address Department 12, 10 Pine Street, New York City.</hi></p>
+
+<p><hi rend="agate">The Citizens Savings &amp; Trust Co., of Cleveland, Ohio, will furnish to our readers, upon request, Booklet P, which contains sonic very interesting information on banking by mail.</hi></p>
+
+<p><hi rend="agate">The <hi rend="italic">Odd Lot Review</hi> is a weekly publication written in plain English, in terms which the average man can understand. It aims to give a common-sense view of small investment opportunities. Sample copies will be sent on application to the publishers, 61 Broadway, New York City.</hi></p>
+
+<p><hi rend="agate">A calendar of approximate dividend dates of stocks listed on the New York Stock Exchange will be sent by Baruch Brothers, members New York Stock Exchange, 60 Broadway, New York. The firm will also send their booklet on Odd Lots, outlining their Instalment Payment Plan, on request.</hi></p>
+
+<p><hi rend="agate">A 64-page book containing 150 photographs and graphic chart, showing stability of earnings of electric and gas companies when grouped in large holding companies, is issued by Standard Gas and Electric Co. Copies mailed upon request by H. M. Byllesby &amp; Co., 208 S. La Salle St., Chicago, and Trinity Building, New York City.</hi></p>
+
+<p><hi rend="agate">Any one interested in the securities market should send to L. R. Latrobe &amp; Co., No. 111 Broadway, New York, for their statistical books on Copper Stocks, Motor Stocks, Standard Oil Stocks, Investor's Guide (270 pages) or Weekly Market Letter. This firm will mail you any one of these books free on request.</hi></p>
+
+<p><hi rend="agate">Williams, Troth &amp; Coleman, Investment Securities, 60 Wall Street, New York, offer public utility preferred stocks, yielding 5 to 8 per cent., and common stocks with enhancement possibilities. This offering is outlined in "Current Letter B," <unclear reason="torn"/> <!--a copy-->
+    
+<cb n="2"/>    
+    
+of which will be supplied on written request by the above-named firm.</hi></p>
+
+<p><hi rend="agate">In their booklet "How," E. F. Coombs &amp; Co., 122 Broadway, New York, describe a small-payment plan for the purchase of bonds in denominations of $100, $500, and $1000, which enables investors to take advantage of current price without increasing the cost of the bonds.</hi></p>
+
+<p><hi rend="agate">First mortgage buyers will be interested in the <hi rend="italic">Investor's Guide</hi>, published monthly by the National Bond &amp; Mortgage Trust Company, 2940 Lincoln Avenue, Chicago, Illinois. The <hi rend="italic">Guide</hi> is sent free. Write and ask them to put you on the mailing list.</hi></p>
+
+<p><hi rend="agate">"The Partial Payment Plan," booklet B 33, describing how you may purchase stocks and bonds, will be sent upon request to any one interested in this subject. Address John Muir &amp; Co., 61 Broadway, New York City.</hi></p>
+    
+<p><hi rend="agate">Investors desiring to acquire $100 bonds of the best known issues, and of a class that are legal for investment by Trustees and Savings Banks, should send for the special list E that has been prepared by MErrill, Lynch &amp; Co., members of the New York Stock Exchange, 7 wall Street, New York City.</hi></p>
+    
+<p><hi rend="agate">All those interested in high grade unlisted stocks and bonds should write to Dawson, Lyon &amp; Co., 40 Wall Street, New York, for a copy of the <hi rend="italic">Unlisted Securities Review</hi>. It will be sent monthly, free of charge.</hi></p>
+    
+<p><hi rend="agate">The booklet, "Odd Lot Buying," issued by Hartshorne &amp; Picabia, members of the New York Stock Exchange, 7 Wall Street, New York City, differs to a great extent from those issued by most other firms doing business in odd lots of stock. The firm offers special inducements in the way of advice to small investors. Copies of this booklet on request.</hi></p>    
+    
+<p><hi rend="agate">The Investor's "A. B. C." on bonds and their terms, in booklet form, has just been published for investors by Messrs. Liggett, Hichborn &amp; Co., 61 Broadway, New York City. Investors will receive a copy upon request.</hi></p>   
+    
+<p><hi rend="agate">"Scientific Saving No. 17" is the title of a booklet which shows how quickly money accumulates when used to purchase bond certificates. It also compares the direct and indirect methods of saving and Investing. Copies may be had from P. W. Brooks &amp; Co., 115 Broadway, New York, N. Y..</hi></p>   
+    
+<p><hi rend="agate">Mr. Atwood has written a financial booklet, "Making Your Money Work for You," <unclear reason="torn"/> <!-- especially--> for our readers. Write him at 95 Madison <unclear reason="torn"/> <!--Avenue,--> New <unclear reason="torn"/> <!--York, inclosing--> four cents in <unclear reason="torn"/> <!--stamps, if you want a copy.--></hi></p>
+    
+<figure n="advertisement">
+<head>"You Get The Job"</head>
+<p></p>
+<figDesc>Advertisement for International Correspondence Schools.</figDesc>
+</figure>   
+    
+<figure n="advertisement">
+<head>Learn to Stuff Birds</head>
+<p></p>
+<figDesc>Advertisement for N. W. School of Taxidermy.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>One Man And This Machine Will Earn to $50 to $100 Daily Profit</head>
+<p></p>
+<figDesc>Advertisement for W. Z. Long Co.</figDesc>
+</figure>
+    
+</div1>
+</body>
+</text>
+    
+<pb n="Page 24" xml:id="ew.issue.19161016.p024"/>
+    
+<text type="advertisement" xml:id="genie.19161016">
+<body>
+    
+<figure n="advertisement">
+<head>The 20th Century Genie</head>
+<p></p>
+<figDesc>Advertisement for 3-In-One Oil Co..</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+</group>
+</text>
+</TEI>
+    
