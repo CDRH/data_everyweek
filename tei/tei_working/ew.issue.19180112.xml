@@ -1,3 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180112">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, January 12, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180112</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2016</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-01-12">January 12, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-01-26"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19180112.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Co.</publisher>
+<pubPlace></pubPlace>
+<docDate>January 12, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main">WHAT AUNT ABBIE HAS COMING</head>
+<p>By Sewell Ford</p>
+<ab type="credit"></ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180112.p002"/>
 PAGE 2 EVERY WEEK
 
 JANUARY 12, 1918
@@ -12,13 +119,13 @@ The Reflections of a Grizzled Voter
 
 <p>Like Truth, I have grown accustomed to being crushed to earth. It doesn't worry me as much as it used to.</p>
 
-<p>For, having watched many elections and listened to many campaign promises, I have noticed this—that the progress of the world isn't permanently affected very much by turning one set of politicians out and putting another set in.</p>
+<p>For, having watched many elections and listened to many campaign promises, I have noticed thisthat the progress of the world isn't permanently affected very much by turning one set of politicians out and putting another set in.</p>
 
 <p>I continue to vote, as intelligently as I can; but I have ceased to feel as enthusiastic as I used to feel about the power of votes to usher in the millennium.</p>
 
 <p>Maybe it's old age creeping on me: maybe I'm just plain old-fashioned. But I just can't believe that anything is finally going to turn the trick of saving the world but simple individual goodness.</p>
 
-<p>It was Napoleon—a very successful politician—who said :</p>
+<p>It was Napoleona very successful politicianwho said :</p>
 
 <p>Alexander, Caesar, Charlemagne, and myself founded empires. But on what did we rest the creation of our genius? Upon sheer force. Jesus Christ alone founded his empire upon love: and at this hour millions of men will die for him.</p>
 
@@ -28,7 +135,7 @@ The Reflections of a Grizzled Voter
 
 <p>I lunched the other day with a celebrated war correspondent, just hack from Europe.</p>
 
-<p>"There's just one thing I'm sure of," he said. "Every-thing else about the war and the future of the world is problematical. But this I know—the world must be run by hear, power after this. We've tried brain power, and it doesn't work. The Germans developed it to its highest point of efficiency, and we have the results to-day. It's got to be heart power from now on, or were all in; that's all."</p>
+<p>"There's just one thing I'm sure of," he said. "Every-thing else about the war and the future of the world is problematical. But this I knowthe world must be run by hear, power after this. We've tried brain power, and it doesn't work. The Germans developed it to its highest point of efficiency, and we have the results to-day. It's got to be heart power from now on, or were all in; that's all."</p>
 
 <p>And the home is the dynamo out of which heart power flows.</p>
 
@@ -36,7 +143,7 @@ The Reflections of a Grizzled Voter
 
 <p>I welcome my sisters to the ballot-box. They will clog up the polling place a little more, and make me a bit later in getting down to the office on election day. But I'll for-give them all that, and I'll vote for all the reforms they think are going to do any good, so long as they will continue to give its sons like the Carpenter and Lincoln.</p>
 
-<p>Meantime, when their pet reforms and candidates are defeated—-as often they will be--let me commend to them Sam Walter Foss:</p>
+<p>Meantime, when their pet reforms and candidates are defeated-as often they will be--let me commend to them Sam Walter Foss:</p>
 
 <p>Let me live in a house by the side of the road,
 Where the race of men go by
@@ -68,7 +175,7 @@ By EDWIN BALMER
 
 <p>THIS article will be interesting to men over forty-five; but it is not with them in mind that I out publishing it. I ant thinking particularly of young men and women. Read this quotation:</p>
 
-<p>"The causes that I have to consider most often are ignorance of the value of the dollar, physical ills, the garrulous boss, domestic troubles,--particularly ungrateful sons and daughters who had been depended on in trouble, —the lack of keeping abreast of the times, and the scourge of a timid heart."</p>
+<p>"The causes that I have to consider most often are ignorance of the value of the dollar, physical ills, the garrulous boss, domestic troubles,--particularly ungrateful sons and daughters who had been depended on in trouble, the lack of keeping abreast of the times, and the scourge of a timid heart."</p>
 
 <p>These are the causes that bring men to middle age jobless.	THE EDITOR.</p>
 
@@ -76,39 +183,39 @@ By EDWIN BALMER
 
 <p>Wanted!</p>
 
-<p>Fred Marden, holding more tightly to the page that he had picked up from the park bench, gazed away at the autumn trees and let himself hope again. Wanted! Some one wanted him—or, at least, wanted a man of his age, skilled or unskilled.</p>
+<p>Fred Marden, holding more tightly to the page that he had picked up from the park bench, gazed away at the autumn trees and let himself hope again. Wanted! Some one wanted himor, at least, wanted a man of his age, skilled or unskilled.</p>
 
 Fred Marden was over fifty.
 
-<p>Now suspicion and fear, bred of bitter experience, thrust against die leap of hope. Some money was wanted with the man, undoubtedly: that was the catch in it. The advertisement was probably another cheap swindling scheme to victimize the despairing—a scheme for selling five dollars' worth of "supplies" or "samples" of things that could not possibly be sold at a profit again, or for selling to him two dollars' worth of "equipment" to make something that he could not make. Fred Marden knew all about that. Or else some downright blackguard-ism would be required—the peddling of quack nostrums from door to door, stealing dollars from the ignorant and sick.</p>
+<p>Now suspicion and fear, bred of bitter experience, thrust against die leap of hope. Some money was wanted with the man, undoubtedly: that was the catch in it. The advertisement was probably another cheap swindling scheme to victimize the despairinga scheme for selling five dollars' worth of "supplies" or "samples" of things that could not possibly be sold at a profit again, or for selling to him two dollars' worth of "equipment" to make something that he could not make. Fred Marden knew all about that. Or else some downright blackguard-ism would be requiredthe peddling of quack nostrums from door to door, stealing dollars from the ignorant and sick.</p>
 
-<p>No, Fred Marden considered: this news-paper would not carry such advertisements. The men were wanted, then, for something honest but merely ill paid and distasteful—like carrying "sandwich" sign-boards before and behind one through the streets. Well, that was not so bad.</p>
+<p>No, Fred Marden considered: this news-paper would not carry such advertisements. The men were wanted, then, for something honest but merely ill paid and distastefullike carrying "sandwich" sign-boards before and behind one through the streets. Well, that was not so bad.</p>
 
 <p>He got up and, straightening his clothes again and brushing his hat on his sleeve, he started for the address given.</p>
 
 Man of the Family at Fourteen
 
-<p>IT was thirty-six years ago, when Fred Marden was fourteen, that a conduit caved in ahead there where the towering office buildings of Chicago now zigzag their roofs against the sky. Men brought Fred Marden's father from the conduit to the little gray clapboard cottage on old West Madison Street. His mother had some savings—enough to pay funeral expenses. Nothing beyond that; every one knows what liability laws were not thirty-six years ago.</p>
+<p>IT was thirty-six years ago, when Fred Marden was fourteen, that a conduit caved in ahead there where the towering office buildings of Chicago now zigzag their roofs against the sky. Men brought Fred Marden's father from the conduit to the little gray clapboard cottage on old West Madison Street. His mother had some savingsenough to pay funeral expenses. Nothing beyond that; every one knows what liability laws were not thirty-six years ago.</p>
 
 <p>Fred Marden at fourteen found him-self the man of a family of six. He had two younger brothers and three little sisters, besides his mother. Fred took the first job offered him, which was in a livery stable, where he got five dollars for sweeping out and cleaning harness and things and helping with the horses. Then, for a time, they let him drive. Next they promoted him to "inside" man, giving him direction of the drivers, making engagements and routing the carriages. He got twenty-five dollars a week on his twenty-fifth birth-day; a little later he was raised to thirty; and then the upward curve of Fred Marden's in-come halts and runs straight.</p>
 
 Just an Average Man
 
-<p>HE was not a trained man, you see; he was not a brilliant man; just an average man —one of the many, many millions — distinguished, in so far as he was distinguished at all, by unusual steadiness and dependability. When taxis and the multitude of private cars began to knock the business to pieces, his boss sold out, but gave Fred so excellent a character that Fred kept his place for a year more. Then the business simply quit.</p>
+<p>HE was not a trained man, you see; he was not a brilliant man; just an average man one of the many, many millions  distinguished, in so far as he was distinguished at all, by unusual steadiness and dependability. When taxis and the multitude of private cars began to knock the business to pieces, his boss sold out, but gave Fred so excellent a character that Fred kept his place for a year more. Then the business simply quit.</p>
 
-<p>Fred Marden was forty-six when he went to another livery man for a job; forty-seven when that business quit too, and Fred Mar-den had to look for a job of some other kind. Forty-seven, with hair somewhat thinned, somewhat gray; forty-seven, with character excellent; domestic situation, a wife, three children, and a sister dependent; experience, thirty-three years in the livery business; savings, three hundred and forty dollars and a small paid-up life policy. Not a thing against him—rather a good lot of evidences and infer-ences in his favor, in fact, but—forty-seven.</p>
+<p>Fred Marden was forty-six when he went to another livery man for a job; forty-seven when that business quit too, and Fred Mar-den had to look for a job of some other kind. Forty-seven, with hair somewhat thinned, somewhat gray; forty-seven, with character excellent; domestic situation, a wife, three children, and a sister dependent; experience, thirty-three years in the livery business; savings, three hundred and forty dollars and a small paid-up life policy. Not a thing against himrather a good lot of evidences and infer-ences in his favor, in fact, butforty-seven.</p>
 
 <p>"The man who has not succeeded at forty will never succeed; after forty-five a man can make nothing of himself," met him in men's manner, if not in their words, everywhere he went.</p>
 
-<p>Fred Marden started out searching for a position in a new line with self-respect, if not boldly. But slowly, as he encountered only disparagement and undervaluation everywhere, whatever claims he had to confidence began seeping away. Timidity came—timidity and haunting fear.</p>
+<p>Fred Marden started out searching for a position in a new line with self-respect, if not boldly. But slowly, as he encountered only disparagement and undervaluation everywhere, whatever claims he had to confidence began seeping away. Timidity cametimidity and haunting fear.</p>
 
 <p>He turned at last from the rebuffs of those to whom he offered himself to the welcome of those who "wanted" such men as he; whereby he gained the knowledge hinted at a few paragraphs above.</p>
 
 The Coining of Fear
 
-<p>THESE experiences recurred with bitter vividness as Fred Marden, holding him-self straighter now as he passed many people, went on; but—"Wanted!" The lure of the word, the hope of being honestly wanted by some one again, gave him impulse. He observed, as he approached his goal, that other men gray-haired and shabbily clothed, others with undeceivingly dyed brows and mustache, others also trying to hold themselves confidently and to step more alertly, were bound for the same address. These were ill, familiar auspices; Fred Marden almost turned back. But he was there now; he had come a long way; the office seemed different from others to which he had gone. He went on and into an office quite different indeed, and to meet an office manager quite distinct from any he had encountered before.</p>
+<p>THESE experiences recurred with bitter vividness as Fred Marden, holding him-self straighter now as he passed many people, went on; but"Wanted!" The lure of the word, the hope of being honestly wanted by some one again, gave him impulse. He observed, as he approached his goal, that other men gray-haired and shabbily clothed, others with undeceivingly dyed brows and mustache, others also trying to hold themselves confidently and to step more alertly, were bound for the same address. These were ill, familiar auspices; Fred Marden almost turned back. But he was there now; he had come a long way; the office seemed different from others to which he had gone. He went on and into an office quite different indeed, and to meet an office manager quite distinct from any he had encountered before.</p>
 
-<p>The business of this office and of this manager—the business of providing permanent, paying positions for men over forty-five—is unique, I believe. This business did not exist, even as a unique experiment, a year ago. Only in November of last year was the idea of systematically encouraging the employment of men past forty-five put on trial by a small group of Chicago business men.</p>
+<p>The business of this office and of this managerthe business of providing permanent, paying positions for men over forty-fiveis unique, I believe. This business did not exist, even as a unique experiment, a year ago. Only in November of last year was the idea of systematically encouraging the employment of men past forty-five put on trial by a small group of Chicago business men.</p>
 
 The Business of Finding Work for Men Over Forty-five
 
@@ -118,9 +225,9 @@ The Business of Finding Work for Men Over Forty-five
 
 <p>In the ten months that the bureau has been operating, more than 93 per cent of the men placed have held their positions. That means that the employers are satisfied; it also means that the men, be-sides being capable of productive work, are not casuals or drifters. Prior to June 15 the wage average per man per week was eleven dollars; from that date to this, the standard has been raised to over fifteen dollars per man per week. That means advancement for a very large number.</p>
 
-<p>"The gentlemen," says Victor 1'. J. Gannon, the manager—(he means it, and I should say that having as manager for the bureau a young gentleman who sees old, jobless, timid applicants only 'as gentlemen is no small part of the success of the bureau)—"the gentlemen register their history with us, and supply references; we match men with the requirements of the employer, and they are immediately sent forth to fill the niche with which their physical and mental measurements are most closely allied.</p>
+<p>"The gentlemen," says Victor 1'. J. Gannon, the manager(he means it, and I should say that having as manager for the bureau a young gentleman who sees old, jobless, timid applicants only 'as gentlemen is no small part of the success of the bureau)"the gentlemen register their history with us, and supply references; we match men with the requirements of the employer, and they are immediately sent forth to fill the niche with which their physical and mental measurements are most closely allied.</p>
 
-<p>"Four thousand four hundred and twenty unemployed men visited our offices last month; Fourteen hundred and forty-five last week—the ex-bank president; the old jurist; the surgeon whose hand is no longer steady; the neat old book-keeper whose life-long fear of asserting himself brought him to sixty years and no competence; the brawny laborer who at sixty-five and even seventy is still physically able to do fancy shoveling: all these—and hundreds of others—who never did fit in rightly anywhere are given a new start in life.</p>
+<p>"Four thousand four hundred and twenty unemployed men visited our offices last month; Fourteen hundred and forty-five last weekthe ex-bank president; the old jurist; the surgeon whose hand is no longer steady; the neat old book-keeper whose life-long fear of asserting himself brought him to sixty years and no competence; the brawny laborer who at sixty-five and even seventy is still physically able to do fancy shoveling: all theseand hundreds of otherswho never did fit in rightly anywhere are given a new start in life.</p>
 
 <p>"What is the chief cause of their unemployment? If we had be-gun this work twenty years ago, doubtless the number of the unemployed would have been as great and the burden laid at the door of intemperance; but to-day the history of the men passing be-fore us daily shows so little desperation and degradation which can be ascribed to drink</p>
 
@@ -185,9 +292,9 @@ A Soldier's Last Letter Home
 
 <p>Dad, you can't imagine the wonderful feeling. A man thinks something like this: "Well, if I am going to die, this is worth it a thousand times."</p>
 
-<p>I have "been over" two or three times before, but never with a company of my own. Think of it—a hundred and fifty officers and men who will follow you to hell, if need be!</p>
+<p>I have "been over" two or three times before, but never with a company of my own. Think of ita hundred and fifty officers and men who will follow you to hell, if need be!</p>
 
-<p>I don't want any of you dear people to be sorry for me, although of course you will, in a way. You will miss me, but you will be proud of me. I am not going in the way I did the first time—just for sheer devilment and curiosity. I have seen this game for two years, and I still like it and feel that my place is here.</p>
+<p>I don't want any of you dear people to be sorry for me, although of course you will, in a way. You will miss me, but you will be proud of me. I am not going in the way I did the first timejust for sheer devilment and curiosity. I have seen this game for two years, and I still like it and feel that my place is here.</p>
 
 <p>So much for that. I want to thank you from the bottom of my heart for all your loving kindness to me. This war has done wonders to me, and makes me realize lots of things I would not have done otherwise.</p>
 
@@ -205,7 +312,7 @@ How War Seems to a Woman
 
 <p>"There was nothing romantic about our work in these first days. It was mostly cooking, peeling hundreds of potatoes, slicing bushels of onions, cutting up chunks of meat, until our arms were aching. These were boiled together in great black pots. Our job, when it wasn't to cook the stew, was to take buckets of it to the trenches.</p>
 
-<p>"Here we ladled it out to each soldier. Always we went early, while mist still hung over the ground; for we could see the Germans on clear days. The mornings were bitterly cold. Early in my career as a nurse, I rid myself of skirts. Boots, covered with rubber boots to the knees in wet weather; breeches; a leather coat; and as many jerseys as I could walk in—these were my clothes. But, as I slept in them, they didn't keep me very warm.</p>
+<p>"Here we ladled it out to each soldier. Always we went early, while mist still hung over the ground; for we could see the Germans on clear days. The mornings were bitterly cold. Early in my career as a nurse, I rid myself of skirts. Boots, covered with rubber boots to the knees in wet weather; breeches; a leather coat; and as many jerseys as I could walk inthese were my clothes. But, as I slept in them, they didn't keep me very warm.</p>
 
 <p>"It is not easy to eat and sleep and live together in close quarters, sometimes with rush work, sometimes through severer hours of aimless waiting. Again and again we became weary of one another, impatient over trifles.</p>
 
@@ -237,7 +344,7 @@ Backward Austria
 
 <p>Over the whole conglomerate mass sits the House of Hapsburg, which numbers now about 170 members, with its traditions running hack to the Holy Roman Empire, and with customs and habits of thought that have not advanced since the middle ages.</p>
 
-<p>Only one ruler in the whole Hapsburg line—Joseph II—evidenced any feeling whatever for the people over whom he ruled. He opened the imperial hunting grounds near Vienna to the common people. When his courtiers murmured, complaining that henceforth they should not know where to go to be "among them-selves," he told them curtly that if that were the guiding principle of life, where should he himself turn to be among his equals?</p>
+<p>Only one ruler in the whole Hapsburg lineJoseph IIevidenced any feeling whatever for the people over whom he ruled. He opened the imperial hunting grounds near Vienna to the common people. When his courtiers murmured, complaining that henceforth they should not know where to go to be "among them-selves," he told them curtly that if that were the guiding principle of life, where should he himself turn to be among his equals?</p>
 
 <p>A century and a half has elapsed since his death, but he is still spoken of in terms of hate by the aristocracy of Vienna.</p>
 
@@ -245,7 +352,7 @@ Backward Austria
 
 <p>The grave and awful problem had to be solved by the imperial master of ceremonies, Prince Montenuovo, how to con-duct the funeral first of the husband and then of the wife. Being his "morganatic" wife, her rank was not equal to his. All the rusty wiseacres of' the imperial court were in a state of excitement to solve the knotty problem, which they did finally by declaring that, while the remains of Fran-cis Ferdinand were worthy to receive the state burial due a leading member of the dynastic line, the wife of his bosom and mother of his children could by no means share in them.</p>
 
-<p>So it came about that, even while the world was breaking into the war caused by the death of the Prince and his wife, the two funerals were held—one an elaborate pageant lasting many days, and the other a quiet ceremony, completely hidden from the populace.</p>
+<p>So it came about that, even while the world was breaking into the war caused by the death of the Prince and his wife, the two funerals were heldone an elaborate pageant lasting many days, and the other a quiet ceremony, completely hidden from the populace.</p>
 
 "BURN VENICE, BUT DO NOT SURRENDER"
 
@@ -275,7 +382,7 @@ Is War "Glorious"?
 
 <p>"An enemy mine exploded here a few days ago and buried our brigade. Many of the men were killed, but some were not much hurt; so we dug them out and used them over again."</p>
 
-<p>Sons of God and brothers of Jesus Christ—"dug them out and used them over again!"</p>
+<p>Sons of God and brothers of Jesus Christ"dug them out and used them over again!"</p>
 
 <p>That is war.</p>
 
@@ -319,7 +426,7 @@ The Red Cross Cuts Salaries
 
 <p>HOW much of the money that you contribute to the Red Cross, the Y. M. C. A., and other war relief organizations is applied directly to the work in hand? How much is eaten up in the expenses of administration?</p>
 
-<p>Of course there must be administration: choas would result otherwise. But the interesting thing about these organizations is that in very large measure they are being served by men who give their time without pay: in the Red Cross, for instance, as is shown by the following figures, both the number and the average amount of salaries paid have been reduced since the war began—in spite of the enormous increase in the work. The figures three months after the United States had entered the war were as follows:</p>
+<p>Of course there must be administration: choas would result otherwise. But the interesting thing about these organizations is that in very large measure they are being served by men who give their time without pay: in the Red Cross, for instance, as is shown by the following figures, both the number and the average amount of salaries paid have been reduced since the war beganin spite of the enormous increase in the work. The figures three months after the United States had entered the war were as follows:</p>
 
 <p>Membership about 	2,500,000
 Chapters, nearly 	1,800
@@ -357,7 +464,7 @@ By CONRAD RICHTER
 
 Illustrations by Frank Snapp
 
-<p>IT'S generally considered romantic to be the son of a railroad official. And it is romantic—to nearly every-body but railroad officials and their sons.</p>
+<p>IT'S generally considered romantic to be the son of a railroad official. And it is romanticto nearly every-body but railroad officials and their sons.</p>
 
 <p>"Son," queried R. R. Farr, general manager of the Eastern Railroad, "what's this I hear about you wanting to go out to California to marry that Barrett girl?"</p>
 
@@ -369,7 +476,7 @@ Illustrations by Frank Snapp
 
 <p>"What might the specification be?"</p>
 
-<p>"That she'd go through hell for you," answered his father crisply. He coughed again—his throaty cigar cough. "The girl you have, son, isn't the girl for you. If she cared a bunch of beets about you, she wouldn't have lit out to California for a whole winter and left you here with the blues. I'd rather had her curse and swear, or eat with her knife, or drink out of her coffee saucer, or never have seen the inside of a book in her life."</p>
+<p>"That she'd go through hell for you," answered his father crisply. He coughed againhis throaty cigar cough. "The girl you have, son, isn't the girl for you. If she cared a bunch of beets about you, she wouldn't have lit out to California for a whole winter and left you here with the blues. I'd rather had her curse and swear, or eat with her knife, or drink out of her coffee saucer, or never have seen the inside of a book in her life."</p>
 
 <p>Dick was only human; but he tried to speak unexcitedly:</p>
 
@@ -379,7 +486,7 @@ Illustrations by Frank Snapp
 
 <p>"Good-by, father," he ventured.</p>
 
-<p>"Good-by, son," replied his father. "You are of age. But don't lose sight of the fact that your father and mother—"</p>
+<p>"Good-by, son," replied his father. "You are of age. But don't lose sight of the fact that your father and mother"</p>
 
 <p>"You have no right to speak for mother," said Dick in a low voice. "She would tell me to go, if she were here."</p>
 
@@ -413,7 +520,7 @@ Illustrations by Frank Snapp
 
 <p>Paul Dalsimer and Bobby Miller are going along. They have been rushing me until I am nearly dead for sleep. But, Dick dear, every time either of them held my hand or kissed me I wished it was you.</p>
 
-<p>Maybelle wants me to stay out here with her and not go back East at all. In the winter we would go to the mountains. I should just love to. Perhaps I shall. I suppose you will have to go right back East. Goodness only knows when I shall see you again—if I stay out here. It might be best if we let our engagement go, dear. it was nice as long as it wasn't so horribly in-convenient for us both.</p>
+<p>Maybelle wants me to stay out here with her and not go back East at all. In the winter we would go to the mountains. I should just love to. Perhaps I shall. I suppose you will have to go right back East. Goodness only knows when I shall see you againif I stay out here. It might be best if we let our engagement go, dear. it was nice as long as it wasn't so horribly in-convenient for us both.</p>
 
 <p>I'm certain I shall not get packed in time. Give my love to everybody back East.</p>
 
@@ -421,7 +528,7 @@ Illustrations by Frank Snapp
 
 <p>Dick remembered getting back to his hotel all right, but a stubborn haze always clouded the remainder of the day and several days and nights after-ward. His memory began with the sight of a dying man on the floor of a dimly lighted back room of a saloon near the railroad yards in Pocatello, Idaho. The sunken eyes of the man on the floor were swimming rigidly over the sobered group.</p>
 
-<p>"One of you," he gasped rattlingly--"one of you has got to pay back a obligation I owe. Take out some paper and put it down. To Walter Whitman. He used to be at Port Reading, New Jersey. Seven years ago last March he took his crew in a saloon and got them drunk. Then he gave in their names. His crew was all fired, except himself. He was the conductor. I was the engineman. Here I am, where he put me. To-day he's chief yard-master on the Eastern, at the big Rutherwood yards. I want you to—"</p>
+<p>"One of you," he gasped rattlingly--"one of you has got to pay back a obligation I owe. Take out some paper and put it down. To Walter Whitman. He used to be at Port Reading, New Jersey. Seven years ago last March he took his crew in a saloon and got them drunk. Then he gave in their names. His crew was all fired, except himself. He was the conductor. I was the engineman. Here I am, where he put me. To-day he's chief yard-master on the Eastern, at the big Rutherwood yards. I want you to"</p>
 
 <p>His lips tried to form another word. His eyes strained. Then he shook his head hopelessly and closed his eyes.</p>
 
@@ -469,11 +576,11 @@ PAGE 9
 
 <p>"Good enough," said the yard-master.</p>
 
-<p>"I—I forgot to tell you," stammered Dick. "I saw the chief yard-master a few minutes ago about a job, and he said he had no work for a bum. I don't want to get you into trouble."</p>
+<p>"II forgot to tell you," stammered Dick. "I saw the chief yard-master a few minutes ago about a job, and he said he had no work for a bum. I don't want to get you into trouble."</p>
 
 <p>"He won't bother us," smiled the assistant cheerfully. "Don't you mind what he said. Sometimes a man forgets for a minute that you can't always tell a lad by the style shirt he has on."</p>
 
-<p>BY evening Dick was booking green, white, red, blue, and yellow car tickets as if he had clone it all his life—the green for empties, the white for loaded cars, the red for stock and "perishable," and the blue and yellow from other roads.</p>
+<p>BY evening Dick was booking green, white, red, blue, and yellow car tickets as if he had clone it all his lifethe green for empties, the white for loaded cars, the red for stock and "perishable," and the blue and yellow from other roads.</p>
 
 <p>Scott, the assistant yard-master, seemed to pay no further attention to him; but after the day's work he took him to a near-by railroaders' boarding-house and volunteered to stand good for him. That was only one of the little things Dick saw this man do from time to time for one or an-other of the hundred men under him. Dick tried to understand how a man with his signal business and executive ability in the railroad game was being held at the job of assistant yard-master. He began to make inquiries.</p>
 
@@ -483,7 +590,7 @@ PAGE 9
 
 <p>"Why?" repeated the conductor. "Why? Why, because he's been trying to get Olson and the night people to quit drop-ping high explosives down any old track, up against any old car, prop or piping or any old thing, against company rules and against the law. Does Whitman make Olson listen? He does not! Before that, Scott tried to make his own men here in the yard quit cutting off high explosives so they'd have to back them up, like the rules say. Did Whitman back him up? He did nit.</p>
 
-<p>"And before that—about three years ago, when Scott came here from the W. & N.—he handed Whitman and the other yard-masters some quick-fire suggestions on how to hustle up this old muscle-bound, always tied-up yard. Did Whitman say Amen and hand the plans on to the train-master? Not till about a month ago, when the word came from Old Man Farr himself that this yard had positively to move more cars. Then this Whitman hands in as his own dope the suggestions that Scott had given him three years ago. And they say he's going to get promoted for it. Is it any wonder that railroaders go out on strikes?"</p>
+<p>"And before thatabout three years ago, when Scott came here from the W. & N.he handed Whitman and the other yard-masters some quick-fire suggestions on how to hustle up this old muscle-bound, always tied-up yard. Did Whitman say Amen and hand the plans on to the train-master? Not till about a month ago, when the word came from Old Man Farr himself that this yard had positively to move more cars. Then this Whitman hands in as his own dope the suggestions that Scott had given him three years ago. And they say he's going to get promoted for it. Is it any wonder that railroaders go out on strikes?"</p>
 
 <p>DICK was still hearing things when, a few days- afterward, he decided to afford better clothes than the old coat and trousers Scott had brought to the office for him. He bought a modest gray suit, a pair of plain shoes, a gray felt hat, a black tie, and several collars. Next day he appeared at work in most of the new outfit. He thought Scott seemed a bit proud of him.  That evening the yard-master walked with him as far as his boarding-house.</p>
 
@@ -523,21 +630,21 @@ PAGE 9
 
 <p>"I think I have now," said Dick, his eyes on Rhoda as, flushed and smiling, with books piled up under her little curving chin, she came down the stairs.</p>
 
-<p>TWO months passed. Three times a week Dick bent under the soft yellow light of the Scott living-room lamp, dutifully reciting such simple lessons as Rhoda or her father had given him. Then, one evening, Scott stunned him by announcing that they were going West—he was quitting his job. Dick bewilderedly asked why.</p>
+<p>TWO months passed. Three times a week Dick bent under the soft yellow light of the Scott living-room lamp, dutifully reciting such simple lessons as Rhoda or her father had given him. Then, one evening, Scott stunned him by announcing that they were going Westhe was quitting his job. Dick bewilderedly asked why.</p>
 
 <p>"I'm not a jealous man," explained the yard-master simply. "I don't want more than my own. But they're promoting Whitman the first of October, and Leffler's to go over my head. He gets the chief night job, while Olson gets Whit-man's place.  There's no use sticking around if the company doesn't want me."</p>
 
-<p>Dick waited for a further expression, but nothing further came—not a word of reproach for the incompetency of Whit-man or the defiant rule-ignoring of Olson. Then, suddenly, he realized that Rhoda was going away.</p>
+<p>Dick waited for a further expression, but nothing further camenot a word of reproach for the incompetency of Whit-man or the defiant rule-ignoring of Olson. Then, suddenly, he realized that Rhoda was going away.</p>
 
 <p>Half of the given sixty days had passed when Scott, one evening, left Dick and Rhoda at the now familiar study table, to go to his lodge.</p>
 
-<p>"Rhoda," Dick ventured, "did you ever think that—that I'd be wondering how I'm going to learn when you're away?"</p>
+<p>"Rhoda," Dick ventured, "did you ever think thatthat I'd be wondering how I'm going to learn when you're away?"</p>
 
 <p>"Oh, somebody will help you," Rhoda replied brightly; but she lowered her eyes.</p>
 
 <p>"No matter who," said Dick soberly, "it won't be just the same."</p>
 
-<p>"Why won't it be—just the same?"</p>
+<p>"Why won't it bejust the same?"</p>
 
 <p>Rhoda was making meaningless figures on her tablet paper.</p>
 
@@ -579,7 +686,7 @@ PAGE 9
 
 <p>"If you stay with me," reminded Dick tenderly, "it will mean we'll have to live for a while in the roughest kind of shack. I don't get hardly any salary."</p>
 
-<p>"Nothing like the place we lived in would matter," faltered Rhoda. "I—I'd make up for my board. I would save on everything. I wouldn't want any new clothes, not for years."</p>
+<p>"Nothing like the place we lived in would matter," faltered Rhoda. "II'd make up for my board. I would save on everything. I wouldn't want any new clothes, not for years."</p>
 
 <p>Dick went home that night repeating to himself doggedly that he could never let himself marry Rhoda Scott until he had a position and savings that would insure her escaping the experience and perhaps the fate of his mother. Day after day he kept stubborn control of himself. Then the law of averages compassionately took the situation out of Dick's hands.</p>
 
@@ -607,13 +714,13 @@ Does a Business Woman Make a Good Wife?
 
 <p>Once, in an office, I took a full-page advertisement and spread it all over the magazine, only to discover after the issue had been printed that it should have been a one-column affair. It cost the company hundreds of dollars, and I nearly lost my job; but nobody cried, though I writhed in humiliation for weeks. That blunder was a real tragedy; a lemon pie more or less in the world is less than a detail.</p>
 
-<p>Neither can I see myself getting really flustered when I have biscuits in the oven, beefsteak on the stove, a caller at the front door, and a delivery boy at the back, with perhaps the dumb-waiter and the telephone likewise summoning. When I remember how old Parker used to roar above the hum of a hundred typewriters, how the office-boys would dash madly in and out with proofs to be O. K.'d and questions to be answered, how the telephones would clang uninterrupted, and customers would come and come and come and come—well, I really couldn't get excited over little lumps of dough and a chunk of beef, though in those days I sometimes wondered if my wits would last the clay through.</p>
+<p>Neither can I see myself getting really flustered when I have biscuits in the oven, beefsteak on the stove, a caller at the front door, and a delivery boy at the back, with perhaps the dumb-waiter and the telephone likewise summoning. When I remember how old Parker used to roar above the hum of a hundred typewriters, how the office-boys would dash madly in and out with proofs to be O. K.'d and questions to be answered, how the telephones would clang uninterrupted, and customers would come and come and come and comewell, I really couldn't get excited over little lumps of dough and a chunk of beef, though in those days I sometimes wondered if my wits would last the clay through.</p>
 
-<p>But poise is not the only thing in housekeeping any more than it is in any other under-taking. One might have the kind of poise that is blind to error—self-complacency. Definite training in specific directions has been quite as valuable to me in learning the lessons of the kettle and the broom. For ex-ample, take that important institu-tion in an office known as a schedule: How could I, after having worked on schedule for four years, suddenly begin, in my new work, to follow the muse? Dick laughs at my typewritten list of the week's duties on the kitchen wall; but he does have his socks mended and his meals on time. It is a very simple little routine, covering the domestic duties that are necessary to make two people physically comfortable; but I like the regularity. "Oh, house-work is so monotonous!" complains the business woman. True. Sp I reduce it to a minimum and take my variety in some other form.</p>
+<p>But poise is not the only thing in housekeeping any more than it is in any other under-taking. One might have the kind of poise that is blind to errorself-complacency. Definite training in specific directions has been quite as valuable to me in learning the lessons of the kettle and the broom. For ex-ample, take that important institu-tion in an office known as a schedule: How could I, after having worked on schedule for four years, suddenly begin, in my new work, to follow the muse? Dick laughs at my typewritten list of the week's duties on the kitchen wall; but he does have his socks mended and his meals on time. It is a very simple little routine, covering the domestic duties that are necessary to make two people physically comfortable; but I like the regularity. "Oh, house-work is so monotonous!" complains the business woman. True. Sp I reduce it to a minimum and take my variety in some other form.</p>
 
-<p>Down at Parker's Advertising Agency we had to do several things at once if the occasion demanded. I never thought of answering the telephone without seizing a pencil to be correcting proof at the same time. Old Parker used to dictate to two stenographers at once, and glower significantly at his assistant meanwhile. So now I can watch the double boiler and clean my silver at the same minute—if, for example, I want to hurry off to an exhibit.</p>
+<p>Down at Parker's Advertising Agency we had to do several things at once if the occasion demanded. I never thought of answering the telephone without seizing a pencil to be correcting proof at the same time. Old Parker used to dictate to two stenographers at once, and glower significantly at his assistant meanwhile. So now I can watch the double boiler and clean my silver at the same minuteif, for example, I want to hurry off to an exhibit.</p>
 
-<p>There used to be a choice bit of do-mestic fiction con-cerning the lovely young bride who had been making jelly all day—with-out even stopping to make the beds when lo, in walked that inconsiderate brute, her husband, with the Influential Employer for din-ner. Flow that girl did take on! She didn't know what to feed him, except jelly, and she hadn't the hardihood to send them to the little restaurant around the corner. So she struggled through some-how, a poor abused female. (The sequel is, however, that the great man was so taken with her charms—not her meal, you understand—that he gave the inconsiderate brute an auriferous new job.)</p>
+<p>There used to be a choice bit of do-mestic fiction con-cerning the lovely young bride who had been making jelly all daywith-out even stopping to make the beds when lo, in walked that inconsiderate brute, her husband, with the Influential Employer for din-ner. Flow that girl did take on! She didn't know what to feed him, except jelly, and she hadn't the hardihood to send them to the little restaurant around the corner. So she struggled through some-how, a poor abused female. (The sequel is, however, that the great man was so taken with her charmsnot her meal, you understandthat he gave the inconsiderate brute an auriferous new job.)</p>
 
 <p>Dick brought home a fellow employee the other night, and I could not get even the slightest thrill of terror over the horrid bogey, unexpected company. I put a third plate on the table, added bacon to the four chops, carefully giving our guest two, hauled down some asparagus for salad, and the deed was done. Dick and I always eat, and if there is not enough, old King Can to the rescue, and ice cream from the drug store, served elegantly with ice-cream forks and maraschino cherries. Unexpected company is certainly nothing to get excited about, after working for the mighty and temperamental Mr. Penny-wood Parker. "Unexpected" was his middle name, and "Anything Can Hap-pen" was our office motto.</p>
 
@@ -621,7 +728,7 @@ Does a Business Woman Make a Good Wife?
 
 <p>These are little things, but they are helpful; and if I could only have carbon copies of my husband's eulogies, I'd pass them around as the final word of proof about the business girl in the kitchen. But, being a woman, I'll have the final word, and that is, no matter how far re-moved a business girl has been from the cook-stove and the hearth-stone, she can always learn the gentle art of domesticity, provided she has been working in a well regulated office for at least two months.</p>
 
-<p>HERE'S a woman who tells how she carried over into her home-making the training which she had acquired in a business office. It's a bully little story. We'd be glad to hear from some other wives who were once business women—and, being married, are still businesslike. What has your business training done for you?</p>
+<p>HERE'S a woman who tells how she carried over into her home-making the training which she had acquired in a business office. It's a bully little story. We'd be glad to hear from some other wives who were once business womenand, being married, are still businesslike. What has your business training done for you?</p>
 
 <p>THE EDITOR.</p>
 
@@ -639,13 +746,13 @@ Your Arteries Can Speak for Themselves
 
 <p>In the fifteenth minute of the lower graph the quick fall is due to the "re-lease of some regretful ideas from the mind," whose nature is unknown to the observer.</p>
 
-<p>These hemobarograms tell their own story when the accompanying mental data from the man himself are fully in mind. Better habits and rest and the elimination of worry have made the subject a new man—and his arterial records show it as certainly and far more intimately and immediately than could any one thing else.</p>
+<p>These hemobarograms tell their own story when the accompanying mental data from the man himself are fully in mind. Better habits and rest and the elimination of worry have made the subject a new manand his arterial records show it as certainly and far more intimately and immediately than could any one thing else.</p>
 
 <p>GEORGE VAN Ness DEARBORN.  Cambridge, Massachusetts.</p>
 
 How to Manage a Father
 
-<p>I HAD frequently noticed that, how-ever little my mother took when she went on a journey, my father seemed to expect her to take less. So I concluded that daddy was the victim of a state of mind—perhaps mother was the real victim—occasioned perhaps by a time when mother might really have taken too much in the line of paraphernalia with her.</p>
+<p>I HAD frequently noticed that, how-ever little my mother took when she went on a journey, my father seemed to expect her to take less. So I concluded that daddy was the victim of a state of mindperhaps mother was the real victimoccasioned perhaps by a time when mother might really have taken too much in the line of paraphernalia with her.</p>
 
 <p>On my first trip with my father, I tested this theory. Ihad decided that a small steamer trunk would be ample.</p>
 
@@ -661,15 +768,15 @@ How to Manage a Father
 
 <p>"Yes, I know; but some special occasion may arise that may call for a special costume. You wouldn't like me to look like a frump, would you?"</p>
 
-<p>"Of course not, of course not," daddy agreed. "Don't you think," he began cautiously, "that one big trunk would do? There's that old trunk of mine, the English sole-leather trunk. That held every-thing your mother and I needed on a fortnight's trip, when you were a little girl—yes, and all your things as well."</p>
+<p>"Of course not, of course not," daddy agreed. "Don't you think," he began cautiously, "that one big trunk would do? There's that old trunk of mine, the English sole-leather trunk. That held every-thing your mother and I needed on a fortnight's trip, when you were a little girlyes, and all your things as well."</p>
 
 <p>I considered. "Perhaps," I admitted reluctantly, "I might make that do."</p>
 
 <p>"Yes, yes," daddy encouraged. "It's surprising how much you can get into it. It gives, you know."</p>
 
-<p>"I wonder,"—I walked to the window, looked out, and meditated,—"1 wonder," I speculated, "if it would be possible for me to squeeze all my things into my steamer-trunk."</p>
+<p>"I wonder,"I walked to the window, looked out, and meditated,"1 wonder," I speculated, "if it would be possible for me to squeeze all my things into my steamer-trunk."</p>
 
-<p>"Certainly, certainly," daddy assured me—and his tone had a quality of gratitude that was really touching. "I'll ring for the expressman," lie hastened to say.</p>
+<p>"Certainly, certainly," daddy assured meand his tone had a quality of gratitude that was really touching. "I'll ring for the expressman," lie hastened to say.</p>
 
 <p>He hurried to the door, but came back and put his head in to say:</p>
 
@@ -695,7 +802,7 @@ NOTRE DAME DU BATEAU
 
 (Maxine Elliott)
 
-<p>IT must have been a debutante who christened forty the "dangerous age," for it is an age extremely dangerous to beauty of only a season or two. Aspasia married Pericles at thirty-seven, Cleopatra enraptured Anthony at forty, and Helen was whisked off to Troy at forty-eight. When the sixteen-year-old beauty of Rockland, Maine—Jessie Dermot, a sea captain's daughter—came down to New York, no one bothered much about her. She got some obscure 'little parts at $20 a week, and made her own clothes and looked after her young sister Gertrude. It was not till years after-ward that Whistler and the world generally discovered Maxine 'Elliott—"the girl with the midnight eyes." At thirty-five Miss Elliott became America's first woman actor-manager, with her own theater named after her. And the years that followed were those of her greatest successes. A breath of relief rose to heaven from dozens of ambitious ingenues when Miss Elliott retired, apparently, to her beautiful home with the Forbes-Robertsons in England. And when, after the war began, she fitted out a house-boat hospital and became "Notre dame du bateau" some-where in France, young Miss Broadway voted it a perfectly sweet way to spend one's declining years. And then! Without warning, the stately beauty, whom Nat Goodwin once called his "Roman Senator," came back to stageland via the screen. Within the month we are to see her in "The Eternal Magdalene" (a Goldwyn production), the woman of whom a French painter says, "Her beauty resides not alone in the perfect harmony of the various parts of her body, but also in the expression of her countenance and in the mysterious and indefinable je ne sais quoi that emanates from her personality." Cheer up, little Mary Pickford and Marguerite Clark and all the rest. If only you are good children and work hard, perhaps some day when you are grown up you too will acquire some je ne sais quo('	ANNE HERENDEEN.</p>
+<p>IT must have been a debutante who christened forty the "dangerous age," for it is an age extremely dangerous to beauty of only a season or two. Aspasia married Pericles at thirty-seven, Cleopatra enraptured Anthony at forty, and Helen was whisked off to Troy at forty-eight. When the sixteen-year-old beauty of Rockland, MaineJessie Dermot, a sea captain's daughtercame down to New York, no one bothered much about her. She got some obscure 'little parts at $20 a week, and made her own clothes and looked after her young sister Gertrude. It was not till years after-ward that Whistler and the world generally discovered Maxine 'Elliott"the girl with the midnight eyes." At thirty-five Miss Elliott became America's first woman actor-manager, with her own theater named after her. And the years that followed were those of her greatest successes. A breath of relief rose to heaven from dozens of ambitious ingenues when Miss Elliott retired, apparently, to her beautiful home with the Forbes-Robertsons in England. And when, after the war began, she fitted out a house-boat hospital and became "Notre dame du bateau" some-where in France, young Miss Broadway voted it a perfectly sweet way to spend one's declining years. And then! Without warning, the stately beauty, whom Nat Goodwin once called his "Roman Senator," came back to stageland via the screen. Within the month we are to see her in "The Eternal Magdalene" (a Goldwyn production), the woman of whom a French painter says, "Her beauty resides not alone in the perfect harmony of the various parts of her body, but also in the expression of her countenance and in the mysterious and indefinable je ne sais quoi that emanates from her personality." Cheer up, little Mary Pickford and Marguerite Clark and all the rest. If only you are good children and work hard, perhaps some day when you are grown up you too will acquire some je ne sais quo('	ANNE HERENDEEN.</p>
 
 
 
@@ -711,7 +818,7 @@ Photograph front William Mack
 
 Photograph by Paul Thompson.
 
-<p>CARLYLE STREIT is a boy's name—not a typographical error, as you might suppose. Carlyle is the champion school-boy knitter
+<p>CARLYLE STREIT is a boy's namenot a typographical error, as you might suppose. Carlyle is the champion school-boy knitter
 among the eleven thousand public-school attendants of Cincinnati. He is completing a regulation sweater for a soldier in France, knitting at recess time and in all other spare hours. And when he has finished the sweater he intends to start on twelve pairs of wristlets, the goal he has set for himself.</p>
 
 <p>"GET your knitting done early," is the motto of Carl Quasthoff of the Chicago Fire Department; "then you will have time for such other less important matters as may come up." Carl was not particurarly anxious to pose for this picture, which shows once for all that the male is the really modest sex. We have never yet en-countered a woman doing man's work, whether fighting in Russia or haranguing a street-corner crowd, who showed the least sensitiveness in the presence of the camera. Cling to your modesty, Carl. It is a quality practically extinct in the world, and some day some collector will pay you a high price for it and put it in a museum.</p>
@@ -770,7 +877,7 @@ WHY DIDN'T OUR PARENTS TEACH US SOMETHING USEFUL?
 
 <p>FREDDIE GIES'S grandmother had the right idea. Twelve years ago she bought him a stock of papers, and set his little feet on the cold curb-stone at a busy corner in Des Moines. Seven years later two houses were offered for sale in the residence section, and who should appear but Freddie with $5000 in nickels, pennies, and dimes. Since then he has bought a few little odd houses every year or so. Now that we've published your picture, Freddie, we'll expect to hear from you in the circulation department. The sales in Des Moines are good, but you can do still better.</p>
 
-<p>IF a river is flowing at the rate of five miles an hour, and a young man with a necktie that cost seventy-nine cents sets out in a rowboat, rowing nine miles an hour in the opposite direction, to meet a girl who is twenty-one years old, but claims to be only eighteen, what is the square on the hypothenuse?" It makes us almost bitter to think that in the years when we were solving problems like this, Ed (Pop) Geers was improving his shining hours by learning to drive a horse—an achievement that has netted him $1,178,452 in the past twenty-five years.</p>
+<p>IF a river is flowing at the rate of five miles an hour, and a young man with a necktie that cost seventy-nine cents sets out in a rowboat, rowing nine miles an hour in the opposite direction, to meet a girl who is twenty-one years old, but claims to be only eighteen, what is the square on the hypothenuse?" It makes us almost bitter to think that in the years when we were solving problems like this, Ed (Pop) Geers was improving his shining hours by learning to drive a horsean achievement that has netted him $1,178,452 in the past twenty-five years.</p>
 
 <p>JOE STECHER is glad of all the book learning he. has. But he wouldn't trade the grip he developed from milking cows on his father's farm in Dodge. Nebraska, for a speaking knowledge of Greek, Russian, and Hoboken. In his lei-sure moments on the farm he used to wrestle with his brother. An-ton: and at length, quite modestly, made his professional debut amid much "spoofing'', from the wise ones. Stecher beat every man that was pitted against him: and he now milks the wrestling promoters for anywhere from $2000 to $4000 for a short evenings work.</p>
 
@@ -794,9 +901,9 @@ Illustrations by George Giguere
 
 (Continued)
 
-<p>THAT the Eskimos both to the east and the west were more than likely to come their way, converging toward the central cry that was now silent, Philip was sure. He made no more than a swift observation of the field in these first moments—did not even look for weapons. His thought was entirely of Celie. The smallest of the three forms on the snow was the Kogmollock he had struck down with his club. He dropped on his knees, and took off first the sealskin bashlyk, or hood. Then he began stripping the dead man of other garments. With them in his arms, he hurried back to the girl. It was not a time for fine distinctions. The clothes were a God-send, though they had come from a dead man's back, and an Eskimo's at that.</p>
+<p>THAT the Eskimos both to the east and the west were more than likely to come their way, converging toward the central cry that was now silent, Philip was sure. He made no more than a swift observation of the field in these first momentsdid not even look for weapons. His thought was entirely of Celie. The smallest of the three forms on the snow was the Kogmollock he had struck down with his club. He dropped on his knees, and took off first the sealskin bashlyk, or hood. Then he began stripping the dead man of other garments. With them in his arms, he hurried back to the girl. It was not a time for fine distinctions. The clothes were a God-send, though they had come from a dead man's back, and an Eskimo's at that.</p>
 
-<p>He returned to the Eskimos. The three were dead—one with a tiny bullet-hole squarely between the eyes, and the others crushed by the blows of the club. His hand fondled Celie's little revolver—the pea-shooter he had laughed at. After all, it had saved his life. And the club--</p>
+<p>He returned to the Eskimos. The three were deadone with a tiny bullet-hole squarely between the eyes, and the others crushed by the blows of the club. His hand fondled Celie's little revolverthe pea-shooter he had laughed at. After all, it had saved his life. And the club--</p>
 
 <p>From the man he had struck with his naked fist he outfitted himself with a hood and temiak, or coat. There were no pockets in the temiak, but at the waist of each of the dead men a narwhal-skin pouch which answered for all pockets. He tossed the three pouches in a little heap on the snow before he searched for weapons. He found two knives and half a dozen murderous little javelins. One of the knives was still clutched in the hand of the Eskimo who had been creeping up to kill him when Celie's revolver saved him. He took this knife because it was longer and sharper than the other.</p>
 
@@ -806,7 +913,7 @@ Illustrations by George Giguere
 
 <p>Philip rolled back the front of the hood. Then he pulled her thick braid out from under the coat, and unbound the strands of it until her hair enveloped her in a shimmering cloud. It was not conceivable that their enemies could mistake her for a man now, even at a hundred yards. If they ran into an ambuscade, she would at least be saved from the javelins.</p>
 
-<p>He fastened one of the pouches at his waist, picked up his club, and—on second thought—one of the Kogmollock javelins.</p>
+<p>He fastened one of the pouches at his waist, picked up his club, andon second thoughtone of the Kogmollock javelins.</p>
 
 <p>With Celie's hand in his, Philip set out due north through the forest.</p>
 
@@ -826,11 +933,11 @@ Illustrations by George Giguere
 
 <p>The announcement of the wolf-man's name and Philip's gesture toward the trail drew a quick little cry of understanding from Celie. In a flash she had darted to the snowshoe tracks and was examining them with eager intensity. Then she looked up and shook her head. It wasn't Brain! She pointed to the tail of the shoe, and, catching up a twig, broke it tinder Philip's eyes. He remembered now. The end of one of Brain's shoes was snubbed short off. There was no evidence of that defect in the snow.</p>
 
-<p>"He's going east—and we ought to go north to find the cabin," he said, pointing to the trail. " But we'll follow him. I want his rifle. I want it more than any-thing else in this world, now that I've got you.  We'll follow."</p>
+<p>"He's going eastand we ought to go north to find the cabin," he said, pointing to the trail. " But we'll follow him. I want his rifle. I want it more than any-thing else in this world, now that I've got you.  We'll follow."</p>
 
-<p>If there had been a shadow of hesitation in his mind, it was ended in that moment. From behind them there came a strange hooting cry. It was not a yell such as they had heard before. It was a far-reaching, booming note that had in it the intonation of a drm—a sound that made one shiver because of its very strangeness. And then, from farther west, it came:</p>
+<p>If there had been a shadow of hesitation in his mind, it was ended in that moment. From behind them there came a strange hooting cry. It was not a yell such as they had heard before. It was a far-reaching, booming note that had in it the intonation of a drma sound that made one shiver because of its very strangeness. And then, from farther west, it came:</p>
 
-<p>"Hoom—hoom—h-o-o-o-o-m-m-m-m—"</p>
+<p>"Hoomhoomh-o-o-o-o-m-m-m-m"</p>
 
 <p>In the next half minute it seemed to Philip that the cry was answered from half a dozen different quarters. Again it came from directly behind them.</p>
 
@@ -848,7 +955,7 @@ Illustrations by George Giguere
 
 <p>They followed it for three quarters of a mile. Then the trail turned abruptly from its easterly course to a point of the coin-pass due north. So sharp was the turn that Philip paused to investigate the sudden change in direction. The stranger had evidently stood for several minutes at this point, which was close to the blasted stub of a dead spruce In the snow Philip observed for the first time a number of dark brown spots.</p>
 
-<p>"Here is where he took a new bearing—and a chew of tobacco," he said—more to himself than to Celie. "And there's no snow m his tracks. I don't believe he's more than half an hour ahead of us this minute!"</p>
+<p>"Here is where he took a new bearingand a chew of tobacco," he saidmore to himself than to Celie. "And there's no snow m his tracks. I don't believe he's more than half an hour ahead of us this minute!"</p>
 
 <p>AFTER a time he looked at his watch. Since striking the trail they had traveled forty minutes. In that time they had covered at least three miles, and were a good four miles from the scene.of the fight. It was a big start. The Eskimos were undoubtedly a half that distance behind them, and the stranger whom they were following could not be far ahead.</p>
 
@@ -860,9 +967,9 @@ Illustrations by George Giguere
 
 <p>They went on. And then they came upon the cabin. It was not a hundred yards from them when they first saw it. It was no longer abandoned. A thin spiral of smoke was rising from the chimney.</p>
 
-<p>"We're in time," he breathed. "You—you stay here."</p>
+<p>"We're in time," he breathed. "Youyou stay here."</p>
 
-<p>She understood. Her hands clutched at him as he left her. A gulp rose in her throat. She wanted to call out. She wanted to hold him back—or go with him. Yet she obeyed. Sobbingly she breathed his name. It was a prayer. For she knew what would happen in the cabin.</p>
+<p>She understood. Her hands clutched at him as he left her. A gulp rose in her throat. She wanted to call out. She wanted to hold him backor go with him. Yet she obeyed. Sobbingly she breathed his name. It was a prayer. For she knew what would happen in the cabin.</p>
 
 <p>Philip came up behind the windowless end of the cabin. He had noticed, in passing with Brain, that on the opposite side was a trap-window of saplings; and toward this he moved swiftly, but with caution. It was still closed when he came where he could see. With his ear close to the chinks, he heard the sound of some one moving inside. For an instant he looked over his shoulder. Celie was standing where he had left her. He could almost feel the terrible suspense that was in her eyes as she watched him.</p>
 
@@ -876,7 +983,7 @@ Illustrations by George Giguere
 
 <p>At first Philip saw nothing except the dim outlines of things. It was a moment or two before he made out the figure of a man stooping over the fire. He stepped over the threshold, making no sound. The occupant of the cabin straightened him-self slowly, lifting with extreme care a pot of coffee from the embers. He turned.</p>
 
-<p>It was a white man's face—a face al-most hidden in a thick growth of beard and a tangle of hair that fell to the shoulders. Another instant, and he had seen the intruder, and stood like one turned suddenly into stone.</p>
+<p>It was a white man's facea face al-most hidden in a thick growth of beard and a tangle of hair that fell to the shoulders. Another instant, and he had seen the intruder, and stood like one turned suddenly into stone.</p>
 
 <p>Philip leveled Celie's little revolver.</p>
 
@@ -899,13 +1006,13 @@ JANUARY 12, 1918
 
 <p>NEITHER man saw the girl standing wide-eyed and terrified in the door. They rolled almost to her feet. Full in the lightshesaw thebattered, bleeding face of the strange giant, and Philip's fist striking it again and again. Then she saw the giant's two hands, and why he was suffering that punishment. They were at Philip's throat.</p>
 
-<p>A cry rose to her lips, and the blue in her eyes darkened with a fighting fire. She darted across the room, and in an instant was back with a heavy stick of wood in her hands. Philip saw her then—her streaming hair and white face above them. And then her club fell, and the hands at his throat relaxed.</p>
+<p>A cry rose to her lips, and the blue in her eyes darkened with a fighting fire. She darted across the room, and in an instant was back with a heavy stick of wood in her hands. Philip saw her thenher streaming hair and white face above them. And then her club fell, and the hands at his throat relaxed.</p>
 
 <p>He swayed to his feet, and with dazed eyes and a weird sort of laugh opened his arms. Celie ran into them. He felt her sobbing and panting against him. Then, looking down, he saw that for the present-the man who had made the strange snow-shoe trail was as good as dead.</p>
 
-<p>The air he was taking into his half strangled lungs cleared his head, and he began a search of the room. His eyes were more accustomed to the gloom, and suddenly he gave a cry of exultation. Against the end of the mud and stone fireplace stood a rifle, and over the muzzle of this hung a belt and holster. In the holster was a revolver. In his excitement and joy his breath was almost a sob as he snatched it from the holster and broke it in the light of the door. It was a big Colt forty-five—and loaded to the brim.</p>
+<p>The air he was taking into his half strangled lungs cleared his head, and he began a search of the room. His eyes were more accustomed to the gloom, and suddenly he gave a cry of exultation. Against the end of the mud and stone fireplace stood a rifle, and over the muzzle of this hung a belt and holster. In the holster was a revolver. In his excitement and joy his breath was almost a sob as he snatched it from the holster and broke it in the light of the door. It was a big Colt forty-fiveand loaded to the brim.</p>
 
-<p>"Watch!" he cried, sweeping his arm to the open. "Just two minutes more.  That's all I want—two minutes—and then—"</p>
+<p>"Watch!" he cried, sweeping his arm to the open. "Just two minutes more.  That's all I wanttwo minutesand then"</p>
 
 <p>He was counting the cartridges in the belt as he fastened it about his waist. There were at least forty, two thirds of them soft-nosed rifle. The caliber was .303, and the gun was modern up to the minute. As he threw down the lever enough to let him glimpse inside the breech, he caught the glisten of cartridges ready for action. He wanted nothing more.</p>
 
@@ -919,17 +1026,17 @@ JANUARY 12, 1918
 
 <p>AS they listened the cry came again.  This time Philip caught in it a note that he had not detected before. It was not a challenge, but the long-drawn ma-too-ee of an Eskimo who answers the inquiring hail of a comrade.</p>
 
-<p>Another sound had drawn Celie back to the door. When she looked in, the man she had stunned with the club was moving. Her call brought Philip, and, placing her in the open door to keep watch, he set swiftly to work to make sure of their prisoner. With the babiche thong he had taken from his enemies, he bound him, hand and foot. A shaft of light fell full on the giant's face and naked chest where it had been laid bare in the struggle, and Philip was about to rise when a purplish patch of tattooing caught his eyes. He made out the almost invisible letters of a name. He made them out one by one—B-I-a-k-e. Before the surname was the letter G.</p>
+<p>Another sound had drawn Celie back to the door. When she looked in, the man she had stunned with the club was moving. Her call brought Philip, and, placing her in the open door to keep watch, he set swiftly to work to make sure of their prisoner. With the babiche thong he had taken from his enemies, he bound him, hand and foot. A shaft of light fell full on the giant's face and naked chest where it had been laid bare in the struggle, and Philip was about to rise when a purplish patch of tattooing caught his eyes. He made out the almost invisible letters of a name. He made them out one by oneB-I-a-k-e. Before the surname was the letter G.</p>
 
-<p>" Blake," he repeated, rising to his feet. "George Blake—a sailor—and a- white man!"</p>
+<p>" Blake," he repeated, rising to his feet. "George Blakea sailorand a- white man!"</p>
 
 <p>Blake, returning to consciousness, mum-bled incoherently. In the same instant Celie cried out excitedly at the door:</p>
 
-<p>Oo-ee, Philip—Philip! Se det! Se! Se!"</p>
+<p>Oo-ee, PhilipPhilip! Se det! Se! Se!"</p>
 
 <p>She drew back with a sudden movement and pointed out of the door. Concealing himself as much as possible from outside observation, Philip peered forth. Not more than a hundred and fifty yards away, a dog team was approaching. There were eight dogs, and instantly he recognized them as the small fox-faced Eskimo breed from the coast. They were dragging a heavily laden sledge.</p>
 
-<p>From the floor came a groan, and for an instant Philip turned to find Blake's blood-shot eyes wide open and staring at him. In that same moment Philip caught a glimpse of Celie. She too was staring—at Blake. For the first time, she saw Blake's face with the light full upon it. Her lips were parted; her eyes were big with amazement; and as she looked she clutched her hands convulsively at her breast and uttered a low, strange cry. At the sound of her cry Blake's eyes went to her, and for the space of a second the imprisoned beast on the floor and the girl looking clown on him made up a tableau that held Philip spellbound.</p>
+<p>From the floor came a groan, and for an instant Philip turned to find Blake's blood-shot eyes wide open and staring at him. In that same moment Philip caught a glimpse of Celie. She too was staringat Blake. For the first time, she saw Blake's face with the light full upon it. Her lips were parted; her eyes were big with amazement; and as she looked she clutched her hands convulsively at her breast and uttered a low, strange cry. At the sound of her cry Blake's eyes went to her, and for the space of a second the imprisoned beast on the floor and the girl looking clown on him made up a tableau that held Philip spellbound.</p>
 
 <p>Swift as a flash, Philip thrust the muzzle of the big Colt against his prisoner's head.</p>
 
@@ -951,23 +1058,23 @@ JANUARY 12, 1918
 
 <p>Philip seized the rifle and placed it again in Celie's hands, stationing her once more at the door.</p>
 
-<p>"Watch—and listen," he said.</p>
+<p>"Watchand listen," he said.</p>
 
 <p>He cut the thongs that bound his prisoner's ankles, and Blake struggled to his feet. When he fronted Philip, the big Colt was eovering his heart.</p>
 
-<p>"Now—talk!" commanded Philip. "You've brought the Eskimos down. What do you want of this girl, and what have you clone with her people?"</p>
+<p>"Nowtalk!" commanded Philip. "You've brought the Eskimos down. What do you want of this girl, and what have you clone with her people?"</p>
 
 <p>He had never looked into the eyes of a cooler man than Blake.</p>
 
-<p>"I ain't built to be frightened," lie said, taking his time about it. "I know your little games, an' I've throwed a good many bluffs of my own in my time. You're lyin' when you say you'll shoot, an' you know you are. I may talk and I may not. Be-fore I make up my mind I'm going to give you a bit of brotherly advice. Take that team out there and hit across the barren —alone. Understand? Alone. Leave the girl here. It's your one chance of missing what happened to--"</p>
+<p>"I ain't built to be frightened," lie said, taking his time about it. "I know your little games, an' I've throwed a good many bluffs of my own in my time. You're lyin' when you say you'll shoot, an' you know you are. I may talk and I may not. Be-fore I make up my mind I'm going to give you a bit of brotherly advice. Take that team out there and hit across the barren alone. Understand? Alone. Leave the girl here. It's your one chance of missing what happened to--"</p>
 
 <p>He grinned and shrugged his huge shoulders.</p>
 
-<p>"You mean Anderson—Olaf Anderson —and the others up at Bathurst Inlet?" questioned Philip chokingly.</p>
+<p>"You mean AndersonOlaf Anderson and the others up at Bathurst Inlet?" questioned Philip chokingly.</p>
 
 <p>Blake nodded.</p>
 
-<p>Philip wondered if the other could hear the pounding of his heart. He had discovered in this moment what the Department had been trying to learn for two years. It was this man—Blake—who was the mysterious white leader of the Kogmollocks, and responsible for the growing criminal record of the natives along Coro-nation Gulf. And he had just confessed himself the murderer of Olaf Anderson! His finger trembled for an instant against the trigger of his revolver. "Then, staring into Blake's face, he slowly lowered the weapon until it hung at his side. Blake's eyes gleamed as he saw what he thought was his triumph.</p>
+<p>Philip wondered if the other could hear the pounding of his heart. He had discovered in this moment what the Department had been trying to learn for two years. It was this manBlakewho was the mysterious white leader of the Kogmollocks, and responsible for the growing criminal record of the natives along Coro-nation Gulf. And he had just confessed himself the murderer of Olaf Anderson! His finger trembled for an instant against the trigger of his revolver. "Then, staring into Blake's face, he slowly lowered the weapon until it hung at his side. Blake's eyes gleamed as he saw what he thought was his triumph.</p>
 
 <p>"It's your one chance," he urged. "And there ain't no time to lose."</p>
 
@@ -977,7 +1084,7 @@ JANUARY 12, 1918
 
 <p>Blake made no effort to disguise his eagerness. In the droop of Philip's shoulder, the laxness of the hand that held the revolver, and the change in his voice, Blake saw in his captor an apparent desire to get out of the mess he was in. A glimpse of Celie's frightened face, turned for an instant, gave weight to his conviction.</p>
 
-<p>"He's down the Coppermine—about a hundred miles. So Bram Johnson—"</p>
+<p>"He's down the Coppermineabout a hundred miles. So Bram Johnson"</p>
 
 <p>His eyes were a sudden blaze of fire.</p>
 
@@ -985,10 +1092,10 @@ JANUARY 12, 1918
 
 <p>Blake leaned forward until Philip felt the heat of his breath.</p>
 
-<p>"What do I want of her?" he demanded slowly. "Why, if you'd been five years without sight of a white woman, an' then you woke up one morning to meet an angel like her on the train two thousand miles up in nowhere, what would yon want of her? I was stunned, plumb stunned, or I'd had her then. And after that, if it hadn't been for that devil with his wolves—"</p>
+<p>"What do I want of her?" he demanded slowly. "Why, if you'd been five years without sight of a white woman, an' then you woke up one morning to meet an angel like her on the train two thousand miles up in nowhere, what would yon want of her? I was stunned, plumb stunned, or I'd had her then. And after that, if it hadn't been for that devil with his wolves"</p>
 
 <p>"Brain ran away with her just as you were about to get her into your hands," supplied Philip, fighting to save time.
-She didn't even know that you wanted her, Blake, so far as I can find out. It's all a mystery to her. I don't believe she's guessed the truth even now. How the devil did you do it? Playing the friend stumt—eh? And keeping yourself in the background while your Kogmollocks did the work? Was that it?</p>
+She didn't even know that you wanted her, Blake, so far as I can find out. It's all a mystery to her. I don't believe she's guessed the truth even now. How the devil did you do it? Playing the friend stumteh? And keeping yourself in the background while your Kogmollocks did the work? Was that it?</p>
 
 <p>Blake nodded. His face was darkening as he looked at Philip, and the light in his eyes was changing to a deep and steady glare. In that moment Philip had failed to keep the exultation out of his voice.</p>
 
@@ -996,13 +1103,13 @@ She didn't even know that you wanted her, Blake, so far as I can find out. It's 
 
 <p>"If I never sent up a real prayer to God before, I'm sending it now, Blake," he said. "I'm thanking Him that Bram Johnson had a soul in his body in spite of his warped brain and his misshapen carcass. And now I'm going to keep my word. I'm not going to lose another minute. Come!"</p>
 
-<p>"You—you mean—"</p>
+<p>"Youyou mean"</p>
 
-<p>"No, you haven't guessed it. We're not going over the barren. We're going back to that cabin on the Coppermine, and you're going with us. Do I make myself clear? I'll shoot you deader than a salt mackerel the instant one of your little murderers shows up on the trail. So tell this owl-faced heathen here to spread the glad tidings when his brothers come in—and spread it good. Quick about it! I'm not bluffing now."</p>
+<p>"No, you haven't guessed it. We're not going over the barren. We're going back to that cabin on the Coppermine, and you're going with us. Do I make myself clear? I'll shoot you deader than a salt mackerel the instant one of your little murderers shows up on the trail. So tell this owl-faced heathen here to spread the glad tidings when his brothers come inand spread it good. Quick about it! I'm not bluffing now."</p>
 
-<p>IN Philip's eyes Blake saw his match now—and more. For three quarters of a minute he talked swiftly to the Eskimo. Philip knew that he was giving the Kogmollock definite instructions as to the manner in which his rescue must he accomplished. But he knew also that Blake would emphasize the fact that it must not be in open attack, no matter how numerous his followers might be.</p>
+<p>IN Philip's eyes Blake saw his match nowand more. For three quarters of a minute he talked swiftly to the Eskimo. Philip knew that he was giving the Kogmollock definite instructions as to the manner in which his rescue must he accomplished. But he knew also that Blake would emphasize the fact that it must not be in open attack, no matter how numerous his followers might be.</p>
 
-<p>He hurried Blake through the door to the sledge and team. The sledge was heavily laden with the meat of a fresh caribou kill, and from the quantity of flesh he dragged off into the snow Philip surmised that the cabin would very soon be the rendezvous of a small army of Eskimos. Retaining only a single quarter of this, he made Celie comfortable and turned his attention to Blake. With babiche cord he re-secured his prisoner with the "manacle-hitch," which gave him free play of one hand and arm—his left. Then he secured the Eskimo's whip, and gave it to Blake.</p>
+<p>He hurried Blake through the door to the sledge and team. The sledge was heavily laden with the meat of a fresh caribou kill, and from the quantity of flesh he dragged off into the snow Philip surmised that the cabin would very soon be the rendezvous of a small army of Eskimos. Retaining only a single quarter of this, he made Celie comfortable and turned his attention to Blake. With babiche cord he re-secured his prisoner with the "manacle-hitch," which gave him free play of one hand and armhis left. Then he secured the Eskimo's whip, and gave it to Blake.</p>
 
 <p>"Now drive!" he commanded. "Straight for the Coppermine, and by the shortest</p>
 
@@ -1023,13 +1130,13 @@ PAGE 17
 
 <p>cut. The moment I see a sign of anything wrong, you're a dead man"</p>
 
-<p>And you—are a fool!" gritted Blake. "Good God, what a fool!"</p>
+<p>And youare a fool!" gritted Blake. "Good God, what a fool!"</p>
 
-<p>"Drive—and shut up!"</p>
+<p>"Driveand shut up!"</p>
 
 <p>Blake snapped his whip and gave a short, angry command in Eskimo.</p>
 
-<p>" Blake's right—I'm a fool," Philip cried down at Celie in a low voice that thrilled with his worship of her. "I'm a fool for risking you, sweetheart. By going the other way I'd have you forever. Maybe you don't realize what we're doing by hitting back to that father of yours. Do you?"</p>
+<p>" Blake's rightI'm a fool," Philip cried down at Celie in a low voice that thrilled with his worship of her. "I'm a fool for risking you, sweetheart. By going the other way I'd have you forever. Maybe you don't realize what we're doing by hitting back to that father of yours. Do you?"</p>
 
 <p>She smiled.</p>
 
@@ -1039,13 +1146,13 @@ PAGE 17
 
 <p>Where the forest thinned out and the edge of the barren crept in, Philip ran at Celie's side; but when the timber thickened and possible hiding places for their enemies appeared in the trail ahead, he was always close to Blake, with the Colt held openly in his hand. At these times Celie watched the back trail. For three quarters of an hour they had followed the single sledge trail, when Blake suddenly gave a command that stopped the dogs. Blake pointed toward the timber. Out of it was rising a dark column of resinous smoke.</p>
 
-<p>"It's up to you," he said coolly to Philip. "Our trail crosses through that timber—and you see the smoke. I imagine there are about twenty of Upi's men there, feeding on caribou. Now, if we go on they're most likely to see us or their dogs get wind of us—and Upi is a bloodthirsty old cutthroat. I don't want that bullet through my gizzard, so I'm tellin' you."</p>
+<p>"It's up to you," he said coolly to Philip. "Our trail crosses through that timberand you see the smoke. I imagine there are about twenty of Upi's men there, feeding on caribou. Now, if we go on they're most likely to see us or their dogs get wind of usand Upi is a bloodthirsty old cutthroat. I don't want that bullet through my gizzard, so I'm tellin' you."</p>
 
 <p>Far back in Blake's eyes lurked a gleam that Philip did not like.</p>
 
 <p>He came a step nearer, and said in a lower voice:</p>
 
-<p>" Brant, that's just one of Upi's crowds. If you go on to the cabin we're heading for, there'll be two hundred fighting men after you before the day is over, and they'll get you whether you kill me or not. Give me the girl—an' you hit out aeross the barren with the team."</p>
+<p>" Brant, that's just one of Upi's crowds. If you go on to the cabin we're heading for, there'll be two hundred fighting men after you before the day is over, and they'll get you whether you kill me or not. Give me the girlan' you hit out aeross the barren with the team."</p>
 
 <p>"We're going on," replied Philip, meeting the other's gaze steadily. "You know your little murderers, Blake. If any one can get past them without being seen, it's you. And you've got to do it. I'll kill you if you don't. The Eskimo may get us after that, but they won't harm her. Under-stand?"</p>
 
@@ -1057,27 +1164,27 @@ PAGE 17
 
 <p>A CRY from Celie turned his gaze from the broad white trail of ice that was the Coppermine, and as he looked she pointed eagerly toward a huge pinnacle of rock that rose like an oddly placed cenotaph out of the unbroken plain.</p>
 
-<p>"She's tellin' you that Bram Johnson brought her this way," Blake chuckled. "Bram was a fool—like you!"</p>
+<p>"She's tellin' you that Bram Johnson brought her this way," Blake chuckled. "Bram was a foollike you!"</p>
 
 <p>He seemed not to expect a reply from Philip, but urged the dogs down the slope into the plain. Fifteen minutes later they were on the surface of the river.</p>
 
-<p>Philip watched Blake—watched him more and more closely as they buried themselves deeper in that unending chaos of the north. And Blake, it seemed to him, was unconscious of that increasing watch-fulness. He increased his speed. They were traveling side by side when he suddenly laughed. There was an unmistakable irony in his voice when he said:</p>
+<p>Philip watched Blakewatched him more and more closely as they buried themselves deeper in that unending chaos of the north. And Blake, it seemed to him, was unconscious of that increasing watch-fulness. He increased his speed. They were traveling side by side when he suddenly laughed. There was an unmistakable irony in his voice when he said:</p>
 
-<p>"It's funny, Brant, that I should like you, ain't it A man who's mauled you an' threatened to kill you! I guess it's because I'm so cussed sorry for you. You're head-ing straight for the gates of hell, an' they're open—wide open.'</p>
+<p>"It's funny, Brant, that I should like you, ain't it A man who's mauled you an' threatened to kill you! I guess it's because I'm so cussed sorry for you. You're head-ing straight for the gates of hell, an' they're openwide open.'</p>
 
 <p>"And you?"</p>
 
 <p>This time Blake's laugh was harsher.</p>
 
-<p>"I don't count—now," he said. "I guess you're thinking I can hold Upi's tribe back. Well, I can't—not when you're getting this far up in their country. If we split the difference, and you gave me her, Upi would meet me half way. God, but you've spoiled a nice dream!</p>
+<p>"I don't countnow," he said. "I guess you're thinking I can hold Upi's tribe back. Well, I can'tnot when you're getting this far up in their country. If we split the difference, and you gave me her, Upi would meet me half way. God, but you've spoiled a nice dream!</p>
 
 <p>"A dream?"</p>
 
 <p>Blake uttered a command to the dogs.</p>
 
-<p>"Yes—more'n that. I've got an igloo up there even finer than Upi's—all built of whalebone and ship's timbers. Think of her in that, Brant—with me! That's the dream you smashed!"</p>
+<p>"Yesmore'n that. I've got an igloo up there even finer than Upi'sall built of whalebone and ship's timbers. Think of her in that, Brantwith me! That's the dream you smashed!"</p>
 
-<p>"And her father—and the others—"</p>
+<p>"And her fatherand the others"</p>
 
 <p>"Don't you know how these Kogmollock heathen look on a father-in-law?" he asked. "He's sort of walkin' delegate over the whole bloomin' family. A god with two legs. The others? Why, we killed them. But Upi and his heathen wouldn't see anything happen to the old man when they found I was going to take the girl. That's why he's alive up there in the cabin now. Lord, what a mess you're heading into, Brant! And I'm wondering, after you kill me and they kill you, who'll have the girl? There's a half-breed in the tribe, an' she'll probably go to him. The heathen themselves don't give a flip for women, you know. So it's certain to be the half-breed.</p>
 
@@ -1093,13 +1200,13 @@ PAGE 17
 
 <p>In the darkness he drew Celie close up into his arms. Her head lay on his breast. He buried his lips in the smothering sweetness of her hair, and her arms crept around his neck. Even then he did not take his eyes from Blake.</p>
 
-<p>After a little he observed that Blake's head was drooping upon his chest, and that his breathing had become deeper. And Celie, nestling on his breast, was soon in slumber. He alone was awake—and watching.</p>
+<p>After a little he observed that Blake's head was drooping upon his chest, and that his breathing had become deeper. And Celie, nestling on his breast, was soon in slumber. He alone was awakeand watching.</p>
 
-<p>And then Philip found himself fighting —fighting desperately to keep awake. Again and again his eyes closed, and he forced them open with an effort. Two hours were gone when, for the twentieth time, his eyes shot open and he looked at Blake. The outlaw had not moved. His head hung still lower on his breast, and again—slowly—irresistibly—exhaustion closed Philip's eyes.</p>
+<p>And then Philip found himself fighting fighting desperately to keep awake. Again and again his eyes closed, and he forced them open with an effort. Two hours were gone when, for the twentieth time, his eyes shot open and he looked at Blake. The outlaw had not moved. His head hung still lower on his breast, and againslowlyirresistiblyexhaustion closed Philip's eyes.</p>
 
 <p>Suddenly his eyes opened, and he stared in a dazed way toward Blake. The night was still. A dozen paces from him was the snow hummock.</p>
 
-<p>But Blake—Blake--</p>
+<p>But BlakeBlake--</p>
 
 <p>His heart leaped into his throat.</p>
 
@@ -1142,7 +1249,7 @@ Nothing Else Matters
 
 <p>"Jimmy!" whispered Dick.</p>
 
-<p>"A beam of bridge iron stove in the end of the box-car. The boxes of dynamite did the rest. A car of black powder the night people had dropped down was standing on Number Four, and two more on Number Two. Those four cars didn't do a thing to the yard—smashed things up all the way from the running track to Sixteen ladder. The two cars on Number Two were what hit you. The office is about a barrelful of ashes."</p>
+<p>"A beam of bridge iron stove in the end of the box-car. The boxes of dynamite did the rest. A car of black powder the night people had dropped down was standing on Number Four, and two more on Number Two. Those four cars didn't do a thing to the yardsmashed things up all the way from the running track to Sixteen ladder. The two cars on Number Two were what hit you. The office is about a barrelful of ashes."</p>
 
 <p>Dick's face was grave.</p>
 
@@ -1216,9 +1323,9 @@ Nothing Else Matters
 
 <p>Olson started to say something, but Dick cut him off.</p>
 
-<p>"I also know that when this man Scott came to Rutherwood from the W. & N. three years ago, he told Whitman the yard ought to have the very changes that Whitman a couple months ago gave you as if they were his own—the plans he's to he promoted for. They were good enough for Whitman when you sent word that something had to be done to move more cars; but three years before that they were so worthless that he told Scott to mind his own business, which was to run the East-bound yard.</p>
+<p>"I also know that when this man Scott came to Rutherwood from the W. & N. three years ago, he told Whitman the yard ought to have the very changes that Whitman a couple months ago gave you as if they were his ownthe plans he's to he promoted for. They were good enough for Whitman when you sent word that something had to be done to move more cars; but three years before that they were so worthless that he told Scott to mind his own business, which was to run the East-bound yard.</p>
 
-<p>"For three years these men who call themselves yard-masters have been letting an average of ten crews be held up in the yard for an hour apiece every twenty-four hours. Count two dollars and a quarter an hour for the crew, and a hundred dollars for the tie-up of your engine and cars, and multiply it by three years, and you have one million one hundred and twenty thousand dollars—what these three yard-masters turned their backs on saving for the company that paid them to work for it.</p>
+<p>"For three years these men who call themselves yard-masters have been letting an average of ten crews be held up in the yard for an hour apiece every twenty-four hours. Count two dollars and a quarter an hour for the crew, and a hundred dollars for the tie-up of your engine and cars, and multiply it by three years, and you have one million one hundred and twenty thousand dollarswhat these three yard-masters turned their backs on saving for the company that paid them to work for it.</p>
 
 <p>"I respectfully agree that criminal suit be started against somebody; but the name should be changed from W. K. Scott to Walter Whitman, the chief day yard-master at the Rutherwood yard."</p>
 
@@ -1226,7 +1333,7 @@ Nothing Else Matters
 
 <p>"No," said the general manager of the Eastern Railroad; "he never was a liar."</p>
 
-<p>"But you don't know him like we do," persisted Whitman sharply. "If you had seen him three or four months ago, when I did—"</p>
+<p>"But you don't know him like we do," persisted Whitman sharply. "If you had seen him three or four months ago, when I did"</p>
 
 <p>"I saw him twenty-four years ago," interrupted the general manager quietly. "He's my son."</p>
 
@@ -1238,7 +1345,7 @@ Nothing Else Matters
 
 <p>He stood up, and the men turned to go.</p>
 
-<p>"Wait in the outer office," whispered Dick to Scott; "but don't tell anything to Rhoda. Not a word—remember."</p>
+<p>"Wait in the outer office," whispered Dick to Scott; "but don't tell anything to Rhoda. Not a wordremember."</p>
 
 <p>Scott nodded bewilderedly. As the latch clicked behind him, Dick took a package of Rutherwood bank bills from his inside pocket, and laid it in front of his father on the big desk.</p>
 
@@ -1246,7 +1353,7 @@ Nothing Else Matters
 
 <p>The general manager of the Eastern Railroad laid down his cigar and silently gripped his son's hand.</p>
 
-<p>"I've got her, too," Dick added. "You know you told me it didn't matter if she cursed or swore or ate with her knife or drank coffee out of her saucer or never saw the inside of a school a day in her life—just so she'd go through hell for me, you said."</p>
+<p>"I've got her, too," Dick added. "You know you told me it didn't matter if she cursed or swore or ate with her knife or drank coffee out of her saucer or never saw the inside of a school a day in her lifejust so she'd go through hell for me, you said."</p>
 
 <p>His father did not flinch.</p>
 
@@ -1262,17 +1369,17 @@ Nothing Else Matters
 
 <p>"You'll never know how I feel to have a daughter like you," he said.</p>
 
-<p>"And this," cried Dick happily, dragging up Scott, "is Rhoda's father—and, excepting you, the brainiest railroad man on the Eastern"</p>
+<p>"And this," cried Dick happily, dragging up Scott, "is Rhoda's fatherand, excepting you, the brainiest railroad man on the Eastern"</p>
 
 <p>"If what this youngster says is half true," remarked the general manager, "I know where for three years we've been hiding a superintendent under a bushel."</p>
 
 Wait a Day or Two Before Mailing Your Complaint
 
-<p>Mail trains—like freight and passenger trains—are often late these days. It's part of the price of war.</p>
+<p>Mail trainslike freight and passenger trainsare often late these days. It's part of the price of war.</p>
 
 <p>Therefore don't sit right down immediately and write to us if your copy of EVERY WEEK does not arrive at the hour when you expect it. Wait twenty-four hours, or better forty-eight. The chances are that it's safely on its way to you, but delayed by the enormous pressure of traffic incident to the war.</p>
 
-<p>This is Conrad Richter, the man who wrote it. He has been a railroad man, and a wanderer, and various other things: and now—still in his early thirties—is the president of a publishing company, and a successful writer.</p>
+<p>This is Conrad Richter, the man who wrote it. He has been a railroad man, and a wanderer, and various other things: and nowstill in his early thirtiesis the president of a publishing company, and a successful writer.</p>
 
 
 
@@ -1289,7 +1396,7 @@ By SEWELL FORD
 
 <p>Not that I was tryin' to be any more like a crab than usual, but just to give her the quick hunch that she's pushed through the wrong door.</p>
 
-<p>You'd 'most think, with a sign on the door in big black letters, that women would have better sense than to come crash-m' into a physical culture studio at all hours. Most of 'em do, too, but there are enough who don't to make it interestin'—stray stenographers trailin' down new Jobs, and young ladies collectin' for various war funds, or huntin' for Mme. Riley, the corsetiere, whose place is across the street. But generally they dash out again about as quick as they dodge in, mostly without stoppin' to explain, specially if Swifty happens to be loafin' around the front office in his low-cut gym suit.</p>
+<p>You'd 'most think, with a sign on the door in big black letters, that women would have better sense than to come crash-m' into a physical culture studio at all hours. Most of 'em do, too, but there are enough who don't to make it interestin'stray stenographers trailin' down new Jobs, and young ladies collectin' for various war funds, or huntin' for Mme. Riley, the corsetiere, whose place is across the street. But generally they dash out again about as quick as they dodge in, mostly without stoppin' to explain, specially if Swifty happens to be loafin' around the front office in his low-cut gym suit.</p>
 
 <p>Not this one, though. Instead of retreatin' panicky, or even answerin' my snappy hail, she stands there quiet, sizin us both up. She's a high, skimpy built party, with a waist about a yard long and a neck like a turkey. Maybe she wasn't six feet, but she didn't lack much of it. Her cheek-bones are kind of prominent; likewise her upper front teeth; and one of her eyes don't exactly track with the other.</p>
 
@@ -1337,17 +1444,17 @@ By SEWELL FORD
 
 <p>That brings out a snicker from Swifty.</p>
 
-<p>"Young lady—" says I.</p>
+<p>"Young lady" says I.</p>
 
 <p>"Tuttle," says she.</p>
 
-<p>"Well, then, Miss Tuttle," I begins again, "maybe it ain't occurred to you that I might have something better to do than—"</p>
+<p>"Well, then, Miss Tuttle," I begins again, "maybe it ain't occurred to you that I might have something better to do than"</p>
 
 <p>"You don't seem remarkably busy," says she, glancin' at my elevated heels.</p>
 
 <p>"Camouflage," says I.</p>
 
-<p>"If you mean you're only pretending not to be busy, you do it very well," says she. "But surely it wouldn't take you long to suggest some way that—"</p>
+<p>"If you mean you're only pretending not to be busy, you do it very well," says she. "But surely it wouldn't take you long to suggest some way that"</p>
 
 <p>"See here!" says I. "If Zubel don't want to see you, 1 can't think of any way you can make him."</p>
 
@@ -1365,7 +1472,7 @@ By SEWELL FORD
 
 <p>"Oh, no," says Miss Tuttle. "Mr. Zubel is engaging people for a new musical re-view. I want a place in the chorus."</p>
 
-<p>"You—you do?" says I, gawpin' at her.</p>
+<p>"Youyou do?" says I, gawpin' at her.</p>
 
 <p>COURSE, driftin' up and down the stairs, I see some odd specimens that are candidates for the hi-yi-yip ranks. But this Miss Pansy Tuttle looks about as much like a chorus girl recruit as I do like a lounge lizard. She's the kind that would be safe anywhere.</p>
 
@@ -1404,13 +1511,13 @@ JANUARY 12, 1918
 
 <p>"Oh!" says I. "You're from one of them old baked-bean families, eh, such as we read about?"</p>
 
-<p>"We go back far enough, goodness knows," says she. "I have been told that father was a direct descendant from Deacon Jedediah Tuttle, who was expelled from Plymouth colony in sixteen seventy something for taking off his boots in church. We've. been doing such things ever since. Father, for instance, was educated for the law; but after losing his first case he never went into his office again. Instead, he started in to make a living as a locksmith and bell-hanger. The village boys used to call him 'Hellbanger Tuttle,' so he had it painted on his cart, and kept it there in defiance of the selectmen, who tried to make him paint it out. And I—well, I'm a Tuttle, you see."</p>
+<p>"We go back far enough, goodness knows," says she. "I have been told that father was a direct descendant from Deacon Jedediah Tuttle, who was expelled from Plymouth colony in sixteen seventy something for taking off his boots in church. We've. been doing such things ever since. Father, for instance, was educated for the law; but after losing his first case he never went into his office again. Instead, he started in to make a living as a locksmith and bell-hanger. The village boys used to call him 'Hellbanger Tuttle,' so he had it painted on his cart, and kept it there in defiance of the selectmen, who tried to make him paint it out. And Iwell, I'm a Tuttle, you see."</p>
 
 <p>"I get a glimmer," says I. "You got to do something different, too. But why not tackle something easy? Why get the chorus-girl bug?'</p>
 
 <p>Pansy shrugs her shoulders.</p>
 
-<p>"It isn't that I'm stage-struck," says she. "It—it's—well, if you must know, it is the only thing I can do that will really satisfy Aunt Abbie."</p>
+<p>"It isn't that I'm stage-struck," says she. "Itit'swell, if you must know, it is the only thing I can do that will really satisfy Aunt Abbie."</p>
 
 <p>Naturally, that leaves 'me with my mouth open, so Miss Tuttle goes on to ex-plain. This Aunt Abbie was some one she'd been livin' with ever since she was sixteen. She's a well meanin' old girl, Auntie, so far as that goes. She had lots of good points--swell cook, Al housekeeper, strong on church work, and her plum preserves couldn't be beat. But her tongue-brake wouldn't hold.</p>
 
@@ -1418,9 +1525,9 @@ JANUARY 12, 1918
 
 <p>"Oh, well," says I, "we all have to have relations."</p>
 
-<p>"Aunt Abbie was more than that," says Pansy. "She was an affliction. And the worst of it was that she was not satisfied to say such things to me in private. At sewing circles, at church sociables, at little afternoon gatherings for tea and cake and gossip, I was dished up—oh, yes, rather entertainingly, I admit. `Yes,' Aunt Abbie would end up with, `when Pansy gets too old to sing in the choir or give music lessons, she'll open a tea-room in the old house here, and sell braided rugs and bayberry candles to the summer folks.' And they would all nod their heads as if it had been settled.</p>
+<p>"Aunt Abbie was more than that," says Pansy. "She was an affliction. And the worst of it was that she was not satisfied to say such things to me in private. At sewing circles, at church sociables, at little afternoon gatherings for tea and cake and gossip, I was dished upoh, yes, rather entertainingly, I admit. `Yes,' Aunt Abbie would end up with, `when Pansy gets too old to sing in the choir or give music lessons, she'll open a tea-room in the old house here, and sell braided rugs and bayberry candles to the summer folks.' And they would all nod their heads as if it had been settled.</p>
 
-<p>"But it hasn't. I despise tea-rooms. I loathe bayberry candles. I may have to stay an old maid, but I'm not going to be that kind. Not while I'm a Tuttle. Not while there's any hope of escape. I've gotten this far, anyway. I'm supposed to be visiting a cousin in Portland—and here I am. More than that, here I stay until I have given Aunt Abbie and all her friends something that they can talk about until their jaws ache. So there!"</p>
+<p>"But it hasn't. I despise tea-rooms. I loathe bayberry candles. I may have to stay an old maid, but I'm not going to be that kind. Not while I'm a Tuttle. Not while there's any hope of escape. I've gotten this far, anyway. I'm supposed to be visiting a cousin in Portlandand here I am. More than that, here I stay until I have given Aunt Abbie and all her friends something that they can talk about until their jaws ache. So there!"</p>
 
 <p>She straightens back in her chair, smooths the ugly brown plaid dress over her knees with her long fingers, and gives me another of them quirky smiles.</p>
 
@@ -1438,7 +1545,7 @@ JANUARY 12, 1918
 
 <p>"Eh?" says I, gawpin'.</p>
 
-<p>"He knows you, doesn't he? she goes on. "He would think— Well, never mind. He'd come.. And that seems to be my only chance. Just think of my having to go back to Aunt Abbie."</p>
+<p>"He knows you, doesn't he? she goes on. "He would think Well, never mind. He'd come.. And that seems to be my only chance. Just think of my having to go back to Aunt Abbie."</p>
 
 <p>"You vin," says H. "Hey, Swifts! Go up and tell Zubel that Professor McCabe wants him to come down here right away. If he asks why, give him one of them no-body home looks of yours and do a re-peat. Get me?"</p>
 
@@ -1452,7 +1559,7 @@ JANUARY 12, 1918
 
 <p>"Ach!" he snorts. "So you got a friend too? They all got one. Yes, even the bootblack on the corner. But they should see Mr. Werner first. What does he tell her, eh?"</p>
 
-<p>"The one with the frizzly hair?" says I. "Why, he tells her she won't do, I expect. But—"</p>
+<p>"The one with the frizzly hair?" says I. "Why, he tells her she won't do, I expect. But"</p>
 
 <p>"No!" roars Abe, explosive. "That's enough. Werner knows. I won't be bothered, I tell you."</p>
 
@@ -1466,7 +1573,7 @@ JANUARY 12, 1918
 
 <p>"Please, Mr. Zubel," she begins, "can't you use me somewhere in your new piece?"</p>
 
-<p>Abie stares at her bug-eyed, takin' in all the details of her build—the juttin' front teeth, the periscope neck effect, and so on.</p>
+<p>Abie stares at her bug-eyed, takin' in all the details of her buildthe juttin' front teeth, the periscope neck effect, and so on.</p>
 
 <p>"You?" he gurgles throaty. "Use you? Am I bug-house completely? No, no, no!'</p>
 
@@ -1476,7 +1583,7 @@ JANUARY 12, 1918
 
 <p>"Why?" he snarls, rollin' his eyes and workin' his heavy jaws. "Young woman, one of the songs we're going to do calls for the whole chorus as diving Venuses. Veil? How would you look as a diving Venus? Hey? You'd be a joke."</p>
 
-<p>"Aren't you looking for jokes?" she asks. "Ht strikes me that as a diving Venus I—"</p>
+<p>"Aren't you looking for jokes?" she asks. "Ht strikes me that as a diving Venus I"</p>
 
 <p>With that, she hunches up one shoulder, sticks her long arms out awkward, with her fingers spread, and throws him one of her reverse-English smiles.</p>
 
@@ -1501,11 +1608,11 @@ PAGE 21
 
 <p>"That's too bad, isn't it?" says Pansy.</p>
 
-<p>"No!" snaps Zubel. "It don't matter. Not at all. The words— Bah! We can make 'em funny. The music, too. It's only the costumes that cost, and they're all ordered. But see here: can you sing?"</p>
+<p>"No!" snaps Zubel. "It don't matter. Not at all. The words Bah! We can make 'em funny. The music, too. It's only the costumes that cost, and they're all ordered. But see here: can you sing?"</p>
 
 <p>"I make my living that way," says Pansy.</p>
 
-<p>"Let's hear," demands Zubel. "Oh, anything—la-la-la."</p>
+<p>"Let's hear," demands Zubel. "Oh, anythingla-la-la."</p>
 
 <p>She's right there with the vocal stuff, Miss Tuttle. And with a speedy performance, too. Never even plays for-an open-in', but takes him at his word and proceeds to trill out the la-la-la's, trippin' light across the floor as she does it, and almost throwin' Swifty into another convulsion by that burlesque finish of hers.</p>
 
@@ -1513,9 +1620,9 @@ PAGE 21
 
 <p>AND say, I guess Abie's picked another winner. The other day he breezes in with this bulletin about the try-out in Troy.</p>
 
-<p>"Honest," says Abie, tappin' me enthusiastic on the chest, "she's a female De Wolf Hopper. Funny! Why, they begin to laugh so soon as she comes on. And they never stop. I've got to fill in a week in Boston with her, and then—Broadway for a two-year run."</p>
+<p>"Honest," says Abie, tappin' me enthusiastic on the chest, "she's a female De Wolf Hopper. Funny! Why, they begin to laugh so soon as she comes on. And they never stop. I've got to fill in a week in Boston with her, and thenBroadway for a two-year run."</p>
 
-<p>"Boston first, eh?" says I. "But say, does she really wear them—er—that—"</p>
+<p>"Boston first, eh?" says I. "But say, does she really wear themerthat"</p>
 
 <p>"Wait!" says Abie. "I'll send you down the new two-sheet of her in costume. It's a perfect likeness."</p>
 
@@ -1533,25 +1640,25 @@ New Hope for Middle Age
 
 concluded front page 5
 
-<p>that the percentage is not worth considering. 1 he causes that I have to consider most often are ignorance of the value of o, dollar, the curse of following the will-o'-the-wisp of politics, physical ills, the garrulous boss, domestic troubles,—particularly ungrateful sons and daughters who had been depended on in trouble,—the lack of keeping abreast of the times, and the scourge of a timid heart."</p>
+<p>that the percentage is not worth considering. 1 he causes that I have to consider most often are ignorance of the value of o, dollar, the curse of following the will-o'-the-wisp of politics, physical ills, the garrulous boss, domestic troubles,particularly ungrateful sons and daughters who had been depended on in trouble,the lack of keeping abreast of the times, and the scourge of a timid heart."</p>
 
 <p>The scourge of a timid heart! It is Mr. Gannon's phrase for the greatest difficulty e has to combat. It is because this Employment Bureau of the Employers' Aso-elation of Chicago, under his direction, sets itself so definitely to fight that scourge, find is so successful in its struggle, that its work is winning the widest report. Many individuals and many corporations have philanthropically given work to men past forty-five; but none of which I have heard has made the regulated, systematic, successful effort of this bureau to raise the morale of men past their youth.</p>
 
-<p>As soon as a discouraged or despairing man enters the door of the offices—indeed, before he is well in—he sees before him a stanza of Mr. Cannon's, printed in large letters that the dimmest eye can read:</p>
+<p>As soon as a discouraged or despairing man enters the door of the officesindeed, before he is well inhe sees before him a stanza of Mr. Cannon's, printed in large letters that the dimmest eye can read:</p>
 
 <p>Smile through all your worry and pain; Brace up! You have not lived in vain; Hold yourself with a strong, tight rein; Say to yourself, "I'm young again.</p>
 
 The 72-Year-Old Bookkeeper Gets a Job
 
-<p>IT is impossible here, of course, even to outline any considerable number of Individual experiences of men placed by the Employers' Association of Chicago; but It is possible to say that there has been a great scattering of the scourge of the timid heart—the timid heart of the employer afraid to try out an old man as well as the timid heart of the man who has lost confidence in himself after many rebuffs; and the, figures, which speak for themselves, that every one is profiting.</p>
+<p>IT is impossible here, of course, even to outline any considerable number of Individual experiences of men placed by the Employers' Association of Chicago; but It is possible to say that there has been a great scattering of the scourge of the timid heartthe timid heart of the employer afraid to try out an old man as well as the timid heart of the man who has lost confidence in himself after many rebuffs; and the, figures, which speak for themselves, that every one is profiting.</p>
 
-<p>One concern that employed a 72-year-old bookkeeper sent by the bureau—and did it first in a spirit of philanthropy—soon wrote in that the man had installed new systems of such decided merit that they were raising his salary. Another large company, employing thousands of men, volunteers its "desire to express satisfaction and appreciation for the character of applicants for employment you have sent. We will, in the future, give special and preferred attention to all you send over to us."</p>
+<p>One concern that employed a 72-year-old bookkeeper sent by the bureauand did it first in a spirit of philanthropysoon wrote in that the man had installed new systems of such decided merit that they were raising his salary. Another large company, employing thousands of men, volunteers its "desire to express satisfaction and appreciation for the character of applicants for employment you have sent. We will, in the future, give special and preferred attention to all you send over to us."</p>
 
 <p>The next sheet in the files is a letter from a concern employing a night force of thirty-five stock and freight shifters which gave great trouble and were constantly quitting work until the concern, sending in a requsition for a new superintendent, found the man among the unemployed over forty-five.</p>
 
-<p>There is reason for the morale of men, though past forty-five and unemployed, improving! And there never was a time when all people—the general public as well as employers—had as great a stake as now in further raising that morale everywhere. "As a man thinks, so is he." Make a man think he is down and out if he has not succceded at a certain age, and you certainly make it extremely difficult for him to succeed. It is the tritest of truisms that we are embarrassed by a labor shortage, and that the whole world faces a man famine after the war.</p>
+<p>There is reason for the morale of men, though past forty-five and unemployed, improving! And there never was a time when all peoplethe general public as well as employershad as great a stake as now in further raising that morale everywhere. "As a man thinks, so is he." Make a man think he is down and out if he has not succceded at a certain age, and you certainly make it extremely difficult for him to succeed. It is the tritest of truisms that we are embarrassed by a labor shortage, and that the whole world faces a man famine after the war.</p>
 
-<p>We can not further call upon our youth to make up the shortage without further sacrificing the future. We are calling out our women to a greater and greater degree. With the proper restrictions, that undoubtedly is good. But one of the greatest advantages that may yet accrue from the present situation may he the discovery and the full utilization of the work of men who have come to think of them-selves as "through" because we have been ignorant or careless enough to think them so—the tens and hundreds of thousands of men past their youth who are either not employed at all or who have been put at employment inferior to their real strength and capacities. There is gain and advancement not only for them but for all who will merely believe in the ability of men :o go far forward even after forty-five!</p>
+<p>We can not further call upon our youth to make up the shortage without further sacrificing the future. We are calling out our women to a greater and greater degree. With the proper restrictions, that undoubtedly is good. But one of the greatest advantages that may yet accrue from the present situation may he the discovery and the full utilization of the work of men who have come to think of them-selves as "through" because we have been ignorant or careless enough to think them sothe tens and hundreds of thousands of men past their youth who are either not employed at all or who have been put at employment inferior to their real strength and capacities. There is gain and advancement not only for them but for all who will merely believe in the ability of men :o go far forward even after forty-five!</p>
 
 
 
@@ -1570,7 +1677,7 @@ THE EDITOR ANSWERS
 
 <p>H thought, as I looked at him, of the article which he wrote for this magazine on being young and well at fourscore. I I remembered that he said in it that, even now, he had a great ambition to ride in an aeroplane.</p>
 
-<p>Eighty-two, and wanting to ride in an aeroplane! Eighty-two, and down to work in the deluge. What an object lesson for the roan who at forty is satisfied with life, for whom life holds no new mysteries, no stimulus to curiosity and expectation. "Most men," said William James,—and I have quoted it many times,—"most men are old fogies at twenty-five." Is any-thing more to be desired than this—that a man should keep his mind so alert, his interest in life so clean-cut and polished, that, even when death catches up with hill) in very old age, it finds him still doing, still young?</p>
+<p>Eighty-two, and wanting to ride in an aeroplane! Eighty-two, and down to work in the deluge. What an object lesson for the roan who at forty is satisfied with life, for whom life holds no new mysteries, no stimulus to curiosity and expectation. "Most men," said William James,and I have quoted it many times,"most men are old fogies at twenty-five." Is any-thing more to be desired than thisthat a man should keep his mind so alert, his interest in life so clean-cut and polished, that, even when death catches up with hill) in very old age, it finds him still doing, still young?</p>
 
 <p>Well, with these few reflections, let's see what's in the mail.</p>
 
@@ -1597,13 +1704,13 @@ You need more speed, for we must read To be an efficient nation.</p>
 
 <p>Yours, Zelienople, Pa. BILL.</p>
 
-<p>Read the paragraph just above, Bill, for an explanation of the delays in delivery—which, by the way, are a thing of the past. And good luck to you. But where, Bill, is Zelienople?</p>
+<p>Read the paragraph just above, Bill, for an explanation of the delays in deliverywhich, by the way, are a thing of the past. And good luck to you. But where, Bill, is Zelienople?</p>
 
 Some One is Always Taking the Joy Out of Life
 
 <p>Ye Hon. Ed.:</p>
 
-<p>Say! Listen! I've got a "mad on"! You spoiled my best form of recreation by pub-fishing your article on "What your right hand does when you telephone." I had that delightful habit until H read the ex-ample; in fact, I had just finished throwing a sheet from my pad into the waste basket. I immediately rescued it, and inclose same here-with. But—the trouble is this: it made me so conscious of this failing that H can not start writing before H think of it. Then the fun quits. What's the use of doing it when you are thinking of how foolish it is?</p>
+<p>Say! Listen! I've got a "mad on"! You spoiled my best form of recreation by pub-fishing your article on "What your right hand does when you telephone." I had that delightful habit until H read the ex-ample; in fact, I had just finished throwing a sheet from my pad into the waste basket. I immediately rescued it, and inclose same here-with. Butthe trouble is this: it made me so conscious of this failing that H can not start writing before H think of it. Then the fun quits. What's the use of doing it when you are thinking of how foolish it is?</p>
 
 <p>How do you do it? Get all these little interesting articles, I mean.</p>
 
@@ -1625,13 +1732,13 @@ Make an E. W. Scrap Book
 
 <p>We have achieved fame at last. An ac-tress has inaugurated a campaign with us as the central feature. Miss Gertrude Mc-Coy is making up scrap books from old copies of EVERY WEEK, and shipping them to the hospitals in France for the entertainment and instruction of the wounded American soldiers.</p>
 
-<p>Readers of the magazine who would like to cooperate in this worthy enterprise are invited to secure a good strong book,—an ordinary ledger or day book is satisfactory,—cut out every other leaf, so that the book will not bulk too large, and fill it with pasted extracts from the magazine.</p>
+<p>Readers of the magazine who would like to cooperate in this worthy enterprise are invited to secure a good strong book,an ordinary ledger or day book is satisfactory,cut out every other leaf, so that the book will not bulk too large, and fill it with pasted extracts from the magazine.</p>
 
 <p>hen completed the books may be sent to Miss Gertrude McCoy, care Hoffman-Foursquare Pictures, 729 Seventh Avenue, New York. Miss McCoy has made arrangements to forward them to France.</p>
 
 On Lunching with Prominent Man
 
-<p>I lunched the other day with a prominent mall who was in Paris on the very eve of war. He told me about the tension in the American Embassy at that time. He said that Ambassador Herrick called the German Ambassador on the telephone, and told him—in the language of plain, old-fashioned business, not the language of diplomacy—that what his government was doing would incur the hatred of all mankind.</p>
+<p>I lunched the other day with a prominent mall who was in Paris on the very eve of war. He told me about the tension in the American Embassy at that time. He said that Ambassador Herrick called the German Ambassador on the telephone, and told himin the language of plain, old-fashioned business, not the language of diplomacythat what his government was doing would incur the hatred of all mankind.</p>
 
 <p>Think back to those days. Remember that for a period of forty-eight hours or so the fate of the whole world hung on the decision of half a dozen men. Those half dozen could have saved the blood of millions: yes, even one of them could have done it.</p>
 
@@ -1667,9 +1774,9 @@ He Made the Liberty Motor
 
 <p>Out of that conversation has come the Liberty Motor. Jesse Gurney Vincent is the young engineer. He is one of the two men who made the now famous engine for fighting aircraft hailed by the government board of experts as the most perfect thing of its kind. The other is E. J. Hall, of the Hall-Scott Motor Company of Berkeley, California. Thanks to their work, it was officially announced recently that there are now "no demands of this Government or the Allies that can not be met after next July."</p>
 
-<p>After that talk in the shop Mr. Vincent went to work. He kept at it day and night for nearly three years, and the Packard Motor Company—of which he is vice-president—spent $400,000 on his experiments.</p>
+<p>After that talk in the shop Mr. Vincent went to work. He kept at it day and night for nearly three years, and the Packard Motor Companyof which he is vice-presidentspent $400,000 on his experiments.</p>
 
-<p>Young Vincent—he is only thirty-eight —puts it all up to hard work. As he looks at it, he was bound to get results if he kept plugging. The fear that his country might go to war with his particular link in the preparedness chain missing only made him work faster. He is an engineer who gained knowledge first in the school of hard experience and backed it up later with hard study.</p>
+<p>Young Vincenthe is only thirty-eight puts it all up to hard work. As he looks at it, he was bound to get results if he kept plugging. The fear that his country might go to war with his particular link in the preparedness chain missing only made him work faster. He is an engineer who gained knowledge first in the school of hard experience and backed it up later with hard study.</p>
 
 <p>When he was seventeen Vincent left his father's home and got a job as bookkeeper in a St. Louis store. But that kind of figuring didn't appeal to him, and after a year he quit his white-collar job to put on the flannel shirt and overalls of an apprentice in a machine shop. He became an expert machinist and toolmaker, and in 1902 the Universal Adding Machine Company of St. Louis took him on as a toolmaker. It wasn't very long before he had charge of his department.</p>
 
