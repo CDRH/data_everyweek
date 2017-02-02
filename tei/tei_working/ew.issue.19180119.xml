@@ -1,3 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180119">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, January 19, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180119</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2016</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-01-19">January 19, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-02-02"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19180119.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. &#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>January 19, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<p></p>
+<ab type="credit"></ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180119.p002"/>
+
+
 January 19, 1918         $1 00 a Year
 Every Week
 5c
@@ -67,7 +176,7 @@ Where Will You Be Ten Years from Now?
 
 <p>Thirty-five years ,without reading a book or seeking the companionship of any one who might have added to his knowledge. Thirty-five years&#8212;and not one inch of mental progress.</p>
 
-<p>We hear a great deal about the different types of minds in the world: but there are, after all, only two types—the open and the shut. Only last week I saw the&#8212;two types beautifully illustrated.</p>
+<p>We hear a great deal about the different types of minds in the world: but there are, after all, only two typesthe open and the shut. Only last week I saw the&#8212;two types beautifully illustrated.</p>
 
 <p>I lunched with a man who was an applicant for a job with the organization to which I belong.</p>
 
@@ -122,7 +231,7 @@ THE WAR NURSE AS THE SOLDIER SEES HER
 <hi rend="italic">By</hi> CAPTAIN A. P. CORCORAN
 
 <p><hi rend="italic">"Efficiency may be an excellent thing in a nurse; but, to my mind, humanity comes first. After a man is carried off the field, his mind keeps reverting to the horrors he has experienced. Better than anything else is the power to make him forget what is behind him&#8212;and what is probably before him.</hi></p>
-© International Film Service, Inc.
+ International Film Service, Inc.
 
 <p>IT was a badly equipped hospital at best. Nurses were few, supplies inadequate. Just now the enemy were bombarding the town of B&#8212;, on the principal street of which it stood.</p>
 
@@ -166,7 +275,7 @@ Helping Soldiers to Forget
 
 <p>THERE was one, an Irish girl who had I been trained in New York. When the newcomer began to disturb her ward with his shrieks, she used to go up to him and shake him by the shoulder.</p>
 
-<p>"What do you mean," she would demand, opening her eyes wide at him, with an odd mixture of severity and kindly sympathy—"what do you mean by waking up all the other poor patients? &#8212;Think you're in a field, do you?'</p>
+<p>"What do you mean," she would demand, opening her eyes wide at him, with an odd mixture of severity and kindly sympathy"what do you mean by waking up all the other poor patients? &#8212;Think you're in a field, do you?'</p>
 
 <p>And by thus ignoring the real trouble she usually got him back to terra firma. Sometimes she made her man indignant; and all the better. He forgot his nightmare the more readily. She had a very amusing experience with an Apache.</p>
 
@@ -243,7 +352,7 @@ The Story of a Signalman
 
 <p>He is typical of the Royal Engineers.</p>
 
-© International Film Service, Inc.
+ International Film Service, Inc.
 <hi rend="italic">The wreck of a Zeppelin brought down by French aviators. On the stretcher lies one of the crew, mortally wounded.</hi>
 
 He Waved at Him, Then Shot Him
@@ -573,7 +682,7 @@ A Matter of Temperament
 
 <p>So there had been, of course, furtive hand pressures, stolen delicious kisses, and shadowy understandings between David and Charlotte Lind, with no talk, and no very definite thought, of marriage. The pres- ent seemed all-sufficient to David.</p>
 
-<p>TOWARD spring, however, the desire to put the treasures of the world at the feet of the ineffable Charlotte began to make Hornby's sixteen dollars a week seem grotesquely inadequate—impossible, even.</p>
+<p>TOWARD spring, however, the desire to put the treasures of the world at the feet of the ineffable Charlotte began to make Hornby's sixteen dollars a week seem grotesquely inadequateimpossible, even.</p>
 
 <p>Clifford Holden then came home from Europe. The Hoidens had money. Clifford Holden began to pass in a whirl of dust and splendor through Lindale's streets; in a gleaming crimson car&#8212;this in a time when cars were not so numerous as now. Clifford's was easily the finest car in Lindale. And not infrequently David Harris, gathering his dull news, breathed the dust and fumes of that car at crossings, embittered by the sight of Charlotte beside Clif Holden in the driver's seat.</p>
 
@@ -667,7 +776,7 @@ A Matter of Temperament
 
 <p>"What do you suppose I wish?" he asked scornfully.</p>
 
-<p>"Go away!" she cried. "Will you go?" "Yes&#8212;when I have told you—"</p>
+<p>"Go away!" she cried. "Will you go?" "Yes&#8212;when I have told you"</p>
 
 <p>"Oh!"</p>
 
@@ -758,7 +867,7 @@ Photograph by Central News Photograph Service.
 <p>BEHOLD, then, Henry Elionsky,the Human Submarine. It is Henry's delight to perform such prodigies as this, <hi rend="italic">viz</hi>: to swim through Hell Gate with a man hand-cuffed to either arm; to swim down the bay with a 200-pound man on his back; or, strapped in a chair, as shown, to swim merrily up and down. Floating on his back, disguised as a three-masted schooner, Henry might be very useful in the present crisis. On the approach of a submarine, he could submerge, and. coming up behind the submarine, bite off its propeller.</p>
 
 <p>WAR is a curious business. Plenty of men who are considered, in business, good enough to live and hold first-class jobs are not considered, in war, good enough to die. Candidates for flying have to pass the severest tests. For example, after being whirled ten times in ten seconds, this young man must be able in a reasonable time to swing around and touch with his finger the finger of the examiner. It is a nice little test. Try it over on your piano-stool.</p>
-© Paul Thompson.
+ Paul Thompson.
 
 (c) Underwood Underwood
 <p>WHEN the Presi-dential chair be-came uncomfortably warm, owing to the fires built under it by the Democrats and Progressives, Mr. Taft used to like to run over to New York to the Lighthouse&#8212;the great building erected for the blind. On one such occasion Mr. Taft found this huge oak chair, fashioned and carved for him by blind men; the sun, above his head, representing the new hope that has come to the blind through training for work. The picture was made shortly before Mr. Taft's campaign for reelection, which is why he appears to be slipping.</p>
@@ -869,7 +978,7 @@ looked when she said them, as that&#8212;well, that she was the woman who eight 
 
 <p>"Well, you were always that sort of boy. And now you look&#8212;very prosperous."</p>
 
-<p>"Well—yes. I've made money," he had admitted candidly. "But nothing like the quantity I've inherited. Do you know that if you'd put up with me another four years you'd have been able to marry almost a millionaire? You'd have got the money you wanted so badly."</p>
+<p>"Wellyes. I've made money," he had admitted candidly. "But nothing like the quantity I've inherited. Do you know that if you'd put up with me another four years you'd have been able to marry almost a millionaire? You'd have got the money you wanted so badly."</p>
 
 <p>Charlotte had tried, upon that, to sup-press a fleeting expression of&#8212;was it regret? She had said, finally, passing it off as a jest: "It <hi rend="italic">was </hi>a pity, wasn't it?"</p>
 
@@ -901,13 +1010,13 @@ looked when she said them, as that&#8212;well, that she was the woman who eight 
 
 <p>With a sudden bound he was close beside her, his hand closing upon hers. She said no more, but sat looking straight ahead across the green river to the hills.</p>
 
-<p>"And—what?" he asked.</p>
+<p>"Andwhat?" he asked.</p>
 
 <p>"And no man ever really wanted me who did not try to take advantage of me in a situation of this kind," she said evenly.</p>
 
 <p>A twinge of some sort pierced him. He couldn't, for the life of him, have said whether it was feeling for her, or a sort of vague, almost impersonal jealousy.</p>
 
-<p>`You can't have everything, Charlotte. I've learned that of life, if I've learned nothing else. The things of splendid youth—the snows of yesteryear! Once you could have had&#8212;well&#8212;passionate love of me, but little else. I had no more to give. Now there's very little I can't offer you except&#8212;what you wouldn't take before."</p>
+<p>`You can't have everything, Charlotte. I've learned that of life, if I've learned nothing else. The things of splendid youththe snows of yesteryear! Once you could have had&#8212;well&#8212;passionate love of me, but little else. I had no more to give. Now there's very little I can't offer you except&#8212;what you wouldn't take before."</p>
 
 <p>She turned and stared slowly, disconcertingly, into his face.</p>
 
@@ -958,7 +1067,7 @@ THE MELTING POT
 <hi rend="italic">In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes of Health, Efficiency, Travel, Biography, and Adventure</hi>
 
 <p>AS a young man in the Soudan and in South Africa, General Byng es-tablished a military reputation that his surprise attack at Cambrai in November, 1917, has increased many times over. According to British military experts, the credit of this attack is divided between Byng and the tanks. From May, 1915, until June, 1916, he commanded the Canadian army, in which the soldiers are still called the "Byng boys," transforming them from a bodyof loosely disciplined men to one of the most tightly knit divisions of the army. His method is summed up in a wail from one of his men: "Parade in the morning, parade in the afternoon, parade in the evening!" However, the Canadians added to Sir Julian's titles the name of "Bingo Byng," in which they expressed a vast amount of affectionate respect.</p>
-British official photograph: © Underwood & Underwood
+British official photograph:  Underwood & Underwood
 
 HOW DAVIS ENCOURAGED YOUNG WRITERS
 
@@ -1002,7 +1111,7 @@ HUMAN NATURE IS INCONSISTENT
 
 <p>"Christmas trees were burning everywhere in the trenches, and at midnight all the trees were lifted on to the parapet with their burning candles, and along the whole line German soldier's began to sing Christmas songs in chorus. '0 thou blissful, 0 thou joyous, mercy-bringing Christmas-time!'&#8212;hundreds of men were singing the song in that fearful wood.</p>
 
-<p>"The French left their trenches and stood on the parapet without any fear. There they stood; quite overpowered by emotion, and all of them with cap in hand. We, too, had issued from our trenches. We exchanged gifts with the French&#8212; chocolate, cigarettes, etc. They were all laughing, and so were we; why, we did not know. Then everybody went back to his trench, and incessantly the carol resounded, ever more solemnly, ever more longingly&#8212;'0 thou blissful—'</p>
+<p>"The French left their trenches and stood on the parapet without any fear. There they stood; quite overpowered by emotion, and all of them with cap in hand. We, too, had issued from our trenches. We exchanged gifts with the French&#8212; chocolate, cigarettes, etc. They were all laughing, and so were we; why, we did not know. Then everybody went back to his trench, and incessantly the carol resounded, ever more solemnly, ever more longingly&#8212;'0 thou blissful'</p>
 
 <p>"All around silence reigned; even the murdered trees seemed to listen. The charm continued, and one scarcely dared to speak. Why could it not always be as peaceful? We thought and thought, we we were as dreamers, and had forgotten everything about us. Suddenly a shot rang out; then another one was fired somewhere. The spell was broken. All rushed to their rifles. Our Christmas was over."</p>
 
@@ -1032,13 +1141,13 @@ COLONEL HOUSE A MYSTERY STILL
 <p>Probably lie has a million&#8212;maybe two or three. At any rate, he has been known to say that he has all the money he ever wants to own and is not interested in getting more. His business office in Washington consists of one small room, with an old-fashioned flat-topped desk that has seen better days, a few filing cases, some chairs, a small old-fashioned safe. On the glass door are the words: "Mr. E. M. House."</p>
 
 <p>It is said that hardly a hundred politicians in Texas know him to speak to, yet every Governor for ten years has felt his influence in the campaign, and his support is more desired than that of any other citizen in the State. Apparently he is absolutely sincere in his great dislike for publicity and his entire lack of selfishness. He loves politics as other men love business or golf. He wants to handle the machinery and get results. But for himself he wants&#8212;nothing.</p>
-© Paul Thompson
+ Paul Thompson
 
 <hi rend="italic">JANUARY 19, 1918</hi>	        <hi rend="italic">PAGE 17</hi>
 
 WHISTLER'S BAD RECORD
 
-© International Film Service. Inc.
+ International Film Service. Inc.
 
 <hi rend="italic">It was Whistler who first thought of making pictures of scenes like this. Up to his time, romantic-looking woodland glades, with ruined castles in the distance, were considered more suitable as subjects for a painter. But Whistler saw beauty in modern industry, with all its bustle and smokestacks.</hi>
 
@@ -1094,7 +1203,7 @@ sion is reached by an analysis of the measurements of important men in all walks
 
 <p>Mr. Gowin does not claim that size is necessary to success. A place at the foot of the list is as honorable as the head. But with remarkable consistency the men of small physical dimensions hold positions calling for little executive leadership.Most of them are of the artistic or intellectual type. The ten lowest on the list in respect of size are artists, authors, chief justices of state courts, publishers, manufacturers, merchants, psychologists, philosophers, and lecturers, with musicians bringing up the foot.</p>
 
-<p>As among men in the same lines of wcrk, those at the top average decidedly taller and heavier than their humble competitors. Bishops are seventeen pounds heavier and almost two inches taller than preachers in small towns. University presidents are superior to presidents of small colleges by more than one inch and nearly seventeen • pounds and a half. City school superintendents are seven tenths of an inch and twenty-one pounds above school principals in small places. Sales managers tower over mere salesmen by more than one inch and twenty-five and a half pounds. While railroad presidents average almost an inch and a half and thirty-one and a half pounds above their station agents. In every case the larger position is held by the larger man.</p>
+<p>As among men in the same lines of wcrk, those at the top average decidedly taller and heavier than their humble competitors. Bishops are seventeen pounds heavier and almost two inches taller than preachers in small towns. University presidents are superior to presidents of small colleges by more than one inch and nearly seventeen  pounds and a half. City school superintendents are seven tenths of an inch and twenty-one pounds above school principals in small places. Sales managers tower over mere salesmen by more than one inch and twenty-five and a half pounds. While railroad presidents average almost an inch and a half and thirty-one and a half pounds above their station agents. In every case the larger position is held by the larger man.</p>
 
 <p>In many instances, obviously, the small job brings with it a lean diet, while the important positions are held by older men whom the youngsters on the rungs below may hope to rival at least in weight as age and wisdom increase.</p>
 
@@ -1182,7 +1291,7 @@ THE GOLDEN SNARE
 
 <p>"Lord bless us, but it's funny," he grunted. "They're coming on the next train, so to speak. And right over in that neck of woods is the other half of Upi's tribe, chasing their short legs off to get me. And the comical part of it is, you're <hi rend="italic">alone</hi>!" His eyes were fixed suddenly on the revolver. "Ammunition?" he demanded eagerly. "And&#8212;grub?"</p>
 
-<p>"Thirty or forty rounds of rifle, a dozen Colt, and plenty of meat—"</p>
+<p>"Thirty or forty rounds of rifle, a dozen Colt, and plenty of meat"</p>
 
 <p>"Then into the cabin, and the dogs with us!" almost shouted the Swede.</p>
 
@@ -1262,7 +1371,7 @@ THE GOLDEN SNARE
 
 <p>"They're moving, Phil! Take the men with the battering-rams&#8212;and let them get half way before you fire!</p>
 
-<p>"You see, Bram and his wolves had to have meat. Blake attacked while he was gone. Russians killed—Armin and I cornered, fighting for the girl behind us, when Bram came back like a burst of thunder. He didn't fight. He grabbed the girl, and was off with her like the wind with his wolf-team. Armin and I got into this cabin, and here&#8212;forty days and nights&#8212;"</p>
+<p>"You see, Bram and his wolves had to have meat. Blake attacked while he was gone. Russians killedArmin and I cornered, fighting for the girl behind us, when Bram came back like a burst of thunder. He didn't fight. He grabbed the girl, and was off with her like the wind with his wolf-team. Armin and I got into this cabin, and here&#8212;forty days and nights&#8212;"</p>
 
 <p>His voice stopped ominously. A fraction of a second later it was followed by the roar of his rifle, and at the first shot one of Blake's Kogmollocks crumpled up with a grunt half way between the snow-ridge and the forest.</p>
 
@@ -1280,7 +1389,7 @@ THE GOLDEN SNARE
 
 <p>"You must stay here!" he cried. "Do you understand? <hi rend="italic">Here</hi>!"</p>
 
-<p>Olaf was peering through the gun-hole. And then came what he had expected—a rattle of fire from the snow-ridge. The <hi rend="italic">pit-pit-pit</hi> of bullets rained against the cabin in a dull tattoo. Through the door came a bullet, sending a splinter close to Armin's
+<p>Olaf was peering through the gun-hole. And then came what he had expecteda rattle of fire from the snow-ridge. The <hi rend="italic">pit-pit-pit</hi> of bullets rained against the cabin in a dull tattoo. Through the door came a bullet, sending a splinter close to Armin's
 
 <hi rend="italic">PAGE 20 EVERY WEEK</hi>	    <hi rend="italic">JANUARY 19, 1918</hi>
 
@@ -1308,7 +1417,7 @@ face. One of the dogs emitted a wailing howl and flopped among its comrades in u
 
 <p>SCARCELY had he made this guess  when the fusillade ended, and Olaf sprang to his feet. Philip had risen, when the Swede's voice came to him in a choking cry. Prepared for the rush he had expected, Olaf was making an observation through the gun-crevice. Without turning his head, he yelled back at them:</p>
 
-<p>"Good God&#8212;it's Bram—Bram Johnson!"</p>
+<p>"Good God&#8212;it's BramBram Johnson!"</p>
 
 <p>Bram and his wolves! The pack was free, spreading out fan-shape, driving on like the wind! Behind them was Bram. His yell came to them. It rose above all other sound, like the cry of a great beast. The wolves came faster, and then&#8212;</p>
 
@@ -1337,7 +1446,7 @@ Suddenly there arose from the ranks of the Kogmollocks a strange and terrible cr
 
 <p>In a dazed fashion Philip handed his tobacco pouch to the Swede.</p>
 
-<p>"You said<p>—</p>Princess Celie<p>—</p>the Duke of Rugni—"</p>
+<p>"You said<p></p>Princess Celie<p></p>the Duke of Rugni"</p>
 
 <p>Olaf nodded as he stuffed his pipe bowl.</p>
 
@@ -1353,7 +1462,7 @@ Suddenly there arose from the ranks of the Kogmollocks a strange and terrible cr
 
 <p>"And you've got the job half done, Phil. The Duke may go back and raise the devil with the people who put him in cold storage, but Lady Celie is going to like America!"</p>
 
-<p>IT was late that afternoon, traveling  slowly southward over the trail of the Coppermine, when they heard far behind them the• wailing cry of Bram Johnson's wolves. The sound came only once, like the swelling surge of a sudden sweep of wind; yet, when they camped at the beginning of darkness, Philip was confident that the madman and his pack were close behind them. Twice in the stillness of his long vigil he heard strange cries. Once it was the cry of a beast. The second time it was that of a man.</p>
+<p>IT was late that afternoon, traveling  slowly southward over the trail of the Coppermine, when they heard far behind them the wailing cry of Bram Johnson's wolves. The sound came only once, like the swelling surge of a sudden sweep of wind; yet, when they camped at the beginning of darkness, Philip was confident that the madman and his pack were close behind them. Twice in the stillness of his long vigil he heard strange cries. Once it was the cry of a beast. The second time it was that of a man.</p>
 
 <p>The second day, with dogs refreshed, they traveled faster, and it was this night they camped in the edge of timber and built a huge fire. It was such a fire as illumined the space about them for fifty paces or more. And it was into this light that Bram Johnson stalked, so suddenly and so noiselessly that a sharp little cry sprang from Celie's lips, and Olaf and Philip and the Duke of Rugni stared in wide-eyed amazement.</p>
 
@@ -1471,13 +1580,13 @@ A Matter of Temperament&#8212;<hi rend="italic">Continued from page 15</hi>
 
 <p>Charlotte, opening it on what was to have been her wedding morning, read:</p>
 
-<p>Yes, you did hurt me that day eight years ago. And you were right—I have never forgiven you for it. And you were right upon the third count: I do not want to marry you.</p>
+<p>Yes, you did hurt me that day eight years ago. And you were rightI have never forgiven you for it. And you were right upon the third count: I do not want to marry you.</p>
 
 <p>I have promised myself always that I would even scores with you. This will do it.</p>
 
 <p>It was never anything but the money you wanted, really. I realized that. Well, here you have it.</p>
 
-<p>Perhaps you won't think this is evening scores. For me, it is. If it happens, at the same time, that you have what you want most&#8212;why, it is something that has no value to me and so—it doesn't matter!</p> DAVID HARRIS.
+<p>Perhaps you won't think this is evening scores. For me, it is. If it happens, at the same time, that you have what you want most&#8212;why, it is something that has no value to me and soit doesn't matter!</p> DAVID HARRIS.
 
 <p>A slip of bluish paper fluttered from the envelop as she shook it. It made her gasp when she examined it. It was a check for one hundred thousand dollars.</p>
 
@@ -1665,7 +1774,7 @@ Free Booklets You May Have for the Asking
 
 <p>Prices of all securities have declined to so low a level that many good investments will produce a high interest return. A recent number of the <hi rend="italic">Bache Review</hi> contains a selective list of such investments showing present price, dividends, and yields compared with the high price since 1906. Also comparisons of prices before the war and now, showing that a large number of high-class stocks are selling at the lowest price for ten years. Copies will be sent on application to J. S. Bache & Company, members of the New York Stock Exchange, 42 Broadway, New York City. The safety of the first-mortgage loans of Perkins & Company, of Lawrence, Kansas, has been fully established by over forty years of successful business. Interest paid promptly each six months. Our saving certificates, yielding 6 per cent, are convenient for small investors. Write for circular No. 721.</p>
 
-<p>Forty-nine years of successful experience, capital and surplus of eight million dollars, resources of over sixty-five million dollars, are-safeguards distinguishing the Citizens Savings and • Trust Company, Cleveland, Ohio. This bank will send its booklet "P" free on request.</p>
+<p>Forty-nine years of successful experience, capital and surplus of eight million dollars, resources of over sixty-five million dollars, are-safeguards distinguishing the Citizens Savings and  Trust Company, Cleveland, Ohio. This bank will send its booklet "P" free on request.</p>
 
 <p>When confronted with a mass of technical and statistical information concerning stocks and bonds, have you ever wanted a terse and readable publication with honesty and ability in which you could have confidence? The <hi rend="italic">Odd Lot Review</hi>, published weekly, aims to fill this field. Sample copies will be sent on request to the Odd Lot Review, Inc., 61 Broadway, New York City.</p>
 
