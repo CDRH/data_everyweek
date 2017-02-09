@@ -1,50 +1,178 @@
-January 26, 1918 $1 00 a Year
-Every Week
-5c
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-NOTICE TO READER
-When you finish reading this copy of Every Week, place a one cent stamp on the notice, hand same to any postal employee and it will be placed in the hands of our soldiers
- and sailors at the front.  No wrapping, no address.--A. S. Burleson, Postmaster General
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180119">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, January 26, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180126</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-01-26">January 26, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-02-09"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19180126.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER</note>
+<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>January 26, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<p></p>
+<ab type="credit">J. Cosella</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
  
-<hi rend="italic"> PAGE 2 EVERY WEEK        JANUARY 26, 1918</hi>
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180126.p002"/>
+
+<text type="nonfiction" xml:id="baseball.19180126">
+<body>
+
+<head type="main">This Man Saved Baseball</head>
+
+<cb n="1"/>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from N. B. Beasley</ab>
+<p>N. C. Wright firmly in the saddle&#8212;where he put the American League for its gallop to fame.</p>
+<figDesc></figDesc>
+</figure>
  
- This Man Saved Baseball
- 
-<hi rend="italic">N. C. Wright firmly in the saddle&#8212;where he put the American League for its gallop to fame.</hi>
-Photograph from N. B. Beasley
+<p>FANS, meet Mr. N. C. Wright. He's editor and one of the owners of the Detroit <hi rend="italic">Journal</hi>, the Toledo <hi rend="italic">Blade</hi>, and the Newark <hi rend="italic">Star-Eagle</hi>. He is also the man who saved baseball.</p>
 
-<p>FANS, meet Dr. N. C. Wright. He's I. editor and one of the owners of the Detroit Journal, the Toledo Blade, and the Newark Star-Eagle. He is also the man who saved baseball.</p>
+<p>Mr. Wright was night manager of the Associated Press, with headquarters in Chicago, when Ban Johnson, then a sports writer, started the American League in 1900. Interest in the game had been lagging for lack of competition; and Mr. Wright, believing that the new circuit would be the means of saving the game, 
 
-<p>Mr. Wright was night manager of the Associated Press, with headquarters in Chicago, when Ban Johnson, then a sports writer, started the American League in 190o. Interest in the game had been lagging for lack of competition; and Dr. Wright, believing that the new circuit would be the means of saving the game,gave the Americans a lot of attention.</p>
+<cb n="2"/>
 
-<p>The directors of the great press association did not agree with Dr. Wright, but he went ahead putting the box score on the wires&#8212;perhaps he, like Nelson, had a blind side for orders he thought best not to heed. But finally there came a posi- tive mandate that the American League service to newspapers was to be discontinued. Dr. Wright was: off duty when the order came in, and the service was chopped off at once. But in a few days the sports editors in half a hundred cities were bombarding the Associated Press with demands that the new baseball league's doings be treated as news.</p>
+gave the Americans a lot of attention.</p>
+
+<p>The directors of the great press association did not agree with Mr. Wright, but he went ahead putting the box score on the wires&#8212;perhaps he, like Nelson, had a blind side for orders he thought best not to heed. But finally there came a positive mandate that the American League service to newspapers was to be discontinued. Mr. Wright was off duty when the order came in, and the service was chopped off at once. But in a few days the sports editors in half a hundred cities were bombarding the Associated Press with demands that the new baseball league's doings be treated as news.</p>
 
 <p>Ban Johnson knew only that his baby league was out in the cold and like to die of inattention. He hurried around to see Wright.</p>
 
 <p>"The American League will be ruined unless you carry its scores," he said almost tearfully.</p>
 
-<p>"Stop worrying," answered Dr. Wright. "We'll carry the scores."</p>
+<p>"Stop worrying," answered Mr. Wright. "We'll carry the scores."</p>
 
 <p>And that night the service was resumed. The directors had seen some of the caustic telegrams from baseball editors, and they decided to forget Wright's insubordination.</p>
 
 <p>Fed on full rations of publicity, the new league grew rapidly. Let's see: wasn't it an American League team that won the world series last fall?</p>
 
-WAR-TIME $1 IDEAS
+</body>
+</text>
+
+<text type="nonfiction" xml:id="ideas.19180126">
+<body>
+
+<head type="main">WAR-TIME $1 IDEAS</head>
 
 <p><hi rend="italic">MY, what a lot of folks have ideas for saving a dollar to meet war-time needs! After we printed that piece from the man who was economizing by blacking his own boots, and invited confidences, our mail almost doubled. Something like 200 persons took it out on the barber by boosting home-made shaves. But there was variety as well as volume of ideas. Here are some of them:</hi></p>
 
-Shave Yourself and Buy a Bond
+<div1>
+<head type="sub">Shave Yourself and Buy a Bond</head>
 
-<p>Do you get shaved every day ? At fif- teen cents a shave? I thought so. Pardon me for relapsing into the statisticular, but it costs you $54.75 a year.</p>
+<cb n="1"/>
 
-<p>Suppose you buy a $5 safety razor with six extra blades, a strop and hone for a dollar, a seventy-five-cent brush, and a dollar's worth of soap. At a total cost of $7.75 you have equipped yourself with the apparatus to shave yourself for three hundred and sixty-five days, and if the fingers that rub in the lather are not perfectly clean it's only because you didn't wash them. All right.</p>
+<p>Do you get shaved every day? At fifteen cents a shave? I thought so. Pardon me for relapsing into the statisticular, but it costs you $54.75 a year.</p>
+
+<p>Suppose you buy a $5 safety razor with six extra blades, a strop and hone for a dollar, a seventy-five-cent brush, and a dollar's worth of soap. At a total cost of $7.75 you have equipped yourself with the 
+
+<cb n="2"/>
+
+apparatus to shave yourself for three hundred and sixty-five days, and if the fingers that rub in the lather are not perfectly clean it's only because you didn't wash them. All right.</p>
 
 
-<p>Now subtract $7.75 from $54.75. Forty- seven dollars&#8212;—nearly the price of one Liberty Bond&#8212;—to the good. Isn't it worth while?</p> C. L. F.
+<p>Now subtract $7.75 from $54.75. Forty-seven dollars&#8212;nearly the price of one Liberty Bond&#8212;to the good. Isn't it worth while?</p> 
 
-Showing Your Heels to the H. C. L.
+<byline>C. L. F.</byline>
+</div1>
+<div1>
+<head type="sub">Showing Your Heels to the H. C. L.</head>
 
-<p>RUBBER heels at about a cent a pair&#8212;—  that is what mine are costing since this war-tithe idea occurred to me.</p>
+<p>RUBBER heels at about a cent a pair&#8212;  that is what mine are costing since this war-tithe idea occurred to me.</p>
 
 <p>I purchased one rubber stair-tread of the best grade, and cut it into small squares just large enough to a trifle more than cover the heels of my shoes. I also bought a ten-cent bottle of good rubber cement and a few very short shoe-nails.</p>
 
@@ -73,7 +201,7 @@ We're All in the Same Boat: and Can't Get Out
 
 <p>After them came men of various sorts: political offenders; Quakers who would rather emigrate than fight; Irishmen "ag'in' the government"; roving sons of settled households.</p>
 
-<p>All sorts of people, but driven by the same common motive&#8212;—the desire to live their own lives in their own way, free from the restrictions of an older social order.</p>
+<p>All sorts of people, but driven by the same common motive&#8212;the desire to live their own lives in their own way, free from the restrictions of an older social order.</p>
 
 <p>We are the descendants of those daring pioneers: their vigorous individualism flows through our veins.</p>
 
@@ -206,7 +334,7 @@ JANUARY 26, 1918
 
 FROM THE TRENCHES
 
-<p>"THE only tragedy, as I see it, would be to feel, as one lived on and grew old, that one had ceased to progress in soul—or worse, that one was actually slipping back, losing a part of what one had already gained by struggle and suffering.</p>
+<p>"THE only tragedy, as I see it, would be to feel, as one lived on and grew old, that one had ceased to progress in soulor worse, that one was actually slipping back, losing a part of what one had already gained by struggle and suffering.</p>
 
 <p>"The last thing in the world that I want to do is to die. But if I ever lost the hope of going always forward, gaining a little more knowledge and a little more strength each year&#8212;I'd like to have one of these big noisy black things drop on my head <hi rend="italic">toute de suite</hi>, and finish off at least with the credit of what I'd already gained. But even that would be a little bitter if I were not able to feel that I was still on the upward way. So here's to our ideals&#8212;and if we can't attain them in life, may we at least deserve them in death!"</p>
 
@@ -316,7 +444,7 @@ WORSE THAN WAR
 
 HOW WAR CHANGES MEN
 
-© Underwood &amp; Underwood
+ Underwood &amp; Underwood
 <hi rend="italic">This airman's parachute caught in the tree and left him in midair. He finally succeeded in swinging himself to a convenient branch. Will the experience make him a pessimist or an optimist?</hi>
 	
 <p>WHEN a man goes down into the depths of war, he may come up the same man, but the chances are he will be some one entirely different. The effects of fear are as many as the men who are afraid. And, says Alexander McClintock in <hi rend="italic">Best o' Luck</hi> (Doran), "if a man isn't frightened when he goes under fire, it's because he lacks intelligence."</p>
@@ -331,7 +459,7 @@ HOW WAR CHANGES MEN
 
 DON'T FORGET THE PHOTOGRAPHERS
 
-© Underwood &amp; Underwood
+ Underwood &amp; Underwood
 <hi rend="italic">Lieutenant Warwick Brooke won his D. C. M. in active service with a rifle and bayonet before he won his laurels as one of the most daring and brilliant British official photographers on the western front.</hi>
 
 THE STORY OF A SUBMARINE VICTIM
@@ -384,10 +512,10 @@ turned painter for the moment, is painting on a slim oval disk of glass an eye w
 <p>"At a slight distance, so harmonious are both the molding and the tinting, it is impossible to detect the join where the live skin of cheek or nose leaves off and the imitation complexion of the mask begins. Figure what this means to the patient!"</p>
 
 <hi rend="italic">This spy is a man, but no "unwritten laws" exist to save women spies, whether Allied or German, from death at sunrise&#8212;or sooner.</hi>
-© International Film Service, Inc
+ International Film Service, Inc
 
 <hi rend="italic">Margaret McMillan, C. B. C., is leader of this Babies' Brigade, which is on its way to one of the many bomb-proof shelters of London. When the warning signal is given, the East End leaves its work without ceremony to secure a good place underground. Thousands of families take refuge in the friendly tubes (subways).</hi>
-© Underwood &amp; Underwood
+ Underwood &amp; Underwood
 
 
 PAGE 6 EVERY WEEK	JANUARY 26, 1918
@@ -506,11 +634,11 @@ THE LUCK OF CINGALO
 
 <p>CLAY WHELTON was not bad, as the far frontiers define the word&#8212; merely wild. Yet, at twenty-one minutes past ten of a September night he was a care-free youth, reckless, to be sure, but innocent of any very serious sin; and at twenty-four minutes past ten lie was a thrice guilty man-killer, desperate, law-hunted, backing out of the gambling-house with smoking, barking pistol, and even in that tragedy-filled moment half-dazedly wondering how it had all come about and why it had to happen to him.</p>
 
-<p>It was, in a way, his own fault. He ought to have known better than to take a hand at poker in Montana Charley Ryan's place. He knew Montana Charley, and he knew Montana Charley's reputation. It had been common whispered rumor in Mullen City that players in the Merchants' and Miners' Social Club &#8212;which was the euphonious name of Ryan's joint&#8212;sometimes needed to buck not only fortune and skill, but certain other accessories that at their best consisted of artful "whipsaws," and at their worst—on rare and special occasions—of even so dangerous a thing as stacked cards and perhaps a mechanical "hold-out."</p>
+<p>It was, in a way, his own fault. He ought to have known better than to take a hand at poker in Montana Charley Ryan's place. He knew Montana Charley, and he knew Montana Charley's reputation. It had been common whispered rumor in Mullen City that players in the Merchants' and Miners' Social Club &#8212;which was the euphonious name of Ryan's joint&#8212;sometimes needed to buck not only fortune and skill, but certain other accessories that at their best consisted of artful "whipsaws," and at their worston rare and special occasionsof even so dangerous a thing as stacked cards and perhaps a mechanical "hold-out."</p>
 
 <p>Strangers and drunks were said to be the specialty of Ryan's irregularities. Whelton was not a stranger, and he was not drunk. As a matter of fact, he was a temperate youth, and had not taken a single drink. Therefore, in the ordinary run of events, Ryan should not have been expected to try robbery to overcome bad luck. The explanation of his departure from his usual rule in this respect lay in two facts: first, that Whelton had made a killing at Ryan's roulette wheel, and, second, that fortune had been showing the gambler an icy shoulder of late and he could not afford to lose the money. A third fact also had an indirect bearing: Gil Burdick, the sheriff, had been elected by the sporting interests, and Montana Charley, coldly analyzing the chances, believed he could get away with it.</p>
 
-<p>Ryan's roulette wheel was a square game. It costs a small fortune to rig a roulette wheel otherwise, in addition to which the "house percentage" at roulette may be depended upon, in time, to beat any average run of luck. But, on this particular occasion, the wheel had little chance, because Clay Whelton—in town with three months' wages and looking avidly for excitement—plunged recklessly, and the marble rolled and leaped and fell into the numbers he was playing as if the goddess of chance had suddenly become infatuated with his square shoulders, waving hair, and daredevil brown eyes.</p>
+<p>Ryan's roulette wheel was a square game. It costs a small fortune to rig a roulette wheel otherwise, in addition to which the "house percentage" at roulette may be depended upon, in time, to beat any average run of luck. But, on this particular occasion, the wheel had little chance, because Clay Wheltonin town with three months' wages and looking avidly for excitementplunged recklessly, and the marble rolled and leaped and fell into the numbers he was playing as if the goddess of chance had suddenly become infatuated with his square shoulders, waving hair, and daredevil brown eyes.</p>
 
 <p>"Twenty-one, and red, and odd, and second dozen," droned the dealer, raking in fifteen or twenty dollars of players losses in other places on the table and paying Whelton a hundred and seventy-five dollars for the five brown checks that he had planted squarely in the middle of the twenty-one square.</p>
 
@@ -617,7 +745,7 @@ Montana Charley Ryan. It was not with-. in Clay's knowledge that the call was re
 
 <p>"That's far enough," said Clay, spreading his cards on the table. "Beat four ladies."</p>
 
-<p>"Here's your receipt," Ryan purred, displaying his hand. "The five to the nine—all clubs. That was certainly a lucky hunch of mine to play that three straight flush that way."</p>
+<p>"Here's your receipt," Ryan purred, displaying his hand. "The five to the nineall clubs. That was certainly a lucky hunch of mine to play that three straight flush that way."</p>
 
 <p>He reached leisurely to draw in the money, then sat back, hands on the table, close-set eyes glinting and alert, as Whelton came to his feet with a pistol in his hand.</p>
 
@@ -685,7 +813,7 @@ place of concealment in the darkest corner of the car, Clay heard snatches of ta
 
 <p>"I come from the West," said Clay, and went out to observe the formation of the posse.</p>
 
-<p>A man on the outskirts of the little crowd told him the story. Mexicans &#8212;perhaps bandits from across the river, but as likely residents of Texas, with their naturalization papers in good order—had raided a small ranch, run off its horses, and killed the son of the owner. This had happened shortly before daylight, and the raiders had left no trail.</p>
+<p>A man on the outskirts of the little crowd told him the story. Mexicans &#8212;perhaps bandits from across the river, but as likely residents of Texas, with their naturalization papers in good orderhad raided a small ranch, run off its horses, and killed the son of the owner. This had happened shortly before daylight, and the raiders had left no trail.</p>
 
 <p>The sheriff came out of his building, in which the sign above the door indicated that he also conducted a real estate business, and surveyed the gathered group. He was a tall, lean man in the early fifties, with straightforward eyes, humorously wrinkled at the corners.</p>
 
@@ -783,11 +911,11 @@ place of concealment in the darkest corner of the car, Clay heard snatches of ta
 
 <p>"If I can find something worth while to do," Clay said. "I didn't mention it, but I was prospecting back there in Nevada, and I made a little strike and sold out I've got a little money, two or three thousand, and I'm tired of mines. Mines are a gamble. I thought maybe I'd start a little store somewhere, if there was a chance. That's how I came to get off at Cingalo. I'm looking around."</p>
 
-<p>"Well," the sheriff said, "it's kinds lucky you came, because I reckon Cingalo is just the town that needs you. Pete Williams, that run the general store, he died only last month. Miz Williams wants to sell out and go back to Oklahoma, where they come from. I could get you a right reasonable price on the store and stock. That's my business—handlin' real estate—when I ain't sheriffin'."</p>
+<p>"Well," the sheriff said, "it's kinds lucky you came, because I reckon Cingalo is just the town that needs you. Pete Williams, that run the general store, he died only last month. Miz Williams wants to sell out and go back to Oklahoma, where they come from. I could get you a right reasonable price on the store and stock. That's my businesshandlin' real estatewhen I ain't sheriffin'."</p>
 
 <p>"I'd be mighty glad to look into it."</p>
 
-<p>"And in the meantime"—they were
+<p>"And in the meantime"they were
 
 <hi rend="italic">Continued on page 19</hi>
 
@@ -957,7 +1085,7 @@ Photograph by Underwood &amp; Underwood.
 
 <p>BACK in the early I900's Amherst had a team which got on the train and went down to Cambridge, Massachusetts, and trimmed Harvard's aggregation to the tune of 6-0. On that team was a guard named Walter Palmer, who played straight through his four years and became captain at last. What has become of Palmer of the mighty shoulders? Well, he's a doctor; and up in the Rockefeller Institute and in such other sheltered environs he plays an important part in the great daily game. Germs vs. the Human Race&#8212;the long, long game, in which the decision is still in doubt.</p>
 
-<p>IT was a very learned Har-vard professor who w 'as seen on his way to a Yale football game with Dr. Edward Everett Hale. "Where are you going?" they asked him. And he answered. "I'm going to yell with Hale." The other Harvard men transposed they and the h about the time of the Yale game&#8212;but all that is past and gone. North and South. East and West. Harvard and Yale, we're all the same in our opinion of Wm. Hohenzollern. And the chances are that when Douglas Bomeisler, here shown,&#8212;late of Yale and now of the U. S. Army,&#8212;crosses the ocean, he is likely to find Eddie Mahan, also on this page—late of Harvard and now of the U. S. Navy.—convoying him ever so tenderly.</p>
+<p>IT was a very learned Har-vard professor who w 'as seen on his way to a Yale football game with Dr. Edward Everett Hale. "Where are you going?" they asked him. And he answered. "I'm going to yell with Hale." The other Harvard men transposed they and the h about the time of the Yale game&#8212;but all that is past and gone. North and South. East and West. Harvard and Yale, we're all the same in our opinion of Wm. Hohenzollern. And the chances are that when Douglas Bomeisler, here shown,&#8212;late of Yale and now of the U. S. Army,&#8212;crosses the ocean, he is likely to find Eddie Mahan, also on this pagelate of Harvard and now of the U. S. Navy.convoying him ever so tenderly.</p>
 
 c Underwood &amp; Underwood
 <p>WE remember hearing g something of Napoleon and Ceasar when we were in college;but the great question of debate was: "Resolved
@@ -965,13 +1093,13 @@ That Heston of Michigan is greater than Shevlin of Yale."  Heston was the center
 
 EVERY WEEK far January 26, 1918 13
 
-© Paul Thompson
+ Paul Thompson
 <p>ONCE a year there comes a knock on the door of the New Yorkers who have large, taxable in-comes; and, following the knock, a stillness like death. They know that knock. It is Big Bill Edwards. come to collect. the income tax. Big Bill was captain of one of the greatest teams Princeton, ever had. Later he was in charge of the New York street-cleaners under Mayor Gaynor, and struck down the assassin who tried to shoot the Mayor. Last year, as Internal Revenue Collector, he brought in the neat sum of $90,000,000; and this year, with the spring styles in taxation, he expects to have to hire a dray.</p>
 
-<p>IF you can re-member as far back as 1908, you recall that Cornell caused considerable disturbance in the football world, in the person of a gentleman named George Tandy Cook. Well, George moved into the wide, wide world, as all of us do; and Reel 2 of the picture shows him as a prosperous and contented farmer near Ghent. Kentucky. How many of us, in our college days, looked down scornfully on the occasional graduate who went into farming. We were going in for nobler, higher things—law and journalism. etc. And we went. And behold the simple farmer boys passing us in twin-sixes, while we still walk.</p>
+<p>IF you can re-member as far back as 1908, you recall that Cornell caused considerable disturbance in the football world, in the person of a gentleman named George Tandy Cook. Well, George moved into the wide, wide world, as all of us do; and Reel 2 of the picture shows him as a prosperous and contented farmer near Ghent. Kentucky. How many of us, in our college days, looked down scornfully on the occasional graduate who went into farming. We were going in for nobler, higher thingslaw and journalism. etc. And we went. And behold the simple farmer boys passing us in twin-sixes, while we still walk.</p>
 
 <p>JIM" THORPE was the greatest All-American football team ever  devised. When he played with Carlisle a dozen years ago, there
-was no real defense against his vicious rushes, and the player whom he tackled generally woke up some hours afterward, with the question. "How many were killed?" on his lips. Jim went from football to Stockholm, where he collected a trunkful of medals at the Olympic Games; and from there to the New York Giants. He is not so good at baseball as he was at football—fortunately for Ty Cobb</p>.
+was no real defense against his vicious rushes, and the player whom he tackled generally woke up some hours afterward, with the question. "How many were killed?" on his lips. Jim went from football to Stockholm, where he collected a trunkful of medals at the Olympic Games; and from there to the New York Giants. He is not so good at baseball as he was at footballfortunately for Ty Cobb</p>.
 
 Photograph from N. B. Beasley
 <p>JIMMY CRAIG is one of the few Michigan men to be recognized as an All-American player by Walter Camp. It's a long way from New Haven to Ann Arbor, and in looking over the field for his selections Mr. Camp's eyes often got tired before they reached Chicago. But Jimmy shone out too bright to be overlooked. Since graduation he has been in the contracting business in Detroit. And they do say that he has tucked his job under his arm and gritted his teeth and made the same kind of long gains on the pay-roll that he used to make around the ends.</p>
@@ -1072,9 +1200,9 @@ little coffee-colored brooks meanderin' across the road, quail whirrin' up from 
 
 <p>"Yes," says Pinckney prompt. "This gentleman here, Mr. Mortimer Judders, would be delighted to purchase your brickyard."</p>
 
-<p>"Wha—what's that ?" gasps Mortimer.</p>
+<p>"Whawhat's that ?" gasps Mortimer.</p>
 
-<p>"See how enthusiastic he is?" says Pickney, nudgin' Grimes. "I suppose it has been one of his secret ambitions for years, and now that the happy chance has brought the thing actually within his reach—"</p>
+<p>"See how enthusiastic he is?" says Pickney, nudgin' Grimes. "I suppose it has been one of his secret ambitions for years, and now that the happy chance has brought the thing actually within his reach"</p>
 
 <p>"Please, Pinckney!" breaks in Judders. "Really, you know, I don't wish to own a brickyard."</p>
 
@@ -1274,7 +1402,7 @@ DOES IT TIRE YOU TO WORK?
 THE SOLITARY CONFINEMENT CLUB
 
 <hi rend="italic">Catherine Breshkovsky was not a peasant. Her father was the son of a Polish aristocrat. Like Vera Figner, who was imprisoned for twenty years under horrible conditions, in the Schlusselburg Fortress, Catherine Breshkovsky joined the revolutionists because she could no longer endure seeing the great misery of the poor people in Russia.</hi>
-© Press Illustrating Service
+ Press Illustrating Service
 
 <p>CATHERINE BRESHKOVSKY, the "Little Mother of the Russian Revolution," is not a peasant. Her
 father was the son of a Polish aristocrat, and her mother, too, was of noble blood. She was born in 1844. All around her, in her youth, were evidences of the oppression of the old regime. She grew up with the pleas of peasants in her ears, and the time came when she could leave home and, in the city, join herself with the group of young idealists who  were laying the foundation for the revolution.</p>
@@ -1338,7 +1466,7 @@ Are They Liabilities or Assets?
 
 <p>"I don't want to understand," said the manager. "I simply did it, and the mistake is on me. Now go home and go to sleep."</p>
 
-<p>That was five years ago. Jimmie has never made that kind of mistake since; and his error—due to taking something for granted in a turnover of half a million dollars—has been worth many hundreds of thousands since to the house and himself, to say nothing of the manager, who understood the money and moral value of a properly utilized mistake.</p>
+<p>That was five years ago. Jimmie has never made that kind of mistake since; and his errordue to taking something for granted in a turnover of half a million dollarshas been worth many hundreds of thousands since to the house and himself, to say nothing of the manager, who understood the money and moral value of a properly utilized mistake.</p>
 
 <p>There is more to be learned from one clean, honest error, as a rule, than from a dozen successes. But not everybody in the business world comprehends this. Men like to discuss their successes but hide details about their errors; and the business world loses much valuable information thereby. Worse yet, men in authority hold subordinates to a petty and short-sighted conception of mistakes, regarding them as wrong and useless, whereas they are a natural accompaniment of efficient work, and highly valuable in maintaining good standards.</p>
 
@@ -1388,7 +1516,7 @@ War Didn't Scare Selfridge
 
 <p>To the American merchant Mr. Selfridge's message is:</p>
 
-<p>"Keep business going at high pressure. Watch with the greatest care your organization, and your ability to fill with women or men above enlistment age the posts vacated by men called away. Watch the market, and if you discover a likelihood of shortage in woolen goods, silk goods (especially hosiery), or in leather, make your stocks as full as business can possibly warrant. Supply paper and twine for a long way ahead. Difficulties will come, but they come gradually; and if they are foreseen there is no reason why your stores—like mine—should not be thronged as never before."</p>
+<p>"Keep business going at high pressure. Watch with the greatest care your organization, and your ability to fill with women or men above enlistment age the posts vacated by men called away. Watch the market, and if you discover a likelihood of shortage in woolen goods, silk goods (especially hosiery), or in leather, make your stocks as full as business can possibly warrant. Supply paper and twine for a long way ahead. Difficulties will come, but they come gradually; and if they are foreseen there is no reason why your storeslike mineshould not be thronged as never before."</p>
 
 How Armour Develops Big Men
 
@@ -1408,7 +1536,7 @@ How Armour Develops Big Men
 
 <p>"Mr. Armour," spoke up. the young man, "you need not look any farther. You may start right here," pointing to himself.</p>
 
-<p>Mr. Armour did start right there. Today the youth is vice-president of Armour &amp; Company, Mr. Armour's right-hand man and trusted associate, Robert J. Dunham, director in Chicago banking and business enterprises, and enjoying the income of a prince—all at forty.</p>
+<p>Mr. Armour did start right there. Today the youth is vice-president of Armour &amp; Company, Mr. Armour's right-hand man and trusted associate, Robert J. Dunham, director in Chicago banking and business enterprises, and enjoying the income of a princeall at forty.</p>
 
 Jobs in Which Self-ridge is Employing Women
 
@@ -1445,7 +1573,7 @@ Do You Sit Correctly?
 
 The Luck of Cingalo--<hi rend="italic">continued from page 9</hi>
 
-coming into the village street—"you are comin' over to my house to supper. The eats are better there than at the hotel."</p>
+coming into the village street"you are comin' over to my house to supper. The eats are better there than at the hotel."</p>
 
 <p>They stopped a moment while Rostron directed a deputy sheriff to go out and bring in the stolen horses from the late Flores' farm, and then continued on to a house with a broad gallery.</p>
 
@@ -1471,7 +1599,7 @@ coming into the village street—"you are comin' over to my house to supper. The e
 
 <p>He rolled a cigarette, proffered Clay his "makin's," and tipped a chair back against the gallery wall.</p>
 
-<p>"This store I was tellin' you about," he said, "has got a pretty good stock on hand, but there's some things you'd want to put in, I reckon. When Pete Williams come here and started it, the town was . pretty small, and—"</p>
+<p>"This store I was tellin' you about," he said, "has got a pretty good stock on hand, but there's some things you'd want to put in, I reckon. When Pete Williams come here and started it, the town was . pretty small, and"</p>
 
 <p>Their talk, dealing with the steady growth of Cingalo and the opportunities for a hustling merchant in the community, lasted until supper-time, and was resumed after they had again taken seats on the gallery, joined now by Mary. Clay was gratified that neither the girl nor her father delved curiously into his past, but not especially surprised. He did not avoid the subject of his life in Nevada, but he did not dwell upon it. He sought to leave the impression that he had prospected much, at a distance from towns and cities.</p>
 
@@ -1524,12 +1652,12 @@ ad  ;al!
 
 St. after, the checking  gradual
 GERMANS ESCAPE AMERICAN AMBUSH
-Plan to. Seize Patrols Frus•
+Plan to. Seize Patrols Frus
 traced by Soldier With
 a Cold
 WITH "TIM PI
 AMERICAN ARMY IN
-FRANCE; Nov 21. --By the. Associated Press.—Only the fact that the Germans failed to venture Into No Man's Land on a went night saved them from Adler, can surprise.  One hundred, and slaty men of the Prat battalions to enter the trenches for a Beek were given 'special training, add, after- being transported to the • front, Crawled across No Man's Mind and took positions lit front of and In the Norman wire entanglements at point where it had been discovered the enemy came out
+FRANCE; Nov 21. --By the. Associated Press.Only the fact that the Germans failed to venture Into No Man's Land on a went night saved them from Adler, can surprise.  One hundred, and slaty men of the Prat battalions to enter the trenches for a Beek were given 'special training, add, after- being transported to the  front, Crawled across No Man's Mind and took positions lit front of and In the Norman wire entanglements at point where it had been discovered the enemy came out
 every night,'
 k. cold which a soldier caught ,AC the trenobes brought him a wound In the hated
 and gave warning to. a German 'patrol 'of an ambuscade an another night An Amer. lean patrol had arranged an ambush near A shell-rulned farmhouse.  In No Man's Land.. ever al of 'the 'Americana had colds and coughs, but managed to control  Shen, 'Finally, when Bur shadowy forms :40 enemy patrol were, seen approaching one
@@ -1593,7 +1721,7 @@ bright spots and black shadows. People were sitting on the galleries of the hous
 
 <p>"Bet you ten to one you ain't," he said calmly.</p>
 
-<p>"You yourself got a notice from Sheriff Burdick that—"</p>
+<p>"You yourself got a notice from Sheriff Burdick that"</p>
 
 <p>"Bet you any odds he ain't sheriff now." The whimsical note that had come into his voice changed. "Sit down, son," he said. "Or, if you kain't sit down, stop walking up and down like a tagger in a cage. You make me fidgety."</p>
 
@@ -1627,7 +1755,7 @@ bright spots and black shadows. People were sitting on the galleries of the hous
 
 <p>"But the murder charge?" Clay could not seem to adapt his mind to this train of revelations.</p>
 
-<p>"Oh, yes. Well, there ain't any. When I went to Mullen City&#8212;It was when I went North in October, and I wanted to know for myself, first hand, just what happened that night, because I owed you that much for what you did&#8212;and maybe because I thought you looked like a pretty good boy. Well, while I was in Mullen City we thought we'd better clean the thing up. So MacCamish and I—good ol' scout, that MacCamish&#8212;we got a grand jury to hear&#8212;the evidence, and they called it justifiable homicide and brought in 'no bill.' That settles that for keeps."</p>
+<p>"Oh, yes. Well, there ain't any. When I went to Mullen City&#8212;It was when I went North in October, and I wanted to know for myself, first hand, just what happened that night, because I owed you that much for what you did&#8212;and maybe because I thought you looked like a pretty good boy. Well, while I was in Mullen City we thought we'd better clean the thing up. So MacCamish and Igood ol' scout, that MacCamish&#8212;we got a grand jury to hear&#8212;the evidence, and they called it justifiable homicide and brought in 'no bill.' That settles that for keeps."</p>
 
 <p>"You knew it back in October?"</p>
 
@@ -1674,7 +1802,7 @@ Lloyd-George Please Copy
 If you had it in your power to make peace in Europe, what kind of peace terms would you propose? 
 T. L. McH., Peoria, Illinois.</p>
 
-<p>There is one very hopeful thing about this war, and that is that everybody— except the Germans—recognizes that peace must be made with due respect to the rights of the peoples concerned. In no other war in history has that been true. Napoleon never considered for a minute that peoples had any rights. He set up governments and overturned them and transferred peoples from one nation to another at will. After he was overthrown the victors got together and sliced up the map of Europe to suit themselves.</p>
+<p>There is one very hopeful thing about this war, and that is that everybody except the Germansrecognizes that peace must be made with due respect to the rights of the peoples concerned. In no other war in history has that been true. Napoleon never considered for a minute that peoples had any rights. He set up governments and overturned them and transferred peoples from one nation to another at will. After he was overthrown the victors got together and sliced up the map of Europe to suit themselves.</p>
 
 <p>This war must be concluded by a peace that recognizes that the people of any nation have the divine right to determine their own destinies. And, because this is true, it must be a peace concluded between peoples&#8212;not between free peoples on one side and an autocracy on the other.</p>
 
@@ -1731,7 +1859,7 @@ This is His Week
 
 <p>Bacon's father was the keeper of the Great Seal of England.</p>
 
-<p>To his house came all the interesting people of the day—statesmen, scientists studying the secret ways of nature, champions of the new religion for which thousands were giving their lives in the Netherlands, men of adventure, and men of letters. Young Francis met them all.</p>
+<p>To his house came all the interesting people of the daystatesmen, scientists studying the secret ways of nature, champions of the new religion for which thousands were giving their lives in the Netherlands, men of adventure, and men of letters. Young Francis met them all.</p>
 
 <p>At nine he deserted his playmates to discover for himself what an echo really was. It took him months to do it, but he finally found out.</p>
 
@@ -1791,7 +1919,7 @@ Mme. Schumann-Heink has two sons in the navy and another in the army. She gives 
 
 The Crab Who Came Back 
 
-<p>SCIENCE is doing some-thing big &#8212;unearthing new possibilities for better living, and digging new sermons from stones—every hour these days, and of course you want to know the worth-knowing things. Professor Givler, of the University of Tennessee, will report to EVERY WEEK'S readers from time to time, keeping them informed of the latest developments in this great field of human knowledge.</p>
+<p>SCIENCE is doing some-thing big &#8212;unearthing new possibilities for better living, and digging new sermons from stonesevery hour these days, and of course you want to know the worth-knowing things. Professor Givler, of the University of Tennessee, will report to EVERY WEEK'S readers from time to time, keeping them informed of the latest developments in this great field of human knowledge.</p>
 
 <p>CAN an animal&#8212;or a man, for that matter&#8212;"come back" into a better, stronger life after fate or evolution
 has put the stamp of the down-and-outer on him ? Scientists may be slow to admit it, but there are on record indisputable cases of down-and-out animals that have shown this power of regeneration.</p>
