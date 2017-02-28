@@ -1,54 +1,193 @@
-PAGE 2 EVERY WEEK
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-The Second Mile
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180216">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, February 16, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180216</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-02-16">February 16, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-02-28"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19180216.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.</note>
+<note>&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>February 16, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main">In this Issue&#8212;by W. C. Shepherd</head>
+<head type="main">WHY KERENSKY FAILED</head>
+<p></p>
+<ab type="credit">Robt. Robinson</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180216.p002"/>
+
+<text>
+<body>
+
+<figure n="advertisement">
+<head>"The Enclosed Blade"</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Gem Damaskeene Razor Blades</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Selling Subscriptions As a Business</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Every Week Chief of Subscription Staff</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton.19180216">
+<body>
+
+<head type="main">The Second Mile</head>
 
 <p>THERE is a strange fact about business that I have noticed many times.</p>
 
 <p>It may be expressed in this apparently senseless phrase:</p>
 
-<p>A little too much is just enough.</p>
+<p><hi rend="italic">A little too much is just enough.</hi></p>
 
 <p>A young man came to me yesterday to tell me his boss had been fired.</p>
 
 <p>I was sorry for the boss; glad for the young man; and glad for myself. It proved me, for once, a good prophet.</p>
 
-<p>For the same young man had met me three months ago and complained of his lot. His boss was loafing on the job, he said, leaving all the work of the department to him. "Ile gets the money, and I do the work," the young main ex-claimed. "What shall I do?"</p>
+<p>For the same young man had met me three months ago and complained of his lot. His boss was loafing on the job, he said, leaving all the work of the department to him. "He gets the money, and I do the work," the young man exclaimed. "What shall I do?"</p>
 
 <p>I told him to do more work.</p>
 
-<p>"But I'm doing so much already!" lie cried.</p>
+<p>"But I'm doing so much already!" he cried.</p>
 
-<p>"I know it," I said. "Do more. I)o so much more that everybody in the office will notice it. Then see what hap-pens."</p>
+<p>"I know it," I said. "Do more. Do so much more that everybody in the office will notice it. Then see what happens."</p>
 
-<p>Well, it happened. The boss is fired: and lie has the boss's job.</p>
+<p>Well, it happened. The boss is fired: and he has the boss's job.</p>
 
 <p>I read a great deal of biography: it is my favorite kind of reading. And nothing impresses me so much as to see how hard the great men of the world have worked.</p>
 
 <p>Almost without exception, they have done more work than they needed to do: more work than the average man would have been willing to do: more than enough.</p>
 
-<p>Take this extract from a book recently published--the life of Delane, the great editor of the London Times:</p>
+<p>Take this extract from a book recently published&#8212;the life of Delane, the great editor of the London <hi rend="italic">Times:</hi></p>
 
-<p>He read and edited himself everything that was to appear in the paper next morning—telegrams, correspondents' letters, the reports of Parliament. He selected the letters addressed to the Times that were to be published: he chose the books that were to be reviewed: he was scrupulous as to the way in which even small matters of social interest were announced and handled. This method of editing was infinitely laborious. Even when the Times was much less than its present size, the task of reading, correcting, and controlling from forty to fifty columns of new matter every night was immense. But Delane never shrank from it.</p>
+<cit>
+<quote>
+<p>He read and edited himself everything that was to appear in the paper next morning&#8212;telegrams, correspondents' letters, the reports of Parliament. He selected the letters addressed to the <hi rend="italic">Times</hi> that were to be published: he chose the books that were to be reviewed: he was scrupulous as to the way in which even small matters of social interest were announced and handled. This method of editing was infinitely laborious. Even when the <hi rend="italic">Times</hi> was much less than its present size, the task of reading, correcting, and controlling from forty to fifty columns of new matter every night was immense. But Delane never shrank from it.</p>
+</quote>
+</cit>
 
 <p>I know editors getting fifty dollars a week who would consider themselves abused beyond endurance if any one suggested a day's work like Delane's.</p>
 
-<p>Doubtless there were plenty of editors in London in Delane's own day who thought him a fool to work so hard. If there were, we do not know their names.</p>
+<p>Doubtless there were plenty of editors in London in Delane's own day who thought him a fool to work so hard. <hi rend="italic">If there were, we do not know their names.</hi></p>
 
 <p>Posterity seldom does know the names of the men who are careful not to work too hard.</p>
 
 <p>Dickens began life as a stenographer.</p>
 
-<p>How hard I worked at that tremendous shorthand and all the improvements pertaining to it! [he exclaimed]. I will only acid to what I have already written of my perseverance at that time of my life and the patient, continuous energy which then began to be matured in me, and which I know to be the strong point of my character, if I have any strength at all, that there, on looking back, I find the source of my success.</p>
+<cit>
+<quote>
+<p>How hard I worked at that tremendous shorthand and all the improvements pertaining to it! [he exclaimed]. I will only add to what I have already written of my perseverance at that time of my life and the patient, continuous energy which then began to be matured in me, and which I know to be the strong point of my character, if I have any strength at all, that <hi rend="italic">there</hi>, on looking back, I find the source of my success.</p>
+</quote>
+</cit>
 
 <p>Bishop Butler worked twenty years on his "Analogy," and then wanted to burn it because he thought it not good enough.</p>
 
-<p>George Eliot read more than a thousand volumes be-fore she began to write "Daniel Deronda."</p>
+<p>George Eliot read more than a thousand volumes before she began to write "Daniel Deronda."</p>
 
-<p>Patient, continuous, ceaseless work. W hat the ordinary writer would have called too much the extraordinary writer thought hardly enough.</p>
+<p>Patient, continuous, ceaseless work. What the ordinary writer would have called too much the extraordinary writer thought hardly enough.</p>
 
 <p>There is a verse in that great text-book on modern business, the Bible, which sums it all up:</p>
 
-<p>"And whosoever shall compel thee to go a. mile, go with him twain."</p>
+<p>"<hi rend="italic">And whosoever shall compel thee to go a mile, go with him twain.</hi>"</p>
 
 <p>Whosoever hires you to work eight hours, take advantage of him by working a little more: whosoever compels you to do a certain task, do more than you contract to do.</p>
 
@@ -58,36 +197,103 @@ The Second Mile
 
 <p>A little too much is just enough.</p>
 
-<p>Bruce Barton, Editor.</p>
+<byline><hi rend="italic"><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</hi></byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180216.p003"/>
 
+<text>
+<body>
 
+<figure n="advertisement">
+<head>How J. D. Hooper disproved the age-old theory of success</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for the Alexander Hamilton Institute</figDesc>
+</figure>
 
+</body>
+</text>
 
-Vol. 6, No. 7
+<pb n="Page 4" xml:id="ew.issue.19180216.p004"/>
 
-February 16, 1918
+<text>
+<body>
 
-"Every word counts"
+<figure n="advertisement">
+<head>Challenge Cleanable Collars</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Arlington Works</figDesc>
+</figure>
 
-Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.
- 
-Photograph by International Film Service Company, Inc.
+</body>
+</text>
 
-KERENSKY'S MISTAKE
+<pb n="Page 5" xml:id="ew.issue.19180216.p005"/>
 
-By WILLIAM G. SHEPHERD
+<text type="flag">
+<body>
 
-<p>LEXANDER KERENSKY might have become one of the great men of the earth if he had read "The American Commonwealth," by Bryce; if he had understood the principles on which the United States is founded.</p>
+<figure n="flag">
+<figDesc></figDesc>
+<head>EVERY WEEK<lb/>
+"Every word counts"</head>
+
+<p>Vol. 6, No. 7<lb/>
+February 16, 1918<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="shepherd.19180216">
+<body>
+
+<head type="main">KERENSKY'S MISTAKE</head>
+<byline>By <persName type="author" key="#Shepherd, William G.">WILLIAM G. SHEPHERD</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by International Film Service Company, Inc.</ab>
+
+<cb n="1"/>
+
+<p>KERENSKY THE QUICK, he was named before the Revolution, for his skill in eluding the net of the secret police. His nickname should have clung to him after the overthrow of the old rÃ©gime; no man ever had to meet so many critical situations in so little time; and surely no man ever held so many positions in rapid succession. He started as Minister of Justice. Then he was Minister of the Navy; then Prime Minister, commander-in-chief of the armies, and virtual dictator of Russia.</p>
+
+<p>Kerensky is very young&#8212;too young to die: and yet, he is said to be dying. He graduated from St. Petersburg University in 1904, and then plunged into the work of the Social Revolutionary party. He became a lawyer's assistant, giving his time to the defense of his political comrades. For many years the police 
+
+<cb n="2"/>
+
+shadowed him in an effort to find evidence against him.</p>
+
+<p>On February 28, 1916, two weeks before the Revolution, he said in a speech in the Duma:</p>
+
+<p>"I may say to you freely, because you already know it, that I share the beliefs of that party which openly acknowledges the necessity of terrorism, the necessity of armed force, of killing the tyrants&#8212;"</p>
+
+<p>This time he furnished the evidence the police needed. An order for his arrest was about to be issued, when the Revolution came and made him its leader.</p>
+
+<p>We in America know only that he failed&#8212;that he was overthrown and forced to flee for his life. But why did he fail? And could he have succeeded? This article answers those questions better than anything yet published over here.</p>
+</figure>
+
+<cb n="1"/>
+
+<p>ALEXANDER KERENSKY might have become one of the great men of the earth if he had read "The American Commonwealth," by Bryce; if he had understood the principles on which the United States is founded.</p>
 
 <p>Kerensky could not have turned the tide of affairs in Russia, after the revolution. No man could have done that. But, like an Abraham Lincoln, he might have sensed where the tide was leading and helped his countrymen to ride with it.</p>
 
 <p>It is possible, now, to put one's finger on the one big uncorrectable error of Kerensky's short and stormy career. The trend of affairs in Russia is so definite, if one understands them, and the solution of their difficulties so simple, that Kerensky's short-sightedness is amazing.</p>
 
-<p>Russia is going ahead in the way it might be expected to go—in the only way it could go. Some weeks will elapse between the time these words are written and the time they are read; but, whatever happens in the interval, I must stand pat on the statement that Russia is heading toward better things, and that the road she is taking, in readjusting her affairs, is the only road left for her. If it happens that a German peace is made by the present Russian government before this is read, I must still insist that it is not a safe peace for the Germans and that it is not a peace made by the Russian people.</p>
+<p>Russia is going ahead in the way it might be expected to go&#8212;in the only way it could go. Some weeks will elapse between the time these words are written and the time they are read; but, whatever happens in the interval, I must stand pat on the statement that Russia is heading toward better things, and that the road she is taking, in readjusting her affairs, is the only road left for her. If it happens that a German peace is made by the present Russian government before this is read, I must still insist that it is not a safe peace for the Germans and that it is not a peace made by the Russian people.</p>
 
-<p>There is a thing happening in Russia that will solve its problems: it is a thing that Kerensky tried to stop—a mighty movement that crushed him, and that will crush everything that stands in its way.</p>
+<p>There is a thing happening in Russia that will solve its problems: it is a thing that Kerensky tried to stop&#8212;a mighty movement that crushed him, and that will crush everything that stands in its way.</p>
 
 <p>This is the movement toward local home rule in the various districts and among the various nationalities in Russia.</p>
 
@@ -95,59 +301,70 @@ By WILLIAM G. SHEPHERD
 
 <p>As soon as the revolution was accomplished, the people of Russia, even the most ignorant of them, began to correct this error. They organized local governments to conduct their personal and local affairs.</p>
 
-<p>Kronstadt sought to have a local government. It wanted to have a representative of Kronstadt at Petrograd, not a representative of Petrograd—and Kerensky —at Kronstadt. Kerensky fought this. He, not understanding the American form of government—which is, in the main, the Pattern for the republics of the earth—declared that Kronstadt was trying to turn itself into an independent republic.</p>
+<p>Kronstadt sought to have a local government. It wanted to have a representative of Kronstadt at Petrograd, <hi rend="italic">not</hi> a representative of Petrograd&#8212;and Kerensky&#8212;at Kronstadt. Kerensky fought this. He, not understanding the American form of government&#8212;which is, in the main, the Pattern for the republics of the earth&#8212;declared that Kronstadt was trying to turn itself into an independent republic.</p>
 
-<p>What Kronstadt was trying to do was to make of itself a free state in a Russian republic; like Rhode Island, or Montana, in the United States.</p>
+<p>What Kronstadt was trying to do was to make of itself a free state in a Russian 
+
+<cb n="2"/>
+
+republic; like Rhode Island, or Montana, in the United States.</p>
 
 <p>When Finland tried to do the same thing Kerensky sent troops to the Finnish capital, surrounded the state house, and kept the newly elected members of the new Finnish state from meeting. He said the Finns were trying to disrupt Russia.</p>
 
 <p>When the Ukrainians tried to organize their own state, Kerensky fought them.</p>
 
-<p>As Kerensky fought this home rule idea, his own government became more and more highly centralized. Before long all the evils of centralized government that had been peculiar to the Czar's government became apparent in Kerensky's. It was a natural evolution: Kerensky had taken the wrong road, and it had led him to the wrong place. He had to have secret police; he had to send troops to quell riots; he had to fight his old friends, the socialists, and his old enemies, the land-owners and bureaucrats.</p>
+<p>As Kerensky fought this <hi rend="italic">home rule</hi> idea, his own government became more and more highly centralized. Before long all the evils of centralized government that had been peculiar to the Czar's government became apparent in Kerensky's. It was a natural evolution: Kerensky had taken the wrong road, and it had led him to the wrong place. He had to have secret police; he had to send troops to quell riots; he had to fight his old friends, the socialists, and his old enemies, the land-owners and bureaucrats.</p>
+
+<cb n="3"/>
 
 <p>Kerensky was born in southern Russia; his training was, more or less, Asiatic. His socialism was not Marxian; it was tinged with Orientalism. It is safe to say that he did not know of the problems that our forefathers faced and solved in those big days when they had to bind together, into the United States of America, the thirteen free and home-ruled colonies.</p>
 
 <p>He did not know, at least in its details, the solution that our forefathers worked out whereby the States were permitted to deal with their own local affairs and make their own local laws, so long as their affairs and their laws did not interfere with the affairs and laws of any other State.</p>
 
-<p>Russia, when it overthrew Kerensky, did not overthrow the man: he was still the idol of the Russian masses. What Russia did overthrow was the centralized government that Kerensky endeavored to perpetuate. It was a relic of czarism. Kerensky himself could not have believed in it. He only thought that the Russians ought to wait until a congress was held which would select the proper form of gov-ernment in Russia. But the tide was against centralized government; it was to-ward home rule and state's rights. It wasn't a thing to be settled by a congress, any more than a flood or a cyclone can be managed by a weather bureau. There was no waiting for such a tide as that; it came of itself.</p>
+<p>Russia, when it overthrew Kerensky, did not overthrow the man: he was still the idol of the Russian masses. What Russia <hi rend="italic">did</hi> overthrow was the centralized government that Kerensky endeavored to perpetuate. It was a relic of czarism. Kerensky himself could not have believed 
 
-<p>To-day, in Russia, with Kerensky gone and with no opposition to the plan, the va-rious peoples of Russia and the various geographical districts are being formed Into separate states. Local home govern-ment, by elected officials satisfactory to the people, will mean that Russia can be rehabilitated in all its parts. The people themselves will set Russia right. Before the world knows it, almost, there will be the equivalent of the "Thirteen Colo-nies" in Russia. And these colonies, like those of America, will discover that funda-mental and biological truth on which the United States is founded : " In Union There is Strength."</p>
+<cb n="4"/>
+
+in it. He only thought that the Russians ought to wait until a congress was held which would select the proper form of government in Russia. But the tide was against centralized government; it was toward home rule and state's rights. It wasn't a thing to be settled by a congress, any more than a flood or a cyclone can be managed by a weather bureau. There was no waiting for such a tide as that; it came of itself.</p>
+
+<p>To-day, in Russia, with Kerensky gone and with no opposition to the plan, the various peoples of Russia and the various geographical districts are being formed into separate states. Local home government, by elected officials satisfactory to the people, will mean that Russia can be rehabilitated in all its parts. The people themselves will set Russia right. Before the world knows it, almost, there will be the equivalent of the "Thirteen Colonies" in Russia. And these colonies, like those of America, will discover that fundamental and biological truth on which the United States is founded: "In Union There is Strength."</p>
 
 <p>Union will come, inevitably, in due time.  And then, what has happened in Russia will mean almost as much to the crowded world as the discovery of America by Christopher Columbus.</p>
 
-<p>All the symnathies of Americans ought to be with Russia. A parade of monarchial despots has begun; it is headed toward oblivion. The Czar has joined it, and we ought to rejoice as we would rejoice to see the Kaiser himself fall into the fading royal background.</p>
+<p>All the sympathies of Americans ought to be with Russia. A parade of monarchial despots has begun; it is headed toward oblivion. The Czar has joined it, and we ought to rejoice as we would rejoice to see the Kaiser himself fall into the fading royal background.</p>
 
-<p>Kerensky might have speeded the thing that has happened in Russia; he might have known that the people of Russia themselves would solve their own difficulties; he might have known that their massed opinion would be a tide that he could neither stem nor turn. Any lumber-jack on a moving log jam knows that he is not moving the logs; they are moving him. But Kerensky could not see himself in that light, and the logs rolled out from under-neath him.</p>
+<p>Kerensky might have speeded the thing that has happened in Russia; he might have known that the people of Russia themselves would solve their own difficulties; he might have known that their massed opinion would be a tide that he could neither stem nor turn. Any lumberjack on a moving log jam knows that he is not moving the logs; they are moving him. But Kerensky could not see himself in that light, and the logs rolled out from underneath him.</p>
 
-<p>The difference between Abraham Lincoln and Alexander Kerensky was simple. Kerensky tried to solve things for the peo-
-ple. Lincoln trusted the people, and knew that they, and no one else, could solve their problems rightly.</p>
+<p>The difference between Abraham Lincoln and Alexander Kerensky was simple. Kerensky tried to solve things for the people. Lincoln trusted the people, and <hi rend="italic">knew</hi> that they, and no one else, could solve their problems rightly.</p>
 
-<p>And so down went another statesman who might have been great, penalized be-cause he had committed the crime of not knowing the people; a failure because he was not up with the times; a flash-in-the-pan because his government did not
-breathe the pure, sustaining air of "the opinion of the plain people."</p>
+<p>And so down went another statesman who might have been great, penalized because he had committed the crime of not knowing the people; a failure because he was not up with the times; a flash-in-the-pan because his government did not breathe the pure, sustaining air of "the opinion of the plain people."</p>
+
+<note type="editorial">
+
+<cb n="1"/>
 
 <p>WILLIAM G. SHEPHERD came back to this country from Russia only a few weeks ago. He had spent six months there, and in that six months he lost twenty-one pounds.</p>
 
-<p>"People over here have no conception of the misery and exhaustion of Europe," he says. "Think of it—twenty million men away from their homes for three years.  Think of the women at home waiting for the casualty lists. And think of the wretchedness of the devastated countries. No one can imagine it who has not seen.</p>
+<p>"People over here have no conception of the misery and exhaustion of Europe," he says. "Think of it&#8212;twenty million men away from their homes for three years. Think of the women at home waiting for the casualty lists. And think of the wretchedness of the devastated countries. No one can imagine it who has not seen.</p>
 
-<p>In the midst of this war, which has been like one of the great plagues that swept over the world in the Middle Ages, one event—the Russian Revolution--has brought an almost miraculous healing and relief to men's minds.</p>
+<p>In the midst of this war, which has been like one of the great plagues that swept over the world in the Middle Ages, one event&#8212;the Russian Revolution&#8212;
 
-<p>"A year or more ago I had a talk with President Wilson," Mr. Shepherd told me, "and I happened to mention Mexico. `Mr. Shepherd,' said the President, with great earnestness, 'I believe that God is working in that people.'"</p>
+<cb n="2"/>
+
+has brought an almost miraculous healing and relief to men's minds.</p>
+
+<p>"A year or more ago I had a talk with President Wilson," Mr. Shepherd told me, "and I happened to mention Mexico. 'Mr. Shepherd,' said the President, with great earnestness, 'I believe that God is working in that people.'"</p>
 
 <p>There is a belief like that in the world to-day about Russia: a belief that, in spite of the ignorance of the masses and the mistakes of leaders, there is a moral force at work in the mighty Russian people that will eventually turn the balance of Europe in favor of freedom and democracy.</p>
 
-<p>THE EDITOR.</p>
+<byline>THE EDITOR.</byline>
+</note>
 
-<p>KERENSKY THE QUICK, he was named before the Revolution, for his skill in eluding the net of the secret police. His nickname should have clung to him after the overthrow of the old regime; no man ever had to meet so many critical situations in so little time; and surely no man ever held so many positions in rapid succession. He started as Minister of Justice. Then he was Minister of the Navy; then Prime Minister, commander-in-chief of the armies, and virtual dictator of Russia.</p>
+</body>
+</text>
 
-<p>Kerensky is very young—too young to die: and yet, he is said to be dying. He graduated from St. Petersburg University in 1904, and then plunged into the work of the Social Revolutionary party. He became a lawyer's assistant, giving his time to the defense of his political comrades. For many years the police shadowed him in an effort to find evidence against him.</p>
+<pb n="Page 6" xml:id="ew.issue.19180216.p006"/>
 
-<p>On February 28, 1916, two weeks be-fore the Revolution, he said in a speech in the Duna:</p>
-
-<p>"I may say to you freely, because you already know it, that I share the beliefs of that party which openly acknowledges the necessity of terrorism, the necessity of armed force, of killing the tyrants—"</p>
-
-<p>This time he furnished the evidence the police needed. An order for his arrest was about to be issued, when the Revolution came and made him its leader.</p>
-
-<p>We in America know only that he failed—that he was overthrown and forced to flee for his life. But why did he fail? And could he have succeeded? This article answers those questions better than anything yet published over here.</p>
 
 Page 5
 
@@ -164,7 +381,7 @@ By WALTER PRICHARD EATON
 
 Illustrated by Frank Snapp
 
-<p>I WANT to tell the simple and tragic story of Bertha McCloud, awkward, shy Scotch-American girl from up-State, ,against its background of outreaching Wall Street finance—against, indeed, the whole conflict of the world war; for Bertha's tragedy was, in reality, a product of that conflict. Yet the task is difficult, not alone because her story was so simple, but because I find myself constantly dividing my interest, or even al-most forgetting her entirely (as we for-got her in the office), absorbed in the thought of old Mr. Greenough's tragedy—for his was a tragedy, too, though he re-tired with an income of at least $35,000 a year.</p>
+<p>I WANT to tell the simple and tragic story of Bertha McCloud, awkward, shy Scotch-American girl from up-State, ,against its background of outreaching Wall Street financeagainst, indeed, the whole conflict of the world war; for Bertha's tragedy was, in reality, a product of that conflict. Yet the task is difficult, not alone because her story was so simple, but because I find myself constantly dividing my interest, or even al-most forgetting her entirely (as we for-got her in the office), absorbed in the thought of old Mr. Greenough's tragedyfor his was a tragedy, too, though he re-tired with an income of at least $35,000 a year.</p>
 
 <p>If you have known Wall Street well, you will probably recall the offices of Rice & Greenough, coffee importers. These offices were on the first floor of an old building just around the corner, al-most under the elevated, and had been there before the elevated was built. They ran back to the next street (the main en-trance, indeed, after the "L" was built was moved to Water Street), and in your day and mine had to be artificially illuminated most of the time.</p>
 
@@ -174,7 +391,7 @@ Illustrated by Frank Snapp
 
 <p>The walls were hung with pictures of coffee plantations in Brazil, and of bags of coffee awaiting shipment on the docks of Rio and Santos. The furniture was solid mahogany, heavily upholstered with leather.</p>
 
-<p>Old Mr. Greenough used a roll-top desk, but his son had a flat-top—the one visible concession to modernity. Tom also had a map of the world spread on a table under a glass plate. Behind this ante-room and the two private offices was the accounting department—a long, narrow, dark, crowded room running back to Pearl Street.</p>
+<p>Old Mr. Greenough used a roll-top desk, but his son had a flat-topthe one visible concession to modernity. Tom also had a map of the world spread on a table under a glass plate. Behind this ante-room and the two private offices was the accounting departmenta long, narrow, dark, crowded room running back to Pearl Street.</p>
 
 <p>Nearly all the clerks and bookkeepers were men, and many of them were old men, in rather shabby clothes. There was a flavor of Dickens about this dark old accounting-room.</p>
 
@@ -186,7 +403,7 @@ Illustrated by Frank Snapp
 
 <p>Thus matters stood when the European war broke loose on the world, and Bertha McCloud, at almost the same time, came to the office.</p>
 
-<p>I was at that time acting as a sort of assistant secretary to old Mr. Greenough —his secretary, Henry Martin, who had served him for forty years, being slow now and business being rather exception-ally brisk.</p>
+<p>I was at that time acting as a sort of assistant secretary to old Mr. Greenough his secretary, Henry Martin, who had served him for forty years, being slow now and business being rather exception-ally brisk.</p>
 
 <p>It was a part of my duties to engage all stenographers for the firm. The old gentleman, to be sure, wouldn't have a "female" (as he called the sex) in his office, either Martin or I having to take his dictation. But Tom Greenough kept one or two busy most of the time. After the war broke out, and it at once became apparent that our South American organization was going to be taxed heavily to meet the sudden shift in relations toward the United States, Tom demanded a more accurate stenographer.</p>
 
@@ -198,13 +415,13 @@ Illustrated by Frank Snapp
 
 <p>Five minutes later Tom rang.</p>
 
-<p>"That first thing in pink giggled when I spoke sharply to her. The second had hysterics when I stared at her. The French doll you sent took clown a grammatical error without correcting it. Besides, none of 'em till the rube had competent eyes. Can't you tell competent eyes when you see 'em? Always weed out stenographers by their eyes. Give her a desk, near my inner door—and don't ever send me an-other batch like that."</p>
+<p>"That first thing in pink giggled when I spoke sharply to her. The second had hysterics when I stared at her. The French doll you sent took clown a grammatical error without correcting it. Besides, none of 'em till the rube had competent eyes. Can't you tell competent eyes when you see 'em? Always weed out stenographers by their eyes. Give her a desk, near my inner doorand don't ever send me an-other batch like that."</p>
 
 <p>I didn't like his tone. It was harder than it used to be, and utterly unsympathetic. I went out not so much resentful, however, as wondering at the change coming over him, and assigned Miss McCloud to a desk. She thanked me in her awkward way, and we chatted a moment. Was she a New Yorker? Oh, no; her father had been a dairyman up-State. Her father and mother had both died only a little over a year ago, and left her just enough, when she sold the farm, to come to New York and take a business course. She'd kept all her father's accounts, though, and written his letters. He was Scotch. Their herd was mostly Ayr-shires, which are better than Jerseys because-</p>
 
 <p>But a call interrupted me, and I didn't learn the reason for this superiority.</p>
 
-<p>THINGS happened fast after that in the dingy old office of Rice & Greenough. The office was busy as it had never been before, I gathered. I don't know that we were selling much more coffee ourselves, but we were up to the neck in other people's affairs; and the dim old ante-room, with its dark red carpet and its faded pictures of coffee-sacks on the docks at Rio, was constantly full of swarthy-faced men from the under continent—full of them and of their jabber and their pungent cigarette smoke. Those who came about anything but coffee old Mr. Greenough refused to see—they all had their interviews with Tom. It was his business to deal in coffee, the senior partner declared, whether the Kaiser was a Hun or not and whether England and Germany cut each other's throats and both perished or not.</p>
+<p>THINGS happened fast after that in the dingy old office of Rice & Greenough. The office was busy as it had never been before, I gathered. I don't know that we were selling much more coffee ourselves, but we were up to the neck in other people's affairs; and the dim old ante-room, with its dark red carpet and its faded pictures of coffee-sacks on the docks at Rio, was constantly full of swarthy-faced men from the under continentfull of them and of their jabber and their pungent cigarette smoke. Those who came about anything but coffee old Mr. Greenough refused to seethey all had their interviews with Tom. It was his business to deal in coffee, the senior partner declared, whether the Kaiser was a Hun or not and whether England and Germany cut each other's throats and both perished or not.</p>
 
 <p>I heard him telling Tom this one day. I believe he added that he hoped they both would, and get it over with. Tom was very excited, and declared he was ashamed to hear his father speak so.</p>
 
@@ -218,9 +435,9 @@ Illustrated by Frank Snapp
 
 <p>Tom stormed into his own office, and at once rang for Miss McCloud. He had already dictated to her enough work that morning to keep her busy for three hours.</p>
 
-<p>As she entered, I heard him ask her sharply if this work was done, and snap out a "Well, why not?" to her stammered reply. Then he began a letter. I caught the name—a man of great financial prominence; but I caught no more, for he interrupted with a "Don't you know enough to shut that door?"—and the door was shut, to my surprise, with a slam.</p>
+<p>As she entered, I heard him ask her sharply if this work was done, and snap out a "Well, why not?" to her stammered reply. Then he began a letter. I caught the namea man of great financial prominence; but I caught no more, for he interrupted with a "Don't you know enough to shut that door?"and the door was shut, to my surprise, with a slam.</p>
 
-<p>When Bertha came out I noticed that her high cheek-bones were flushed, and that she was much thinner than that day a few brief months ago when she had come timidly in answer to my advertisement. She was timid still—or, at least, she had no faculty of chumming with the other girls in the office, and day after day she sat at her machine between Tom's inner door and the files, clicking out rather slowly, but with absolute ,accuracy, his mass of correspondence and those endless reports and prospectuses he was forever translating orally for her to transcribe.</p>
+<p>When Bertha came out I noticed that her high cheek-bones were flushed, and that she was much thinner than that day a few brief months ago when she had come timidly in answer to my advertisement. She was timid stillor, at least, she had no faculty of chumming with the other girls in the office, and day after day she sat at her machine between Tom's inner door and the files, clicking out rather slowly, but with absolute ,accuracy, his mass of correspondence and those endless reports and prospectuses he was forever translating orally for her to transcribe.</p>
 
 <p>I FELL to wondering whether she liked this work better than milking the cows or churning the butter back on her father's farm. It seemed to me she ought to have kept the farm and 'run it herself. I wondered, too, where she lived in New York, and if she had any friends. But she was too busy then to ask, biting her lip and trying to make speed on her machine.</p>
 
@@ -246,17 +463,17 @@ Illustrated by Frank Snapp
 PAGE 7
 FEBRUARY 16, 1918
 
-<p>'We mustn't be dependent on foreign bottoms.: 'We must have ships to carry the American flag to every corner of the globe.' And then, all the pleas of South Americans for steamers direct to New York! What he's trying to do now is to get his father to establish a line of steamers, and if he won't—"</p>
+<p>'We mustn't be dependent on foreign bottoms.: 'We must have ships to carry the American flag to every corner of the globe.' And then, all the pleas of South Americans for steamers direct to New York! What he's trying to do now is to get his father to establish a line of steamers, and if he won't"</p>
 
 <p>"He won't," said I.</p>
 
-<p>"If he won't, I believe—oh, don't whisper I said this—I believe young Mr. Greenough's working somehow to force him. I just go on thinking about it, and typing 'we mustn't be dependent on foreign bottoms' all night in my dreams."</p>
+<p>"If he won't, I believeoh, don't whisper I said thisI believe young Mr. Greenough's working somehow to force him. I just go on thinking about it, and typing 'we mustn't be dependent on foreign bottoms' all night in my dreams."</p>
 
 <p>"You're working too hard," 1 said. "Do you get any exercise?"</p>
 
 <p>"I get so much with my fingers that I'm too tired to take any with my feet," she answered.</p>
 
-<p>"Still, you ought—"</p>
+<p>"Still, you ought"</p>
 
 <p>"Oh, don't tell me what I ought to do!" she broke out with sudden vehemence. "I've got a little sister I'm sending through normal school."</p>
 
@@ -266,21 +483,21 @@ FEBRUARY 16, 1918
 
 <p>She looked at me with a kind of startled-animal suspicion, but was evidently reassured.</p>
 
-<p>"You city people that kick at the price of milk don't know much about dairy farming these days," she said. "Besides, I—I—I wanted to see the town. Well, I've seen it!"</p>
+<p>"You city people that kick at the price of milk don't know much about dairy farming these days," she said. "Besides, III wanted to see the town. Well, I've seen it!"</p>
 
 <p>There was a nervous bitterness in her tone, and she turned hastily to her work.</p>
 
 <p>Just then Tom Greenough came into his office, accompanied by a short, swarthy, evil-looking South American specimen. I hurried about my work, and presently saw Bertha going into his room.</p>
 
-<p>THAT was in March of 1915, as I recall it. It wasn't long before I, too, began to hear directly about the American mercantile marine—before every one in the office did, for the matter of that. Tom made no secret of the fact that he was trying to induce his father to buy or build some ships of their own. He dictated letters to congressmen, to the news-papers, to other business men. It seemed almost a monomania with him. He paid a large sum for the model of an old Salem clipper (from the Drake collection), and another goodly sum for a painting of one, both of which he brought to the office and mounted in the ante-room.</p>
+<p>THAT was in March of 1915, as I recall it. It wasn't long before I, too, began to hear directly about the American mercantile marinebefore every one in the office did, for the matter of that. Tom made no secret of the fact that he was trying to induce his father to buy or build some ships of their own. He dictated letters to congressmen, to the news-papers, to other business men. It seemed almost a monomania with him. He paid a large sum for the model of an old Salem clipper (from the Drake collection), and another goodly sum for a painting of one, both of which he brought to the office and mounted in the ante-room.</p>
 
-<p>I think there was a considerable element of rough poetry in his enthusiasm, too. He saw visions of the old days when the American flag sailed out of Salem harbor to all the Seven Seas on the great adventure of business. He saw visions of his own ships, in these latter days, bringing home not only coffee but he knew not what mysterious treasures. Of course, the shrewd idea of his Wall Street friends —to get the bottoms without which there Is no overseas trade, and then, perforce, to get the trade, and with the trade to wax fabulously richer—was not outside his dreams or his calculations. It is sure that his fingers itched to be grasping him-self some of these schemes of exploitation that he was almost daily forced to pass along to his friends; and this he could not do without the firm's aid, for he had lived to the limit of his own income for years and had no available capital. If they owned their own ships Rice & Greenough would be forced to handle other things than coffee. Romance could enter into the business—they would have to ex-pand.</p>
+<p>I think there was a considerable element of rough poetry in his enthusiasm, too. He saw visions of the old days when the American flag sailed out of Salem harbor to all the Seven Seas on the great adventure of business. He saw visions of his own ships, in these latter days, bringing home not only coffee but he knew not what mysterious treasures. Of course, the shrewd idea of his Wall Street friends to get the bottoms without which there Is no overseas trade, and then, perforce, to get the trade, and with the trade to wax fabulously richerwas not outside his dreams or his calculations. It is sure that his fingers itched to be grasping him-self some of these schemes of exploitation that he was almost daily forced to pass along to his friends; and this he could not do without the firm's aid, for he had lived to the limit of his own income for years and had no available capital. If they owned their own ships Rice & Greenough would be forced to handle other things than coffee. Romance could enter into the businessthey would have to ex-pand.</p>
 
 <p>But the old gentleman had about as much intention of establishing a mercantile fleet as he had of enlisting in the Lafayette escadrille, and Tom must surely have known it. He grew every day more testy and hurried, and gradually, as our South American connections brought us more and more visitors who really had financially important schemes or concessions, he began to hedge  himself a bout with an air of self-importance and aloofness which, in our small, dim,  old-fashioned office, was rather quaint.</p>
 
-<p>A "boy" was installed to ascertain from visitors their full pedigree before they were admitted to the holy of holies. This "boy" was gray-haired, as is proper in the office of a great financier, and he knew all the "big men" of the Street by sight, so that when one of them called—as they now and again did these days—he could oil the ways to an instant interview. But he didn't know the elder Mr. Greenough's old friend Judge Breck, and stopped him at the door of the senior partner's office the very first day of service.</p>
+<p>A "boy" was installed to ascertain from visitors their full pedigree before they were admitted to the holy of holies. This "boy" was gray-haired, as is proper in the office of a great financier, and he knew all the "big men" of the Street by sight, so that when one of them calledas they now and again did these dayshe could oil the ways to an instant interview. But he didn't know the elder Mr. Greenough's old friend Judge Breck, and stopped him at the door of the senior partner's office the very first day of service.</p>
 
-<p>The door flew open during the scene that followed—the Judge was in process of telling the "boy" very punctiliously that he had come to negotiate the purchase of a pound of Java and a quarter of a pound of Mocha, mixed—and the senior partner burst out.</p>
+<p>The door flew open during the scene that followedthe Judge was in process of telling the "boy" very punctiliously that he had come to negotiate the purchase of a pound of Java and a quarter of a pound of Mocha, mixedand the senior partner burst out.</p>
 
 <p>"Who engaged this nincompoop?" he demanded. "What's he here for anyhow?"</p>
 
@@ -294,7 +511,7 @@ FEBRUARY 16, 1918
 
 <p>"I'll pay the boy," he finally said, biting his lip like a child whose pride has been hurt. "Tell him to handle only my visitors. I'll have a little rail put on my side of the ante-room. Now ask Miss McCloud for those Roderigo reports, will you?"</p>
 
-<p>When I returned with a bundle labeled "Roderigo—Dutch Guiana," Tom Greenough was seated in close confab with a dapper man whom I at once recognized as a "power" on the Street—a man who dealt in millions, encouraged his wife to patronize the French philosophers, at-tended all chamber music concerts, exhibited prize sweet peas, bred Airedales, collected American first editions, and dressed in the height of fashion without appearing overdressed. They stopped talking when I came in, and Tom reached unceremoniously for the papers with his large hand. But the other man, whose hands were crossed on his cane handle, gave me a pleasant nod, and I felt his odd charm, about which I had heard so much.</p>
+<p>When I returned with a bundle labeled "RoderigoDutch Guiana," Tom Greenough was seated in close confab with a dapper man whom I at once recognized as a "power" on the Streeta man who dealt in millions, encouraged his wife to patronize the French philosophers, at-tended all chamber music concerts, exhibited prize sweet peas, bred Airedales, collected American first editions, and dressed in the height of fashion without appearing overdressed. They stopped talking when I came in, and Tom reached unceremoniously for the papers with his large hand. But the other man, whose hands were crossed on his cane handle, gave me a pleasant nod, and I felt his odd charm, about which I had heard so much.</p>
 
 <p>AS I went home on the"L"that evening I read in the paper of the formation of the American World Traders Company, capitalized at $75,000,000 and backed by half the wealth of Wall Street. I knew well enough of those South American and even far Eastern concessions and trade opportunities that were constantly coming into our office, and which Tom Greenough's fingers so itched to seize instead of passing along to his friends; and I grasped, I think, something of the tremendous scope of this new trading trust. Among the list was the name of the dapper gentleman whose smile had flattered me.</p>
 
@@ -302,7 +519,7 @@ FEBRUARY 16, 1918
 
 <p>All of which goes to show that it is wise to trust a woman's intuition. To sell out the firm was exactly what Tom Greenough was trying to do. Three weeks later he had won his father's consent to have an auditor from the A. W. T. C. come down to go over the books. I have always fancied that old Mr. Greenough wanted to show these "modern" financiers just what a fine business he had, preparatory to the satisfaction of telling them they might be able to buy the rest of the earth, but they couldn't buy Rice & Greenough.</p>
 
-<p>At any rate, the auditor came. He was —or seemed so in our office—a mere child, a pink-checked, breezy youth. Our old head bookkeeper, at his stool by the dusty window on the back street, hated him immediately; for the first thing he did was to exclaim: "Good Lord! Eve couldn't have kept track of her dressmaker's bills by this system."</p>
+<p>At any rate, the auditor came. He was or seemed so in our officea mere child, a pink-checked, breezy youth. Our old head bookkeeper, at his stool by the dusty window on the back street, hated him immediately; for the first thing he did was to exclaim: "Good Lord! Eve couldn't have kept track of her dressmaker's bills by this system."</p>
 
 <p>"That pink puppy," old Mr. Greenough called him, in my presence. Only our few women employees did not hate him. He joked with them, gave them candy, made them smile.</p>
 
@@ -322,23 +539,23 @@ FEBRUARY 16, 1918
 
 <p>"I'd say it was, if they hadn't made it, sir," Martin replied boldly, his weazened face flushing as he spoke.</p>
 
-<p>"You mean by that—?" the old gentleman prompted.</p>
+<p>"You mean by that?" the old gentleman prompted.</p>
 
 <p>"I mean, if they'll give so much over and above a value determined by our net earnings, we must occupy a strategic position."</p>
 
 <p>"You see, father, even he grasps the opportunity!" said Tom.</p>
 
-<p>"This firm buys and sells coffee, and it will not buy and sell anything else while I am in it!" the father cried, bringing his hand—the thin, blue-veined hand of an old man—down on his desk, so that the lid jumped off the ink-well and fell with a rattle to the pad. He picked it up slowly, looked at it, as if it were new to him, re-placed it, and then wheeled his chair to face his son.</p>
+<p>"This firm buys and sells coffee, and it will not buy and sell anything else while I am in it!" the father cried, bringing his handthe thin, blue-veined hand of an old mandown on his desk, so that the lid jumped off the ink-well and fell with a rattle to the pad. He picked it up slowly, looked at it, as if it were new to him, re-placed it, and then wheeled his chair to face his son.</p>
 
-<p>"Tom," he said,—and something in the old man's tone caught me in the throat, —"Tom, do you want to sell out Rice & Greenough, the firm I made for you by years of toil, and meant to leave for you, so the old sign could hang over the door when I was gone? Does making money mean so much to you as that?"</p>
+<p>"Tom," he said,and something in the old man's tone caught me in the throat, "Tom, do you want to sell out Rice & Greenough, the firm I made for you by years of toil, and meant to leave for you, so the old sign could hang over the door when I was gone? Does making money mean so much to you as that?"</p>
 
 <p>I think both men had forgotten Martin and me. Tom did not look his father in the face. His burly figure drooped a little.</p>
 
-<p>"I didn't want to—I don't want to," he replied. "I wanted the sign to swing, all right, but over a house doing modern business in a modern way. I wanted to</p>
+<p>"I didn't want toI don't want to," he replied. "I wanted the sign to swing, all right, but over a house doing modern business in a modern way. I wanted to</p>
 
 Continued on page 20
 
-<p>"The girl emitted a sudden loud, hysterical laugh which changed into a scream of terror. `There—there she is!' she cried."</p>
+<p>"The girl emitted a sudden loud, hysterical laugh which changed into a scream of terror. `Therethere she is!' she cried."</p>
 
 <p>I GET sort of tired, don't you, of shop-girl and stenographer stories that deal with shop girls and stenographers such as never were in the world? This one is different: maybe you will think it is too different. Personally, I don't.</p>
 
@@ -361,7 +578,7 @@ By CAPTAIN A. P. CORCORAN
 
 <p>One by one, they fell, until there survived only our Highlander, who had him-self got two bullets in the right arm. But he kept plugging away as coolly as possible, mowing down Germans, who were now only a hundred yards off, until all his am-munition gave out.</p>
 
-<p>And then what happened? Did he save himself as best he could? Not he.- Even in his extremity he remembered his iron friend. Slinging the gun over his shoulder by the main strength of his left arm,—he was a fine specimen of his burly race,—he retired with all due dignity. As by a miracle he survived to receive his V. C. As did likewise Captain Campbell, another of our heroes.</p>
+<p>And then what happened? Did he save himself as best he could? Not he.- Even in his extremity he remembered his iron friend. Slinging the gun over his shoulder by the main strength of his left arm,he was a fine specimen of his burly race,he retired with all due dignity. As by a miracle he survived to receive his V. C. As did likewise Captain Campbell, another of our heroes.</p>
 
 <p>War had settled down to the trench deadlock when this man found a way to gain fame. He was a Canadian in charge of a gun sector. When the infantry went over the top to an attack, he went too, dragging two field pieces along. Close to the German line he brought them, in face of terrific fire.</p>
 
@@ -381,9 +598,9 @@ The Editor Sees Frederick Palmer
 
 <p>I found him in a quiet hotel off Broadway, where he is spending two or three weeks before going back for the spring campaign. I asked him what young men could do to help win the war.</p>
 
-<p>And his answer was one word—"Ships." The draft law is going to give us men as fast as we can equip them. The training camps have given us more officers than we can at present use. The whole crux of the matter is ships.</p>
+<p>And his answer was one word"Ships." The draft law is going to give us men as fast as we can equip them. The training camps have given us more officers than we can at present use. The whole crux of the matter is ships.</p>
 
-<p>If this is read by any young man who has been wanting to do his bit and has not found a place, let him ask himself whether he is equipped to be useful in a ship-yard. Every man who helps to put a rivet into a new ship is striking a direct blow against the Kaiser—even more direct, at present, than as if he were wearing a uniform. And there ought to be a uniform for ship-builders, Mr. Palmer thinks, and a medal of honor for the men who—in that field of effort—do with courage and fidelity their part in the winning of the war.</p>
+<p>If this is read by any young man who has been wanting to do his bit and has not found a place, let him ask himself whether he is equipped to be useful in a ship-yard. Every man who helps to put a rivet into a new ship is striking a direct blow against the Kaisereven more direct, at present, than as if he were wearing a uniform. And there ought to be a uniform for ship-builders, Mr. Palmer thinks, and a medal of honor for the men whoin that field of effortdo with courage and fidelity their part in the winning of the war.</p>
 
 Learning to Walk
 
@@ -443,7 +660,7 @@ What Are We Fighting For?
 
 <p>"Apropos of a discussion . . . on the friction between Admiral Dewey and the German admiral at Manila, von Goetzen said to me: `I will tell you something which you had better make a note of. I am not afraid to tell you this, because if you do speak of it no one will believe you and everybody will laugh at you.</p>
 
-<p>"'About fifteen years from now my country will start her great war. She will be in Paris in about two months after the commencement of hostilities. Her move on Paris will be but a step to her real object—the crushing of England. Every-thing will move like clockwork. We will be prepared and others will not be pre-pared. I speak of this because of the connection which it will have with your own country.</p>
+<p>"'About fifteen years from now my country will start her great war. She will be in Paris in about two months after the commencement of hostilities. Her move on Paris will be but a step to her real objectthe crushing of England. Every-thing will move like clockwork. We will be prepared and others will not be pre-pared. I speak of this because of the connection which it will have with your own country.</p>
 
 <p>"'Some months after we finish our work in Europe, we will take New York, and probably Washington, and hold them for some time. We will put your country in its place with reference to Germany.</p>
 
@@ -457,7 +674,7 @@ The Nuns Will Always Pray for Him
 
 <p>One striking instance occurred off the Belgian coast:</p>
 
-<p>"There is an order of nuns—I think it is the Order of the Sacred Heart—which each day says a prayer for a young British merchant captain that I know. Braithwaite was captain of the Teviot, the last ship to leave Ostend. In fact, the Germans were entering the town and there was rifle fire along the beach as Captain Braithwaite started his ship out of Ostend for England with refugees aboard. She is only a little dinky cargo boat of 3,271 tons and 331 feet in length. As he was sending the Teviot out into the stream, he saw a group of nuns being chased along the beach by German soldiers. Braithwaite backed the Teviot towards the shore, nearly grounding her, and effected the rescue of eighty nuns.</p>
+<p>"There is an order of nunsI think it is the Order of the Sacred Heartwhich each day says a prayer for a young British merchant captain that I know. Braithwaite was captain of the Teviot, the last ship to leave Ostend. In fact, the Germans were entering the town and there was rifle fire along the beach as Captain Braithwaite started his ship out of Ostend for England with refugees aboard. She is only a little dinky cargo boat of 3,271 tons and 331 feet in length. As he was sending the Teviot out into the stream, he saw a group of nuns being chased along the beach by German soldiers. Braithwaite backed the Teviot towards the shore, nearly grounding her, and effected the rescue of eighty nuns.</p>
 
 <p>"A letter, indorsed by Cardinal Mercier, was written Captain Braithwaite thanking him for this service. In this letter the Mother Superior says that she has no hesitancy in stating that Braithwaite's action saved these nuns from rape, which the Germans have committed on nuns in Belgium, even on Mothers Superior of seventy years of age.</p>
 
@@ -467,9 +684,9 @@ Taking No Chances
 
 <p>JOHN, you ought to get in the aviation service," a York man told a negro. "You are a good mechanic and would come in handy in an aeroplane. How would you like to fly among the clouds a mile high and drop a few bombs down on the Germans?"</p>
 
-<p>"I ain't in special hurry to fly, Cap," the negro answered. "When we's up 'bout ad mile high, s'pose de engine stopped and e white man told me to git out an' crank?"—York News.</p>
+<p>"I ain't in special hurry to fly, Cap," the negro answered. "When we's up 'bout ad mile high, s'pose de engine stopped and e white man told me to git out an' crank?"York News.</p>
 
-© International Film Service, Inc.
+ International Film Service, Inc.
 
 <p>A grateful Belgian having his wounds dressed in an improvised hospital at Brussels.</p>
 
@@ -493,17 +710,17 @@ A Canadian's Experience in a German Hospital
 
 <p>At the hospital in Stuttgart, to which he was moved, English prisoners were still a novelty, and at first he was treated with suspicion and silence. The care he received was adequate but not devoted.</p>
 
-<p>"At first I was examined and my wounds dressed twice every day. Nothing was done during the night; we didn't even have the sisters; only one orderly kept watch over the two hundred patients.  Many of us needed attention during the long night, too, but we had to comfort ourselves with the hope that sleep would come to our aid in fighting with fever, pain, and anxiety; sometimes it did—sometimes. However, as the days went past, we felt better, and the Germans began to take greater interest in us, and went so far as to like us.</p>
+<p>"At first I was examined and my wounds dressed twice every day. Nothing was done during the night; we didn't even have the sisters; only one orderly kept watch over the two hundred patients.  Many of us needed attention during the long night, too, but we had to comfort ourselves with the hope that sleep would come to our aid in fighting with fever, pain, and anxiety; sometimes it didsometimes. However, as the days went past, we felt better, and the Germans began to take greater interest in us, and went so far as to like us.</p>
 
 <p>"The hospital was swept three times daily, and the floors were washed every alternate day. Everything was kept scrupulously clean, and every sanitary precaution taken. Operations were performed every morning; our men were having their arms and legs amputated at a very lively rate. I venture to say, if these men had been picked up by our own people and taken to British hospitals they would have their limbs to-day.</p>
 
 <p>"The adjutant of the medical staff was a very capable man and ran his hospital well, but he was the terror of the German orderlies and clerks. He was able to lash himself into a perfect fury on the spur of the moment at the slightest provocation; he would yell and foam at the mouth like a madman. All the staff had a holy dread of this stout little fire-eater. He was mainly responsible for the kindness shown to us. He watched us and tested our men in various ways; when he saw that we were well behaved, courteous, and clean, he wasn't slow to compliment us. We did not have any privileges, but we were treated with great respect. We could write one post-card every week and one letter every alternate week. "</p>
 
-<p>The Italians have always known how to make great monuments for their dead—perhaps be-cause to them a beautiful statue was in itself a sort of immortality. The beautiful monument shown above was placed on one of the hills above Gorizia in honor of an Italian general who was killed leading his men against the Austrians.</p>
+<p>The Italians have always known how to make great monuments for their deadperhaps be-cause to them a beautiful statue was in itself a sort of immortality. The beautiful monument shown above was placed on one of the hills above Gorizia in honor of an Italian general who was killed leading his men against the Austrians.</p>
 
 <p>Soldiers use their rifle slings for many purposes more important than simply carrying the gun on their backs. This picture shows the sling helping to hold the rifle steady while the soldier shoots from a kneeling position.</p>
 
-© Mudd & Herbert
+ Mudd & Herbert
 
 
 
@@ -546,23 +763,23 @@ Illustrations by Francis Vaux Wilson
 
 <p>"How's that?" says I.</p>
 
-<p>"Why," he snarls, "comin' down here twice a week, snoopin' around and findin' fault. Ever since she bought the buildin' it's been that way. And me holdin' the job for goin' on four years with never a cross word from the boss. But now—'Vy dond you the sidevalk sveep oop?' `Vot is it you smoke in your dirty pipe—rubber, eh?' And threatenin' to tie the can to me every trip. Trust a woman. G-r-r-r!"</p>
+<p>"Why," he snarls, "comin' down here twice a week, snoopin' around and findin' fault. Ever since she bought the buildin' it's been that way. And me holdin' the job for goin' on four years with never a cross word from the boss. But now'Vy dond you the sidevalk sveep oop?' `Vot is it you smoke in your dirty piperubber, eh?' And threatenin' to tie the can to me every trip. Trust a woman. G-r-r-r!"</p>
 
 <p>"That's right," says I. "Get it all out of your system and then maybe you'll feel better." And with a grin I leaves him to his happy thoughts.</p>
 
 <p>Seems to break the ice with him, this little exchange. After that he never fails to hold me up and spill his troubles. Yes, he had a lot of 'em, mainly havin' to do with the snake-charmin' sex. It was one day when the old elevator went out of commission and the repair gang was tinkerin' it up that he finds his way up to the Studio and gives me a complete bill of complaint.</p>
 
-<p>"I used to think I was a man," says he, glarin' savage at the worn-out toes of his old shoes. "Now— Well, I don't know what I am. It's bein' surrounded and hectored so much by old hens."</p>
+<p>"I used to think I was a man," says he, glarin' savage at the worn-out toes of his old shoes. "Now Well, I don't know what I am. It's bein' surrounded and hectored so much by old hens."</p>
 
 <p>"Meanin' the fair sex?" I suggests.</p>
 
-<p>"Fair be blowed!" says he. "Old hens. That Mrs. Rosenbaum, the landlady. She's a fair sample. And look at our buildin'—full of 'em. Madam Jezinski, what runs the hair shop on the second; Madam O'Bryne, robes, for another; and all them milliners and typewriters and corn doctors on the other floors. Every one ready to bawl me out any time of day. And I have to stand for it—me, Samson Todd."</p>
+<p>"Fair be blowed!" says he. "Old hens. That Mrs. Rosenbaum, the landlady. She's a fair sample. And look at our buildin'full of 'em. Madam Jezinski, what runs the hair shop on the second; Madam O'Bryne, robes, for another; and all them milliners and typewriters and corn doctors on the other floors. Every one ready to bawl me out any time of day. And I have to stand for itme, Samson Todd."</p>
 
 <p>"Samson, eh?" says I, sizin' up this thin-chested, squint-eyed, booze-soaked specimen of human wasp. "Ain't that kind of a misfit name for a party of your weight?"</p>
 
-<p>"Maybe," says he. "Wished on me by an aunt, out of dislike. I suppose she knew I was goin' to be sickly and never get my full growth. But, for all of that, I've been a man, more or-less, until I got stuck here, hoistin' women up and down all day long. Nothin' but women. You've seen. Car's always full of 'cm, mostly old hens—cacklin', jabberin', jawin' old hens. And then, when I'm through at night, home among more of 'em. Yes, three more old hens at home."</p>
+<p>"Maybe," says he. "Wished on me by an aunt, out of dislike. I suppose she knew I was goin' to be sickly and never get my full growth. But, for all of that, I've been a man, more or-less, until I got stuck here, hoistin' women up and down all day long. Nothin' but women. You've seen. Car's always full of 'cm, mostly old henscacklin', jabberin', jawin' old hens. And then, when I'm through at night, home among more of 'em. Yes, three more old hens at home."</p>
 
-<p>"Steady, there, Todd," says I. "If you're a Mormon you shouldn't—"</p>
+<p>"Steady, there, Todd," says I. "If you're a Mormon you shouldn't"</p>
 
 <p>"Think I'd marry one, let alone three?" he snaps.</p>
 
@@ -574,13 +791,13 @@ Illustrations by Francis Vaux Wilson
 
 <p>"Eh?" says he, starin' as if I'd suggested he tackle some miracle.</p>
 
-<p>"Listen, 1 odd," says I. "You come beefin' to me about the way you're pestered by women. You state your opinions mighty free and bold—when they can't hear you. Know what you sound like? A yellow pup yappin' down an al-ley. Uh-huh. Like a worthless, measly yellow pup that would run if a twoweeks-old kitten humped its back at him. Now, if you must yap, do your yappin' where it'll register. Buck up! Don't be an imitation man. If your women-folk at home are pickin' on you, give 'em as good as they send. Tell 'em where they get off. The same with Mrs. Rosenbaum. Ten to one they'll lay off it after that. Anyway, take a chance. That is, if you got any nerve left."</p>
+<p>"Listen, 1 odd," says I. "You come beefin' to me about the way you're pestered by women. You state your opinions mighty free and boldwhen they can't hear you. Know what you sound like? A yellow pup yappin' down an al-ley. Uh-huh. Like a worthless, measly yellow pup that would run if a twoweeks-old kitten humped its back at him. Now, if you must yap, do your yappin' where it'll register. Buck up! Don't be an imitation man. If your women-folk at home are pickin' on you, give 'em as good as they send. Tell 'em where they get off. The same with Mrs. Rosenbaum. Ten to one they'll lay off it after that. Anyway, take a chance. That is, if you got any nerve left."</p>
 
 <p>He takes it without a squirm, all except that last jab. That got under his skin. I could see him stiffen and his fingers bunch up.</p>
 
 <p>"You think I ain't got any nerve?" says he, gettin' on his feet. "I'll show you. And I'll show them, too."</p>
 
-<p>"Yes, you will—not," says I over my shoulder as he drifts through the door.</p>
+<p>"Yes, you willnot," says I over my shoulder as he drifts through the door.</p>
 
 <p>Maybe that was rubbin' in the salt. I didn't have anything special against Todd, the poor fish! Only I didn't want him to get the idea he could run in here and give me an earful whenever he got a call down that he most likely deserved. And I had no more notion he'd try to follow my ad-vice than I did of seein' him turn hand-some overnight. I just threw it off casual and careless.</p>
 
@@ -590,13 +807,13 @@ Illustrations by Francis Vaux Wilson
 
 <p>"Oh, it's perfectly awful!" she groans. "Can't some one stop him?"</p>
 
-<p>"Stop what—who?" says I.</p>
+<p>"Stop whatwho?" says I.</p>
 
-<p>"That wretch in the elevator," says she. "He'll kill them all—I know he will. He has the car full, and he's running it up and down like a crazy man, stopping and starting jerky, not letting them out, and swearing something frightful. They say that Madam Jezinski is in there, and that two girls from the manicure parlors have fainted, and—"</p>
+<p>"That wretch in the elevator," says she. "He'll kill them allI know he will. He has the car full, and he's running it up and down like a crazy man, stopping and starting jerky, not letting them out, and swearing something frightful. They say that Madam Jezinski is in there, and that two girls from the manicure parlors have fainted, and"</p>
 
 <p>"It ain't Todd, is it?" I demands.</p>
 
-<p>"I'm sure I don't know his name," says she. "It's that surly, smelly little runt with the squinty eyes—the one that's al-ways here."</p>
+<p>"I'm sure I don't know his name," says she. "It's that surly, smelly little runt with the squinty eyesthe one that's al-ways here."</p>
 
 <p>"That's him," says I. "Todd." And I does my best to smother a grin.</p>
 
@@ -636,9 +853,9 @@ Illustrations by Francis Vaux Wilson
 
 <p>"And you called her an old hen and a few other things, like you threatened?" I asks. "What then?"</p>
 
-<p>"I—I got the chuck," says Todd.</p>
+<p>"II got the chuck," says Todd.</p>
 
-<p>"Didn't look for any medal of honor to be pinned on you, did you?" I goes on. "But that ain't the only job in the world, is it? Is that what ails you—or have you been home?"</p>
+<p>"Didn't look for any medal of honor to be pinned on you, did you?" I goes on. "But that ain't the only job in the world, is it? Is that what ails youor have you been home?"</p>
 
 <p>He nods and lets out some more groans.</p>
 
@@ -646,11 +863,11 @@ Illustrations by Francis Vaux Wilson
 
 <p>Todd squirms around quite a lot, but finally he gets out his report.</p>
 
-<p>"They—they nearly did me up," he says.</p>
+<p>"Theythey nearly did me up," he says.</p>
 
 <p>"What!" says I. "Three women?"</p>
 
-<p>"You—you never saw that sister of mine," whines Todd. "She's as strong as any man. It wasn't so much that she hurt as—as—"</p>
+<p>"Youyou never saw that sister of mine," whines Todd. "She's as strong as any man. It wasn't so much that she hurt asas"</p>
 
 <p>Here he breaks off, sniffin'.</p>
 
@@ -658,18 +875,18 @@ Illustrations by Francis Vaux Wilson
 
 <p>"Spu-spanked me," sobs out Todd hidin' his head.</p>
 
-<p>"W-h-a-at!? I gasped. "You let her spa— Good night! Here, Pinckney. Here's your mystery. This noble gent here on the floor is Mr. Samson Todd. Up to this noon he was elevator-man next door. He didn't like the job. Too many</p>
+<p>"W-h-a-at!? I gasped. "You let her spa Good night! Here, Pinckney. Here's your mystery. This noble gent here on the floor is Mr. Samson Todd. Up to this noon he was elevator-man next door. He didn't like the job. Too many</p>
 
 Concluded on page 15
 
-<p>" `Mrs. Rosenbaum, Madam Jezinski, Madam O'Brync—every one ready to bawl me out any time of day—me, Samson Todd.' "</p>
+<p>" `Mrs. Rosenbaum, Madam Jezinski, Madam O'Bryncevery one ready to bawl me out any time of dayme, Samson Todd.' "</p>
 
 
 EVERY WEEK 11
 
 "OVER THERE" BEFOREHAND
 
-<p>IT was preposterous, y'know. No Englishman would ever ride in a "lift" to purchase articles on the second floor of a store. All bally rot. And as for soda-fountains and bargain sales—Yankee impudence. Yet with Yankee impudence, and in spite of fifty-six separate injunctions. H. G. Selfridge of Chicago erected a five-story building in venerable Oxford Street. and opened an American department-store. When he started to advertise, the other merchants howled their disapproval. But to-day Self-ridge's is the largest store in London—and the other merchants advertise.</p>
+<p>IT was preposterous, y'know. No Englishman would ever ride in a "lift" to purchase articles on the second floor of a store. All bally rot. And as for soda-fountains and bargain salesYankee impudence. Yet with Yankee impudence, and in spite of fifty-six separate injunctions. H. G. Selfridge of Chicago erected a five-story building in venerable Oxford Street. and opened an American department-store. When he started to advertise, the other merchants howled their disapproval. But to-day Self-ridge's is the largest store in Londonand the other merchants advertise.</p>
 
 Photograph by Brown Brothers.
 
@@ -683,7 +900,7 @@ Underwood & Underwood
 
 Photograph by Brown Brothers
 
-<p>PRACTICALLY unknown here, the Rev. Dr. Joseph Pout Newton was invited to speak in London, and when the engagement was over he was engaged as pastor of London City Temple. the largest non-conformist pulpit in Great Britain. He won London by fighting liberalism with liberalism. Is Christianity dead? He met the cry. "Of course it is; that is its genius," he propounded—"to die like its master and rise again radiant and re-born " Dr. Newton is a son of Texas and only forty years old</p>
+<p>PRACTICALLY unknown here, the Rev. Dr. Joseph Pout Newton was invited to speak in London, and when the engagement was over he was engaged as pastor of London City Temple. the largest non-conformist pulpit in Great Britain. He won London by fighting liberalism with liberalism. Is Christianity dead? He met the cry. "Of course it is; that is its genius," he propounded"to die like its master and rise again radiant and re-born " Dr. Newton is a son of Texas and only forty years old</p>
 
 Photograph by Brown BBrothers.
 
@@ -703,7 +920,7 @@ OUR P
 
 Photograph by Central News Photo Service.
 
-<p>"I HAD an aunt in Yucatan Who bought a python from a man And kept it for a pet—" sang the poet: but there are outs about py-thons as pets. The main out about calves as pets is that they don't stay calves. They grow up into big, preoccupied cows, or else into snorting bulls with a dislike of our red jacket.</p>
+<p>"I HAD an aunt in Yucatan Who bought a python from a man And kept it for a pet" sang the poet: but there are outs about py-thons as pets. The main out about calves as pets is that they don't stay calves. They grow up into big, preoccupied cows, or else into snorting bulls with a dislike of our red jacket.</p>
 
 Greater Vitagraph.
 
@@ -748,15 +965,15 @@ Photograph by Paul Thompson.
 
 LITTLE HELPS TO EFFICIENCY
 
-<p>BY efficiency the Germans won the first year of the war, and by efficiency shall they be defeated. The picture below, if taken to heart by the women of the country, will re-lease several million hands for war work right away. The hand that rocks the cradle need rock no more. Take a cigar-box, a small motor, a windmill made of two crossed sticks, with a painted fish on each end of one stick and a pin-wheel on each end of the other, and presto! baby is happy all the livelong day. The invention stands to the credit of Mrs. Edgar Winton, of Dalton, New York—the woman who put the fish in efficiency.</p>
+<p>BY efficiency the Germans won the first year of the war, and by efficiency shall they be defeated. The picture below, if taken to heart by the women of the country, will re-lease several million hands for war work right away. The hand that rocks the cradle need rock no more. Take a cigar-box, a small motor, a windmill made of two crossed sticks, with a painted fish on each end of one stick and a pin-wheel on each end of the other, and presto! baby is happy all the livelong day. The invention stands to the credit of Mrs. Edgar Winton, of Dalton, New Yorkthe woman who put the fish in efficiency.</p>
 
 Photograph from F. E. Brimmer.
 
 Photograph from the Gilliams Service
 
-<p>MAN bends his back in the hot sun's rays: But a woman's work is nix these days. Given a good old gasolene engine, a washing machine, and a copy of this magazine, and the mod-ern woman is all equipped for a good hard Monday's work. So much of woman's former occupation is now taken over by machinery that we look confidently to the coming of the mechanical ¬wife: a nicely formed iron lady, with but-tons that can be set, such as "breakfast,' "darn socks"; with phonograph records beginning, "Why do you always read the paper at breakfast? Can't you pay some attention to me?" etc.</p>
+<p>MAN bends his back in the hot sun's rays: But a woman's work is nix these days. Given a good old gasolene engine, a washing machine, and a copy of this magazine, and the mod-ern woman is all equipped for a good hard Monday's work. So much of woman's former occupation is now taken over by machinery that we look confidently to the coming of the mechanical wife: a nicely formed iron lady, with but-tons that can be set, such as "breakfast,' "darn socks"; with phonograph records beginning, "Why do you always read the paper at breakfast? Can't you pay some attention to me?" etc.</p>
 
-<p>IT seemed a shame to the rancher shown below to sit in the cool shade of his buggy while his faithful steed sweltered in the summer sun. Accordingly, with a few rods of steel and some canvas and some fringe, he fixed the horse up finely for the summer months. And the horse—in gratitude, according to the ranchmanincreased his output of labor about fifty per cent. Remember, when you're sitting comfortably in your shirt-sleeves, that your horse has to wear the same clothes all the year round.</p>
+<p>IT seemed a shame to the rancher shown below to sit in the cool shade of his buggy while his faithful steed sweltered in the summer sun. Accordingly, with a few rods of steel and some canvas and some fringe, he fixed the horse up finely for the summer months. And the horsein gratitude, according to the ranchmanincreased his output of labor about fifty per cent. Remember, when you're sitting comfortably in your shirt-sleeves, that your horse has to wear the same clothes all the year round.</p>
 
 Photograph from C. L. Edholm
 
@@ -781,7 +998,7 @@ PAGE 15
 
 Concluded from page 10
 
-<p>females—old hens is his favorite name for 'em. And he's been beefin' about his women-folks at home. I tried to tell him that if he was a reg'lar guy he wouldn't come grouchin' to me about his troubles, but would stand up and feed i to 'em.  Well, it seems he did. And now look at him. He goes and lets 'em— Say, shall I have Swifty Joe sweep him out, or—"</p>
+<p>femalesold hens is his favorite name for 'em. And he's been beefin' about his women-folks at home. I tried to tell him that if he was a reg'lar guy he wouldn't come grouchin' to me about his troubles, but would stand up and feed i to 'em.  Well, it seems he did. And now look at him. He goes and lets 'em Say, shall I have Swifty Joe sweep him out, or"</p>
 
 <p>Pinckney has hung his crook-necked walkin'-stick on his left wrist and is hold-in' up his other hand.</p>
 
@@ -801,17 +1018,17 @@ Concluded from page 10
 
 <p>And what," Pinckney goes on, "were some of those unsatisfied ambitions, Mr. Todd?"</p>
 
-<p>"You—you mean—" begin; Todd.</p>
+<p>"Youyou mean" begin; Todd.</p>
 
 <p>"The things you yearned to do and could not," Pinckney helps out.</p>
 
-<p>"I—I allus meant to take lessons on th' accordeon," says Todd. "I can play it some—part of `Annie Laurie' and the chorus to `Good Old Summer-time.' I was learnin' `Tipperary' too, gettin' along fine, when that old hen sister of mine found the thing and bust it up on me."</p>
+<p>"II allus meant to take lessons on th' accordeon," says Todd. "I can play it somepart of `Annie Laurie' and the chorus to `Good Old Summer-time.' I was learnin' `Tipperary' too, gettin' along fine, when that old hen sister of mine found the thing and bust it up on me."</p>
 
 <p>"On you!" says Pinckney. "Ali, figuratively, I trust? But none the less there burst a rosy bubble. No more could your fettered soul rise on the wings of Orpheus. Still, there were other aspirations, no doubt?"</p>
 
 <p>"Uh-huh," says Todd, gazin' dreamy.</p>
 
-<p>"Such as—" suggests Pinckney, let-tin' his left eye twinkle my way.</p>
+<p>"Such as" suggests Pinckney, let-tin' his left eye twinkle my way.</p>
 
 <p>"I should ha' been a sea captain," says Todd, "sailin' round and seem' the world; maybe smugglin' a bit, or mixin' it with pirates over in them Molly islands."</p>
 
@@ -821,32 +1038,32 @@ Concluded from page 10
 
 <p>"Ah, I never had no chanst," says Todd. "I been a stick-in-th'-mud. Sick a lot, for one thing. And then I never knew just how to get started. But I allus wanted to strike out for myself, to get away where there was danger and fight-in' and things to stir your blood. If I could only get there now, right in the thick of things, I'll risk but I'd take my share. I'd show 'em that Samson Todd was a man yet!"</p>
 
-<p>HE'S -straightened up, Todd has, and his squinty eyes has an odd greenish flicker in 'em, and he's waggin' his head cocky. I can't say whether he's funny or pathetic—a little of both, maybe. As for Pinckney, I can tell he's haven' the time of his life.</p>
+<p>HE'S -straightened up, Todd has, and his squinty eyes has an odd greenish flicker in 'em, and he's waggin' his head cocky. I can't say whether he's funny or pathetica little of both, maybe. As for Pinckney, I can tell he's haven' the time of his life.</p>
 
 <p>"Todd," says he, "I am almost inclined to believe you. As our friend McCabe would phrase it, you tell it well. And yet
 must quote for you my favoirite motto: Adventures, Todd, are for the venturous."</p>
 
 <p>"Hey?" says Todd.</p>
 
-<p>"For cherries," says Pinckney, "one climbs a tree. Never were there more stirring times than these. The world at war—and you running an elevator!"</p>
+<p>"For cherries," says Pinckney, "one climbs a tree. Never were there more stirring times than these. The world at warand you running an elevator!"</p>
 
 <p>"Oh!" says Todd. "I couldn't get into anything. I'm over forty."</p>
 
-<p>"Still," says Pinckney, "for one who so earnestly craves that sort of thing there should be some way open—perhaps not in the very trenches, but— See here; what were you before you became an elevator-man ?"</p>
+<p>"Still," says Pinckney, "for one who so earnestly craves that sort of thing there should be some way openperhaps not in the very trenches, but See here; what were you before you became an elevator-man ?"</p>
 
 <p>"Little of everything," says Todd. "I used to sell extras durin' the Spanish-American muss. Later on I peddled bananas and potatoes and such truck from a cart. Then for a while I helped in a quick-lunch joint. That's where I got to be a cook."</p>
 
 <p>"Really?" says Pinckney. "You are a cook ?"</p>
 
-<p>"Nothin' fancy," says Todd. "I can hash up common things, though. Must have had half a dozen places, but on one account or another I got—"</p>
+<p>"Nothin' fancy," says Todd. "I can hash up common things, though. Must have had half a dozen places, but on one account or another I got"</p>
 
-<p>"See here, Todd," breaks in Pinckney. "I have the very thing for you. Heard of it only this noon when I was talking to a friend—a naval officer. Said he was desperate for cooks, must find twenty of 'em right away—mess cooks for the trans-port service. Just cooking for the crews, you know. There you are. That's you. I know where he is now. Wait; I'll call him up."</p>
+<p>"See here, Todd," breaks in Pinckney. "I have the very thing for you. Heard of it only this noon when I was talking to a frienda naval officer. Said he was desperate for cooks, must find twenty of 'em right awaymess cooks for the trans-port service. Just cooking for the crews, you know. There you are. That's you. I know where he is now. Wait; I'll call him up."</p>
 
-<p>"But—but say—" begins Todd, open-in' and shuttin' his mouth gaspy and stretchin' his fingers out after Pinckney, who's started for the 'phone.</p>
+<p>"Butbut say" begins Todd, open-in' and shuttin' his mouth gaspy and stretchin' his fingers out after Pinckney, who's started for the 'phone.</p>
 
 <p>"Well?" demands Pinckney.</p>
 
-<p>"Did—did you say them cooks was for transports?" goes on Todd. "Steamers that carry over soldiers and supplies, ain't they, and—and get sunk by sub-marines?"</p>
+<p>"Diddid you say them cooks was for transports?" goes on Todd. "Steamers that carry over soldiers and supplies, ain't they, andand get sunk by sub-marines?"</p>
 
 <p>"Yes," says Pinckney. "Precisely what you want, isn't it? High adventure. It's the chance you've been waiting for. Shall I call him up?"</p>
 
@@ -858,11 +1075,11 @@ must quote for you my favoirite motto: Adventures, Todd, are for the venturous."
 
 <p>Things moved fast for Todd from then on, though. Inside of half an hour he'd been hustled in a taxi to a recruitin' office and had signed up. Before dark he was on a dock somewhere in Hoboken, loaded down with more clean warm clothes than he'd ever owned before, not to mention such trifles as new razors, fancy toilet soap, a couple of pounds of his favorite smokin' tobacco, and other little contributions that Pinckney and I could collect in a hurry.</p>
 
-<p>"There," says Pinckney, as we waves good-by to Todd—"there embarks a potential hero."</p>
+<p>"There," says Pinckney, as we waves good-by to Todd"there embarks a potential hero."</p>
 
 <p>"I don't know the brand," says I, "barrin' it's one that makes good until he meets a spankin' sister."</p>
 
-<p>"That menace, at least," says Pinckney, "he will be free from on the high seas. As for the rest—well, let us wish him the best of luck and consider the incident closed. Thank you, Shorty, for a diverting interlude."</p>
+<p>"That menace, at least," says Pinckney, "he will be free from on the high seas. As for the restwell, let us wish him the best of luck and consider the incident closed. Thank you, Shorty, for a diverting interlude."</p>
 
 <p>That's Pinckney, all over. Two minutes from then he was taxin' his mighty intellect with the proposition of whether he should go home for dinner or stop off at the club.</p>
 
@@ -876,19 +1093,19 @@ must quote for you my favoirite motto: Adventures, Todd, are for the venturous."
 
 <p>"Well," he goes on, "the U-boats got the Arapiqua on her return trip."</p>
 
-<p>"Ara—which?" says I.</p>
+<p>"Arawhich?" says I.</p>
 
 <p>"Don't you remember?" says he. "The one Todd shipped on as cook."</p>
 
 <p>"What?" says I. "Sunk her? And how about Todd?"</p>
 
-<p>"I'm coming to that," says Pinckney. "The Arapiqua went over loaded with mules and provisions. She arrived safely, in spite of a lively brush that the convoys had off the coast of France. Coming back the fleet ran into quite a storm. The Arapiqua became separated from the rest —strained a propeller-shaft. She was lying to, patching things up, when the submarine appeared. Of course she put up a fight, but a chance shot disabled the after gun, killing or wounding nearly all of the gun crew. There was nothing left but to take to the boats. And when they had rowed off, the sea still rather rough, the Huns went aboard and planted a few bombs. You know they don't waste torpedoes on mule transports. And when they had done their usual pilfering they went back to their boat and watched for the Arapiqua, abandoned and rolling helpless in the waves, to go to the bottom.</p>
+<p>"I'm coming to that," says Pinckney. "The Arapiqua went over loaded with mules and provisions. She arrived safely, in spite of a lively brush that the convoys had off the coast of France. Coming back the fleet ran into quite a storm. The Arapiqua became separated from the rest strained a propeller-shaft. She was lying to, patching things up, when the submarine appeared. Of course she put up a fight, but a chance shot disabled the after gun, killing or wounding nearly all of the gun crew. There was nothing left but to take to the boats. And when they had rowed off, the sea still rather rough, the Huns went aboard and planted a few bombs. You know they don't waste torpedoes on mule transports. And when they had done their usual pilfering they went back to their boat and watched for the Arapiqua, abandoned and rolling helpless in the waves, to go to the bottom.</p>
 
-<p>"Then the unexpected happened. They saw something stirring under the canvas cover of the forward gun. A- man had crawled out and was cutting away the cover lashings. He was trying to swing the gun around to bear on them. That was enough for the Huns. Down they tumbled as fast as they could follow one another below. But before the U-boat could submerge the lone man on the Arapiqua had got the gun going. The first shot missed by a hundred yards, so the transport captain says—he was watching through his glasses. The second wasn't quite so wide. And the third was a fair hit, just at the base of the periscope. A fourth shot struck well forward. There was a tremendous explosion. The stern of the submarine was flung up and she sank like a rock.</p>
+<p>"Then the unexpected happened. They saw something stirring under the canvas cover of the forward gun. A- man had crawled out and was cutting away the cover lashings. He was trying to swing the gun around to bear on them. That was enough for the Huns. Down they tumbled as fast as they could follow one another below. But before the U-boat could submerge the lone man on the Arapiqua had got the gun going. The first shot missed by a hundred yards, so the transport captain sayshe was watching through his glasses. The second wasn't quite so wide. And the third was a fair hit, just at the base of the periscope. A fourth shot struck well forward. There was a tremendous explosion. The stern of the submarine was flung up and she sank like a rock.</p>
 
-<p>"The man on the Arapiqua was still firing, shot after shot, as fast as he could feed them in, when the bombs began to go off. One exploded amidships, another in the stern, and the third sent the whole forward deck high in the air. The lone man and his gun went with it—to kingdom come. But he'd done his work. Shorty, can you guess who the fellow was?"</p>
+<p>"The man on the Arapiqua was still firing, shot after shot, as fast as he could feed them in, when the bombs began to go off. One exploded amidships, another in the stern, and the third sent the whole forward deck high in the air. The lone man and his gun went with itto kingdom come. But he'd done his work. Shorty, can you guess who the fellow was?"</p>
 
-<p>"You—you don't mean," says I, "it was—Todd ?"</p>
+<p>"Youyou don't mean," says I, "it wasTodd ?"</p>
 
 <p>Pinckney nods.</p>
 
@@ -896,7 +1113,7 @@ must quote for you my favoirite motto: Adventures, Todd, are for the venturous."
 
 <p>"But how did he come to be hidin' there under the canvas?" I asks.</p>
 
-<p>"Couldn't we pass over that?" says Pinckney. "Suppose he did begin the fight badly—he ended it nobly enough. Not Ulysses himself could have won to a more glorious end."</p>
+<p>"Couldn't we pass over that?" says Pinckney. "Suppose he did begin the fight badlyhe ended it nobly enough. Not Ulysses himself could have won to a more glorious end."</p>
 
 <p>"That's right," says I. "It was a man's finish. Huh! Todd! Who'd have thought it was in him?"</p>
 
@@ -916,7 +1133,7 @@ In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes
 
 PICK THE UNKOWN MAN FOR THE BIG JOB
 
-<p>"WHEN I took hold of Bethlehem the second time, I didn't take one well known steel man from anywhere," says Charles M. Schwab in Forbes' Magazine. "I selected fifteen young men right out of the mill and made them my partners. I believe in profit-sharing—I believe it will ultimately settle the labor problem.</p>
+<p>"WHEN I took hold of Bethlehem the second time, I didn't take one well known steel man from anywhere," says Charles M. Schwab in Forbes' Magazine. "I selected fifteen young men right out of the mill and made them my partners. I believe in profit-sharingI believe it will ultimately settle the labor problem.</p>
 
 <p>"If you want anything well done in life, don't engage a man of great reputation to do it. Get a man who has his reputation to make; he will give you his very best individual, undivided effort.</p>
 
@@ -926,13 +1143,13 @@ PICK THE UNKOWN MAN FOR THE BIG JOB
 
 THE CURE OF MRS. BROWNING
 
-<p>THERE are powerful medicines whose action no doctor understands, though every wise doctor respects: tremendously powerful medicines—faith and hope and love.</p>
+<p>THERE are powerful medicines whose action no doctor understands, though every wise doctor respects: tremendously powerful medicinesfaith and hope and love.</p>
 
 <p>A hopeless mind and a well body can hardly live together: and mind will in time corrupt the flesh. And there is no greater miracle than the healing action of love poured into a mind long dark.</p>
 
 <p>Edward Everett Hale tells, in one of his letters to his mother, of a long talk with Ralph Waldo Emerson (Life and Letters of E. E. Hale, by his son: Little, Brown & Company):</p>
 
-<p>He told me the details of Robert Browning's marrying Miss Barrett. She was an invalid—never left her bed--her father a jealous old man who let no one see her. Browning and she had complimented each other in print, but never met. "1 low can I see Miss Barrett!" he cried in Carlyle's parlor one day. And Mrs. Carlyle answered, "You can't see her at all," giving reasons as above. At which he took his cane, went to the house, asked for Miss Barrett, and, by the blunder of a servant who thought him a doctor, was admitted to her room. She had not moved for three months, was bed-riddenbut at the end of the first visit she lifted her head in bidding him come again—the second time she sat up—the third stood—and closed the fourth by eloping with him to Italy.</p>
+<p>He told me the details of Robert Browning's marrying Miss Barrett. She was an invalidnever left her bed--her father a jealous old man who let no one see her. Browning and she had complimented each other in print, but never met. "1 low can I see Miss Barrett!" he cried in Carlyle's parlor one day. And Mrs. Carlyle answered, "You can't see her at all," giving reasons as above. At which he took his cane, went to the house, asked for Miss Barrett, and, by the blunder of a servant who thought him a doctor, was admitted to her room. She had not moved for three months, was bed-riddenbut at the end of the first visit she lifted her head in bidding him come againthe second time she sat upthe third stoodand closed the fourth by eloping with him to Italy.</p>
 
 <p>Elizabeth Barrett was a bed-ridden invalid until she met Robert Browning. After his fourth visit she was sufficiently re-covered to elope with him to ltaly.</p>
 
@@ -944,9 +1161,9 @@ DOES IT PAY TO PRAY FOR THE SENATE?
 
 WHY ENGLAND RULES-ONE FOURTH OF THE WORLD
 
-<p>THE Englishman, whatever his faults, certainly knows how to get the respect of the black and brown and yellow man—and to hold it.</p>
+<p>THE Englishman, whatever his faults, certainly knows how to get the respect of the black and brown and yellow manand to hold it.</p>
 
-<p>"When I was last in Kerbela I enjoyed the privilege of a conversation with the chief Mujtahid," says Canon Parfit in his book on Mesopotamia (Hodder & Stough-ton). "The Mujtahid came into the consulate whilst I was there, and remarked how great an admirer he was of the British race. He knew nothing of our Army and little of our Navy, but from all his visitors he gathered the same impression, that the British authorities were distinguished for their honesty, truthfulness, and justice. He gave me two illustrations from his own experience—one when Sir E. O'Malley was sent all the way from Constantinople to the city of Bagdad for the purpose of giving a fair trial to a miser-able Indian Moslem who had murdered a fellow pilgrim. What trouble and ex-pense for the purpose of dealing justly with a miserable outcast who happened to be a British Indian subject, and what a contrast to the corruption of the Turkish courts!</p>
+<p>"When I was last in Kerbela I enjoyed the privilege of a conversation with the chief Mujtahid," says Canon Parfit in his book on Mesopotamia (Hodder & Stough-ton). "The Mujtahid came into the consulate whilst I was there, and remarked how great an admirer he was of the British race. He knew nothing of our Army and little of our Navy, but from all his visitors he gathered the same impression, that the British authorities were distinguished for their honesty, truthfulness, and justice. He gave me two illustrations from his own experienceone when Sir E. O'Malley was sent all the way from Constantinople to the city of Bagdad for the purpose of giving a fair trial to a miser-able Indian Moslem who had murdered a fellow pilgrim. What trouble and ex-pense for the purpose of dealing justly with a miserable outcast who happened to be a British Indian subject, and what a contrast to the corruption of the Turkish courts!</p>
 
 <p>"Then, also, he reminded me that a former King of Oudh had, at his demise, left the whole of his private fortune for the endowment of the charities of Kerbela. The annual income from these invested funds, amounting to thousands of rupees, passed annually through the British Consulate-General to the Consular Agent at Kerbela, and was faithfully distributed every year to the rightful claimants with-out the smallest diminution or loss. Some of it could easily have been `eaten,' as the Arabic language would say. `For all the officials of the Turkish Empire,' said the Mujtahid, `are gifted with "sticky fingers." Whenever money has to pass through their hands, and especially if it should happen to be for charitable purposes, some of it inevitably remains be-hind. Don't you remember,' he said, `that the Sultan Abdul Hamid was once watching a European conjurer who was sup-posed to be swallowing silver spoons. An ambassador by his side remarked how wonderful it was. "But," said the Sultan, "we can do more wonderful things in Turkey, for once I had a Minister of Marine who swallowed a battleship. The money was provided, the battleship never appeared, but the money disappeared."'"</p>
 
@@ -1055,7 +1272,7 @@ He Invented the Slot-Machine Lunch
 
 <p>His full name is Frank Hardart, and he is now the owner of twenty-seven lunch cafes in New York and Philadelphia. They are known as Horn and Hardart's, and their Automat on Broadway in New York City is one of the sights.</p>
 
-<p>And young Hardart, who is now soaring around his sixty-seventh year, is just as aggressive as when he worked in the New Orleans restaurant. There he learned how to fit in as conditions required. Often he was dish-washer, cook, waiter, and cashier all in one day. He worked with his eyes wide open, and studied the whims of men. Two things were impressed upon his mind quite forcibly—most men were irritable at meal-time, and they all liked good coffee.</p>
+<p>And young Hardart, who is now soaring around his sixty-seventh year, is just as aggressive as when he worked in the New Orleans restaurant. There he learned how to fit in as conditions required. Often he was dish-washer, cook, waiter, and cashier all in one day. He worked with his eyes wide open, and studied the whims of men. Two things were impressed upon his mind quite forciblymost men were irritable at meal-time, and they all liked good coffee.</p>
 
 <p>The industry of young Hardart was observed by one McCloskey, a rival of the boy's employer, and he soon had the youth hustling for him at his place in St. Charles Street. Hardart, who was then about thirteen years old, had to roast and grind coffee and serve it to customers. Al-though he worked hard, he had time to be polite and diplomatic. He agreed with everybody, and therefore everybody agreed with him. The boss was wise enough to see that he was a valuable asset to the place, and raised his wages to ten dollars a week.</p>
 
@@ -1099,7 +1316,7 @@ How We Built Our Home in Six Days
 
 <p>"Why couldn't we," he said, "build that way too? It would mean camping at first; but after work nights, and on Saturday afternoons and Sundays, I could be finishing the building. And just think how much better it would be for the children."</p>
 
-<p>We began at once to plan how we could raise the money—how we could get a loan at the bank on the lot, how we could borrow money on some stock we owned, and how we could get a small outright loan. And before we went to sleep we had decided that we would make the effort.</p>
+<p>We began at once to plan how we could raise the moneyhow we could get a loan at the bank on the lot, how we could borrow money on some stock we owned, and how we could get a small outright loan. And before we went to sleep we had decided that we would make the effort.</p>
 
 <p>The next morning John told some of the men who worked with him about our plan.</p>
 
@@ -1107,13 +1324,13 @@ How We Built Our Home in Six Days
 
 <p>I was glad when John told me, not only because of the saving the help of those men would mean, but also because of the heartening effect their offer had upon John.</p>
 
-<p>John is one of those people who are al-ways willing to help out their neighbors and never look for any help in return—in fact, never make an opportunity for any one to help them, because they are always sufficient to themselves. And it seemed good that now, when he was not sufficient to himself, his friends would turn about and help him.</p>
+<p>John is one of those people who are al-ways willing to help out their neighbors and never look for any help in returnin fact, never make an opportunity for any one to help them, because they are always sufficient to themselves. And it seemed good that now, when he was not sufficient to himself, his friends would turn about and help him.</p>
 
 <p>We fixed upon two weeks from Sunday as the day for beginning. We were planning on only four men to come to help, and I was to go out and get a camp dinner ready at noon. On Friday night, however, these four men told John that they would bring four friends with them. So John and I decided that we would make the occasion memorable by fixing up a barbecue roast of a loin of beef.</p>
 
-<p>It turned out to be a perfect day in late August—one of those just warm days that carry a hint of autumn in the air. The men were in fine spirits, and how they worked! If one stopped to talks second, he was immediately called down, with a good deal of banter, for loafing on the job. The dinner was fine, too—the roast of meat cooked out in the open over a bed of charcoal and served between buttered slices of bread, with roast potatoes, corn, and coffee.</p>
+<p>It turned out to be a perfect day in late Augustone of those just warm days that carry a hint of autumn in the air. The men were in fine spirits, and how they worked! If one stopped to talks second, he was immediately called down, with a good deal of banter, for loafing on the job. The dinner was fine, toothe roast of meat cooked out in the open over a bed of charcoal and served between buttered slices of bread, with roast potatoes, corn, and coffee.</p>
 
-<p>They started work promptly at eight in the morning, and no one would quit 1 until it was too dark to see. They dug the post-holes—for, since our lot had to be filled in instead of excavated, we decided we would save immediate expense by building the stone foundation  later, and they put up most of the frame-work.</p>
+<p>They started work promptly at eight in the morning, and no one would quit 1 until it was too dark to see. They dug the post-holesfor, since our lot had to be filled in instead of excavated, we decided we would save immediate expense by building the stone foundation  later, and they put up most of the frame-work.</p>
 
 <p>The men said that they would come the next Sunday, and bring several friends with them. They declared it was a regular picnic.</p>
 
@@ -1138,7 +1355,7 @@ By JOHN B. HUBER, A. M., M. D.
 <p>In such 'cases, how-ever, the valve has usually been weakened through some previous ailment, such as rheumatism,
 malaria, typhoid fever, or alcoholism.</p>
 
-<p>The returning blood clogs up the heart chamber: wherefore overgrowth of that organ occurs, the heart muscle reaching so great a degree of overgrowth that doctors speak in such cases of the tor bovinum (the bull's heart). The water hammer pulse is also characteristic of this malady, a pulse strong and jerky, but collapsing immediately under the doctor's fingers at the wrist—the powerful forcing out of the blood by the heart-beat being followed by its instantaneous return.</p>
+<p>The returning blood clogs up the heart chamber: wherefore overgrowth of that organ occurs, the heart muscle reaching so great a degree of overgrowth that doctors speak in such cases of the tor bovinum (the bull's heart). The water hammer pulse is also characteristic of this malady, a pulse strong and jerky, but collapsing immediately under the doctor's fingers at the wristthe powerful forcing out of the blood by the heart-beat being followed by its instantaneous return.</p>
 
 <p>Sufferers from athlete's heart experience acute pain, ringing in the ears, and faintness on rising suddenly. Even the slightest exertion causes palpitation and shortness of breath. The neck vessels throb. Sleep is disturbed by dreams and nervous startings, with sensations of suffocation.</p>
 
@@ -1152,7 +1369,7 @@ Hooverism May Lengthen Your Life
 
 <p>COMPARING the death rates for the two years 1879-81 and the two years 1909-11, William H. Guilfoy, the Registrar of Vital Statistics of the New York City Health Department, recently pointed out the very great decrease 'in recent years in deaths of persons under forty, and the very alarming increase in the death rate of persons over forty.</p>
 
-<p>In other words, modern life is saving children and killing men—saving us from measles and killing us by heart and kidney diseases. The handwriting on the wall is very plain—worry, hurry, and too much food.</p>
+<p>In other words, modern life is saving children and killing mensaving us from measles and killing us by heart and kidney diseases. The handwriting on the wall is very plainworry, hurry, and too much food.</p>
 
 <p>If Hooverism gets into your home earnestly enough to make a really radical cut in your daily food consumption, you may get up from the table a trifle unsatisfied, but you will almost surely be lengthening your life.</p>
 
@@ -1166,9 +1383,9 @@ Locating Bullets with a Magnet
 
 He Just Doted on Junk
 
-<p>DR. E. I. ELIASON, as reported in the Journal of the American Medical Association, operated on one J. S. J. S. was prone to melancholia. Patients taken that way have been known to contract odd appetities. J. S. had a rigid bulge over the right upper quadrant of his ab-domen.  "Gall-stones," decided Dr. Eliason; and operated—removing 213.</p>
+<p>DR. E. I. ELIASON, as reported in the Journal of the American Medical Association, operated on one J. S. J. S. was prone to melancholia. Patients taken that way have been known to contract odd appetities. J. S. had a rigid bulge over the right upper quadrant of his ab-domen.  "Gall-stones," decided Dr. Eliason; and operatedremoving 213.</p>
 
-<p>And yet, much of the rigid bulge remained—in fact, as afterward discovered, three pounds of it, all contained within the stomach and packed pretty tightly in and against the right opening of that organ, which resembled a bag containing stones. J. S. had vomited a rusty brown fluid, which was examined for blood and found negative.</p>
+<p>And yet, much of the rigid bulge remainedin fact, as afterward discovered, three pounds of it, all contained within the stomach and packed pretty tightly in and against the right opening of that organ, which resembled a bag containing stones. J. S. had vomited a rusty brown fluid, which was examined for blood and found negative.</p>
 
 <p>What, then, was the nature and sub-stance of this anomaly? Opening the stomach, 452 foreign bodies were found: to wit, nails, pins, tacks, spoons, hooks, glass, type, forks, keys, etc. The printer's type was wedged in so tightly that it had to be pried apart before it would come loose. The stomach thus emptied was sewed up and the patient was returned to his bed in the hospital ward.</p>
 
@@ -1205,9 +1422,9 @@ Who is She?
 
 <p>This is Dr. Alexis Carrel, the man we told about in the February 2d issue.</p>
 
-The Surinam Forest—continued from page 7
+The Surinam Forestcontinued from page 7
 
-<p>see Rice & Greenough seize its opportunities in the world, and not be just an old plodder in a rut. But if you won't do that, why, I—I—I'd rather sell than stand in the way of progress."</p>
+<p>see Rice & Greenough seize its opportunities in the world, and not be just an old plodder in a rut. But if you won't do that, why, III'd rather sell than stand in the way of progress."</p>
 
 <p>The old man still looked at his son. "Progress!" he said, almost in a whisper. "Progress! You don't want to stand in the way of progress!"</p>
 
@@ -1221,17 +1438,17 @@ The Surinam Forest—continued from page 7
 
 <p>He put out his hand and touched Mar-tin's arm affectionately; then he extended his hand to me with grave courtesy, and without another word he left the office.</p>
 
-<p>BY summer the deal had been entirely put through, and, though the old sign was still over the door, we were a part of the vast corporation, with Tom Greenough as manager. His father had never again set foot in the office after that fateful morning. The personnel of the office began to change at once. The old book-keeper went first of all—God knows where. His aged profile, like a silhouette touched with China white for a beard, no longer cut against the dim light at the end window of the counting-room. The assistant treasurer went, too. Martin, of course, was no longer with us. Younger men appeared, better dressed men and, I must admit, better paid men. Tom raised the salaries of the old employees who were retained, too.</p>
+<p>BY summer the deal had been entirely put through, and, though the old sign was still over the door, we were a part of the vast corporation, with Tom Greenough as manager. His father had never again set foot in the office after that fateful morning. The personnel of the office began to change at once. The old book-keeper went first of allGod knows where. His aged profile, like a silhouette touched with China white for a beard, no longer cut against the dim light at the end window of the counting-room. The assistant treasurer went, too. Martin, of course, was no longer with us. Younger men appeared, better dressed men and, I must admit, better paid men. Tom raised the salaries of the old employees who were retained, too.</p>
 
-<p>But, if our salaries were increased, so was our work. From an office of sleepy monotony a year before, the approach of a second August saw us the scene of feverish activity. To be sure, we were not al-ways certain what it was all about. A good deal of it was merely psychic, so to speak—a tension induced by the moods of the manager, who came later and more irregularly than ever in the morning, demanded two hours' work done in one, and surrounded himself to his heart's content now with a wall of mysterious aloofness and an air of tremendous consequence and hurry. We began to feel a sense of strain, of overwrought nerves, of frequent weariness.</p>
+<p>But, if our salaries were increased, so was our work. From an office of sleepy monotony a year before, the approach of a second August saw us the scene of feverish activity. To be sure, we were not al-ways certain what it was all about. A good deal of it was merely psychic, so to speaka tension induced by the moods of the manager, who came later and more irregularly than ever in the morning, demanded two hours' work done in one, and surrounded himself to his heart's content now with a wall of mysterious aloofness and an air of tremendous consequence and hurry. We began to feel a sense of strain, of overwrought nerves, of frequent weariness.</p>
 
-<p>IT was along in the summer that the dark, rather sinister-looking South American I had noted once before in consultation with Tom Greenough again appeared, and again Bertha McCloud was called into the private office, with her pad. Bertha was one of the employees who had been retained. Tom had got used to her, and depended on her accuracy and her unfailing neatness. I think he meant to be kind to her, but he was constitutionally in-capable of treating her very differently from a dictograph, and she was one of those colorless persons—they are more numerous than the world suspects—who must have kindness or home ties as they must have food, and who can not command them from the knockabout associations of business.</p>
+<p>IT was along in the summer that the dark, rather sinister-looking South American I had noted once before in consultation with Tom Greenough again appeared, and again Bertha McCloud was called into the private office, with her pad. Bertha was one of the employees who had been retained. Tom had got used to her, and depended on her accuracy and her unfailing neatness. I think he meant to be kind to her, but he was constitutionally in-capable of treating her very differently from a dictograph, and she was one of those colorless personsthey are more numerous than the world suspectswho must have kindness or home ties as they must have food, and who can not command them from the knockabout associations of business.</p>
 
 <p>That I wasn't kinder to Bertha myself will be one of my lasting regrets. Yet we were all so busy, so worried, some of us, about.our own jobs; and certainly it could hardly have occurred to the average man, either, that his humane duty lay in taking Bertha McCloud to the theater!</p>
 
 <p>But I did notice that she was getting perceptibly thinner; that all that country color of a year before had vanished; that she never smiled any more; and that, in-stead of being placid, she was, when especially overworked, distinctly snappish. I thought it was nerves, and association with Greenough: she was getting his manner. And when she snapped at me one day, I too being on edge, I was angry and left her abruptly. Later, to my amazement, I saw her furtively mopping her eyes; but I was too stubborn, or too obtuse and thoughtless, to make amends.</p>
 
-<p>Well, she came out of the private office that July day, after a rather lengthy session, and sat down to her machine with eyes shining. I noted, as I passed, that her face was flushed and that she was typing with unwonted rapidity. She took the copy back for correction before the dark-skinned visitor left, and returned to make a clean copy. That evening, when I was ready to go—and I was nearly the last to leave—she was still writing.</p>
+<p>Well, she came out of the private office that July day, after a rather lengthy session, and sat down to her machine with eyes shining. I noted, as I passed, that her face was flushed and that she was typing with unwonted rapidity. She took the copy back for correction before the dark-skinned visitor left, and returned to make a clean copy. That evening, when I was ready to goand I was nearly the last to leaveshe was still writing.</p>
 
 <p>"For goodness sake, aren't you through yet?" I asked.</p>
 
@@ -1250,7 +1467,7 @@ PAGE 21
 
 <p>She glanced furtively around.</p>
 
-<p>"I—I'm making a copy of a report he translated to-day," said she. "I—I'm keeping it. It's wonderful! It takes me far, far away from here. Read it!"</p>
+<p>"II'm making a copy of a report he translated to-day," said she. "II'm keeping it. It's wonderful! It takes me far, far away from here. Read it!"</p>
 
 <p>She pulled the completed sheet from her machine, and passed it over to me. This is what I read:</p>
 
@@ -1262,7 +1479,7 @@ SURINAM FOREST DEVELOPMENT COMPANY
 
 <p>I have spent my whole life in improving and creating useful products in the tropics, and never have I seen such an opportunity for capital to realize enormous and immediate profits as there would be in a company to exploit this vast hinterland of Surinam, searching out and acquiring properties, extracting, cultivating, and selling the natural wealth of the region.</p>
 
-<p>And now is the time for American wealth to acquire concessions—when the wealth of Europe is going up in a vast holocaust of shot and shell.</p>
+<p>And now is the time for American wealth to acquire concessionswhen the wealth of Europe is going up in a vast holocaust of shot and shell.</p>
 
 <p>LOPEZ PANCHO DE GOYA.</p>
 
@@ -1270,7 +1487,7 @@ SURINAM FOREST DEVELOPMENT COMPANY
 
 <p>"It sounds like heaven!" she answered, taking the paper from me and snatching it to her breast with a strange, passionate gesture.</p>
 
-<p>It was on my tongue to say, "Come down to Brighton Beach with me for dinner"; but I didn't say it. I saw her big, awkward figure, her plain face, and though I pitied I said nothing. I have no excuse to offer. Simply that is the way men—or most men—are made.</p>
+<p>It was on my tongue to say, "Come down to Brighton Beach with me for dinner"; but I didn't say it. I saw her big, awkward figure, her plain face, and though I pitied I said nothing. I have no excuse to offer. Simply that is the way menor most menare made.</p>
 
 <p>THE next day the hot spell began. If you have worked in New York in a hot spell, you know what that means, People stand it for about so long, and then they begin to crack. The long nights without relief have much to do with it. They begin to look jaded, to speak crossly, to show unwonted irritability. Their nerves play them strange pranks. All the city seems to be expecting something that they despair of coming.</p>
 
@@ -1278,21 +1495,21 @@ SURINAM FOREST DEVELOPMENT COMPANY
 
 <p>About twelve o'clock, Tom Greenough came striding out of his office to her desk.</p>
 
-<p>"See here, what does this mean?" he demanded, in a tone the whole office could hear. And he began to read a sentence—a perfectly commonplace sentence about a coffee shipment, which ran something like this: "—2000 sacks delivered at the dock, where mile upon endless mile of Surinam forest is waiting in dim silence, by October 15th—"</p>
+<p>"See here, what does this mean?" he demanded, in a tone the whole office could hear. And he began to read a sentencea perfectly commonplace sentence about a coffee shipment, which ran something like this: "2000 sacks delivered at the dock, where mile upon endless mile of Surinam forest is waiting in dim silence, by October 15th"</p>
 
-<p>"1—I don't know—" Bertha stammered.</p>
+<p>"1I don't know" Bertha stammered.</p>
 
 <p>"You don't know?" His voice cut clear and hard in the tense, listening silence of the office. "Well, 1 advise you to find out. Now copy that letter over, and see that such a blunder doesn't happen again!"</p>
 
 <p>He tossed the sheet down on her desk, and strode away. One of the other girls moved quickly and impulsively toward her, as she fell forward over her machine in a storm of hysterical weeping.</p>
 
-<p>"I can't help it," she sobbed. "I can't help it. That forest is in front of me all the time. It's cool and green—cool and green—cool and green!"</p>
+<p>"I can't help it," she sobbed. "I can't help it. That forest is in front of me all the time. It's cool and greencool and greencool and green!"</p>
 
 <p>She made with her hands as if to brush the vision away, grabbed the crumpled sheet, and once more set feverishly to work.</p>
 
 <p>"You'd better make her rest at the lunch hour," I cautioned, and the other girl nodded.</p>
 
-<p>But she wouldn't rest. She wouldn't -even eat. When I left at one she was back at her machine. When I came in from my lunch she was in the boss's room. He left early, and she remained till long after five, typing apparently from her mass of notes—or so the janitor said; for the rest of us went early, urging her to also, and meeting an almost hysterical refusal.</p>
+<p>But she wouldn't rest. She wouldn't -even eat. When I left at one she was back at her machine. When I came in from my lunch she was in the boss's room. He left early, and she remained till long after five, typing apparently from her mass of notesor so the janitor said; for the rest of us went early, urging her to also, and meeting an almost hysterical refusal.</p>
 
 <p>THE next morning, after a fourth night of still more intolerable heat, the stenographer who had tried to make Bertha rest the day before came to me, and said in a nervous voice:</p>
 
@@ -1308,7 +1525,7 @@ SURINAM FOREST DEVELOPMENT COMPANY
 
 <p>Bertha emitted a sudden loud, hysteri-ical laugh which changed into a sob and then into a scream of terror. Her eyes were dilated and looking straight ahead down the counting room toward the window where once the old bookkeeper had sat. She threw out one arm and pointed.</p>
 
-<p>"There—there she is!" she cried. "Oh, poor Bessie, she's eating poisonwood! Stop her, stop her, somebody, it will poison her milk, it will kill her! I can't get to her through all those trees. They're stifling me. 1 can't get any air! Give me some air, somebody, quick, quick! Take away those trees—they're all spotted black and red—they're like snakes—oh, they're coiling round me!"</p>
+<p>"Therethere she is!" she cried. "Oh, poor Bessie, she's eating poisonwood! Stop her, stop her, somebody, it will poison her milk, it will kill her! I can't get to her through all those trees. They're stifling me. 1 can't get any air! Give me some air, somebody, quick, quick! Take away those treesthey're all spotted black and redthey're like snakesoh, they're coiling round me!"</p>
 
 <p>She snatched convulsively at her throat and ripped her waist open with a tearing sound that was like a snarl in the tense</p>
 
@@ -1333,15 +1550,15 @@ FEBRUARY 16, 1918
 
 <p>Presently she added: "It's terrible, this heat, when you haven't got friends."</p>
 
-<p>We found her room, a back hall bed-room, with a little gas stove on which she evidently cooked breakfast. It was a dark, small, hot room, unadorned save for a photograph of a girl—no doubt the sister—on the pine bureau, and a framed picture of a cow on the wall.</p>
+<p>We found her room, a back hall bed-room, with a little gas stove on which she evidently cooked breakfast. It was a dark, small, hot room, unadorned save for a photograph of a girlno doubt the sisteron the pine bureau, and a framed picture of a cow on the wall.</p>
 
 <p>"Bessie," said the stenographer, and turned away. "God! to have only a cow to love!"</p>
 
-<p>Among her meager effects we found a few letters signed "Mary," evidently the sister—and we wired at once to Mary Mc-Cloud in the up-State town from which they were postmarked. It reached her, and late that evening the girl arrived, the girl for whom poor Bertha had sacrificed so much. I met her at the station. She was smaller than her sister, and better looking, with a kind of doll-like prettiness. She was far better dressed, too, in a shoddy imitation of the New York fashions. Not so much deliberately selfish as shallow and thoughtless, I decided, as I took her in tow and listened to her repetition, over and over, of the statement that there never was any insanity in either branch of the family—it must be just the heat, mustn't it?</p>
+<p>Among her meager effects we found a few letters signed "Mary," evidently the sisterand we wired at once to Mary Mc-Cloud in the up-State town from which they were postmarked. It reached her, and late that evening the girl arrived, the girl for whom poor Bertha had sacrificed so much. I met her at the station. She was smaller than her sister, and better looking, with a kind of doll-like prettiness. She was far better dressed, too, in a shoddy imitation of the New York fashions. Not so much deliberately selfish as shallow and thoughtless, I decided, as I took her in tow and listened to her repetition, over and over, of the statement that there never was any insanity in either branch of the familyit must be just the heat, mustn't it?</p>
 
 <p>I left the poor child at the Martha Washington, and the next day we went to the hospital.</p>
 
-<p>"Rest and quiet, under treatment—a long rest, and then possibly—" and they named a sanatorium.</p>
+<p>"Rest and quiet, under treatmenta long rest, and then possibly" and they named a sanatorium.</p>
 
 <p>"But how can we? How'll I live? I've got another year in Normal!" gasped the poor sister, face to face suddenly with this reality.</p>
 
@@ -1353,7 +1570,7 @@ FEBRUARY 16, 1918
 
 <p>He gave me the check, with a generous flourish, and later I saw the two poor women embarked on their sad journey to the sanatorium. I paid for a nurse to ac-company them, and asked Mary to write to me.</p>
 
-<p>But she never did. That was the end of Bertha McCloud in our office, and our lives. In telling her story I have probably made you feel but little of her personality, of the secrets of her life. But perhaps that is just the essence of her story. She came into the whirl of the Street, colorless and unimportant—a human dictograph. We never knew her, never tried to know her. And because nobody can be a human dictograph, because somewhere each of us has a soul that hungers, she broke. But of one thing I am sure: she should have stayed on the farm with her cows. I can fancy her at milking time, or with the chickens all about her as she scattered the corn—and the picture is fitting and pleasant. I would it were the only picture I could see when I think of her!</p>
+<p>But she never did. That was the end of Bertha McCloud in our office, and our lives. In telling her story I have probably made you feel but little of her personality, of the secrets of her life. But perhaps that is just the essence of her story. She came into the whirl of the Street, colorless and unimportanta human dictograph. We never knew her, never tried to know her. And because nobody can be a human dictograph, because somewhere each of us has a soul that hungers, she broke. But of one thing I am sure: she should have stayed on the farm with her cows. I can fancy her at milking time, or with the chickens all about her as she scattered the cornand the picture is fitting and pleasant. I would it were the only picture I could see when I think of her!</p>
 
 This is His Week
 
@@ -1363,11 +1580,11 @@ This is His Week
 
 <p>He could not know, of course, that the deep knowledge Charles, twelve years old, al-ready possessed of in-sect and animal life in meadow and field would one day bring him a distinction second to no one's else in his day and time. The boy was sent to study medicine in Edinburgh, but he could not stay away from the fields. He was forever out ransacking them for specimens. Beetles were his joy.</p>
 
-<p>"One day," he tells us, "I saw two rare beetles, and joyfully seized one in each hand; then I saw a third—rarer-still. I could not bear to lose any of them, so I popped one into my mouth to hold until I had secured the other. It nearly bit my tongue off—but I got them all."</p>
+<p>"One day," he tells us, "I saw two rare beetles, and joyfully seized one in each hand; then I saw a thirdrarer-still. I could not bear to lose any of them, so I popped one into my mouth to hold until I had secured the other. It nearly bit my tongue offbut I got them all."</p>
 
 <p>In despair Darwin's father permitted his "beetle-hunting son" to go on what he scornfully termed a "bugging" expedition to the coast of South America. Young Darwin returned and wrote such an interesting book on what he had seen and found that his father admitted that there might be "something in it," after all.</p>
 
-<p>As early as 1838 Darwin had evolved a theory which he called to his intimates "evolution." Before presenting it to the general public he wanted a mass of proof too solid to be doubted. It took him twenty years to do this. In 1858, when his book "Evolution" was ready for the. publisher, he learned that an-other naturalist—A. D. Wallace—had finished an essay expounding exactly the same theory. Darwin generously offered to allow Wallace the honor of publishing first; but it was finally decided that the two works should appear simultaneously, and the two men shared together the glory and abuse their theory brought them. A few years later, when Darwin's "Origin of Species" appeared, the first edition was exhausted in one day. His "Descent of Man" caused a similar sensation. Care-less readers and random thinkers persisted in believing that Darwin held to the opinion that man was nothing but a glorified ape, and he was bitterly assailed on all sides and held up by the church as anathema. Comic weeklies pilloried him, and Queen Victoria herself struck him from her guest list. Indifferent to this censure, Darwin went on working and experimenting.</p>
+<p>As early as 1838 Darwin had evolved a theory which he called to his intimates "evolution." Before presenting it to the general public he wanted a mass of proof too solid to be doubted. It took him twenty years to do this. In 1858, when his book "Evolution" was ready for the. publisher, he learned that an-other naturalistA. D. Wallacehad finished an essay expounding exactly the same theory. Darwin generously offered to allow Wallace the honor of publishing first; but it was finally decided that the two works should appear simultaneously, and the two men shared together the glory and abuse their theory brought them. A few years later, when Darwin's "Origin of Species" appeared, the first edition was exhausted in one day. His "Descent of Man" caused a similar sensation. Care-less readers and random thinkers persisted in believing that Darwin held to the opinion that man was nothing but a glorified ape, and he was bitterly assailed on all sides and held up by the church as anathema. Comic weeklies pilloried him, and Queen Victoria herself struck him from her guest list. Indifferent to this censure, Darwin went on working and experimenting.</p>
 
 <p>It was not until after his death in 1882 that people began to realize how valuable a contribution to science this work had been.</p>
 
@@ -1383,7 +1600,7 @@ PAGE 23
 
 What Should a Woman Do with Her Savings?
 
-<p>ON the day of the Kaiser's first peace proposal, when stocks were tumbling head over heels, a well dressed woman rushed into a drug store in one of New York's fashionable suburbs, threw her arms around another woman,—a perfect stranger to her,—and cried out:</p>
+<p>ON the day of the Kaiser's first peace proposal, when stocks were tumbling head over heels, a well dressed woman rushed into a drug store in one of New York's fashionable suburbs, threw her arms around another woman,a perfect stranger to her,and cried out:</p>
 
 <p>"My clear, my dear, what shall I do? I'm ruined, ruined!"</p>
 
@@ -1395,9 +1612,9 @@ What Should a Woman Do with Her Savings?
 
 Advice from Ida Tarbell
 
-<p>"THE first lesson for a woman to learn," says Miss Ida M. Tarbell in the Magazine of /fall Street, "is that investment is not speculation. To put aside $5o or $roo at 6 per cent appeals to very few women--or men either, for that matter. To put $5o or $roo into an oil- or coal- or diamond-mine which may yield 100 per cent or 15o per cent a year is altogether thrilling. That is real business, In the mind of the amateur. That is worthy of a financier. Put $5o at 6 per cent—who would be so small as to consider such a matter? This is the rock on which numbers of women go to pieces financially.</p>
+<p>"THE first lesson for a woman to learn," says Miss Ida M. Tarbell in the Magazine of /fall Street, "is that investment is not speculation. To put aside $5o or $roo at 6 per cent appeals to very few women--or men either, for that matter. To put $5o or $roo into an oil- or coal- or diamond-mine which may yield 100 per cent or 15o per cent a year is altogether thrilling. That is real business, In the mind of the amateur. That is worthy of a financier. Put $5o at 6 per centwho would be so small as to consider such a matter? This is the rock on which numbers of women go to pieces financially.</p>
 
-<p>"I remember the late H. H. Rogers, who certainly had experience enough in financial matters, telling me once that he was continually disturbed by the en-treaties of ladies to invest their small fortunes. He showed me a letter from a woman, the wife of an old-time friend, who had just $10,000 in the world. She wanted him to invest it in something from which she would get what she called a `real return.' 'What this lady wants,' said Mr. Rogers, `though she does not know it, is that I should speculate with her money, not invest it. She scorns 6 per cent—wants 50 per cent. For my part,' he continued, I shall find it very difficult to tell her where to put her $10,000 so that it will be perfectly sure to continue to return her 6 per cent. It is always difficult to be sure that any investment at 6 per cent is safe.'</p>
+<p>"I remember the late H. H. Rogers, who certainly had experience enough in financial matters, telling me once that he was continually disturbed by the en-treaties of ladies to invest their small fortunes. He showed me a letter from a woman, the wife of an old-time friend, who had just $10,000 in the world. She wanted him to invest it in something from which she would get what she called a `real return.' 'What this lady wants,' said Mr. Rogers, `though she does not know it, is that I should speculate with her money, not invest it. She scorns 6 per centwants 50 per cent. For my part,' he continued, I shall find it very difficult to tell her where to put her $10,000 so that it will be perfectly sure to continue to return her 6 per cent. It is always difficult to be sure that any investment at 6 per cent is safe.'</p>
 
 <p>"This is one of the things that the in-vesting woman must learn. Safety, if you are a self-supporting woman, is the first consideration for your savings. The safest things, in human judgment, fail sometimes. To get the largest degree of safety for your investment, however small it may be, it is well to learn at the start to turn a deaf ear to the promoter.</p>
 
