@@ -1,8 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180302">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 2, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180302</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-03-02">March 2, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-03-07"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
-It Really is Mightier
+<pb n="Cover" xml:id="ew.issue.19180302.p001" />
 
-<p>THE  word that you hear most frequently applied to German diplomacy is "blundering."</p>
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER:</note>
+<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cts.</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>March 2, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<p></p>
+<ab type="credit">GUSTAV MICHELSON</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180302.p002"/>
+
+<text>
+<body>
+
+<figure>
+<head>It's the Blade that Does the Work</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Gem Damaskeene Razor Blades</figDesc>
+</figure>
+
+<figure>
+<head>Deafness is Misery</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for A. O. Leonard</figDesc>
+</figure>
+
+<figure>
+<head>Wanted&#8212;Your Idea</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Richard B. Owen, Patent Lawyer</figDesc>
+</figure>
+
+<figure>
+<head>Patents That Protect and Pay</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Watson E. Coleman, Patent Lawyer</figDesc>
+</figure>
+
+<figure>
+<head>One Man Bought 40 Copies</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Every Week&#8212;Book Department</figDesc>
+</figure>
+
+<figure>
+<head>O-Cedar Polish</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Channell Chemical Co.</figDesc>
+</figure>
+
+<figure>
+<head>"Old Town Canoes"</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Old Town Canoe Co.</figDesc>
+</figure>
+
+<figure>
+<head>Protect Your Walls</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Moore Push-Pin Co.</figDesc>
+</figure>
+
+<figure>
+<head>Clear Your Throat with Zymole Trokeys</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Frederick Stearns &amp; Company</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton1.19180302">
+<body>
+
+<head type="main">It Really is Mightier</head>
+
+<p>THE word that you hear most frequently applied to German diplomacy is "blundering."</p>
 
 <p>And certainly any diplomacy that earns the distrust and hatred of the whole world, turning the United States and South America and China from neutrals to enemies, is blundering enough.</p>
 
@@ -10,7 +189,7 @@ It Really is Mightier
 
 <p>It is German diplomacy, not German arms, that has rendered Russia impotent. It is German diplomacy, based on fear, that has kept the northern nations out of the war, in the face of repeated outrages. It was German diplomacy and intrigue that weakened Italy and opened the way for the last great drive.</p>
 
-<p>Germany, as a pen-wielder, has had this distinct advantage: She has known exactly what she wants; and she has understood, the psychology and habits of the common folk around her.</p>
+<p>Germany, as a pen-wielder, has had this distinct advantage: She has known exactly what she wants; and she has understood the psychology and habits of the common folk around her.</p>
 
 <p>When German business men began to penetrate Russia before the war, did they send out neatly engraved announcements of their coming?</p>
 
@@ -18,36 +197,39 @@ It Really is Mightier
 
 <p>Yesterday a correspondent returned from Russia told me of a colored poster that has had great circulation there.</p>
 
-<p>It represents England and America dividing the Trans- Siberian Railway between them; and underneath the words : "Ivan won't ever notice; he's busy fighting our war."</p>
+<p>It represents England and America dividing the Trans-Siberian Railway between them; and underneath the words : "Ivan won't ever notice; he's busy fighting our war."</p>
 
 <p>Just another bit of war diplomacy made in Germany.</p>
 
 <p>We Americans have the whole unpleasant trade of war to learn, and the learning will take time.</p>
 
-<p>But as advertisers we ought to be able to compete with Germany from the outset. We are offering the world a far better product—Liberty and Security.</p>
+<p>But as advertisers we ought to be able to compete with Germany from the outset. We are offering the world a far better product&#8212;Liberty and Security.</p>
 
-<p>And there are at least 80,000,000 people in the Central Empires who are ripe to receive our advertising. I quote the figures from two recent articles in the Atlantic Monthly by Andre Cheradame, the French scientist who has spent his life in studying Pan-Germanism.</p>
+<p>And there are at least 80,000,000 people in the Central Empires who are ripe to receive our advertising. I quote the figures from two recent articles in the <hi rend="italic">Atlantic Monthly</hi> by AndrÃ© CheradamÃ©, the French scientist who has spent his life in studying Pan-Germanism.</p>
 
-<p>Germany has won the war to-day, M. Cheradame points out. She has established a military and financial hold on Austria, Bulgaria, and Turkey that make them' mere dependencies. From her conquered territories she has, stolen wealth sufficient to pay a large part of her war bills.</p>
+<p>Germany has won the war to-day, M. CheradamÃ© points out. She has established a military and financial hold on Austria, Bulgaria, and Turkey that make them mere dependencies. From her conquered territories she has stolen wealth sufficient to pay a large part of her war bills.</p>
 
-<p>How, then, is she to be defeated? By arms, of course, says M. Cheradame. But also by the pen.</p> 
+<p>How, then, is she to be defeated? By arms, of course, says M. CheradamÃ©. <hi rend="italic">But also by the pen</hi>.</p> 
 
 <p>There are, under Turkish dominion, 8,000,000 Arabs who hate the Turks.</p>
 
 <p>There are in the Central Empires alone all these who hate the Germans and the Austrians, their oppressors:</p>
 
-Polish Lithuanians 	22,000,000
-Ruthenians 	 5,500,000
-Czechs 	 8,500,000
-Jugo-Slays 	11,000,000
-Rumanians 	 8,000,000
-55,000,000
+<table>
+<row><cell>Polish Lithuanians</cell><cell>22,000,000</cell></row>
+<row><cell>Ruthenians</cell><cell>5,500,000</cell></row>
+<row><cell>Czechs</cell><cell>8,500,000</cell></row>
+<row><cell>Jugo-Slavs</cell><cell>11,000,000</cell></row>
+<row><cell>Rumanians</cell><cell>8,000,000</cell></row>
+<row><cell></cell><cell>&#8212;</cell></row>
+<row><cell></cell><cell>55,000,000</cell></row>
+</table>
 
-<p>A great horde of people, war-sick and restless, ready to make passive or active resistance, if the Allies will give them the necessary guidance and encouragement:</p>
+<p>A great horde of people, war-sick and restless, ready to make passive or active resistance, if the Allies will give them the necessary guidance and encouragement.</p>
 
-<p>There are ways of getting our advertisements to these peoples. There are, for example, hundreds of newspapers in surrounding countries—in Switzerland, Holland, Denmark, Norway, and Sweden, as well as in Russia. A full- page advertisement, signed by the Allies and printed in each one every day, would cost a mere trifle in comparison with the cost of ammunition and guns.</p>
+<p>There are ways of getting our advertisements to these peoples. There are, for example, hundreds of newspapers in surrounding countries&#8212;in Switzerland, Holland, Denmark, Norway, and Sweden, as well as in Russia. A full-page advertisement, signed by the Allies and printed in each one every day, would cost a mere trifle in comparison with the cost of ammunition and guns.</p>
 
-<p>We have men in America who, by publicity, have changed the whole eating and buying—yes, and the thinking--habits of a hundred million people.</p>
+<p>We have men in America who, by publicity, have changed the whole eating and buying&#8212;yes, and the thinking&#8212;habits of a hundred million people.</p>
 
 <p>Recently the President has appointed half a dozen of them a committee on advertising. I hope they will turn their attention to that big group of prospective customers inside the Central States to whom the liberty we are offering ought to be very acceptable.</p>
 
@@ -55,10 +237,65 @@ Rumanians 	 8,000,000
 
 <p>Not forgetting also the one weapon that is indeed mightier than the sword.</p>
 
-<p>Bruce Barton, Editor.</p>
+<byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180302.p003"/>
 
+<text>
+<body>
+
+<figure>
+<head>HEBE</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Hebe Company</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19180302.p004"/>
+
+<text>
+<body>
+
+<figure>
+<head>15,000,00 Lucky Strike Cigarettes a Day&#8212;and Growing!</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Lucky Strike Cigarettes</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19180302.p005"/>
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 9<lb/>
+March 2, 1918<lb/>
+
+Every Week<lb/>
+"Every word counts"<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
+
+</body>
+</text>
+
+<text type="">
+<body>
 
 WHAT THE PRESIDENT LAUGHED AT
 
@@ -70,7 +307,7 @@ WHAT THE PRESIDENT LAUGHED AT
 
 <p>First Comedian: I wish he wouldn't laugh like that.</p>
 
-<p>Second Comedian: But he will do it. I don't like it. It runs all over me—like hives.</p>
+<p>Second Comedian: But he will do it. I don't like it. It runs all over melike hives.</p>
 
 <p>First Comedian: How's your luck?</p>
 
@@ -84,13 +321,13 @@ THE PRESIDENT KEEPS SMILING
 
 By BRUCE BARTON
 
-<p>IN future Presidential campaigns the voters ought to inquire first of all concerning each candidate whether he has good health—and a sense of humor.</p>
+<p>IN future Presidential campaigns the voters ought to inquire first of all concerning each candidate whether he has good healthand a sense of humor.</p>
 
-<p>Other issues are of secondary importance. The White House has been occupied by men holding all sorts of opinions regarding the tariff and States' rights and income tax, and their opinions do not seem to have affected the progress of the nation very vitally, one way or the other. In spite of their opinions, we go on adding to our population and our wealth—about as fast under one man as under another.</p>
+<p>Other issues are of secondary importance. The White House has been occupied by men holding all sorts of opinions regarding the tariff and States' rights and income tax, and their opinions do not seem to have affected the progress of the nation very vitally, one way or the other. In spite of their opinions, we go on adding to our population and our wealthabout as fast under one man as under another.</p>
 
 <p>But let a man slip into the White House, in these days, without the ability to conserve his strength, or lacking that precious shock-absorber for life's rough road, a sense of humor, and the consequences might be very serious. Twenty-five years ago things were different: we were a rather quiet little country then, and pretty well decentralized; we could risk a President like Benjamin Harrison, for instance, whose portraits look as if an honest smile must have hurt him more than cruel words. But the man who attempted to run the United States to-day with no laughter in his system would break to pieces.</p>
 
-<p>A lot of men in Washington are breaking right now. A lot of "swivel-chair majors," as they have been called, each one of them carrying the whole war on his shoulders—little men, in comparatively little jobs, but too busy to take any exercise, too harassed to tell or listen to a funny story. Washington is full of those serious- minded men, many of them on the verge of disaster. And, over and above them all, the Boss of the whole performance, the director-general of the twenty-billiondollar enterprise, is looking better and fitter than when I saw him two years ago; and is well enough to laugh at jokes that only a man in superbly perfect health could possibly stand.</p>
+<p>A lot of men in Washington are breaking right now. A lot of "swivel-chair majors," as they have been called, each one of them carrying the whole war on his shoulderslittle men, in comparatively little jobs, but too busy to take any exercise, too harassed to tell or listen to a funny story. Washington is full of those serious- minded men, many of them on the verge of disaster. And, over and above them all, the Boss of the whole performance, the director-general of the twenty-billiondollar enterprise, is looking better and fitter than when I saw him two years ago; and is well enough to laugh at jokes that only a man in superbly perfect health could possibly stand.</p>
 
 <p>AT thirty years of age Woodrow Wilson was a com- paratively weak man. He was an instructor at Johns Hopkins in those days, and after every lecture he used to find it necessary to go to his rooms and lie down. Even ten years ago, during his presidency at Princeton, he gave the impression of a man in indifferent health. He seldom indulged in physical exercise. His color was not good, and he seemed altogether a bookish individual, neither hard as to muscle nor altogether happy as to digestion. Even in those days his sense of humor was quick and active, as his intimate friends had good reason to understand. But he was not the sort of man, in appearance, whom one would pick out to undertake the most arduous, most exacting job in the modern world.</p>
 
@@ -104,32 +341,32 @@ By BRUCE BARTON
 
 <p>He has a deliberate program: and if Wilhelm could see how tenaciously he sticks to it Wilhelm would be exceedingly discouraged about the chance of making a German peace.</p>
 
-<p>At seven-thirty every morning the President is up. He would like to lie in bed longer—so he confesses: like the rest of us, he knows that there is no sweeter experience in life than waking up in the morning and discovering that it is too early to get up. He would like to lie—but he does not. He is at breakfast by eight o'clock. After breakfast he is off—for what? The office? Not at all. The first and best two hours of every day are spent either on the golf links or on horseback.</p>
+<p>At seven-thirty every morning the President is up. He would like to lie in bed longerso he confesses: like the rest of us, he knows that there is no sweeter experience in life than waking up in the morning and discovering that it is too early to get up. He would like to liebut he does not. He is at breakfast by eight o'clock. After breakfast he is offfor what? The office? Not at all. The first and best two hours of every day are spent either on the golf links or on horseback.</p>
 
-<p>He returns to the White House about ten o'clock, has a bath and a rub-down, and settles to work. From then until dinner-time in the evening he is hard at it. And after dinner perhaps more work: but—more than likely —a vaudeville show or a comic opera.</p>
+<p>He returns to the White House about ten o'clock, has a bath and a rub-down, and settles to work. From then until dinner-time in the evening he is hard at it. And after dinner perhaps more work: butmore than likely a vaudeville show or a comic opera.</p>
 
-<p>IT was at a comic opera that I saw him. Two years ago I saw him in the office at the White House, and talked with him for almost an hour. It was not easy to see him, even in those days, as compared with Mr. Roosevelt or Mr. Taft. Still, lie could be seen. To-day he is probably the most inaccessible man in the world. He makes no appointments except those that are absolutely essential to the conduct of the war. Except for these,—made days and even weeks in advance,—he holds himself free for the documents that must have his attention, and for conversations over the telephone with his Cabinet chiefs. The office that used to be his headquarters is now deserted most of the time. His work is done and his conferences held in his private study at the White House.</p>
+<p>IT was at a comic opera that I saw him. Two years ago I saw him in the office at the White House, and talked with him for almost an hour. It was not easy to see him, even in those days, as compared with Mr. Roosevelt or Mr. Taft. Still, lie could be seen. To-day he is probably the most inaccessible man in the world. He makes no appointments except those that are absolutely essential to the conduct of the war. Except for these,made days and even weeks in advance,he holds himself free for the documents that must have his attention, and for conversations over the telephone with his Cabinet chiefs. The office that used to be his headquarters is now deserted most of the time. His work is done and his conferences held in his private study at the White House.</p>
 
-<p>So it was at the theater that I saw him, at a show that can rightly, though perhaps inelegantly, be described as punk. He, with Mrs. Wilson and a half dozen distinguished folk, occupied one of the lower boxes, the President sitting on the outside, nearest the audience. I pre- sume the same thought occurs to every one on such an occasion: "How dangerous! How easy, in this big audience, for a crank— It was so that Lincoln—" But no such thought, apparently, enters the mind of the President. Perhaps a man becomes something of a fatalist in that position: perhaps he makes up his mind that when his time comes it will come—that openness and apparent disregard of danger are the best protection. At any rate, he sat like any other middle-aged business man at the theater: occasionally looking out over the audience; bending to the other members of the party to make some remark or hear one; and between acts turning a pair of opera-glasses here and there to discover a friend in the crowd.</p>
+<p>So it was at the theater that I saw him, at a show that can rightly, though perhaps inelegantly, be described as punk. He, with Mrs. Wilson and a half dozen distinguished folk, occupied one of the lower boxes, the President sitting on the outside, nearest the audience. I pre- sume the same thought occurs to every one on such an occasion: "How dangerous! How easy, in this big audience, for a crank It was so that Lincoln" But no such thought, apparently, enters the mind of the President. Perhaps a man becomes something of a fatalist in that position: perhaps he makes up his mind that when his time comes it will comethat openness and apparent disregard of danger are the best protection. At any rate, he sat like any other middle-aged business man at the theater: occasionally looking out over the audience; bending to the other members of the party to make some remark or hear one; and between acts turning a pair of opera-glasses here and there to discover a friend in the crowd.</p>
 
 <p>And he enjoyed the show.</p>
 
-<p>It was not pretense on his part: he really and truly enjoyed it. It was the most commonplace of comic operas —without one single gleam of originality. It opened with the usual chorus of villagers singing in unison words that nobody could understand. There were a couple of rather catchy tunes in the two hours, but the chorus was homely, the plot was archaic, and the jokes filled the auditorium with a musty smell.</p>
+<p>It was not pretense on his part: he really and truly enjoyed it. It was the most commonplace of comic operas without one single gleam of originality. It opened with the usual chorus of villagers singing in unison words that nobody could understand. There were a couple of rather catchy tunes in the two hours, but the chorus was homely, the plot was archaic, and the jokes filled the auditorium with a musty smell.</p>
 
-<p>Yet the President laughed. Two days before he had read his peace terms; and that morning every newspaper in the world had been filled with his name. On that afternoon he had met a delegation of Congressmen, and by his advice to them assured the passage of the Woman Suffrage amendment through the House. He must have had before him during the week problems that would cause the average board of directors to lose sleep for a life-time. And here he was, completely off duty—as completely as if he had turned the key in his dry-goods shop and had nothing to think of until it was time to sweep out in the morning again.</p>
+<p>Yet the President laughed. Two days before he had read his peace terms; and that morning every newspaper in the world had been filled with his name. On that afternoon he had met a delegation of Congressmen, and by his advice to them assured the passage of the Woman Suffrage amendment through the House. He must have had before him during the week problems that would cause the average board of directors to lose sleep for a life-time. And here he was, completely off dutyas completely as if he had turned the key in his dry-goods shop and had nothing to think of until it was time to sweep out in the morning again.</p>
 
-<p>Without Lincoln's sense of humor, would we have won the Civil War? I doubt it. It was a trait that his serious-mined Cabinet found it hard to appreciate. Chase—handsome, heavy-browed, self-important— never became reconciled to his jokes. It is easy to picture the consternation when, at one of the very first Cabinet meetings, Lincoln announced:</p>
+<p>Without Lincoln's sense of humor, would we have won the Civil War? I doubt it. It was a trait that his serious-mined Cabinet found it hard to appreciate. Chasehandsome, heavy-browed, self-important never became reconciled to his jokes. It is easy to picture the consternation when, at one of the very first Cabinet meetings, Lincoln announced:</p>
 
 <p>"Gentlemen, my old friend Orlando Kellogg is outside and wishes to tell us the story of the stuttering justice. Let us lay aside all business, for it is a very good story."</p>
 
 <p>The Cabinet was aghast: they thought he must be crazy to trifle with their thoughts at a time of crisis such as that. Some of them continued to be amazed and horrified through the whole four years; but gradually the wiser of them came to know that in his stories there lay the saving balm. There was cheer and rest and reassurance for them, in their moments of extremity, in the fact that the President still could laugh.</p>
 
-<p>I have thought often that President Wilson must have studied much of Lincoln—that there must be often with him the consciousness of the great predecessor who sat before him in that study and wrestled with problems almost too great to bear. At least, he has learned Lincoln's trick of solving the tangle with a joke. Often, when a conference seems inextricably bound up, his wit will cut across the knot like the flash of a knife, and things will move forward again.</p>
+<p>I have thought often that President Wilson must have studied much of Lincolnthat there must be often with him the consciousness of the great predecessor who sat before him in that study and wrestled with problems almost too great to bear. At least, he has learned Lincoln's trick of solving the tangle with a joke. Often, when a conference seems inextricably bound up, his wit will cut across the knot like the flash of a knife, and things will move forward again.</p>
 
 <p>ON the morning when he was to deliver his peace terms to Congress, he called Secretary Tumulty a bout eight
-o'clock. He was off for the golf links, he said, and when he got back—at twelve-thirty—he would like to address Congress. It was short notice. Congress could not quite make it, and when the President arrived at the Capitol he was kept waiting for a few minutes while the Reception Committee was being appointed to escort him in. Various men wandered in and out of the room, among them the Public Printer, a genial Irishman, on hand to receive the manuscript of the great speech.</p>
+o'clock. He was off for the golf links, he said, and when he got backat twelve-thirtyhe would like to address Congress. It was short notice. Congress could not quite make it, and when the President arrived at the Capitol he was kept waiting for a few minutes while the Reception Committee was being appointed to escort him in. Various men wandered in and out of the room, among them the Public Printer, a genial Irishman, on hand to receive the manuscript of the great speech.</p>
 
-<p>He began telling the President an Irish story; and the President was replying with one in Scotch dialect when the august committee arrived. So they found him, —in the midst of a funny story,—and gravely led him into the Chamber, where Congress was assembled to</p>
+<p>He began telling the President an Irish story; and the President was replying with one in Scotch dialect when the august committee arrived. So they found him, in the midst of a funny story,and gravely led him into the Chamber, where Congress was assembled to</p>
 
 Concluded on page 19
 
@@ -149,7 +386,7 @@ Photograph from Mien Paget
 
 Photographers and observers in the air service usually fly low, but Lieutenant Gerald Paget took this picture from a height of ten thousand feet. It is the first aerial photograph of Jerusalem ever taken. Lieutenant Paget was afterward killed in action.
 
-<p>A BRITISH airman falls behind the German line. In a few hours an enemy friend sends news of his ate. A British flyer who has put up a particularly good fight drops to death near home. Presently comes a note of condolence from his opponent. A British aviator is interned in a German prison camp—a much more comfortable camp than that of his fellow infantryman. His letters to his friends come with a regular- ity and despatch perfectly astonishing in war times.</p>
+<p>A BRITISH airman falls behind the German line. In a few hours an enemy friend sends news of his ate. A British flyer who has put up a particularly good fight drops to death near home. Presently comes a note of condolence from his opponent. A British aviator is interned in a German prison campa much more comfortable camp than that of his fellow infantryman. His letters to his friends come with a regular- ity and despatch perfectly astonishing in war times.</p>
 
 <p>Such is the courtesy of the flying corps.</p>
 
@@ -179,7 +416,7 @@ Photographers and observers in the air service usually fly low, but Lieutenant G
 
 <p>His first two weeks are spent doing squad drill and imbibing some idea of military discipline. That over, he is sent to the ground school. Here his course includes such diverse subjects as aerial photography, bomb mechanism, bombing, meteorology, astrology, the construction of an airship, artillery observation, wireless.</p>
 
-<p>The length of his time depends, of course, on individual aptitude. Not until he is proficient does he begin actual flying—usually in two months' time.</p>
+<p>The length of his time depends, of course, on individual aptitude. Not until he is proficient does he begin actual flyingusually in two months' time.</p>
 
 <p>Stunting and formation flying are now his lessons. Looping the loop is a mere kindergarten game. In addition, he must learn to fly upside down, to side-slip, nosedive, tail-slide, and do various other dan- gerous tricks that are, however, absolutely necessary to his success.</p>
 
@@ -189,11 +426,11 @@ Photographers and observers in the air service usually fly low, but Lieutenant G
 
 <p>It is the airman who furnishes us with all information regarding the lie of the enemy line. It is the airman who finds the objectives for the artillery fire. It is he, too, who directs that fire.</p>
 
-<p>Suppose he has located an enemy battery—a difficult business in these days of effective camouflage. He notifies his battery commander. Let us suppose that officer decides to shell the position. Up goes the airman over the enemy line. With his wireless box he signals back:</p>
+<p>Suppose he has located an enemy batterya difficult business in these days of effective camouflage. He notifies his battery commander. Let us suppose that officer decides to shell the position. Up goes the airman over the enemy line. With his wireless box he signals back:</p>
 
 <p>"Go!"</p>
 
-<p>They fire. Suppose it is a cloudy day, and they use high explosive—which gives out a yellowish puff that is indistinguishable to the airman's eye. Back he signals again:</p>
+<p>They fire. Suppose it is a cloudy day, and they use high explosivewhich gives out a yellowish puff that is indistinguishable to the airman's eye. Back he signals again:</p>
 
 <p>"Shrapnel !"</p>
 
@@ -201,7 +438,7 @@ Photographers and observers in the air service usually fly low, but Lieutenant G
 
 <p>The shot goes over the target to the right. By means of a code, he tells them approximately the distance by which they have missed. They change the range accordingly. And so it goes, until finally comes the letter:</p>
 
-<p>"Z"—which, in artillery parlance, means "Hit."</p>
+<p>"Z"which, in artillery parlance, means "Hit."</p>
 
 <p>Now, though this "spotter" has learned "stunting," he rarely has to use it. It is the fighter that needs such skill. But, in the actual battles between planes, altitude is the main object.- Twenty-five thousand feet is usually the highest they make. Only the best can attain that. As some one has r otly said, here's a meaning for an old senseless phrase, "the higher the fewer." Also, the higher the better.</p>
 
@@ -223,7 +460,7 @@ THE EDITOR SEES REAR-ADMIRAL McGOWAN
 
 <p>He is a graduate of the University of North Carolina, and a post-graduate, as he says, of the "university of adversity." Every graduating class of the Navy Pay Officers' School receives a "commencement talk" from him: here are some extracts from one of his talks that help to explain the man:</p>
 
-<p>Don't be a cynic—the man who knows the price of everything and the value of nothing. Everybody wants to be thrown with the man who is syndicating his joys, but not his sorrows.</p>
+<p>Don't be a cynicthe man who knows the price of everything and the value of nothing. Everybody wants to be thrown with the man who is syndicating his joys, but not his sorrows.</p>
 
 <p>Don't ever compromise with wrong doing. There is no neutral zone between right and wrong. There is a great big, high, barbed-wire fence, and you know when you get to it.</p>
 
@@ -231,15 +468,15 @@ THE EDITOR SEES REAR-ADMIRAL McGOWAN
 
 <p>Don't take yourself too seriously. If you have serious work, and apply yourself seriously to it, your personality will be so merged in the work that the work itself will furnish ample evidence of your worth. If a man projects his personality into his work, and the work is good, it is going to live. People can forget the man, but they can not forget the work.</p>
 
-<p>Don't protest. Remonstrate if necessary, and appeal if you are compelled to, but never protest. A story is told of a lieutenant who was ordered to take the punt and go for a load of sand, about the meanest duty aboard ship. Immediately he protested: "I am a lieutenant: I am second watch officer; I have been in the service seventeen years; the executive officer orders me to go for sand!" The captain looked wise for a while, and then replied: "Well, your protest is placed on file—meanwhile you will go for the sand!"</p>
+<p>Don't protest. Remonstrate if necessary, and appeal if you are compelled to, but never protest. A story is told of a lieutenant who was ordered to take the punt and go for a load of sand, about the meanest duty aboard ship. Immediately he protested: "I am a lieutenant: I am second watch officer; I have been in the service seventeen years; the executive officer orders me to go for sand!" The captain looked wise for a while, and then replied: "Well, your protest is placed on filemeanwhile you will go for the sand!"</p>
 
 <p>Don't tackle a man while he is eating, if you want to get anything out of him. You know, a friendly and congenial dog will probably bite you if you bother him after you have given him a bone. Men have almost reached that point in their progress toward civilization.</p>
 
 <p>Don't write any unnecessary letters, nor put anything on paper that you are not perfectly willing should come back to you. Don't write anything unofficially that should be not written officially.</p>
 
-Admiral McGowan is as young and firm around the jaw as lie looks. He runs an office the way lie runs a ship—decks cleared for action and every man on his job.
+Admiral McGowan is as young and firm around the jaw as lie looks. He runs an office the way lie runs a shipdecks cleared for action and every man on his job.
 
-© Harris & Ewing
+ Harris & Ewing
 
 
 
@@ -266,7 +503,7 @@ Wounded Italian soldiers outside a hut, waiting to be transported to a hospital.
 
 Lincoln as an Ordnance Expert
 
-<p>ALL the talk about the relative merits of the Browning and the Lewis guns is only an echo of similar talk that :filled Washington in the early days of the Rebellion. The city was full of inventors, leach with his device for winning the war, and Lincoln took great interest in their •projects, often testing them himself.</p>
+<p>ALL the talk about the relative merits of the Browning and the Lewis guns is only an echo of similar talk that :filled Washington in the early days of the Rebellion. The city was full of inventors, leach with his device for winning the war, and Lincoln took great interest in their projects, often testing them himself.</p>
 
 <p>One night a clerk in the Navy Department, who had stayed late, heard some one striding up and down the hall, muttering: "I do wonder if they have gone already and left the building alone all." Looking out, he was surprised to see the President, says Miss Tarbell in her Life of Lincoln (Macmillan Company).</p>
 
@@ -278,7 +515,7 @@ Lincoln as an Ordnance Expert
 
 How Many Will Be Wounded?
 
-© Kadel & Herbert
+ Kadel & Herbert
 
 <p>After making the desperate journey across No Man's Land pictured above, German prisoners are glad of the security of a British prison camp and a chance at good English tobacco. The German army tobacco rations are doubtless responsible for the large number of desertions from the ranks.</p>
 
@@ -305,13 +542,13 @@ Photograph by Proms Illustrating Company
 
 In swift and efficient care of wounded Italy has outstripped her Allies by the use of remarkable motor-truck hospitals, which run right up to the firing line. One type, which can be packed on sixteen trucks, includes operating-rooms, wards, a kitchen, and complete equipment. An Italian is here using rather more primitive methods of aiding and transporting a wounded soldier.
 
-<p>TO Italian mountain troops the teleferica is transport train, ambulance, and motor lorry rolled into one. Hundreds of miles of cables span the dizzy chasms between peaks, and troops and ammunition, food and wounded men —even mules—travel in baskets along these slender threads.</p>
+<p>TO Italian mountain troops the teleferica is transport train, ambulance, and motor lorry rolled into one. Hundreds of miles of cables span the dizzy chasms between peaks, and troops and ammunition, food and wounded men even mulestravel in baskets along these slender threads.</p>
 
 <p>An Italian military engineer said to Lewis R. Foreman, writing in the Outlook:</p>
 
 <p>"'I can not tell you how many hundred miles of cableways there are on our front, nor how many thousands of men and hundreds of thousands of tons of food and munitions have been carried over them, but I can assure you that the teleferica (which looks the most dangerous) is really the safest means of transport we have, to say nothing of the fact that it is also the most economical.</p>
 
-<p>"'Did you ever hear of a man being killed in a teleferica accident? You have not. Well, I shall be greatly surprised if you ever do. They are so simple in design—just the cableway, a petrol engine, and a couple of cages—that it is possible to guard almost absolutely against structural defects, so that the only trouble that can happen to them must come from without rather than from within."</p>
+<p>"'Did you ever hear of a man being killed in a teleferica accident? You have not. Well, I shall be greatly surprised if you ever do. They are so simple in designjust the cableway, a petrol engine, and a couple of cagesthat it is possible to guard almost absolutely against structural defects, so that the only trouble that can happen to them must come from without rather than from within."</p>
 
 <p>The teleferica has saved thousands of lives. Wounded men are sent in coffin- like boxes from the high snow trenches to the nearest hospitals. The motion is much easier than that of an ambulance, and the wounded soldiers usually arrive some fifteen minutes after they have been picked up.</p>
 
@@ -325,7 +562,7 @@ Slightly Overdone
 
 <p>Not that he discarded the latter commodity On the contrary, he used it to stuff the bird. It was to he such a tasty meal! They sat down to await it.. Sniffs told them they would not have to wait long.</p>
 
-<p>But Tommy proposes and—</p>
+<p>But Tommy proposes and</p>
 
 <p>Just as they were about to pull the bird out of the improvised oven, in walked an officer on his rounds. And what a nasty disposition that man had! When ordinarily he would have gone again at the end of a few minutes, now he waited for half an hour. When he finally departed, that savory smell had merged into something less pleasant. And the bird, like Casabianca, had been metamorphosed into unsavory cinders.</p>
 
@@ -339,7 +576,7 @@ By INEZ HAYNES IRWIN
 
 Illustrations by Herman Pfeifer
 
-"Mrs. Frawley seated herself in an arm-chair, and the janitors—stalwart Irishmen—carried her up the stairs."
+"Mrs. Frawley seated herself in an arm-chair, and the janitorsstalwart Irishmencarried her up the stairs."
 
 <p>"I WISH you didn't have to go, Lucia," Norah said'. "Can't you telephone them that you're not well enough ?"</p>
 
@@ -361,7 +598,7 @@ Illustrations by Herman Pfeifer
 
 <p>The daintiness of coloring gave the two old women weeping in the midst of it an added touch of age. Norah, who had been dark and slender, kept brown, but she shriveled as she grew older. Now she was like the sere gnarled branch of some leafless tree. Lucia had filled out, but her hair had turned white; all her soft blond tints had receded.</p>
 
-<p>"Hark—there's the taxi!" Norah ejaculated suddenly. From the square outside came the sound of churning speed, of arrested motion. The door-bell rang.</p>
+<p>"Harkthere's the taxi!" Norah ejaculated suddenly. From the square outside came the sound of churning speed, of arrested motion. The door-bell rang.</p>
 
 <p>"Yes, that's it," Mrs. Frawley agreed.</p>
 
@@ -373,21 +610,21 @@ Illustrations by Herman Pfeifer
 
 <p>"Yes'm," Mary replied.</p>
 
-<p>"To think it is Christmas," Mrs. Frawley said in a tremulous voice. "And this house so quiet—so dark and dull. No young life here—no tree—no presents. It has never been like this since I came into it a bride. Oh, if only Robbie—"</p>
+<p>"To think it is Christmas," Mrs. Frawley said in a tremulous voice. "And this house so quietso dark and dull. No young life hereno treeno presents. It has never been like this since I came into it a bride. Oh, if only Robbie"</p>
 
 <p>"There! There! Don't speak of Robbie," Norah burst in quickly.</p>
 
-<p>"No, I won't speak of him again," Mrs. Frawley said, with a docility unusual to her. "I don't know why I spoke of him then. Of course I think of him all the time —every moment. But it's no use speak- ing of him."</p>
+<p>"No, I won't speak of him again," Mrs. Frawley said, with a docility unusual to her. "I don't know why I spoke of him then. Of course I think of him all the time every moment. But it's no use speak- ing of him."</p>
 
 <p>"Don't you want me to come too, Lucia?" Norah pleaded. "I hate to think of "No,"  going through all that alone."</p>
 
-<p>"No, Mrs. Frawley said. "There is no sense in it when we have so much to do. I shall be all right, I suppose, after I've once started. I would much rather you'd get those letters written. Take .particular pains with the one to the National College Association. I—I—I would have liked—" Her voice, thinned to a silver thread, quivered again. "But it's no use; I can't.'</p>
+<p>"No, Mrs. Frawley said. "There is no sense in it when we have so much to do. I shall be all right, I suppose, after I've once started. I would much rather you'd get those letters written. Take .particular pains with the one to the National College Association. III would have liked" Her voice, thinned to a silver thread, quivered again. "But it's no use; I can't.'</p>
 
 <p>She kissed her sister.</p>
 
 <p>"And you think, Lucia," Norah began in uncertain tones, "that you really don't want to see Cousin Edie?"</p>
 
-<p>"Oh, no, no, no! Not at Christmas-time. Ask her to lunch or dinner here next week sometime. But to have children in this house now— with Robbie not cold in his grave—Norah, I couldn't stand it. I couldn't!"</p>
+<p>"Oh, no, no, no! Not at Christmas-time. Ask her to lunch or dinner here next week sometime. But to have children in this house now with Robbie not cold in his graveNorah, I couldn't stand it. I couldn't!"</p>
 
 <p>"There, there, Lucia," Norah soothed. "Don't think of it any more. I'll explain it all to Cousin Edie."</p>
 
@@ -405,19 +642,19 @@ Illustrations by Herman Pfeifer
 
 <p>Robbie! Why had she had to endure that?</p>
 
-<p>Her life had been a long and active one. It had held a great deal of happiness, a great deal of unhappiness. Loving and giving, working and thinking! When she looked back on it from one point of view, it seemed all working; from another, all loving; and from a third working and loving were so mixed that she could not disentangle them. On the whole, it had been a happy life. Yet unhappiness came— terrible unhappiness. She had never rebelled, hard as she had grieved. But now Robbie! The single comfort of her old age. Why had that come to her?</p>
+<p>Her life had been a long and active one. It had held a great deal of happiness, a great deal of unhappiness. Loving and giving, working and thinking! When she looked back on it from one point of view, it seemed all working; from another, all loving; and from a third working and loving were so mixed that she could not disentangle them. On the whole, it had been a happy life. Yet unhappiness came terrible unhappiness. She had never rebelled, hard as she had grieved. But now Robbie! The single comfort of her old age. Why had that come to her?</p>
 
-<p>She was a girl—in her teens—when the Civil War came and, by a curious accident, brought out her young gift of oratory. It seemed at the time, even to her, a definite gift. But now, looking back upon it from the cold heights of seventy-and-over, she wondered if what was frequently said then was not true—that it was all cocksure youth, youth a little more confident and articulate than the average, youth plus beauty, plus freshness, and above all—plus personality.</p>
+<p>She was a girlin her teenswhen the Civil War came and, by a curious accident, brought out her young gift of oratory. It seemed at the time, even to her, a definite gift. But now, looking back upon it from the cold heights of seventy-and-over, she wondered if what was frequently said then was not truethat it was all cocksure youth, youth a little more confident and articulate than the average, youth plus beauty, plus freshness, and above allplus personality.</p>
 
-<p>At any rate, she had something that held audiences. They listened to her as if she were inspired. Sometimes she had the feeling that she was inspired: for often she spoke impromptu without knowing what she was going to say when she began. Those were among her most brilliant speeches. But any idea that it was really inspiration died within her as her work augmented and her influence increased. The necessity of supplementing that artless, natural impulse with solid fact manifested itself. She began to read, to study. Her work grew with her study, her study grew with her work, and her power grew with both. Languages—she had started with only her school-girl French and German—engaged her first, Latin, Greek, Italian. Then followed history, philosophy, psychology, ethics, belles-lettres.  A swift reader,—and with a tenacious memory,—she tore through books. And her reward came. For presently the world in which she moved admitted the mistake of its assumption that Lucia Mayne's career was but the accident of Lucia Mayne's personality.</p>
+<p>At any rate, she had something that held audiences. They listened to her as if she were inspired. Sometimes she had the feeling that she was inspired: for often she spoke impromptu without knowing what she was going to say when she began. Those were among her most brilliant speeches. But any idea that it was really inspiration died within her as her work augmented and her influence increased. The necessity of supplementing that artless, natural impulse with solid fact manifested itself. She began to read, to study. Her work grew with her study, her study grew with her work, and her power grew with both. Languagesshe had started with only her school-girl French and Germanengaged her first, Latin, Greek, Italian. Then followed history, philosophy, psychology, ethics, belles-lettres.  A swift reader,and with a tenacious memory,she tore through books. And her reward came. For presently the world in which she moved admitted the mistake of its assumption that Lucia Mayne's career was but the accident of Lucia Mayne's personality.</p>
 
-<p>After the war she threw herself into the woman movement. Susan B. Anthony, Julia Ward Howe, Elizabeth Cady Stanton, Lucy Stone, Mary Livermore were her intimates. And then, rather late (she was thirty-two), came her meeting— on the platform, of course—with Julius Frawley, their swift love, their quick wooing, their marriage. What a life it was! What a happy wifehood! What joy her three children had brought! But, just as suddenly as life had given her these hostages, it had taken them away. After their twenty years of a complete union of ambition and work and travel, Frawley dropped dead of heart-failure. Later her two daughters died in a year: Molly in childbirth with her first child; Adelaide, the youngest, leaving only little Robbie. Of course, she still had Julius, her only son. But his mining engineer life seemed to take him to the most lonely, steep, cold places of the world. It was impossible for her even to visit him.</p>
+<p>After the war she threw herself into the woman movement. Susan B. Anthony, Julia Ward Howe, Elizabeth Cady Stanton, Lucy Stone, Mary Livermore were her intimates. And then, rather late (she was thirty-two), came her meeting on the platform, of coursewith Julius Frawley, their swift love, their quick wooing, their marriage. What a life it was! What a happy wifehood! What joy her three children had brought! But, just as suddenly as life had given her these hostages, it had taken them away. After their twenty years of a complete union of ambition and work and travel, Frawley dropped dead of heart-failure. Later her two daughters died in a year: Molly in childbirth with her first child; Adelaide, the youngest, leaving only little Robbie. Of course, she still had Julius, her only son. But his mining engineer life seemed to take him to the most lonely, steep, cold places of the world. It was impossible for her even to visit him.</p>
 
-<p>The only grandchild, little Robbie, was her idol for the brief ten years of his existence. And then he too was taken— taken suddenly and almost without warning. A slight cold had become a heavy cold, had become pneumonia, had ended—</p>
+<p>The only grandchild, little Robbie, was her idol for the brief ten years of his existence. And then he too was taken taken suddenly and almost without warning. A slight cold had become a heavy cold, had become pneumonia, had ended</p>
 
-<p>THAT was three months ago, and if it  had not been for Norah, Lucia Frawley admitted to herself that she would not have had the courage to go on. But Norah, her only sister, the playmate of her childhood, the confidante of her girlhood, companion, nurse of her married life, and now the comforter of her widowhood—she could not leave Norah. And so there they clung, two sunken creatures, abandoned by the tide of life, living alone in the big empty shell that had once housed a family. How it had rung with youth, that house— every kind of gay girl gaiety, every sort of mad boy escapade. And now-</p>
+<p>THAT was three months ago, and if it  had not been for Norah, Lucia Frawley admitted to herself that she would not have had the courage to go on. But Norah, her only sister, the playmate of her childhood, the confidante of her girlhood, companion, nurse of her married life, and now the comforter of her widowhoodshe could not leave Norah. And so there they clung, two sunken creatures, abandoned by the tide of life, living alone in the big empty shell that had once housed a family. How it had rung with youth, that house every kind of gay girl gaiety, every sort of mad boy escapade. And now-</p>
 
-<p>Robbie's death brought physical collapse. Mixed with it in some inextricable way came a kind of paralysis of the will. Till then she kept in harness, working her eight hours a day without difficulty. But everything stopped when Robbie went. Request for service had come to her, as usual, by dozens and scores—to speak here, to preside there, to organize this phase or develop that phase of the movement, to deliver lectures, to take classes, to address the faculty of one university, the student body of another, to serve on the board of directors of a third, to write a series of articles, to prepare her reminiscences, to manage a department in a woman's magazine, to edit a paper.</p>
+<p>Robbie's death brought physical collapse. Mixed with it in some inextricable way came a kind of paralysis of the will. Till then she kept in harness, working her eight hours a day without difficulty. But everything stopped when Robbie went. Request for service had come to her, as usual, by dozens and scoresto speak here, to preside there, to organize this phase or develop that phase of the movement, to deliver lectures, to take classes, to address the faculty of one university, the student body of another, to serve on the board of directors of a third, to write a series of articles, to prepare her reminiscences, to manage a department in a woman's magazine, to edit a paper.</p>
 
 <p>Within certain inevitable limits, her physical strength knew no diminution. And in mental vigor she did not slow or dull or sag. Up till three months ago she had maintained unimpaired her power to look at big events with a big vision, to see them in their proper relation to each other and in a correct perspective to history. She had not, until three months ago, lost any of her characteristically vivid interest in the times. Her past had always been an increasingly powerful one; and yet at no time had it been anything but a feeder to the present. Her present, except for the</p>
 
@@ -426,19 +663,19 @@ Illustrations by Herman Pfeifer
 
 <p>inevitable personal tragedy, was always a happy one; and yet at no time was it anything but an earnest of the future. Her husband's death was a terrific blow. But, after all, it only changed her from a belatedly young to a definitely middle-aged woman. Robbie's death brought more sinister results. That turned her from a woman old only by the accident of years, still vigorous, still hopeful, to a machine which, dead in life, still mechanically went on repeating the functions of living.</p>
 
-<p>For Robbie had been one of those children who are an extraordinary combination of precocity and character. There was a real mental affinity between him and his grandmother, a great affection. Except for the "little language" that inevitably trickled out of her affection, she always talked to him as if they were the same age—not only that, but often with a touching humility on her side.</p>
+<p>For Robbie had been one of those children who are an extraordinary combination of precocity and character. There was a real mental affinity between him and his grandmother, a great affection. Except for the "little language" that inevitably trickled out of her affection, she always talked to him as if they were the same agenot only that, but often with a touching humility on her side.</p>
 
 <p>"What do you think of that, Robbie?" she would ask. And even, "What would you advise me to do?"</p>
 
 <p>They played together. They read together. They studied together. The dictionary never returned to the bookcase, the many-volumed encyclopaedia always showed broken ranks, reference- books were ever at her elbow that she might stay with authoritative data the ceaseless tide of Robbie's wonderful questions. He seemed robust physically and mentally. And yet, in a week he had died. She had her moments even now, after three months, when she could not believe it.</p>
 
-<p>That strange paralysis of the will had dropped on her like a gray, cold, heavy, muffling cloud. It seemed to freeze her very heart. She said no to every request that came to her; said no because she could not make herself say yes. She even said no to an invitation from the important new National College Association for a kind of national triumphal progress in which she would address college students of both sexes all over the country. And that she had always especially wanted to do; for she loved young people. But she could not whip herself into a consent. She delayed answering the letter, though— delayed and delayed until that very morning a second letter had come reminding her of the first. Then she made her decision. Even now Norah was writing her thanks and her regrets.</p>
+<p>That strange paralysis of the will had dropped on her like a gray, cold, heavy, muffling cloud. It seemed to freeze her very heart. She said no to every request that came to her; said no because she could not make herself say yes. She even said no to an invitation from the important new National College Association for a kind of national triumphal progress in which she would address college students of both sexes all over the country. And that she had always especially wanted to do; for she loved young people. But she could not whip herself into a consent. She delayed answering the letter, though delayed and delayed until that very morning a second letter had come reminding her of the first. Then she made her decision. Even now Norah was writing her thanks and her regrets.</p>
 
 <p>BUT one engagement she had had to  keep. She was keeping it now. Before Robbie's death she had agreed to deliver the eulogy when the Stephen Talcott Association should deliver to Stephen's old school the new bas-relief of Stephen himself. If she had not given her word then she could not give it now. She hated to admit that to herself; but it was true. She could not have broken those frozen bands that held her will, even for Stephen's sake.</p>
 
 <p>Stephen! Her friendship with Stephen dated back to the happy period of Julius's courtship. He too appeared among that little band of radicals which had so startled New England at the close of the war. He was associated with the Frawleys in more reform movements than, at this distant date, she could enumerate. More than that, a real love, a real friendship, bound their triumvirate together. In his later years Talcott had devoted himself to the education of girls, particularly to the development of secondary schools. He became the principal of the biggest public school for girls in Boston, developed into an expert in pedagogy.</p>
 
-<p>Now, twenty years after his death, there had suddenly formed—how, she did not know—this Memorial Association whose object was to carry on the spirit of his work and to keep his memory green. She said yes gladly when—before Robbie's death—that request came. Now she would give anything to be out of it. She told herself that she knew she had grown old all at once, but she had not realized how old. It did not seem to her that she was even equal to the physical strain of an address. She had moments of panic when she felt that she did not know what to say. That mental fluidity, half an instinctive marshaling of arguments, half an immediate rush of expression, which manifested itself the instant she arose before her audience, was atrophied forever. This was the first time in her life when simply the thought of speaking had not roused that tumultuous impulse.</p>
+<p>Now, twenty years after his death, there had suddenly formedhow, she did not knowthis Memorial Association whose object was to carry on the spirit of his work and to keep his memory green. She said yes gladly whenbefore Robbie's deaththat request came. Now she would give anything to be out of it. She told herself that she knew she had grown old all at once, but she had not realized how old. It did not seem to her that she was even equal to the physical strain of an address. She had moments of panic when she felt that she did not know what to say. That mental fluidity, half an instinctive marshaling of arguments, half an immediate rush of expression, which manifested itself the instant she arose before her audience, was atrophied forever. This was the first time in her life when simply the thought of speaking had not roused that tumultuous impulse.</p>
 
 <p>The taxi flashed down Beacon Street. On one side, the Common stretched white and silver-surfaced, tip- tilted to the amethystine pour of the electric lights, edged and dotted with high, leafless elms, bending under their weight of snow. On the other side the houses gushed light. Big wreaths gleamed scarlet and green through  frost-etched old purple glass. Once, in an uncurtained bay-window, she caught a glimpse of a family setting up the Christmas-tree. The picture sent a quick stab of pain to her sore heart. She wiped the tears resolutely away, and turned her attention to the trees, so quiet and composed under their heavy burden. The taxicab sped between the Common and the Public Garden up Columbus Avenue.</p>
 
@@ -456,7 +693,7 @@ Illustrations by Herman Pfeifer
 
 <p>"It is three flights up to the hall where the meeting is to be held," Miss Murphy explained. "They are very long flights, and I am afraid they will tire you. There is no elevator in this building, and so we're going to have the janitors carry you up in a big chair, if you don't mind. We are so sorry that it must be as primitive as that."</p>
 
-<p>"Thank you," Mrs. Frawley assented; "I don't mind at all. I shall be very glad —I don't think I would be quite equal to going over the stairs."</p>
+<p>"Thank you," Mrs. Frawley assented; "I don't mind at all. I shall be very glad I don't think I would be quite equal to going over the stairs."</p>
 
 <p>They took her into a dressing-room on the first floor, and helped her off with her wraps.</p> 
 
@@ -472,13 +709,13 @@ Illustrations by Herman Pfeifer
 
 <p>In contrast to all this bareness, the big hall at the top of the building held a surprise. The frieze of the Parthenon, in plaster reproduction, ran along the four sides close to the ceiling. The gods of Greek mythology, also in plaster but heroic in size, held pedestal positions beneath. Appropriately for a girls' school, Minerva occupied, on the platform, the central position in this noble conclave.</p>
 
-<p>SOMETHING stirred in Mrs. Frawley's  mind as she gazed around, a something so urgent that she was unconscious for an instant of the storm of applause that greeted her entrance. She could not guess what it was that was knocking at the door of her memory. And, before she could find the key, the door opened of itself. She remembered clearly a long talk that she and Stephen and Julius had held late one night, crossing the Common. That talk had prolonged itself in the Frawley library until three in the morning. In it Stephen—he had seemed inspired by the frosty moonlight—outlined wonderful plans for the art-decoration of the ideal school: long, nobly architected vistas with pictures and statuary cloisters about an interior court; fountains, pools, sloping gardens in the formal Italian manner. From that he had dropped to his modest scheme for this very school.</p>
+<p>SOMETHING stirred in Mrs. Frawley's  mind as she gazed around, a something so urgent that she was unconscious for an instant of the storm of applause that greeted her entrance. She could not guess what it was that was knocking at the door of her memory. And, before she could find the key, the door opened of itself. She remembered clearly a long talk that she and Stephen and Julius had held late one night, crossing the Common. That talk had prolonged itself in the Frawley library until three in the morning. In it Stephenhe had seemed inspired by the frosty moonlightoutlined wonderful plans for the art-decoration of the ideal school: long, nobly architected vistas with pictures and statuary cloisters about an interior court; fountains, pools, sloping gardens in the formal Italian manner. From that he had dropped to his modest scheme for this very school.</p>
 
 <p>Who, in those days, but Stephen would have thought of a conclave of Greek gods? Was it forty years ago? Yes, it was all of that, perhaps more. But now the applause growing in volume was so insistent that it penetrated her absorption. She produced a faint mechanical smile, bowed again and again. The applause ceased gradually. In the meantime, she looked the audience in the face, surveying it calmly as she had surveyed hundreds of audiences. It seemed strange to her that no faint film of feeling invaded her frozen heart. For many of the women sitting in this hall were teachers. And Mrs. Frawley held all teachers in loving regard. How often had she and Julius gone to the teachers of Boston for help! And when had they ever met with refusal? But no softening sympathy came; her heart felt as if wrapped in ice.</p>
 
-<p>It was a big audience. It packed the hard wooden settees tight. It lapped into the aisles and swelled back through the doorway. Ringing all the changes on age, size, complexion, beauty, youth, type, developing slowly Celtic, Latin, Hebraic, Germanic strains, it ran down from early alumni with white hair and wrinkles to the graduates of the previous June, who seemed like children. A group of women sat in a semicircle on the platform— teachers in the school, presumably, and officers of the Association.</p>
+<p>It was a big audience. It packed the hard wooden settees tight. It lapped into the aisles and swelled back through the doorway. Ringing all the changes on age, size, complexion, beauty, youth, type, developing slowly Celtic, Latin, Hebraic, Germanic strains, it ran down from early alumni with white hair and wrinkles to the graduates of the previous June, who seemed like children. A group of women sat in a semicircle on the platform teachers in the school, presumably, and officers of the Association.</p>
 
-<p>There was an air of holiday about the assembly. On the chairman's desk was a big bunch of holly, and back of it, covered with white sheets, stood an amorphous object framed in fir-trees—the bas-relief, undoubtedly. But this alone did not account for the spirit of jubilation. No; part of it was the relief from tension inevitable to the last teaching day before vacation.</p>
+<p>There was an air of holiday about the assembly. On the chairman's desk was a big bunch of holly, and back of it, covered with white sheets, stood an amorphous object framed in fir-treesthe bas-relief, undoubtedly. But this alone did not account for the spirit of jubilation. No; part of it was the relief from tension inevitable to the last teaching day before vacation.</p>
 
 <p>The chairman, a middle-aged, round, dark woman, with something dynamic back of her smiling personality, shook hands with Mrs. Frawley, murmuring her sense of the pleasure and honor of her company. She was as brief in words as she was quick in movement. Without a moment's delay she opened the program of the evening. First of all, she said, she would read Mr. Talcott's favorite psalm. Then, scarcely looking at the book, she delivered "The Lord is my shepherd." After that she announced that they would sing Mr. Talcott's favorite hymn. She directed the audience where to turn in the hymn-books that were scattered on the settees.</p>
 
@@ -505,9 +742,9 @@ By SEWELL FORD
 
 Illustrations by Arthur William Brown
 
-<p>I EXPECT I wouldn't have noticed Forsythe particular if it hadn't been for Mrs. Robert. It takes all kinds, you know, to make up a week-end house- party bunch; and in these days, when specimens of the razor-usin' sex are so scarce—well, that's when half portions like this T. Forsythe Hurd get by as full orders.</p>
+<p>I EXPECT I wouldn't have noticed Forsythe particular if it hadn't been for Mrs. Robert. It takes all kinds, you know, to make up a week-end house- party bunch; and in these days, when specimens of the razor-usin' sex are so scarcewell, that's when half portions like this T. Forsythe Hurd get by as full orders.</p>
 
-<p>Besides, Mrs. Robert had meant well. Her idea was to make the Captain's 48- hour shore leave as gay and lively as pos- sible. She'd had a hard time roundin' up any of his friends, too. Hence Forsythe. One of these slim, fine-haired, well manicured parlor Pomeranians, Forsythe is— the kind who raves over the sandwiches and whispers perfectly killin' things to the ladies as he flits about at afternoon teas.</p>
+<p>Besides, Mrs. Robert had meant well. Her idea was to make the Captain's 48- hour shore leave as gay and lively as pos- sible. She'd had a hard time roundin' up any of his friends, too. Hence Forsythe. One of these slim, fine-haired, well manicured parlor Pomeranians, Forsythe is the kind who raves over the sandwiches and whispers perfectly killin' things to the ladies as he flits about at afternoon teas.</p>
 
 <p>We were up at the Ellinses', Vee and me, fillin' out at Saturday luncheon, when Mr. Robert drifts in, about an hour behind schedule. You know, he's commandin' one of these coast patrol boats. Some of 'em are converted steam yachts, some are sea-goin' tugs, and then again some are just old menhaden fish-boats painted gray with a few three-inch guns stuck around on 'em casual. And this last is the sort of craft Mr. Robert had had wished on him.</p>
 
@@ -515,7 +752,7 @@ Illustrations by Arthur William Brown
 
 <p>"Why, Robert!" says young Mrs. Ellins, as she wriggles out of the clinch and gives him the once-over. "You're a sight."</p>
 
-<p>"Sorry, my dear," says Mr. Robert; "but the beauty parlor on the Narcissus wasn't working when I left. But if you can give me half an hour to—"</p>
+<p>"Sorry, my dear," says Mr. Robert; "but the beauty parlor on the Narcissus wasn't working when I left. But if you can give me half an hour to"</p>
 
 <p>He got it. And when he shows up again in dry togs and with his face mowed he's almost fit to mingle with the guests. It was about then that T. Forsythe was pull- in' his star act at the salad bowl. Course, when you have only ordinary people around, you let the kitchen help do such things. But when Forsythe is present he's asked to mix the salad dressin'.</p>
 
@@ -525,7 +762,7 @@ Illustrations by Arthur William Brown
 
 <p>"Take them away, Jevons," says Mrs. Robert, smotherin' a sarcastic smile.</p>
 
-<p>"Huh!" grumbles Mr. Robert. "What a rotter you are, Forsythe. If I could only get you aboard the Narcissus for a ten-day cruise! I'd introduce you to perfumes, the sort you could lean up against. You know, when a boat has carried mature fish for—"</p>
+<p>"Huh!" grumbles Mr. Robert. "What a rotter you are, Forsythe. If I could only get you aboard the Narcissus for a ten-day cruise! I'd introduce you to perfumes, the sort you could lean up against. You know, when a boat has carried mature fish for"</p>
 
 <p>"Please, Bob!" protests Forsythe. "We all admit you're a hero, and that you've been saving the country, but don't let's have the disgusting details; at least, not when the salad dressing is at its most critical stage."</p>
 
@@ -537,7 +774,7 @@ Illustrations by Arthur William Brown
 
 <p>"Entertainin' party, eh ?" I remarks on the side, as we escapes from the dinin'- room.</p>
 
-<p>" Forsythe," says Mr. Robert, "is one of those persons you're always wanting to kick and never do. I could generally avoid him at the club, but here—"</p>
+<p>" Forsythe," says Mr. Robert, "is one of those persons you're always wanting to kick and never do. I could generally avoid him at the club, but here"</p>
 
 <p>Mr. Robert shrugs his shoulders. Then he adds:</p>
 
@@ -545,7 +782,7 @@ Illustrations by Arthur William Brown
 
 <p>"Who, me?" says I. "Some one's been kiddin' you."</p>
 
-<p>"Perhaps," says he; "but if anything should occur to you that might help toward putting Forsythe in a position where real work and genuine discomfort couldn't be dodged—well, I should be deeply grateful.'</p>
+<p>"Perhaps," says he; "but if anything should occur to you that might help toward putting Forsythe in a position where real work and genuine discomfort couldn't be dodgedwell, I should be deeply grateful.'</p>
 
 <p>"What a cruel thought!" says I. "Still, if a miracle like that could be pulled, it would be entertainin' to watch. Eh ?"</p>
 
@@ -557,37 +794,37 @@ Illustrations by Arthur William Brown
 
 <p>"Why, it's Miss Gorman!" whispers Vee.</p>
 
-<p>"Not the Miss Gorman—Miss Jane?" I says.</p>
+<p>"Not the Miss GormanMiss Jane?" I says.</p>
 
-<p>Vee nods, and I stretches my neck out another kink. Who wouldn't? Not just because she's a society head-liner, or the rich-  old maid in the country, but because she's such a wonder at gettin' things done. You know, I expect —Red Cross work, suffrage campaign- in', Polish relief. Say, I'll bet if she could be turned loose in Mexico or Russia for a couple of months, she'd have things runnin' as smooth as a directors' meetin' of the Standard Oil.</p>
+<p>Vee nods, and I stretches my neck out another kink. Who wouldn't? Not just because she's a society head-liner, or the rich-  old maid in the country, but because she's such a wonder at gettin' things done. You know, I expect Red Cross work, suffrage campaign- in', Polish relief. Say, I'll bet if she could be turned loose in Mexico or Russia for a couple of months, she'd have things runnin' as smooth as a directors' meetin' of the Standard Oil.</p>
 
-<p>Look at the things she's put through, since the war started, just by crashin' right in and stayin' on the job. They say she keeps four secretaries with their suitcases packed, ready to jump into their travelin' clothes and slide down• the pole when she pushes the buzzer button.</p>
+<p>Look at the things she's put through, since the war started, just by crashin' right in and stayin' on the job. They say she keeps four secretaries with their suitcases packed, ready to jump into their travelin' clothes and slide down the pole when she pushes the buzzer button.</p>
 
 <p>And now she's makin' straight for Mr. Robert.</p>
 
 <p>"What luck!" says she. "I wasn't al: all sure of finding you. How much leave have you? Only until Monday morning? Oh, you overworked naval officers! Put you must find some men for me, Robert; two, at least. I need them at once."</p>
 
-<p>"Might I ask, Miss Jane," says he, "if any particular qualificatiors are—"</p>
+<p>"Might I ask, Miss Jane," says he, "if any particular qualificatiors are"</p>
 
 <p>'What I would like," breaks in Miss Gorman, "would be two active, intelligent young men with some initiative and executive ability. You see, I am giving a going away dinner for some soldiers of the Rainbow Division who are about to be sent to the transports.  It's an official secret, of, course. No one is supposed to know that they are going to sail soon, but every one does know. None of their friends or relatives are to be allowed to be tl era to n ish them God-speed or anything like that, and they need cheering up just now. So I arrange one of these dinners when 1 can. My plans for this one, however, have been terribly rushed."</p>
 
 <p>"I see," says Mr. Robert. "And it's perfectly bully of you, Miss Jane. Splendid! I suppose there'll be a hundred or so."</p>
 
-<p>"Six eighty," says she, never battin' an eye. "We are not including the officers— only privates. And we don't want one of them to lift a finger for it. They've had enough fatigue duty. This time they're to be guests—honored guests. I have permission from the Brigadier in command. We are to have one of the mess halls for a whole day. The chef and waiters have been engaged, too. And an orchestra. But there'll be so many to manage—the telling of who to go where, and seeing that the entertainers don't get lost, and that the little dinner favors are put around, and all those details. So I must have help."</p>
+<p>"Six eighty," says she, never battin' an eye. "We are not including the officers only privates. And we don't want one of them to lift a finger for it. They've had enough fatigue duty. This time they're to be guestshonored guests. I have permission from the Brigadier in command. We are to have one of the mess halls for a whole day. The chef and waiters have been engaged, too. And an orchestra. But there'll be so many to managethe telling of who to go where, and seeing that the entertainers don't get lost, and that the little dinner favors are put around, and all those details. So I must have help."</p>
 
 <p>I could see Mr. Robert rollin' his eyes around for me, so I steps up. Just from hearin' her talk a couple of minutes I'd caught the fever. That's a way she has, I understand. So the next thing I knew I'd been patted on the shoulder and taken on as a volunteer.</p>
 
-<p>"Precisely the sort of assistant I was hoping for," says Miss Gorman. "I can tell by his hair. I know just what I shall ask him to do. But there'll be so much more; decorating the tables, and—"</p>
+<p>"Precisely the sort of assistant I was hoping for," says Miss Gorman. "I can tell by his hair. I know just what I shall ask him to do. But there'll be so much more; decorating the tables, and"</p>
 
 <p>Here I nudges Mr. Robert. "How about Forsythe?" I suggests.</p>
 
-<p>"Eh ?" says he. "Why—why— By Jove, though! Why not? Oh, I say, Forsythe! Just a moment."</p>
+<p>"Eh ?" says he. "Whywhy By Jove, though! Why not? Oh, I say, Forsythe! Just a moment."</p>
 
 <p>MAYBE the same thought struck him as had come to me, which is that helpin' Miss Jane give a blowout to near seven hundred soldiers wouldn't be any rest-cure stunt. She's rated at about ninety horse-power herself, when she's speeded up,- and anybody that happens to be on her staff has got to keep movin' in high. They'd have to be ready to tackle anything that turned up, too.</p>
 
 <p>But, to hear Mr. Robert explain it to Forsythe, you'd think it was just that his fame as an arranger of floral center-pieces had spread until Miss Gorman has decided nobody else would do.</p>
 
-<p>"Although, heaven knows, I never suspected you could be really "But useful, For- sythe," says Mr. Robert. But if Miss Jane thinks you'd be a help—"</p>
+<p>"Although, heaven knows, I never suspected you could be really "But useful, For- sythe," says Mr. Robert. But if Miss Jane thinks you'd be a help"</p>
 
 <p>"Oh, I am sure Mr. Hurd would be the very one," puts in Miss Gorman.</p>
 
@@ -603,7 +840,7 @@ FOUR MOTHERS
 
 Photograph by Alice Boughton.
 
-<p>BESIDES Pocahontas, how many of us remember the other great Indian women—Secajawea, who was guide for the Lewis and Clark expedition, and Tekahawilka the "Iroquois saint"? Indian mothers were opposed to corporal punishment long before mere Americans wrote books on the subject. Early in life they invoke a special guardian spirit to watch over their child, and if he is naughty they do not spank—they only remind the spirit of his duties.</p>
+<p>BESIDES Pocahontas, how many of us remember the other great Indian womenSecajawea, who was guide for the Lewis and Clark expedition, and Tekahawilka the "Iroquois saint"? Indian mothers were opposed to corporal punishment long before mere Americans wrote books on the subject. Early in life they invoke a special guardian spirit to watch over their child, and if he is naughty they do not spankthey only remind the spirit of his duties.</p>
 
 Photograph from W, H. Ballot.
 
@@ -616,7 +853,7 @@ Photograph from Edith S. Watson.
 
 WHERE THE SUM
 
-<p>PROBABLY you have wondered about it as much as we—when the baseball stars set at the end ,of the season, where do they set (or should it he sit)? Anyway, what becomes of them in the weeks between the world's series and the early spring practice? Our eagle-eyed representatives have traced Bernie Boland to his lair, and discovered that between seasons he's a mail-carrier. Whether he's handing 'em over the plate or handing 'em in at the front door, he's delivering the goods just the same.</p>
+<p>PROBABLY you have wondered about it as much as wewhen the baseball stars set at the end ,of the season, where do they set (or should it he sit)? Anyway, what becomes of them in the weeks between the world's series and the early spring practice? Our eagle-eyed representatives have traced Bernie Boland to his lair, and discovered that between seasons he's a mail-carrier. Whether he's handing 'em over the plate or handing 'em in at the front door, he's delivering the goods just the same.</p>
 
 <p>NOW that prohibition is settled, and we have grinned and borne the income tax, we turn to the really important question--will there 'be any baseball next season? The answer to that great problem is very largely in the hands of that notorious base-stealer and mucker player, W. Hohenzollern of the Berlin Nationals. If he drops out in time to let our boys come home, we shall have good baseball again. Otherwise we shall miss many players from our midst, including the doughty Hank Gowdy, now in France, the first baseball player to enlist.</p>
 
@@ -640,9 +877,9 @@ TOE JACKSON -I' vine, South Ca ery one in town a the cups he won throwing the ol
 
 MER STARS WINTER
 
-<p>RAY SCHALK, the greatest catcher in the game, is a carpenter in Farmersville, Illinois. Ray doesn't pretend to be a union man, but Farmersville is so far out of the ordinary circuit that the walking delegate isn't likely to get around to him until about 1945. Ray's ambition is to make a second Chicago out of Farmersville. He says it is a growing town. We visited it once, and, looking around at the horizon,—visible in all directions,—we agreed with Ray that there is nothing to prevent Farmersville from growing. Not a single thing.</p>
+<p>RAY SCHALK, the greatest catcher in the game, is a carpenter in Farmersville, Illinois. Ray doesn't pretend to be a union man, but Farmersville is so far out of the ordinary circuit that the walking delegate isn't likely to get around to him until about 1945. Ray's ambition is to make a second Chicago out of Farmersville. He says it is a growing town. We visited it once, and, looking around at the horizon,visible in all directions,we agreed with Ray that there is nothing to prevent Farmersville from growing. Not a single thing.</p>
 
-<p>AMERICA has had only one Washington, only one Lincoln, and only one Ty Cobb. There will not never be no one like him, say the patriotic Detroit fans. As soon as the last ball is pitched. Ty abandons the bat for the gun, and is away to the wilds of Canada or the wilds of Georgia for the winter's hunting. Once Ty essayed to make a little money as an actor in motion pictures. When the motion-picture men got done with him, Ty still had his home in Georgia left ,—it being in his wife's name, —also his trusty gun and pipe. and twenty-five cents which was in his other vest at the time.</p>
+<p>AMERICA has had only one Washington, only one Lincoln, and only one Ty Cobb. There will not never be no one like him, say the patriotic Detroit fans. As soon as the last ball is pitched. Ty abandons the bat for the gun, and is away to the wilds of Canada or the wilds of Georgia for the winter's hunting. Once Ty essayed to make a little money as an actor in motion pictures. When the motion-picture men got done with him, Ty still had his home in Georgia left ,it being in his wife's name, also his trusty gun and pipe. and twenty-five cents which was in his other vest at the time.</p>
 
 <p>EDDIE CICOTTE, a grand old man of thirty-three, still hangs on in the big leagues at an age when most ball-players are done. Expectorating through toothless gums and clutching the ball with trembling fingers, he yet managed to pitch the White Sox into the American League pennant in 1917 and help quite considerably in the world series. Winters he works around the place, which shows a tendency to run down a bit in the summer, owing to the landlord's absence. Eddie is French: no Irishman would carry a hod that way.</p>
 
@@ -668,9 +905,9 @@ Photograph from Roscoe C. Stoll.
 
 <p>IF you want to get a thing done well, get a busy man to do it." Acting on this principle, in case it ever becomes necessary to amputate' one of our legs, we shall call Dr. Fl. H. Deen of Leavenworth, Indiana. Dr. Deen, in addition to being a Methodist, a Knight Templar, and a Shriner, and conducting a large general practice, is interested in a drug store, a garage, and a motion-picture theater. And he does them all well, and folks like him.</p>
 
-<p>THE big potato that you eat an the dining-car probably hales from Carbondale, Colorado. And Carbondale is the home of William Dinkle—or it might be almost truer to say that Mr. Dinkle is the home of Carbondale. He owns the bank, and the biggest store, and the hotel, and a blacksmith shop, and a lumber-mill, and lots of real estate besides. In looking over the manuscript containing these facts, we find that the story sent us about Mr. Dinkle, the magnate, was written by a newspaper man named Mr. Dunklee, which strikes us as curious and interesting.</p>
+<p>THE big potato that you eat an the dining-car probably hales from Carbondale, Colorado. And Carbondale is the home of William Dinkleor it might be almost truer to say that Mr. Dinkle is the home of Carbondale. He owns the bank, and the biggest store, and the hotel, and a blacksmith shop, and a lumber-mill, and lots of real estate besides. In looking over the manuscript containing these facts, we find that the story sent us about Mr. Dinkle, the magnate, was written by a newspaper man named Mr. Dunklee, which strikes us as curious and interesting.</p>
 
-<p>EVERY farmer-boy, of course, hopes some time to run off with a circus. But Benjamin Wallace did it. After a while he owned the circus; and when, later, he sold it again, he broadened out until now he owns the bank in Pent; and a hotel; and the best regular theater and one of the motion-picture theaters, and a department-store. and lots of residences besides. And, down in your heart, you have always known that if your father had let you run away when you wanted to, instead of apprenticing you to the cheese factory, you would have— But what's the use?</p>
+<p>EVERY farmer-boy, of course, hopes some time to run off with a circus. But Benjamin Wallace did it. After a while he owned the circus; and when, later, he sold it again, he broadened out until now he owns the bank in Pent; and a hotel; and the best regular theater and one of the motion-picture theaters, and a department-store. and lots of residences besides. And, down in your heart, you have always known that if your father had let you run away when you wanted to, instead of apprenticing you to the cheese factory, you would have But what's the use?</p>
 
 Photograph from It. /I. Smith.
 
@@ -689,11 +926,11 @@ Concluded from page 10
 
 <p>"Go on. Slander me," says Forsythe. "Say that, when enlisted in a noble cause, I am a miserable shirker."</p>
 
-<p>"Indeed, I shouldn't believe a word of it, even if I had time to listen to him," declares Miss Jane. "And I must be at the camp within an hour. I shall need one of you young men now. Let me see. Suppose I take this one—Torchy, isn't it? Get your coat. I'll not promise to have you back for dinner, but I'll try. Thank you so much, Robert."</p>
+<p>"Indeed, I shouldn't believe a word of it, even if I had time to listen to him," declares Miss Jane. "And I must be at the camp within an hour. I shall need one of you young men now. Let me see. Suppose I take this oneTorchy, isn't it? Get your coat. I'll not promise to have you back for dinner, but I'll try. Thank you so much, Robert."</p>
 
 <p>AND then it was a case of goin' on from  there. Whew! I've sort of had the notion now and then, when I've been operatin' with Old Hickory Ellins at the Corrugated Trust on busy days, that I was some rapid- fire private sec. But say, havin' followed Miss Jane Gorman through them dinner preliminaries, I know better.</p>
 
-<p>While that French chauffeur of hers is rollin' us down Long Island at from forty to fifty miles per hour, she has her notebook out and is pumpin' me full of things I'm expected to remember—what train the chef's gang is comin' on, how the supplies are to be carted over, who to see about knockin' up a stage for the cabaret talent, and where the buntin' has been ordered. I borrows a pad and pencil, and wishes I knew shorthand.</p>
+<p>While that French chauffeur of hers is rollin' us down Long Island at from forty to fifty miles per hour, she has her notebook out and is pumpin' me full of things I'm expected to rememberwhat train the chef's gang is comin' on, how the supplies are to be carted over, who to see about knockin' up a stage for the cabaret talent, and where the buntin' has been ordered. I borrows a pad and pencil, and wishes I knew shorthand.</p>
 
 <p>By the timewe lands at the camp, though, I have a fair idea of the job she's tackled; and while she's havin' an interview with the C.O. I starts explorin' the scene of the banquet. First off I finds that the mess- hall seats less than five hundred, the way they got the tables fixed; that there's no room for a stage without breakin' through one end and tackin' it on; and that the camp cooks will have the range ovens full of bread and the tops covered with oatmeal in double boilers as usual. Outside of that and a few other things, the arrangements was lovely.</p>
 
@@ -701,7 +938,7 @@ Concluded from page 10
 
 <p>"There!" says she. "Didn't I say you were just the assistant I needed ? Now, please tell all those things to the Brigadier. He will know exactly what to do. Then you'd best be out here early Monday morning to see that they're done properly. And I think, Torchy, I shall make you my general manager for this occasion. Yes, I'll do it. Every one will report first to you, and you will tell them exactly where to go and what to do."</p>
 
-<p>"You—you mean," says I, gaspin' a bit, "all the hired help?"</p>
+<p>"Youyou mean," says I, gaspin' a bit, "all the hired help?"</p>
 
 <p>"And the volunteers too," says Miss Jane. "Every one."</p>
 
@@ -735,7 +972,7 @@ Concluded from page 10
 
 <p>IT must have been half an hour later I when Sig. Zaretti, the head chef, comes huntin' me out with a desperate look in his eyes. I was consultin' Miss Jane about borrowin' a piano from the Y. M. C. A. tent, but he kicks right in.</p>
 
-<p>"Ah, I am distract," says he, puffin' out his cheeks. "Eet—eet ees too -o- :h!"</p>
+<p>"Ah, I am distract," says he, puffin' out his cheeks. "Eeteet ees too -o- :h!"</p>
 
 <p>"Go on," says I. "Shoot the tragedy. What's too much ?"</p>
 
@@ -745,11 +982,11 @@ Concluded from page 10
 
 <p>"But they are all employed," says Zaretti. "Besides, the union does not permit. If you could assist me with two men, even one. I implore."</p>
 
-<p>"There ain't a cook in sight," says I. "Sorry, but—"</p>
+<p>"There ain't a cook in sight," says I. "Sorry, but"</p>
 
 <p>"Eet ees not for cook," he protests. "No; only to help make the peel from those so many potatoes. One who could make the peel. Please!"</p>
 
-<p>"Oh!" says I. " Peelin' potatoes? Why, 'most anybody could help out at that, I guess. I would myself if—"</p>
+<p>"Oh!" says I. " Peelin' potatoes? Why, 'most anybody could help out at that, I guess. I would myself if"</p>
 
 <p>"No," breaks in Miss Jane. "You can not be spared. And I'm sure I don't know who could."</p>
 
@@ -812,11 +1049,11 @@ SOME BUSINESS MEN ARE HEROES
 
 <p>Mr. Patterson is known for a great many things besides being a teetotal vegetarian. He is known for "coddling" his employees by building them golf courses and shower-baths, for reforming the politics of Dayton, Ohio, for opening his huge estate to the public for picnics and play-grounds. But most of all he is known for his generalship during the Dayton flood of 1913, when most of the city was submerged under seventeen feet of water. Mr. Patterson emerged from the flood with the title of the "savior of Dayton." A description of his titanic efforts is given by B. C. Forbes in Men Who Are Making America:</p>
 
-<p>"It was Patterson who, hours before the flood came, by telephone, by telegraph, by horseback, by automobile, by foot messenger,—by every means of communication that could be impressed,—aroused the whole city to its impending danger and gave instructions how to prepare for the coming avalanche of water.</p>
+<p>"It was Patterson who, hours before the flood came, by telephone, by telegraph, by horseback, by automobile, by foot messenger,by every means of communication that could be impressed,aroused the whole city to its impending danger and gave instructions how to prepare for the coming avalanche of water.</p>
 
 <p>"It was Patterson, too, who summoned his executive and other force to Industrial Hall, mounted the stage, and, showing his famous pyramidical chart illustrating the organization of the company, announced: `I declare the National Cash Register Company out of commission, and I proclaim the Citizens' Relief Association.' With a piece of charcoal he sketched a diagram of the Relief Association, naming a head for each division of the work, and instructing them how to proceed.</p>
 
-<p>"From the Patterson factory came rafts and boats—constructed of materials taken from his immense lumber-yards—at the rate of one every seven minutes.</p>
+<p>"From the Patterson factory came rafts and boatsconstructed of materials taken from his immense lumber-yardsat the rate of one every seven minutes.</p>
 
 <p>"By common consent, Patterson became the acknowledged dictator of the whole rescue work. Never did military general direct forces with more skill, with more rapidity, or to more effect. So brilliantly did he command that when General Wood and Secretary of War Garrison rushed to the scene and viewed the functioning of the Patterson emergency machine, they announced: 'We can do nothing beyond what you are doing.'"</p>
 
@@ -824,13 +1061,13 @@ RODIN LOVED AMERICA
 
 <p>RODIN modeled beauty, not ideas. Those who hunt down subtle meanings in his work will go astray. His friend Frank Rutter in the London Outlook says:</p>
 
-<p>"All Rodin's finest works have been plastically conceived—that is to say, they were inspired by his own vision of form rather than by any clearly held idea. A few days after our call at the Rue de l'Universite, I visited the sculptor at his home in Meudon. As he conducted me round the great glass-domed studio I could not help noting that the wooden pedestals supporting his heads and small figures were covered with pencil jottings of titles.</p>
+<p>"All Rodin's finest works have been plastically conceivedthat is to say, they were inspired by his own vision of form rather than by any clearly held idea. A few days after our call at the Rue de l'Universite, I visited the sculptor at his home in Meudon. As he conducted me round the great glass-domed studio I could not help noting that the wooden pedestals supporting his heads and small figures were covered with pencil jottings of titles.</p>
 
 <p>"Rodin explained quite simply that he was usually indebted to his friends for the titles of his works, and gave as an example the history of his 'John the Baptist.'</p>
 
 <p>"One morning, it appeared, his model had totally failed to take up a satisfactory pose till, Rodin having dismissed him in despair, he strode across the room to pick up his things and go.</p>
 
-<p>"His movement was admirable. 'Stop,' cried the sculptor. 'Stay as you are, and hold it'—and he began his sketch.</p>
+<p>"His movement was admirable. 'Stop,' cried the sculptor. 'Stay as you are, and hold it'and he began his sketch.</p>
 
 <p>"When the statue was finished, Rodin had no idea but to exhibit it as 'A Man Walking.' But soon after it was finished in came his friend Octave Mirbeau, who, in one breath, pronounced it to be splendid and, of course and unmistakably, John the Baptist.</p>
 
@@ -838,7 +1075,7 @@ RODIN LOVED AMERICA
 
 <p>"After that, whenever literary friends came to his studio and explained to the sculptor what his works were and meant, the wise old artist preserved a non-com- mittal silence, kept his pencil stumps handy, and made surreptitious notes of titles likely to be useful, for fear that he might forget them."</p>
 
-<p>Rodin loved America. Only a couple of years ago he said to Jules Bois: "America is the only country which I should like to visit, if I were not already too old, if France were not so dear to me, and if I were not detained here by my children"— he pointed to his statues. "It would be a pilgrimage of gratitude; for that great country befriended me before all the other countries.</p>
+<p>Rodin loved America. Only a couple of years ago he said to Jules Bois: "America is the only country which I should like to visit, if I were not already too old, if France were not so dear to me, and if I were not detained here by my children" he pointed to his statues. "It would be a pilgrimage of gratitude; for that great country befriended me before all the other countries.</p>
 
 <p>If all I am I owe to France, my mother, America has often come to me as a message of hope. And in hours of depression I heard her generous voice calling to me: `Forward, Rodin! If the present is forbidding, the future smiles on you from afar.'"</p>
 
@@ -894,7 +1131,7 @@ BEWARE OF FAIRY TALES
 
 <p>"Ever since my boyhood," he related,. "I have fainted at seeing -blood. Now I, feel weak and dizzy, and sometimes. I  faint outright, at anything which merely brings to my mind the thought of blood. I am afraid to talk to certain people, because they may speak of accidents that will bring the blood thought to my mind."</p>
 
-<p>The young man had no clinical record that would account for the fear. Psychological analyses ultimately brought the truth to light. His fear, they revealed, had its beginnings in certain fairy stories told him by his nurse in childhood —especially the story of Bluebeard and another story of a false princess who was rolled in a barrel into which long pointed spikes had been driven.</p>
+<p>The young man had no clinical record that would account for the fear. Psychological analyses ultimately brought the truth to light. His fear, they revealed, had its beginnings in certain fairy stories told him by his nurse in childhood especially the story of Bluebeard and another story of a false princess who was rolled in a barrel into which long pointed spikes had been driven.</p>
 
 <p>As he had grown older, the memory of the stories had faded, but subconsciously their influence remained.</p>
 
@@ -916,7 +1153,7 @@ THE SISTER. Please, Miss, 'e's worryin' about Russia.
 
 ONE REASON FOR THE COAL SHORTAGE
 
-© International Film Service, Inc.
+ International Film Service, Inc.
 
 WILL BELGIUM EVER RECOVER?
 
@@ -932,7 +1169,7 @@ This old couple do not intend to be downed by the Germans. After their house was
 
 <p>"Do not sign an engagement to work in Germany; do not sign a compromise."</p>
 
-<p>Emile Cammaerts thinks they would respond to the offers of a German peace with the same shout: "Do not sign—do not sign a German peace!"</p>
+<p>Emile Cammaerts thinks they would respond to the offers of a German peace with the same shout: "Do not signdo not sign a German peace!"</p>
 
 REPRIMANDING THACKERAY
 
@@ -960,7 +1197,7 @@ HAVE YOU A HOUSEHOLD FILE?
 
 THE MUSIC TEACHER IN THE SMALL TOWN
 
-<p>A MUSIC teacher's lot is not a happy one—especially in a small town. Parents are apt to be her worst enemy. She may have an ambition to introduce Sarah May to some of the musical classics; but if Sarah May's mother has determined that her daughter's career shall stop with the "Maiden's Prayer" the ambitious teacher will likely lose her pupil.</p>
+<p>A MUSIC teacher's lot is not a happy oneespecially in a small town. Parents are apt to be her worst enemy. She may have an ambition to introduce Sarah May to some of the musical classics; but if Sarah May's mother has determined that her daughter's career shall stop with the "Maiden's Prayer" the ambitious teacher will likely lose her pupil.</p>
 
 <p>Max Schoen, in Musical America, tells of one teacher whose "attention was called to a very young girl living 'somewhere out in the woods' who displayed a remarkable talent for the piano. She persuaded the parents to let the child have some lessons, and she was elated over the remarkable progress of the girl. However, all her hopes came to naught when the parents gave her to understand that Effie was given a piano and lessons to enable her to play hymns, and nothing else but hymns."</p>
 
@@ -983,17 +1220,17 @@ Maybe!
 
 <p>One morning, not long ago, the Commander-in-Chief of the Atlantic battleship fleet paid a formal call upon the Paymaster-General of the Navy, bringing a message from a Vice-Admiral of the British navy to the effect that the latter wished to express his appreciation of the efficient way in which the United States navy supply ships were feeding British sailors at sea, in the submarine zone.</p>
 
-<p>Now, running those supply ships is part of the Paymaster-General's job. Within an hour the news was mimeographed as an intra-bureau order, and passed around among the hundreds of workers in his organization, as commendation for good work in which each officer, yeoman, and typist was entitled to share —something to make them feel good and do better work.</p>
+<p>Now, running those supply ships is part of the Paymaster-General's job. Within an hour the news was mimeographed as an intra-bureau order, and passed around among the hundreds of workers in his organization, as commendation for good work in which each officer, yeoman, and typist was entitled to share something to make them feel good and do better work.</p>
 
-<p>They pay a great deal of attention to inside news nowadays in many business organizations. The telephone, electric light, trolley, and railroad corporations, with employees scattered over wide territory, publish periodicals to keep their people posted on what is happening, and to inspire them with the spirit of the company, interpret its policies and rules, and explain technicalities of work. Industrial and mercantile concerns publish similar periodicals for employees—"house organs," as they are called; and there are perhaps a thousand of these published throughout the United States.</p>
+<p>They pay a great deal of attention to inside news nowadays in many business organizations. The telephone, electric light, trolley, and railroad corporations, with employees scattered over wide territory, publish periodicals to keep their people posted on what is happening, and to inspire them with the spirit of the company, interpret its policies and rules, and explain technicalities of work. Industrial and mercantile concerns publish similar periodicals for employees"house organs," as they are called; and there are perhaps a thousand of these published throughout the United States.</p>
 
-<p>The hunger for news is human—basic.  If people who work for you can not get some notion of what it is all about, through a "house organ" or a systetnatic scheme of reports, they will make their own news, and get things all wrong, as gossip, rumor, prejudice, misrepresentation. Authoritative publication of your own business news makes for straight thinking as well as inspiration.</p>
+<p>The hunger for news is humanbasic.  If people who work for you can not get some notion of what it is all about, through a "house organ" or a systetnatic scheme of reports, they will make their own news, and get things all wrong, as gossip, rumor, prejudice, misrepresentation. Authoritative publication of your own business news makes for straight thinking as well as inspiration.</p>
 
 <p>"I wish we could do something like that!" said the general manager of a little factory some months ago, enviously showing his secretary a handsomely printed employees' magazine just started by their biggest competitor.</p>
 
 <p>The secretary asked if she might read it, and took it home. The next morning she was positive that they could do just as well, barring the expensive typography.</p>
 
-<p>"We have just as interesting happen- ings around this shop," she insisted. `•on write better than the editor who made up this house organ, for I've taken half a dozen good statements about our business from letters you've dictated the past week. Here they are; and we've got a mimeograph, and I propose that we get out a weekly bulletin for our own folks."</p>
+<p>"We have just as interesting happen- ings around this shop," she insisted. `on write better than the editor who made up this house organ, for I've taken half a dozen good statements about our business from letters you've dictated the past week. Here they are; and we've got a mimeograph, and I propose that we get out a weekly bulletin for our own folks."</p>
 
 <p>Which proved to be better than the printed monthly periodical of their big competitor, because it cost less, and could be written more easily and published oftener.</p>
 
@@ -1001,9 +1238,9 @@ Maybe!
 
 <p>And in many a large concern there are a few people who might use business news themselves, as writers and publishers.</p>
 
-<p>For example, a department manager in a big industrial concern felt that his staff was doing extraordinary work unnoticed —indeed, against the indifference of other departments, and without attention from the president. Sometimes this feeling burst out openly.</p>
+<p>For example, a department manager in a big industrial concern felt that his staff was doing extraordinary work unnoticed indeed, against the indifference of other departments, and without attention from the president. Sometimes this feeling burst out openly.</p>
 
-<p>"Aw—what's the use?" one of them protested, one evening when a little extra work that night would complete a big job and send it out a week ahead of schedule. "Nobody ever knows it outside of this department, and we never get any credit."</p>
+<p>"Awwhat's the use?" one of them protested, one evening when a little extra work that night would complete a big job and send it out a week ahead of schedule. "Nobody ever knows it outside of this department, and we never get any credit."</p>
 
 <p>This set the manager thinking. Nobody knew, perhaps, because nobody had ever been told. He himself had never written even a brief statement of the time saved on any job. True, nobody had ever asked him what his department was doing. But why wait to be asked ? Suppose a statement about this job were drawn up in the form of a report and passed around the works ?</p>
 
@@ -1023,9 +1260,9 @@ Some Foods We Ought to Eat These Thrifty Days
 
 <p>The dandelion green is also rich in a medical principle (taraxacum) which exerts a tonic influence upon the kidneys and promotes the activity of the stomach and intestines. The water in which the dandelion greens are boiled may be freely drunk (a glassful at a time, hot) for the same beneficial purpose.</p>
 
-<p>The coarse outside leaves of lettuce, romaine, or chicory, and the beet and celery tops—all of which are usually thrown out—are also excellent, boiled and served as a vegetable.</p>
+<p>The coarse outside leaves of lettuce, romaine, or chicory, and the beet and celery topsall of which are usually thrown outare also excellent, boiled and served as a vegetable.</p>
 
-<p>Certain species of seaweed are also valuable in this same connection—not so much for their intrinsic food value as for their digestion-stimulating bulk, and for cer- tain lubricating and other qualities that they possess. The Japanese—forced by over-population to eat anything that didn't bite them first—long ago discovered the edibility and the value of seaweed, and now use it extensively, making up the agar, or gelatinous base of the seaweed, into various combinations of food products and confectionery.</p>
+<p>Certain species of seaweed are also valuable in this same connectionnot so much for their intrinsic food value as for their digestion-stimulating bulk, and for cer- tain lubricating and other qualities that they possess. The Japaneseforced by over-population to eat anything that didn't bite them firstlong ago discovered the edibility and the value of seaweed, and now use it extensively, making up the agar, or gelatinous base of the seaweed, into various combinations of food products and confectionery.</p>
 
 <p>But our dietetic waste is not confined to vegetables, by any means. People who live at the seashore often overlook the lowly mussel. I confess that, though I have been going to the shore for many years, I never tasted a mussel until last summer, when an Italian friend who was visiting my home gathered a pailful from one of the numerous mussel beds that we had been swimming, rowing, and wading over for years, scrubbed them carefully, put them in a pan with a little olive oil and a suspicion of garlic, and steamed them.</p>
 
@@ -1035,11 +1272,11 @@ See the Body Think
 
 <p>IF you could have strapped to your arm all day an instrument for measuring blood pressure, the record it would make would surprise you at the day's end.</p>
 
-<p>You would discover that every single thought, every emotion, every bit of concentrated effort, whether mental or physical, was registered in your arteries. That moment of impatience because the coffee was cold raised your blood pressure for an instant. The little run you had to make to catch the train—that too is there. The irritation that came over you when the telephone rang in the midst of an important conversation—your arteries felt that also.</p>
+<p>You would discover that every single thought, every emotion, every bit of concentrated effort, whether mental or physical, was registered in your arteries. That moment of impatience because the coffee was cold raised your blood pressure for an instant. The little run you had to make to catch the trainthat too is there. The irritation that came over you when the telephone rang in the midst of an important conversationyour arteries felt that also.</p>
 
-<p>In the diagram above you have a half- hour blood-pressure record of a young woman of twenty-two, a university student and an athlete. Each space along the horizontal line indicates five minutes of time; each space on the vertical line marks ten blood-pressure units. Look at the chart—this is what happened:</p>
+<p>In the diagram above you have a half- hour blood-pressure record of a young woman of twenty-two, a university student and an athlete. Each space along the horizontal line indicates five minutes of time; each space on the vertical line marks ten blood-pressure units. Look at the chartthis is what happened:</p>
 
-<p>The young woman came in, sat down, and was invited to relax. For five minutes she sat completely at ease, and during that period her blood pressure declined appreciably. In the sixth minute she was told that a problem in mental arithmetic was to be given her, and at once there was a little added tension. In the tenth minute the problem was stated—the multiplication of 98 by 76. In the next two minutes her blood pressure jumped twenty points. The remainder of the chart shows the mind at work in the solution of the problem, and its complete relaxation, combined with some fatigue, at the end.</p>
+<p>The young woman came in, sat down, and was invited to relax. For five minutes she sat completely at ease, and during that period her blood pressure declined appreciably. In the sixth minute she was told that a problem in mental arithmetic was to be given her, and at once there was a little added tension. In the tenth minute the problem was statedthe multiplication of 98 by 76. In the next two minutes her blood pressure jumped twenty points. The remainder of the chart shows the mind at work in the solution of the problem, and its complete relaxation, combined with some fatigue, at the end.</p>
 
 <p>When your mind thinks, your whole body thinks also. Your arteries are catching and recording every mental movement. Remember that when you are tempted to worry or hurry or overdo.  GEORGE VAN NESS DEARBORN.</p>
 
@@ -1047,7 +1284,7 @@ How J. P. Morgan Handled an Offender
 
 <p>THERE is no better test of a man's bigness than his way of handling subordinates who make mistakes. T. P. Morgan the elder had a clerk who, living beyond his means, sought to make up the balance through speculation; and, having failed, helped himself to the firm's money. "The culprit was called into Mr. Morgan's private office," says J. Horace Hazeltine in Forbes' Magazine.</p>
 
-<p>"He expected arrest. Instead he was told to go home and tell his wife all about it. 'And to-morrow morning,' said Mr. Morgan, `see me again.' The clerk obeyed, and Mr. Morgan, to the young fellow's amazement, handed him in bills the full amount of his peculation—$5,400with: `Put that back where you took the other from. It is a loan from me, and I expect you to return it as soon as you can. None of the other clerks know anything about it. Let me see if you can't be a man.'</p>
+<p>"He expected arrest. Instead he was told to go home and tell his wife all about it. 'And to-morrow morning,' said Mr. Morgan, `see me again.' The clerk obeyed, and Mr. Morgan, to the young fellow's amazement, handed him in bills the full amount of his peculation$5,400with: `Put that back where you took the other from. It is a loan from me, and I expect you to return it as soon as you can. None of the other clerks know anything about it. Let me see if you can't be a man.'</p>
 
 <p>"After many months the youngster restored to Mr. Morgan the last dollar of the debt. After counting a pile of bills on his desk to which he had added those just given him, Mr. Morgan observed: `Well, my boy, it was a bit harder saving it than losing it, I'll warrant. Now, take it home and give it to your wife. It's a safe bet that she saved most of it.' That's the kind of a man J. Pierpont Morgan was."</p>
 
@@ -1070,11 +1307,11 @@ Concluded from page 5
 
 <p>In Washington are gathered many of the biggest executives American business has produced: and, while they differ with him often, and criticize this policy and appointment or that, they no longer speak slightingly of his capacity for handling men.</p>
 
-<p>Nor do they fail to recognize the marvelous self-mastery of a man who can so organize a twenty-billion-dollar enterprise as to leave himself free from detail and worry —with plenty of time to take care of his physical well being and the maintenance of his poise and clearness of judgment and mind.</p>
+<p>Nor do they fail to recognize the marvelous self-mastery of a man who can so organize a twenty-billion-dollar enterprise as to leave himself free from detail and worry with plenty of time to take care of his physical well being and the maintenance of his poise and clearness of judgment and mind.</p>
 
 <p>When he works, he works with tremendous concentration. Department heads who send him long memoranda find, when they are returned, his pencil marks in the margin of almost every page; and nearly always the points on which they themselves felt doubtful are the-very points that he has questioned. And when he plays he plays with all his might. No business conversation on the golf course; no business conversation at meals; ..no business conversation on the train When he makes an occasional trip, like the., one to Buffalo to address the trade-union con- vention. "When ah mourns,',' said the colored lady with the black underwear, "ah mourns." When Woodrow Wilson plays, he plays.</p>
 
-<p>Watching him• there in the theater box, totally immersed in the play, laughing:at every possible chance, I thought of the, story of the clergyman on the storm-tossed ship.</p>
+<p>Watching him there in the theater box, totally immersed in the play, laughing:at every possible chance, I thought of the, story of the clergyman on the storm-tossed ship.</p>
 
 <p>In response to his terrified inquiries, the captain led him over to the hatchway, and let him look down at the per, spiting, swearing men who were manning. the pumps.</p>
 
@@ -1094,11 +1331,11 @@ From a Woman Thirty-Six and Unmarried
 
 <p>Dear Editor:</p>
 
-<p>Now that you have done with the married ones, why not "start something" about the unmarried ones—write something for the vast numbers of us ? </p>
+<p>Now that you have done with the married ones, why not "start something" about the unmarried oneswrite something for the vast numbers of us ? </p>
 
 <p>How about the woman, now thirty- eight, who has never had a proposal? How about a woman, now thirty-six, who has been in love with love for twenty years, and has manoeuvered two proposals, both engagements being broken by the respective men ? Neither girl is halt, lame, nor blind. Alone in the world, having neither gifts nor talents, wanting a husband and a home, what are they to do?</p>
 
-<p>You see, the unmarried women are human just like the married ones: they powder their noses, wear tight shoes, and everything. The troubles of your married ones seem slight to me. There is but one trouble for which there is no cure— time but makes it worse. That is, being alone.</p>
+<p>You see, the unmarried women are human just like the married ones: they powder their noses, wear tight shoes, and everything. The troubles of your married ones seem slight to me. There is but one trouble for which there is no cure time but makes it worse. That is, being alone.</p>
 
 <p>In our issue of February 23 we published another letter, also from an unmarried woman; and we promised 'to devote a whole contest to the unmarried.</p>
 
@@ -1112,7 +1349,7 @@ From a Woman Thirty-Six and Unmarried
 
 Another Letter from a Homely Woman
 
-<p>I AM not one of those people who are forever bursting into print, but I can not allow that "Letter to the Editor from a Homely Woman" to get by me unchallenged. Yes, you are right; I am another homely woman: that's why it touched a sore spot. My nose is a most decided "snub," my cheek-bones are too high, and I have an overpowering jawbone—a combination hard to beat for unattractiveness. But I have succeeded by perseverance and a grim determination not to be downed. No, I have not managed to pull out my nose nor massage away my jaw-bone, but I have managed to force them into the background, both in the eyes of my friends and in my own mind.</p>
+<p>I AM not one of those people who are forever bursting into print, but I can not allow that "Letter to the Editor from a Homely Woman" to get by me unchallenged. Yes, you are right; I am another homely woman: that's why it touched a sore spot. My nose is a most decided "snub," my cheek-bones are too high, and I have an overpowering jawbonea combination hard to beat for unattractiveness. But I have succeeded by perseverance and a grim determination not to be downed. No, I have not managed to pull out my nose nor massage away my jaw-bone, but I have managed to force them into the background, both in the eyes of my friends and in my own mind.</p>
 
 <p>That is the trouble with our homely friend. She has dwelt on her shortcomings so much that she has lost sight entirely of any attractions she may have. She has the right idea, but is working it backward.</p>
 
@@ -1132,11 +1369,11 @@ This is His Week
 
 <p>NOW and then some exotic spirit, blessed of the gods, but foredoomed to suffering beyond the capacity of others, comes into the world. Frederic Chopin was one of these. As a child, we are told, when he heard beautiful music he used to cry and beat his hands together helplessly. All his life he suffered from some strange sort of melancholia, his depressions lasting for weeks and months, during which he would hide away from friends, feverishly writing music, much of which he destroyed in hateful dissatisfaction.</p>
 
-<p>At other times—such are the contradictions of genius—he would go about in society, and seem to find pleasure in the fashion and luxury about him, idling away whole half years in jauntings from capital to capital, eating and drinking and dressing and dancing; playing but little and composing not at all.</p>
+<p>At other timessuch are the contradictions of geniushe would go about in society, and seem to find pleasure in the fashion and luxury about him, idling away whole half years in jauntings from capital to capital, eating and drinking and dressing and dancing; playing but little and composing not at all.</p>
 
-<p>He had a raft of friends—Liszt, Heine, Berlioz, Merimee, Myerbeer, Balzac, Du- mas, and de Musset—and, as de Lenz tells us, "always half a dozen women in love with him.</p>
+<p>He had a raft of friendsLiszt, Heine, Berlioz, Merimee, Myerbeer, Balzac, Du- mas, and de Mussetand, as de Lenz tells us, "always half a dozen women in love with him.</p>
 
-<p>George Sand—the "polyandrous Sand" —came into his life in 1837. Their romance lasted three years, at the end of which time they hated each other cordially. Sand deftly turned their love into "copy" in her novel "Lucrezia Floriani." Of her Chopin writes: "I have never cursed any one, but I am near to cursing Lucrezia. But she suffers too, but more because she grows older in wickedness."</p>
+<p>George Sandthe "polyandrous Sand" came into his life in 1837. Their romance lasted three years, at the end of which time they hated each other cordially. Sand deftly turned their love into "copy" in her novel "Lucrezia Floriani." Of her Chopin writes: "I have never cursed any one, but I am near to cursing Lucrezia. But she suffers too, but more because she grows older in wickedness."</p>
 
 <p>The real love of his life, a Polish girl, Marie Wodzinski, he could not marry because of his poverty. When Mlle. Wodzinski's father refused him her hand in marriage, Chopin despairingly composed the tragic sixth prelude in B minor, which in his opinion was his greatest work.</p>
 
@@ -1150,7 +1387,7 @@ This is His Week
 
 The War Department's Shock-Absorber
 
-<p>ASSUMING that eventually you will go to Washington to see the Secretary of War, since everybody seems to have business nowadays with Secretary Baker,—this is to introduce the man in the outer office, the "official shock- absorber" of a war-time administration.</p>
+<p>ASSUMING that eventually you will go to Washington to see the Secretary of War, since everybody seems to have business nowadays with Secretary Baker,this is to introduce the man in the outer office, the "official shock- absorber" of a war-time administration.</p>
 
 <p>When Frederick Paul Keppel was dean of the college at Columbia University he had the knack of handling folks, of sending them away satisfied. To-day Dr. Keppel is officially an "assistant to the Secretary of War." In reality he is a "shock-absorber" for the dynamic Newton D. Baker, and probably relieves that overworked Cabinet officer of more surplus worries than any bureau chief or major-general takes from his shoulders.</p>
 
@@ -1179,7 +1416,7 @@ Hoover Buys a Peck of Potatoes
 
 <p>A good market potato ought to weigh at least eight ounces, or about thirty-two to the peck. This lot contained seventy- five marbles, culls, cuts, and rots, with only a single specimen that came up to the No. I United States standard. The general size is shown by a disk the size a nickel, photographed for comparison. The "peck" was nearly two pounds short weight.</p>
 
-<p>This sort of buying, and also retailing, is poor business, as is indicated by our backward potato industry. We raised about four and a half bushels per capita this year—a bumper crop for us. But what is that beside little Ireland, with twenty-eight bushels per capita, and Holland with sixteen ? Even war-torn France actually raised more potatoes than the United States—500,000,000 bushels against our 440,000,000.</p>
+<p>This sort of buying, and also retailing, is poor business, as is indicated by our backward potato industry. We raised about four and a half bushels per capita this yeara bumper crop for us. But what is that beside little Ireland, with twenty-eight bushels per capita, and Holland with sixteen ? Even war-torn France actually raised more potatoes than the United States500,000,000 bushels against our 440,000,000.</p>
 
 <p>We raise poor potatoes because the demand is poor. The demand is poor because we raise poor potatoes. See-saw, Marjorie Daw! Every few years we have a potato famine. Between grower and consumer stands the grocer, a business man. If he used more care in buying potatoes, he could sell more, and farmers would raise more and better. So one of the permanent improvements to our food supply planned by Herbert Hoover is a new government standard for buying potatoes, and the weight system for selling them instead of the loose peck and bushel.</p>
 
@@ -1189,11 +1426,11 @@ The Passed Word--Continued from page 9
 
 <p>She described the desiccated system of education of her day. She showed how Stephen's extraordinary culture had served as an adjuvant, reinforcing, enriching background to all his teaching. She told them stories that rang with his quick wit and shone with his quiet humor. She dwelt on his charm, his kindness, his rectitude, his instant sense of indignation with injustice, the tireless persistence that rested only when such injustice had been repaired.</p>
 
-<p>She made him a live figure. Her remarks ran on an undercurrent of laughter from her audience that was broken by sudden bursts of applause. When she stopped, her listeners were warmed and thrilled. But she herself was as cold inwardly as ever. She was conscious only of one sensation—relief. It was over and done with. Now she could go home to her shadows again, could merge with a quiet which she hoped would gradually thicken until it became the coma that precedes dissolution.</p>
+<p>She made him a live figure. Her remarks ran on an undercurrent of laughter from her audience that was broken by sudden bursts of applause. When she stopped, her listeners were warmed and thrilled. But she herself was as cold inwardly as ever. She was conscious only of one sensationrelief. It was over and done with. Now she could go home to her shadows again, could merge with a quiet which she hoped would gradually thicken until it became the coma that precedes dissolution.</p>
 
 <p>THE audience began to shuffle, ready for A dismissal. The chairman arose. But a woman sitting in the front row, rising impulsively, anticipated her.</p>
 
-<p>"Madam Chairman," she said in an uncertain voice, "I would like very much to add a word about Mr. Talcott, if I may. I won't take long, and I think I can tell you a story about him that nobody else has ever heard. It will be of special interest to-night—because it also concerns our honored guest, Mrs. Lucia Mayne Frawley."</p>
+<p>"Madam Chairman," she said in an uncertain voice, "I would like very much to add a word about Mr. Talcott, if I may. I won't take long, and I think I can tell you a story about him that nobody else has ever heard. It will be of special interest to-nightbecause it also concerns our honored guest, Mrs. Lucia Mayne Frawley."</p>
 
 <p>The chairman smiled and nodded. "Go on, Miss Keith," she approved. "It will be ,a great pleasure to us all, I'm sure."</p>
 
@@ -1201,21 +1438,21 @@ The Passed Word--Continued from page 9
 
 <p>She was a tall, thin woman of an undetermined age, plain, angular to the point of scragginess. Her thick blond hair, heavily slashed with white, was combed straight back from her high, irregular features and bundled into a great wad in the center of her head. Her face, notwithstanding lines so deep that they were al- most furrows, was singularly fresh in coloring, singularly quick and pleasant in expression. It Was apparent that she, was not used to this kind of speaking. She blushed and hesitated. Her confusion did not wear off until she was well into her narrative.</p>
 
-<p>"I worked with him—for two or three years. I grew to love him as—everybody did—who knew him. There was something about him—I don't know how to describe it—a kind of simplicity—and humility; I can't tell you exactly what I mean, but—it made you, yourself—simple and humble—when you were with him—even if you weren't that way naturally.</p>
+<p>"I worked with himfor two or three years. I grew to love him aseverybody didwho knew him. There was something about himI don't know how to describe ita kind of simplicityand humility; I can't tell you exactly what I mean, butit made you, yourselfsimple and humblewhen you were with himeven if you weren't that way naturally.</p>
 
-<p>In the midst of that teaching, I lost my little sister—my only sister—by an accident. We were orphans; she was all I had; she was the apple of my eye. I apologize to you—for being so personal— but I can't seem to tell this story—any other way. And it all happened thirty years ago.</p>
+<p>In the midst of that teaching, I lost my little sistermy only sisterby an accident. We were orphans; she was all I had; she was the apple of my eye. I apologize to youfor being so personal but I can't seem to tell this storyany other way. And it all happened thirty years ago.</p>
 
-<p>"Mr. Talcott wrote me not to return to school until I felt quite able to come. But I went back in a few days, because I couldn't stand my own thoughts. I had a study hour from nine to ten. Mr. Talcott sent for me to come to the office. When I got there, he said he was sorry that I had come back so soon. I told him—that things were pretty bad with me—I didn't know how I was going to stand it. I said I hadn't slept—I couldn't stay at home. Well, I broke down. He saw just how I felt—how rebellious. He began to try to comfort me. He said that a few years before he had met with a great loss, a young brother.</p>
+<p>"Mr. Talcott wrote me not to return to school until I felt quite able to come. But I went back in a few days, because I couldn't stand my own thoughts. I had a study hour from nine to ten. Mr. Talcott sent for me to come to the office. When I got there, he said he was sorry that I had come back so soon. I told himthat things were pretty bad with meI didn't know how I was going to stand it. I said I hadn't sleptI couldn't stay at home. Well, I broke down. He saw just how I felthow rebellious. He began to try to comfort me. He said that a few years before he had met with a great loss, a young brother.</p>
 
-<p>"He told me quite a bit about his brother—what a wonderful boy he was: how he could write poetry, and paint pictures, and had even produced some beautiful sculpture. I remember at the time thinking he was like the young Rossetti, one of those many-sided geniuses that are so rare.</p>
+<p>"He told me quite a bit about his brotherwhat a wonderful boy he was: how he could write poetry, and paint pictures, and had even produced some beautiful sculpture. I remember at the time thinking he was like the young Rossetti, one of those many-sided geniuses that are so rare.</p>
 
-<p>"Mr. Talcott said that his brother had been his constant companion, the pride of his heart. He was eighteen when he died. He was drowned. Mr. Talcott told me that it nearly killed him, that at first he didn't think he was going to be able to stand it, and how it got worse and worse. And then, one day, he went to call on a dear friend to have a talk with her about it. That was our guest to-night, Mrs. Lucia Mayne Frawley. They spoke of how such terrible things happened, like a bolt from the blue—without rhyme or reason—seems if. And then Mrs. Frawley told him that she'd worked out a— well, a sort of fable—to account for such</p>
+<p>"Mr. Talcott said that his brother had been his constant companion, the pride of his heart. He was eighteen when he died. He was drowned. Mr. Talcott told me that it nearly killed him, that at first he didn't think he was going to be able to stand it, and how it got worse and worse. And then, one day, he went to call on a dear friend to have a talk with her about it. That was our guest to-night, Mrs. Lucia Mayne Frawley. They spoke of how such terrible things happened, like a bolt from the bluewithout rhyme or reasonseems if. And then Mrs. Frawley told him that she'd worked out a well, a sort of fableto account for such</p>
 
 
 
 <p>tragedies, that had been a great comfort to her.</p>
 
-<p>"She said that people were constantly being born into the world with wonderful gifts of service. And sometimes they wasted their gifts, or neglected them while they played with toys. At first those toys were the mere pleasures of youth. Women often lost themselves in an enjoyment of their own beauty, men of their own strength. Then often these earlier toys were succeeded by other toys—objects of a worshiping affection, sometimes a wife or husband, sometimes a sister or brother, sometimes a child. And she ended— these, I think, are her exact words as Mr. Talcott quoted them; I wrote them down when 1 got back to my desk: 'And so, if God really reserves us for service, he takes our toys away from us, one by one. Always it means great suffering. But he has to hurt us because he has other work for us to do, and that is the only way he has of making us see it.' "</p>
+<p>"She said that people were constantly being born into the world with wonderful gifts of service. And sometimes they wasted their gifts, or neglected them while they played with toys. At first those toys were the mere pleasures of youth. Women often lost themselves in an enjoyment of their own beauty, men of their own strength. Then often these earlier toys were succeeded by other toysobjects of a worshiping affection, sometimes a wife or husband, sometimes a sister or brother, sometimes a child. And she ended these, I think, are her exact words as Mr. Talcott quoted them; I wrote them down when 1 got back to my desk: 'And so, if God really reserves us for service, he takes our toys away from us, one by one. Always it means great suffering. But he has to hurt us because he has other work for us to do, and that is the only way he has of making us see it.' "</p>
 
 <p>Mrs. Frawley was scarcely conscious of the murmur of sympathy that greeted this confession, the understanding silence, unbroken by applause, that followed it.</p>
 
@@ -1223,21 +1460,21 @@ The Passed Word--Continued from page 9
 
 <p>THEY said pleasant things to Mrs. 1 Frawley, and she received them with words equally pleasant. She smiled and chatted. But to herself she seemed to speak through a mist. Once she went closer to the bas-relief and surveyed Stephen's fine, ascetic profile, with its splendid brow and clustering locks. To herself she seemed to move in a haze. After a while, her wraps were brought to her and she was carefully insinuated into them. She declined the assistance of the janitors, insisted on walking over the stairs, an attendant group circling her with anxious deference all the time. And when she was seated in the cab, she produced complimentary remarks and little speeches of farewell as if her mind were perfectly tranquil.</p>
 
-<p>But it was not tranquil. It boiled; it seethed; it fumed. And, once the cab had started, she leaned back, closing her eyes the better to gaze inward, that she might watch that whirl of thought—like an eddy of autumn leaves blown in circles by an eddy of autumn breeze. Her own words:</p>
+<p>But it was not tranquil. It boiled; it seethed; it fumed. And, once the cab had started, she leaned back, closing her eyes the better to gaze inward, that she might watch that whirl of thoughtlike an eddy of autumn leaves blown in circles by an eddy of autumn breeze. Her own words:</p>
 
 <p>"And so, if God really reserves us for service, he takes our toys away from us, one by one. Always it means great suffering. But he has to hurt us because he has other work for us to do, and that is the only way he has of making us see it."</p>
 
 <p>SHE remembered the incident clea rlynow.  Stephen had come to her half insane after a sleepless week of brooding over his brother's death. She had entirely forgotten her own remarks, but now the whole talk came back to her.</p>
 
-<p>Yes, God had taken all her toys away, one by one: Julius, Molly, Esther, the baby, and now—Robbie. She had sunk herself in them all, especially Robbie. It was not that she loved him more than the others, but that he came in her old age, when she had so little protection against grief. And yet—and yet— It was true. She had made a toy of Robbie. She had neglected her work the last four years. She had taken only the easy work and what came near home. It was true, she needed to be shaken awake. For there was still much to be done. And that was, of course, the only way to choke grief—by work. Work and more work and ever more work. Always work. Forever work. Work until you dropped dead in the harness. And then perhaps you would find that somewhere God had kept all your toys stored for you. Work! How glorious! To get to work again! Could she ever work hard enough to make up for these cowardly three months? Work! Work! Thank God for work!</p>
+<p>Yes, God had taken all her toys away, one by one: Julius, Molly, Esther, the baby, and nowRobbie. She had sunk herself in them all, especially Robbie. It was not that she loved him more than the others, but that he came in her old age, when she had so little protection against grief. And yetand yet It was true. She had made a toy of Robbie. She had neglected her work the last four years. She had taken only the easy work and what came near home. It was true, she needed to be shaken awake. For there was still much to be done. And that was, of course, the only way to choke griefby work. Work and more work and ever more work. Always work. Forever work. Work until you dropped dead in the harness. And then perhaps you would find that somewhere God had kept all your toys stored for you. Work! How glorious! To get to work again! Could she ever work hard enough to make up for these cowardly three months? Work! Work! Thank God for work!</p>
 
-<p>NORAH, gazing listlessly at the pages of  a book, heard the taxicab drive up to the door, heard a step on the stairs that brought her rushing into the hall. She opened the door on—</p>
+<p>NORAH, gazing listlessly at the pages of  a book, heard the taxicab drive up to the door, heard a step on the stairs that brought her rushing into the hall. She opened the door on</p>
 
 <p>That look in the eyes of the blue running to the white had gone. They were of a color so deep it seemed impossible there could also be the flame in them. Lucia's head was up, her shoulders back. She strode into the room.</p>
 
 <p>"What is it, Lucia?" Norah's voice held a note of terror.</p>
 
-<p>"I've had a wonderful evening, Norah," her sister said. "It's made a new creature of me. I won't tell you now—it's too long a story. But a word I passed to Stephen Talcott years ago was passed back to me to-night. And it pulled me out of the slough I'd sunk into. Yes, it waked me up. And suddenly I had the strength of a dozen lions. I wanted to work. Did you write the letter to the National College Association ?"</p>
+<p>"I've had a wonderful evening, Norah," her sister said. "It's made a new creature of me. I won't tell you nowit's too long a story. But a word I passed to Stephen Talcott years ago was passed back to me to-night. And it pulled me out of the slough I'd sunk into. Yes, it waked me up. And suddenly I had the strength of a dozen lions. I wanted to work. Did you write the letter to the National College Association ?"</p>
 
 <p>Norah nodded.</p>
 
@@ -1245,11 +1482,11 @@ The Passed Word--Continued from page 9
 
 <p>Norah shook her head.</p>
 
-<p>"Good. Destroy it. In a moment I'll dictate another. I'm going to do that work. And you're going with me, Norah. When I think of talking to young people, fresh young girls, fine young men of the college age—adolescence is so tender, so plastic, so soft to impression. How I shall enjoy it! Norah, we will bathe our souls in those audiences as if they were fountains of youth."</p>
+<p>"Good. Destroy it. In a moment I'll dictate another. I'm going to do that work. And you're going with me, Norah. When I think of talking to young people, fresh young girls, fine young men of the college ageadolescence is so tender, so plastic, so soft to impression. How I shall enjoy it! Norah, we will bathe our souls in those audiences as if they were fountains of youth."</p>
 
 <p>Norah did not speak. She just looked at her sister.</p>
 
-<p>"And now I'm going to call up Cousin Edie and ask the whole family over here for Christmas dinner. She'll come, I know. 1 have a sudden yearning to see them all—little Lyssie in particular. Lyssie is such a devoted creature. She works too hard taking care of the rest of them. We must give some dances for her, Norah. And to see those lovely rosy twins again, and jolly naughty little Francis, and dar- ling roly-poly Geraldine. And the precious baby. And to-morrow, Norah, we'll hire a limousine for the day. We'll buy all the Christmas wreaths and all the holly and mistletoe left in Boston. I want this house to bloom. We'll get a Christmas-tree, too. Lyssie'll trim it for us. And then we'll go round to the book-stores and toy-shops and pick out some presents for the children. Oh, such a gift as I've had this Christmas! Norah, you don't know how it's made me feel. I want to pass that word on to the whole world."</p>
+<p>"And now I'm going to call up Cousin Edie and ask the whole family over here for Christmas dinner. She'll come, I know. 1 have a sudden yearning to see them alllittle Lyssie in particular. Lyssie is such a devoted creature. She works too hard taking care of the rest of them. We must give some dances for her, Norah. And to see those lovely rosy twins again, and jolly naughty little Francis, and dar- ling roly-poly Geraldine. And the precious baby. And to-morrow, Norah, we'll hire a limousine for the day. We'll buy all the Christmas wreaths and all the holly and mistletoe left in Boston. I want this house to bloom. We'll get a Christmas-tree, too. Lyssie'll trim it for us. And then we'll go round to the book-stores and toy-shops and pick out some presents for the children. Oh, such a gift as I've had this Christmas! Norah, you don't know how it's made me feel. I want to pass that word on to the whole world."</p>
 
 Everything You Know Counts
 
@@ -1269,16 +1506,16 @@ The Foolishness of "Tips"
 
 <p>"Always interested in sand," the other answered.</p>
 
-<p>"Buy X YZ to-morrow at 66," the first man continued. "I have it straight from a man whose concern helped to finance that company. There's a big movement on in the stock, and it's good for twenty-five points anyway. Be sure you get in—and hold on for twenty-five points."</p>
+<p>"Buy X YZ to-morrow at 66," the first man continued. "I have it straight from a man whose concern helped to finance that company. There's a big movement on in the stock, and it's good for twenty-five points anyway. Be sure you get inand hold on for twenty-five points."</p>
 
-<p>With no more information than this so-called "tip," the two went to their offices the next day, and each purchased a hundred shares of the stock in question, on margin. Surely enough, it did go up—two points, five points, ten points. The two men were jubilant, and of course held on. At 76, however, something happened to the stock: it started down, and continued down steadily. It passed 66, where they had bought it, and still they held on, believing that somehow, sometime, it must come back.</p>
+<p>With no more information than this so-called "tip," the two went to their offices the next day, and each purchased a hundred shares of the stock in question, on margin. Surely enough, it did go uptwo points, five points, ten points. The two men were jubilant, and of course held on. At 76, however, something happened to the stock: it started down, and continued down steadily. It passed 66, where they had bought it, and still they held on, believing that somehow, sometime, it must come back.</p>
 
 <p>One of them, in disgust, sold out at 42, the other at 39. To-day the stock is quoted at 13, and it is a question whether it is worth even that.</p>
 
 <p>Now, here is the amazing thing: Each of the two men is a success in his own particular business. Moreover, the businesses
-in which they are employed are making money. Had they saved their dollars and invested them in the stock of their own companies, they would have been sure of a good return on the investment, and—as later events have proved—a substantial profit in addition. Yet both men turned their backs on the businesses that they know, and companies whose earning power is proved, to waste their money in a fly-by-night concern of which they knew nothing at all—simply on the strength of a "tip."</p>
+in which they are employed are making money. Had they saved their dollars and invested them in the stock of their own companies, they would have been sure of a good return on the investment, andas later events have proveda substantial profit in addition. Yet both men turned their backs on the businesses that they know, and companies whose earning power is proved, to waste their money in a fly-by-night concern of which they knew nothing at allsimply on the strength of a "tip."</p>
 
-<p>When it comes to the matter of tips, all rules governing the action of men along intelligent lines seem to be off. Men will overhear a conversation in a train: "I hear that Such-andSuch Company is going to have a melon"; or "They say So-and-So—" And forthwith they will recklessly toss away money which they have saved, dollar by dollar, over a long period of time.</p>
+<p>When it comes to the matter of tips, all rules governing the action of men along intelligent lines seem to be off. Men will overhear a conversation in a train: "I hear that Such-andSuch Company is going to have a melon"; or "They say So-and-So" And forthwith they will recklessly toss away money which they have saved, dollar by dollar, over a long period of time.</p>
 
 <p>Beware of the man with a tip. If the tip were any good it probably would not have become public property. If it I had real value he would keep it for himself instead of passing it on to you so eagerly.</p>
 
@@ -1306,9 +1543,9 @@ Nothing Will Stand Without Watching
 
 <p>For example, there was a time not long ago, as a financial magazine points out, when New Haven sold at 255, Rock Island at 207, St. Paul at 199 and the preferred at 218, Great Northern at 348, Northwestern at 271.</p> 
 
-<p>From these peak points these stocks have steadily declined: and wise investors,—not speculators,—noting the stead- iness of the decline, have sold and transferred their savings into other stocks and bonds.</p>
+<p>From these peak points these stocks have steadily declined: and wise investors,not speculators,noting the stead- iness of the decline, have sold and transferred their savings into other stocks and bonds.</p>
 
-<p>The lesson is simply this—that in the world of money nothing is absolutely safe.</p>
+<p>The lesson is simply thisthat in the world of money nothing is absolutely safe.</p>
 
 <p>While there are certain stocks whose record, over a long period of years, entitles them to the confidence of conservative investors, there is no stock that can be put away and forgotten, with the assurance that it will not decline.</p>
 
