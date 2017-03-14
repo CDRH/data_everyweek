@@ -1,21 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180309">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 9, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180309</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-03-09">March 9, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-03-14"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
+<pb n="Cover" xml:id="ew.issue.19180309.p001" />
 
-Beware the Exhaust Gas Leakage
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.</note>
+<note>&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cts.</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>March 9, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<p></p>
+<ab type="credit">FORSPERN</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
 
-By J. B. HUBER, A. M., M. D.
+<pb n="Page 2" xml:id="ew.issue.19180309.p002"/>
 
-<p>HERE is a true story with a moral. Four workmen, veryweak by reason of fasting, sought shelter from the Norwegian cold in the small cabin of a motor-boat. All were found later in a sitting position, yet unconscious, ice cold, their arms rigid and pressed against their bodies, their jaws closed tight. The risus sardonicus (demoniac smile) that goes with lockjaw was upon their faces. The rigor mortis (stiffness of death) was upon them. And yet, they were not dead. Under artificial respiration and the administration of massage, heat to their bodies, and stimulation, all were restored in the course of a few hours, though considerably the worse for the experience.</p>
+<text type="nonfiction" xml:id="huber.19180309">
+<body>
 
-<p>A seat built in entirely around the edge of the cabin formed a close space into which the exhaust gas from the motor leaked. Dr. F. Harbitz, of Christiania, who relates this incident, has described also several other cases of poisoning from leakage of exhaust gas. In one of these a young and healthy athlete went into the cabin of a motor-boat and shut the door. In half an hour his companions, breaking in, found him dead. An examination of his blood revealed coal-gas poisoning. The motor on the boat was defective; the exhaust gas contained an unusual amount of CO.</p>
+<head type="main">Beware the Exhaust Gas Leakage</head>
+<byline>By <persName type="author" key="#Huber, J. B.">J. B. HUBER</persName>, A. M., M. D.</byline>
 
-<p>Again, Dr. Kildal, a friend of Dr. Harbitz, spent the night in his motorboat, a covered and fairly air-tight craft in which was a gasoline engine and a portable heater. The latter was lighted for an hour and a half. In the morning his engineer felt headachy and nauseated, and found the doctor stiff and cold, his blood showing the CO poisoning due to the exhaust gas.</p>
+<cb n="1"/>
+
+<p>HERE is a true story with a moral. Four workmen, very weak by reason of fasting, sought shelter from the Norwegian cold in the small cabin of a motor-boat. All were found later in a sitting position, yet unconscious, ice cold, their arms rigid and pressed against their bodies, their jaws closed tight. The <hi rend="italic">risus sardonicus</hi> (demoniac smile) that goes with lockjaw was upon their faces. The <hi rend="italic">rigor mortis</hi> (stiffness of death) was upon them. And yet, they were not dead. Under artificial respiration and the administration of massage, heat to their bodies, and stimulation, all were restored in the course of a few hours, though considerably the worse for the experience.</p>
+
+<p>A seat built in entirely around the edge of the cabin formed a close space into which the exhaust gas from the motor leaked. Dr. F. Harbitz, of Christiania, who relates this incident, has described also several other cases of poisoning from leakage of exhaust gas. In one of these a young and healthy athlete went into the cabin of a motor-boat and shut the door. In half an hour his companions, breaking in, found him dead. An examination of 
+
+<cb n="2"/>
+
+his blood revealed coal-gas poisoning. The motor on the boat was defective; the exhaust gas contained an unusual amount of CO.</p>
+
+<p>Again, Dr. Kildal, a friend of Dr. Harbitz, spent the night in his motor-boat, a covered and fairly air-tight craft in which was a gasoline engine and a portable heater. The latter was lighted for an hour and a half. In the morning his engineer felt headachy and nauseated, and found the doctor stiff and cold, his blood showing the CO poisoning due to the exhaust gas.</p>
 
 <p>Dr. Harbitz himself once felt these symptoms while waiting in his garage for his automobile engine to heat up.</p>
 
-<p>A rat exposed closely to the exhaust gas died.  CO, by the way, has a distince tendency to rise.</p>
+<p>A rat exposed closely to the exhaust gas died. CO, by the way, has a distince tendency to rise.</p>
 
-<p>Women seem more resistant to this kind of poisoning than men. In 36o cases of coal-gas poisoning in Paris, a man and his wife were affected together in nineteen cases, and the three survivors were all women. Women evidently hold out longer because their need for oxygen is less than that of men.</p>
+<p>Women seem more resistant to this kind of poisoning than men. In 360 cases of coal-gas poisoning in Paris, a man and his wife were affected together in nineteen cases, and the three survivors were all women. Women evidently hold out longer because their need for oxygen is less than that of men.</p>
+
+<note>
+
+<p>A READER asked Dr. Huber to discuss the subject of "Dreams" in this column. And in a week or two the article will appear. What subject is there in the field of medical science that most interests you? Dr. Huber is yours to command.</p>
+
+</note>
+
+</body>
+</text>
+
 
 Obesity and Its Vicious Circles
 
@@ -25,7 +149,7 @@ Obesity and Its Vicious Circles
 
 <p>When stoutness becomes severe, almost every bodily function is affected. And, because of the many vicious circles that form, we have to deal with a self-perpetuating and self-aggravating malady which all too often ends fatally.</p>
 
-<p>For instance: A heart and a blood circulation overtaxed by obesity mean bodily inactivity—which in its turn tends to increase the •obesity. Hardening of the arteries and chronic kidney disease (Bright's) are frequent complications of obesity; in time they recoil on the heart and eventually on the obesity. Again, obesity tends to prevent the proper expansion and aeration of the lungs, which leads in time to pulmonary disease; which later induces- deficient supply of oxygen, the very breath of life.</p>
+<p>For instance: A heart and a blood circulation overtaxed by obesity mean bodily inactivitywhich in its turn tends to increase the obesity. Hardening of the arteries and chronic kidney disease (Bright's) are frequent complications of obesity; in time they recoil on the heart and eventually on the obesity. Again, obesity tends to prevent the proper expansion and aeration of the lungs, which leads in time to pulmonary disease; which later induces- deficient supply of oxygen, the very breath of life.</p>
 
 <p>Next is affected the circulation, which, in its turn, brings about diminished metabolism; and so we get back, in the vicious circle, to obesity, In like- manner is obesity related to digestive, nervous, muscular, joint, and skin diseases.</p>
 
@@ -33,12 +157,12 @@ Hygiene
 
 <p>A VISITOR, seeing on the hall table of a  rural school a solitary tooth-brush in a glass, asked the teacher what that brush was for, says the Outlook. "Oh," replied the teacher, "we are so interested in hygiene here that we make every child brush his teeth when he comes to school each morning."</p>
 
-This is the Place Where—
+This is the Place Where
 
 <p>IT was in St. John's Church, which still stands in Richmond, that Patrick Henry made the speech that
-so long inspired school-boy orators on recitation day. We asked several of our friends what they knew about Patrick Henry, and they all said, "Why, he's the man who said—" And when they had finished quoting they were done. None of them knew that the young Virginian, who came of good Scotch and Welsh stock, won success after much failure; that he had twice shown his lack of ability to run a store, and that he was no better as a farmer, and that it was only when he found himself insolvent after the second storekeeping venture that he turned to the law, where he won fame and power.</p>
+so long inspired school-boy orators on recitation day. We asked several of our friends what they knew about Patrick Henry, and they all said, "Why, he's the man who said" And when they had finished quoting they were done. None of them knew that the young Virginian, who came of good Scotch and Welsh stock, won success after much failure; that he had twice shown his lack of ability to run a store, and that he was no better as a farmer, and that it was only when he found himself insolvent after the second storekeeping venture that he turned to the law, where he won fame and power.</p>
 
-<p>He led the fight in Virginia for the rights of the colonies. It was at the second Revolutionary convention of Virginia, held in the spring of 1775, that, speaking for a resolution providing for the defense of the colony, he said: "I know not what course others may pursue, but as for me—" And every red-blooded American knows the rest of the phrase.</p>
+<p>He led the fight in Virginia for the rights of the colonies. It was at the second Revolutionary convention of Virginia, held in the spring of 1775, that, speaking for a resolution providing for the defense of the colony, he said: "I know not what course others may pursue, but as for me" And every red-blooded American knows the rest of the phrase.</p>
 
 There are Always a Lot of Folks Who Want to Leave at the End of the Second Act
 
@@ -46,7 +170,7 @@ There are Always a Lot of Folks Who Want to Leave at the End of the Second Act
 
 <p>"What's the use of going through with it?" they ask.  "Let's call it off. No peace could be so bad as a continuation of this awful struggle. Let's leave and get back to our homes."</p>
 
-<p>I have been interested in noting how true human nature runs to form—how every single war has developed the same cry at about the same hour.</p>
+<p>I have been interested in noting how true human nature runs to formhow every single war has developed the same cry at about the same hour.</p>
 
 <p>The half century that has, elapsed since the Civil War has thrown a sort of glorious mistiness about it.</p>
 
@@ -76,7 +200,7 @@ There are Always a Lot of Folks Who Want to Leave at the End of the Second Act
 
 <p>At the end of three years' struggle, the nation's condition is not what either party, or any man, devised or expected [said Lincoln]. God alone can claim it. Whither it is tending seems plain. If God now wills the removal of a great wrong, and wills also that we of the North, as well as you of the South, should pay fairly for our complicity in that wrong, impartial history will find therein new cause to attest and revere the justice and goodness of God.</p>
 
-<p>Second, I am more willing day by day to believe that those who are governing this nation are as humane and peace-loving as I am—and a great deal wiser.</p>
+<p>Second, I am more willing day by day to believe that those who are governing this nation are as humane and peace-loving as I amand a great deal wiser.</p>
 
 <p>I talked yesterday with a man who crossed with Colonel House from the Paris Conference.</p>
 
@@ -103,35 +227,35 @@ Photograph by Paul Thompson
 
 <p>He rode out of town in a caboose, to come back in his private car.</p>
 
-<p>HIS name is Hine, and he is the Colonel commanding one of the most famous of American fighting regiments—the 165th. In other days this was the Sixty-ninth New York, and it had a fighting record running brilliantly through both the Civil War and our difficulties with Spain some twenty years ago.</p>
+<p>HIS name is Hine, and he is the Colonel commanding one of the most famous of American fighting regimentsthe 165th. In other days this was the Sixty-ninth New York, and it had a fighting record running brilliantly through both the Civil War and our difficulties with Spain some twenty years ago.</p>
 
-<p>The Sixty-ninth was chosen to be the first of the New York regiments overseas. It was sent to Camp Mills at Mineola, reorganized and enlarged in accordance with Federal standards, and a new commander, a West Point Graduate, appointed to it: Charles Delano Hine—the most interesting man I know.</p>
+<p>The Sixty-ninth was chosen to be the first of the New York regiments overseas. It was sent to Camp Mills at Mineola, reorganized and enlarged in accordance with Federal standards, and a new commander, a West Point Graduate, appointed to it: Charles Delano Hinethe most interesting man I know.</p>
 
 <p>Hine came out of West Point in the class of '91. For four years after that he found himself growing more and more discontented with the humdrum life of the army in peace years. Finally, when lie was still a lieutenant, he resigned from the army and entered upon the practice of law. A little later he was back in the army. The nation was at war, and Hine was in the thick of the fight. And when, after a few short months, it was all over, he found himself a major. It looked as if there were an easy path ahead for him in army service. But he was not looking for easy pathways. A difficult job, but one with possibilities, was what he wanted.</p>
 
-<p>Railroading appealed to him. Some men of his rank might have haunted the general offices of the big railroads. Hine did not. He entered the railroad service at the bottom—as a brakeman on a freight.</p>
+<p>Railroading appealed to him. Some men of his rank might have haunted the general offices of the big railroads. Hine did not. He entered the railroad service at the bottomas a brakeman on a freight.</p>
 
 <p>People in Cincinnati who knew him were both amused and astonished. They saw Hine ride out from the town on a caboose, and a few years later they saw him ride in again in his private car. For the army man rose both steadily and rapidly in railroad ranks.</p>
 
-<p>He devised a system of railroad organization, modeled largely on army organization, that was put into effect by many of the larger roads in the West. He became an authority on railroad organization. Finally the Southern Pacific asked him to take the vice-presidency of its Mexican lines. He accepted the job—with a proviso. If the nation were again at war, he was to be relieved.</p>
+<p>He devised a system of railroad organization, modeled largely on army organization, that was put into effect by many of the larger roads in the West. He became an authority on railroad organization. Finally the Southern Pacific asked him to take the vice-presidency of its Mexican lines. He accepted the jobwith a proviso. If the nation were again at war, he was to be relieved.</p>
 
 <p>Last year, when war was declared, he was among the first to offer himself. His practical business training, plus his army education, made him an almost invaluable man. The recognition of that came in his appointment to command what is probably the most distinguished infantry regiment organized since the beginning of the war. Hine is the soldier once again. Yet he has never ceased to be the man.</p>
 
-<p>One day a man came limping into his headquarters tent at Mineola. He had walked all the way from New York— twenty-two miles—to enlist. A young subaltern officer had told him that he would have to go back to New York—to the recruiting office in the Sixty-ninth's old armory.</p>
+<p>One day a man came limping into his headquarters tent at Mineola. He had walked all the way from New York twenty-two milesto enlist. A young subaltern officer had told him that he would have to go back to New Yorkto the recruiting office in the Sixty-ninth's old armory.</p>
 
 <p>"Why can't we enlist him here?" asked Colonel Hine.</p>
 
-<p>The subaltern told him that it could not be done—there was no recruiting officer at Mineola.</p>
+<p>The subaltern told him that it could not be donethere was no recruiting officer at Mineola.</p>
 
 <p>"Yes, there is," laughed Hine; "I appoint you one. You see that this man gets the biggest dinner he can hold, and then swear him in."</p>
 
 <p>And that night the man slept billeted under the tented camp of the 165th.</p>
 
-<p>This, then, is Hine, the restless, energetic Virginian who is in the first place a real soldier, in the second a skilled lawyer, in the third a capable and immensely successful railroader, and in the fourth—a very human and likable man. Incidentally he has written two books and they are bully books indeed. His versatility is wide, his appetite for hard work insatiable.</p>
+<p>This, then, is Hine, the restless, energetic Virginian who is in the first place a real soldier, in the second a skilled lawyer, in the third a capable and immensely successful railroader, and in the fourtha very human and likable man. Incidentally he has written two books and they are bully books indeed. His versatility is wide, his appetite for hard work insatiable.</p>
 
-Friend of the Tired Business Man—By PHILIP CURTISS
+Friend of the Tired Business ManBy PHILIP CURTISS
 
-<p>ONE of the first hardships of the great war was the immediate embargo on Viennese operettas—an act by which the Teuton composers expected at once to bring the tired business man to his knees. Little, however, did they reckon with American genius and American methods of standardization; for three days after Austria had declared war on England, Jerome D. Kern, who was already known as "the Henry Ford of musical comedy," mobilized himself in Bronxville, and began to turn out popular airs faster than the German bands could murder them. In two years he wrote the music for eight thirty-knot high-speed shows for this country, and one for our Allies. At the present moment fifteen of his shows are running in the United States.</p>
+<p>ONE of the first hardships of the great war was the immediate embargo on Viennese operettasan act by which the Teuton composers expected at once to bring the tired business man to his knees. Little, however, did they reckon with American genius and American methods of standardization; for three days after Austria had declared war on England, Jerome D. Kern, who was already known as "the Henry Ford of musical comedy," mobilized himself in Bronxville, and began to turn out popular airs faster than the German bands could murder them. In two years he wrote the music for eight thirty-knot high-speed shows for this country, and one for our Allies. At the present moment fifteen of his shows are running in the United States.</p>
 
 <p>When I explain that Jerome Kern wrote the music for "Very Good, Eddie," "The Girl from Utah," "Nobody Home," "Love o' Mike," "Have a Heart," "Oh Boy," and "Leave It to Jane," all in two years, one may realize what makes him interesting, not to say appalling.</p>
 
@@ -156,7 +280,7 @@ By BURTON J. HENDRICK
 
 <p>"Do you know what these letters are?" he asked. "They are merely the accumulation of three or four days. They come from great manufacturing concerns asking me to send them boys from this school. 1 am utterly unable to meet their requests. For every electrical or mechanical engineer we can turn out there are a dozen or so jobs waiting. It is simply impossible to train men technically fast enough to supply the demands of manufacturers. This is true not only of this school, but of every one like it in the country. Any young man who has a good ground-work in electricity and mechanics is assured of a living from the day he graduates. The majority are sure of very good livings indeed."</p>
 
-<p>His experience was certainly a vivid lesson in the growing importance of the trained man—which is only another word for the educated man. The war has dramatically opened the eyes of the public to the value of education.</p>
+<p>His experience was certainly a vivid lesson in the growing importance of the trained manwhich is only another word for the educated man. The war has dramatically opened the eyes of the public to the value of education.</p>
 
 <p>For the last fifty years the United States has been building up a huge educational plant. We have the older conservative institutions, like Yale and Harvard; the State universities, agricultural colleges, technical schools, and the like. Other countries may have older and even finer educational institutions; certainly in none is education so widely distributed, so much the property of the every-day boy and girl. This great educational plant has grown up in face of much opposition. Practical business men have sneered at the "theorists" turned out by our colleges. The whole nation, too much captivated by certain historic examples, such as Lincoln, have wondered whether the enormous sums spent have been worth while.</p>
 
@@ -170,7 +294,7 @@ Popular Education the Barometer of Progress
 
 <p>As a general statement, it seems safe to say that popular education is the barometer of social and political progress all over the world. Take a map of the world, and mark out the countries that are most prosperous and advanced and those that are backward. There is apparently no exception to the rule that the extent of popular education also determines the extent to which these nations are the most successful.</p>
 
-<p>On one hand, Spain, Mexico, China, Turkey—places where public schools, as we understand them, do not exist. On the other, England, France, the United States, Germany—countries in which popular education is the universal rule. Which nations count for most in the world, the first group or the second ?</p>
+<p>On one hand, Spain, Mexico, China, Turkeyplaces where public schools, as we understand them, do not exist. On the other, England, France, the United States, Germanycountries in which popular education is the universal rule. Which nations count for most in the world, the first group or the second ?</p>
 
 <p>Take the showing that they have made in the present war. Among the Germanic peoples it is the German Empire, which educates all its citizens, that has proved the backbone of the alliance. Austria, which has no such universal system, and Bulgaria and Turkey, which have little popular education, have done little more than furnish cannon food for the use of the German general staff.</p>
 
@@ -178,13 +302,13 @@ Popular Education the Barometer of Progress
 
 <p>Of the Allies outside of Europe, the United States, where education is universal, is bringing enormous support to the cause of civilization; while the South American countries, Siam, and other powers that pay little attention to schooling their young, are doing comparatively little. In our own country, the States that are regarded as most progressive, and that make the greatest contributions to the nation's wealth and character, are invariably the ones that insist on educating their children. The Bureau of Education presents, as contrasts, Massachusetts andTennessee, California and Texas. Massachusetts gives its citizens an average of seven years' schooling, while Tennessee is satisfied with three. The citizens of Massachusetts produce $26o per capita per year; the citizens of Tennessee $116. California is a newer State than Texas, and probably has no greater natural resources; yet it possesses 4,000,000,000a wealth, while Texas has $2,836,- 000,000. The fact that California spends two or three times as much on the schooling of her children may partly explain this discrepancy.</p>
 
-<p>In many families, hard pressed for ready money, the critical question usually arises when the boy reaches his fourteenth year. Hasn't he had education enough ? He knows how to read and write, and can spell fairly well—why should he go on and study algebra and Latin, perhaps French or German ? He has become a burden upon his family; isn't it time for him to go to work? The corner groceryman will give him a job driving the delivery wagon; the local factory is ready to absorbhim into its machine; possibly he may join the white- collar squad and get a place back of the ribbon-counter.</p>
+<p>In many families, hard pressed for ready money, the critical question usually arises when the boy reaches his fourteenth year. Hasn't he had education enough ? He knows how to read and write, and can spell fairly wellwhy should he go on and study algebra and Latin, perhaps French or German ? He has become a burden upon his family; isn't it time for him to go to work? The corner groceryman will give him a job driving the delivery wagon; the local factory is ready to absorbhim into its machine; possibly he may join the white- collar squad and get a place back of the ribbon-counter.</p>
 
 The Cost of Leaving School Too Soon
 
 <p>MR. CLAXTON'S department has made a particular study of this great practical problem.  As a result, it can now answer the question in the way that is most appealing: it tells us precisely what is the cost, in a financial sense, of leaving school at fourteen.</p>
 
-<p>For example: there are 799 workers in certain Massachusetts factories; part of them left school at fourteen, while the rest did not make the break until they had reached their eighteenth year. The boys who left school at fourteen averaged $zoo in wages the first year. After they had worked four years—when they had reached their eighteenth birthday—their earnings had increased to $375.</p>
+<p>For example: there are 799 workers in certain Massachusetts factories; part of them left school at fourteen, while the rest did not make the break until they had reached their eighteenth year. The boys who left school at fourteen averaged $zoo in wages the first year. After they had worked four yearswhen they had reached their eighteenth birthdaytheir earnings had increased to $375.</p>
 
 <p>Meanwhile, their associates had spent the intervening four years unproductively at school: while the industrious first group</p>
 
@@ -215,7 +339,7 @@ The Champagne country was still almost untouched.
 
 " 'Yes, it is worth fighting for.' "
 
-© Paul Thompson
+ Paul Thompson
 
 What's Happening in Germany?
 
@@ -255,7 +379,7 @@ By GEORGE MARTIN
 
 "For Amusement"
 
-<p>"ALL day long," states a Belgian woman in The German Terror in Belgium (George H. Doran Company), by Arnold J. Toynbee, "I saw civilians being shot—twenty to twenty-five of them, including some monks or priests. The victims were bound four together, and placed on the pavement in front of the Maison Hamaide. The soldiers who shot them were on the other side of the Boulevard, on the warehouse roof."</p>
+<p>"ALL day long," states a Belgian woman in The German Terror in Belgium (George H. Doran Company), by Arnold J. Toynbee, "I saw civilians being shottwenty to twenty-five of them, including some monks or priests. The victims were bound four together, and placed on the pavement in front of the Maison Hamaide. The soldiers who shot them were on the other side of the Boulevard, on the warehouse roof."</p>
 
 <p>The surviving men were marched away in batches. When night came, the women were confined in the Station. "My aunt," continues the witness quoted above, "was taken to the Station with her baby. It rained all night, and she wrapped the baby in her skirt. The baby cried for food, and a German soldier gave the child a little water and took them to an empty railway carriage. Some other women got into the carriage, but during the whole night the Germans fired at the carriage for amusement."</p> 
 
@@ -327,7 +451,7 @@ Jokes are Grim at 8000 Feet
 
 <p>"'Did he shoot?'</p>
 
-<p>"'Shoot? I should say he did, but not me—didn't have time. He shot out of the fusillage on her second turn-over like a bullet, and struck a gravel bank head first near the Ypres Comines Canal. 1 think he is the only man I ever knew who killed and buried himself and erected his own tombstone. Everybody in the :line has been to look at that one boot sticking out of the gravel.</p>
+<p>"'Shoot? I should say he did, but not medidn't have time. He shot out of the fusillage on her second turn-over like a bullet, and struck a gravel bank head first near the Ypres Comines Canal. 1 think he is the only man I ever knew who killed and buried himself and erected his own tombstone. Everybody in the :line has been to look at that one boot sticking out of the gravel.</p>
 
 <p>"'It was the best joke of the summer.'"</p>
 
@@ -399,7 +523,7 @@ His Will to Fight
 
 From His Youngest Son
 
-<p>I HAVE only three children, all boys, and they are all in stay here and watch and pray while we are busy with death and de- the service of their country—one already "over there" struction. and two in training. My husband was too old for a
+<p>I HAVE only three children, all boys, and they are all in stay here and watch and pray while we are busy with death and de- the service of their countryone already "over there" struction. and two in training. My husband was too old for a
 chaplaincy, but resigned from his church and applied for Y. M. C. A. work. He received his commission, and is now on his way to France. The youngest son wrote him a letter that touched my heart and made me very proud of such a son. If you think it worth it, I would be glad to have you use it. It might help some father to do a little more for this struggle if he thought sons felt this way about it.</p>
 
 <p>Fortress Monroe, Virginia.</p>
@@ -424,7 +548,7 @@ chaplaincy, but resigned from his church and applied for Y. M. C. A. work. He re
 
 How I Am Winning My Fight Against Tuberculosis
 	
-<p>I HAVE tuberculosis. I am fighting it, and I expect to win. But during the first two years after I discovered my danger I made almost fatal mistakes— just the kind of mistakes that others are making every day. That is why I am writing this, which is also a word of encouragement.</p>
+<p>I HAVE tuberculosis. I am fighting it, and I expect to win. But during the first two years after I discovered my danger I made almost fatal mistakes just the kind of mistakes that others are making every day. That is why I am writing this, which is also a word of encouragement.</p>
 
 <p>My first mistake was to believe that fresh air was the sovereign cure. After fresh air I put good food, especially milk and eggs. And after that rest. The list was all right, but I had it in the wrong order. Rest should have come first of all.</p>
 
@@ -432,7 +556,7 @@ How I Am Winning My Fight Against Tuberculosis
 
 <p>But I was young, ambitious, just out of college, and married. I went to work. I had been under a doctor's care, but my work took me to another State, and I made the big mistake of not consulting a physician. My case of incipient tuberculosis developed into the second stage, and was almost beyond help when I finally went to a specialist. He put me to bed. I had to give up work for months where it might have been only weeks but for my mistakes.</p>
 
-<p>People are inclined to put too much faith in fresh air. It is essential—but so is rest. Even deep breathing may be injurious. Farm-work and mountain- climbing are very dangerous. A few minutes of hard lifting may undo the progress of weeks. No exercise should be taken that brings on rapid or hard breathing.  Gymnasium work is harmful. An injured lung is like any other sore, in that it can not heal if constantly irritated.</p>
+<p>People are inclined to put too much faith in fresh air. It is essentialbut so is rest. Even deep breathing may be injurious. Farm-work and mountain- climbing are very dangerous. A few minutes of hard lifting may undo the progress of weeks. No exercise should be taken that brings on rapid or hard breathing.  Gymnasium work is harmful. An injured lung is like any other sore, in that it can not heal if constantly irritated.</p>
 
 <p>And let me emphasize this: If you have any idea that you have tuberculosis, go at once to a physician who has had large experience in treating it. Don't take chances with the general practitioner unless it is absolutely impossible to get to a specialist. Tuberculosis sanatoriums are perhaps the safest refuge. Above all, don't suffer through false pride. 1 did. I didn't want people to know I had it. It was a rashly foolish idea. One advantage in going to a health resort is that you do not feel conspicuous.</p>
 
@@ -548,7 +672,7 @@ Carry Your Camera with You
 
 <p>"Here's a snapshot of So-and-So signing an order for our goods."</p>
 
-<p>It helps to make the sales talk vivid and interesting—and sprinkles the house organ with plenty of good pictures.</p>
+<p>It helps to make the sales talk vivid and interestingand sprinkles the house organ with plenty of good pictures.</p>
 
 <p>Do you carry a camera with you on your trips ? Couldn't it be made to help you in your sales work if you did ?</p>
 	
@@ -563,7 +687,7 @@ By JAMES FRANCIS DWYER
 Illustrations by William Van Dresser
 
 <p>MY first recollection of Camera Joe dates back to the time when 1 was nine years of age. I met him on
-the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pond to spend the forenoon fishing. I was bare-footed and coatless, with only one suspender and a felt hat that had three bullet holes in it—holes put there by Sam Beasley, who had once snatched it from my head and used it fora target.  My brother Will thrashed Sam Beasley well for making the hat a target.</p>
+the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pond to spend the forenoon fishing. I was bare-footed and coatless, with only one suspender and a felt hat that had three bullet holes in itholes put there by Sam Beasley, who had once snatched it from my head and used it fora target.  My brother Will thrashed Sam Beasley well for making the hat a target.</p>
 
 <p>I can see Camera Joe as he came swinging by the Lee Meadows on that summer morning. He was tall and straight, and he was dressed in- a gray coat and trousers, with a flannel shirt open at the neck. He carried a straw hat in one hand, and in the other he carried the camera that gave him his name. He was a rather fine-looking man of about thirty-five years of age, with soft brown eyes and curly hair, and the nicest smile I ever saw on any face.</p>
 
@@ -601,7 +725,7 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>"But what could he do with Tommy's picture?" inquired Aunt Maria. "Surely, Kate," she went on, turning to mother, "you don't want a picture of Tommy as he went out this morning! He was disgraceful!"</p>
 
-<p>I flushed, and then father went on and told a lot more about Camera Joe. I didn't like Aunt Maria Metham, but I was glad she asked about Camera Joe—I might not have known his history if she had not been so inquisitive.</p>
+<p>I flushed, and then father went on and told a lot more about Camera Joe. I didn't like Aunt Maria Metham, but I was glad she asked about Camera JoeI might not have known his history if she had not been so inquisitive.</p>
 
 <p>"He doesn't sell his photographs," explained father. "He takes pictures for his own amusement. All the money he earns he uses up in buying. films and developing fluids. He has his pockets full of snapshots that lie has taken of people and places within twenty miles of this town. He started doing it eight years ago when he got a disappointment."</p>
 
@@ -635,7 +759,7 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>When I told Camera Joe about Ferret's death, he shook his head slowly and said:</p>
 
-<p>"I told you, Tommy, that everything changes. The camera is the one thing that fixes a thing for a minute—for a single minute. You can't trust your memory for an instant. No person can describe accurately another person he passes on the road three minutes before; but the camera can. The camera takes down the shape of the features, the cut of the clothes, the walk, everything. Truth doesn't live in the bottom of a well: it lives in the box of a camera, and it looks out of the lens and takes a quick description of everything every time I press the button. Now you've got Ferret with you as long as the picture lasts."</p>
+<p>"I told you, Tommy, that everything changes. The camera is the one thing that fixes a thing for a minutefor a single minute. You can't trust your memory for an instant. No person can describe accurately another person he passes on the road three minutes before; but the camera can. The camera takes down the shape of the features, the cut of the clothes, the walk, everything. Truth doesn't live in the bottom of a well: it lives in the box of a camera, and it looks out of the lens and takes a quick description of everything every time I press the button. Now you've got Ferret with you as long as the picture lasts."</p>
 
 <p>The summer following that, I went to work in the Habway Hotel, which is owned by Mr. Ebenezer Habway, who was president of the Red Mountain and Guinea Hill Branch Line. But, although I was at work, I saw a lot of Camera Joe. I often met him on the road between the hotel and my father's farm, and we would sit together on the roadside, and he would show me scores of snapshots he had taken of persons and of spots of interest that he had seen in his wanderings. He had the pockets of his gray coat filled with prints, and he would exhibit them with the greatest pleasure.</p>
 
@@ -647,7 +771,7 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>"What?" I cried. "Mr. Habway ?"</p>
 
-<p>"Mr. Ebenezer Habway," said Joe. "Only Mr. Habway didn't know he was being photographed. 1 was sitting under the bridge at Beaver Brook, and he came along, whipping the brook for trout. He caught one, Tommy, a regular whopper; and after he had been playing with it for fifteen minutes or so it got away from him. That's when I snapped his picture. The real Mr. Ebenezer Habway showed himself because the imitation Mr. Habway, who is president of the Red Mountain and Guinea Hill Branch Line, didn't think any one was looking at him. Now I know Mr. Habway better than any one else, because I have the real picture of him—the real picture of him, Tommy. His soul was in fleshings when that trout got away; and it doesn't look nice, does it?"</p>
+<p>"Mr. Ebenezer Habway," said Joe. "Only Mr. Habway didn't know he was being photographed. 1 was sitting under the bridge at Beaver Brook, and he came along, whipping the brook for trout. He caught one, Tommy, a regular whopper; and after he had been playing with it for fifteen minutes or so it got away from him. That's when I snapped his picture. The real Mr. Ebenezer Habway showed himself because the imitation Mr. Habway, who is president of the Red Mountain and Guinea Hill Branch Line, didn't think any one was looking at him. Now I know Mr. Habway better than any one else, because I have the real picture of himthe real picture of him, Tommy. His soul was in fleshings when that trout got away; and it doesn't look nice, does it?"</p>
 
 <p>I told father about Camera Joe's picture of Mr. Ebenezer Habway, and he was much interested.</p>
 
@@ -683,7 +807,7 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>Joe laughed, waved his hand to me, and walked off towards the hills, swinging his camera in his right hand as he walked. I stood and looked after him till he reached the corner; then he turned and saw me, and he seemed glad and waved again. I thought of Aunt Maria Metham, and was pleased that mother and she had quarreled.</p>
 
-<p>Camera Joe went away for a long trip that day—away out to Dill River and over the trails up to Hanging Bend and Sweetwater. And while he was away I was promoted to the post of assistant to Mr. Griswold, the counter clerk. The new job kept me busy and I had longer hours, and for a while I had little time to think of Camera Joe.</p>
+<p>Camera Joe went away for a long trip that dayaway out to Dill River and over the trails up to Hanging Bend and Sweetwater. And while he was away I was promoted to the post of assistant to Mr. Griswold, the counter clerk. The new job kept me busy and I had longer hours, and for a while I had little time to think of Camera Joe.</p>
 
 <p>AND then, one day, a terrible thing happened. A freight train on the Red Mountain and Guinea Hill Branch Line ran into a passenger train and smashed a day-coach to pieces. One man was killed and nine other passengers were injured: and Will Grant, the engineer of the freight train, was placed under arrest.</p>
 
@@ -731,7 +855,7 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>He looked so terrified and upset that I led him over behind the freight-shed and sat him down on a crate. He was trembling and there were tears in his eyes.</p>
 
-<p>"Don't go away, Tommy," he said. "Don't—don't leave me! Help me to find my camera! Tommy, my father gave it to me, and if I lost it I'd die."</p>
+<p>"Don't go away, Tommy," he said. "Don'tdon't leave me! Help me to find my camera! Tommy, my father gave it to me, and if I lost it I'd die."</p>
 
 <p>"We'll find it, Joe," I said. "You just try and think where you put it down."</p>
 
@@ -753,9 +877,9 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>"Then Will Grant's train must have passed you as it came towards the depot?" I said.</p>
 
-<p>"It did," he answered. "I was standing near the— Tommy! Tommy! I know where I left my camera! Take me up the tracks, Tommy! I feel all shaky and broken up."</p>
+<p>"It did," he answered. "I was standing near the Tommy! Tommy! I know where I left my camera! Take me up the tracks, Tommy! I feel all shaky and broken up."</p>
 
-<p>WENT with him up the bend of the hill down which the heavy freight train had rolled just before it dashed into the passenger, and I was sorry for Camera Joe. He looked weak and frail, and his face and hands were like the face and hands of a man who has been on a starvation allowance for a long, long time. His clothes, too, were very shabby, and his shoes had holes in them. But he tried to smile as we walked up the hill,—the same sweet, childish smile,—and once he stopped and looked down at me.</p>
+<p>WENT with him up the bend of the hill down which the heavy freight train had rolled just before it dashed into the passenger, and I was sorry for Camera Joe. He looked weak and frail, and his face and hands were like the face and hands of a man who has been on a starvation allowance for a long, long time. His clothes, too, were very shabby, and his shoes had holes in them. But he tried to smile as we walked up the hill,the same sweet, childish smile,and once he stopped and looked down at me.</p>
 
 <p>"You'd be sorry if I lost the camera, Tommy," he said, a little gasp of fear in his voice. "Remember how I took the picture of your dog Ferret, that day at Keepsake Pond ?"</p>
 
@@ -763,11 +887,11 @@ the Skeevale Road one hot August morning as I was walking out to Ed Dekker's pon
 
 <p>He led me over to a clump of sumac bushes, and turned his face towards Red Mountain. For a long minute he stood without speaking. Then the look upon his face changed, and the old smile swept over his features. He gripped my arm tightly and gave a kind of joyous cry.</p>
 
-<p>"Tommy! Tommy!" he shouted. "It all comes back to me, now that I see Red Mountain and the tracks. Why, Tommy, I was standing here—right here—when the freight came out of the tunnel with the white smoke trailing over her like a great plume, and I said to myself, 'Joe, there's a picture.' And, Tommy, I opened up the camera and took it. Strange 1 should forget it, isn't it? I took the freight as it came rolling down the grade, and—and was standing here with the camera in my hands when I heard the smash. It was a dreadful smash, Tommy. I—I--"</p>
+<p>"Tommy! Tommy!" he shouted. "It all comes back to me, now that I see Red Mountain and the tracks. Why, Tommy, I was standing hereright herewhen the freight came out of the tunnel with the white smoke trailing over her like a great plume, and I said to myself, 'Joe, there's a picture.' And, Tommy, I opened up the camera and took it. Strange 1 should forget it, isn't it? I took the freight as it came rolling down the grade, andand was standing here with the camera in my hands when I heard the smash. It was a dreadful smash, Tommy. II--"</p>
 
 <p>He stopped and looked around helplessly. Then he gave a wild cry and flung himself forward on the soft grass. His two hands clutched the camera, and he put it to his lips as he got to his feet.</p>
 
-<p>"Look at it, Tommy!" he cried. "I must have dropped it when I heard the smash. I dropped it and ran towards the depot. But it waited for me—waited for Joe to come back to it."</p>
+<p>"Look at it, Tommy!" he cried. "I must have dropped it when I heard the smash. I dropped it and ran towards the depot. But it waited for mewaited for Joe to come back to it."</p>
 
 <p>He stepped towards me and took my hand.</p>
 
@@ -809,7 +933,7 @@ Photograph front Robert H. Moniton
 
 Photograph from Bertha H. Smith.
 
-<p>MRS. LEO H. F. WANNER'S trained police' dogs brought her an appointment as special police officer last year by the chief at Hempstead, New York. A gang of burglars haft been operating at Bay Shore, and Mrs. Wanner with her dogs ran them down through underbrush and across meadows to a haymow three miles away, where they had taken refuge. More recently the training of Red Cross dogs has been occupying Mrs. Wanner. Poor old Fido, who never does anything more useful than turning up  for meals and irritating the cat—you should worry, old boy.</p>
+<p>MRS. LEO H. F. WANNER'S trained police' dogs brought her an appointment as special police officer last year by the chief at Hempstead, New York. A gang of burglars haft been operating at Bay Shore, and Mrs. Wanner with her dogs ran them down through underbrush and across meadows to a haymow three miles away, where they had taken refuge. More recently the training of Red Cross dogs has been occupying Mrs. Wanner. Poor old Fido, who never does anything more useful than turning up  for meals and irritating the catyou should worry, old boy.</p>
 
 International Film Service, Inc
 
@@ -896,7 +1020,7 @@ BEGIN YOUR GARDEN EARLY
 
 <p>The corn must be placed where its waving stalks will not cheat the other inhabitants of their fair share of light and air.</p>
 
-<p>Make generous allowance for the lettuce bed—one that will last all summer by planting new ground and replanting on the old. Then draw a series of circles and mark them for the cucumber hills. To provide the dinner dessert, give the melon patch all the space you can on your mid-winter paper plan. Then add a few more square feet to that, and, finally, leave a marginal strip for a strawberry bed.</p>
+<p>Make generous allowance for the lettuce bedone that will last all summer by planting new ground and replanting on the old. Then draw a series of circles and mark them for the cucumber hills. To provide the dinner dessert, give the melon patch all the space you can on your mid-winter paper plan. Then add a few more square feet to that, and, finally, leave a marginal strip for a strawberry bed.</p>
 
 THERE ARE PEOPLE WHO DON'T DISLIKE BATS
 
@@ -910,7 +1034,7 @@ The face of the hammer-headed bat is complicated if not beautiful.
 
 WAR-TIME ECONOMIES
 
-© International Film Service, Inc.
+ International Film Service, Inc.
 
 The new golf course at Palm Beach, just opened, cost $500,000 to lay out. This picture shows Walter Travis christening the third hole.
 
@@ -975,7 +1099,7 @@ BLONDS ARE NATURAL FIGHTERS
 
 <p>ARE you a blond ? If so, you are probably robust physically, with a good digestion and a huge appetite. You are domineering, optimistic, fearless, and fond of change. Your mind is progressive and creative, and likely to be irreligious. Dr. Katherine M. H. Blackford and Arthur Newcomb, in The Job, the Man, the Boss, analyze the characteristics that go with different physical types. The blond race of men have evolved in the rigorous climates of the North, and in them the qualities dominated that make for survival.</p>
 
-<p>Brunets have developed in comfortable climates where the struggle for life is comparatively simple. Consequently they have failed to develop the more aggressive, adventuresome traits of character. Havelock Ellis says that in a psy- chological survey of the population of Norway brunets as a class "abhor war, and are very religious, subscribing to foreign missions nearly three times as much per head as is furnished by fair people. The fair people value money and all that money can buy, while the dark people are indifferent to money. The reality of mental distinction is shown by the fact that in elections to the Storthing (the Norwegian parliament) the conservative majority was found in the dark districts. While the fair population is the most irreligious and progressive, the dark population •is by no means behind in the production of intellect."</p>
+<p>Brunets have developed in comfortable climates where the struggle for life is comparatively simple. Consequently they have failed to develop the more aggressive, adventuresome traits of character. Havelock Ellis says that in a psy- chological survey of the population of Norway brunets as a class "abhor war, and are very religious, subscribing to foreign missions nearly three times as much per head as is furnished by fair people. The fair people value money and all that money can buy, while the dark people are indifferent to money. The reality of mental distinction is shown by the fact that in elections to the Storthing (the Norwegian parliament) the conservative majority was found in the dark districts. While the fair population is the most irreligious and progressive, the dark population is by no means behind in the production of intellect."</p>
 
 DON'T BE A NERVOUS PARENT
 
@@ -999,13 +1123,13 @@ By BERNADINE HILTY
 
 <p>AW, gee, I wisht them ol' fog-horns would stop blowin'. Sounds just like some one moanin'; an' gosh, I feel blue enough to-night without them howlin' around down there.</p>
 
-<p>I ain't never been no Jane for showin' feelin's. I've always had the sand to buck it off. But aw, to-night I'm wopped between the lamps. I got to git this off' my chest—it's jist bustin' me. Don't git me wrong. I ain't no weak mouth; but I ain't got no mother, never had no father, ain't got nobody to spill to— But he left tonight—had to beat it to France or somewhere wid de army. Course I knowed he was billed to go sometime, but ain't it funny you don't seem to feel it in your bones that they are sure goin' till—bang! They're gone.</p>
+<p>I ain't never been no Jane for showin' feelin's. I've always had the sand to buck it off. But aw, to-night I'm wopped between the lamps. I got to git this off' my chestit's jist bustin' me. Don't git me wrong. I ain't no weak mouth; but I ain't got no mother, never had no father, ain't got nobody to spill to But he left tonighthad to beat it to France or somewhere wid de army. Course I knowed he was billed to go sometime, but ain't it funny you don't seem to feel it in your bones that they are sure goin' tillbang! They're gone.</p>
 
-<p>To-night Sam came steppin' up. That's his name—Sam. Gosh, I just love that name. Well, Sam comes up. Gee! you ought to see Sam; he is the grandest lookin' guy you ever lamped—all shoulders an' no waist. Say, all the skirts on de coast wuz crazy for him, an' gosh, he grabs me an' sticks.</p>
+<p>To-night Sam came steppin' up. That's his nameSam. Gosh, I just love that name. Well, Sam comes up. Gee! you ought to see Sam; he is the grandest lookin' guy you ever lampedall shoulders an' no waist. Say, all the skirts on de coast wuz crazy for him, an' gosh, he grabs me an' sticks.</p>
 
 <p>Well, Sam he comes up an' says, "Honey kid, I's got some headlines in big print. To-morrow we are off for de big fight. We've bin called into service."</p>
 
-<p>"Aw, Sam—Sam honey, to-morrow?" I says.</p>
+<p>"Aw, SamSam honey, to-morrow?" I says.</p>
 
 <p>Then I felt myself kinda slippin', so I puts on the brakes. I ain't no sob artist like them swell dames up the drag. It's a bunch of nerve an' grit I's got. down an' chewed the rag about then he sed:</p>
 
@@ -1021,11 +1145,11 @@ By BERNADINE HILTY
 
 <p>An' I says: "Sam, I ain't never heard no swell prayers, an' I don't know the real way they do it; but if God will listen to me say it my own way, without no frills or fancy kneelin', oh gosh, Sam, I'll beg Him to take care of yer, darlin'."</p>
 
-<p>Then I pulled him up, an' I sat on his lap. We tried to kid a little—you know, when your heart is achin', you try to act it ain't at all.</p>
+<p>Then I pulled him up, an' I sat on his lap. We tried to kid a littleyou know, when your heart is achin', you try to act it ain't at all.</p>
 
-<p>Purty soon I thought of somethin'. On my finger I had a ring—no sets or glass: jist a big ring wid a lot of carvin's on it. It wuz my mother's—I ain't never had it off, hungry or no hungry. But I took it off my mit, an' slipped it on Sam's little finger, an' sed: "Sam darlin', I want you to wear this li'l' ring of mine; an' at night, when yer down in them trenches in 'No Man's Land,' an' you're feelin' purty lonesome, just touch this li'l' ring, an' you will know I am wid you, kid, lovin' you an' thinkin' about my Sam."</p>
+<p>Purty soon I thought of somethin'. On my finger I had a ringno sets or glass: jist a big ring wid a lot of carvin's on it. It wuz my mother'sI ain't never had it off, hungry or no hungry. But I took it off my mit, an' slipped it on Sam's little finger, an' sed: "Sam darlin', I want you to wear this li'l' ring of mine; an' at night, when yer down in them trenches in 'No Man's Land,' an' you're feelin' purty lonesome, just touch this li'l' ring, an' you will know I am wid you, kid, lovin' you an' thinkin' about my Sam."</p>
 
-<p>He kissed the li'l' ring—gosh! it wuz regular Francis X. an' Mary Pickford stuff; only dis wuz the real thing: we wuz jist about breakin' our hearts in that WI' sketch.</p>
+<p>He kissed the li'l' ringgosh! it wuz regular Francis X. an' Mary Pickford stuff; only dis wuz the real thing: we wuz jist about breakin' our hearts in that WI' sketch.</p>
 
 <p>Then Sam looked at the Big Ben an' sed, "Gosh, I gotta be goin', honey."</p>
 
@@ -1033,7 +1157,7 @@ By BERNADINE HILTY
 
 <p>I stood an' watched him; but this rambleshackle palace ain't set in grounds, so I could only see him goin' down the hall.</p>
 
-<p>I AIN'T much fer size,—never weighed a  hundred in my life: jist a li'l' rat,—but I've got to stick out my chest an' buck up. But before I git so fresh wid myself I'm goin' to have a good ol' bawl all to myself, an' I'm not goin' to leave none fer tomorrow. I'm gonna go down to de water early in de mornin', an' I might lamp 'em when they're sailin' away. None of de gang has never saw me bawl yet, an' they ain't a-goin' to now.</p>
+<p>I AIN'T much fer size,never weighed a  hundred in my life: jist a li'l' rat,but I've got to stick out my chest an' buck up. But before I git so fresh wid myself I'm goin' to have a good ol' bawl all to myself, an' I'm not goin' to leave none fer tomorrow. I'm gonna go down to de water early in de mornin', an' I might lamp 'em when they're sailin' away. None of de gang has never saw me bawl yet, an' they ain't a-goin' to now.</p>
 
 <p>Gosh! I wisht them ol' fog-horns would stop blowin': they'd make any guy shaky.</p>
 
@@ -1051,17 +1175,17 @@ SALVAGE--By Hugh Pendexter
 
 <p>"Ain't you Jim Stutler?" she impatiently repeated, rising.</p>
 
-<p>"Sure," he mumbled. "Thought you was—"</p>
+<p>"Sure," he mumbled. "Thought you was"</p>
 
 <p>"Thought I was Kelly, the officer man," she completed, kicking off her snowshoes, one of which was broken, and removing a pack from her back. "I'm Finch Manners' girl, 'Lizbeth. He calculated you'd be here."</p>
 
-<p>"Oh! Manners' girl—'Lizbeth," he slowly repeated, closing the door. "To be sure. Your pa didn't happen to know I was hurt?"</p>
+<p>"Oh! Manners' girl'Lizbeth," he slowly repeated, closing the door. "To be sure. Your pa didn't happen to know I was hurt?"</p>
 
 <p>"How could he, seeing he ain't seen you ? He got your word you was coming, with that Kelly on your trail. He calculated you'd hide up here. Hurt much ?"</p>
 
 <p>He stared fixedly at her red and white face, noting every detail of her slim figure from the top of her white toque to the tips of her small moccasins. She became restless under his steady scrutiny, and he shifted his gaze, remarking: "Had my gun ready for Kelly. Twisted my ankle in crossing a windfall. Hived up here two days. Help me to the bunk."</p>
 
-<p>She hesitated, glancing from his bold face• to the improvised crutch; then she shrugged her slim shoulders and aided him to cross the room. Removing her toque and mackinaw, she informed him: "I brought grub in the pack all cooked, except the bacon. I'd have missed the camp if not for your light. Busted a shoe just as I got here."</p>
+<p>She hesitated, glancing from his bold face to the improvised crutch; then she shrugged her slim shoulders and aided him to cross the room. Removing her toque and mackinaw, she informed him: "I brought grub in the pack all cooked, except the bacon. I'd have missed the camp if not for your light. Busted a shoe just as I got here."</p>
 
 <p>"The lamp will catch Kelly's eye," he said, and made to extinguish the flame.</p>
 
@@ -1103,9 +1227,9 @@ SALVAGE--By Hugh Pendexter
 
 <p>She glided close to the bunk, trembling with passion.</p>
 
-<p>"Be careful, Stutler. I've brought you food and the warning that Kelly is after you. That lets me out. Father's mixed up with you because he happens to live on the Canadian border and you put him up to it. But he shows he's ashamed of it by never bringing any of his 'friends' home for me to see. Why did you come up here, when you had the whole State of Maine to hide in? If you're scared of this Kelly—"</p>
+<p>"Be careful, Stutler. I've brought you food and the warning that Kelly is after you. That lets me out. Father's mixed up with you because he happens to live on the Canadian border and you put him up to it. But he shows he's ashamed of it by never bringing any of his 'friends' home for me to see. Why did you come up here, when you had the whole State of Maine to hide in? If you're scared of this Kelly"</p>
 
-<p>"I ain't scared of Kelly. if I hadn't twisted my ankle— Oh, what's the use of fighting, you 'n' me? Do you want to make some real money for yourself? That pretty face would get you across the line any time. Eh?"</p>
+<p>"I ain't scared of Kelly. if I hadn't twisted my ankle Oh, what's the use of fighting, you 'n' me? Do you want to make some real money for yourself? That pretty face would get you across the line any time. Eh?"</p>
 
 <p>"No."</p>
 
@@ -1119,7 +1243,7 @@ SALVAGE--By Hugh Pendexter
 
 <p>"Would father have to go to prison ?" she whispered.</p>
 
-<p>"If I let on he was in the game—yes."</p>
+<p>"If I let on he was in the gameyes."</p>
 
 <p>This time she did not resist as he took her hand and drew her down to the edge of the bunk. He read her agonized thoughts and comforted:</p>
 
@@ -1131,7 +1255,7 @@ SALVAGE--By Hugh Pendexter
 
 <p>"I am bad. Couldn't you ever like a bad man ?"</p>
 
-<p>She shook her head sadly.  "Only father. And he never could be bad—only weak."</p>
+<p>She shook her head sadly.  "Only father. And he never could be badonly weak."</p>
 
 <p>"My promise holds.  The bacon's burning," he said roughly.</p>
 
@@ -1142,15 +1266,15 @@ SALVAGE--By Hugh Pendexter
 
 
 
-<p>He had shot a man—which was very wrong. But he had only wounded him. He looked much younger with his features in repose; and the mothering instinct took possession of her. As she was studying him his eyes flew open, and he advised her harshly:</p>
+<p>He had shot a manwhich was very wrong. But he had only wounded him. He looked much younger with his features in repose; and the mothering instinct took possession of her. As she was studying him his eyes flew open, and he advised her harshly:</p>
 
 <p>"'Lizbeth, never do anything crooked."</p>
 
-<p>"I—I haven't."</p>
+<p>"II haven't."</p>
 
 <p>"Come and tell me about yourself. Don't fetch the knife. Use this." And he tossed the revolver to the head of the bunk.</p>
 
-<p>"I ain't afraid—now," she said, sitting beside him and brushing the weapon away. "I haven't anything to tell. Woods, lumber-jacks, winter schooling at the Forks."</p>
+<p>"I ain't afraidnow," she said, sitting beside him and brushing the weapon away. "I haven't anything to tell. Woods, lumber-jacks, winter schooling at the Forks."</p>
 
 <p>"And I can't talk about myself." He smiled grimly. "That leaves us books. Ever read any of Barrie's?"</p>
 
@@ -1182,7 +1306,7 @@ SALVAGE--By Hugh Pendexter
 
 <p>She gaped blankly.</p>
 
-<p>"Why—I'm going home—after you've eaten."</p>
+<p>"WhyI'm going homeafter you've eaten."</p>
 
 <p>"With only one shoe?"</p>
 
@@ -1269,9 +1393,9 @@ SALVAGE--By Hugh Pendexter
 		
 
 
-<p>were plugging away in the factory, increasing their wages a few dollars each week, the other boys were spending their days and evenings over their school books, in many cases taking technical courses. But a strange thing happened when this second group entered the factory. Both groups were now the same age—eighteen. But the first year's earnings of the high- school boys were larger than the fourth year's earnings of those who had abandoned their books at the end of grammar school. The second group drew, on an average, $525 each; while the first, as already said, pocketed only $375.</p>
+<p>were plugging away in the factory, increasing their wages a few dollars each week, the other boys were spending their days and evenings over their school books, in many cases taking technical courses. But a strange thing happened when this second group entered the factory. Both groups were now the same ageeighteen. But the first year's earnings of the high- school boys were larger than the fourth year's earnings of those who had abandoned their books at the end of grammar school. The second group drew, on an average, $525 each; while the first, as already said, pocketed only $375.</p>
 
-<p>As years went on the situation became even more discouraging. For the high- school boys began to go ahead at a much more rapid rate than their old-time associates. The fourteen-year-old class reached their high-water mark at twenty- five, when they were earning $65o a year. By the time they were twenty-five the high-school graduates were getting $1550 —$900 a year more than the less prosperous grammar-school boys. And whereas the latter had reached their limit, the former had their greatest possibilities still ahead of them. Naturally, the grammar-school boys contained some exceptional men who progressed beyond this average; yet the record shows that there were only two per cent who attained important positions.</p>
+<p>As years went on the situation became even more discouraging. For the high- school boys began to go ahead at a much more rapid rate than their old-time associates. The fourteen-year-old class reached their high-water mark at twenty- five, when they were earning $65o a year. By the time they were twenty-five the high-school graduates were getting $1550 $900 a year more than the less prosperous grammar-school boys. And whereas the latter had reached their limit, the former had their greatest possibilities still ahead of them. Naturally, the grammar-school boys contained some exceptional men who progressed beyond this average; yet the record shows that there were only two per cent who attained important positions.</p>
 
 <p>The Brooklyn Teachers' Association investigated the salaries received by graduates of elementary schools and by others who stopped school before graduation.</p>
 
@@ -1283,13 +1407,13 @@ SALVAGE--By Hugh Pendexter
 
 <p>An investigation conducted among girls employed in New York factories disclosed a similar state of affairs.</p>
 
-<p>The department proves the same thing from the experience of Springfield, Massachusetts. In Geneva, Wisconsin, Minneapolis, Tompkins County, New York, and four selected agricultural areas in Indiana, Illinois, and Iowa—everywhere the lesson is the same. Every day after fourteen spent in school has a distinct, calculable money value. The experience of Johnson County, Missouri, strikes a body blow at one of the most cherished institutions of America—the district school. The little red school-house can not compare with the high schools of the agricultural colleges.</p>
+<p>The department proves the same thing from the experience of Springfield, Massachusetts. In Geneva, Wisconsin, Minneapolis, Tompkins County, New York, and four selected agricultural areas in Indiana, Illinois, and Iowaeverywhere the lesson is the same. Every day after fourteen spent in school has a distinct, calculable money value. The experience of Johnson County, Missouri, strikes a body blow at one of the most cherished institutions of Americathe district school. The little red school-house can not compare with the high schools of the agricultural colleges.</p>
 
 <p>The better educated farmers operated 33 per cent more land than graduates of district schools and owned four fifths of the land they operated, against the three fifths owned by the product of the old "democratic" system. They kept one sixth more stock, worked 14 per cent more land per workman, and earned 71 per cent more clear income a year. "While other factors," says Professor 0. R. Johnson, who made this survey, "may have played some part in his greater earning capacity, yet from a careful study of the organization of the farmer's business it appears that education must have played a very large part in his greater earning capacity."</p>
 
 <p>Clearly, it does not pay to leave school at fourteen, whatever occupation you choose to follow. But this investigation of the education department has a greater surprise still. This is, that the graduate of an American college is not necessarily predestined to failure, even from a financial point of view. "Four years at college is all right if you've got the time," the efficient business man says; "but it will not help you to get ahead. That four years is a waste of time. If you spend it learning a business, instead of studying Latin and Greek" (as a matter of fact, few college men do study Greek), "you will get ahead that much faster."</p>
 
-<p>But the investigation under consideration has apparently laid that ghost. Mr. Claxton has disproved the business man's argument by calling that same business man as a witness, and judging success according to his own standard. He says: "Mr. Business Man, to whom do you pay the higher salaries—to the college graduates in your employ or to the non-college graduates ?" And the record shows that the Bachelors of Arts draw the bulkiest pay envelops. The salaries of Princeton graduates for the first year amount to $706, for the next to $2039.42, and for the third to $3804. The Yale man averages $2040 after five years out of college.</p>
+<p>But the investigation under consideration has apparently laid that ghost. Mr. Claxton has disproved the business man's argument by calling that same business man as a witness, and judging success according to his own standard. He says: "Mr. Business Man, to whom do you pay the higher salariesto the college graduates in your employ or to the non-college graduates ?" And the record shows that the Bachelors of Arts draw the bulkiest pay envelops. The salaries of Princeton graduates for the first year amount to $706, for the next to $2039.42, and for the third to $3804. The Yale man averages $2040 after five years out of college.</p>
 
 <p>Everybody knows that the average uneducated man does not earn an income of this size, whatever individual cases of greater financial success there may be. The whole report shows, indeed, that education brings a higher financial return the higher it goes. The graduates of grammar schools earn more than those boys and girls who do not get even this much education; the high-school boys earn more money than those who have passed the elementary grades; and the college graduates earn more than high-school students.</p>
 
@@ -1319,7 +1443,7 @@ This is Her Week
 
 <p>The estate of Frederick William III and Queen Louise at this time was even more pathetic than that of the King and Queen of Belgium to-day.</p>
 
-<p>The Queen had but two gowns—a day gown and a court dress; nor would she purchase any other until she knew that better times were in store for her country.</p>
+<p>The Queen had but two gownsa day gown and a court dress; nor would she purchase any other until she knew that better times were in store for her country.</p>
 
 <p>Louise was a queenly queen and Fred- erick William was a kingly king. Once when a count and a shoemaker were announced at the same time at their court, Louise gave orders that the shoemaker be received first. "The mechanic's time is more valuable," she said.</p>
 
@@ -1344,9 +1468,9 @@ Introducing the Doll Library
 
 <p>John Cotton Dana, director of the Newark Museum Association, is father of the idea. His dolls represent every period in our history and most of the nations of the world.</p>
 
-Camera Joe—Continued from page 10
+Camera JoeContinued from page 10
 
-<p>didn't know me when I said "Good morning" and touched my hat to her. And I was a little pleased, although there had been an accident—pleased because I had helped Camera Joe to find the camera with which he had taken the picture of Ferret at Keepsake Pond.</p>
+<p>didn't know me when I said "Good morning" and touched my hat to her. And I was a little pleased, although there had been an accidentpleased because I had helped Camera Joe to find the camera with which he had taken the picture of Ferret at Keepsake Pond.</p>
 
 <p>MR. GRISWOLD, the counter clerk, was angry when I reached the hotel. He asked me why I had not returned with Gannon and Herbert; so I explained how I had walked up the hill to help Camera Joe find his camera.</p>
 
@@ -1360,7 +1484,7 @@ Camera Joe—Continued from page 10
 
 <p>"Yes, sir," I said.</p>
 
-<p>There was a little silence then, •as Mr. Habway lighted his cigar.</p>
+<p>There was a little silence then, as Mr. Habway lighted his cigar.</p>
 
 <p>"You're a friend of Camera Joe, are you not ?" he asked.</p>
 
