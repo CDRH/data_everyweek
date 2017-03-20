@@ -1,28 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180316">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 16, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180316</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-03-16">March 16, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-03-20"><name>Erin Dwiggins</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
-This is His Week
+<pb n="Cover" xml:id="ew.issue.19180316.p001" />
 
+<front>
+            
+<titlePage>
+<docTitle>
+<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address/</note>
+<note>&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cts.</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>March 16, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<p></p>
+<ab type="credit">Robt. Robinson</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180316.p002"/>
+
+<text type="nonfiction" xml:id="week.19180316">
+<body>
+
+<head type="main">This is His Week</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
 <p>David Livingstone was born in the Scotch Highlands, March 19, 1813. To him alone must credit be given for "tearing the veil from the Dark Continent." He died in 1873, while searching for the source of the Nile.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
 
 <p>HE was a poor Scotch boy in a Glasgow cotton mill; but, while his fingers were busy at the looms, his mind was making far-away pictures of untrod lands. When he was ten years old the determination came to him to become an explorer. The ambition was not realized until he was twenty-seven, when the London Missionary Society sent him out to Africa as a medical missionary. He had been studying medicine for nine years, "out of hours," to fit himself for this work.</p>
 
-<p>Livingstone arrived in Africa in 184o. He worked ten years as a missionary, however, before he began his explorations. He learned to know the natives, and he learned to know the language, Meanwhile he listened to rumors of undiscovered lakes and mighty rivers the white man had never seen—splendid waterways and mountains that lay "beyond."</p>
+<p>Livingstone arrived in Africa in 1840. He worked ten years as a missionary, however, before he began his explorations. He learned to know the natives, and he learned to know the language, Meanwhile he listened to rumors of undiscovered lakes and mighty rivers the white man had never seen&#8212;splendid waterways and mountains that lay "beyond."</p>
 
 <p>These ten years, he tells us, were spent "building, gardening, cobbling, doctoring, tinkering, carpentering, gun-mending, farriering, wagon-mending, preaching, schooling, lecturing on physics, and holding down a chair in divinity to a college of three!" He saw things too, that saddened his soul in these ten years. He caught glimpses of gangs of slaves; he knew that deadly fevers lurked in the loveliest surroundings, and killed overnight; and everywhere was black superstition which must be fought.</p>
 
-<p>To explore Africa was a gigantic undertaking, but nothing was too dangerous for the staunch heart of Livingstone. The natives were, in the main, friendly; but traders regarded him as an inquisitive, over- busy missionary, and the slave-dealers hated and feared him because he had begun to make war upon this traffic.</p>
+<p>To explore Africa was a gigantic undertaking, but nothing was too dangerous for 
+
+<cb n="2"/>
+
+the staunch heart of Livingstone. The natives were, in the main, friendly; but traders regarded him as an inquisitive, over-busy missionary, and the slave-dealers hated and feared him because he had begun to make war upon this traffic.</p>
 
 <p>For the rest of his life, after this, save for brief returns to civilization, Livingstone was cut off from home, wife, children, friends. After discovering Lake Ngami and the Zambezi River, he paid a visit to England to sever his connection with the London Missionary Society. He was indifferent to the honors that fashionable London tried to heap upon him; anxious only to get back to the Africa that fascinated him more than fame or glory.</p>
 
-<p>After discovering the Victoria Falls he became obsessed with the desire to locate the source of the Nile. He was gone so long that all England thought him dead, and the New York Herald sent out a relief,- expedition, headed by H. M. Stanley, to look for him. These were years of fever, hunger, drought, attacks from wild beasts, and treachery from natives and Arabs alike, for Livingstone. At Nyangwa he located the carefully hidden central slave market of the Arabs, and witnessed a massacre. When Stanley found him, he was being carried on a litter, too weak to walk. He died in May, 1873,—the Nile's source still undiscovered,—and the natives who loved him cut out his, heart and buried it under a tree at Ujiji.</p>
+<p>After discovering the Victoria Falls he became obsessed with the desire to locate the source of the Nile. He was gone so long that all England thought him dead, and the New York <hi rend="italic">Herald</hi> sent out a relief expedition, headed by H. M. Stanley, to look for him. These were years of fever, hunger, drought, attacks from wild beasts, and treachery from natives and Arabs alike, for Livingstone. At Nyangwa he located the carefully hidden central slave market of the Arabs, and witnessed a massacre. When Stanley found him, he was being carried on a litter, too weak to walk. He died in May, 1873,&#8212;the Nile's source still undiscovered,&#8212;and the natives who loved him cut out his, heart and buried it under a tree at Ujiji.</p>
 
-Do Animals Feel Pain?
+</body>
+</text>
 
-<p>THE Dutch physician, G. van Rijnberk, has found that if you cut off the tail (the business end) or even part of the body of the bee, the creature will keep right on sucking honey. The twitching of the skin of a horse is probably not in response to a pain sensation, but a reflex action, which would occur even if communication with the brain were cut off—just as, when you tickle the body of a frog that has had its head cut off, it will raise its leg to push away your finger.</p>
+<text type="nonfiction" xml:id="huber.19180316">
+<body>
 
-<p>Quite serious operations can be done on large grain-feeding domestic animals while they are feeding 'and they continue their meal uninterruptedly. In our Civil War it was more than once observed that badly wounded horses cropped grass, if it happened to be within reach.</p>
+<head type="main">Do Animals Feel Pain?</head>
 
-<p>Van Rijnberk has found also that dogs, cats, and rabbits, after severe operations, are as lively and frolicsome as they ever were, as soon as the effect of the ether has passed off. I was once invited to witness a laboratory operation on a dog that had been in the hospital for some time. His whole right lung was removed. Being interested in the success of this operation, I called next day. After some time the dog was discovered engaged with unimpaired vigor in his customary occupation of chasing the hospital cat.</p>
+<cb n="1"/>
+
+<p>THE Dutch physician, G. van Rijnberk, has found that if you cut off the tail (the business end) or even part of the body of the bee, the creature will keep right on sucking honey. The twitching of the skin of a horse is probably not in response to a pain sensation, but a reflex action, which would occur even if communication with the brain were cut off&#8212;just as, when you tickle the body of a frog that has had its head cut off, it will raise its leg to push away your finger.</p>
+
+<p>Quite serious operations can be done on large grain-feeding domestic animals while they are feeding and they continue their meal uninterruptedly. In our Civil War it was more than once observed that badly wounded horses cropped grass, if it happened to be within reach.</p>
+
+<p>Van Rijnberk has found also that dogs, cats, and rabbits, after severe operations, are as lively and frolicsome as they ever were, as soon as the effect of the ether 
+
+<cb n="2"/>
+
+has passed off. I was once invited to witness a laboratory operation on a dog that had been in the hospital for some time. His whole right lung was removed. Being interested in the success of this operation, I called next day. After some time the dog was discovered engaged with unimpaired vigor in his customary occupation of chasing the hospital cat.</p>
 
 <p>Even in man, the pain sensation appears to be restricted largely to the bodily surface, being a protective phenomenon. It is a question, indeed, whether sound organs in the chest or abdomen are sensitive to pain.</p>
 
@@ -30,17 +163,33 @@ Do Animals Feel Pain?
 
 <p>Which leaves us just about where we started.</p>
 
-<p>JOHN B. HUBER, M. D.</p>
+<byline><persName type="author" key="#Huber, John B.">JOHN B. HUBER</persName>, M. D.</byline>
 
-Cripples That Should Not Be
+</body>
+</text>
 
-<p>MANY men and women are per- manently crippled from rheuma- tism who never ought to be. The germ that causes the disease, implanting itself in unhealthy tonsils and upper air passages, in catarrhal middle ears, in tooth cavities, in an inflamed appendix, or in any other focus of infection, gets past such insecure defenses into the blood and lymph channels, and so establishes its colonies in the various joints, the heart tissues, the pleural cavity (in which lie the lungs), and other vital but vulnerable organs and tissues. Thus in a predisposed system is the rheumatic fever set up— seldom immediately fatal, but ever serious as to its complications.</p>
+<text type="nonfiction" xml:id="cripples.19180316">
+<body>
 
-<p>As is very well explained by Dr. James T. Nix, under the title above, in the New Orleans Medical and Surgical Journal, recovery from an attack of acute rheumatism leaves the sufferer far from unscathed. For the irritant inflammation has invaded the delicate membranes, the ligaments, the cartilages, and the nerves of the joints. With every successive attack of rheumatic fever, fresh insult is offered.</p>
+<head type="main">Cripples That Should Not Be</head>
+
+<cb n="1"/>
+
+<p>MANY men and women are permanently crippled from rheumatism who never ought to be. The germ that causes the disease, implanting itself in unhealthy tonsils and upper air passages, in catarrhal middle ears, in tooth cavities, in an inflamed appendix, or in any other focus of infection, gets past such insecure defenses into the blood and lymph channels, and so establishes its colonies in the various joints, the heart tissues, the pleural cavity (in which lie the lungs), and other vital but vulnerable organs and tissues. Thus in a predisposed system is the rheumatic fever set up&#8212;seldom immediately fatal, but ever serious as to its complications.</p>
+
+<cb n="2"/>
+
+<p>As is very well explained by Dr. James T. Nix, under the title above, in the <hi rend="italic">New Orleans Medical and Surgical Journal</hi>, recovery from an attack of acute rheumatism leaves the sufferer far from unscathed. For the irritant inflammation has invaded the delicate membranes, the ligaments, the cartilages, and the nerves of the joints. With every successive attack of rheumatic fever, fresh insult is offered.</p>
 
 <p>Therefore no first attack of rheumatism should be neglected, nor should any focus of infection in which the disease may lodge be permitted to remain in the body, if it is possible to reach it, by surgery or otherwise.</p>
 
-That Fine Old Fake about the Good Old Days
+</body>
+</text>
+
+<text type="editorial" xml:id="barton1.19180316">
+<body>
+
+<head type="main">That Fine Old Fake about the Good Old Days</head>
 
 <p>SEVERAL years ago I had a talk with a veteran of the Civil War.</p>
 
@@ -56,7 +205,7 @@ That Fine Old Fake about the Good Old Days
 
 <p>And the poor old country that he worried about has nothing but those thoughtless boys to depend on.</p>
 
-<p>Nothing but those thoughtless boys—indeed. Yesterday I picked up the local paper from that town, and there were their pictures—hundreds of them, all in uniform.</p>
+<p><hi rend="italic">Nothing but those thoughtless boys&#8212;indeed</hi>. Yesterday I picked up the local paper from that town, and there were their pictures&#8212;hundreds of them, all in uniform.</p>
 
 <p>Transformed overnight from thoughtless boys into men by their country's need. Just as he and his companions were transformed, fifty years ago. The same sort of crisis, the same boy-stuff, and the same glorious result.</p>
 
@@ -64,7 +213,7 @@ That Fine Old Fake about the Good Old Days
 
 <p>The Greeks were subject to it, looking back always to their fabled "Golden Age."</p>
 
-<p>The Hebrews had it also. They worshiped the memory of Abraham-who was dead, and made life miserable for Moses who was alive.</p>
+<p>The Hebrews had it also. They worshiped the memory of Abraham who was dead, and made life miserable for Moses who was alive.</p>
 
 <p>"Woe unto you! because ye build the tombs of the prophets, and garnish the sepulchers of the righteous," said Jesus, "and are yourselves the children of them which killed the prophets."</p>
 
@@ -84,56 +233,79 @@ That Fine Old Fake about the Good Old Days
 
 <p>And I told him that you may guess a man's age by knowing in what direction his eyes are pointed.</p>
 
-<p>Youth looks straight ahead into the future, firm-eyed and confident. Middle age is likely to look to the side, saying to itself : "So-and-So, who walks beside me, seems to be better off than I."</p>
+<p>Youth looks straight ahead into the future, firm-eyed and confident. Middle age is likely to look to the side, saying to itself: "So-and-So, who walks beside me, seems to be better off than I."</p>
 
-<p>But this is the sign of old age—that it looks behind and talks sadly of the "good old days."</p>
+<p>But this is the sign of old age&#8212;that it looks behind and talks sadly of the "good old days."</p>
 
 <p>Let not that baneful sign be fastened on you: let no one convince you that the world does not progress.</p>
 
-<p>For we live, as President Wilson says, in a time that calls for "forward looking men"—men who, looking through the eyes of faith and confidence, can see the coming of the " good old days" just over the next hill-topstraight ahead.</p>
+<p>For we live, as President Wilson says, in a time that calls for "forward looking men"&#8212;men who, looking through the eyes of faith and confidence, can see the <hi rend="italic">coming</hi> of the "good old days" just over the next hill-top&#8212;straight ahead.</p>
 
-<p>Bruce Barton, Editor.</p>
+<byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180316.p003"/>
 
+<text type="nonfiction" xml:id="howe.19180316">
+<body>
 
+<head type="main">THE MOST INTERESTING PERSON I KNOW</head>
 
-THE MOST INTERESTING PERSON I KNOW
+<head type="main">She Has Never Been a Hundred Miles from Home</head>
+<byline>By <persName type="author" key="#Howe, E. W.">E. W. HOWE</persName></byline>
 
-She Has Never Been a Hundred Miles from Home
+<cb n="1"/>
 
-By E. W. HOWE
-
-<p>EVERY year I make a little journey to see the most interesting woman I know: Mrs. Andy White, a farmer's wife, who has
-probably never been a hundred miles from the rural community in which she was born.</p>
+<p>EVERY year I make a little journey to see the most interesting woman I know: Mrs. Andy White, a farmer's wife, who has probably never been a hundred miles from the rural community in which she was born.</p>
 
 <p>Mrs. Andy White is a natural-born lady. I once took a Governor and his wife to see her, and she received them with a gentle graciousness that would have been creditable in any household.</p>
 
-<p>I don't care for Jane Addams, Sara Bernhardt, Susan B. Anthony, Joan of Arc, or Dr. Anna Shaw; but when I am in the presence of Mrs. Andy White I know what gallantry is. If any reader of EVERY WEEK wishes to see her, I will gladly take him out; I want to see her, anyway, and again admire her attitude toward her husband and children—and their attitude toward  her. If all women were like Mrs. Andy White there would be no bachelors.</p>
+<p>I don't care for Jane Addams, Sara Bernhardt, Susan B. Anthony, Joan of Arc, or Dr. Anna Shaw; but when I am in the presence of Mrs. Andy White I know what gallantry is. If any reader of EVERY WEEK wishes to see her, I will gladly take him out; I want to see her, anyway, and again admire her attitude toward her husband and children&#8212;<hi rend="italic">and their attitude toward her</hi>. If all women were like Mrs. Andy White there would be no bachelors.</p>
 
-<p>When I told her EVERY WEEK wanted her picture, she said it must be a mistake; that it was Andy's picture the editor wanted.</p>
+<p>When I told her EVERY WEEK wanted her picture, she said it <hi rend="italic">must</hi> be a mistake; that it was <hi rend="italic">Andy's</hi> picture the editor wanted.</p>
 
 <p>The wonderful Andy! How he is admired by his wife! And he doesn't amount to much. He has been in the legislature, and owns three hundred acres of land in the $150 class, but I know thousands of men equally entitled to admiration from wives who never get it.</p>
 
-<p>Other women I know have a secret opinion of men that causes me to blush; and I have heard them say things indicating that they know us to be a hard lot. The only criticism I ever heard Mrs. Andy White utter of men was that they all like red. This was in connection with a cloak, lined with red, which her husband once bought her. It cost seven dollars; and she wanted to take it back because it seemed extravagant. Think of that, you town payers of dry-goods bills. I haven't been imposed on as much as some others, but I have paid $108 for a suit consisting of one skirt and jacket.</p>
+<p>Other women I know have a secret opinion of men that causes me to blush; and I have 
 
-<p>Mrs. Andy White has a good opinion of men because they have always treated her well— particularly her husband and grown son. Women like Mrs. Andy White are always treated well by men.</p>
+<cb n="2"/>
+
+heard them <hi rend="italic">say</hi> things indicating that they know us to be a hard lot. The only criticism I ever heard Mrs. Andy White utter of men was that they all like red. This was in connection with a cloak, lined with red, which her husband once bought her. It cost seven dollars; and she wanted to take it back because it seemed extravagant. Think of that, you town payers of dry-goods bills. I haven't been imposed on as much as some others, but I have paid $108 for a suit consisting of one skirt and jacket.</p>
+
+<p>Mrs. Andy White has a good opinion of men because they have always treated her well particularly her husband and grown son. Women like Mrs. Andy White are <hi rend="italic">always</hi> treated well by men.</p>
 
 <p>All women were originally of the type of Mrs. Andy White, but we men have made them suspicious. When Andy White married Ida Donaldson as a girl of nineteen, she was so gentle, and had so much respect for him, that he behaved himself.</p>
 
 <p>My heroine had no education beyond that to be obtained in the district school. She doesn't play the piano, or sing, and belongs to no clubs. But she is a great force in her home and neighborhood, although she doesn't know it. She is just a plain good woman, with her home and Andy (her husband) and Emmet and Stella (her children) to look after. And she does it; which is enough, and more than many do.</p>
 
-She has a good opinion of men.
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>She has a good opinion of men.</p>
+<figDesc></figDesc>
+</figure>
 
-Sea-Cook and Philosopher
+</body>
+</text>
 
-By COMMANDER W. A. MOFFETT
+<text type="nonfiction" xml:id="moffett.19180316">
+<body>
 
-He considers a hungry recruit a personal insult.
+<head type="main">Sea-Cook and Philosopher</head>
+<byline>By COMMANDER <persName type="author" key="#Moffett, W. A.">W. A. MOFFETT</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>He considers a hungry recruit a personal insult.</p>
+<figDesc></figDesc>
+</figure>
 
 <p>FOR twenty years or more I've rubbed shoulders with the strangest characters of all lands, to find, finally, right under my nose the most interesting person I have ever met.</p>
 
-<p>Packy Swartz's unromantic calling of galley cook offers poor background for individuality—but his is a personality that will not "blush unseen"; and so Packy has blossomed into the champion of unguessed thousands of Jackies. We no longer regard him as an individual; he is an institution to us.</p>
+<p>Packy Swartz's unromantic calling of galley cook offers poor background for individuality&#8212;but his is a personality that will not "blush unseen"; and so Packy has blossomed into the champion of unguessed thousands of Jackies. We no longer regard him as an individual; he is an institution to us.</p>
 
 <p>Interesting? Theodore Roosevelt asked to be introduced to him; he has entertained the Secretary of the Navy; and there's not a raw recruit in camp whose horizon isn't filled with Packy's bulk.</p>
 
@@ -143,7 +315,7 @@ He considers a hungry recruit a personal insult.
 
 <p>Packy's philosophy is worth repeating.</p>
 
-<p>"A man's backbone is best reached through his stomach," he says; "and when these boys come to me they're in the balance. Whether they are going to like the Navy or not depends entirely upon their first impression. So I try to make them feel at home—and I feed them right. They can talk about a man not, eating when he's in love, but I can prove that's all bosh. A good hot meal is a sure remedy for homesickness, love, or cold feet. Why, a coward would fight a lion if you fed him up to it."</p>
+<p>"A man's backbone is best reached through his stomach," he says; "and when these boys come to me they're in the balance. Whether they are going to like the Navy or not depends entirely upon their first impression. So I try to make them feel at home&#8212;and I feed them right. They can talk about a man not eating when he's in love, but I can prove that's all bosh. A good hot meal is a sure remedy for homesickness, love, or cold feet. Why, a coward would fight a lion if you fed him up to it."</p>
 
 <p>But Packy doesn't stop at feeding them. He's a regular foster-father to the thousands of boys that pass through his hands every month. They stay with him only three weeks before being passed on to the big camp and thence to the Navy; but during that stay Packy stiffens their backbones and, when necessary, puts the fear of discipline in their hearts, too.</p>
 
@@ -151,21 +323,73 @@ He considers a hungry recruit a personal insult.
 
 <p>A three-stripe officer asked him the other day why he didn't climb up to the chief petty officer rank, and then gulped at the answer.</p>
 
-<p>"The woods are full of C. P. 0.'s," said Packy, "but it's darned hard to find a first-class cook."</p>
+<p>"The woods are full of C. P. O.'s," said Packy, "but it's darned hard to find a first-class cook."</p>
+
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19180316.p004"/>
+
+<text>
+<body>
+
+<figure n="advertisement">
+<head>You, too, can have the charm of "A skin you love to touch."</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Woodbury's Facial Soap</figDesc>
+</figure>
+
+</body>
+</text>
 
 
+<pb n="Page 5" xml:id="ew.issue.19180316.p005"/>
 
+<text type="flag">
+<body>
 
-GENERAL MANAGER OF THE UNITED STATES
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 11<lb/>
+March 16, 1918<lb/>
 
-A Little Talk with William Gibbs McAdoo, Secretary of the Treasury and Director-General of the Railroads
+Every Week<lb/>
+"Every word counts"<lb/>
 
-By BRUCE BARTON
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
 
-<p>FIRST of all, I can give the testimony of my own eyes that Secretary McAdoo is not as thin as his pictures make him appear. This is important: there is a popular prejudice against very thin men—a prejudice wholly unfounded, doubtless, yet coining down through history and finding its victims in every age. Julius Caesar was not free from it:</p>
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
 
-<p>Let me have men about me that are fat [he demanded]; Sleek-headed men and. such as sleep o' nights.
-Yond Cassius has a lean and hungry look; He thinks too much: such men are dangerous.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton2.19180316">
+<body>
+
+<head type="main">GENERAL MANAGER OF THE UNITED STATES</head>
+<head type="sub">A Little Talk with William Gibbs McAdoo, Secretary of the Treasury and Director-General of the Railroads</head>
+<byline>By <persName type="author" key="#Barton, Bruce">BRUCE BARTON</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Â© Harris &amp; Ewing</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
+
+<p>FIRST of all, I can give the testimony of my own eyes that Secretary McAdoo is not as thin as his pictures make him appear. This is important: there is a popular prejudice against very thin men&#8212;a prejudice wholly unfounded, doubtless, yet coming down through history and finding its victims in every age. Julius CÃ¦sar was not free from it:</p>
+
+<lg>
+<l>Let me have men about me that are fat [he demanded];</l> 
+<l>Sleek-headed men and such as sleep o' nights.</l>
+<l>Yond Cassius has a lean and hungry look;</l> 
+<l>He thinks too much: such men are dangerous.</l>
+</lg>
 
 <p>One easily recalls to memory such names as Charles the Fat, Charles the Bald, and even Charles the Simple; but of Charles the Thin I do not remember any recorded mention. Nations have somehow hesitated to intrust their destinies to men of too little physical weight: and no one can say how many men of sterling attributes have failed of distinction because of the lack of fifteen or twenty pounds.</p>
 
@@ -189,11 +413,15 @@ Yond Cassius has a lean and hungry look; He thinks too much: such men are danger
 
 <p>It was a long wait for me, but I rather liked it. For one thing, the janitors of the government buildings apparently have not been notified that a war is going on in the world, and I was thoroughly warm for the first time in several days. And it was pleasant, also, to watch the men come and go, and to think of the interesting events that must have taken place behind those walls. What conferences must have been held there in the dark days of the Civil War, when it was a question whether the people would buy enough bonds to keep the country going. What happened there in the panic days of '73? And in those trying hours when Grover Cleveland used to look despairingly at the Treasury statement and wonder where the money was coming from.</p>
 
-<p>Colored attendants stepped in and out with stately tread. We have occasionally had members of the Cabinet of insignificant appearance, who might have been mistaken for doormen; but I have never seen a colored doorman in Washington who, if he were white, would not be mistaken for a member of the Cabinet. Serious- minded, dignified gentlemen they are, moving deliberately and with poise, each carrying on his shoulders the government of the United States.</p>
+<p>Colored attendants stepped in and out with stately tread. We have occasionally had members of the Cabinet of insignificant appearance, who might have been mistaken for doormen; but I have never seen a colored doorman in Washington who, if he were white, would not be mistaken for a member of the Cabinet. Serious-minded, dignified gentlemen they are, moving deliberately and with poise, each carrying on his shoulders the government of the United States.</p>
 
-<p>A great pile of mail lay on the desk of the outer office. From nine o'clock until noon a. private secretary was busy opening it; and whenever he seemed to be nearing the end of the pile, a messenger would arrive with a fresh batch.</p>
+<p>A great pile of mail lay on the desk of the outer office. From nine o'clock until noon a private secretary was busy opening it; and whenever he seemed to be nearing the end of the pile, a messenger would arrive with a fresh batch.</p>
 
-<p>It is the privilege of every citizen to address the President for whom he voted, at any time and on any subject. But recently the impression has gone through the country that the President has a number of matters on his mind these days, and that he does not find time always to answer all the mail addressed to him. What more natural, therefore, than that the citizen should turn to Mr. McAdoo? He is the Secretary of the Treasury, and therefore responsible for the financial troubles of the voters. He is director-general of the railroads, and if coal does not come promptly, or a trunk is lost in transit, or a shipment of eggs arrives in bad condition, he is of course to blame. So people write to him on all sorts of matters. While I was waiting, a lady called up, in great perturbation. She was planning to ship a pet dog from Washington to Houston, Texas, she said, and she would like to have the Secretary give her a priority order, so that little Fido might be sure of getting through safely and on time.</p>
+<p>It is the privilege of every citizen to address the 
+
+<cb n="3"/>
+
+President for whom he voted, at any time and on any subject. But recently the impression has gone through the country that the President has a number of matters on his mind these days, and that he does not find time always to answer all the mail addressed to him. What more natural, therefore, than that the citizen should turn to Mr. McAdoo? He is the Secretary of the Treasury, and therefore responsible for the financial troubles of the voters. He is director-general of the railroads, and if coal does not come promptly, or a trunk is lost in transit, or a shipment of eggs arrives in bad condition, he is of course to blame. So people write to him on all sorts of matters. While I was waiting, a lady called up, in great perturbation. She was planning to ship a pet dog from Washington to Houston, Texas, she said, and she would like to have the Secretary give her a priority order, so that little Fido might be sure of getting through safely and on time.</p>
 
 <p>The mail was opened and divided into two piles. One pile, relating to railroad matters, was to be sent over to the Interstate Commerce Commission, where Mr. McAdoo has another office and another private secretary. No railroad matters in the morning: no Treasury matters in the afternoon. It is thus that he divides himself into two parts and keeps himself from falling under the wheels of the problems that come rolling toward him from all directions.</p>
 
@@ -203,13 +431,19 @@ Yond Cassius has a lean and hungry look; He thinks too much: such men are danger
 
 <p>Mr. McAdoo's father became Professor of English and History in the University of Tennessee at Knoxville, and it was there that the son had his college training. He studied for the law; became, after a few years, one of the counsel for the Southern Railway; and at the age of twenty-nine was president of the Knoxville Street Railway Company.</p>
 
-<p>Those were hard days for the street railways. Electricity was just beginning to displace the horse, and the cost. of electrification was high. Mr. McAdoo, to find funds for his little road, went to New York in 1892; and, liking the atmosphere of the town, opened an office and settled down to practise law.</p>
+<p>Those were hard days for the street railways. Electricity was just beginning to displace the horse, and the cost of electrification was high. Mr. McAdoo, to find funds for his little road, went to New York in 1892; and, liking the atmosphere of the town, opened an office and settled down to practise law.</p>
 
-<p>Thousands of men, riding across the ferries from New Jersey to New York, must have said to themselves: "What a wonderful thing if tunnels could be put under the river, so that the trains might come straight through. What a saving of time if the thousands of commuters could ride to their homes in New Jersey in trains instead</p>
+<p>Thousands of men, riding across the ferries from New Jersey to New York, must have said to themselves: "What a wonderful thing if tunnels could be put under the river, so that the trains might come straight through. What a saving of time if the thousands of commuters could ride to their homes in New Jersey in trains instead </p>
 
-Concluded on page 18
+<p><ref target="barton2.19180316.jump">Concluded on page 18</ref></p>
 
-Mr. McAdoo's Message to Every Week Readers
+</body>
+</text>
+
+<text type="nonfiction" xml:id="mcadoo.19180316">
+<body>
+
+<head type="main">Mr. McAdoo's Message to Every Week Readers</head>
 
 <p>YOU can do something to help the government solve the railroad situation.</p>
 
@@ -223,23 +457,36 @@ Mr. McAdoo's Message to Every Week Readers
 
 <p>Every pound of freight you keep off the roads gives that much more car space for essentials.</p>
 
-<p>Most of all, be as considerate as you can of the men in the ticket offices and on the trains. They are working under great pressure. Remember that, while the war lasts, they are public servants, working for your government, which means you.</p>
+<p>Most of all, be as considerate as you can of the men in the ticket offices and on the trains. They are working under great pressure. Remember that, while the war lasts, they are public servants, working for <hi rend="italic">your</hi> government, <hi rend="italic">which means you</hi>.</p>
 
 <p>Help them to feel that you, as one of their employers, appreciate their difficulties and are doing your best to help.</p>
 
+</body>
+</text>
 
+<pb n="Page 6" xml:id="ew.issue.19180316.p006"/>
 
+<text type="nonfiction" xml:id="brave.19180316">
+<body>
 
+<head type="main">It Takes a Brave Man to Go to Sea</head>
 
-It Takes a Brave Man to Go to Sea	
+<figure n="photograph">	
+<head></head>
+<ab n="credit">Â© International Film Service</ab>
+<p>Every man at sea in these days&#8212;not only the navy boys, but every stoker or oiler or engineer on a merchant or transport ship&#8212;lives in a world where heroism is taken as a matter of course.</p>
+<figDesc></figDesc>
+</figure>
 
-c International Film Service
+<cb n="1"/>
 
-By CAPTAIN A. P. CORCORAN
+<p>ROYAL Transport engineers are not listed in the navy. But, for all that, they do a dangerous bit for their country. A Scottish engineer on a transport told Mordaunt Hall, in <hi rend="italic">Sea Power</hi>, of a thrilling experience of his&#8212;and its sequel.</p>
 
-<p>ROYAL Transport engineers are not listed in the navy. But, for all that, they do a dangerous bit for their country. A Scottish engineer on a transport told Mordaunt Hall, in Sea Power, of a thrilling experience of his— and its sequel.</p>
+<p>The ship on which this engineer worked 
 
-<p>The ship on which this engineer worked was torpedoed, and all aboard were left floating about in open boats. "Hour after hour," said the engineer, "we baled and looked, rowed and baled. From dawn until nightfall we were there, out of sight of everything. A bite of biscuit was a meal. Then night came on.</p>
+<cb n="2"/>
+
+was torpedoed, and all aboard were left floating about in open boats. "Hour after hour," said the engineer, "we baled and looked, rowed and baled. From dawn until nightfall we were there, out of sight of everything. A bite of biscuit was a meal. Then night came on.</p>
 
 <p>"When the next dawn came, a man turned cold. He was better covered than the rest of us, and, after making sure that he was dead, we borrowed his coat, passing it around.</p>
 
@@ -247,29 +494,51 @@ By CAPTAIN A. P. CORCORAN
 
 <p>"Two hours after dawn we saw smoke on the horizon. We hoisted some clothes at the end of an oar. Soon the vessel showed signs of looking for us. It was a great sight to see the sleek destroyer near us. The details of getting aboard were over so fast that I did not trouble even to think about them. We just stood in front of the fires and thawed.</p>
 
-<p>"A bit later we steamed into P , and were permitted to go ashore. I had just reached the hotel when a woman came up to me. She said nothing, just looked at my face and clothes, and then handed me something which fluttered to the ground. It was a white feather."</p>
+<p>"A bit later we steamed into P&#8212;, and were permitted to go ashore. I had just reached the hotel when a woman came up to me. She said nothing, just looked at my face and clothes, and then handed me something which fluttered to the ground. It was a <hi rend="italic">white feather</hi>."</p>
 
-<p>Every man at sea in these days-not only the navy boys, but every stoker or oiler or engineer on a merchant or transport ship-lives in a world where heroism is taken as a matter of course.</p>
+</body>
+</text>
 
-Look Out for Treachery
+<text type="nonfiction" xml:id="treachery.19180316">
+<body>
 
-<p>AMERICAN  soldiers in the trenches must be on the alert for German tricks that Allied troops long ago learned to look out for. One bloodthirsty joke is described by Thomas M. Johnson in the New York Evening Sun:</p>
+<head type="main">Look Out for Treachery</head>
+
+<cb n="1"/>
+
+<p>AMERICAN soldiers in the trenches must be on the alert for German tricks that Allied troops long ago learned to look out for. One bloodthirsty joke is described by Thomas M. Johnson in the New York <hi rend="italic">Evening Sun:</hi></p>
 
 <p>"A favorite trick was to leave one of the spiked German helmets that every Allied soldier covets as a trophy lying apparently innocently on the ground, and underneath a detonating device for a mine that would blow to atoms the soldier who picked it up."</p>
 
 <p>The first great commandment of the trenches is: "Never go into a German dug-out, or a house once occupied by a German, or touch anything a German has left, without investigating first."</p>
 
+<cb n="2"/>
+
 <p>American soldiers have been warned:</p>
 
 <p>"They will know that a loose board in a dug-out is a thing to be avoided, that bits of equipment lying on the ground should be left lying there, and that above all wires should be cut first and stumbled over afterward."</p>
 
-<p>The most startling of all the German tncks is the "double coffin":</p>
+<p>The most startling of all the German tricks is the "double coffin":</p>
 
 <p>"Counting on the Allied troops desiring to give a decent burial to any dead they may find in captured places, the Germans place one coffin atop another. The instant the upper coffin is moved a charge of high explosive is detonated and the soldiers who suppose themselves about to perform the last office for a dead enemy are themselves killed."</p>
 
-In these trenches a handful of American troopers held off a German raiding party greatly superior in numbers.
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Central News Photo Service</ab>
+<p>In these trenches a handful of American troopers held off a German raiding party greatly superior in numbers.</p>
+<figDesc></figDesc>
+</figure>
 
-The Native Fighter
+</body>
+</text>
+
+<text type="nonfiction" xml:id="corcoran.19180316">
+<body>
+
+<head type="main">The Native Fighter</head>
+<byline>By CAPTAIN <persName type="author" key="#Corcoran, A. P.">A. P. CORCORAN</persName></byline>
+
+<cb n="1"/>
 
 <p>IT was a Gurkha who, for two hours, defended his section of trench, after all his companions had been killed, by bombing the approaching Boche.</p>
 
@@ -277,23 +546,36 @@ The Native Fighter
 
 <p>It was the Dekka Horse who by such an exhibition of horsemanship as has probably never been equaled, justified the decision of the Allied staff to use cavalry in the early battles on the Somme. One of the favorite stunts, which I have seen them many times practise behind the lines, is to sling their bodies under the stomachs of the horses and shoot from this reversed position.</p>
 
-<p>Arab, Pathan, Bhopal, Sikh—they are always with us in this war. "Savages," the Boche press called them at first, criticizing the Allies for their use of these "hordes." Since the advent of the terrible Turk on their own side, they have observed a discreet silence on this point. The Hindus have no Armenian massacres to their credit.</p>
+<p>Arab, Pathan, Bhopal, Sikh&#8212;they are always with us in this war. "Savages," the Boche press called them at first, criticizing the Allies for their use of these "hordes." Since the advent of the terrible Turk on their own side, they have observed a discreet silence on this point. The Hindus have no Armenian massacres to their credit.</p>
 
 <p>When the war broke out, there was some discussion as to whether it was worth the trouble to bring the Indian troops to France. Fighters they were, of course, but could they stand the climate and the unusual character of the war they would have to make? The battle of Neuve Chapelle was the answer. Here the Sikhs and Bhopals took part for the first time, and they never wavered, though they lost fifty per cent of their men.</p>
 
-<p>What is the caliber of these men? The Gurkha, a small, wiry chap, needs a prop to get him level with the parapet. The Sikh, a strong, hardy hillman, is second to none in physique. The Senegalese is a powerful person. One and all, of course, they are picturesque.</p>
+<p>What is the caliber of these men? The Gurkha, a small, wiry chap, needs a prop to get him level with the parapet. The Sikh, a strong, hardy hillman, is second 
 
-<p>The Indian of India has his own method of attack, and he liked to use them at first. For a long time, it was a habit of the Gurkhas, when allotted to a place in the first line, to creep over the top in the dark, knife in mouth, and then crawl snake- fashion over No Man's Land, on the hunt for a German sentry. Sometimes he found one, and brought back evidence. Sometimes he did no more than give an alarm, which resulted in some uncomfortable and untimely activity on the part of the Boche. He was discouraged from these excursions, and they have been discontinued, I think, now. The enemy seem to have adopted them instead, as witness the throat cutting of the American sentry, of which the news reached us lately.</p>
+<figure n="photograph">
+<head></head>
+<ab n="credit">Official Press Bureau photograph; from Paul Thompson</ab>
+<p>Faithful followers of the Prophet bowing down in prayer on the heathen soil of France.</p>
+<figDesc></figDesc>
+</figure>
 
-<p>But to come back to our "natives"—</p>
+to none in physique. The Senegalese is a powerful person. One and all, of course, they are picturesque.</p>
+
+<p>The Indian of India has his own method of attack, and he liked to use them at first. For a long time, it was a habit of the Gurkhas, when allotted to a place in the first line, to creep over the top in the dark, knife in mouth, and then crawl snake-fashion over No Man's Land, on the hunt for a German sentry. Sometimes he found one, and brought back evidence. Sometimes he did no more than give an alarm, which resulted in some uncomfortable and untimely activity on the part of the Boche. He was discouraged from these excursions, and they have been discontinued, I think, now. The enemy seem to have adopted them instead, as witness the throat cutting of the American sentry, of which the news reached us lately.</p>
+
+<p>But to come back to our "natives"&#8212;</p>
 
 <p>It was characteristic of the Germans, with their belief in applied psychology, to try out some tricks especially adapted to their conception of the Indian mind. Credulity was a characteristic with which they credited the colored man. They had a sneaking belief, too, in his lack of real patriotism. A few lessons taught them to think differently.</p>
 
-<p>In the early days of the fighting, trenches were dug hastily, and the system, of course, lacked the perfect alignment it possesses now. Consequently it often happened that a Boche trench jutted so far forward as to be almost wedged between two of ours. To take one of these "scrape-outs," naturally, gave an advantage out of all proportion to the capture of a single traverse now.</p>
+<p>In the early days of the fighting, 
+
+<cb n="2"/>
+
+trenches were dug hastily, and the system, of course, lacked the perfect alignment it possesses now. Consequently it often happened that a Boche trench jutted so far forward as to be almost wedged between two of ours. To take one of these "scrape-outs," naturally, gave an advantage out of all proportion to the capture of a single traverse now.</p>
 
 <p>On one occasion the projecting Boche position brought the enemy into line with a company of Gurkhas. It was on a dark, wet night that the Indian private on "sentry-go" was suddenly hailed by a man in the uniform of a British officer.</p>
 
-<p>" Brigade orders," said a voice in a perfect London accent. "Your company is to move out of this trench right away to make room for others coming in."</p>
+<p>"Brigade orders," said a voice in a perfect London accent. "Your company is to move out of this trench right away to make room for others coming in."</p>
 
 <p>The Gurkha looked at him. True, he was accustomed to taking orders issued with that accent. But why did not his own English officer issue them?</p>
 
@@ -307,7 +589,9 @@ The Native Fighter
 
 <p>It was at Verdun that eight Zouaves went into their first fight. They were captured, and the Germans determined to use them. Once again it was some trenches that they coveted. The Zouaves were to be the instrument for the attack. With them as a shield, the attacking force marched to the encounter, convinced that the French would never shoot on their own men.</p>
 
-<p>But they reckoned without their enemy!  When the defenders saw this strange force approaching, they hesitated, just as the Hun had calculated. What had happened?  Had their comrades deserted to the other side? If not, what was the meaning of this assemblage? But the Zouaves did not leave them to doubt long.</p>
+<p>But they reckoned without their enemy!</p> 
+
+<p>When the defenders saw this strange force approaching, they hesitated, just as the Hun had calculated. What had happened? Had their comrades deserted to the other side? If not, what was the meaning of this assemblage? But the Zouaves did not leave them to doubt long.</p>
 
 <p>Coming within hearing distance, one of them stepped forward and shouted:</p>
 
@@ -323,55 +607,89 @@ The Native Fighter
 
 <p>At first he takes precautions on his own account. He drags himself and his mattress on to the floor. By main force the nurse and doctor keep him in the more elevated position for a day or two. Then he becomes converted, and stays there without further argument.</p>
 
-<p>His dressing is another matter that causes comment. Have you ever seen a Zouave don his turban ? It is, as you probably know, just a long narrow piece of cloth. But he doesn't wind it on his head, as you might imagine. No, he whirls himself into it, much after the manner of a spinning top. So, in the wards where he is convalescing, this is one of the daily "attractions" for the poiluwatching the Zouave get himself into his clothes!</p>
+<p>His dressing is another matter that causes comment. Have you ever seen a Zouave don his turban? It is, as you probably know, just a long narrow piece of cloth. But he doesn't wind it on his head, as you might imagine. No, he whirls himself into it, much after the manner of a spinning top. So, in the wards where he is convalescing, this is one of the daily "attractions" for the poilu&#8212;watching the Zouave get himself into his clothes!</p>
 
-Faithful followers of the Prophet bowing down in prayer on the heathen soil of France.
+</body>
+</text>
 
+<pb n="Page 7" xml:id="ew.issue.19180316.p007"/>
 
+<text type="nonfiction" xml:id="international.19180316">
+<body>
 
+<head type="main">Greed is International</head>
 
-Greed is International
+<cb n="1"/>
 
-IT is always foolish to generalize about a whole nation: "All Americans are money-grabbers"; "All English lack humor"; "All Frenchmen are noble and patriotic." Human nature is about the same everywhere.
+<p>IT is always foolish to generalize about a whole nation: "All Americans are money-grabbers"; "All English lack humor"; "All Frenchmen are noble and patriotic." Human nature is about the same everywhere.</p>
 
-Going back from the front with his squad for a few days of rest, Henri Barbusse and some companions searched feverishly through the little town for a room that they might rent—there to set up a table and have their meals together. To eat for a week off a table—it was their dream of heaven.
+<p>Going back from the front with his squad for a few days of rest, Henri Barbusse and some companions searched feverishly through the little town for a room that they might rent&#8212;there to set up a table and have their meals together. To eat for a week off a table&#8212;it was their dream of heaven.</p>
 
-And everywhere they found the peasants cold, suspicious, grasping. At length, at an enormous price, a surly old woman rented them a dirty shed, in which they set up an old door on saw-horses.
+<p>And everywhere they found the peasants cold, suspicious, grasping. At length, at an enormous price, a surly old woman rented them a dirty shed, in which they set up an old door on sawhorses.</p>
 
-To them, as they sat in their "shed, came the little son of a neighboring house. Barbusse tells it in his book, Under Fire (E. P. Dutton & Company):
+<p>To them, as they sat in their shed, came the little son of a neighboring house. Barbusse tells it in his book, <hi rend="italic">Under Fire</hi> (E. P. Dutton &amp; Company):</p>
 
-"The door half opens and admits a streak of light. The face of a little boy is defined in it. We entice him like a kitten, and give him a bit of chocolate.
+<p>"The door half opens and admits a 
 
-"Then, 'My name's Charlie,' chirps the child. 'Our house, that's close by. We've got soldiers, too. We always had them, we had. We sell them everything they want.'
+<cb n="2"/>
 
-"'Tell me, little one, come here a bit,' says Cocon, taking the boy between his knees. 'Listen now; your papa he says, doesn't he, "Let's hope the war goes on," eh ?'
+streak of light. The face of a little boy is defined in it. We entice him like a kitten, and give him a bit of chocolate.</p>
 
-"`Of course,' says the child, tossing his head, 'because we're getting rich. He says by the end of May we shall have got fifty thousand francs.'
+<p>"Then, 'My name's Charlie,' chirps the child. 'Our house, that's close by. We've got soldiers, too. We always had them, we had. We sell them everything they want.'</p>
 
-"Fifty thousand francs! Impossible!'
+<p>"'Tell me, little one, come here a bit,' says Cocon, taking the boy between his knees. 'Listen now; your papa he says, doesn't he, "Let's hope the war goes on," eh?'</p>
 
-"'Yes, yes!' the child insists, stamping. 'He said it to mama. Papa wished it could always be like that. Mama, sometimes, she isn't sure, because my brother Adolphe is at the front. But we're going to get him sent to the rear, and then the war can go on.' "
+<p>"'Of course,' says the child, tossing his head, 'because we're getting rich. He says by the end of May we shall have got fifty thousand francs.'</p>
 
-They all mean the same thing, but the language is different. A French salute is shown on the left; an English next; a Scotch next; and the American on the right.
+<p>"'Fifty thousand francs! Impossible!'</p>
 
+<p>"'Yes, yes!' the child insists, stamping. 'He said it to mama. Papa wished it could always be like that. Mama, sometimes, she isn't sure, because my brother Adolphe is at the front. But we're going to get him sent to the rear, and then the war can go on.'"</p>
 
+</body>
+</text>
 
+<text type="photograph" xml:id="salutes.19180316">
+<body>
 
-<p>HOW soon after the war is over will the' wounds heal? How long before the hate that it has engendered will die out of the world again? If every nation could be led by men as big and as wise as Robert E. Lee, the answer to those questions would be very heartening.</p>
+<figure n="photograph">
+<head></head>
+<ab n="credit">Â© Committee on Public Information; from Central News Photo Service</ab>
+<p>They all mean the same thing, but the language is different. A French salute is shown on the left; an English next; a Scotch next; and the American on the right.</p>
+<figDesc></figDesc>
+</figure>
 
-<p>Even the harsh and cruel methods of the Reconstruction scarcely drew from his lips a word of remonstrance, says Randolph H. McKim in The Soul of Lee (Longmans, Green & Company). When indicted for treason, he declared himself ready to answer the charge, and wrote to his son: "We must be patient and let them take their course."</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="defeat.19180316">
+<body>
+
+<head type="main">How Lee Took Defeat</head>
+
+<cb n="1"/>
+
+<p>HOW soon after the war is over will the wounds heal? How long before the hate that it has engendered will die out of the world again? If every nation could be led by men as big and as wise as Robert E. Lee, the answer to those questions would be very heartening.</p>
+
+<p>Even the harsh and cruel methods of the Reconstruction scarcely drew from his lips a word of remonstrance, says Randolph H. McKim in <hi rend="italic">The Soul of Lee</hi> (Longmans, Green &amp; Company). When indicted for treason, he declared himself ready to answer the charge, and wrote to his son: "We must be patient and let them take their course."</p>
 
 <p>Writing to General Early, he said: "I would recommend that you omit all epithets and references calculated to excite bitterness of animosity between different sections of the country."</p>
 
-<p>An English nobleman, a sympathizer with the Confederacy, offered him a country seat in England and an annuity of L3,000. His reply was worthy of his noble soul: "I must abide the fortunes and share the fate of my people." Equally characteristic was his answer to a proposal to head a colony that was to emigrate to Mexico:</p>
+<p>An English nobleman, a sympathizer with the Confederacy, offered him a country seat in England and an annuity of Â£3,000. His reply was worthy of his noble soul: "I must abide the fortunes and share the fate of my people." Equally characteristic was his answer to a proposal to head a colony that was to emigrate to Mexico:</p>
 
 <p>"The thought of abandoning the country and all that must be left in it is abhorrent to my feelings, and I prefer to struggle for its restoration and share its fate, rather than give up all for lost."</p>
 
-<p>When offered the presidency of an insurance company at a princely salary, Lee excused himself on the ground that he knew nothing of the insurance business; and when he was told in reply that no duties would. be required of him,—nothing was asked but the use of his name,— his answer was that his good name was all that he had saved from the wreck of the war, and that it was not for sale.</p>
+<p>When offered the presidency of an insurance company at a princely salary, 
 
-<p>To another gilt-edged business proposition the old general. made this sublime reply:</p>
+<cb n="2"/>
+
+Lee excused himself on the ground that he knew nothing of the insurance business; and when he was told in reply that no duties would be required of him,&#8212;nothing was asked but the use of his name,&#8212;his answer was that his good name was all that he had saved from the wreck of the war, and that it was not for sale.</p>
+
+<p>To another gilt-edged business proposition the old general made this sublime reply:</p>
 
 <p>"I am grateful, but I have a self-imposed task which I must accomplish. I have led the young men of the South in battle; I have seen many of them die on the field; I shall devote my remaining energies to training young men to do their duty in life."</p>
+
+</body>
+</text>
 
 Rickety Bill
 
@@ -437,21 +755,21 @@ By CONRAD RICHTER
 
 Illustrations by Robert Amick
 
-<p>WHEN Quit Baldwin landed in Big Silver—a civic community of four or five gaunt, naked buildings on the desolate, fire-swept slopes of the Bitter Roots—he found the place in a state of excitement.</p>
+<p>WHEN Quit Baldwin landed in Big Silvera civic community of four or five gaunt, naked buildings on the desolate, fire-swept slopes of the Bitter Rootshe found the place in a state of excitement.</p>
 
 <p>The excitement was catching. The vein of the Big Silver Mining Company on the nine hundred foot level was expected to be struck any moment. A mining engineer from Mullan was coming down in a day or two to make a survey. West, the shirtsleeve president and general manager of the Big Silver, was so hopeful of an immediate strike that his niece from the East was coming, to be on hand for the celebration. Her name, Baldwin heard, was June Pippin; she hailed from Pike County, Missouri; and she was just out of boarding- school.</p>
 
-<p>Baldwin was on a side-door Pullman summer tour of the Coeur d'Alenes, Spokane, Seattle, Vancouver, and Portland, intending to winter between San Francisco, San Diego, and New Orleans—wherever a gentleman with no special vocation could catch a job until pay-day. Now he decided to delay his itinerary for a week and see the fire-works.</p>
+<p>Baldwin was on a side-door Pullman summer tour of the Coeur d'Alenes, Spokane, Seattle, Vancouver, and Portland, intending to winter between San Francisco, San Diego, and New Orleanswherever a gentleman with no special vocation could catch a job until pay-day. Now he decided to delay his itinerary for a week and see the fire-works.</p>
 
-<p>He promised. West he would stick for a solid month. But when that official set him upon renewing acquaintanceship with two sworn enemies, the ax and the saw, up in the sticky hot, burned-out woods above the reservoir—ugh! As far as his eye could see, blackened trunks stood up bare and mute, like a forest of totem- poles. Nothing else was in sight except millions of tangled devilfish of crisped branches over a desert of gray-black ashes and under a glaring blue-white sky.</p>
+<p>He promised. West he would stick for a solid month. But when that official set him upon renewing acquaintanceship with two sworn enemies, the ax and the saw, up in the sticky hot, burned-out woods above the reservoirugh! As far as his eye could see, blackened trunks stood up bare and mute, like a forest of totem- poles. Nothing else was in sight except millions of tangled devilfish of crisped branches over a desert of gray-black ashes and under a glaring blue-white sky.</p>
 
 <p>Baldwin changed his mind about staying a week. He decided to beat it that night. He wouldn't get his first day's pay: but sooner lose a fortune than go through the ordeal of another blister-raising day in this forest graveyard.</p>
 
 <p>After supper he spent his time making friends with West's three Airedales, in the hope that they might recognize his not unpleasant face and make no outcry when he sneaked out of the bunk-house that night. Later he watched four night-owls play solo. When they put up their cards, he followed them up to the bunk-room and partly undressed. For more than an hour, perhaps two, he lay on his bunk, listening to the hubbub of snores. Moonlight came aslant through the small windows. A coyote barked from somewhere up on the mountain. Baldwin finally risked to venture downstairs. He found that sneaking down was a harder proposition than he had ever found sneaking up.</p>
 
-<p>On the last step he hesitated. The Big Silver Mining Company owed him four dollars. He might as well take at least •a part of it along. He had earned it: it 'wouldn't be robbery. Noiselessly lie made his way to the kitchen. He managed to find half a loaf of bread and a pie. It was his favorite, apple pie. In feeling about, his fingers accidentally broke through the crust.</p>
+<p>On the last step he hesitated. The Big Silver Mining Company owed him four dollars. He might as well take at least a part of it along. He had earned it: it 'wouldn't be robbery. Noiselessly lie made his way to the kitchen. He managed to find half a loaf of bread and a pie. It was his favorite, apple pie. In feeling about, his fingers accidentally broke through the crust.</p>
 
-<p>With the loaf under his arm and the pie held carefully in both hands, he hurried out over the moonlit steps, and started to tiptoe painfully toward where the railroad tracks threw back the light of the moon— when a smooth young voice called from behind him:</p>
+<p>With the loaf under his arm and the pie held carefully in both hands, he hurried out over the moonlit steps, and started to tiptoe painfully toward where the railroad tracks threw back the light of the moon when a smooth young voice called from behind him:</p>
 
 <p>"Just a moment!"</p>
 
@@ -459,7 +777,7 @@ Illustrations by Robert Amick
 
 <p>"Which is Mr. David West's house?" she asked coolly, keeping the revolver where he could see the hole.</p>
 
-<p>"You—you think I'm a robber!" stammered Baldwin. "But you're mistaken."</p>
+<p>"Youyou think I'm a robber!" stammered Baldwin. "But you're mistaken."</p>
 
 <p>"You wrong me," said the girl mildly. "I merely thought you were sneaking over there to feed the katydids and the crickets."</p>
 
@@ -469,7 +787,7 @@ Illustrations by Robert Amick
 
 <p>"How long have you been on this job that you're tired of?" she asked quietly, at last.</p>
 
-<p>"A day," swallowed Baldwin. "I never work on a job longer than a couple days or a week—just to get enough to travel on again. I wouldn't make good here, anyhow. I've never yet made good anywhere. Likely I never will."</p>
+<p>"A day," swallowed Baldwin. "I never work on a job longer than a couple days or a weekjust to get enough to travel on again. I wouldn't make good here, anyhow. I've never yet made good anywhere. Likely I never will."</p>
 
 <p>"You're what My grandfather calls a quitter," the girl reflected. "You ought to be ashamed of yourself. Uncle David wrote to me how be needed more men. And you, so big and strong and young! One would never think you were a quitter, to look at you."</p>
 
@@ -487,9 +805,9 @@ Illustrations by Robert Amick
 
 <p>"Slightly," assured West. "How the dickens did you get here, Juney? I'm mighty glad to see you."</p>
 
-<p>She lifted her face to be kissed—not forgetting to keep her revolver on Baldwin.</p>
+<p>She lifted her face to be kissednot forgetting to keep her revolver on Baldwin.</p>
 
-<p>"They told me down at Salt—SaltySaltese I couldn't get a train until morning," she explained. "I didn't want to stay overnight down there. I got a man to bring me up with a horse and a buckboard. He charged me five dollars, but it was worth it. Aren't you going to do something with this man, Uncle Davy? I'm getting nervous holding the revolver."</p>
+<p>"They told me down at SaltSaltySaltese I couldn't get a train until morning," she explained. "I didn't want to stay overnight down there. I got a man to bring me up with a horse and a buckboard. He charged me five dollars, but it was worth it. Aren't you going to do something with this man, Uncle Davy? I'm getting nervous holding the revolver."</p>
 
 <p>"Go right in the house and make yourself at home," directed West. "I'll take this lad back to his bunk. No, thanks; won't need any gun."</p>
 
@@ -519,7 +837,7 @@ Illustrations by Robert Amick
 
 <p>FROM the time the men started to get A up next morning, Lindmark, the assistant superintendent, made life miserable for Baldwin. As West had directed, he accompanied Baldwin and his partner up to the fire-swept slope above the reservoir, tagging after his charge like a jailer.</p>
 
-<p>At dinner his slurring observations and poor jokes made the meal a trial for Baldwin—until Baldwin lost his head and went back at his boss with two or three white-hot words. Lindmark's answer was a blow across the table. Baldwin returned it with the dregs from his cup. A few moments later the miners forgot their dinner as they hustled the pair out into the other room and formed an enthusiastic oval around them.</p>
+<p>At dinner his slurring observations and poor jokes made the meal a trial for Baldwinuntil Baldwin lost his head and went back at his boss with two or three white-hot words. Lindmark's answer was a blow across the table. Baldwin returned it with the dregs from his cup. A few moments later the miners forgot their dinner as they hustled the pair out into the other room and formed an enthusiastic oval around them.</p>
 
 <p>Too late Baldwin realized that Lind- mark was considerably taller and heavier than he, and much harder. As the assistant superintendent came hotly at him, he began to duck like a monkey, running back at every escape, until he had gone around the room three or four times, bumping over benches, once tearing open his thigh on the corner of a table nailed fast to the floor, fearfully wondering what would be the outcome, how badly he would be beaten up.</p>
 
@@ -533,13 +851,13 @@ Illustrations by Robert Amick
 
 <p>You have- the advantage of everybody else. You can keep it up longer than he can.</p>
 
-<p>In his excitement he had forgotten about that. Something lie never knew he had freshened up automatically inside of him. Why couldn't he refuse to give up ? No matter how often he were knocked down! No matter if his face were pummeled to jelly! Such things wouldn't matter a whit if lie would win in the end. It doesn't matter how badly the winner is beaten up. That's all to his credit—just so he's the winner.</p>
+<p>In his excitement he had forgotten about that. Something lie never knew he had freshened up automatically inside of him. Why couldn't he refuse to give up ? No matter how often he were knocked down! No matter if his face were pummeled to jelly! Such things wouldn't matter a whit if lie would win in the end. It doesn't matter how badly the winner is beaten up. That's all to his creditjust so he's the winner.</p>
 
 <p>He felt so encouraged, he manoeuvered deliberately away from the door, and tried a swing at Lindmark's red, perspiring face. He didn't more than graze it, but it made the assistant superintendent grunt with rage and swing back wildly.</p>
 
 <p>To his delight, Baldwin found that the other's wild swing had made him cooler. He laughed and kept on retreating, but</p>
 
-<p>HAVE you ever had an experience that you could not explain?" We asked that question some weeks ago, you remember; and—well, you have had them all right: dreams foretelling extraordinary events and tragedies and other whispers from the world beyond. They make exceedingly interesting reading, and we're publishing the best of them next week.</p>
+<p>HAVE you ever had an experience that you could not explain?" We asked that question some weeks ago, you remember; andwell, you have had them all right: dreams foretelling extraordinary events and tragedies and other whispers from the world beyond. They make exceedingly interesting reading, and we're publishing the best of them next week.</p>
 
 "Her name was June Pippin; she hailed from Pike County, Missouri."
 
@@ -560,7 +878,7 @@ Illustrations by Robert Amick
 
 <p>With his partner's favorite blue package of tobacco in his pocket, he knocked on the office door. He found West poring over a mass of creased blue-prints. The girl was by the window, reading.</p>
 
-<p>`I'd like to give back this card," Baldwin began stammeringly. "I want to—"</p>
+<p>`I'd like to give back this card," Baldwin began stammeringly. "I want to"</p>
 
 <p>A sudden footfall sounded on the tamarack step outside. The door opened, and a man who was a stranger to Baldwin hurried in. Something in his tense step seemed to stiffen West in his chair. Baldwin himself could sense it, whatever it was.</p>
 
@@ -580,9 +898,9 @@ Illustrations by Robert Amick
 
 <p>"Does it mean you'll have to do some work over again, Uncle Davy ?" queried the girl sympathetically.</p>
 
-<p>" It means," uttered West huskily, looking at no one in particular—" it means we drilled twenty-one or -two hundred feet plumb to nothing. It means we're farther to-day from the vein than two years ago when we started that cross-cut. It means —I guess "—his voice faltered—" I guess there isn't going to be any Big Silver."</p>
+<p>" It means," uttered West huskily, looking at no one in particular" it means we drilled twenty-one or -two hundred feet plumb to nothing. It means we're farther to-day from the vein than two years ago when we started that cross-cut. It means I guess "his voice faltered" I guess there isn't going to be any Big Silver."</p>
 
-<p>"Isn't going to be—any—mine?" repeated June.</p>
+<p>"Isn't going to beanymine?" repeated June.</p>
 
 <p>"It took two whole years to put in those twenty-two hundred feet," said West, choking. "It took thirty thousand of our stockholders' good money. There's only something like sixteen hundred dollars left."</p>
 
@@ -602,7 +920,7 @@ Illustrations by Robert Amick
 
 <p>"Don't have any pay-roll," answered June. "You spoke last evening about a man who has miners working for stock in his mine. Why can't you do that here? Give them just their board. Don't have any such thing as a salary. How much are you paying Charley here? Well, I'll take his job and cook, and you won't have to pay me a penny."</p>
 
-<p>"You cook for the camp!" exclaimed West. "Why, you just came from college! You couldn't stand it. Your hands will get red and sore, and your feet like lead, and—"</p>
+<p>"You cook for the camp!" exclaimed West. "Why, you just came from college! You couldn't stand it. Your hands will get red and sore, and your feet like lead, and"</p>
 
 <p>"I said I would cook for the camp, Uncle Davy," said June. "Nov, don't talk foolishly about my hands and feet."</p>
 
@@ -636,7 +954,7 @@ Illustrations by Robert Amick
 
 <p>"There's more money where that money came from," replied Baldwin soberly, tak- ing a fresh bite of June's unexcelled bread.</p>
 
-<p>"It isn't as easy as that," answered West. "It took three years and only the Lord knows how much blood and gall to raise the forty thousand I did. And, every day since, every stockholder has been keeping his eye on the mail man, looking for a report that the mine has made the strike I promised. Do you think I could go back and tell them I threw away their money in a hole in the wrong direction that no power on earth can change back to their money again ? They wouldn't understand. How do they know that a miner's as blind as a mole after he turns an angle underground—that he has to depend on his surveys like a sailor does his chart? They wouldn't let me in their office two minutes."</p>
+<p>"It isn't as easy as that," answered West. "It took three years and only the Lord knows how much blood and gall to raise the forty thousand I did. And, every day since, every stockholder has been keeping his eye on the mail man, looking for a report that the mine has made the strike I promised. Do you think I could go back and tell them I threw away their money in a hole in the wrong direction that no power on earth can change back to their money again ? They wouldn't understand. How do they know that a miner's as blind as a mole after he turns an angle undergroundthat he has to depend on his surveys like a sailor does his chart? They wouldn't let me in their office two minutes."</p>
 
 <p>"You can accomplish anything," came back Baldwin. "'Because you don't find any sign-boards up on the line between the State of Failure and the State of Success, don't think you're beaten. You may be standing on the line.'"</p>
 
@@ -654,7 +972,7 @@ Illustrations by Robert Amick
 
 <p>For several months the little community of Big Silver heard no more of him. Mean-' time Baldwin put himself and the remaining men at cutting the choice fire-singed timber and selling it to a Missoula firm for cash, keeping the camp in provisions, and even enabling them to put in an occasional week in the face of the tunnel. Then, one day, without warning, West stepped from the Missoula train.</p>
 
-<p>"Eleven thousand cart-wheels!" he cried grimly, shaking hands around. "All from two men—men who turned me down</p>
+<p>"Eleven thousand cart-wheels!" he cried grimly, shaking hands around. "All from two menmen who turned me down</p>
 
 "The miners forgot their dinner as they enthusiastically hustled the pair into the other room."
 
@@ -683,15 +1001,15 @@ Illustrations by Robert Amick
 
 <p>"What then?" she asked, looking quietly into the rough, doorless cupboard above the wooden sink. Baldwin thought again how delicately contoured the line of her cheek was.</p>
 
-<p>"I guess you're anxious to get back home," he ventured. "A year and a half is a long time for a girl to be away from the folks of folks like you. If—if I'd think you'd ever come out here to the mine again, I'd take the superintendent job your uncle offered me."</p>
+<p>"I guess you're anxious to get back home," he ventured. "A year and a half is a long time for a girl to be away from the folks of folks like you. Ifif I'd think you'd ever come out here to the mine again, I'd take the superintendent job your uncle offered me."</p>
 
-<p>"There isn't anything more I can do out here," said June—so faintly that Baldwin scarcely heard her.</p>
+<p>"There isn't anything more I can do out here," said Juneso faintly that Baldwin scarcely heard her.</p>
 
-<p>"There's—there's something," braved Baldwin.</p>
+<p>"There'sthere's something," braved Baldwin.</p>
 
 <p>He reached straight down into the water of the great camp dish-pan and put his hand over hers.</p>
 
-<p>"Some day—some day I figured I'd ask you 'to take a little apple ranch with me down here near Missoula. And I thought —maybe—we'd raise a new kind of rosy-cheeked apple. We'd have to call them Baldwins, but I'd be hoping they'd be' Pippins straight to the core. If—if I'd ask you something like that, could you give me an idea what chance there'd be for a bum like me?"</p>
+<p>"Some daysome day I figured I'd ask you 'to take a little apple ranch with me down here near Missoula. And I thought maybewe'd raise a new kind of rosy-cheeked apple. We'd have to call them Baldwins, but I'd be hoping they'd be' Pippins straight to the core. Ifif I'd ask you something like that, could you give me an idea what chance there'd be for a bum like me?"</p>
 
 <p>"'The day you want to quit a thing,' she answered tenderly, "'you have one thousand more chances to make good on it than the day you started.'"</p>
 
@@ -707,13 +1025,13 @@ A Mother's Letter About Her Boy
 
 <p>Finally, when the fever abated, I had no desire to get well. I knew that I had done faithfully all that I could for my boys. They were almost men, and already one had left me; I felt that it would not be long before his brother would do the same. I did not see how I could be of any further use to any one. It is my disposi- tion to want to be needed, and I thought my work was done and no one could possibly need me any more. I just prayed to God to take me home.</p>
 
-<p>My husband brought me quantities of beautiful flowers from my own graden, but I could only feel them—I could not see them. He brought letters from my son and his picture in uniform, but I could not see them. Nothing in the world made any difference. Then, very gradually, my sight came back, but in no other way did I gain.</p>
+<p>My husband brought me quantities of beautiful flowers from my own graden, but I could only feel themI could not see them. He brought letters from my son and his picture in uniform, but I could not see them. Nothing in the world made any difference. Then, very gradually, my sight came back, but in no other way did I gain.</p>
 
 <p>All through my illness I had wanted to see the flag: even in my delirium I had asked for it, the nurses told me. But now I did not think of it.</p>
 
 <p>One afternoon, after more than three months' illness, when my eyes had become a little better, I saw the reflection of the flag in a window of one of the hospital buildings. I can not describe the wave of feeling that went over me. I was much too ill and weak to feel very much emotion of any kind, but somehow I knew it was something I had wanted to see. I watched it for a long time until it got dim, for my eyes were still very weak.</p>
 
-<p>It was some time afterward—at least, it seemed so to me—when I thought I smelled gunpowder; then all at once I heard a band playing. It was playing martial music, though it seemed to be nothing with which I was familiar. Then again, as I listened, it started to play "America." Just then I sawcompany after company of soldiers and sailors marching- first, a company of khaki-clad soldiers, then a company of blue sailor boys, then a company of sailors all in white. Then came the band, and it was so plain I even saw a small dog running beside the drum-major. After that another company of blue-clad sailor boys; and as I watched them passing I saw my own boy among them. And now there was the greatest cheering, as if thousands of voices were cheering; I could even hear the high treble of small boys. I could see a great throng of people.</p>
+<p>It was some time afterwardat least, it seemed so to mewhen I thought I smelled gunpowder; then all at once I heard a band playing. It was playing martial music, though it seemed to be nothing with which I was familiar. Then again, as I listened, it started to play "America." Just then I sawcompany after company of soldiers and sailors marching- first, a company of khaki-clad soldiers, then a company of blue sailor boys, then a company of sailors all in white. Then came the band, and it was so plain I even saw a small dog running beside the drum-major. After that another company of blue-clad sailor boys; and as I watched them passing I saw my own boy among them. And now there was the greatest cheering, as if thousands of voices were cheering; I could even hear the high treble of small boys. I could see a great throng of people.</p>
 
 <p>Other companies were coming, but I could see only the one in which my boy was marching. They passed a huge grand stand in which some one was reviewing them. After they passed they separated, and the soldiers went in one direction while the sailors followed a street that led to the docks. I saw them reach the docks, and there I saw a great gray battleship (I did not know then that our battleships were gray). They went on board, and the sun was just going down. I could see it sinking slowly across the water, and just as it was nearly out of sight I saw the sailors, with my boy among them, lower the Stars and Stripes. Then they all faded away.</p>
 
@@ -729,11 +1047,11 @@ A Mother's Letter About Her Boy
 
 Is Your Wife Your Worst Customer?
 
-<p>IF you run a grocery or any other retail business, look out for your wife! Unless you watch her she will be the most unprofitable customer you have. The Grocers' Magazine has been investigating this question, and finds Friend Wife a poor credit risk—especially where your store is downstairs and your home above it. For your wife and children may step in at any time, helping themselves to goods, unless you deal with your family more strictly than you do with any other customer.</p>
+<p>IF you run a grocery or any other retail business, look out for your wife! Unless you watch her she will be the most unprofitable customer you have. The Grocers' Magazine has been investigating this question, and finds Friend Wife a poor credit riskespecially where your store is downstairs and your home above it. For your wife and children may step in at any time, helping themselves to goods, unless you deal with your family more strictly than you do with any other customer.</p>
 
 <p>Taking goods soon becomes a habit, and leads to very definite losses, especially where no records are kept. Some merchants are very strict with their families. One grocer in particular, who does a strictly cash business,. will not allow his family credit in the store. He gives his wife her weekly allowance to run the table in cash, and out of that she must pay cash for everything she buys from him.</p>
 
-<p>Investigation among grocers who live near their stores shows that a surprising number of them are strict in this matter. Laxity leads to a double leakage—where goods are taken for family use without record the grocer never knows what his actual profits have been in the store; and he does not know what it costs him for family expenses.</p>
+<p>Investigation among grocers who live near their stores shows that a surprising number of them are strict in this matter. Laxity leads to a double leakagewhere goods are taken for family use without record the grocer never knows what his actual profits have been in the store; and he does not know what it costs him for family expenses.</p>
 
 
 
@@ -742,7 +1060,7 @@ THE FAITHFUL SHAVERS OF THE GREAT
 
 Photographs from Betty Shannon
 
-<p>ANY man on this page, had he been willing to let his hand slip just a trifle, could have got his name in big type and his picture on the front page of all the newspapers. For they have held sharp knives at the throats of the world's great. Charles Bader, for years on duty in the Palmer House, Chicago, has smoothed the cheeks of princes and potentates—including, among others, the Prince of Monaco, the owner of Monte Carlo. "He didn't say much," Mr. Bader relates, "but he did tell me that any man is a fool to spend a cent gambling."</p>
+<p>ANY man on this page, had he been willing to let his hand slip just a trifle, could have got his name in big type and his picture on the front page of all the newspapers. For they have held sharp knives at the throats of the world's great. Charles Bader, for years on duty in the Palmer House, Chicago, has smoothed the cheeks of princes and potentatesincluding, among others, the Prince of Monaco, the owner of Monte Carlo. "He didn't say much," Mr. Bader relates, "but he did tell me that any man is a fool to spend a cent gambling."</p>
 
 <p>JACOB HUYSLER owned the barber shop in the  Manhattan Hotel in New York for ten years, and retired recently to worry along on his savings of some $300.000. In his day he has shaved five Presidents. John D. and his brother William were among his steadies; Jay Gould and William H. Vanderbilt and their sons and grandsons have submitted to his tender touch; and Richard Croker used to drop in regularly. Jacob attributes his success and his fortune to the fact that he never allowed an employee to talk to a customer until he was spoken to.</p>
 
@@ -752,7 +1070,7 @@ Photographs from Betty Shannon
 
 <p>OTTO KROPF'S only regret is that it was before the war that he gave Prince Henry, the Kaiser's brother, a good trimming. "He wore a Van Dyke beard," says Mr. Kropf, "and was very polite and pleasant, but did not seem to care much for perfumes." Mr. Kropf holds the celebrity-shaving record for Milwaukee. The hands that smoothed, Prince Henry's brow have smoothed General Pershing's also; and he has whispered, "A little bay rum, sir?" in the ear of John Philip Sousa, and shouted it in the deaf ears of Thomas A. Edison.</p>
 
-<p>AND last of all, Henri, the "aseptic barber" of the famous old Brevoort Hotel on lower Fifth Avenue. It was at the Brevoort that the Prince of Wales (afterward King Edward) stopped. But that was before Henri's day. However—and it is this that will light Henri's declining years with sunshine—the great Marshal Joffre stopped there on his recent visit, and was caressed by Henri's velvet fingertips. Henri, while advising the smooth chin to his patrons, persists in the verdant chin-whisker: even as our barber, who recommends hair tonic to us so vigorously, is himself entirely bald.</p>
+<p>AND last of all, Henri, the "aseptic barber" of the famous old Brevoort Hotel on lower Fifth Avenue. It was at the Brevoort that the Prince of Wales (afterward King Edward) stopped. But that was before Henri's day. Howeverand it is this that will light Henri's declining years with sunshinethe great Marshal Joffre stopped there on his recent visit, and was caressed by Henri's velvet fingertips. Henri, while advising the smooth chin to his patrons, persists in the verdant chin-whisker: even as our barber, who recommends hair tonic to us so vigorously, is himself entirely bald.</p>
 
 
 
@@ -775,7 +1093,7 @@ Harris & Ewing.
 
 Photograph by Central News Photo Service.
 
-<p>"MISTER BROWN, Mister Brown had a violin," the song ran: and until to-day that was all we knew about him. Now, however, we discover that he also has a daughter. Her name is Katherine, and she is the youngest life guard and swimming instructor in the business. The picture was taken in the summer. Just what a life guard and swimming instructor does in the winter months we are not sure; but we know that she doesn't do this—at least, not for long at a stretch.</p>
+<p>"MISTER BROWN, Mister Brown had a violin," the song ran: and until to-day that was all we knew about him. Now, however, we discover that he also has a daughter. Her name is Katherine, and she is the youngest life guard and swimming instructor in the business. The picture was taken in the summer. Just what a life guard and swimming instructor does in the winter months we are not sure; but we know that she doesn't do thisat least, not for long at a stretch.</p>
 
 <p>WE ask you, who has more titles than any other man in the United States? And when you say, "Give it up," we reply, George Strand, of Wayzata, Minnesota. George is twenty-five years old, and in 1914, when he ran for town constable (salary $10 a year, just ten times Frank Vanderlip's), he was opposed by four candidates, and got all but four votes. He constabled so well that his grateful fellow citizens made him deputy State game warden, village marshal, deputy sheriff, health officer, and chief of the fire department. Part of his badges are shown.</p>
 
@@ -819,11 +1137,11 @@ Photograph from J. U. Schmidt.
 
 <p>THE man who side-stepped nine thousand women eager to wed him has at last become a bridegroom. Colonel Edward H. R. Green (how was it that Hetty, who was so close in everything else, was so prodigal in giving her son initials?) is the only son of the late Hetty; and when a newspaperman in fun started the story that he was looking for a wife, nine thousand women wrote, most of them incl osing photographs. The Colonel, stubborn-like. passed over the whole nine thousand and married some one else.</p>
 
-© Underwood & Underwood.
+ Underwood & Underwood.
 
 <p>MOST wives have the feeling that their husbands are very much overrated men. Doubtless Mrs. Lincoln wondered all her life what the country could possibly see in a man who would forget to wipe his feet on the mat. But Mrs. Moise, who lives in Springfield, Abe's old town, is different. Mr. Moise, her husband, is a hundred years old, and they have never had a cross word. Evenings they amuse themselves by telling each other quaint stories.</p>
 
-<p>THIS is the house that Jackson built. William N. Jackson, the "father of Gary" (Florida, not Indiana). loved and fondled his little town through its infancy into vigorous being. And for years he had no other love. Then, last wint er, sickness came upon him. Lying alone in a Southern hospital, he was startled by a voice that seemed curiously familiar. Glancing up, he saw a beautiful lady traversing the wards. Could it be? It was. The Lucy of his boyhood. now widowed and living in the South. And now—but why finish the story which every reader can finish for himself?</p>
+<p>THIS is the house that Jackson built. William N. Jackson, the "father of Gary" (Florida, not Indiana). loved and fondled his little town through its infancy into vigorous being. And for years he had no other love. Then, last wint er, sickness came upon him. Lying alone in a Southern hospital, he was startled by a voice that seemed curiously familiar. Glancing up, he saw a beautiful lady traversing the wards. Could it be? It was. The Lucy of his boyhood. now widowed and living in the South. And nowbut why finish the story which every reader can finish for himself?</p>
 
 <p>THEIR names? Mrs. and Mr. Skookum Potlach, which in the Chinook language means "good giver." We print them to show how much more sensibly the Indians arrange these matters. Skookum, being nearly ninety, and unable to see well any longer, desi.ed a wife. He approached the parents of Alayek and proffered two canoes and three fish-nets, and the parents were delighted to call him their loving son. How delightfully primitive.</p>
 
@@ -837,15 +1155,15 @@ By SEWELL FORD
 
 Illustrations by Arthur William Brown
 
-<p>THIS trip it was a matter of tanks. No, not the ice-water variety, or the kind that absorbs high-balls. Army tanks—the sort that wallows out at daybreak and gives the Hun that chilly feelin' down his spine.</p>
+<p>THIS trip it was a matter of tanks. No, not the ice-water variety, or the kind that absorbs high-balls. Army tanksthe sort that wallows out at daybreak and gives the Hun that chilly feelin' down his spine.</p>
 
 <p>Accordin' to my credentials, I was supposed to be inspectin' 'em for weak spots in the armor or punk work on the gears. And I can tell you now, on the side, that it was 90 per cent bluff. What the Ordnance Department really wanted to know was whether the work was bein' speeded up proper, how many men on the shifts, and was the steel comin' through from the rollin' mills all right. Get me? Sleuth stuff.</p>
 
 <p>I'd been knockin' around there for four days, bein' towed about by the reserve major, who had a face on him like a stuffed owl, a nut full of decimal fractions, and a rubber-stamp mind. Oh, he was on the job, all right. So was everybody else in sight. I could see that after the first day: In fact, I coded in my 0. K. the second noon and was plannin' to slip back home.</p>
 
-<p>But when I hinted as much to the Major he nearly threw a cat-fit. Why, he'd arranged a demonstration at to A. M. Thursday, for my special benefit. And there were the tests—horse-power, gun- ranges, resistance, and I don't know what all: technical junk that I savvied about as much as if he'd been tryin' to show me how to play the Chinese alphabet on a piccolo.</p>
+<p>But when I hinted as much to the Major he nearly threw a cat-fit. Why, he'd arranged a demonstration at to A. M. Thursday, for my special benefit. And there were the testshorse-power, gun- ranges, resistance, and I don't know what all: technical junk that I savvied about as much as if he'd been tryin' to show me how to play the Chinese alphabet on a piccolo.</p>
 
-<p>Course, I couldn't tell him that, nor I didn't want to break his heart by refusin'. So I agrees to stick around a while longer. But say, I never enjoyed such a poor time doin' it. For there was just one spot on the map where I was anxious to be for the next few days. That was at home. It was one of the times when I ought to be there too, for— Well, I'll get to that later.</p>
+<p>Course, I couldn't tell him that, nor I didn't want to break his heart by refusin'. So I agrees to stick around a while longer. But say, I never enjoyed such a poor time doin' it. For there was just one spot on the map where I was anxious to be for the next few days. That was at home. It was one of the times when I ought to be there too, for Well, I'll get to that later.</p>
 
 <p>Besides, this fact'ry joint where they were buildin' the tanks wasn't any allurin' spot. I can't advertise just where it was,- either; the government wouldn't like it. But if there's any part of Connecticut that's less interestin' to loaf around in, I never got stranded there. You run a spur track out into the bare hills fifteen miles from nowhere, slap up a row of cement barracks and a few acres of machine shops, string a ten-foot barbed-wire fence around the plant, drape the whole outfit in soft- coal smoke, and you ain't got any Garden of Eden winter resort. Specially when it's full of low-brow mechanics who speak in seven different lingos and subsist mainly on cut plug and garlic.</p>
 
@@ -869,17 +1187,17 @@ Illustrations by Arthur William Brown
 
 <p>He shakes his head and stares gloomy out of the window. "I can not agree with you," says he. "Perhaps you have never seriously considered just what it means to be a parent."</p>
 
-<p>"Maybe not," says I, "but—"</p>
+<p>"Maybe not," says I, "but"</p>
 
 <p>"Few seem to do so," he breaks in. "Just think: one begins by putting two lives in jeopardy."</p>
 
 <p>"Let's pass over that," I says hasty.</p>
 
-<p>He sighs. "If we only could," says he. "And then— Well, there you are— saddled with the task of caring for another human being, of keeping him in good health, of molding his character, of planning and directing his whole career, from boyhood on."</p>
+<p>He sighs. "If we only could," says he. "And then Well, there you are saddled with the task of caring for another human being, of keeping him in good health, of molding his character, of planning and directing his whole career, from boyhood on."</p>
 
 <p>"Some are girls, though," I suggests.</p>
 
-<p>He shudders. "So much the worse," says he. ."Girl babies are such delicate creatures; all babies are, in fact. Do you know the average rate of infant mortality in this country? Just think of the hundreds of thousands who do not survive the teething period.Imagine the anxie- ties, the sleepless nights, the sad little tragedies which come to so many homes. Then the epidemic diseases—measles, scarlet fever, meningitis. Let them survive all those, and what has the parent to face but the battle with other plagues, mental and moral? Think of the number of weak-minded children there are in the world; of perverts, criminally inclined. It is staggering. But if you escape all that, if your children are well and normal, as some are, then you must consider this: Suppose anything should happen to either or both of the parents ? What of the little boy or girl? You have seen orphan asylums, I suppose. Have you ever stopped to—"</p>
+<p>He shudders. "So much the worse," says he. ."Girl babies are such delicate creatures; all babies are, in fact. Do you know the average rate of infant mortality in this country? Just think of the hundreds of thousands who do not survive the teething period.Imagine the anxie- ties, the sleepless nights, the sad little tragedies which come to so many homes. Then the epidemic diseasesmeasles, scarlet fever, meningitis. Let them survive all those, and what has the parent to face but the battle with other plagues, mental and moral? Think of the number of weak-minded children there are in the world; of perverts, criminally inclined. It is staggering. But if you escape all that, if your children are well and normal, as some are, then you must consider this: Suppose anything should happen to either or both of the parents ? What of the little boy or girl? You have seen orphan asylums, I suppose. Have you ever stopped to"</p>
 
 <p>And then, just as he had me feelin' like I ought to be led out and shot at sunrise, the old Major comes bustlin' in fussy. I could have fallen on his neck.</p>
 
@@ -899,7 +1217,7 @@ Illustrations by Arthur William Brown
 
 <p>"Just as you say," says I; "only I ain't strong for bein' rolled into pie-crust."</p>
 
-<p>"There's no danger," says he. "I merely wish you to see how— There! Look!"</p>
+<p>"There's no danger," says he. "I merely wish you to see how There! Look!"</p>
 
 <p>And say, within twenty feet of us the blamed thing rears up on its haunches, its ugly nose high as a house above us, and, while I'm still holdin' my breath, it pivots on its tail and lumbers back, leavin' a path that looks like it had been paved with Belgian blocks.</p>
 
@@ -917,7 +1235,7 @@ Illustrations by Arthur William Brown
 
 <p>It's the one I'd been expectin'. All it says is: "Come at once. VEE." But I knew what that meant.</p>
 
-<p>"Sorry, Major," says I, "but I'll have to pass up the rest of the show. I—I'm called back."</p>
+<p>"Sorry, Major," says I, "but I'll have to pass up the rest of the show. II'm called back."</p>
 
 <p>"Ah! To headquarters?" says he.</p>
 
@@ -927,7 +1245,7 @@ Illustrations by Arthur William Brown
 
 <p>"It's in mine, all right;" says I. "But then, I'm not much of an army officer, anyway. I'm mostly a camouflaged private sec. Besides, this ain't any ordinary call. It's a domestic S. 0. S. that I've been sort of lookin' for."</p>
 
-<p>"I understand," .says he. "The—the first ?"</p>
+<p>"I understand," .says he. "Thethe first ?"</p>
 
 <p>I nods. Then I asks: "What's the quickest way across to Long Island?"</p>
 
@@ -937,7 +1255,7 @@ Illustrations by Arthur William Brown
 
 <p>"My car is the only one here," says he, "and that is out of commission to-dayvalves being ground."</p>
 
-<p>"But look," says I; "you got three or four of those motor-cycles with a bathtub tacked on the side. Couldn't you let one of your sergeants—"</p>
+<p>"But look," says I; "you got three or four of those motor-cycles with a bathtub tacked on the side. Couldn't you let one of your sergeants"</p>
 
 <p>"Strictly against orders," says he, "except for military purposes:"</p>
 
@@ -953,7 +1271,7 @@ Illustrations by Arthur William Brown
 
 
 
-<p>"Torchy, did you drop down out of—of the air ?'"</p>
+<p>"Torchy, did you drop down out ofof the air ?'"</p>
 
 <p>of junior officers bein' married. Not durin' war-time, anyway.</p>
 
@@ -979,7 +1297,7 @@ Illustrations by Arthur William Brown
 
 <p>He shrugs his shoulders.</p>
 
-<p>"Fact, old man," says he. "I'm the one you were sent to watch for—Lieutenant. Donald Allen, 26th Flying Corps Division, Squadron B."</p>
+<p>"Fact, old man," says he. "I'm the one you were sent to watch forLieutenant. Donald Allen, 26th Flying Corps Division, Squadron B."</p>
 
 <p>"Pleased to meet you," says I.</p>
 
@@ -987,13 +1305,13 @@ Illustrations by Arthur William Brown
 
 <p>"Oh, I ain't so sure," says I.</p>
 
-<p>"Of course," he says, "it won't go with the C. 0. But really, now, what are you going to do when your observer insists that he's dying? I couldn't tell. Perhaps he was. Right in the middle of a perfect flight, too, the chump! Motor working sweet, air as smooth as silk, and no cross currents to speak of. But, with him howling about this awful pain in his tummy, what else could I do? Had to come down and— Well, here we are. I'm behind the lines, I suppose, and you'll report my surrender."</p>
+<p>"Of course," he says, "it won't go with the C. 0. But really, now, what are you going to do when your observer insists that he's dying? I couldn't tell. Perhaps he was. Right in the middle of a perfect flight, too, the chump! Motor working sweet, air as smooth as silk, and no cross currents to speak of. But, with him howling about this awful pain in his tummy, what else could I do? Had to come down and Well, here we are. I'm behind the lines, I suppose, and you'll report my surrender."</p>
 
 <p>"Then what?" I asks.</p>
 
 <p>"Oh," says Allen, "as soon as I can persuade this trolley-car aviator, Martin, that he isn't dead, I shall load him into the old bus and cart him back to Mineola."</p>
 
-<p>"Wha-a-at!" says I. "You—you're goin' back to Mineola—to-night?"</p>
+<p>"Wha-a-at!" says I. "Youyou're goin' back to Mineolato-night?"</p>
 
 <p>"If Martin can forget his tummy," says he. "How I'll be guyed! Go to the foot of the eligible list too, and probably miss out on being sent over with my division. Oh, well!"</p>
 
@@ -1007,21 +1325,21 @@ Illustrations by Arthur William Brown
 
 <p>"That's where you're mixed," says I. "I'm on the wrong side of Long Island Sound, that's all."</p>
 
-<p>"Why," says he, "weren't you sent out to—"</p>
+<p>"Why," says he, "weren't you sent out to"</p>
 
 <p>"No," I breaks in; "I'm no spotter. I'm on special detail from the Ordnance Department. And a mighty punk detail at that, if you ask me. The party who's sleuthin' for you, I expect, is the one I saw back at the plant, moonin' around with a pair of field glasses strapped to him. You ain't captured yet; not by me, anyway."</p>
 
-<p>"Honest?" says he. "Why, then— then—"</p>
+<p>"Honest?" says he. "Why, then then"</p>
 
-<p>"Uh-huh!" says I. "And if you can make it back to Mineola with a perfectly good passenger in the extra seat you'll qualify for scout work and most likely be over pluggin' Huns within a month or so. That won't tickle you a bit more'n it will me to get to Long Island to-night, for—"</p>
+<p>"Uh-huh!" says I. "And if you can make it back to Mineola with a perfectly good passenger in the extra seat you'll qualify for scout work and most likely be over pluggin' Huns within a month or so. That won't tickle you a bit more'n it will me to get to Long Island to-night, for"</p>
 
 <p>WELL, then I tells him about Yee, and everything.</p>
 
-<p>"By George!" says he. "You're all right, Lieutenant—er—"</p>
+<p>"By George!" says he. "You're all right, Lieutenanter"</p>
 
 <p>"Ah, between friends, Donald," says I, "it's Torchy."</p>
 
-<p>At which we links arms chummy and goes marchin' close order down to the farm-house to see how this Martin party was gettin' on. We finds him rolled up in quilts on an old sofa that the folks had shoved up in front of the stove—a slim, nervous-lookin' young gink with sandy hair and a peaked nose.</p>
+<p>At which we links arms chummy and goes marchin' close order down to the farm-house to see how this Martin party was gettin' on. We finds him rolled up in quilts on an old sofa that the folks had shoved up in front of the stovea slim, nervous-lookin' young gink with sandy hair and a peaked nose.</p>
 
 <p>"Well, how about you?" asks Allen.</p>
 
@@ -1029,11 +1347,11 @@ Illustrations by Arthur William Brown
 
 <p>"Still dying, eh ?" says Allen. "Why didn't you report sick this morning, instead of letting them send you up with me?"</p>
 
-<p>"I--I was all right then," whines Martin. "It—it must have been the altitude got me. I—I'd never been that high before, you know."</p>
+<p>"I--I was all right then," whines Martin. "Itit must have been the altitude got me. II'd never been that high before, you know."</p>
 
-<p>"Bah!" says the Lieutenant. "Not over thirty-five hundred at any time. How do you expect me to take you back—on the hundred-foot level? You'll make a fine observer, you will!"</p>
+<p>"Bah!" says the Lieutenant. "Not over thirty-five hundred at any time. How do you expect me to take you backon the hundred-foot level? You'll make a fine observer, you will!"</p>
 
-<p>"I've had enough observing," says Martin. "I—I'm going to get transferred to the mechanical department."</p>
+<p>"I've had enough observing," says Martin. "II'm going to get transferred to the mechanical department."</p>
 
 <p>"Oh, are you ?" says Allen. "Then you'll be just as satisfied to make the trip back by rail."</p>
 
@@ -1045,7 +1363,7 @@ Illustrations by Arthur William Brown
 
 <p>"Eh?" says I. "Map of what?"</p>
 
-<p>He explains jerky. this scoutin' stunt of his was to locate the tank works and get close enough for an observer to draw a plan of it—all of which he'd done, only by then Martin had got past the drawin' stage.</p>
+<p>He explains jerky. this scoutin' stunt of his was to locate the tank works and get close enough for an observer to draw a plan of itall of which he'd done, only by then Martin had got past the drawin' stage.</p>
 
 <p>"So it's no use going back to-night."</p>
 
@@ -1063,7 +1381,7 @@ Illustrations by Arthur William Brown
 
 <p>"Ever been up before?" he asks.</p>
 
-<p>"Only once—in a hydro," says I; "but I ain't missed any chances."</p>
+<p>"Only oncein a hydro," says I; "but I ain't missed any chances."</p>
 
 <p>"That's the spirit!" says he. "Come along. The old bus is anchored down the field a ways."</p>
 
@@ -1083,7 +1401,7 @@ Illustrations by Arthur William Brown
 
 <p>"It's fifty-fifty," says I. "Where do I hit a station ?"</p>
 
-<p>"You take this trolley that's coming," says he. "That junk you have on you can send back to-morrow, in my care. And I —I trust you'll find things all right at home."</p>
+<p>"You take this trolley that's coming," says he. "That junk you have on you can send back to-morrow, in my care. And I I trust you'll find things all right at home."</p>
 
 <p>"Thanks," says I. "Hope you'll have the same luck yourself some day."</p>
 
@@ -1111,17 +1429,17 @@ Illustrations by Arthur William Brown
 
 <p>But I brushes past her, and the next minute I'm over by the bed and Vee is smilin' up at me. It's only the ghost of a smile, but it means a lot to me. She slips one of her hands into mine.</p>
 
-<p>"Torchy," she whispers, "did you drop down out of—of the air?"</p>
+<p>"Torchy," she whispers, "did you drop down out ofof the air?"</p>
 
 <p>"That was about it," says I. "I got here, though. Are you all right, girlie?"</p>
 
 <p>She nods and gives me another of them sketchy, happy smiles.</p>
 
-<p>"And how about the—the—" I starts to ask.</p>
+<p>"And how about thethe" I starts to ask.</p>
 
 <p>She glances towards the corner where the nurse is bendin' over a pink and white basket. "He's splendid," she whispers.</p>
 
-<p>"He?" says I. "Then—then it's a boy?"</p>
+<p>"He?" says I. "Thenthen it's a boy?"</p>
 
 <p>She gives my hand a little squeeze.</p>
 
@@ -1162,7 +1480,7 @@ Concluded from page 5
 
 <p>Then the project relapsed into the class of those good things that everybody knows ought to be done but which everybody supposes are impossible.</p>
 
-<p>Mr. McAdoo—not an engineer; not a railroad man; just a lawyer from the South—made up his mind that it could be done. So he went forth from office to office, and by the force of his conviction raised $70,000,000 to do it. The McAdoo tubes, as they are still called, through which hundreds of thousands of Jerseyites are carried to and from their homes to New York and back every day, are a monument to his vision and his ability to "get things done."</p>
+<p>Mr. McAdoonot an engineer; not a railroad man; just a lawyer from the Southmade up his mind that it could be done. So he went forth from office to office, and by the force of his conviction raised $70,000,000 to do it. The McAdoo tubes, as they are still called, through which hundreds of thousands of Jerseyites are carried to and from their homes to New York and back every day, are a monument to his vision and his ability to "get things done."</p>
 
 <p>WHEN Brand Whitlock was elected Mayor of Toledo he wrote to Tom Johnson, Mayor of Cleveland, and asked him for some advice about handling an executive job. Johnson wrote two or three sentences of sound common sense in reply, and among them this one:</p>
 
@@ -1172,13 +1490,13 @@ Concluded from page 5
 
 <p>He stood at his desk, as I walked in, tall and straight, and looking very brown and fresh in spite of the two Congressmen and the others who had been at him. I asked him what in his recent experiences had impressed him most.</p>
 
-<p>"The wonderful spirit of the American people," he answered at once. "Here we are engaged in a great war. Our government is demanding tremendous financial sacrifices. Our transportation system is so tied up that the business enterprises of thousands of people are interrupted. And yet, we have almost no complaint. Every man and woman with whom we come in contact is simply waiting to be told how he or she can do their part— what they can do to help.</p>
+<p>"The wonderful spirit of the American people," he answered at once. "Here we are engaged in a great war. Our government is demanding tremendous financial sacrifices. Our transportation system is so tied up that the business enterprises of thousands of people are interrupted. And yet, we have almost no complaint. Every man and woman with whom we come in contact is simply waiting to be told how he or she can do their part what they can do to help.</p>
 
 <p>"Just before Christmas I had a deleation of jewelers who came on here from ew York. Their business, being a luxury, has been very seriously interfered with.</p>
 
 <p>"They showed me -a very grave condition, and asked me whether I could not let up on the War Savings Campaign until after their holiday trade was over with. Of course I couldn't do that; and, just as frankly as I could, I told them why.</p>
 
-<p>"There was one man in the crowd whom I watched as I talked, because• his face was so stolid, so unresponsive. I got the habit of picking out one individual in a group when I used to address juries years ago. From one man's expression, if you study it closely, you can gather a very good idea about the sort of progress you are making. So I watched this man. His face showed nothing-no trace of emotion at all. I felt a little disappointed: it seemed as if I must be failing to get my point across.</p>
+<p>"There was one man in the crowd whom I watched as I talked, because his face was so stolid, so unresponsive. I got the habit of picking out one individual in a group when I used to address juries years ago. From one man's expression, if you study it closely, you can gather a very good idea about the sort of progress you are making. So I watched this man. His face showed nothing-no trace of emotion at all. I felt a little disappointed: it seemed as if I must be failing to get my point across.</p>
 
 <p>"After a bit the conference broke up. They rose to go; and, as they did so, that one stolid individual came over to me and said:</p>
 
@@ -1206,7 +1524,7 @@ Concluded from page 5
 
 Putting Lowes on High
 
-<p>EVERY night, when we go home I  with our dinner-pail in hand, we have the proud feeling that—though we ourselves are obscure and unknown— we have helped to make somebody famous.</p>
+<p>EVERY night, when we go home I  with our dinner-pail in hand, we have the proud feeling thatthough we ourselves are obscure and unknown we have helped to make somebody famous.</p>
 
 <p>A few weeks ago we published an article by Ellis Parker Butler on his friend Clarence M. Lowes, a " Sixty Man- Power Man." A few days later the author of "Pigs is Pigs" called us up:</p>
 
@@ -1227,7 +1545,7 @@ By PROFESSOR JOHN PAUL GIVLER
 
 <p>Did you, when a boy, put horsehairs into water in the belief that they would change into young eels? if you did you were acting unconsciously in accord with a world-old legend, a folk-tale of many peoples, born of the attempt to account for the eel. In fact, the Greek philosopher Aristotle, who was curious about eels two thousand years ago, shared that notion, or one very like it; for he decided that the young eels sprang from slime.</p>
 
-<p>Where do the eels come from—the "eel problem," as naturalists called it—was one of the unanswered questions until very recent years. Only two things were known: that in the fall the older female eels pass down the streams and out into the open sea; and that in the spring multitudes of baby eels, called elvers, make their way upstream, overcoming obstacles that their brethren among the fishes would never attempt.</p>
+<p>Where do the eels come fromthe "eel problem," as naturalists called itwas one of the unanswered questions until very recent years. Only two things were known: that in the fall the older female eels pass down the streams and out into the open sea; and that in the spring multitudes of baby eels, called elvers, make their way upstream, overcoming obstacles that their brethren among the fishes would never attempt.</p>
 
 <p>These elvers sometimes appear in great armies, moving in dense columns along the shore, crawling over stones and even crossing stretches of dry land, driven onward by their instinct to seek those parts of the rivers where the larger eels are found. At a certain time in the spring thousands of these baby eels may be seen stranded on the rocks at the foot of Niagara Falls or making the attempt to ascend the great cataract.</p>
 
@@ -1251,7 +1569,7 @@ Why Do They Do It?
 
 <p>Darwin interested himself in the development of instinct. He decided that in the beginning of things instinct didn't amount to much, but that it grew stronger by natural selection as the creatures with the best instincts got ahead in the battle of life, just as do those with the best teeth, claws, or brains. Other scientists agreed with Darwin and developed his theory, but none of them has answered the question: "If the higher instincts arose by evolution, how did the first and simplest ones arise?"</p>
 
-<p>The great naturalist Lamarck decided that instinct was "inherited habit"—the ways of the elders handed down to the children; and there he stopped.</p>
+<p>The great naturalist Lamarck decided that instinct was "inherited habit"the ways of the elders handed down to the children; and there he stopped.</p>
 
 <p>It is plain, then, that, although there are many things in the study of instincts that may be explained, there are, down below it all, many others that remain entirely unknown. There is abundant room left 'for reverent respect and wonder as instincts take hold on the very beginnings of things; for they are the dynamic complexes of "action, reaction, and interaction" in terms of which Professor Henry Fairfield Osborn states the problem of the origin and evolution of life. J. P. G.</p>
 
@@ -1295,7 +1613,7 @@ Who is she?
 
 <p>She arrived at a famous manager's office one rainy morning twenty-seven years ago, carrying a big umbrella. Asked what she could do, she gulped and whispered that she had danced and sung and tumbled about in farce comedy, and had even once tried to jump through circus rings. She had played Juliet ever since she was a babe in arms, when her mother carried her on to her first scene. She could do anything that any actress could do, she said. Then she vibrated, stretched out her thin arms, and cried in her own peculiar, throaty voice: "Give me a chance."</p>
 
-<p>The voice decided it. It was one in a million. The chance was given her— though she was a pale little creature with out even a complexion. Her charm lay in the fact that she was direct and alive; now melting, now drooping, rippling always elfishly with fantastic spirits.</p>
+<p>The voice decided it. It was one in a million. The chance was given her though she was a pale little creature with out even a complexion. Her charm lay in the fact that she was direct and alive; now melting, now drooping, rippling always elfishly with fantastic spirits.</p>
 
 <p>Five years later she was the most popular actress on the American stage.</p>
 
@@ -1314,7 +1632,7 @@ You Can Have this Bad Law Changed
 
 <p>The necessity is this: either they must stop coming to your home, or they must charge you more for every copy.</p>
 
-<p>Moreover,—and here is the unjust feature of the law,—they must charge you more in proportion as you live farther from the place of publication.</p>
+<p>Moreover,and here is the unjust feature of the law,they must charge you more in proportion as you live farther from the place of publication.</p>
 
 <p>As most of the magazines are published in New York, this means that if you live m the Middle West or the Far West or the South, you are penalized by Congress under this law.</p>
 
@@ -1326,13 +1644,13 @@ You Can Have this Bad Law Changed
 
 <p>If you agree with us, then, as a citizen in the democracy, don't leave your duty for some one else to do. Make up your mind that in this important matter you are going to do your part to make our laws what they ought to be.</p>
 
-<p>If you will write to your Senator, saying: "Dear Senator: I think the Zone System of Second Class Postage, as passed by Congress at its last session, is wrong in principle and will work injury to the country, and ought to be repealed"—if you will say that in a letter to-day, you will have done your share.</p>
+<p>If you will write to your Senator, saying: "Dear Senator: I think the Zone System of Second Class Postage, as passed by Congress at its last session, is wrong in principle and will work injury to the country, and ought to be repealed"if you will say that in a letter to-day, you will have done your share.</p>
 
 <p>If every one of the 500,000 subscribers of this magazine will do that, there is not the slightest doubt in the world that the law will be changed.</p>
 
 <p>No Congress will legislate against the expressed wishes of half a million thoughtful American citizens.</p>
 
-<p>Let us—the readers of this magazine —change that law. EVERY WEEK is a youngster among the magazines. Let us prove how strong a youngster it is—strong enough, .through its loyal friends, to speak to the Congress of the United States and be heard.</p>
+<p>Let usthe readers of this magazine change that law. EVERY WEEK is a youngster among the magazines. Let us prove how strong a youngster it isstrong enough, .through its loyal friends, to speak to the Congress of the United States and be heard.</p>
 
 <p>Here is a list of the Senators of the United States. Write to one of them from your State to-day, and if you want to do a thorough job, write to both of them.</p>
 
@@ -1344,7 +1662,7 @@ THE EDITOR ANSWERS
 
 <p>NOTHING irritates me more than these hotels that print "Old Fashioned Rice Pudding" on the menu card; and when the waiter brings it to you, you discover that there are no raisins in it.</p>
 
-<p>I am president of the S. R. R. R. P.— the Society for the Restoration of Raisins in Rice Pudding. All friends of humanity desiring to join, please communicate with me.</p>
+<p>I am president of the S. R. R. R. P. the Society for the Restoration of Raisins in Rice Pudding. All friends of humanity desiring to join, please communicate with me.</p>
 
 A Good Thrift Idea
 
@@ -1377,7 +1695,7 @@ Showing You Can't Please
 
 <p>I want to thank you for the fairness and sympathy with which your publication has always treated the colored race. As a teacher for several years in a Southern school, I know how much such treatment means, and how much encouragement it brings to a loyal and unappreciated people.  (Mrs.) E. H. G., Wilmington, Delaware.</p>
 
-<p>And in the same mail this—brief and to the point:</p>
+<p>And in the same mail thisbrief and to the point:</p>
 
 <p>Sir:</p>
 
@@ -1397,7 +1715,7 @@ All Right, Old Top
 
 <p>Sir:</p>
 
-<p>I feel like addressing you as "Old Top"—not to be presumptuous, but in a spirit of friendliness, because I like the way you say things in your magazine. P. B. M., Pittsburgh.</p>
+<p>I feel like addressing you as "Old Top"not to be presumptuous, but in a spirit of friendliness, because I like the way you say things in your magazine. P. B. M., Pittsburgh.</p>
 
 <p>Who are we to stand on our dignity? It's your nickel a week that keeps us going: call us anything you like.</p>
 
@@ -1419,9 +1737,9 @@ From a Husband
 
 <p>There is a lot of horse sense and human philosophy in your editorial on marriage. But how did it happen that so many of the married people who wrote to you were the unhappy ones? Among all my married friends, I,know of only one couple that are not happy: do you suppose my experience is unique?  J. H. D., Battle Creek, Michigan.</p>
 
-<p>I do not, J. H. D.; I believe that a very great majority of married people are happy—that if all marriages were to be automatically dissolved at 12 o'clock tomorrow, ninety per cent of the husbands and wives would take a couple of deep breaths, say to themselves, "Isn't it wonderful to be free?" and promptly marry each other again.</p>
+<p>I do not, J. H. D.; I believe that a very great majority of married people are happythat if all marriages were to be automatically dissolved at 12 o'clock tomorrow, ninety per cent of the husbands and wives would take a couple of deep breaths, say to themselves, "Isn't it wonderful to be free?" and promptly marry each other again.</p>
 
-<p>But it's the unhappy ones we hear about—bad news travels so much faster than good. If I were to fall heir to a fortune to-morrow, for instance, you might possibly hear about it in the course of the next ten years. But if I were to be arrested for picking a pocket on Broadway, two or three readers of this magazine would call you on the telephone and tell you about it before nightfall.</p>
+<p>But it's the unhappy ones we hear aboutbad news travels so much faster than good. If I were to fall heir to a fortune to-morrow, for instance, you might possibly hear about it in the course of the next ten years. But if I were to be arrested for picking a pocket on Broadway, two or three readers of this magazine would call you on the telephone and tell you about it before nightfall.</p>
 
 Finale
 
@@ -1437,7 +1755,7 @@ What Will Happen When Peace Returns?
 <p>THERE is one subject to-day on which your opinion is just about as good as any other man's. That is
 the question of when the war will end.</p>
 
-<p>Soldiers say: "Two years, if we have to wait for a military decision." Socialists say: "Within ninety days." And Wall Street—whose opinion, to be sure, has been wrong as often as right about the war--has had the strong feeling in these last weeks that it is "in the air" and that the war will not go through another winter.</p>
+<p>Soldiers say: "Two years, if we have to wait for a military decision." Socialists say: "Within ninety days." And Wall Streetwhose opinion, to be sure, has been wrong as often as right about the war--has had the strong feeling in these last weeks that it is "in the air" and that the war will not go through another winter.</p>
 
 <p>Six stock-marketexperts met, a few weeks ago, and held an informal "peace conference," as the Magsine of Wall Street calls it in reporting  what took place. They asked themselves, first of all, what the effect of an early peace will be on the prices of Liberty Bonds: and on this point they were unanimously agreed. The Liberty Bonds will almost immediately begin to climb, they said, until they approach a 3 per cent basis. That would mean that the 3's would sell at from 106 to 110, and the 4's at 117 or thereabouts. Every holder of Liberty Bonds holds a real, dependable profit if the war ends this year.</p>
 
@@ -1445,11 +1763,11 @@ the question of when the war will end.</p>
 
 <p>Since many of these are now selling on a 6 to 8 per cent basis, this means substantial advances in price all along the line.</p>
 
-<p>The six agreed, also, that the return of peace will bring an immediate slowing down in industries of nearly all lines, particularly those that have engaged largely in war work. the stocks of these are likely to sell lower; and certain industries —such as steel, for example, where the production has been forced far beyond normal—may experience very serious readjustment pains.</p>
+<p>The six agreed, also, that the return of peace will bring an immediate slowing down in industries of nearly all lines, particularly those that have engaged largely in war work. the stocks of these are likely to sell lower; and certain industries such as steel, for example, where the production has been forced far beyond normalmay experience very serious readjustment pains.</p>
 
 <p>That the great relief of the world at the coming of peace will be reflected in an immediate rise of the security market as a whole, these men thought likely. But, following that, they expect reactions and adjustments of prices to lower levels.</p>
 
-<p>After that reaction the great opportunity of the investor with a little money in the bank will come. It was in such times that Russell Sage and Hetty Green, always with ready cash on hand, made their great profits. And smaller investors with courage and patience enough to keep a little money free—and to wait—can apply the same rule to their own advantage.</p>
+<p>After that reaction the great opportunity of the investor with a little money in the bank will come. It was in such times that Russell Sage and Hetty Green, always with ready cash on hand, made their great profits. And smaller investors with courage and patience enough to keep a little money freeand to waitcan apply the same rule to their own advantage.</p>
 
 Who Owns the United States?
 
@@ -1471,7 +1789,7 @@ You can understand this statement.  How much better it is than the old-fashioned
 
 John D. Does His Bit
 
-<p>WALL STREET hears that John D. and William Rockefeller sold fully $5o,000,000 of investment securities last year, and have pledged probably $30,000,000 additional as security for loans the proceeds of which they are jointly using for the purchase of Liberty Bonds—all the non-taxable per cents," says the Financial World.</p>
+<p>WALL STREET hears that John D. and William Rockefeller sold fully $5o,000,000 of investment securities last year, and have pledged probably $30,000,000 additional as security for loans the proceeds of which they are jointly using for the purchase of Liberty Bondsall the non-taxable per cents," says the Financial World.</p>
 
 <p>"The Rockefeller agents have orders in for Liberty Bonds which are in excess of the available supply. They do not bid for the bonds, but take them as they are offered in large blocks, and they are delivered to the two rich men in blocks of $100,000 each. The brothers divide them equally, it is said.</p>
 
