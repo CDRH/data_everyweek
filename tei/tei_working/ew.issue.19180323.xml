@@ -1,4 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180323">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 23, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180323</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-03-23">March 23, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-03-28"><name>Erin Marra</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19180323.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER</note>
+<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cts.</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>March 23, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<p></p>
+<ab type="credit">Robt. Robinson</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180316.p002"/>
 
 Democracy is a New Show, and Every Citizen is the Stage-Manager
 
@@ -22,9 +129,9 @@ Democracy is a New Show, and Every Citizen is the Stage-Manager
 
 <p>One of the reasons we're fighting, I said to him, is to make the Autocracy family pull up those curtains, and bring their corn-cob pipes and their laundry out on the porch.</p>
 
-<p>And while our boys are over in Autocracy's front yard, breaking the windows and letting sunlight into the back rooms, we don't want anybody—the President or any one else—to be staying at home and locking our doors or pulling our curtains down.</p>
+<p>And while our boys are over in Autocracy's front yard, breaking the windows and letting sunlight into the back rooms, we don't want anybodythe President or any one elseto be staying at home and locking our doors or pulling our curtains down.</p>
 
-<p>Public criticism is always noisy, sometimes unpleasant, and frequently mistaken: but it is an inseparable feature of democratic control. And, in the long run, it works well—even for the men who are criticized.</p>
+<p>Public criticism is always noisy, sometimes unpleasant, and frequently mistaken: but it is an inseparable feature of democratic control. And, in the long run, it works welleven for the men who are criticized.</p>
 
 <p>And now, my dear Morley [wrote Gladstone to John Morley], there is one more thing I wish to say to you: Take it from me that to endure trampling on with patience and self-control is no bad element in the preparation of a man for walking firmly and successfully in the path of great public duty. Be sure that discipline is full of blessings.</p>
 
@@ -38,7 +145,7 @@ Democracy is a New Show, and Every Citizen is the Stage-Manager
 
 <p>In the first place, it is necessary to open up the processes of our politics. They have been too secret, too complicated: they have consisted too much of private conference and secret understandings. If there is nothing to conceal, then why conceal it? If it is a public game, then why play it in private? Publicity is one of the purifying elements of politics.</p>
 
-<p>The gentleman who made these remarks is now President of the United States—the same gentleman whom many tender-hearted people are seeking to shield from the publicity in which he so thoroughly believes.</p>
+<p>The gentleman who made these remarks is now President of the United Statesthe same gentleman whom many tender-hearted people are seeking to shield from the publicity in which he so thoroughly believes.</p>
 
 <p>Autocracy is a very old performance. When the curtain of history rose six or seven thousand years ago, kings were playing their part in the spot-light, and they have been on the stage ever since.</p>
 
@@ -67,15 +174,15 @@ The Prize Story
 
 <p>One night, about three months after the death of my husband, I went to bed as usual, and had slept some time, when I was awakened suddenly without any apparent cause.</p>
 
-<p>I sat up and looked around; but, seeing and hearing nothing, I was preparing to go to sleep again, when I thought I would see what time it was. I reached up to turn on the lamp at my bedside; but I was arrested in the action—not by a sound or a movement, but by a mysterious, inexplicable something much more startling than a sound would have been.</p>
+<p>I sat up and looked around; but, seeing and hearing nothing, I was preparing to go to sleep again, when I thought I would see what time it was. I reached up to turn on the lamp at my bedside; but I was arrested in the actionnot by a sound or a movement, but by a mysterious, inexplicable something much more startling than a sound would have been.</p>
 
-<p>I peered into the darkness around me, and then—well, it is useless to at-tempt to describe my feelings. For there, at the foot of the bed, stood my husband. He looked and was dressed exactly as in life. He spoke:</p>
+<p>I peered into the darkness around me, and thenwell, it is useless to at-tempt to describe my feelings. For there, at the foot of the bed, stood my husband. He looked and was dressed exactly as in life. He spoke:</p>
 
 <p>''Kitty, lock your door. Do it now for me, clear."</p>
 
 <p>"Neil, Neil!" I cried, and started out of bed.</p>
 
-<p>But as I did so he—I can not tell what happened: he was not there.</p>
+<p>But as I did so heI can not tell what happened: he was not there.</p>
 
 <p>I turned on the light, and as I did so I experienced a reaction. I had always been very skeptical concerning the super-natural, and had always believed that there was a normal cause behind every seemingly inexplicable manifestation. This feeling, coupled with that produced by the bright light, made me say to myself that I was foolish to think anything unusual had happened. But in spite of that I, womanlike, got up and locked the door. And then came the part I consider more curious than anything else. I went back to bed, and immediately fell into a sound sleep. 1 did not wake till morning.</p>
 
@@ -87,7 +194,7 @@ Mothers Sometimes Dream True.
 
 <p>I WAS a widow, with one child, living I in San Francisco. My position was that of advertising woman on a magazine printed in that city. I was busy all the time, and scarcely took time to sleep, going to bed late and getting up early in the morning. So I did not notice that my little daughter, who was the apple of my eye, was looking pale and listless until one evening she told me she felt tired all the time. I decided at once that she was studying too hard and must have a vacation, a complete change.</p>
 
-<p>We had some friends living in a small country town near there, and they were very fond of her, often telling me if anything should happen to me they would like to have Ruth; so I wrote them she was coming next day. I took her clown to the steamer, and put her aboard, telling her she must be sure to let me know if she did not feel better very soon. Her long black curls hanging down her back and a smile on her face — that is the picture I carried back with me to my work.</p>
+<p>We had some friends living in a small country town near there, and they were very fond of her, often telling me if anything should happen to me they would like to have Ruth; so I wrote them she was coming next day. I took her clown to the steamer, and put her aboard, telling her she must be sure to let me know if she did not feel better very soon. Her long black curls hanging down her back and a smile on her face  that is the picture I carried back with me to my work.</p>
 
 <p>Everything went well.	I had letters from her almost every day, assuring me she was getting fat, had lots of good milk to drink and such nice fruit. I was de-lighted. She said she and Mrs.---went for a long walk every morning, as they thought she had been confined too closely in school. I pictured her coming back soon her old self again, and thanked God I had sent her away, although I missed her very much and felt that home was not much to come to without her.</p>
 
@@ -107,7 +214,7 @@ Mothers Sometimes Dream True.
 
 <p>Ruth and our friends were at the dock to meet me. The moment I looked at her I knew something was wrong. She was much paler and her eyes much larger than when she left me; and her lips were color-less. But she seemed to be in good spirits, and no one said anything about her not being well.</p>
 
-<p>That night when we were alone she said: "Oh. mother, I have been wanting you so much! But every one has been so good, I hated to say I wanted you. I am net sick—I am just tired all the time. I don't know what is the matter with me."</p>
+<p>That night when we were alone she said: "Oh. mother, I have been wanting you so much! But every one has been so good, I hated to say I wanted you. I am net sickI am just tired all the time. I don't know what is the matter with me."</p>
 
 <p>Next morning I brought her home, and immediately took her to see our family physician, and asked him to examine her carefully. When he had finished his examination he told me Ruth was in a very serious condition, had a very bad case of leakage of the heart. The least jar or motion might take her away. He advised me to take her home in a taxicab and put her to bed, and not to let her move, even to turn over in her bed. It was several weeks before she began to show any signs of improvement, but she finally got well.</p>
 
@@ -117,7 +224,7 @@ After His Daughter's Death
 
 <p>YE5, I did have an experience that I was unable to explain at the time, and, although it happened seventeen years ago, I haven't found an explanation of it since. In fact, I never looked for an ex! la-nation, nor do I wish any now. In a won% my little daughter's spirit appeared to me after her death, and I don't care to have some materialist tell me I was dreaming, or some specialist inform me my nerves were unstrung by grief and shock.</p>
 
-<p>I loved this child—Margie was her name --a little bit more than I did the other children, although they were all good and lovable. Maybe it was because she was my oldest. She was a pretty baby--:o pretty that people used to stop my wife and me on the street and in the stores, to pat her cheeks or to say something nice to her. As she grew up she developed a wonderfully helpful love of all mankind, particularly of those in need or suffering.</p>
+<p>I loved this childMargie was her name --a little bit more than I did the other children, although they were all good and lovable. Maybe it was because she was my oldest. She was a pretty baby--:o pretty that people used to stop my wife and me on the street and in the stores, to pat her cheeks or to say something nice to her. As she grew up she developed a wonderfully helpful love of all mankind, particularly of those in need or suffering.</p>
 
 <p>When she was old enough she, of her own volition, joined a church, and was admitted to the choir. She was just a little past fifteen when we found her dead</p>
 
@@ -126,7 +233,7 @@ Continued on page 15
 
 "My dining-room had been entered and the silver carried off. Worst of all, there were traces on my bedroom door of an effort to force it open. What had happened to prevent it, I do not know."
 
-<p>HOW are you paying for your Liberty Bonds? We have a letter from a very rich man who tells—giving the actual figures—how he has cut down his expenses to one third of what they used to be. We would like to print a page of letters from people who, in 'unusual ways, have effected economies or opened up new sources of income with which to help "win the war." Make your letter specific. We'll pay for those we print. We do not return unused letters.</p>
+<p>HOW are you paying for your Liberty Bonds? We have a letter from a very rich man who tellsgiving the actual figureshow he has cut down his expenses to one third of what they used to be. We would like to print a page of letters from people who, in 'unusual ways, have effected economies or opened up new sources of income with which to help "win the war." Make your letter specific. We'll pay for those we print. We do not return unused letters.</p>
 
 
 
@@ -144,7 +251,7 @@ Official Press Bureau photograph; from Paul Thompson
 They will come back some springtime with the warm winds and the rain; For Nature guardeth her children
 Never in vain.</p>
 
-<p>They will come back some season; it may be a hundred years—It is all one to Nature, with the centuries that are hers; She shall bring back her children
+<p>They will come back some season; it may be a hundred yearsIt is all one to Nature, with the centuries that are hers; She shall bring back her children
 And dry all their tears.</p>
 
 From, "The Great Guns of England," by Lord Dunsany (Overland Monthly).
@@ -245,21 +352,21 @@ Rowine Williams doing her morning exercises.
 
 HOW THE HOHENZOL-LERNS REPAY
 
-<p>WILHELM and his house are not such bad masters, if one serves them on one's knees: but let a German once make the mistake of entertaining any democratic ideals, and—no matter how great his service to the nation and its Kaiser—he need expect nothing.</p>
+<p>WILHELM and his house are not such bad masters, if one serves them on one's knees: but let a German once make the mistake of entertaining any democratic ideals, andno matter how great his service to the nation and its Kaiserhe need expect nothing.</p>
 
-<p>In the final overthrow of Napoleon, few men were more instrumental than Henry Frederick Charles, Baron vom Stein, as Andrew D. White shows in Seven Great Statesmen (Century Company). A German of splendid character and ideals, he took hold of Prussia, when Napoleon had humbled her in the dust, and made so much progress in her rehabilitation that Napoleon demanded his discharge and banishment. For years Stein was a fugitive—first at the court of Vienna and then at the Russian court. But, wherever he went, he kept the fires of hatred against Napoleon aflame. He filled the weak Czar with the idea of becoming the saviour of Europe. But in doing it he made the great error. He went into the provinces that had once been Prussian and were now Russian, and there organized the people against Napoleon, calling them together in a parliament.</p>
+<p>In the final overthrow of Napoleon, few men were more instrumental than Henry Frederick Charles, Baron vom Stein, as Andrew D. White shows in Seven Great Statesmen (Century Company). A German of splendid character and ideals, he took hold of Prussia, when Napoleon had humbled her in the dust, and made so much progress in her rehabilitation that Napoleon demanded his discharge and banishment. For years Stein was a fugitivefirst at the court of Vienna and then at the Russian court. But, wherever he went, he kept the fires of hatred against Napoleon aflame. He filled the weak Czar with the idea of becoming the saviour of Europe. But in doing it he made the great error. He went into the provinces that had once been Prussian and were now Russian, and there organized the people against Napoleon, calling them together in a parliament.</p>
 
-<p>A parliament—Frederick William of Prussia never forgave him that audacity. When the old statesman lay in the garret of a hotel at Breslau, apparently at the point of death, Frederick William did not even send him a kindly message.</p>
+<p>A parliamentFrederick William of Prussia never forgave him that audacity. When the old statesman lay in the garret of a hotel at Breslau, apparently at the point of death, Frederick William did not even send him a kindly message.</p>
 
-<p>He had saved the king, but he had committed the unpardonable sin—he had helped to spread the idea of Democracy.</p>
+<p>He had saved the king, but he had committed the unpardonable sinhe had helped to spread the idea of Democracy.</p>
 
 THE COST OF FIRING A MAN
 
 <p>TWELVE American factories, the smallest employing three hundred men and women, and the largest over 10,000, were selected by Mr. M. W. Alexander for study as to the cost of maintaining their labor supply. He took the year 1912 as being a nearly normal industrial year, and the results of his investigations, as published in a recent government bulletin, are startling.</p>
 
-<p>He discovered that the twelve factories increased their number of employees during the year by 6,697 persons. But—and here is the significant fact--to provide that net increase a total of 42,571 persons were hired during the year and 35,874 were dropped from employment.</p>
+<p>He discovered that the twelve factories increased their number of employees during the year by 6,697 persons. Butand here is the significant fact--to provide that net increase a total of 42,571 persons were hired during the year and 35,874 were dropped from employment.</p>
 
-<p>In other words, for every person added permanently to the pay-roll six had to be added temporarily—"tried out."</p>
+<p>In other words, for every person added permanently to the pay-roll six had to be added temporarily"tried out."</p>
 
 <p>The factory owners themselves had never given any special consideration to the subject. When the figures were pre-seined to them, they were amazed, and immediately began to figure what it cost each one of them to hire and fire a man. The estimates varied all the way from $50 to $200. In other words, those twelve industries had been put to an expense of between two and nine million dollars in finding "square pegs" to fit into square holes!</p>
 
@@ -273,17 +380,17 @@ Photograph by Paul Thompson
 
 A CITY INTOXICATED BY GOLD
 
-<p>BEFORE gold was discovered, San Francisco was nothing but a few small houses occupied by settlers and one or two merchants engaged in the exportation of hides and horns. The gold rush began, and San Francisco became a city overnight—a hideous city of saloons and rats and rioting. In The Gold Hunters (Outing Adventure Library) James Borth-wick tells how San Francisco looked to him in 1851, when he joined the scramble for gold. The book is a contemporary account, revised and edited by Horace Kephart.</p>
+<p>BEFORE gold was discovered, San Francisco was nothing but a few small houses occupied by settlers and one or two merchants engaged in the exportation of hides and horns. The gold rush began, and San Francisco became a city overnighta hideous city of saloons and rats and rioting. In The Gold Hunters (Outing Adventure Library) James Borth-wick tells how San Francisco looked to him in 1851, when he joined the scramble for gold. The book is a contemporary account, revised and edited by Horace Kephart.</p>
 
 <p>"Everything bore evidence of newness, and the greater part of the city presented a makeshift and temporary appearance, being composed of the most motley collection of edifices.</p>
 
 <p>"There were two or three French restaurants nearly equal to the best in Paris, where the cheapest dinner one could get cost three dollars. All places of public resort were furnished and decorated in a style of most barbaric splendor, being filled with the costliest French furniture, a profusion of immense mirrors, magnificent chandeliers, and gold and china orments, which contrasted strangely with the appearance and occupations of the people by whom they were frequented.</p>
 
-<p>"California was said to be famous for three things—rats, fleas, and empty bottles. Of the last article—the empty bottles—the enormous heaps of them, piled up in all sorts of out-of-the-way places, suggested a consumption of liquor which was truly awfui."</p>
+<p>"California was said to be famous for three thingsrats, fleas, and empty bottles. Of the last articlethe empty bottlesthe enormous heaps of them, piled up in all sorts of out-of-the-way places, suggested a consumption of liquor which was truly awfui."</p>
 
 WILL THERE BE A FAMINE IN WOOL?
 
-<p>SHEEP-RAISING is k decreasing with alarming speed. The great armies demand immense quantities of wool in the manufacture of clothing, and the demand for meat is taking large numbers of sheep in all the war-ring nations. In France the number of sheep has decreased nearly one third since the war began. In Turkey sheep and goats have been slaughtered by the million, the hapless Americans being the sheep-raisers of that country. Serbia lost her live stock to the invaders—practically all of her sheep. England's wool clip has de-creased fully twenty-five per cent since the out-break of the war. In the United States the number of sheep has de-creased more than 13,-000,000 since 1900, and the population has in-creased fully 25,000,000.</p>
+<p>SHEEP-RAISING is k decreasing with alarming speed. The great armies demand immense quantities of wool in the manufacture of clothing, and the demand for meat is taking large numbers of sheep in all the war-ring nations. In France the number of sheep has decreased nearly one third since the war began. In Turkey sheep and goats have been slaughtered by the million, the hapless Americans being the sheep-raisers of that country. Serbia lost her live stock to the invaderspractically all of her sheep. England's wool clip has de-creased fully twenty-five per cent since the out-break of the war. In the United States the number of sheep has de-creased more than 13,-000,000 since 1900, and the population has in-creased fully 25,000,000.</p>
 
 THEY STAY BY THE LAND
 
@@ -306,7 +413,7 @@ very much in favor of our present prohibition. I hope nothing will he done to di
 
 <p>He replied: "That is not exactly true. My father did not believe in governments, but if a government had to be, then he believed it should make the best possible laws. Had he been alive to-day he would certainly be in favor of our present Russian prohibition. I should like you to add that, far from our present troubles having anything to do with the shutting down of beer, wine, and distilled liquor, they would have been a great deal worse if the people had been able to get at these forms of alcoholic beverages.</p>
 
-<p>"The troubles in Russia to-day, in my opinion, are mainly due to famine. It is not that we have not enough food, but that we have not transportation facilities. We haven't engines, we haven't trains to get the food around to the people thoroughly. The armies really are in places pretty much without food, and armies have got to be fed to last, you know. That, in my opinion, is the heart of the trouble. That is what makes the great cry for peace—the spots in Russia that are being ravished by famine.</p>
+<p>"The troubles in Russia to-day, in my opinion, are mainly due to famine. It is not that we have not enough food, but that we have not transportation facilities. We haven't engines, we haven't trains to get the food around to the people thoroughly. The armies really are in places pretty much without food, and armies have got to be fed to last, you know. That, in my opinion, is the heart of the trouble. That is what makes the great cry for peacethe spots in Russia that are being ravished by famine.</p>
 
 <p>"But prohibition is a blessing. All thoughtful Russians understand this, and in no way has it set back the progress of Russia. Personally, I am for prohibition forever."  By Elizabeth Tilton, in the New York Evening Mail.</p>
 
@@ -326,11 +433,11 @@ Illustrations by M. L. Bower
 
 <p>The present Stanislaus Resinold was a young antique, with his sire's and his grandsire's reverence for the sanctity of first editions. In appearance young Stanislaus was not unlike a mellowed hook: having blue-brown eyes and brown skin, a classical nose, an idyllic mouth, and a cleft in his chin that gave his face a look of romance: He resembled his richly toned volumes in the same way that his clerk, Xerxes Dele, resembled the round-faced clock on the ledge between the balconies in the book shoji. Xerxes Dele was never out of order: a spectacled gentleman, with neat thumbs.</p>
 
-<p>The one other human accessory to the book shop was the stripling who slid and mounted the book-ladders, dusted the woodwork and bindings, delivered a volume by hand, or returned the costly book to its place on the shelf should the patron deny himself the intellectual feast. This necessary lad in the establishment was engaged—and as often dismissed—by Xerxes Dele. Youths with any appreciation of first editions being difficult to obtain, the clerk, on divers occasions, set up in the window of the Resinold book shop a card stating, in neat letters, that a boy was wanted.</p>
+<p>The one other human accessory to the book shop was the stripling who slid and mounted the book-ladders, dusted the woodwork and bindings, delivered a volume by hand, or returned the costly book to its place on the shelf should the patron deny himself the intellectual feast. This necessary lad in the establishment was engagedand as often dismissedby Xerxes Dele. Youths with any appreciation of first editions being difficult to obtain, the clerk, on divers occasions, set up in the window of the Resinold book shop a card stating, in neat letters, that a boy was wanted.</p>
 
 <p>This card garnished the window one morning when young Stanislaus was looking through a first edition of Sir John Suckling's poems, which he had just se-cured from the estate of a private collector, at a relishable price.</p>
 
-<p>As Stanislaus turned the pages breathing of exquisite petticoats and laces, he thought of the lady he hoped some day to find in life—a choice edition of girlhood, with golden hair and hands like lilies.</p>
+<p>As Stanislaus turned the pages breathing of exquisite petticoats and laces, he thought of the lady he hoped some day to find in lifea choice edition of girlhood, with golden hair and hands like lilies.</p>
 
 <p>He looked from his window out to the daylight, and met a pair of eyes gazing in at him. They were eyes like sea-water animated by sunshine. For a second young Stanislaus straightened, to give them glance for glance. Then he realized that the eyes belonged to a starveling face with unruly hair blowing about it, and that, in the flare of light outside, a young girl like a tall weed was limned against the window.</p>
 
@@ -380,7 +487,7 @@ Prithec, why so pale?</p>
 
 <p>She explained quickly:</p>
 
-<p>"I live with the McGinnitys. Patrick McGinnity has gone to be a soldier, and Molly is working for the children—that's another reason why I should be busy."</p>
+<p>"I live with the McGinnitys. Patrick McGinnity has gone to be a soldier, and Molly is working for the childrenthat's another reason why I should be busy."</p>
 
 <p>She looked from the card in the book-lined window to the tiers of books in the shop. She began at the bottom and with her eyes devoured each tier up to the top.</p>
 
@@ -402,7 +509,7 @@ look at my books?"</p>
 
 <p>She moved beside him, eager for knowledge.</p>
 
-<p>He showed her—with humor in his blue-brown eyes---even the Resinold treasures in the alcove: a bulky fifteenth-century volume printed on vellum; the portion of a letter penned by Madame de Sevigne; an autograph book whose pages of illustrious names began with "Daniel Webster," and whose margin bore an inscription, over Henry Clay's name, "I take this upper place because I have never been below Webster in anything"; and a dinner menu-card in the handwriting of an Irish poet-statesman of the last century who, for political reasons, had been exiled from his country, and who had died in obscure poverty.</p>
+<p>He showed herwith humor in his blue-brown eyes---even the Resinold treasures in the alcove: a bulky fifteenth-century volume printed on vellum; the portion of a letter penned by Madame de Sevigne; an autograph book whose pages of illustrious names began with "Daniel Webster," and whose margin bore an inscription, over Henry Clay's name, "I take this upper place because I have never been below Webster in anything"; and a dinner menu-card in the handwriting of an Irish poet-statesman of the last century who, for political reasons, had been exiled from his country, and who had died in obscure poverty.</p>
 
 <p>"You should like this," he told the starveling, "because the poet's name is Quail."</p>
 
@@ -418,13 +525,13 @@ look at my books?"</p>
 
 <p>She nodded. The tears brimmed over her eyes.</p>
 
-<p>"He was so old when he died, he thought the saints would be his poems," she said softly. She did not wipe the tears away, but let them fall—and laughed behind them. "If you won't take me for your book-boy because of myself, will you take me because of my grandfather?" she demanded.</p>
+<p>"He was so old when he died, he thought the saints would be his poems," she said softly. She did not wipe the tears away, but let them falland laughed behind them. "If you won't take me for your book-boy because of myself, will you take me because of my grandfather?" she demanded.</p>
 
 <p>YOUNG Resinold's stare was prolonged. "Who are the McGinnitys:" he questioned her.</p>
 
 <p>She replied lucidly:</p>
 
-<p>"Patrick's father was my grandfather's body-servant, who followed him when he was forbidden the Isles. When my grand-father grew old and had nothing, the Mc-Ginnitys were honored to have us live with them. When my grandfather died, the McGinnitys went without meat for a month to buy the tombstone—the little stone with just a quill on it! My grand-father was so gifted that every child above the McGinnitys' flat loved him. He would tell them of the fine clothes he had worn—he was so old. And they would wait, the darlings, till he cane to handing out the rhyme in his stories.</p>
+<p>"Patrick's father was my grandfather's body-servant, who followed him when he was forbidden the Isles. When my grand-father grew old and had nothing, the Mc-Ginnitys were honored to have us live with them. When my grandfather died, the McGinnitys went without meat for a month to buy the tombstonethe little stone with just a quill on it! My grand-father was so gifted that every child above the McGinnitys' flat loved him. He would tell them of the fine clothes he had wornhe was so old. And they would wait, the darlings, till he cane to handing out the rhyme in his stories.</p>
 
 <p>"If it's in the skull, it must come out. And there's never a crowd that grows weary waiting for it.</p>
 
@@ -436,7 +543,7 @@ look at my books?"</p>
 
 <p>"Will you give me the place of page:" she asked the young bookseller. "With Patrick gone to be a soldier and Molly working for the children, I should he busy."</p>
 
-<p>She waited for his answer—an expectant sliver in clothes that were evidently relics of Molly Mc-Ginnity.</p>
+<p>She waited for his answeran expectant sliver in clothes that were evidently relics of Molly Mc-Ginnity.</p>
 
 <p>Chivalrous features grave, Stanislaus looked at the starveling with the great poet's name. In his blood he had generations of those who had bowed to the gifted, generations of booksellers who had revered the names that make volumes precious. It was as if a dilapidated first edition had come into his hands, a choice little volume in pitiful plight.</p>
 
@@ -483,7 +590,7 @@ look at my books?"</p>
 
 <p>STANISLAUS seated himself at his desk. His telephone rang, and he took down the receiver. One of his agents was attending a book auction, and had quotations, and questions as to the bidding he should make. Stanislaus jotted down some notes on his desk-pad. He was finishing the notes when he was greeted by an old friend of his father's, an anthologist with a beetle nose, who was hunting through the book-stalls of the world for a certain literary extract, and who annually appeared in the Stanislaus Resinold establishment in his circuitous search. After the anthologist there came in a conversational gentleman with a blithe hope of selling a facsimile for an original. Then a consignment of hooks arrived from the Resinold agency in London. The normal number of literati and faddists after first editions dropped into the book shop and gazed about.</p>
 
-<p>At half after twelve Stanislaus left his clerk in charge, while he lunched in his club off the Avenue. The good weather invited him to a stroll. He walked, zestily using his stick, as far as the Park, and back. He had a habit of taking the crowded blocks with his blue-brown eyes straight ahead. Younger than his years in living, older than his years in learning, he found it enough—as yet—to look afar.</p>
+<p>At half after twelve Stanislaus left his clerk in charge, while he lunched in his club off the Avenue. The good weather invited him to a stroll. He walked, zestily using his stick, as far as the Park, and back. He had a habit of taking the crowded blocks with his blue-brown eyes straight ahead. Younger than his years in living, older than his years in learning, he found it enoughas yetto look afar.</p>
 
 <p>He returned to his book shop at his leisure. Xerxes Dele was cataloguing the consignment from London. Stanislaus appraised the volumes with his clerk for the rest of the afternoon.</p>
 
@@ -499,7 +606,7 @@ look at my books?"</p>
 
 <p>"Have you been up there all day?" he laughed.</p>
 
-<p>Her eyes looked raptly down—they were like sea-water gilded by sunset. She stirred, took several of the books in her thin arms, and came down the ladder. She had about a thousand dollars' worth of rare editions against her childish breast.</p>
+<p>Her eyes looked raptly downthey were like sea-water gilded by sunset. She stirred, took several of the books in her thin arms, and came down the ladder. She had about a thousand dollars' worth of rare editions against her childish breast.</p>
 
 <p>"May I take these home?" she asked.</p>
 
@@ -643,7 +750,7 @@ What Kept Edward Everett Hale Happy
 
 <p>I believe that God is here now, and that 1 am one of his children whom he dearly loves.</p>
 
-<p>I believe a great many more things than this. But when you ask me such a question as yours, —namely, what is the belief that makes me a happy man, and resolute to do God's work in the world as well as I can,--this answer is the real answer.</p>
+<p>I believe a great many more things than this. But when you ask me such a question as yours, namely, what is the belief that makes me a happy man, and resolute to do God's work in the world as well as I can,--this answer is the real answer.</p>
 
 <p>It is what your ministers would call the essential or fundamental answer.</p>
 
@@ -667,13 +774,13 @@ This Man Likes Snakes
 
 <p>Who on earth would ever imagine a clever newspaper man giving up the business to nurse snakes for a living? And yet, that's just what R. L. Ditmars did, and he is now earning a big salary taking care of the sinuous creepers that he has gathered from the jungles and placed on exhibit at the reptile house of the New York Zoological Park.</p>
 
-<p>When Ditmars was a cub reporter on the New York Times, he kept a collection of two hundred or more reptiles in his bedroom, ranging from the tiny gartersnake--which he said was as "harmless as a fly''—to the deadly diamond-back rattler from the palmetto swamps of Florida. He used to fondle his serpentine friends, feed them on the things they liked best, and in every way make them feel at home in his neatly furnished and cozy room. Just how Ditmars could feel "at home" there will remain a puzzle to his friends. Occasionally Ditmars would take one of his harmless snakes in his overcoat pocket with him to the Times office, where he would calmly lay the reptile on a re-porter's desk.</p>
+<p>When Ditmars was a cub reporter on the New York Times, he kept a collection of two hundred or more reptiles in his bedroom, ranging from the tiny gartersnake--which he said was as "harmless as a fly''to the deadly diamond-back rattler from the palmetto swamps of Florida. He used to fondle his serpentine friends, feed them on the things they liked best, and in every way make them feel at home in his neatly furnished and cozy room. Just how Ditmars could feel "at home" there will remain a puzzle to his friends. Occasionally Ditmars would take one of his harmless snakes in his overcoat pocket with him to the Times office, where he would calmly lay the reptile on a re-porter's desk.</p>
 
 <p>Ditmars is curator of reptiles and assistant curator of mammals for the New York Zoological Society, the foremost concern of its kind in the world.</p>
 
-<p>"Why do I love snakes?" he repeated after me. "Why, because they are snakes —that's why. I got interested in them as a small boy, for I never had that inborn fear of a serpent that most people have. I don't recall that I was ever afraid of' a snake in my life, though I have had some close calls with the rattlers and cotton-mouth moccasins of the South while catching them for exhibit. I don't think I would care to visit the cobra family in India, for the reason that these snakes will run after and attack a person who invades their premises. But what could be fairer than the rattlesnake, which always gives you warning before he strikes?</p>
+<p>"Why do I love snakes?" he repeated after me. "Why, because they are snakes that's why. I got interested in them as a small boy, for I never had that inborn fear of a serpent that most people have. I don't recall that I was ever afraid of' a snake in my life, though I have had some close calls with the rattlers and cotton-mouth moccasins of the South while catching them for exhibit. I don't think I would care to visit the cobra family in India, for the reason that these snakes will run after and attack a person who invades their premises. But what could be fairer than the rattlesnake, which always gives you warning before he strikes?</p>
 
-<p>"Once, in my laboratory, a glass jar broke, scratched my arm, and inoculated me with rattlesnake poison from a skeleton I was preserving, and 1 spent six weeks in a hospital. But even that didn't turn me against snakes. The poor creatures have no friends, and ought to be pitied. Oh,e yes, I like snakes—because they'; snakes."	R. C.</p>
+<p>"Once, in my laboratory, a glass jar broke, scratched my arm, and inoculated me with rattlesnake poison from a skeleton I was preserving, and 1 spent six weeks in a hospital. But even that didn't turn me against snakes. The poor creatures have no friends, and ought to be pitied. Oh,e yes, I like snakesbecause they'; snakes."	R. C.</p>
 
 Photograph from C. Curtis
 
@@ -689,7 +796,7 @@ HIMSELFS
 
 <p>YOU will discover it sooner or later any-way, and so we might as well confess right at the beginning that all the striking-looking men on this page are the same man. Antonio Corsi was playing on the street of his native Italian city, when a passing sculptor noticed him, and engaged him as a model.</p>
 
-<p>DO you happen to recall the striking group of statuary at the Panama-Pacific Exposition, representing an Indian chief, a German peasant, an Italian peasant, a Mexican cow-boy, and a Canadian trapper? Well, they were all—but ah, have you guessed it al-ready? How wonderfully quick you are.</p>
+<p>DO you happen to recall the striking group of statuary at the Panama-Pacific Exposition, representing an Indian chief, a German peasant, an Italian peasant, a Mexican cow-boy, and a Canadian trapper? Well, they were allbut ah, have you guessed it al-ready? How wonderfully quick you are.</p>
 
 <p>MOST of us have the unpleasant assurance that we, as well as the work we have done, will be pretty thoroughly for-gotten about twenty minutes after the survivors have divided our plated cuff-links and our silver watch between them. But Signor Corsi will live in art for at least a thousand years. He has been immortalized more often on canvas, in marble, and in bronze than any other individual in the history of the world, not excluding Caesar, T. Roosevelt. or C. Chaplin.</p>
 
@@ -697,9 +804,9 @@ Photograph by Hemenway Studio.
 
 <p>SIGNOR CORSI has posed as some twelve hundred different personalities. He has been a Greek god, Mephistopheles, monks, Arabs, American Indians, and Italian organ-grinders. He makes a good bandit, but it is a point of pride with him that he has never posed as a taxi-cab driver or a check-boy in a fashionable restaurant.</p>
 
-<p>UNLESS we had let you into the secret, would you ever have supposed that the stern old Puritan on the right is at all related to the ruthless pirate above? How practical it must be to possess so many personalities—and so many costumes. Think of the advantage of being able to appear as a butler at your own door, when a bore arrives, and, instead of leaving it to careless servants, assure him yourself that you are out.</p>
+<p>UNLESS we had let you into the secret, would you ever have supposed that the stern old Puritan on the right is at all related to the ruthless pirate above? How practical it must be to possess so many personalitiesand so many costumes. Think of the advantage of being able to appear as a butler at your own door, when a bore arrives, and, instead of leaving it to careless servants, assure him yourself that you are out.</p>
 
-<p>SO we draw toward the close of this remarkable page of pictures. And—that you may feel that you have gained some useful bit of knowledge with the entertainment—we ask you to remember that Signor Corsi established the world's long-distance posing record, having posed three hours and twenty-five minutes, absolutely motionless, for the figure of the prophet Hosea in the Boston Public Library.</p>
+<p>SO we draw toward the close of this remarkable page of pictures. Andthat you may feel that you have gained some useful bit of knowledge with the entertainmentwe ask you to remember that Signor Corsi established the world's long-distance posing record, having posed three hours and twenty-five minutes, absolutely motionless, for the figure of the prophet Hosea in the Boston Public Library.</p>
 
 
 
@@ -713,9 +820,9 @@ Photograph from Edward B. Perkins
 
 Photograph by Press Illustrating Service, Inc.
 
-<p>NOTE the soulful look on the face of Mr. Harold Atteridge. Right: he is a humor specialist. They say he knows more jokes than any-body else all the way up and down Broadway. Where does he get them? Ask a certain cross-eyed policeman who told, Harold one day about a nutual friend: "His wife is like a balloon—no good on earth." Ask a certain stenographer who stutters; ask a certain Irish waitress who hates her husband. They have all seen their best jokes appear in musical comedies, nicely dressed up by Mr. Atteridge.</p>
+<p>NOTE the soulful look on the face of Mr. Harold Atteridge. Right: he is a humor specialist. They say he knows more jokes than any-body else all the way up and down Broadway. Where does he get them? Ask a certain cross-eyed policeman who told, Harold one day about a nutual friend: "His wife is like a balloonno good on earth." Ask a certain stenographer who stutters; ask a certain Irish waitress who hates her husband. They have all seen their best jokes appear in musical comedies, nicely dressed up by Mr. Atteridge.</p>
 
-<p>IT'S not altogether a distinction to be known to Joseph A. Faurot of the New York Detective Bureau. For he knows some 300.000 other people too—knows them too well for their own comfort. Be-hind his mild blue eyes is a mental Rogues' Gallery never known to fail. As you go out with the butter-knives, Stealthy Steve, keep your mittens on, or Inspector Faurot will get you by your thumb-print on the door-knob.</p>
+<p>IT'S not altogether a distinction to be known to Joseph A. Faurot of the New York Detective Bureau. For he knows some 300.000 other people tooknows them too well for their own comfort. Be-hind his mild blue eyes is a mental Rogues' Gallery never known to fail. As you go out with the butter-knives, Stealthy Steve, keep your mittens on, or Inspector Faurot will get you by your thumb-print on the door-knob.</p>
 
 Photograph by Mary Sullivan
 
@@ -750,10 +857,10 @@ Photograph from Betty Shannon.
 
 WHEN WILL IT APPEAR?
 
-<p>TIME was when people shrank from the limelight—when self-conscious pork-packers committed hari-kari rather than see their pictures come out in the paper. But now we all have incurable cameritis. Say to your worst enemy just as he is about to hurl you from yon cliff, "What an interesting pose! I wish my friend So-and-So, who does artistic photography, could have a chance at you." Down will go the threatening arm, up will come the vicious chest. "Will you introduce me?" he asks, and off you go, arm in arm. At the approach of the camera man the East Side kiddies register joy, and society misses, though of course a bit more reserved about it, do not look the other way. On the contrary, they stay very still and gaze fixedly at the birdie, and at the end ask exactly
+<p>TIME was when people shrank from the limelightwhen self-conscious pork-packers committed hari-kari rather than see their pictures come out in the paper. But now we all have incurable cameritis. Say to your worst enemy just as he is about to hurl you from yon cliff, "What an interesting pose! I wish my friend So-and-So, who does artistic photography, could have a chance at you." Down will go the threatening arm, up will come the vicious chest. "Will you introduce me?" he asks, and off you go, arm in arm. At the approach of the camera man the East Side kiddies register joy, and society misses, though of course a bit more reserved about it, do not look the other way. On the contrary, they stay very still and gaze fixedly at the birdie, and at the end ask exactly
 the same queston that everyone else in the world asks: "When will it appear?"</p>
 
-© Underwood & Underwood
+ Underwood & Underwood
 
 <p>'WHAT keeps Donald MacMillan determined and optimistic through hazardous Crocker land? What causes him to munch his fifteen-year-old hardtack as if it were charlotte russe, and to urge on his dog teams over the most treacherous Arctic icebergs? The thought that, one bright day, back in his own home town, this little skirmish will be staged: Explorer vs. Camera, with all the honors going to the Explorer.</p>
 
@@ -761,7 +868,7 @@ Photograph by Press Illustrating Service, Inc.
 
 Paul Thompson.
 
-<p>SOLDIERS, business men, politicians—from these you expect fearlessness in enduring any sort of exposure; but (soft music) these are poets, every one. From Laurence Housman on the left, standing, up to Alfred Noyes on the right, sitting down, one and all they came running at the sound of the flashlight explosion. As might be expected in these feministic days, Amy Lowell (in spangles) and Josephine Daskam Bacon (in white) lead all the rest.</p>
+<p>SOLDIERS, business men, politiciansfrom these you expect fearlessness in enduring any sort of exposure; but (soft music) these are poets, every one. From Laurence Housman on the left, standing, up to Alfred Noyes on the right, sitting down, one and all they came running at the sound of the flashlight explosion. As might be expected in these feministic days, Amy Lowell (in spangles) and Josephine Daskam Bacon (in white) lead all the rest.</p>
 
 
 
@@ -771,7 +878,7 @@ Continued front page 5
 
 <p>in bed one morning. The doctor said a congestive chill had killed her like a flash. She had suffered no pain, for the pale face bore her always beautiful smile. God had called her to his throne for His own choir.</p>
 
-<p>Hundreds of children came to see her—boys and girls from the public school she had attended; the choir from the church; and all its children, big and little.</p>
+<p>Hundreds of children came to see herboys and girls from the public school she had attended; the choir from the church; and all its children, big and little.</p>
 
 <p>I was sitting beside her late in the evening. The funeral was to be held in the morning. I was crying, as a man does when he is grief-stricken. I heard a low, soft "Papa!" Startled, I looked at my girl; but there was no sign of life. Again I heard, " Papa!" I looked up in the dim light, and I saw her standing there, in her chorister's surplice.</p>
 
@@ -990,7 +1097,7 @@ Seen by a Child
 
 <p>I was so shocked that I put the tray on the dresser, and turned and left the room in a great hurry, as if I had forgotten something. I I went into another room, and made a great deal of noise, pretending to be very busy, in hopes that I might get his mind off the subject. We had decided not to let him know anything about the baby's death until he was quite well again, as the two children had been great churns.</p>
 
-<p>After a time I got the courage to go back into the room, only to be met with the same question, still more insistent. I replied: "Why—what do you ask me such a question as that for?" His answer was: "Because I feel as if he is."</p>
+<p>After a time I got the courage to go back into the room, only to be met with the same question, still more insistent. I replied: "Whywhat do you ask me such a question as that for?" His answer was: "Because I feel as if he is."</p>
 
 <p>I could see that there was no use in trying to evade him, so I said: "Yes, Karl; he died last night. He had the same kind of trouble that you have just had, and we could not make him gargle as you did, you know. He was only a baby, and did not know how."</p>
 
@@ -1000,9 +1107,9 @@ Seen by a Child
 
 <p>Another time, as I came in, he was talking again. When he saw me, he said: "Paul was here, and he crawled up here on the bed by me and patted my face, but I couldn't see anything but his hand. Wasn't that funny?"</p>
 
-<p>I put all of the baby's things away, thinking that it would be best to have everything that would remind Karl of the baby out of sight. The first time he came downstairs to a meal, he commenced to hunt around, and I said: "What do you want, Karl?" He replied: "I want Paul's high chair—he wants to come to the table with us."</p>
+<p>I put all of the baby's things away, thinking that it would be best to have everything that would remind Karl of the baby out of sight. The first time he came downstairs to a meal, he commenced to hunt around, and I said: "What do you want, Karl?" He replied: "I want Paul's high chairhe wants to come to the table with us."</p>
 
-<p>His grandmother, who was already seated at the table, said: "He sees it too—I have known it all the time." So I got the chair and put it at the table, by my side, and he was perfectly contented.  MRS. G. H. P.</p>
+<p>His grandmother, who was already seated at the table, said: "He sees it tooI have known it all the time." So I got the chair and put it at the table, by my side, and he was perfectly contented.  MRS. G. H. P.</p>
 
 "It was a bright moonlight night; Mrs. Brown had a feeling that some one stood in the window."
 
@@ -1023,7 +1130,7 @@ By CAPTAIN A. P. CORCORAN
 
 <p>An ammunition train has arrived at a rail-head in France. Close at hand are three five-ton trucks waiting to remove part of the cargo to a spot somewhat nearer the scene of action. The motors are loaded. They move off, preceded by a cyclist whose business it is to clear the road for their coming.</p>
 
-<p>It is a bad road, narrow and rough. The going is dangerous, so their speed is not great—no more than ten miles an hour. So far, so safe. They are nearing their goal, a "divisional dump" some five miles behind the line, when suddenly there appears a speck against the sky.</p>
+<p>It is a bad road, narrow and rough. The going is dangerous, so their speed is not greatno more than ten miles an hour. So far, so safe. They are nearing their goal, a "divisional dump" some five miles behind the line, when suddenly there appears a speck against the sky.</p>
 
 <p>It comes swiftly toward them, seems to pause a moment, then swoops, drops something, and shoots rapidly away. There is a plop! a loud roar, and a great scattering of fragments.</p>
 
@@ -1033,7 +1140,7 @@ By CAPTAIN A. P. CORCORAN
 
 <p>But let us suppose they arrived safely. What is their destination? Just a big open field, well out of range of shell-fire, and exposed only to the visits of "Taubes." It is known as the divisional dump. And here, for a radius of several miles, are collected all army stores, rations, engineering supplies, as well as ordnance, awaiting transport to their various places on the line.</p>
 
-<p>Here comes the brigade supply officer, seeking food and small arms for his men. He comes in a wagon drawn by horses. Usually he comes by night; for at the front it is the day that has the "thousand eyes," and each one looking for a target. The road he travels, too, is usually well within their range of vision—it leads to the regimental dump. So he goes furtively. Yet he does not always escape.</p>
+<p>Here comes the brigade supply officer, seeking food and small arms for his men. He comes in a wagon drawn by horses. Usually he comes by night; for at the front it is the day that has the "thousand eyes," and each one looking for a target. The road he travels, too, is usually well within their range of visionit leads to the regimental dump. So he goes furtively. Yet he does not always escape.</p>
 
 <p>It was during the retreat from Mons that the following "accident" took place. I relate it not merely to illustrate the "safety" of the supply officer's position, but also to bear witness to his heart and his pluck:</p>
 
@@ -1045,7 +1152,7 @@ By CAPTAIN A. P. CORCORAN
 
 <p>It was too much for him. He was a sportsman and he loved animals. So out he crawled from his safe landing-place, and with his revolver put the three beasts out of their agony. Then, just as he was beating it back to cover, another shell hit. This time he was not so fortunate, for he lost a leg from above the knee.</p>
 
-<p>The shells, however, are not the only danger faced by these men. Frightened animals can do quite a lot of damage, too. They tell of one team that, panic-stricken by an explosion some fifty yards away, bolted into the nearest field. There was a river running through it—quite a deep river, that completely swallowed up horses and wagon. Miraculously the men jumped clear to safety; but the supplies and the truck were lost.</p>
+<p>The shells, however, are not the only danger faced by these men. Frightened animals can do quite a lot of damage, too. They tell of one team that, panic-stricken by an explosion some fifty yards away, bolted into the nearest field. There was a river running through itquite a deep river, that completely swallowed up horses and wagon. Miraculously the men jumped clear to safety; but the supplies and the truck were lost.</p>
 
 <p>But, to come back to the method of transportation. The regimental dump was our next resting place. Like most of the refilling stations, this is a movable spot, changing its location according to the will and convenience of the command. Indeed, the finding of a safe place for it is one of the transport officer's chief difficulties. It is no slight matter to have your dump go up in smoke.</p>
 
@@ -1069,9 +1176,9 @@ NOT SO GERMAN AS SOME
 
 <p>As punishment for this disobedience his boat was shelled; whereupon, her steering gear giving way, she halted of her own accord, and the crew lowered the boats.</p>
 
-<p>As one officer was descending the side of the ship, the Captain handed him a pet Pomeranian, Betty, the pride of his heart, to keep. The officer carelessly dropped her into the water, and immediately the little beast—was she inspired, one wonders?—struck out for the submarine's side.</p> 
+<p>As one officer was descending the side of the ship, the Captain handed him a pet Pomeranian, Betty, the pride of his heart, to keep. The officer carelessly dropped her into the water, and immediately the little beastwas she inspired, one wonders?struck out for the submarine's side.</p> 
 
-<p>No sooner had Captain Robinson entered his life-boat than he saw her, and straightway jumped into the water after her. A quarter of a mile he swam before he caught up with her, and put her on his shoulder. Meanwhile the submarine was dangerously close—so close, indeed, that he caught hold of her side while he tried to recover his breath.</p>
+<p>No sooner had Captain Robinson entered his life-boat than he saw her, and straightway jumped into the water after her. A quarter of a mile he swam before he caught up with her, and put her on his shoulder. Meanwhile the submarine was dangerously closeso close, indeed, that he caught hold of her side while he tried to recover his breath.</p>
 
 <p>A crazy man, you conclude. But you never can tell!</p>
 
@@ -1081,7 +1188,7 @@ NOT SO GERMAN AS SOME
 
 <p>From Obstacles to Peace, by S. S. McClure (Houghton, Mifflin Company).</p>
 
-"We shall get them yet!"—A French war cartoon
+"We shall get them yet!"A French war cartoon
 
 WHY FRANCE WANTS BACK ALSACE-LORR AINE
 
@@ -1130,7 +1237,7 @@ A helpful hint to soldiers posted on a sign-board at a certain railway station n
 
 
 
-Boy Wanted—Continued from page 9
+Boy WantedContinued from page 9
 
 <p>the rain and morning, full of spray and dawn. The card she had taken from the window was on her knees, face down. Her gaze was now on the books and now on the young bookseller.</p>
 
@@ -1154,7 +1261,7 @@ Boy Wanted—Continued from page 9
 
 <p>He took it from her. The phrases she had scrawled over it were like a drawerful of odd gloves; he could not fit them to meaning. "It doesn't seem that you've inherited your grandfather's gift," he quizzed her.</p>
 
-<p>Her hands came down on the card—and shredded it.</p>
+<p>Her hands came down on the cardand shredded it.</p>
 
 <p>"You needn't laugh!" she cried, eyes inky.</p>
 
@@ -1178,25 +1285,25 @@ Boy Wanted—Continued from page 9
 
 <p>"It will keep famine from the McGinnitys," she answered.</p>
 
-<p>"Miss Quail is to fill the vacancy in the shop," Stanislaus explained to his clerk. "Please request—very civilly, Dele—her address, and give her something to do."</p>
+<p>"Miss Quail is to fill the vacancy in the shop," Stanislaus explained to his clerk. "Please requestvery civilly, Deleher address, and give her something to do."</p>
 
 <p>With humor the young bookseller resumed the perusal of his morning mail.</p>
 
-<p>Xerxes Dele was a bachelor, and he regarded in gentle embarrassment the young lady who was to fill the stripling's place. He ushered Norleen Quail to the desk with the green droplight, where he ascertained her address and entered her on the books. He then presented her with the most feminine article in the establishment—the feather duster. And when Norleen, on reaching the poetry section with the duster; tarried, enamoured of the verse, the clerk tiptoed to the poetical nook, removed the feather duster from her unobservant hand, and kindly completed the morning task himself.</p>
+<p>Xerxes Dele was a bachelor, and he regarded in gentle embarrassment the young lady who was to fill the stripling's place. He ushered Norleen Quail to the desk with the green droplight, where he ascertained her address and entered her on the books. He then presented her with the most feminine article in the establishmentthe feather duster. And when Norleen, on reaching the poetry section with the duster; tarried, enamoured of the verse, the clerk tiptoed to the poetical nook, removed the feather duster from her unobservant hand, and kindly completed the morning task himself.</p>
 
-<p>THAT was the beginning of the new human accessory to the Resinold book shop. In fair and foul weather, Norleen Quail came for her day of reading—for, from the first, reading was all she did. Partly from kindliness, and partly from timidity toward her sex, the clerk took upon himself the tasks usually allotted the stripling.</p>
+<p>THAT was the beginning of the new human accessory to the Resinold book shop. In fair and foul weather, Norleen Quail came for her day of readingfor, from the first, reading was all she did. Partly from kindliness, and partly from timidity toward her sex, the clerk took upon himself the tasks usually allotted the stripling.</p>
 
 <p>Stanislaus Resinold, busy bargaining in first editions and rare prints, became accustomed to the girl in his shop. He righted the shelves after Norleen had rummaged through them; he delivered her lectures on law and order, and laughed at her incongruous arrogance; he scanned her scribblings, and quizzed her when she talked of the gift in her skull. He took her no more seriously than he would have taken a long-legged water-skipper. And not once could he find coherency in the quicksilver phrases she scribbled.</p>
 
-<p>One day the girl came to Resinold's desk with cheeks like coral and eyes as bright as the gold-leaf edges of the volume she had in her hand—it was the choice edition of Sir John Suckling's poems.</p>
+<p>One day the girl came to Resinold's desk with cheeks like coral and eyes as bright as the gold-leaf edges of the volume she had in her handit was the choice edition of Sir John Suckling's poems.</p>
 
 <p>She laid the volume open before him. And on the fly-leaf she laid her pencil stub.</p>
 
-<p>"Read what I've written!" she cried. "It's cast down you'll be! It will sing in your head and bother your sleeping! There'll be no forgetting it! There's the glint of the sun and the wet of the rain in it. You'll not be laughing at—this!"</p>
+<p>"Read what I've written!" she cried. "It's cast down you'll be! It will sing in your head and bother your sleeping! There'll be no forgetting it! There's the glint of the sun and the wet of the rain in it. You'll not be laughing atthis!"</p>
 
 <p>She paused for breath and for his ap- probation.</p>
 
-<p>He was staring at the book placed open before him—the first edition that the Resinolds had been unable to find for more than a score of years. She had scribbled on its fly-leaf!</p>
+<p>He was staring at the book placed open before himthe first edition that the Resinolds had been unable to find for more than a score of years. She had scribbled on its fly-leaf!</p>
 
 <p>"See what I've done!" she exulted.</p>
 
@@ -1216,7 +1323,7 @@ Will, when speaking well can't win her,
 Saying nothing do't?
 Prithee, why so mute?</p>
 
-<p>He sat inert. She was touching his volume with one finger, and touching his shoulder with another finger—a whirlpool of laughter and delight.</p>
+<p>He sat inert. She was touching his volume with one finger, and touching his shoulder with another fingera whirlpool of laughter and delight.</p>
 
 <p>"I wonder," he said chillily, "if you are aware of the value of what you have defaced."</p>
 
@@ -1224,7 +1331,7 @@ Prithee, why so mute?</p>
 
 <p>She all but put her cheek to his, in an overflow of prismatic joy.</p>
 
-<p>In cold rage, he all but felt her cheek on his! No woman—as yet—had put her cheek to his. Some day, from somewhere, some one might brush his cheek with one of pearly purity and pallor. This starveling's cheek!—coral with her blood! This seaweed—in a tangle of active color! He was inanimate in his leather chair.</p>
+<p>In cold rage, he all but felt her cheek on his! No womanas yethad put her cheek to his. Some day, from somewhere, some one might brush his cheek with one of pearly purity and pallor. This starveling's cheek!coral with her blood! This seaweedin a tangle of active color! He was inanimate in his leather chair.</p>
 
 <p>And suddenly his frigidity seemed to reach her. Her color fluctuated. She fell back.</p>
 
@@ -1240,9 +1347,9 @@ Prithee, why so mute?</p>
 
 <p>It was late afternoon; and soon the globes of light shone on the Avenue, and in the book shop the clerk switched on the green droplight. Dusk gathered in the corners of the place, and shadowed the poetry section. Stanislaus closed and locked his desk, and reached for his hat and stick. His good night to his clerk was punctilious. His route to Irving Place in no way deviated from his sire's and his grandsire's.</p>
 
-<p>But, when Clowes was slow in answering his ring, he filled his residence with his punch of the bell. And his house seemed mummified to him. Dinner in his ponderous dining-room seemed dry as dust. Everything seemed old enough to crumble away. And that evening, under his curbed demeanor, he felt confoundinglyjuvenile. He desired to arise from his table and give Clowes a swat below the snuff-colored belt—or to pull the nose of Tibbetts, the maid, to see if her eyes could water! And after dinner, in passing Mrs. Wenlock, the genteel housekeeper, on the staircase, he was tempted to whoop over his balustrade and land in his highly polished hall!</p>
+<p>But, when Clowes was slow in answering his ring, he filled his residence with his punch of the bell. And his house seemed mummified to him. Dinner in his ponderous dining-room seemed dry as dust. Everything seemed old enough to crumble away. And that evening, under his curbed demeanor, he felt confoundinglyjuvenile. He desired to arise from his table and give Clowes a swat below the snuff-colored beltor to pull the nose of Tibbetts, the maid, to see if her eyes could water! And after dinner, in passing Mrs. Wenlock, the genteel housekeeper, on the staircase, he was tempted to whoop over his balustrade and land in his highly polished hall!</p>
 
-<p>He restrained these inclinations—proceeding, in young dignity, up to his rooms. He was beset there by a feeling of unrest, of not having finished the day, of having</p>
+<p>He restrained these inclinationsproceeding, in young dignity, up to his rooms. He was beset there by a feeling of unrest, of not having finished the day, of having</p>
 
 "Norleen was 'standing at the shop door, under a cotton umbrella. 'How long have you been waiting here?' he questioned."
 
@@ -1250,15 +1357,15 @@ Prithee, why so mute?</p>
 
 
 
-<p>left something undone in his book shop. He went to a window and sprang the heavily tasseled shade to the top. It was a wet night—not raining, but wet with a mist that befogged the windows of the old house on Irving Place. It was a night when anything left undone was disturbing.</p>
+<p>left something undone in his book shop. He went to a window and sprang the heavily tasseled shade to the top. It was a wet nightnot raining, but wet with a mist that befogged the windows of the old house on Irving Place. It was a night when anything left undone was disturbing.</p>
 
-<p>He wished that he had read what Norleen Quail had scribbled through his first edition of Suckling. In his anger at her destruction of the book—and in his chagrin at the thought of her cheek against his—he had perhaps overlooked an obligation to the starveling with the great name. What if she had written something illustrious—something that made her the sort it was in his blood to bow to? She had said, "There's the glint of the sun and the wet of the rain in it."</p>
+<p>He wished that he had read what Norleen Quail had scribbled through his first edition of Suckling. In his anger at her destruction of the bookand in his chagrin at the thought of her cheek against hishe had perhaps overlooked an obligation to the starveling with the great name. What if she had written something illustrioussomething that made her the sort it was in his blood to bow to? She had said, "There's the glint of the sun and the wet of the rain in it."</p>
 
 <p>Stanislaus left his house, and walked up Fifth Avenue to his book shop. The Allies' flags on the Avenue were soft in the mist, their colors cheek to cheek. He let himself into the place that smelled of seasoned leather and parchments. Without turning on a light, he unlocked his desk. He carried the little volume of Sir John Suckling to the window; and, in the illumination from the street, he read what Norleen Quail had written.</p>
 
 <p>CLEAR as the sound of falling water was the love-poem the girl had scribbled. Curiously wrought and magnificently fashioned, it fell and flowed; tinkling words dripped to tides of words, tides broke and whirled through sweeps and shallows, to deeps where words broke under words, and ran almost in silence. Love, in its first edition, price beyond listing! Love, vivid like pomegranates, sweet like white grapes! Love, nude and chaste, clear as the sound of falling water.</p>
 
-<p>Blue-brown eyes booming to light, idyllic mouth melting to a smile, chivalrous features shadowed by ardors, young Stanislaus fell in love with the poem. He fell mightily in love with it. With her gift, Norleen seemed to emerge from vapors and to laugh, wet-eyed, before him—the starveling who had blown into his shop like a sea-breeze! He tried to estimate what she had written. But her up-hill, down-dale scrawl only led him down dale, up hill. She had rhymed of love, and she had brought her love-rhyming to him— What should he do with the love in the rhyme? He wondered. From the first, he had not known what to do with her. She was not like the girl his sire had loved, nor like the girl his grandsire had loved. She was only a vagabond echo of a great name. But what she had written was immortal—the freshet in a pure heart gushing to the waters of love! What place had a starveling freshet in the blue waters within him?</p>
+<p>Blue-brown eyes booming to light, idyllic mouth melting to a smile, chivalrous features shadowed by ardors, young Stanislaus fell in love with the poem. He fell mightily in love with it. With her gift, Norleen seemed to emerge from vapors and to laugh, wet-eyed, before himthe starveling who had blown into his shop like a sea-breeze! He tried to estimate what she had written. But her up-hill, down-dale scrawl only led him down dale, up hill. She had rhymed of love, and she had brought her love-rhyming to him What should he do with the love in the rhyme? He wondered. From the first, he had not known what to do with her. She was not like the girl his sire had loved, nor like the girl his grandsire had loved. She was only a vagabond echo of a great name. But what she had written was immortalthe freshet in a pure heart gushing to the waters of love! What place had a starveling freshet in the blue waters within him?</p>
 
 <p>He walked the length of his book shop to the desk with the green droplight. He turned on the light and found her address, where his clerk had neatly filed it. He left the droplight burning when he left his book shop.</p>
 
@@ -1336,7 +1443,7 @@ This is His Week
 
 <p>Full of such thoughts, he looked up at the bare rafters of the cottage roof where a spider hung from one of the cobwebs. It was trying to swing from one rafter to another. It tried and failed. Again it tried, and again it failed. "It is like me," the King thought bitterly. "I have tried and failed."</p>
 
-<p>But the spider did not seem to be aware that it had failed. At last, after innumerable attempts, it landed safely on the opposite rafter. "Bravo!" cried Bruce, "henceforth there is no such word as fail!" He rose and buckled on his armor, and tackled his job again. He was a mighty king, with a mighty arm and a mighty ax—and he finally came :triumphantly into his own.</p>
+<p>But the spider did not seem to be aware that it had failed. At last, after innumerable attempts, it landed safely on the opposite rafter. "Bravo!" cried Bruce, "henceforth there is no such word as fail!" He rose and buckled on his armor, and tackled his job again. He was a mighty king, with a mighty arm and a mighty axand he finally came :triumphantly into his own.</p>
 
 
 
@@ -1371,7 +1478,7 @@ Who is He?
 
 <p>The author's youthful style changed. He attempted to forecast the future of the world sociologically and along scientific principles, with a vision of a finer civilization some day to be attained through thought and sacrifice. Few took him seriously, however. Yet much of what. he foretold then has come to pass.</p>
 
-<p>Particularly did he prophesy the new forms of warfare that would usurp the old; and had England heeded his warnings she might have lost fewer men, suffered less humiliation in the early days of the fighting. In Iwo he drew a memorable picture of what would happen to the British army should it set out to meet a scientifically organized foe. "Marching to slaughter I see a million half trained lads, all imbued with the fallacy of British invincibility, led by parson-bred sixth-form school-boys, men of pleasure, noble old men in epaulettes still thinking of Ba baklava." We know now how quickly generals become obsolete—what happened to the British when they met the Germans first at Loos.</p>
+<p>Particularly did he prophesy the new forms of warfare that would usurp the old; and had England heeded his warnings she might have lost fewer men, suffered less humiliation in the early days of the fighting. In Iwo he drew a memorable picture of what would happen to the British army should it set out to meet a scientifically organized foe. "Marching to slaughter I see a million half trained lads, all imbued with the fallacy of British invincibility, led by parson-bred sixth-form school-boys, men of pleasure, noble old men in epaulettes still thinking of Ba baklava." We know now how quickly generals become obsoletewhat happened to the British when they met the Germans first at Loos.</p>
 
 <p>He tells us now, in a new vision, that we are on the verge of a great awakening: that nightmares of empire and racial conflict are throwing forth our clumsy cosmogonies and theologies; that in time we will tread the earth a free people; that we shall discover the means of transmuting jealousies, leudnesses, and mean passions; that we shall control our increase, and breed a stronger, wiser race. Will we Who is he?</p>
 
@@ -1392,7 +1499,7 @@ The Doctors Disagree Again
 
 <p>Dear Editor:</p>
 
-<p>I like to read a little of everything, and today I read your short story entitled "Morning" —the first of the very short stories which you say you intend to run.</p>
+<p>I like to read a little of everything, and today I read your short story entitled "Morning" the first of the very short stories which you say you intend to run.</p>
 
 <p>I would like to know where under the sun you could expect to find a woman doing things in the way described in that story. You try to relate a story pertaining to farm life, and you describe methods so different from the actual ones that I feel, if you are no more nearly right regarding the zone postal system, the more this zone system is narrowed the better.  W. H. P., Delphi, Indiana.</p>
 
@@ -1429,4 +1536,4 @@ About Building a Home
 
 Wasn't It Lucky the President Had Three Daughters?
 
-<p>GIRLS have to get along without being  named after the President—at least, for the present. But these little maids did the next best thing and got themselves named after Mr. Wilson's daughters. Reading from left to right, they are Margaret, Jessie, and Eleanor. They were all born on the same day four years ago, and all call Mrs. Andrew Gunderson, of Valley City, North Dakota, mother. Yes, you've guessed it—they are triplets. They treasure pleasant letters from the young women of the White House for whom they were named. Eleanor and Jessie also have marriage announcements of two White House weddings, and Eleanor's collection is ahead of her sisters' by a bunch of violets which the wife of the Secretary of the Treasury sent to her.</p>
+<p>GIRLS have to get along without being  named after the Presidentat least, for the present. But these little maids did the next best thing and got themselves named after Mr. Wilson's daughters. Reading from left to right, they are Margaret, Jessie, and Eleanor. They were all born on the same day four years ago, and all call Mrs. Andrew Gunderson, of Valley City, North Dakota, mother. Yes, you've guessed itthey are triplets. They treasure pleasant letters from the young women of the White House for whom they were named. Eleanor and Jessie also have marriage announcements of two White House weddings, and Eleanor's collection is ahead of her sisters' by a bunch of violets which the wife of the Secretary of the Treasury sent to her.</p>
