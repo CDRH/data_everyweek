@@ -1,5 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-If You Are Not Too Careful Who Gets the Credit
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180330">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 30, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180330</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-03-30">March 30, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-04-04"><name>Erin Marra</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19180330.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER</note>
+<note>Place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>March 30, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main">DETOUR&#8212;ROADS ROUGH</head>
+<p>By Sinclair Lewis&#8212;In this issue</p>
+<ab>A Red Cross Baby</ab>
+<ab type="credit">Albet H Sonn</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180330.p002"/>
+
+<text>
+<body>
+
+<figure n="advertisement">
+<head>Auto Owners and Garage Men</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Montgomery Ward &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Now Every Woman Can Save On Food and Fuel With a Rapid</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Rapid Fireless Cooker</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>PUTTING IT OVER!</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advetisement for The Crowell Publishing Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="editorial" xml:id="barton.19180330">
+<body>
+
+<head type="main">If You Are Not Too Careful Who Gets the Credit</head>
 
 <p>YESTERDAY a man traveled two miles out of his way, and wasted two hours of his time, in order to call on me and make a complaint.</p>
 
@@ -21,15 +159,15 @@ If You Are Not Too Careful Who Gets the Credit
 
 <p>Chase from the Treasury Department conducted an open campaign for Lincoln's defeat and his own nomination to the Presidency.</p>
 
-<p>Yet Lincoln—aware of it all pursued his quiet way untroubled. He meant to save the Union; and if he could do it by submitting to Stanton's abuse, he would submit gladly.</p>
+<p>Yet Lincoln&#8212;aware of it all&#8212;pursued his quiet way untroubled. He meant to save the Union; and if he could do it by submitting to Stanton's abuse, he would submit gladly.</p>
 
-<p>If he could do it by suffering some personal humiliation at, the hands of McClellan and Fremont, it was a price he was glad to pay.</p>
+<p>If he could do it by suffering some personal humiliation at the hands of McClellan and Fremont, it was a price he was glad to pay.</p>
 
 <p>If Seward or Stanton or Chase were to have the credit when the thing was done, he did not care. The important thing was to get it done, let the credit fall where it might.</p>
 
 <p>Have you read the story of Harriman's fight to save the Imperial Valley, as told by George Kennan?</p>
 
-<p>In 1907 the Colorado River overflowed its banks, and threatened to destroy the valley. Though Harriman's railroads did not own any of the land in the valley, Harriman jumped in and spent M,300,000 to stem the flood.</p>
+<p>In 1907 the Colorado River overflowed its banks, and threatened to destroy the valley. Though Harriman's railroads did not own any of the land in the valley, Harriman jumped in and spent $1,500,000 to stem the flood.</p>
 
 <p>When it became evident that another million or more would be required, he telegraphed President Roosevelt, and the President told him to go ahead, and practically assured him that Congress would reimburse him.</p>
 
@@ -37,7 +175,7 @@ If You Are Not Too Careful Who Gets the Credit
 
 <p>Shortly before his death, Harriman revisited the valley, and was met by a reporter.</p>
 
-<p>"Mr. Harriman, the government hasn't paid you that money," said the reporter, "and your work does not seem to be dilly appreciated; do you not, under the circumstances, regret having made this large expenditure?"</p>
+<p>"Mr. Harriman, the government hasn't paid you that money," said the reporter, "and your work does not seem to be duly appreciated; do you not, under the circumstances, regret having made this large expenditure?"</p>
 
 <p>"No," replied Mr. Harriman. "The valley was worth saving, wasn't it?"</p>
 
@@ -51,64 +189,139 @@ If You Are Not Too Careful Who Gets the Credit
 
 <p>If your object in life is to get credit, you'll probably get it, if you work hard enough.</p>
 
-<p>But don't lie too much surprised and disappointed when some chap who just went ahead and did the thing, without thinking of the credit, winds up with more medals on his chest than you, with all your striving, have collected on yours.</p>
+<p>But don't be too much surprised and disappointed when some chap who just went ahead and did the thing, without thinking of the credit, winds up with more medals on his chest than you, with all your striving, have collected on yours.</p>
 
-Bruce Barton, Editor.
+<byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180330.p003"/>
 
+<text>
+<body>
 
+<figure n="advertisement">
+<head>Let's ALl Save $51</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Oliver Typewriter Company</figDesc>
+</figure>
 
-THE MOST INTERESTING MAN I KNOW
+</body>
+</text>
 
-He Always Finds a Way
+<pb n="Page 4" xml:id="ew.issue.19180330.p004"/>
 
-By JAMES H. COLLINS
+<text type="nonfiction" xml:id="collins.19180330">
+<body>
 
-B. L. Hamner, who is interesting because he is always interested.
+<head type="main">THE MOST INTERESTING MAN I KNOW</head>
+
+<cb n="1"/>
+
+<head type="main">He Always Finds a Way</head>
+<byline>By <persName type="author" key="#Collins, James H.">JAMES H. COLLINS</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>B. L. Hamner, who is interesting because he is always interested.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
 
 <p>WHAT makes B. L. Hamner one of the most interesting men to me is his faculty for being interested himself in whatever he happens to be doing, and his power for interesting others in that particular thing, and his habit of being just as much interested in something that he intends to do when he gets done with the present project.</p>
 
-<p>For years he was a trial lawyer in the West, learning how to get along with people, and also how to give people the best that was in himself. Then he lost health and money, and turned up in Florida to recover both. Health was easy—he got it back by wandering all over that most diversified State. And money came just naturally as lie got interested in bank deposits that people in Florida let lie unregarded.</p>
+<cb n="2"/>
 
-<p>For instance, he found money for Floridians by helping them see the importance of cooperation in marketing their vegetables, and bringing in settlers, and building communities.</p>
+<p>For years he was a trial lawyer in the West, learning how to get along with people, and also how to give people the best that was in himself. Then he lost health and money, and turned up in Florida to recover both. Health was easy&#8212;he got it back by wandering all over that most diversified State. And money came just naturally as he got interested in bank deposits that people in Florida let lie unregarded.</p>
 
-<p>There was a weekly farm journal which they read, and Hamner saw interest in that, and went to work for the editor (against the latter's advice) at a salary of fifteen dollars a week. This was all the editor thought he could afford the first week; but in a month he had increased it to fifty dollars and begun giving him stock in the paper to boot—for Hamner was bringing in money by developing the dormant advertising possibilities.</p>
+<p>For instance, he found money for Floridians by helping them see the importance of coÃ¶peration in marketing their vegetables, and bringing in settlers, and building communities.</p>
+
+<p>There was a weekly farm journal which they read, and Hamner saw interest in that, and went to work for the editor (against the latter's advice) at a salary of fifteen dollars a week. This was all the editor thought he could afford the first week; but in a month he had increased it to fifty dollars and begun giving him stock in the paper to boot&#8212;for Hamner was bringing in money by developing the dormant advertising possibilities.</p>
 
 <p>Then the city of Tampa needed a man who could get people interested in its possibilities, and Hamner was grabbed for that job. Then a big Southern railway system took him to develop neglected communities along its line; and that is where Hamner was the last time I talked with him, and his ideas of development were original. Instead of scattering settlers indiscriminately along the line through several States, he puts them into organized communities, on ready-made farms.</p>
 
 <p>Sites for these communities were selected on a basis of interest. First, Hamner chose territory where land was cheap because people had taken little interest in their own locality. Then he gave them a lively interest by getting them to invest money in the development of their own community.</p>
 
-<p>Hamner's big interest to-morrow will be bankers, he says. He believes they can improve their investments along lines that will render great human service through development of backward sections and industries. Therefore, he goes any distance to-day to learn anything new about how bankers think and feel, what they do with money, and why, and so on. His interest in them is so original and genuine that to-morrow they are pretty certain to be interested in him—humanly and financially.</p>
+<p>Hamner's big interest to-morrow will be bankers, he says. He believes they can improve their investments along lines that will render great human service through development of backward sections and industries. Therefore, he goes any distance to-day to learn anything new about how bankers think and feel, what they do with money, and why, and so on. His interest in them is so original and genuine that to-morrow they are pretty certain to be interested in him&#8212;humanly and financially.</p>
 
-Fame Left Him Unmoved
+</body>
+</text>
 
-By F. O. BARTLETT
+<text type="nonfiction" xml:id="bartlett.19180330">
+<body>
 
-ONE meets men and finds them interesting from all sorts of different angles. I can't-think of any individual to whom I could apply the superlative of "most."
+<head type="main">Fame Left Him Unmoved</head>
+<byline>By <persName type="author" key="#Bartlett, F. O.">F. O. BARTLETT</persName></byline>
 
-<p>Captain Bob Bartlett., however, is consistently interesting. Shortly after he returned with Peary from his voyage to the North Pole, f had the honor of discovering for him a place colder than his farthest North. It was the Harvard Stadium in November; and as he sat on the cement seats during a foot-ball match I saw his nose grow purple and his teeth begin to chat-ter, and heard him sigh for the gentle clime of Etah.</p>
+<cb n="1"/>
+
+<p>ONE meets men and finds them interesting from all sorts of different angles. I can't think of any individual to whom I could apply the superlative of "most."</p>
+
+<p>Captain Bob Bartlett, however, is consistently interesting. Shortly after he returned with Peary from his voyage to the North Pole, I had the honor of discovering for him a place colder than his farthest North. It was the Harvard Stadium in November; and as he sat on the cement seats during a football match I saw his nose grow purple and his teeth begin to chatter, and heard him sigh for the gentle clime of Etah.</p>
 
 <p>Bob blew into New York and Boston and Philadelphia and finally every important city to the Western coast fresh from the deck of his ship. He found himself surrounded, at first quite to his amazement, by all the leading men and women of the nation, anxious to grasp his hand and shower favors upon him. Scientists, literary men, millionaires, politicians, society folk, actors (and actresses), and sportsmen pressed close. The doors of the most exclusive clubs and houses were thrown open to him.</p>
 
-<p>A plain sea dog who asked fornothing more than three square meals a, (lay and a chance to pull at his old black pipe, he suddenly discovered himself with a sort of Aladdin's lamp. And the interesting thing about him was that he was able to meet all these different kinds of folk quite unabashed and unawed—just as he might meet them on board his ship or in camp. He neither feared them nor envied them. For him there were no strata. He moved in a world of pure democracy—though perhaps he felt under some restraint in his language at times. And when the somewhat hysterical popular interest in him calmed down he was able to go back to his ship as much the sea dog as before.</p>
+<p>A plain sea dog who asked for 
 
-<p>He has just come back with Mac-Millan. I haven't seen him since, but I'll bet he's smoking the same old tobacco in the same old pipe, and trying to scheme some way of getting back up North. In the meanwhile, he's probably knocking around with Harry Payne Whitney or R. T. Hale or Sandy Reardon according to who hap-pens to be nearest.</p>
+<cb n="2"/>
 
-"Smoking the same old tobacco in the same old pipe, and trying to scheme some way of getting back up North."
+nothing more than three square meals a day and a chance to pull at his old black pipe, he suddenly discovered himself with a sort of Aladdin's lamp. And the interesting thing about him was that he was able to meet all these different kinds of folk quite unabashed and unawed&#8212;just as he might meet them on board his ship or in camp. He neither feared them nor envied them. For him there were no strata. He moved in a world of pure democracy&#8212;though perhaps he felt under some restraint in his language at times. And when the somewhat hysterical popular interest in him calmed down he was able to go back to his ship as much the sea dog as before.</p>
 
+<p>He has just come back with MacMillan. I haven't seen him since, but I'll bet he's smoking the same old tobacco in the same old pipe, and trying to scheme some way of getting back up North. In the meanwhile, he's probably knocking around with Harry Payne Whitney or R. T. Hale or Sandy Reardon&#8212;according to who happens to be nearest.</p>
 
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>"Smoking the same old tobacco in the same old pipe, and trying to scheme some way of getting back up North."</p>
+<figDesc></figDesc>
+</figure>
 
-SPIES!-- By John Walker Harrington
-	 
-Photograph by Paul Thompson
+</body>
+</text>
 
-<p>Former Chief Flynn of the United States Secret Service says that there are more than 250,000 German spies in this country to-day. The man that didn't want his picture taken is a suspect who has been trapped by agents of the Department of Justice,—the good-natured looking persons on either side,—who are taking him before a Federal Judge for examination.</p>
+<pb n="Page 5" xml:id="ew.issue.19180330.p005"/>
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 13<lb/>
+March 30, 1918<lb/>
+
+Every Week<lb/>
+"Every word counts"<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="harrington.19180330">
+<body>
+
+<head type="main">SPIES!</head><byline>&#8212;By <persName type="author" key="#Harrington, John Walker">John Walker Harrington</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Paul Thompson</ab>
+<p>Former Chief Flynn of the United States Secret Service says that there are more than 250,000 German spies in this country to-day. The man that didn't want his picture taken is a suspect who has been trapped by agents of the Department of Justice,&#8212;the good-natured looking persons on either side,&#8212;who are taking him before a Federal Judge for examination.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
 
 <p>THERE are at least a quarter of a million German spies in this country to-day. This on the authority of William J. Flynn, until recently Chief of the United States Secret Service. Long before we got into the war this country was enmeshed in a gigantic web of intrigue; and by the time we had been at war nine months it was estimated that these spies had caused the destruction of $50,000,000 worth of property.</p>
 
-<p>According to Richard M. Hurd, chair-man of the board of trustees of the American Defense Society, very few of the hidden enemy have been run down. We were as little prepared to meet Germany in the field of intrigue as we were on the field of battle. But, just as the United States hastened to put a thousand soldiers at drill where one drilled before, so it set to work to meet the deadly menace of the spy. All of the government agencies of detection have been speeded up; the Secret Service and the Department of
-justice have been recruiting; and the hunt for the shadow Hun is well under way.</p>
+<p>According to Richard M. Hurd, chairman of the board of trustees of the American Defense Society, very few of the hidden enemy have been run down. We were as little prepared to meet Germany in the field of intrigue as we were on the field of battle. But, just as the United States hastened to put a thousand soldiers at drill where one drilled before, so it set to work to meet the deadly menace of the spy. All of the government agencies of detection have been speeded up; the Secret Service and the Department of Justice have been recruiting; and the hunt for the shadow Hun is well under way.</p>
 
 <p>Of the hunters and their work, many of the best stories can not be told until after the war, if then; but there are some tales that it can harm no one to tell, and which illustrate phases of the work.</p>
 
@@ -124,29 +337,47 @@ justice have been recruiting; and the hunt for the shadow Hun is well under way.
 
 <p>Then, one night, Dr. Albert dozed off as he rode. "Change for Fifty-ninth Street!" yelled the guard. And, waking with a start, Dr. Albert jumped to his feet and gained the platform just as the guard clanged the gate. In his hurry he left the portfolio on the seat. He realized his loss at once, tried to clamber back on board the moving train, demanded telephone connection with the next station, and stormed about the platform like one demented.</p>
 
-<p>While the Doctor was still shouting, an insignificant appearing little man got out at the next station. He was carrying a russet leather portfolio. Within an hour translators were busy with the Doctor's papers, and shortly there was exposed the whole fabric of plot and intrigue by which Germany was in effect making war upon us while ostensibly remaining a friendly nation. The papers told of plots to blow up our munitions plants, to sink ships, to cripple our factories by sabotage.</p>
+<p>While the Doctor was still shouting, an insignificant appearing little man got out at the next station. He was carrying 
 
-<p>After that the German spies were more careful; but the Secret Service knew what to expect, and matched cunning with cunning. It was learned that important German agents were followed by shadows of their own to spot Secret Service men who might be on the trail, and that look-outs with powerful glasses were stationed in office windows where they could command a good view and cover the arrival and departure of the German agents.</p>
+<cb n="2"/>
 
-<p>Thus guarded, one German set about buying passports by the wholesale. He made a fine deal in a South Street saloon one afternoon, and, as he passed over the money, a wisp of a man in a gray sweater and dirty cap jostled awkwardly at his elbow, looked up at him casually, mum-bled, " 'Scuse me, boss," and went on his way. The next time they met, the little man had had a shave and was wearing the badge of the Secret Service.</p>
+a russet leather portfolio. Within an hour translators were busy with the Doctor's papers, and shortly there was exposed the whole fabric of plot and intrigue by which Germany was in effect making war upon us while ostensibly remaining a friendly nation. The papers told of plots to blow up our munitions plants, to sink ships, to cripple our factories by sabotage.</p>
 
-<p>It is an axiom of the Service that a little man makes the best shadow and a big man the best blind; often they work in pairs. When the story leaks out of a plot for blowing up shipping along a water-front and reenacting the Halifax disaster, it probably means that some man of the Service has been spending his days and nights down along the piers, garbed in jumper and overalls and with a bale-hook carelessly draped about his neck. 'Wherever they work, they are so blended with their background that they pass unnoticed.</p>
+<p>After that the German spies were more careful; but the Secret Service knew what to expect, and matched cunning with cunning. It was learned that important German agents were followed by shadows of their own to spot Secret Service men who might be on the trail, and that look-outs with powerful glasses were stationed 
 
-<p>But the best disguise that the Secret Service knows is intentness upon one's business. The janitor who got hold of valuable notes from the waste-basket of a certain steamship company was of that type, and so was the sad-eyed stenographer who got himself employed at the German Embassy. He seemed so limited and literal in application to his work that he kept the job because he didn't seem able to grasp anything beyond making neat copy on his typewriter. One night, quite late, a letter came to the Embassy informing Count von Bernstorff that a person of importance would arrive at a New York hotel. The stenographer opened the letter, read it, resealed it, and took the first train out of Washing-ton. He presented himself to the important person as the confidential messenger of the Ambassador, got a fund of information, and disappeared into the Service.</p>
+<cb n="3"/>
+
+in office windows where they could command a good view and cover the arrival and departure of the German agents.</p>
+
+<p>Thus guarded, one German set about buying passports by the wholesale. He made a fine deal in a South Street saloon one afternoon, and, as he passed over the money, a wisp of a man in a gray sweater and dirty cap jostled awkwardly at his elbow, looked up at him casually, mumbled, "'Scuse me, boss," and went on his way. The next time they met, the little man had had a shave and was wearing the badge of the Secret Service.</p>
+
+<p>It is an axiom of the Service that a little man makes the best shadow and a big man the best blind; often they work 
+
+<cb n="4"/>
+
+in pairs. When the story leaks out of a plot for blowing up shipping along a water-front and reÃ«nacting the Halifax disaster, it probably means that some man of the Service has been spending his days and nights down along the piers, garbed in jumper and overalls and with a bale-hook carelessly draped about his neck. Wherever they work, they are so blended with their background that they pass unnoticed.</p>
+
+<p>But the best disguise that the Secret Service knows is intentness upon one's business. The janitor who got hold of valuable notes from the waste-basket of a certain steamship company was of that type, and so was the sad-eyed stenographer who got himself employed at the German Embassy. He seemed so limited and literal in application to his work that he kept the job because he didn't seem able to grasp anything beyond making neat copy on his typewriter. One night, quite late, a letter came to the Embassy informing Count von Bernstorff that a person of importance would arrive at a New York hotel. The stenographer opened the letter, read it, resealed it, and took the first train out of Washington. He presented himself to the important person as the confidential messenger of the Ambassador, got a fund of information, and disappeared into the Service.</p>
 
 <p>THE government sleuths are quick to seize new ways of solving old problems. It has long been established that no cipher can be contrived that can not be worked out; but when it came to finding out what was in the cipher messages that Captain von Papen, one of the chief agents of German intrigue, was sending to Berlin via the Sayville, Long Island, wireless station, the trouble was to get anything to work on. Chief Flynn and an expert named Apgar solved the problem by making phonograph records of the vibrations of the wireless as they were caught by a special apparatus. Then the record was played over hundreds of times until the cipher yielded up its secret.</p>
 
-<p>Naturally, one of the chief assets of the spy-hunter is his knowledge of how the German mind works. When a German officer who blew up a bridge in Canada was caught on the American side, it was necessary to prove—this was before we entered the war—that he had carried the dynamite from this country into Canada. He swore that the explosives had been given to him in a suit-case that was handed to him on Canadian soil by a man named Tommy, whom he had never seen before.</p>
+<p>Naturally, one of the chief assets of the spy-hunter is his knowledge of how the German mind works. When a German officer who blew up a bridge in Canada was caught on the American side, it was necessary to prove&#8212;this was before we entered the war&#8212;that he had carried the dynamite from this country into Canada. He swore that the explosives had been given to him in a suit-case that was handed to him on Canadian soil by a man named Tommy, whom he had never seen before.</p>
 
 <p>After reading the officer's sworn statement, the operative in charge of the case, remembering that the "Me" came before the "Gott," wrote on the bottom of the paper: "I declare that the above affidavit is true, on my honor as an officer in the German army," and pushed it back for another signature. The officer read it, and laid down his pen. "I won't sign that," he said, and subsequently confessed that Tommy was an imaginary person. The Secret Service man had guessed rightly that his man held the honor of his rank higher than his honor before God.</p>
 
 <p>Of the organizations of the government called into service as spy-hunters when we got into the war, that which we usually designate with capitals as the Secret Service is only one. The actual</p>
 
-Concluded on page 21
+<p><ref target="harrington.19180330.jump">Concluded on page 21</ref></p>
 
-A Woman Spy Once Saved the United States
+</body>
+</text>
 
-<p>THERE are spies and spies. German intrigue is a serious menace to our country; but once a spy-a woman- saved us from destruction. If Lydia Darrah, a demure little Philadelphia Quakeress, hadn't overheard General Howe and his staff plotting a surprise attack on Washington, the American army might have been decisively defeated and the history of the world changed.</p>
+<text type="nonfiction" xml:id="womanspy.19180330">
+<body>
+
+<head type="main">A Woman Spy Once Saved the United States</head>
+
+<p>THERE are spies and spies. German intrigue is a serious menace to our country; but once a spy&#8212;a woman&#8212;saved us from destruction. If Lydia Darrah, a demure little Philadelphia Quakeress, hadn't overheard General Howe and his staff plotting a surprise attack on Washington, the American army might have been decisively defeated and the history of the world changed.</p>
 
 <p>Howe's Adjutant-General was quartered in Lydia's living-room, and it was there that the attack on Washington's army was planned. Lydia was listening at the keyhole. Next morning General Howe laughingly gave her a pass through his lines "to get flour at the mill." She walked fourteen miles to Washington's headquarters, told what she had heard, walked back with her sack of flour, and went quietly on with her housework.</p>
 
@@ -154,26 +385,40 @@ A Woman Spy Once Saved the United States
 
 <p>"They didn't seem to be a bit surprised."</p>
 
-<p>Said Lieutenant-Colonel Craig-to whom Lydia Darrah had reported at Washington's headquarters:</p>
+<p>Said Lieutenant-Colonel Craig&#8212;to whom Lydia Darrah had reported at Washington's headquarters:</p>
 
-"You have saved the army-and you shall not be forgotten so long as liberty endures."
+<p>"You have saved the army&#8212;and you shall not be forgotten so long as liberty endures."</p>
 
+</body>
+</text>
 
+<pb n="Page 6" xml:id="ew.issue.19180330.p006"/>
 
+<text type="nonfiction" xml:id="tanks.19180330">
+<body>
 
-AN AMERICAN SEES THE TANKS AT WORK
+<head type="main">AN AMERICAN SEES THE TANKS AT WORK</head>
 
-British official photograph
+<figure n="photograph">
+<head></head>
+<ab n="credit">British official photograph; Â© Underwood &amp; Underwood</ab>
+<p>"They are irresistible," says an American who saw them in action. "Slow, clumsy, looking twice as big as they really are, they lurch along, sliding over trenches as if they did not exist."</p>
+<figDesc></figDesc>
+</figure>
 
-"They are irresistible," says an American who taw them in action. "Slow, clumsy, looking twice u big as they really are, they lurch along, sliding over trenches as if they did not exist."
+<cb n="1"/>
 
-<p>THE tanks do more than destroy German guns and troops of German soldiers: they destroy utterly the morale of the German army. They are irresistible. In A Yankee in the Trenches (Little, Brown & Company) Corporal R. Derby Holmes tells of his first sight of the British monsters:</p>
+<p>THE tanks do more than destroy German guns and troops of German soldiers: they destroy utterly the morale of the German army. They are irresistible. In <hi rend="italic">A Yankee in the Trenches</hi> (Little, Brown &amp; Company) Corporal R. Derby Holmes tells of his first sight of the British monsters:</p>
 
-<p>"We listened, and away from the rear came a tremendous whirring, burring, rumbling buzz, like a swarm of giant bees. I thought of every-thing from a Zeppelin to a donkey engine, but couldn't make it out.</p>
+<p>"We listened, and away from the rear came a tremendous whirring, burring, 
 
-<p>"It was getting a little light, though heavily misty. We waited, and then out of the gray blanket of fog waddled the great steel monsters that we were to know afterwards -as the `tanks.' I shall never forget it.</p>
+<cb n="2"/>
 
-<p>"In the half darkness they looked twice as big as they really were. They lurched for-ward, slow, clumsy, but irresistible, nosing down into shell-holes and out, crushing the unburied dead, sliding over mere trenches as though they did not exist."</p>
+rumbling buzz, like a swarm of giant bees. I thought of everything from a Zeppelin to a donkey engine, but couldn't make it out.</p>
+
+<p>"It was getting a little light, though heavily misty. We waited, and then out of the gray blanket of fog waddled the great steel monsters that we were to know afterwards as the 'tanks.' I shall never forget it.</p>
+
+<p>"In the half darkness they looked twice as big as they really were. They lurched forward, slow, clumsy, but irresistible, nosing down into shell-holes and out, crushing the unburied dead, sliding over mere trenches as though they did not exist."</p>
 
 <p>Later in the morning the order came to get ready to go over the top for the bloody battle of High Wood on the Somme. The position was important, and regiment after regiment had attempted to take the woods, and failed with awful losses.</p>
 
@@ -181,51 +426,72 @@ British official photograph
 
 <p>"Then the whistle shrilled; I blew mine, and over we went.</p>
 
+<cb n="3"/>
+
 <p>"The tanks were just ahead of us, and lumbered along in an imposing row. And how slow they did seem to move! Lord, I thought we should never cover that five or six hundred yards.</p>
 
-<p>"Slow! Slow! I found myself planning what I would do when I got to the front trenches—if we ever did. There would be a grand rumpus, and I would click a dozen or more.</p>
+<p>"Slow! Slow! I found myself planning what I would do when I got to the front trenches&#8212;if we ever did. There would be a grand rumpus, and I would click a dozen or more.</p>
 
 <p>"And then we arrived.</p>
 
-<p>"I ,don't suppose that trip across No Man's Land behind the tanks took over five minutes, but it' seemed like an hour.</p>
+<p>"I don't suppose that trip across No Man's Land behind the tanks took over five minutes, but it seemed like an hour.</p>
 
 <p>"When we reached the Boche front trenches, a strange thing happened. There was no fight worth mentioning. The tanks stopped over the trenches and blazed away right and left with their all-round traverse.</p>
 
-<p>"A few Boches ran out and threw silly little bombs at the monsters. The tanks, noses in the air, moved slowly on. And then the Graybacks swarmed tip out of shelters and dug-outs; literally in hundreds, and held up their hands, whining: `Mercy, Kamerad!'</p>
+<p>"A few Boches ran out and threw silly little bombs at the monsters. The tanks, noses in the air, moved slowly on. And then the Graybacks swarmed tip out of shelters and dug-outs; literally in hundreds, and held up their hands, whining: 'Mercy, Kamerad!'</p>
 
 <p>"We took prisoners by platoons. Blofeld grabbed me and turned over a gang of thirty to me.</p>
 
 <p>"We searched them rapidly, cut their suspenders and belts, and I started to the rear with them. They seemed glad to go. So was I."</p>
 
-Don't Feed or Annoy the Germans
+</body>
+</text>
+
+<text type="nonfiction" xml:id="feed.19180330">
+<body>
+
+<head type="main">Don't Feed or Annoy the Germans</head>
 
 <p>"ON the day when our boys took charge of the first little sector of the trenches, they were on tiptoe with expectation," said an American officer recently returned from France.</p>
 
-<p>"They could hardly wait to get their guns into position, and five minutes after their arrival they were banging away. at a German observation post across the lines.</p>
+<p>"They could hardly wait to get their guns into position, and five minutes after their arrival they were banging away at a German observation post across the lines.</p>
 
 <p>"A French officer ran up to them in great consternation:</p>
 
-<p>"'Stop it! Stop it!' he cried. `You don't know what you're doing.'</p>
+<p>"'Stop it! Stop it!' he cried. 'You don't know what you're doing.'</p>
 
 <p>'But it's an observation post,' the Americans protested.</p>
 
-<p>"`Of course it is; but it's been there two years. Quit firing on it: you don't suppose we want them firing on us, do you?'</p>
+<p>"'Of course it is; but it's been there two years. Quit firing on it: you don't suppose we want them firing on us, do you?'</p>
 
 <p>"Whereupon the Frenchman explained that, whatever might be happening in other sections of the front, this particular section was quiet, and the soldiers on both sides meant to keep it so. And the Americans, sobered and wiser, confessed that they had still much to learn about the foolish and contradictory business that we call war."</p>
 
-A TALK WITH LIEUTENANT PAT O'BRIEN- By Freda Kirchwey
+</body>
+</text>
 
-<p>He was shot, through the jaw 9000 feet above the earth; his aeroplane fell with him inside the German lines. He was a prisoner, escaped. a n d is n o w back home in America.</p>
+<text type="nonfiction" xml:id="kirchwey.19180330">
+<body>
 
-<p>DURING his off time one hot day last summer Lieutenant Pat O'Brien,- of the Royal Flying Corps, decided to take a trip over the German lines, instead of resting. The moral of this story is: Never work when you might rest.</p>
+<head type="main">A TALK WITH LIEUTENANT PAT O'BRIEN</head><byline>&#8212;By <persName type="author" key="#Kirchwey, Freda">Freda Kirchwey</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>He was shot through the jaw 9000 feet above the earth; his aÃ«roplane fell with him inside the German lines. He was a prisoner, escaped, and is now back home in America.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
+
+<p>DURING his off time one hot day last summer Lieutenant Pat O'Brien, of the Royal Flying Corps, decided to take a trip over the German lines, instead of resting. The moral of this story is: Never work when you might rest.</p>
 
 <p>Lieutenant O'Brien went up some nine thousand feet, and was attacked by three German planes. Two he accounted for; but the third sent a bullet that crashed through his upper lip and jaw and lodged in his throat. His comrades saw his ma-chine do a spinning dive to earth inside the German lines, and said good-by to a brave man. But O'Brien wasn't dead. Right now he is in America telling his friends how it happened.</p>
 
 <p>He is a diffident young man; but his tale speaks for his valor, no matter how you tell it:</p>
 
-<p>I was sort of smashed up when I landed. I spent three weeks in a German prison camp in Belgium. No, I can't say they treated me so badly. Only, everywhere you went, there were always interpreters along, pumping you—trying to find out things. They always acted pretty decent to make you talk. The food wasn't much. For breakfast we had black coffee—no sugar or milk. That was all, unless you saved some bread from the day before. For lunch we had soup and boiled cabbage or boiled beets. Once in a while we got some sort of pickled meat--as white as paper. At night we had tea—they called it that—and bread, and some-times canned meat hash or beet jam. Somehow, I never could get to like beet jam.</p>
+<p>I was sort of smashed up when I landed. I spent three weeks in a German prison camp in Belgium. No, I can't say they treated me so badly. Only, everywhere you went, there were always interpreters along, pumping youtrying to find out things. They always acted pretty decent to make you talk. The food wasn't much. For breakfast we had black coffeeno sugar or milk. That was all, unless you saved some bread from the day before. For lunch we had soup and boiled cabbage or boiled beets. Once in a while we got some sort of pickled meat--as white as paper. At night we had teathey called it thatand bread, and some-times canned meat hash or beet jam. Somehow, I never could get to like beet jam.</p>
 
-<p>"Three weeks after I landed, they thought I was well enough to go to a reprisal camp. I decided not to go; reprisal camps aren't healthy places. We sat in a compartment in the train—six English-men, a Frenchman, and I. There was a guard with us, so close my knees almost touched his.</p>
+<p>"Three weeks after I landed, they thought I was well enough to go to a reprisal camp. I decided not to go; reprisal camps aren't healthy places. We sat in a compartment in the trainsix English-men, a Frenchman, and I. There was a guard with us, so close my knees almost touched his.</p>
 
 <p>"Occasionally I stood up and tested the rack over my head and the strap beside it. I had complained of closeness and opened the window. Then, suddenly, I stood up, grabbed the strap and the rack, and swung myself out into the blackness, feet first.</p>
 
@@ -233,9 +499,9 @@ A TALK WITH LIEUTENANT PAT O'BRIEN- By Freda Kirchwey
 
 <p>Lieutenant O'Brien looked thoughtful.  It was a breathless wait, but he was pre-paring no climax.</p>
 
-<p>"Poor chap," he went on. "He was just starting home on leave—that guard. Of course he was sent straight back to the trenches. It's an awful thing to let a prisoner escape. I was darn sorry for him.</p>
+<p>"Poor chap," he went on. "He was just starting home on leavethat guard. Of course he was sent straight back to the trenches. It's an awful thing to let a prisoner escape. I was darn sorry for him.</p>
 
-<p>"When I came to," continued the Lieu-tenant quietly, "I saw a light about half a mile down the track. The train had stopped. I tried to crawl off the tracks; but I fainted again for a while. Then I roused myself and ran—I ran till I dropped. When daylight came I hid in a thicket.</p>
+<p>"When I came to," continued the Lieu-tenant quietly, "I saw a light about half a mile down the track. The train had stopped. I tried to crawl off the tracks; but I fainted again for a while. Then I roused myself and ranI ran till I dropped. When daylight came I hid in a thicket.</p>
 
 <p>"For seventy-two days I tramped and dodged Germans at night and hid all day in the bushes and undergrowth. It's lucky for me that I grew up in the country, and know the woods and how to live out of doors. The days lying hidden from dawn till dark were almost worse than the nights of travel. It was over a month before I found a clothes-line with any things to cover my uniform. I almost lived on raw cabbages and carrots and beets."</p>
 
@@ -259,7 +525,7 @@ UNDER THE SURGEON'S KNIFE
 
 <p>"Oh, it was no roundabout question, for without hesitation the man yielded his face to the ether masque.</p>
 
-<p>"The echo of his solemn words still resounded in the room: `You will tell my wife—'</p>
+<p>"The echo of his solemn words still resounded in the room: `You will tell my wife'</p>
 
 <p>"The surgeon shows moist eyes behind his glasses and with deep feeling answers: "`We will not fail to, my friend.'"</p>
 
@@ -297,19 +563,19 @@ Illustrations by R. K. Ryland
 
 <p>He was tired, anyway. He needed a vacation. He decided to motor to Chicago, and to let the unending road stir him into thought. It was early autumn; the maples were mingling orange with delicate green. He invited his wife to go with him in the roadster, but she was bored by touring, and she told him to run along and play by himself. She knew him; to her he was not Mr. Blackwell, but eager, blundering, generous young Stacy. She begged him to be careful, and packed his bags for him, and sent him off at six of a bright Mon-day morning. He planned to make the trip in four days' driving, with Friday and Saturday for a loaf in Chicago, where he was to speak Saturday evening.</p>
 
-<p>IN New York and Baltimore he had been not unaccustomed to having hotel managers welcome him, reporters know who he was, and leading citizens ask him if he could possibly wedge in a luncheon between his engagements. In Philadelphia he was too used to personal attention from office-boys, policemen, waiters, and even theater ticket sellers to think anything about it. But in the small-city hotels in which he stayed on the first two nights the clerks neither fainted nor blanched when he put his name on the register. Garage men were apparently not impressed by the Betterton-Lecoque. Their only attention to him, when he was driving his car in for night-storage, was to stand looking supercilious, and to groan, "Now, cramp her 'way round—no, not that way, other way!—whered'ya think you're trying to put her?—in the office? Now, back—back, I said! Aw, let her come, will you?"</p>
+<p>IN New York and Baltimore he had been not unaccustomed to having hotel managers welcome him, reporters know who he was, and leading citizens ask him if he could possibly wedge in a luncheon between his engagements. In Philadelphia he was too used to personal attention from office-boys, policemen, waiters, and even theater ticket sellers to think anything about it. But in the small-city hotels in which he stayed on the first two nights the clerks neither fainted nor blanched when he put his name on the register. Garage men were apparently not impressed by the Betterton-Lecoque. Their only attention to him, when he was driving his car in for night-storage, was to stand looking supercilious, and to groan, "Now, cramp her 'way roundno, not that way, other way!whered'ya think you're trying to put her?in the office? Now, backback, I said! Aw, let her come, will you?"</p>
 
 <p>He noticed a real estate sign in an iron town, and trotted up to see the firm. It was pure impulse; he was the friendliest tail-wagging pup in the world. He was tired of driving in silence. He wanted to chat with some one "in the business." He hadn't a thing to say, but as he hastened up to the office he was sure that there were a lot of things about workmen's cottages that he was feverish to learn.</p>
 
-<p>"I'm Stacy Blackwell," he said casually to the head of the firm, and held out his hand, expecting to be thanked for being Mr. Blackwell, and probably invited to revise their prospect-file. The real estate man didn't hold out his own hand—no, nor his heart; he growled: "Blackwell, you said your name was? Well? What can I do for you?" His manner indicated that what he wanted to do for Mr. Blackwell was to get rid of him with speed. The friendly pup felt like a very lonely pup.</p>
+<p>"I'm Stacy Blackwell," he said casually to the head of the firm, and held out his hand, expecting to be thanked for being Mr. Blackwell, and probably invited to revise their prospect-file. The real estate man didn't hold out his own handno, nor his heart; he growled: "Blackwell, you said your name was? Well? What can I do for you?" His manner indicated that what he wanted to do for Mr. Blackwell was to get rid of him with speed. The friendly pup felt like a very lonely pup.</p>
 
 <p>BY dinner-time on Wednesday, his third day of driving, he was more than half through Ohio. He was inflexible and cranky from unaccustomed long driving, but after dinner he drove on by dark, to make distance. He was reduced from a bubbling personality to a machine that merely sat and drove, that saw nothing but the road, knew nothing but the wheel and the trail-signs. He was too drained of energy even to take the trouble to switch on the wind-shield spot-light and adjust it so that it would illuminate the right side of the road, though he was on a too narrow cement way.</p>
 
-<p>He was droning along in a mist of drowsiness. He saw by a red haze which outlined a rise ahead of him that another car was coming, beyond the rise. He slowly put out his hand to dim his lights, sleepily wondering if he wasn't too near the center of the road. Then the other car had shot over the rise, was on him.  Its lights confused him.  His hand twitched on the wheel and—blam! crash!</p>
+<p>He was droning along in a mist of drowsiness. He saw by a red haze which outlined a rise ahead of him that another car was coming, beyond the rise. He slowly put out his hand to dim his lights, sleepily wondering if he wasn't too near the center of the road. Then the other car had shot over the rise, was on him.  Its lights confused him.  His hand twitched on the wheel andblam! crash!</p>
 
 <p>In the daze of the accident he did not think of being afraid; he did not yet realize that he might have been hurt, or that in the other car, still concealed from him by its lights, some one else might he hurt. The other people did not exist for him.</p>
 
-<p>But they began to exist, with noise and fury. As he stiffly climbed out, four men were yelping confusedly, "That was your fault—" "We were 'way over on our side—" "We *as running slow—" "By golly, you'll settle for my machine or—" "You bet he'll settle—" "Oh, I'm hurt! My finger is all tore up."</p>
+<p>But they began to exist, with noise and fury. As he stiffly climbed out, four men were yelping confusedly, "That was your fault" "We were 'way over on our side" "We *as running slow" "By golly, you'll settle for my machine or" "You bet he'll settle" "Oh, I'm hurt! My finger is all tore up."</p>
 
 <p>The man of the last cry came running to the headlight.</p>
 
@@ -325,9 +591,9 @@ Illustrations by R. K. Ryland
 
 <p>Wire-drawn and curt, used to obedience, used to respect, Blackwell faced this mass of undisciplined flesh and said quietly: "Certainly; I expect to settle." But his decisive voice could not be heard in the brawl the four men were making as they bumbled from one machine to the other, all talking at once.</p>
 
-<p>The owner of the flivver—Harry seemed to be his name—wasn't affected by the very best Blackwell manner; and he kept shouting:</p>
+<p>The owner of the flivverHarry seemed to be his namewasn't affected by the very best Blackwell manner; and he kept shouting:</p>
 
-<p>"Yes, you bet your life you'll settle—you was 'way over in the middle of the road—"</p>
+<p>"Yes, you bet your life you'll settleyou was 'way over in the middle of the road"</p>
 
 <p>ANOTHER machine was stopping. From it exploded a crowd of girls and boys of sixteen to eighteen. With the ghoulishness of any crowd at any accident, they screeched, "Was anybody hurt?" Delightedly the boys poked their fingers at the twisted axle of the Betterton-Lecoque, and cried, "Gee, some smash! How'd it happen?" The girls made a circle about Blackwell, giggling hysterically, commenting, "Oh, see Willie! Where'd he get the cute little golf-suit?" and gloating again and again, "Anybody hurt?"</p>
 
@@ -361,7 +627,7 @@ Illustrations by R. K. Ryland
 
 <p>"Aw, shut up, Harry, you poor fool. If you'd put dimmers on your lights, like I've told you, it wouldn't have happened. This gentleman tells me he's ready to have your rotten 'bus towed into Tarpenton and repaired, and he'll pay for it. He's just going down to 'phone for the wrecking car now. So you dry up."</p>
 
-<p>"Yes, that's right—just going to telephone," bubbled, not Mr. Blackwell of Philadelphia, but the little brother who was thankful to do anything big brother suggested. "I'll skip down to the next farm."</p>
+<p>"Yes, that's rightjust going to telephone," bubbled, not Mr. Blackwell of Philadelphia, but the little brother who was thankful to do anything big brother suggested. "I'll skip down to the next farm."</p>
 
 <p>"You'll skip down nothing! This ain't any skipping-rope. You'd never come back," complained Harry.</p>
 
@@ -371,9 +637,9 @@ Illustrations by R. K. Ryland
 
 <p>BLACKWELL felt that if he ever heard the word "settle" again he would go mad and run about biting fence-posts. But his hero and protector, the jitney man, ignored Harry, and genially commanded: "Run along, bub, and telephone, and I'll watch your things."</p>
 
-<p>Gratefully Blackwell hurried off. It was healing to be away from the confusion, from the sight of his pathetically wrecked car, the whining of Harry. The corn fields were about him; the sky was great and peaceful. He had recovered some of his trust in Mr. Blackwell by the time he had reached the nearest farm-house, and, despite the fact that the farmer wanted to know his name, favorite brand of coffee, and opinion of tractors, before making him surlily welcome to the telephone, Blackwell was fairly authoritative in talking to Hickson, the garage man at Tarpenton. He promised Hickson an extra fee if he would come out with the wrecking car at once. He asserted that he had perfect confidence in Mr. Hickson —but would he please be sure to remember to bring that flivver axle and radius rod?</p>
+<p>Gratefully Blackwell hurried off. It was healing to be away from the confusion, from the sight of his pathetically wrecked car, the whining of Harry. The corn fields were about him; the sky was great and peaceful. He had recovered some of his trust in Mr. Blackwell by the time he had reached the nearest farm-house, and, despite the fact that the farmer wanted to know his name, favorite brand of coffee, and opinion of tractors, before making him surlily welcome to the telephone, Blackwell was fairly authoritative in talking to Hickson, the garage man at Tarpenton. He promised Hickson an extra fee if he would come out with the wrecking car at once. He asserted that he had perfect confidence in Mr. Hickson but would he please be sure to remember to bring that flivver axle and radius rod?</p>
 
-<p>He hastened back and patiently listened while the flivverous Harry indulged in his favorite word "settle" nine more times, and made several bright hints about payment, compensation, and getting the flivver fixed. It really did not seem worth while to have motored so hard just to make Barry's acquaintance. Then Hickson came shooting up in a big, competent-looking service car. Hickson was big and competent-looking himself—a bluff, bustling, solid citizen in a leather coat, as patronizing as the jitney man, and more brisk.</p>
+<p>He hastened back and patiently listened while the flivverous Harry indulged in his favorite word "settle" nine more times, and made several bright hints about payment, compensation, and getting the flivver fixed. It really did not seem worth while to have motored so hard just to make Barry's acquaintance. Then Hickson came shooting up in a big, competent-looking service car. Hickson was big and competent-looking himselfa bluff, bustling, solid citizen in a leather coat, as patronizing as the jitney man, and more brisk.</p>
 
 <p>"Who do you work for?" Hickson asked him.</p>
 
@@ -385,7 +651,7 @@ Illustrations by R. K. Ryland
 
 <p>"All right."</p>
 
-<p>"This fellow's got to settle—" began Harry.</p>
+<p>"This fellow's got to settle" began Harry.</p>
 
 <p>"All right, Harry, all right!" Hickson growled. "Your car will be ready for you to-morrow noon, at my garage. Now get'ell out of here, and don't bother me. - You can ride to town with Sanders-here."</p>
 
@@ -393,7 +659,7 @@ Illustrations by R. K. Ryland
 
 <p>"You said you were in the real estate business? I got a cousin that's bookkeeper for Talbot and Twinney. Know um?" condescended Hickson.</p>
 
-<p>Blackwell did know of Talbot and Twinney—as the cheapest hall-roomrenting agency in Philadelphia. But there was meek politeness in his answer:</p>
+<p>Blackwell did know of Talbot and Twinneyas the cheapest hall-roomrenting agency in Philadelphia. But there was meek politeness in his answer:</p>
 
 <p>"No; I don't happen to know anybody at Talbot's personally."</p>
 
@@ -405,11 +671,11 @@ Illustrations by R. K. Ryland
 
 <p>"It will seem a long while, my boy, but don't forget I'll be right on the job, watching out for you and hustling to get things done. So don't worry, m' boy. S' long."</p>
 
-<p>"S' long—thank you very, very much," said the chronic little brother.</p>
+<p>"S' longthank you very, very much," said the chronic little brother.</p>
 
-<p>THEN he was alone—and suddenly more emptily weary than he had ever been in his life. Though five minutes before he had been lifting like a stevedore, now it was an enormous task to get across the road to the grass patch to which his car had been pushed, get out a lap-robe, climb into the seat, and adjust him-self with his feet inelegantly cocked up between the steering wheel and the left door. The knob of the right door was sticking into his back; but to shift his position took as much resolution as to get out of bed on a cold morning.</p>
+<p>THEN he was aloneand suddenly more emptily weary than he had ever been in his life. Though five minutes before he had been lifting like a stevedore, now it was an enormous task to get across the road to the grass patch to which his car had been pushed, get out a lap-robe, climb into the seat, and adjust him-self with his feet inelegantly cocked up between the steering wheel and the left door. The knob of the right door was sticking into his back; but to shift his position took as much resolution as to get out of bed on a cold morning.</p>
 
-<p>For a second he considered his car, its front wheels replaced by jacks, and the left front fender crumpled like a kicked tin can. It was as human and touching as -a crippled athlete. He identified it with his wife—she who had loved it, had driven it, and polished odd corners of it. He felt as if she had in some way been injured. He was lonely for her.</p>
+<p>For a second he considered his car, its front wheels replaced by jacks, and the left front fender crumpled like a kicked tin can. It was as human and touching as -a crippled athlete. He identified it with his wifeshe who had loved it, had driven it, and polished odd corners of it. He felt as if she had in some way been injured. He was lonely for her.</p>
 
 <p>Then, immediately, he was soggily asleep. And immediately after that pestering lights were shining in his face. He opened his peppery eyelids to find a car stopped, facing him, and a truck-driver looking over the wreck with lighted matches. The truckman came to the side of the car, and deliberately regarded Blackwell as if he were an ibis in a museum, or the Grand Canon, or any other impersonal wonder of nature. In a manner of profound revelation he stated:</p>
 
@@ -443,9 +709,9 @@ Illustrations by R. K. Ryland
 
 <p>The lack of morning coffee made him feeble. He wabbled down to the house from which he had telephoned, and bought breakfast. Fiery with the pride of bitter hot coffee, he stalked hack, and for half an hour pretended that he really was a man of affairs again, and going to get something done. He energetically washed the back of the car, but when he looked at the smashed fender again, his tinkering seemed petty, and he sat down on the running-board and gazed forlornly at the landscape.</p>
 
-<p>He had already done justice to that landscape—a fair corn-field, a forest of seven maples, and a cement culvert. But he was destined to make a much completer study of it. He accumulated an authoritative but highly useless knowledge of a gravel bank, a large rock with a vein of quartz glistening in the sun, and the angle of inclination of a fence-post.</p>
+<p>He had already done justice to that landscapea fair corn-field, a forest of seven maples, and a cement culvert. But he was destined to make a much completer study of it. He accumulated an authoritative but highly useless knowledge of a gravel bank, a large rock with a vein of quartz glistening in the sun, and the angle of inclination of a fence-post.</p>
 
-<p>About Chicago—how to get there, or how to impress the Volt Club when he got there—he could not think. The only person he desired to impress was Mr. Hick-son of Tarpenton, who could do magic, and even get Betterton parts from Cleve-land.</p>
+<p>About Chicagohow to get there, or how to impress the Volt Club when he got therehe could not think. The only person he desired to impress was Mr. Hick-son of Tarpenton, who could do magic, and even get Betterton parts from Cleve-land.</p>
 
 <p>Blackwell assured himself that he could still make much of the distance by car. The parts ought to arrive that evening Thursday. Hickson had said so, and Hickson was the wisest and most depend-able man in the world. He could get off by midnight. He would drive all night! Perhaps he could make Chicago late Friday afternoon. At the possibility of really going on, of seeing the car live and quick and whole, he was thrilled for ten minutes.</p>
 
@@ -463,11 +729,11 @@ Illustrations by R. K. Ryland
 
 <p>At first he resented being expected to tell the whole story over and over; but the weight of the general opinion that he was a freak, put there for their curiosity, made him adopt their view.</p>
 
-<p>THE day didn't drag. It lay in the dust and let itself be dragged. Blackwell in-vented little tasks to keep himself alive. When dusk came, he could think of nothing in the world except that Hickson was long overdue with the rescue car. When one of the cars that kept coming at him over the hill stopped, and it was actually Hickson, Blackwell was in such an esctasy of pity for himself that he was almost sorry that his period of waiting was over—now he was no longer an interesting martyr!</p>
+<p>THE day didn't drag. It lay in the dust and let itself be dragged. Blackwell in-vented little tasks to keep himself alive. When dusk came, he could think of nothing in the world except that Hickson was long overdue with the rescue car. When one of the cars that kept coming at him over the hill stopped, and it was actually Hickson, Blackwell was in such an esctasy of pity for himself that he was almost sorry that his period of waiting was overnow he was no longer an interesting martyr!</p>
 
 <p>"Wheel and fender come all right?" he asked trustingly of his friend and patron Hickson.</p>
 
-<p>"No, they didn't get here; but they ought to be here first thing in the morning," chirruped Hickson. "Well, I had the axle straightened all right, and I borrowed a wheel from an old Betterton down the line, and we'll get you hauled into Tarpenton to-night, and you can be right comfortable there. Fine town—"</p>
+<p>"No, they didn't get here; but they ought to be here first thing in the morning," chirruped Hickson. "Well, I had the axle straightened all right, and I borrowed a wheel from an old Betterton down the line, and we'll get you hauled into Tarpenton to-night, and you can be right comfortable there. Fine town"</p>
 
 <p>"First thing to-morrow morning? Well, say, if the parts surely come then, I'll still be able to make Chicago by Saturday afternoon, don't you think?"</p>
 
@@ -520,13 +786,13 @@ Illustrations by R. K. Ryland
 
 <p>Suddenly the perishing pride of Mr. Blackwell raised its head from the drifts and made one more plunge forth into the night and storm.</p>
 
-<p>"See here! I spoke courteously to you—"</p>
+<p>"See here! I spoke courteously to you"</p>
 
 <p>The waiter did not even look at him:</p>
 
-<p>"Aw, you drummers make me tired—expecting to get supper at seven or a quarter past or Lord only knows when, and then trying to pull the flip Columbus stuff. You can't bluff me—I used to work in Dayton!"</p>
+<p>"Aw, you drummers make me tiredexpecting to get supper at seven or a quarter past or Lord only knows when, and then trying to pull the flip Columbus stuff. You can't bluff meI used to work in Dayton!"</p>
 
-<p>HE piled the food before Blackwell, all at once, and went loftily back to disport himself at pool, while the crushed Black-well tried to get down a dry hamburger steak sandwich on thick bread, soul) that was wet but otherwise of little virtue, and pallid apple pie. He studied the lunchroom—the dirty floor, the gambling machines, the shelves with cans of tomatoes, the disordered cases of cigarettes, gum, candy, and ear-muffs. He thought of a hundred ways to improve the place and attract motorists—all of them be-ginning with a scrubbing-brush. He didn't dare suggest any of them to the haughty young man, but the return of inspiration nerved him to go sailing out of the door to see what could be done about Tarpenton.</p>
+<p>HE piled the food before Blackwell, all at once, and went loftily back to disport himself at pool, while the crushed Black-well tried to get down a dry hamburger steak sandwich on thick bread, soul) that was wet but otherwise of little virtue, and pallid apple pie. He studied the lunchroomthe dirty floor, the gambling machines, the shelves with cans of tomatoes, the disordered cases of cigarettes, gum, candy, and ear-muffs. He thought of a hundred ways to improve the place and attract motoristsall of them be-ginning with a scrubbing-brush. He didn't dare suggest any of them to the haughty young man, but the return of inspiration nerved him to go sailing out of the door to see what could be done about Tarpenton.</p>
 
 <p>Almost anything could be done about Tarpenton. The village that he had all day pictured as a cross between London . and Bryn Mawr was apparently composed of seven hundred persons, all dead, but uninformed of the casualties. The walks were intermittent attacks of crumbly cement, the paving was of fine pure honest natural mud, and the stores were junk-heaps. But he did find a drug-store that was clean, tile-floored, ambitious. He impulsively went in.</p>
 
@@ -540,11 +806,11 @@ Illustrations by R. K. Ryland
 
 <p>"Cinch! Make 'em sign agreement not to. Usual legal contract," Blackwell urged.</p>
 
-<p>He had never before considered the drug business, but it had become his chief concern in life to see a chain of small-town drug-stores started immediately and properly. While the druggist stared with a "Well, what you got to sell?" expression, Blackwell fervently outlined a whole scheme of organization—a plan that would have been worth approximately ten thou-sand dollars to a man able to use it.</p>
+<p>He had never before considered the drug business, but it had become his chief concern in life to see a chain of small-town drug-stores started immediately and properly. While the druggist stared with a "Well, what you got to sell?" expression, Blackwell fervently outlined a whole scheme of organizationa plan that would have been worth approximately ten thou-sand dollars to a man able to use it.</p>
 
 <p>The druggist was much too prim to be called a swine, but certainly he did not care for the pearls beseechingly cast be-fore him.</p>
 
-<p>"Well,"—sniff,—"maybe there's some-thing to what you say,"—sniff,—"but I guess I can manage to keep pretty busy right here,"—sniff,—"so, uh—" was his hysterical verdict.</p>
+<p>"Well,"sniff,"maybe there's some-thing to what you say,"sniff,"but I guess I can manage to keep pretty busy right here,"sniff,"so, uh" was his hysterical verdict.</p>
 
 <p>It may be stated confidently that this particular druggist rarely had efficiency geniuses come and beg him to accept ideas; but as Blackwell dejectedly fluttered our the druggist chuckled: "Won-der what that fellow intended to try and sell me? Well, guess I didn't encourage him much. Guess he pulls that line of taffy every place. Didn't catch me with it, though!"</p>
 
@@ -552,7 +818,7 @@ Illustrations by R. K. Ryland
 
 <p>Suddenly the recently deceased Mr. Black-well came to life and took charge of every-thing in sight.</p>
 
-<p>"Pardon me, but I happened to hear what you were saying. I am a real estate man, and I've known—of course, in your particular in-stance it may be all right, but I've known the prize-lot, free-for-abstract game to be highly fraudulent. They divide up swamp or desert land in some distant State, land worth about two dollars an acre, into a number of tiny lots, and, by getting seven or eight dollars per abstract, really sell that land for about three hundred, clear, an acre. Now, I'd advise—"</p>
+<p>"Pardon me, but I happened to hear what you were saying. I am a real estate man, and I've knownof course, in your particular in-stance it may be all right, but I've known the prize-lot, free-for-abstract game to be highly fraudulent. They divide up swamp or desert land in some distant State, land worth about two dollars an acre, into a number of tiny lots, and, by getting seven or eight dollars per abstract, really sell that land for about three hundred, clear, an acre. Now, I'd advise"</p>
 
 <p>The town policeman was gazing upon him with a mixture of benevolence and pity. He arose and drawled: "Ye-up, maybe; but you can bet your bottom dollar I ain't going to give up a free prize--"</p>
 
@@ -560,9 +826,9 @@ Illustrations by R. K. Ryland
 
 <p>"No, sir; I don't. I never ask about things that don't concern me!" piped the policeman, to a chorus of snickers, and he sauntered out.</p>
 
-<p>Blackwell's depression increased as he heard the ever-changing group in the hotel speak much wisdom about matters of which he knew nothing—county option, chain drives, scratch feed, humus. Hick-son the garage man came in to buy a cigar.</p>
+<p>Blackwell's depression increased as he heard the ever-changing group in the hotel speak much wisdom about matters of which he knew nothingcounty option, chain drives, scratch feed, humus. Hick-son the garage man came in to buy a cigar.</p>
 
-<p>Blackwell brightened. Here was his friend! Hickson merely nodded to him; but with a man next to Blackwell he discussed the price of coal at considerable length. He did not introduce the man, nor in any way indicate that he would like the counsel of Mr. Stacy MacGovern Blackwell—who owned rather a nice block of stock in a coal mine.</p>
+<p>Blackwell brightened. Here was his friend! Hickson merely nodded to him; but with a man next to Blackwell he discussed the price of coal at considerable length. He did not introduce the man, nor in any way indicate that he would like the counsel of Mr. Stacy MacGovern Blackwellwho owned rather a nice block of stock in a coal mine.</p>
 
 <p>The village newspaperman came in.  To him Hickson shouted:</p>
 
@@ -574,17 +840,17 @@ Illustrations by R. K. Ryland
 
 <p>Blackwell didn't even look about after these journalistic honors. He stalked up to a bed whose mattress was an accurate relief map of the Sierra Nevada mountains and the Sacramento valley.</p>
 
-<p>He read the Tarpenton - Intelligencer at breakfast. On the back page, between "Glad News for This Section—Local Man Cured of Rheumatism by Simple Prescription" and "Don't Forget the Baptist Lawn Festival," he discovered:</p>
+<p>He read the Tarpenton - Intelligencer at breakfast. On the back page, between "Glad News for This SectionLocal Man Cured of Rheumatism by Simple Prescription" and "Don't Forget the Baptist Lawn Festival," he discovered:</p>
 
 <p>Harry Benner and Will and Charley Swenson, with a friend from Wade's Creek, had an unfortunate accident Wednesday evening near Vandalsburg when their natty buzz buggy was hit by a Pennsylvania car. The axle was badly bent, and we opine you will need a new mud guard, Harry, if you take a certain young lady from Arcola out riding any more. Both cars are being repaired by Hickson, our genial and competent garage king. The other car was driven by a man named Stacy.</p>
 
-<p>Blackwell managed to laugh, but he felt enormously unimportant as he hastened to Number Three, the first train on which the parts for his car could arrive. He reached the station five minutes be-fore the train—a long five minutes to wait. The people at the station ignored him, but stared at the son of the local hanker, who was going up to the city in a new suit with a belt and buckle. "Gee, some suit Roy's got!" he heard the station agent say to the 'bus driver. He did not hear any one comment on his own beautiful tweeds.</p>
+<p>Blackwell managed to laugh, but he felt enormously unimportant as he hastened to Number Three, the first train on which the parts for his car could arrive. He reached the station five minutes be-fore the traina long five minutes to wait. The people at the station ignored him, but stared at the son of the local hanker, who was going up to the city in a new suit with a belt and buckle. "Gee, some suit Roy's got!" he heard the station agent say to the 'bus driver. He did not hear any one comment on his own beautiful tweeds.</p>
 
 <p>He was raging because he could actually be jealous of the raiment of a chinless voting man of Tarpenton; because he was going about like a prep. school freshman, wanting attention from a town of a population considerably less than that of the building in which he had the largest office. But, no matter how he raged, he knew that his first ambition was to be admitted as an equal in Hickson's exclusive set in Tarpenton; and his second, to have the car parts arrive on this train, and be able to escape from this haughty village that ignored his friendliness.</p>
 
-<p>The train was coming in. He gaped at it as it rounded the curve, panted over its two dingy day coaches and the ex-press car. He ran along the platform be-side the express car, peering in for the package of parts. He visualized it—there would be a rounded hump for the new fender. He almost made himself believe that he saw such a package.</p>
+<p>The train was coming in. He gaped at it as it rounded the curve, panted over its two dingy day coaches and the ex-press car. He ran along the platform be-side the express car, peering in for the package of parts. He visualized itthere would be a rounded hump for the new fender. He almost made himself believe that he saw such a package.</p>
 
-<p>AS the train stopped, the expressman came to the door of the car with a bunch of manila envelops, handed them—and nothing else—to the local agent, and waved his hand to the train crew. Black-well stood emptily watching the train pull out. He gravely stated to himself, "I guess they didn't come on this train." He walked feverishly up Main Street till it occurred to him that he had no place to which to walk and no reason whatever for walking.</p>
+<p>AS the train stopped, the expressman came to the door of the car with a bunch of manila envelops, handed themand nothing elseto the local agent, and waved his hand to the train crew. Black-well stood emptily watching the train pull out. He gravely stated to himself, "I guess they didn't come on this train." He walked feverishly up Main Street till it occurred to him that he had no place to which to walk and no reason whatever for walking.</p>
 
 "In a mammer of profound revelation the stranger stated:  'There's been an accident.'  'Now, how did you ever guess that?' returned Blackwell."
 
@@ -631,7 +897,7 @@ Illustrations by R. K. Ryland
 
 <p>He quietly dropped from the high stool. He spun a quarter at the waiter with a curt, "Here!" He walked across the street to the garage, and spoke to Hickson with none of his recent obsequiousness:</p>
 
-<p>"I'm going to take the train. You told me you'd get those parts on time, when you knew mighty well you couldn't.  Now you'll wire for them at once—Toledo, if Cleveland is out. I've wasted enough of my time. I'll call you on long distance from Chicago to-morrow, and if you haven't got the car all ready to go out, I'll send down a Betterton agent to see about it."</p>
+<p>"I'm going to take the train. You told me you'd get those parts on time, when you knew mighty well you couldn't.  Now you'll wire for them at onceToledo, if Cleveland is out. I've wasted enough of my time. I'll call you on long distance from Chicago to-morrow, and if you haven't got the car all ready to go out, I'll send down a Betterton agent to see about it."</p>
 
 <p>Hickson's fleshy mouth opened and his heavy mustache wabbled, but he said nothing for a moment; then, belligerently, "I've been doing my best."</p>
 
@@ -649,7 +915,7 @@ Illustrations by R. K. Ryland
 
 <p>ONE hour later he wound up the story of his adventure with:</p>
 
-<p>"Ninety per cent of people are only ten per cent efficient. I intended to come here and tell you about easy grades in suburban streets, or some piffling thing like that. But I come saying that we must change everything! We, the representatives of capital, aren't so very different in our ideals from the wildest soap-box fanatic. We must commandeer all Tar-pentons—mind you, not only those among .the corn-fields, but those Tarpentons that make up a large part of Chicago and Philadelphia and New York. We must refuse to let them be satisfied with dirty food and stale merchandise and suspicious fear of new ideas. We must drive them to efficiency."</p>
+<p>"Ninety per cent of people are only ten per cent efficient. I intended to come here and tell you about easy grades in suburban streets, or some piffling thing like that. But I come saying that we must change everything! We, the representatives of capital, aren't so very different in our ideals from the wildest soap-box fanatic. We must commandeer all Tar-pentonsmind you, not only those among .the corn-fields, but those Tarpentons that make up a large part of Chicago and Philadelphia and New York. We must refuse to let them be satisfied with dirty food and stale merchandise and suspicious fear of new ideas. We must drive them to efficiency."</p>
 
 <p>He sat down. The club smiled at him all the friendliness he had longed for in Tarpenton. The big man across the table begged:</p>
 
@@ -659,7 +925,7 @@ Illustrations by R. K. Ryland
 
 How We Ran Away from Our Relatives
 
-<p>I SHALL never forget that night when we made our decision. We were in the dickens of a fix. The firm I had been bookkeeper for had failed, and I was suddenly out of a job. The month's bills had just come in, and no amount of scheming and stretching could make ends meet. Also that day a letter had come telling us that two young ladies—thirteenth cousins, I think—would arrive in a few clays to make us a six weeks' visit!</p>
+<p>I SHALL never forget that night when we made our decision. We were in the dickens of a fix. The firm I had been bookkeeper for had failed, and I was suddenly out of a job. The month's bills had just come in, and no amount of scheming and stretching could make ends meet. Also that day a letter had come telling us that two young ladiesthirteenth cousins, I thinkwould arrive in a few clays to make us a six weeks' visit!</p>
 
 <p>When Polly and I married and settled clown in the little town where we had always lived, we confidently expected to save at least twenty-five dollars each month for ten years; then we meant to retire to the fruit farm of our dreams and be happy ever afterward. But we had reckoned without our guests!</p>
 
@@ -677,7 +943,7 @@ How We Ran Away from Our Relatives
 
 <p>Then Polly collapsed in my arms and settled the business by saying:</p>
 
-<p>" Peter, I'm tired of it all! Let's go away somewhere—a thousand miles from all the kin—where we can live simply and be happy and enjoy the babies. I'd like to live in a tent and forget all about keeping up appearances. Oh, Peter, let's! And we can save for the farm!"</p>
+<p>" Peter, I'm tired of it all! Let's go away somewherea thousand miles from all the kinwhere we can live simply and be happy and enjoy the babies. I'd like to live in a tent and forget all about keeping up appearances. Oh, Peter, let's! And we can save for the farm!"</p>
 
 <p>For Polly, that speech was a master-piece. We hadn't a dollar; but we were young, unafraid, and enthusiastic, and before we went to sleep we had decided to go to California.</p>
 
@@ -693,7 +959,7 @@ How We Ran Away from Our Relatives
 
 <p>Next morning I set out, repeating to myself: "There's a job for every man." But my knees were wabbly. I walked to the depot from which three fruit companies ship thousands of tons of fruit yearly. Wagons, piled high with boxes and crates of peaches and plums, were lined up alongside of the platform, and from every direction still they came. Perhaps two dozen men, employees of these three companies, were busily receiving the fruit from the drivers, checking it, piling it on the platform, and loading it into cars.</p>
 
-<p>I began to worry. I didn't believe those men could handle all that fruit—perhaps they needed help. They did. Five minutes later I had forgotten I ever was a book-keeper.</p>
+<p>I began to worry. I didn't believe those men could handle all that fruitperhaps they needed help. They did. Five minutes later I had forgotten I ever was a book-keeper.</p>
 
 <p>It was a warm day. Mrs. Barstow, at whose home we had secured accommodations, was complaining at lunch about the heat, and bewailing the fact that a vacation at the seashore was impossible. She could not find a cook to look after her boarders, of whom there were three be-sides ourselves. That was Polly's chance. She grabbed it. Next day Mrs. Barstow left for Santa Cruz.</p>
 
@@ -722,9 +988,9 @@ Photograph from Edward W. Perkins.
 
 <p>IT'S all right for Mary to have a little lamb, but when Mary has a little llama, that's something else again. Mary Lincoln's father runs a circus farm in Connecticut, where animals are trained and boarded for the winter. Recently he added a llama to the collection of giraffes, elephants, and the old family lion;' and Mary volunteered to break the llama to harness. After live miles the llama acknowledged itself tamed. (How curiously" some animals resemble their names. To look at a llama you'd know it simply must he a llama, wouldn't you?)</p>
 
-<p>THE Ancient Order s Married Men has conferred the Iron Cross, the Seventh Order of Socrates, and the Diamond Star of St. Vitus on Mrs. Susan Elizabeth McCrady. Mrs. Mc-Grady has had seven husbands, one of whom was jasper James, the celebrated Missouri out-law and hero of our boy-hood. At one time, being pressed for funds, Mrs. McGrady donned men's clothes and secured a job on a section. A large majority of her husbands are dead—only two surviving, to be accurate. But Mrs. McCrady is well.</p>
+<p>THE Ancient Order s Married Men has conferred the Iron Cross, the Seventh Order of Socrates, and the Diamond Star of St. Vitus on Mrs. Susan Elizabeth McCrady. Mrs. Mc-Grady has had seven husbands, one of whom was jasper James, the celebrated Missouri out-law and hero of our boy-hood. At one time, being pressed for funds, Mrs. McGrady donned men's clothes and secured a job on a section. A large majority of her husbands are deadonly two surviving, to be accurate. But Mrs. McCrady is well.</p>
 
-<p>"FEAR vanished; thoughts of home and loved ones faded. I was simply borne along in a state of ecstasy that is beyond any earthly rapture one can imagine." If you were asked to guess, what earthly experience would you imagine to be described in a poetic outburst such as that? Well, we'll tell you. Those were words uttered by Mrs. Guy L. Smith at the conclusion of her ride with Ralph Mulford, when the machine traveled 109 miles an hour—faster than any woman has ever been carried in an automobile before or since. And just 101 miles faster than our machine is capable of on a smooth road and a warm day, with a favoring wind behind.</p>
+<p>"FEAR vanished; thoughts of home and loved ones faded. I was simply borne along in a state of ecstasy that is beyond any earthly rapture one can imagine." If you were asked to guess, what earthly experience would you imagine to be described in a poetic outburst such as that? Well, we'll tell you. Those were words uttered by Mrs. Guy L. Smith at the conclusion of her ride with Ralph Mulford, when the machine traveled 109 miles an hourfaster than any woman has ever been carried in an automobile before or since. And just 101 miles faster than our machine is capable of on a smooth road and a warm day, with a favoring wind behind.</p>
 
 Photograph from Edward U. Perkins.
 
@@ -746,11 +1012,11 @@ Courtesy the Mcmillan Company
 
 Courtesy the Macmillan company
 
-<p>INTRODUCING Miss Elaine of Astolat—poor thing. In the care-free sixth century seems though when you got up you just reached for your lily and you were up. Well, to resume. Said Tennyson, describing this heroine:, "In her right hand the lily, in her left The letter—all her bright hair streaming down." Why in the world did the artist bother to follow copy about the hair, after care-fully having made a rose in her left hand? Strange beings, artists.</p>
+<p>INTRODUCING Miss Elaine of Astolatpoor thing. In the care-free sixth century seems though when you got up you just reached for your lily and you were up. Well, to resume. Said Tennyson, describing this heroine:, "In her right hand the lily, in her left The letterall her bright hair streaming down." Why in the world did the artist bother to follow copy about the hair, after care-fully having made a rose in her left hand? Strange beings, artists.</p>
 
 Courtesy Charles Scribner's Sons.
 
-<p>SOME people haven't yet recovered from the shock of Owen Johnson's "Salamander" of five years ago —"a being made to live in fire or water. To dance perpetually on the edge of things, yet never to fall off." "I won't be common-place," says she. "Three meals a day at the same hours; always the same man; the same domesticity! Horrors! I'd rather have a tragic love affair than that. I will live my own life." Some change from the suffused Rowena.</p>
+<p>SOME people haven't yet recovered from the shock of Owen Johnson's "Salamander" of five years ago "a being made to live in fire or water. To dance perpetually on the edge of things, yet never to fall off." "I won't be common-place," says she. "Three meals a day at the same hours; always the same man; the same domesticity! Horrors! I'd rather have a tragic love affair than that. I will live my own life." Some change from the suffused Rowena.</p>
 
 Courtesy Bobbs-Merrill Company
 
@@ -762,7 +1028,7 @@ Courtesy Frederick Sto
 
 HEROINES
 
-<p>ABOUT twelve years ago appeared Lily Bart of "The House of Mirth" and a number of other metropolitan heroines whose high-strung natures were always inconveniencing themselves and their friends. "There was in Lily a vein of sentiment. She liked to think of her beauty as a power for good. She was fond of flowers and pictures and sentimental fiction, and she could not help thinking that such tastes ennobled her desire for worldly advantages. She would not, indeed, have cared to marry a man who was merely rich—"</p>
+<p>ABOUT twelve years ago appeared Lily Bart of "The House of Mirth" and a number of other metropolitan heroines whose high-strung natures were always inconveniencing themselves and their friends. "There was in Lily a vein of sentiment. She liked to think of her beauty as a power for good. She was fond of flowers and pictures and sentimental fiction, and she could not help thinking that such tastes ennobled her desire for worldly advantages. She would not, indeed, have cared to marry a man who was merely rich"</p>
 
 Courtesy Charles Scribner's Sons.
 
@@ -772,7 +1038,7 @@ Courtesy Charles Scribner's Sous.
 
 <p>NOWADAYS it's quite simple for a girl. If she has beauty she goes into the movies, and if she has brains she gets a job in Washington working for the government:  but in the day of Fanny Burney's Evelina she had to have both and got paid for neither. Evelina's face "answered the most refined ideas of complete beauty. Her character seemed truly ingenuous and simple." Nature had "blessed her with an excellent understanding, plus "a certain air of inexperience and innocency that is extremely pleasing."</p>
 
-<p>THOSE were great days when the athletic girl first came in. Du Maurier really put her across, didn't he—at least, he proved 'y his own drawings that the big, husky lady who could breathe clear to the bottom of her diaphragm might be a worthy queen of one's heart. Then later Gibson and his Girl nearly did for the clinging vines for-ever. For ten or fifteen years now she has been striding through the pages of our fiction, clad always in riding togs or rain-coat, like this heroine of Wallace Morgan's.</p>
+<p>THOSE were great days when the athletic girl first came in. Du Maurier really put her across, didn't heat least, he proved 'y his own drawings that the big, husky lady who could breathe clear to the bottom of her diaphragm might be a worthy queen of one's heart. Then later Gibson and his Girl nearly did for the clinging vines for-ever. For ten or fifteen years now she has been striding through the pages of our fiction, clad always in riding togs or rain-coat, like this heroine of Wallace Morgan's.</p>
 
 Courtesy Charles Scribner's Sons
 
@@ -850,7 +1116,7 @@ By Jennie Glass
 
 <p>I called to her. I would test the value of the woman then and there. She came unassumingly before me, dropped on her knees, and as usual bowed, touching the floor with her smooth forehead. She was surely a beautiful creature. I saw a little jar which she had placed behind her, and wondered what were its contents.</p>
 
-<p>I expressed my heartfelt sympathy for her sorrow. She was very sad, she said, to bring her grief before my august person —and was that a shade of a smile in her eye? I was horror-stricken. She wasn't heart-broken; she was glad!</p>
+<p>I expressed my heartfelt sympathy for her sorrow. She was very sad, she said, to bring her grief before my august person and was that a shade of a smile in her eye? I was horror-stricken. She wasn't heart-broken; she was glad!</p>
 
 <p>Amaso rose gracefully, without effort, preparatory to taking her leave. She picked up the little jar and bowed low to me.</p>
 
@@ -862,13 +1128,13 @@ By Jennie Glass
 
 <p>"Let me see it."</p>
 
-<p>She handed it to me, and I looked into it. My flesh began to creep. It was full of ashes: I could see a tooth and a bone that remained unburned. Amaso must have seen the paleness of my face, for she seized the jar before it dropped from my trembling hands. She saw my weakness evidently with surprise, and, peering into the jar, began to smile. Then, after looking anxiously at my horror-stricken face, she laughed aloud—a merry, tinkling laugh.</p>
+<p>She handed it to me, and I looked into it. My flesh began to creep. It was full of ashes: I could see a tooth and a bone that remained unburned. Amaso must have seen the paleness of my face, for she seized the jar before it dropped from my trembling hands. She saw my weakness evidently with surprise, and, peering into the jar, began to smile. Then, after looking anxiously at my horror-stricken face, she laughed alouda merry, tinkling laugh.</p>
 
 <p>It aroused me. I shook off the stupor that had seized upon me, and faced her. "Amaso!" She bowed her head under my eye. "You will leave the premises immediately. I wish 'never to see again a person so hardened as to laugh over the remains of a loved one newly dead."</p>
 
 <p>Submissively and without sound of a footfall, she shuffled from the room.</p>
 
-<p>I reached for water and dampened my forehead. For an hour I paced up and down, nerve-racked. It had been too horrible—too inconceivable.</p>
+<p>I reached for water and dampened my forehead. For an hour I paced up and down, nerve-racked. It had been too horribletoo inconceivable.</p>
 
 <p>Amaso had not gone. Perhaps she would refuse to go, and I would have to see her again to force her departure. I would not see her again. Yet I could not bear to think of her as still on the place. So I made my way to her quarters, deter-mined this time to use physical persuasion.</p>
 
@@ -892,7 +1158,7 @@ THE LIFE-LINE By Edmond McKenna
 
 <p>WE hadn't been long in the flat, and, as it was our first venture in housekeeping, Barbara and I were greatly interested in our neighbors. Not in their private affairs, of course, but in-themselves. We really didn't want to know their affairs at all, but we dearly loved to speculate about them.</p>
 
-<p>We had bought second-hand furniture. It was a little more expensive than the brand-new kind; but then, it gave our four rooms a certain air of coziness. Barbara said that new things always gave her a feeling of insecurity. When a newly married couple came to inspect the flat under ours, Barbara said the man looked to her like one who would buy new furniture. It was her way of saying that she didn't like him very well. I saw him my-self a few days later, and in truth he was raw enough looking. He was a big blond fellow of about twenty-three, with a seriousness newly acquired and badly fitting. The woman was a dark, shy little person, the kind that—I suppose because they are not very attractive—are complimented by being described as intense.</p>
+<p>We had bought second-hand furniture. It was a little more expensive than the brand-new kind; but then, it gave our four rooms a certain air of coziness. Barbara said that new things always gave her a feeling of insecurity. When a newly married couple came to inspect the flat under ours, Barbara said the man looked to her like one who would buy new furniture. It was her way of saying that she didn't like him very well. I saw him my-self a few days later, and in truth he was raw enough looking. He was a big blond fellow of about twenty-three, with a seriousness newly acquired and badly fitting. The woman was a dark, shy little person, the kind thatI suppose because they are not very attractiveare complimented by being described as intense.</p>
 
 <p>They were a cautious couple, the prospective tenants, and had been advised, no doubt, of the romantic quality that. inheres in landlords and janitors, for they stopped at our door to check up some of the statements the janitor had made about heating and light and service. In a week they moved in, and it was with them as Barbara had predicted: every bit of furniture they had was new, even to the clothes-line.</p>
 
@@ -908,7 +1174,7 @@ THE LIFE-LINE By Edmond McKenna
 
 <p>"What makes you think so, dear?"</p>
 
-<p>"The bride—I mean."</p>
+<p>"The brideI mean."</p>
 
 <p>Barbara said this decisively, to let me know she detected my subterfuge.</p>
 
@@ -918,7 +1184,7 @@ THE LIFE-LINE By Edmond McKenna
 
 <p>"There is something beyond logic in some of Barbara's deductions. It turned out to be true that the girl came from a small town in the Middle West where house-keeping is still practised.</p>
 
-<p>If, as I suspect, all women know things like that, what a revelation a New York areaway must be to them—especially in our district, where the week's history and biography is published freshly before their eyes every Monday.</p>
+<p>If, as I suspect, all women know things like that, what a revelation a New York areaway must be to themespecially in our district, where the week's history and biography is published freshly before their eyes every Monday.</p>
 
 <p>I realized this keenly when, one day, I saw Mrs. Nolan reading my patched underwear with plain satisfaction. Mrs. Nolan had lived in that flat, or in similar places, some fifty-odd years, and must have been erudite compared with Barbara: and underwear has no reticence at all.</p>
 
@@ -959,7 +1225,7 @@ THE LIFE-LINE By Edmond McKenna
 
 <p>There were tears in Barbara's eyes the next morning when she looked at the meager line of woman's things swinging bravely in the sunlight.</p>
 
-<p>"Oh, dear," she sighed. "I hope—"</p>
+<p>"Oh, dear," she sighed. "I hope"</p>
 
 <p>"There, there, girl," I said, "don't take it so much to heart. She'll soon be all right."</p>
 
@@ -969,7 +1235,7 @@ THE LIFE-LINE By Edmond McKenna
 
 <p>She seemed to take the bride's line under her protection, and several times in the next three weeks, when the lights were out, just before bedtime, I saw her try to read it for five minutes together, although nothing at all had been hung out in all that time.</p>
 
-<p>But clothes-lines can't remain incommunicative forever—at least, not with Barbara around.</p>
+<p>But clothes-lines can't remain incommunicative foreverat least, not with Barbara around.</p>
 
 <p>WHEN I came home one night and found Barbara beaming, I knew the hempen oracle had made a revelation.</p>
 
@@ -981,7 +1247,7 @@ THE LIFE-LINE By Edmond McKenna
 
 NO MAN COULD FILL LINCOLN'S SHOES
 
-<p>NO man who has larger feet than Lincoln had can serve his country in the army. Lincoln's size—14—is the largest sup-plied to our fighting men. At Camp Travis, Texas, recently, it was found that Private Ivey Cleveland's feet overstepped the limit. Fourteens pinched him. The War Department pondered Private Cleveland's feet, estimated that it would cost about $20 a pair to have special boots made for him, and decided that the army could not be maintained upon such an expensive footing. So they gave Private Cleveland an honorable discharge.</p>
+<p>NO man who has larger feet than Lincoln had can serve his country in the army. Lincoln's size14is the largest sup-plied to our fighting men. At Camp Travis, Texas, recently, it was found that Private Ivey Cleveland's feet overstepped the limit. Fourteens pinched him. The War Department pondered Private Cleveland's feet, estimated that it would cost about $20 a pair to have special boots made for him, and decided that the army could not be maintained upon such an expensive footing. So they gave Private Cleveland an honorable discharge.</p>
 
 <p>IN the office of a shoe store in West Forty-fourth Street, New York, lies a treasured card once white but now browned by age.</p>
 
@@ -1029,7 +1295,7 @@ Priv Secy.
 
 <p>Old Peter Kahler died long ago, and his grandsons, Peter and Charles Kahler, run the business now. Charles Kahler's middle name is-you've guessed it-Lincoln, and that's not merely because he was born on February 12, either.</p>
 
-<p>A village shoemaker drew this diagram of President Lincoln's feet in the White House, and built a pair of boots that fitted Lincoln and made the shoemaker's fortune. Measured in inches (the figures on the diagram are by a shoemaker's scale), the diagram proves that the President's right foot was 11½ and his left foot 11% inches long. The boots were size 14.</p>
+<p>A village shoemaker drew this diagram of President Lincoln's feet in the White House, and built a pair of boots that fitted Lincoln and made the shoemaker's fortune. Measured in inches (the figures on the diagram are by a shoemaker's scale), the diagram proves that the President's right foot was 11 and his left foot 11% inches long. The boots were size 14.</p>
 
 He Helps the Birds and Himself
 
@@ -1079,7 +1345,7 @@ Here's a Good Idea
 
 "OVER THERE" BEFOREHAND
 
-<p>IT was preposterous, y'know. No Englishman would ever ride in a "lift" to purchase articles on the second floor of a store. All bully rot. And as for soda-fountains and bargain sales—Yankee impudence. Yet with Yankee impudence. and in spite of fifty-six separate injunctions, H. G. Selfridge of Chicago erected a five-story building in venerable Oxford Street, and opened an American department-store. When he started to advertise, the other merchants howled their disapproval. But to-day Self-ridge's is the largest store in London—and the other merchants advertise.</p>
+<p>IT was preposterous, y'know. No Englishman would ever ride in a "lift" to purchase articles on the second floor of a store. All bully rot. And as for soda-fountains and bargain salesYankee impudence. Yet with Yankee impudence. and in spite of fifty-six separate injunctions, H. G. Selfridge of Chicago erected a five-story building in venerable Oxford Street, and opened an American department-store. When he started to advertise, the other merchants howled their disapproval. But to-day Self-ridge's is the largest store in Londonand the other merchants advertise.</p>
 
 Photograph by Brown Brothers.
 
@@ -1093,7 +1359,7 @@ Underwood & Underwood
 
 Photograph by Brown Brothers.
 
-<p>PRACTICALLY unknown here, the Rev. Dr. Joseph Foot Newton was invited to speak in London. and when the engagement was over he was engaged as pastor of London City Temple, the largest non-conformist pulpit in Great Britain. He won London by fighting liberalism with liberalism. Is Christianity dead? He met the cry. "Of course it is; that is its genius," he propounded—"to die like its master and rise again radiant and re-born." Dr. Newton is a son of Texas and only forty years old.</p>
+<p>PRACTICALLY unknown here, the Rev. Dr. Joseph Foot Newton was invited to speak in London. and when the engagement was over he was engaged as pastor of London City Temple, the largest non-conformist pulpit in Great Britain. He won London by fighting liberalism with liberalism. Is Christianity dead? He met the cry. "Of course it is; that is its genius," he propounded"to die like its master and rise again radiant and re-born." Dr. Newton is a son of Texas and only forty years old.</p>
 
 Photograph by Brown Brothers.
 
@@ -1110,7 +1376,7 @@ OUR PE
 
 Photograph by Central News Photo Service.
 
-<p>"I HAD an aunt in Yucatan Who bought a python from a man And kept it for a pet—" sang the poet: but there are outs about pythons as pets. The main out about calves as pets is that they don't stay calves. They grow up into big, preoccupied cows, or else into snorting bulls with a dislike of our red jacket.</p>
+<p>"I HAD an aunt in Yucatan Who bought a python from a man And kept it for a pet" sang the poet: but there are outs about pythons as pets. The main out about calves as pets is that they don't stay calves. They grow up into big, preoccupied cows, or else into snorting bulls with a dislike of our red jacket.</p>
 
 Greater Vitagraph
 
@@ -1120,7 +1386,7 @@ Greater Vitagraph
 
 Photograph by Paul Thompson.
 
-<p>THE Boston terrier is the only made-in-America dog. How successfully he has been bred from crosses between the English bulldog and the white English terrier, retaining most of the good qualities of each ancestor, every fond owner knows. Where did the dog originate? From the dingo, say some people, the father of all dogs, and the only wild dog that meets all the requirements of an ancestor of our modern breeds. Not at all, says Darwin: the dog came from every-where under the sun—from the wolf and the coyote, from all kinds of crosses between all kinds of breeds.</p>
+<p>THE Boston terrier is the only made-in-America dog. How successfully he has been bred from crosses between the English bulldog and the white English terrier, retaining most of the good qualities of each ancestor, every fond owner knows. Where did the dog originate? From the dingo, say some people, the father of all dogs, and the only wild dog that meets all the requirements of an ancestor of our modern breeds. Not at all, says Darwin: the dog came from every-where under the sunfrom the wolf and the coyote, from all kinds of crosses between all kinds of breeds.</p>
 
 Photograph by Paul Thompson.
 
@@ -1150,7 +1416,7 @@ Photograph by Paul Thompson.
 
 LITTLE HELPS TO EFFICIENCY
 
-<p>BY efficiency the Germans won the first year of the war, and by efficiency shall they be defeated. The picture below, if taken to heart by the women of the country, will re-lease several million hands for war work right away. The hand that rocks the cradle need rock no more. Take a cigar-box, a small motor, a windmill made of two crossed sticks, with a painted fish on each end of one stick and a pin-wheel on each end of the other, and presto! baby is happy all the livelong day. The invention stands to the credit of Mrs. Edgar Winton, of Dalton, New York—the woman who put the fish in efficiency.</p>
+<p>BY efficiency the Germans won the first year of the war, and by efficiency shall they be defeated. The picture below, if taken to heart by the women of the country, will re-lease several million hands for war work right away. The hand that rocks the cradle need rock no more. Take a cigar-box, a small motor, a windmill made of two crossed sticks, with a painted fish on each end of one stick and a pin-wheel on each end of the other, and presto! baby is happy all the livelong day. The invention stands to the credit of Mrs. Edgar Winton, of Dalton, New Yorkthe woman who put the fish in efficiency.</p>
 
 Photograph front F. E. Brimmer.
 
@@ -1158,7 +1424,7 @@ Photograph horn the Gilliams Service.
 
 <p>MAN bends his back in the hot sun's rays: But a woman's work is nix these days. Given a good old gasolene engine, a washing machine, and a copy of this magazine, and the mod-ern woman is all equipped for a good hard Monday's work. So much of woman's former occupation is now taken over by machinery that we look confidently to the coming of the mechanical wife: a nicely formed iron lady, with but-tons that can be set, such as "breakfast," "darn socks"; with phonograph records 'beginning. "Why do you always read the paper at breakfast? Can't you pay some attention to me?" etc.</p>
 
-<p>IT seemed a shame to the rancher shown below to sit in the cool shade of his buggy while his faithful steed sweltered in the summer sun. Accordingly. with a few rods of steel and some canvas and some fringe, he fixed the horse up finely for the summer months. And the horse—in gratitude, according to the ranchman--increased his output of labor about fifty per cent. Remember, when you're sitting comfortably in your shirt-sleeves, that your horse 'has to wear the same clothes all the year round.</p>
+<p>IT seemed a shame to the rancher shown below to sit in the cool shade of his buggy while his faithful steed sweltered in the summer sun. Accordingly. with a few rods of steel and some canvas and some fringe, he fixed the horse up finely for the summer months. And the horsein gratitude, according to the ranchman--increased his output of labor about fifty per cent. Remember, when you're sitting comfortably in your shirt-sleeves, that your horse 'has to wear the same clothes all the year round.</p>
 
 Photograph from C. I. Edholm
 
@@ -1184,11 +1450,11 @@ Illustration by Jessie Gillespie
 
 <p>"In most cases this is pure camouflage! Nine conferences out of ten are debating societies and rest cures."</p>
 
-<p>AT 10.00 A. M. they told him Smith had not arrived, so he said he would look in again later. At 11.15 they said Smith had come in and gone out again. At noon they told him that Smith could not be seen—he was in conference.</p>
+<p>AT 10.00 A. M. they told him Smith had not arrived, so he said he would look in again later. At 11.15 they said Smith had come in and gone out again. At noon they told him that Smith could not be seenhe was in conference.</p>
 
 <p>The visitor said that he thought Smith would be glad to know that he was in the office. Would they telephone his name in? But subordinates were firm. The idea of interrupting a conference! So the visitor said he must try to see Mr. Smith some other time, and left his card and departed.</p>
 
-<p>When Smith came out of the conference and saw that card, he went through the ceiling. For the visitor was purchasing agent for a large Western company, and had dropped in to see Smith on his way home from a buying trip, because he liked the kind of fellow Smith was and the cordial letters he wrote—which were very different from the stereotyped "Mr. Smith can not be interrupted—he is in a conference."</p>
+<p>When Smith came out of the conference and saw that card, he went through the ceiling. For the visitor was purchasing agent for a large Western company, and had dropped in to see Smith on his way home from a buying trip, because he liked the kind of fellow Smith was and the cordial letters he wrotewhich were very different from the stereotyped "Mr. Smith can not be interruptedhe is in a conference."</p>
 
 <p>Do you suffer from the great American conference habit?</p>
 
@@ -1202,19 +1468,19 @@ Illustration by Jessie Gillespie
 
 <p>The most efficient business nation in the world, undoubtedly, is England.</p>
 
-<p>The American lands in London, anticipating a series of world-beating conferences, and is told that at 2.10 P. M. Wednesday afternoon Sir Charles Smith will see him for fifteen minutes. The appointment is sacred. Sir Charles is waiting, and promptly turns out the previous visitor, and finishes with the American on schedule. All the facts must be summarized so that Sir Charles may give his decision. It may be a matter of millions involving concentrated affairs on the other side of the world. It is decided with a clearness and definiteness that makes the American head go round—and thus Sir Charles is able to spend Fri-day noon to Tuesday morning at his country home.</p>
+<p>The American lands in London, anticipating a series of world-beating conferences, and is told that at 2.10 P. M. Wednesday afternoon Sir Charles Smith will see him for fifteen minutes. The appointment is sacred. Sir Charles is waiting, and promptly turns out the previous visitor, and finishes with the American on schedule. All the facts must be summarized so that Sir Charles may give his decision. It may be a matter of millions involving concentrated affairs on the other side of the world. It is decided with a clearness and definiteness that makes the American head go roundand thus Sir Charles is able to spend Fri-day noon to Tuesday morning at his country home.</p>
 
 <p>Not long ago a new manager took charge of a business so hypnotized with the conference idea that it was falling to pieces. Able men were quickly lost be-cause they could get nothing done. No matter what project was proposed, the conference crowd held an autopsy on it. The bigger it happened to be, the greater the necessity for careful consideration, they said.</p>
 
 <p>A preliminary conference debated the matter, and clearly brought out all the objections against it, and reduced initiative and energy to doubts and delays. Then all the misgivings were handed over to sub-committees, who held other conferences upon them, until finally the project was set aside altogether, to wait until times got better, or the war was over, or the weather changed.</p>
 
-<p>That business had degenerated into an organization of debating clubs—a Russian Duma.</p>
+<p>That business had degenerated into an organization of debating clubsa Russian Duma.</p>
 
 <p>What the new manager did was very simple. Going back to first principles for debating societies, he applied ordinary parliamentary rules to hold discussion on the track and run it on schedule, and wielded the gavel on anybody who tried to wreck the train or lead it off on a ramble through the woods. He cut down on the number of conferences, and made those that were necessary thoroughly unrestful by humorous and caustic comment for the fellows who doubted and dissembled.</p>
 
 <p>When a subordinate attended one of this manager's conferences, he got enough things to do to keep him busy for a week, with full authority to carry them out, and the obligation to come into the next conference bringing the results.</p>
 
-<p>Best of all, he utterly destroyed the myth about the sanctity of a conference. No Western buyer ever showed up in that office to see their Mr. Smith and found Smith inaccessible. Five minutes before a conference started, the manager's secretary took her station in the general reception-room. She was there to represent the manager—and nobody who ever had business with that concern slipped out of her memory. She knew faces and names, and would recognize a voice over the telephone a year after she had last heard it. She was even more solicitous about a stranger than in taking care of some visitor she knew.</p>
+<p>Best of all, he utterly destroyed the myth about the sanctity of a conference. No Western buyer ever showed up in that office to see their Mr. Smith and found Smith inaccessible. Five minutes before a conference started, the manager's secretary took her station in the general reception-room. She was there to represent the managerand nobody who ever had business with that concern slipped out of her memory. She knew faces and names, and would recognize a voice over the telephone a year after she had last heard it. She was even more solicitous about a stranger than in taking care of some visitor she knew.</p>
 
 <p>Had that Westerner turned up to see Smith, she would have called Smith out. Better than that, she often sent the visitor into the conference room, and there he saw his man and met other men of importance in the company, and perhaps brought live information and a fresh out-side point of view upon the matter they were conferring about.</p>
 
@@ -1278,7 +1544,7 @@ THIS ENGLISHMAN WAS MADE IN AMERICA
 
 <p>For a time, says Current Literature, he worked in a Southern lumber camp, donning overalls and digging in with the best of them. So successful was he in handling men that the B. & O. Railroad took him into its organization. He handled the men who mishandled the baggage; and made a record sufficiently bright so that he was called on to organize a road in India; and from there was brought to the Great Northeastern in England. He was barely thirty years of age when he entered its service.</p>
 
-<p>We heard little of him in the first year of the war; but he was hard at work building the roads that supply men and munitions to the western front. And from there he bobbed up—young, virile, full of American pep—to be the ruler of the King's navee.</p>
+<p>We heard little of him in the first year of the war; but he was hard at work building the roads that supply men and munitions to the western front. And from there he bobbed upyoung, virile, full of American pepto be the ruler of the King's navee.</p>
 
 <p>He is not much of a speaker, his appearances in Parliament reminding one more of the matter-of-fact American business man than of the English politician. In fact, in the whole world of politics he is a rank outsider; they respect him, but hardly know what to make of him. And he does not care a bit.</p>
 
@@ -1356,7 +1622,7 @@ THE MOST PRICELESS GIFT OF ALL
 	
 <p>THERE is a famous Danish author, Henrik Pontoppidan, who has just received the Nobel prize. Recently he celebrated his sixtieth birthday, and all Denmark turned out to honor him. Hundreds of people came by day and night to his house outside Copenhagen, bringing him birthday gifts. With the others came his oldest friend, Henri Nathansen, with a great bouquet of American Beauty roses.</p>
 
-<p>Pontoppidan was examining and admiring all his presents, when suddenly he gave a cry of surprise. Bending over Henri Nathansen's bouquet, he pulled the flowers apart. There, resting within, was a bottle of kerosene oil—"the most price-less gift of all," as Pontoppidan exclaimed.</p>
+<p>Pontoppidan was examining and admiring all his presents, when suddenly he gave a cry of surprise. Bending over Henri Nathansen's bouquet, he pulled the flowers apart. There, resting within, was a bottle of kerosene oil"the most price-less gift of all," as Pontoppidan exclaimed.</p>
 
 <p>For to-day petroleum is worth its weight in gold in Denmark. His old friend knew that Pontoppidan worked best at night; so, at great cost and trouble, he had procured enough oil to fill Pontoppidan's lamp for several evenings.</p>
 
@@ -1372,7 +1638,7 @@ THE MOST PRICELESS GIFT OF ALL
 
 <p>"`The offspring of these lawful secondary marriages bear the name of their mother, and are handed over to the care of the state, unless the mother assumes responsibility for them. They are to be regarded in every respect as fully equal members of society. The mothers wear a narrow wedding-ring as a sign of their patriotism. The secondary marriage can be dissolved as soon as its object has been attained.'</p>
 
-<p>"The leaflets distributed to the troops are more simple and direct in their appeal. One entitled `Empty Cradles—a Soldier's Duty,' is translated as follows:</p>
+<p>"The leaflets distributed to the troops are more simple and direct in their appeal. One entitled `Empty Cradlesa Soldier's Duty,' is translated as follows:</p>
 
 <p>"`Soldiers, a grave danger assails the Fatherland by reason of the dwindling birth rate. The cradles of Germany are empty to-day; it is your duty to see that they are filled.</p>
 
@@ -1388,7 +1654,7 @@ THE MOST PRICELESS GIFT OF ALL
 
 DO YOU EVER DREAD A DEPENDENT OLD AGE?
 
-© Underwood & Underwood
+ Underwood & Underwood
 
 <p>These ancient Belgian refugees are glad of their place in the sun, with nothing to do. They were driven from their homes by the Germans, and the youngest of the group, siting on the left, is ninety-nine years old.</p>
 
@@ -1420,13 +1686,13 @@ Photograph by Edith S.
 
 AND YET, THE CHINESE GO ON LIVING
 
-<p>TO the uneducated Chinese—and that means the average Chinese—health is a matter of magic and sorcery. Even the health departments in large cities in times of epidemics issue prescriptions for magic potions to cure the people. Chinese doctors of the new school and medical missionaries have an appalling task ahead of them, especially since the people, as soon as they learn the first rudiments of Western methods, make a rush for all kinds of patent medicines. These are to them just a new sort of magic. Says Tyler Dennett in Asia:</p>
+<p>TO the uneducated Chineseand that means the average Chinesehealth is a matter of magic and sorcery. Even the health departments in large cities in times of epidemics issue prescriptions for magic potions to cure the people. Chinese doctors of the new school and medical missionaries have an appalling task ahead of them, especially since the people, as soon as they learn the first rudiments of Western methods, make a rush for all kinds of patent medicines. These are to them just a new sort of magic. Says Tyler Dennett in Asia:</p>
 
 <p>"Patent-medicine advertisements are spread over China almost as thickly as cigarette signs. Dr. Edward H. Hume of the Yale Mission at Changsha told me that he had even seen a patent medicine advertised to cure bound feet. Indeed, the patent-medicine business is being pushed so energetically as to endanger the real advance of public health."</p>
 
 Other problems face them even more acute:
 
-<p>It is the custom in China to delay burial until the astrologer is able to name an auspicious day and place. The result is that unburied coffins are to be found almost everywhere—in back yards, by the roadside, and in the fields. The doctor pointed out how dangerous to public health was the presence of these coffins in Yenping. The magistrate had a census taken of the coffins above ground in the city, and found that they actually numbered sixteen thousand. The city itself was estimated to have only about twenty thousand inhabitants.</p>
+<p>It is the custom in China to delay burial until the astrologer is able to name an auspicious day and place. The result is that unburied coffins are to be found almost everywherein back yards, by the roadside, and in the fields. The doctor pointed out how dangerous to public health was the presence of these coffins in Yenping. The magistrate had a census taken of the coffins above ground in the city, and found that they actually numbered sixteen thousand. The city itself was estimated to have only about twenty thousand inhabitants.</p>
 
 <p>"It was a difficult problem for the magistrate. He might easily move in such a way as to bring the whole city down about his head. But the Chinese are clever in such situations. He finally devised a way out. A proclamation was issued levying a tax of fifty cents on each unburied coffin. The Chinese may be superstitious, but they are even more thrifty. For a few weeks Yenping devoted itself to funerals, a thousand a week."</p>
 
@@ -1447,7 +1713,7 @@ THE IRISH FOREVER
 
 
 
-SPIES!-—Concluded from page 5
+SPIES!-Concluded from page 5
 
 <p>Secret Service of the United States com-prises detectives of the Post Office, the Internal Revenue and the Customs Departments, the Department of Justice, the intelligence bureaus of the Army and Navy, and the rather loosely organized American Protective League, with a membership of about 50,000 citizens who can be trusted to keep a watchful eye upon things. The general public is on the watch, too, as a recent happening in New York gave proof.</p>
 
@@ -1492,7 +1758,7 @@ Signs of Spring
 
 <p>Yesterday I met him again and he said: "My wife has just found the cutest house in our suburb two blocks away from where we're living now, and she wants me to buy it."</p>
 
-<p>When robins and wives settle down contentedly in their nests again—spring has come.</p>
+<p>When robins and wives settle down contentedly in their nests againspring has come.</p>
 
 We Can't Publish all the Masterpieces
 
@@ -1504,7 +1770,7 @@ From a Good-Looker
 
 <p>Dear Sir:</p>
 
-<p>In a recent issue of your paper appeared a letter "from a homely woman" who feels that the beautiful woman has all the advantages. Perhaps your correspondent overlooked the fact that beauty attracts much that it does not wish to attract—that, in fact, the beautiful woman is often put to more trouble to be rid of those whom she attracts than the homely woman experiences in seeking to be attractive.</p>
+<p>In a recent issue of your paper appeared a letter "from a homely woman" who feels that the beautiful woman has all the advantages. Perhaps your correspondent overlooked the fact that beauty attracts much that it does not wish to attractthat, in fact, the beautiful woman is often put to more trouble to be rid of those whom she attracts than the homely woman experiences in seeking to be attractive.</p>
 
 <p>Physical beauty attracts, it is true: but equally true is the fact that it can not hold any-thing of value for long. And the beautiful woman always has the fear that perhaps it is her beauty and not herself that is admired.  C. D. K., New York.</p>
 
@@ -1530,11 +1796,11 @@ Smooth Propositions in Oil
 
 <p>ONE day not long ago a man named B. X. Dawson appeared on the curb market near Broad and Wall streets, New York, and began to talk about the Queen Oil Company.</p>
 
-<p>No one there—or anywhere else—had ever heard of the Queen Oil Company; but he told about the wells and the developments and the estimated number of barrels per day it would produce. He enlarged on the company's financial backing, exhibited highly encouraging letters from substantial business men praising the property, and passed around pictures of the oil site itself.</p>
+<p>No one thereor anywhere elsehad ever heard of the Queen Oil Company; but he told about the wells and the developments and the estimated number of barrels per day it would produce. He enlarged on the company's financial backing, exhibited highly encouraging letters from substantial business men praising the property, and passed around pictures of the oil site itself.</p>
 
 <p>Certain curb speculators investigated Dawson's story. They found that there really were wells and improvements, and that oil had actually been struck.</p>
 
-<p>Dawson began to sell stock—cheap because they needed a little more money for immediate additional improvements. Later, of course, the stock would go up. Sales increased, and stories about the new stock began to appear in the papers. Glowing prospectuses were mailed to selected lists. Hundreds of little investors everywhere put money into the stock.</p>
+<p>Dawson began to sell stockcheap because they needed a little more money for immediate additional improvements. Later, of course, the stock would go up. Sales increased, and stories about the new stock began to appear in the papers. Glowing prospectuses were mailed to selected lists. Hundreds of little investors everywhere put money into the stock.</p>
 
 <p>Then something happened. Queen Oil collapsed. Within forty-eight hours of the first decline, it went completely off the market. It has never been heard from since, and the little investors have only their stock certificates to show for their investments.</p>
 
@@ -1558,7 +1824,7 @@ How to Spot a Fake Investment
 
 What Being Crooked in Money Matters Got Him
 
-<p>DAVID LAMAR was a money-mad young man. He wanted something for nothing. He went to Wall Street and got it. And, in addition, he got what he didn't want—a term of years in a federal penitentiary. Lamar—the same Lamar whose satisfaction with his own, craftiness led him to name himself "the Wolf of Wall Street"—is over being money-mad now, temporarily at least. His chief thought is "to write confessions that will inspire younger men to do right."</p>
+<p>DAVID LAMAR was a money-mad young man. He wanted something for nothing. He went to Wall Street and got it. And, in addition, he got what he didn't wanta term of years in a federal penitentiary. Lamarthe same Lamar whose satisfaction with his own, craftiness led him to name himself "the Wolf of Wall Street"is over being money-mad now, temporarily at least. His chief thought is "to write confessions that will inspire younger men to do right."</p>
 
 <p>Describing his prison visit with "the Wolf," a writer in the Forum says that Lamar, clad in a blue crash uniform which, though frayed, was neat and clean, greeted him with a sweeping bow, and passed before him into a cheerless barren room where the windows were high tip in the walls and the only furnishing consisted of a deal table and some chairs. After discussion of the business in hand, Lamar, who seemed troubled, said suddenly:</p>
 
@@ -1568,4 +1834,4 @@ What Being Crooked in Money Matters Got Him
 
 <p>"As we stepped out from the gloomy reception chamber, where the guard had sat between us listening to what we said, into the marble corridor," concludes the Forum article, "Lamar shook hands cordially and walked briskly away toward the other gates that opened to the cells."</p>
 
-<p>And that's what happened to a young man who misused his mental equipment. Shrewd, able, resourceful,—fitted to take his place with the best in business and finance,—Lamar went down because he didn't play the game square.</p>
+<p>And that's what happened to a young man who misused his mental equipment. Shrewd, able, resourceful,fitted to take his place with the best in business and finance,Lamar went down because he didn't play the game square.</p>
