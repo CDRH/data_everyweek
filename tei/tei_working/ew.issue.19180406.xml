@@ -1,8 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180406">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, April 6, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180406</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-04-06">April 6, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-04-11"><name>Erin Marra</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
-And Verily Thou Shalt Be Fed"
+<pb n="Cover" xml:id="ew.issue.19180406.p001" />
 
-<p>RIDING up-town on a Fifth Avenue 'bus, we passed one of the richest and most penurious men in New York. My friend said to me: "Did you ever stop to analyze avarice—to discover what it is that makes men hard and grasping?</p>
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER</note>
+<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>April 6, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main">JIM EAGAN'S DRAFT by Jennette Lee</head>
+<p></p>
+<ab type="credit">Albert Hencke</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180406.p002"/>
+
+<text>
+<body>
+
+<figure n="advertisement">
+<head>Buy only what you need</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Hart Schaffner &amp; Marx</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>MISS DOROTHY ESTERBROOK of Texas</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="editorial" xml:id="barton.19180406">
+<body>
+
+<head type="main">"And Verily Thou Shalt Be Fed"</head>
+
+<p>RIDING up-town on a Fifth Avenue 'bus, we passed one of the richest and most penurious men in New York. My friend said to me: "Did you ever stop to analyze avarice&#8212;to discover what it is that makes men hard and grasping?</p>
 
 <p>"It's fear," he continued.</p>
 
@@ -16,76 +145,117 @@ And Verily Thou Shalt Be Fed"
 
 <p>"Then came the awful year of 1892-3. Banks failed. And right in the midst of it, when it was impossible to borrow a dollar anywhere, certain men attempted to force a proposition on my father by which he could have saved his business at the expense of his business honor.</p>
 
-<p>"He called them into his office,—I was just old enough to -remember it,—and there lie stood, a man of more than fifty, gray-haired, facing financial ruin.</p>
+<p>"He called them into his office,&#8212;I was just old enough to remember it,&#8212;and there he stood, a man of more than fifty, gray-haired, facing financial ruin.</p>
 
-<p>"`Gentlemen,' he said, `you have been doing business with me for a good many years: you know I am square and reasonable. And now, when my back is against the wall, you want me to compromise my principles, and threaten to destroy me if I don't.'</p>
+<p>"'Gentlemen,' he said, 'you have been doing business with me for a good many years: you know I am square and reasonable. And now, when my back is against the wall, you want me to compromise my principles, and threaten to destroy me if I don't.'</p>
 
 <p>"He looked them squarely in the eye:</p>
 
-<p>"`I want to tell you a little story,' he continued quietly. `I was just a boy in the Civil War: and after the battle of Chancellorsville I was cold and hungry, and there was nothing to eat.</p>
+<p>"'I want to tell you a little story,' he continued quietly. 'I was just a boy in the Civil War: and after the battle of Chancellorsville I was cold and hungry, and there was nothing to eat.</p>
 
 <p>"'Walking across the battle-field, I found the body of a dead soldier. He was not a pretty sight, but clutched in his hand was half a loaf of moldy bread. And I took my ram-rod and fished it out of his hand, and for two days I lived on that moldy crust.'</p>
 
-<p>"'You think you can frighten me by threatening to put me out of business?' he cried. `Let me ask you a question first. have you ever lived on a dry crust for two days? No? Well, I hare; and, what's more, I can do it again: and if you can't you'd better not go to war with me.</p>
+<p>"'You think you can frighten me by threatening to put me out of business?' he cried. 'Let me ask you a question first. Have you ever lived on a dry crust for two days? No? Well, <hi rend="italic">I have</hi>; and, what's more, I can do it again: and if you can't you'd better not go to war with me.</p>
 
-<p>"'That's all."'</p>
+<p>"'That's all.'"</p>
 
 <p>I have read somewhere that fear is the first instinct to reveal itself in infancy. Humor and love and faith and hope all come later: but the evidence of fear may be noted in the very first weeks of a new-born life.</p>
 
 <p>And all the rest of our lives we battle, some more, some less successfully, against that bad inheritance.</p>
 
-<p>Men who supposed that they had conquered fear are shivering again tinder its influence to-day. I meet them everywhere in business.</p>
+<p>Men who supposed that they had conquered fear are shivering again under its influence to-day. I meet them everywhere in business.</p>
 
-<p>They talk in whispers of the Bolsheviki. We shall have our own Bolsheviki movement, they say. There will he a social revolution. Stocks and bonds may become merely scraps of paper.</p>
+<p>They talk in whispers of the Bolsheviki. We shall have our own Bolsheviki movement, they say. There will be a social revolution. Stocks and bonds may become merely scraps of paper.</p>
 
 <p>Such conversation wearies me.</p>
 
 <p>I do not expect any of these dreaded things to happen. But my respect is for the man who, like my father's friend, can face the possibility of their happening and still stand unafraid.</p>
 
-<p>Who says to himself: "Whatever Fate may threaten, I ant still strong and well: my purposes the world are right : and I can make a living somewhere, come what may."</p>
+<p>Who says to himself: "Whatever Fate may threaten, I am still strong and well: my purposes the world are right : and I can make a living somewhere, come what may."</p>
 
-<p>Who believes that, through storm and revolution, some-how God still works to make a world more just and decent for the great body of His people.</p>
+<p>Who believes that, through storm and revolution, somehow God still works to make a world more just and decent for the great body of His people.</p>
 
 <p>Who, conscious that he seeks no unrighteous advantage for himself, nails to his mast-head the greatest promissory note in the world:</p>
 
-<p>"Trust in the Lord, and do good: so shalt thou dwell in the land, and verily thou shalt be fed."</p>
+<p>"Trust in the Lord, and do good: so shalt thou dwell in the land, <hi rend="italic">and verily thou shalt be fed</hi>."</p>
 
 <p>And in that faith goes forward.</p>
 
-Bruce Barton, Editor
+<byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor</byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180406.p003"/>
 
+<text>
+<body>
 
-LETTERS WE SHOULD LIKE TO HAVE RECEIVED
+<figure n="advertisement">
+<head>It's the dealer behind the Atterbury, that makes the Atterbury owner so satisfied</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Atterbury Motor Car Co.</figDesc>
+</figure>
 
-Shakespeare to Southampton
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19180406.p004"/>
+
+<text type="nonfiction" xml:id="letters.19180406">
+<body>
+
+<head type="main">LETTERS WE SHOULD LIKE TO HAVE RECEIVED</head>
+
+<cb n="1"/>
+
+<div1>
+<head type="sub">Shakespeare to Southampton</head>
+
+<figure n="illustration">
+<head></head>
+<ab n="credit">J. G.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
 
 <p>WE wonder whether the powerful Earl of Southampton realized, when he received the following letter from poor, friendless Will Shakespeare, inclosed in the manuscript of "Venus and Adonis," that it would be his only claim to fame in posterity:</p>
 
-<p>Right Honourable:</p>
+<l><hi rend="italic">Right Honourable:</hi></l>
 
-<p>I know not how I shall offend in dedicating my unpolished lines to your Lordship nor how the world will censure me for choosing so strong a prop to sup-port so weak a burden: only if your honour seemed but pleased I account myself highly praised and vow to take advantage of all idle hours until I have honoured you with some graver labour. But if the first heir to my invention prove deformed I shall be sorry it had so noble a godfather and never afterward till so barren a land for fear it yield me so bare a harvest. I leave it to your honourable survey and your honour to your heart's content; which I wish may always answer your own wish and the world's hopeful expectation.</p>
+<p>I know not how I shall offend in dedicating my unpolished lines to your Lordship nor how the world will censure me for choosing so strong a prop to support so weak a burden: only if your honour seemed but pleased I account myself highly praised and vow to take advantage of all idle hours until I have honoured you with some graver labour. But if the first heir to my invention prove deformed I shall be sorry it had so noble a godfather and never afterward till so barren a land for fear it yield me so bare a harvest. I leave it to your honourable survey and your honour to your heart's content; which I wish may always answer your own wish and the world's hopeful expectation.</p>
 
-<p>Your Honour's in all duty,</p>
+<l>Your Honour's in all duty,</l>
 
-<p>WILLIAM SHAKESPEARE.</p>
+<byline><persName type="author" key="#Shakespeare, William">WILLIAM SHAKESPEARE</persName>.</byline>
+</div1>
+<div1>
+<head type="sub">Richard Steele to his Prue</head>
 
-Richard Steele to his Prue
+<figure n="illustration">
+<head></head>
+<ab n="credit">J G.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
 
 <p>RICHARD STEELE wrote to his "Beloved Prue" (Mary Scurlock) just before their marriage:</p>
 
-<p>St. James Cofhy House, Se I 1707.</p>
+<l>St. James Coffy House, Se 1 1707.</l>
 
-<p>It is the hardest thing in the world to be in love and yet attend to business. As for me, all who speak to me find me out and I must lock my-self up or other people will do it for me.</p>
+<p>It is the hardest thing in the world to be in love and yet attend to business. As for me, all who speak to me find me out and I must lock myself up or other people will do it for me.</p>
 
 <p>A gentleman asked me this morning "What news of Lisbon?" and I answered: "She's exquisitely handsome!" Another desired to know when I had been last at Hampton Court. I replied: "'Twill be on Tuesday come se'night."</p>
 
-<p>Prithee allow me to kiss your hand before that day that my mind may be in some composure! Oh love! A thousand torments dwell about thee, yet who could live without thee? Methinks I could write a volume to you, but all the language on earth would fail in saying how much and with what disinterested passion I am ever yours,	RICHARD.</p>
+<p>Prithee allow me to kiss your hand before that day that my mind may be in some composure! Oh love! A thousand torments dwell about thee, yet who could live without thee? Methinks I could write a volume to you, but all the language on earth would fail in saying how much and with what disinterested passion I am ever yours,</p>	
 
-Stevenson Writes of a Friend
+<byline>RICHARD.</byline>
+</div1>
+<div1>
+<head type="sub">Stevenson Writes of a Friend</head>
 
-<p>WHEN James Walter died, Robert Louis Steven-son wrote to the sister of his dead friend:</p>
+<p>WHEN James Walter died, Robert Louis Stevenson wrote to the sister of his dead friend:</p>
 
 <p>I never knew any man so superior to himself as poor James Walter. The best of him came only as a vision like Corsica from the Corniche. He never gave his measure either morally or intellectually. Even his friends did not know him but by fits. I have passed hours with him when he was so wise, good, and sweet that I never knew the like of it in any other. For a beautiful good humor he had no match.</p>
 
@@ -163,15 +333,15 @@ Sayings of Henry Ford
 
 <p>"You can't run anything on precedents if you want to make a success. We should be guiding our future by the present, instead of being guided in the present by the past."</p>
 
-<p>"A wife helps a man more than any one else—she criticizes him more."</p>
+<p>"A wife helps a man more than any one elseshe criticizes him more."</p>
 
-<p>"Worrying about money is about the worst thing a man can do—it takes his mind off his work."</p>
+<p>"Worrying about money is about the worst thing a man can doit takes his mind off his work."</p>
 
 <p>"It isn't over-working that breaks men down: it's over-playing and over-eating."</p>
 
 <p>"War between capital and labor is just like any other kind of war. It hap-pens because people do not understand each other."</p>
 
-<p>IN Dearborn, Michigan, he is the man who came back. He went to the city, became famous, and returned. Years ago he used to get his mail—when he had any—through the little village post-office window. They called him "Crazy Henry" then. He was a lean, agile farmer boy. Now he lives in "the mansion," over where the Rouge River takes a swing to cross Michigan Avenue, and the post-office has fine new quarters and rapidly increasing business, and Dearbornites call him Mr. Ford. Or just plain Henry, if they're old-timers.</p>
+<p>IN Dearborn, Michigan, he is the man who came back. He went to the city, became famous, and returned. Years ago he used to get his mailwhen he had anythrough the little village post-office window. They called him "Crazy Henry" then. He was a lean, agile farmer boy. Now he lives in "the mansion," over where the Rouge River takes a swing to cross Michigan Avenue, and the post-office has fine new quarters and rapidly increasing business, and Dearbornites call him Mr. Ford. Or just plain Henry, if they're old-timers.</p>
 
 <p>It's easy to speak of Henry Ford in plain terms, especially in Dearborn. He's such a you-and-me sort of man. And, be-sides, Dearborn is his home town. I don't think he ever really considered any other; so no one was surprised when he came back.</p>
 
@@ -183,7 +353,7 @@ Sayings of Henry Ford
 
 <p>"I'll say so. If you get stuck in a rut with a tin Lizzie, and he comes along in another, he'll stop and pull you out if he can. And, mostly, he can."</p>
 
-<p>Then my friend the barber talked of the coal shortage, and Dearborn's growth, and the Tuscania, and other things. Why talk about a regular every-day citizen of your own home town? And that, in brief, is what Dearborn thinks of Ford, the man. He's a good deal the same as Herman Kalmbach, vice-president of the bank, or Jim Guinan, the postmaster, or Frank Henry, the contractor—he's a good citizen who's made more money; that's all.</p>
+<p>Then my friend the barber talked of the coal shortage, and Dearborn's growth, and the Tuscania, and other things. Why talk about a regular every-day citizen of your own home town? And that, in brief, is what Dearborn thinks of Ford, the man. He's a good deal the same as Herman Kalmbach, vice-president of the bank, or Jim Guinan, the postmaster, or Frank Henry, the contractorhe's a good citizen who's made more money; that's all.</p>
 
 What They'll Tell You About Him
 
@@ -197,13 +367,13 @@ What They'll Tell You About Him
 
 <p>One of the "favors" he had done this man was the purchase of his farm for $40,000.</p>
 
-<p>If you want to take a run over to Dear-born to hear about Henry Ford, I'll tell you in advance what will happen.  You'll hear about Ford's new home. For polite conversation in the little town on the Rouge, "the mansion" is worth a couple of Fords, any day. The great stone house, already weathered to look like an English castle—they say it cost a million —with its vast rooms, its swimming-pools, its lakes and log cabins, landscaping and conservatories, bird-houses and rabbit-coops—here is something new and worth talking about. There's nothing new about the man who built the house. The townsfolk have known him all their lives, and he hasn't changed. They've had a part in the very first "Ford stories"; and so Ford himself is pretty much taken for granted, as old friends ought to be.</p>
+<p>If you want to take a run over to Dear-born to hear about Henry Ford, I'll tell you in advance what will happen.  You'll hear about Ford's new home. For polite conversation in the little town on the Rouge, "the mansion" is worth a couple of Fords, any day. The great stone house, already weathered to look like an English castlethey say it cost a million with its vast rooms, its swimming-pools, its lakes and log cabins, landscaping and conservatories, bird-houses and rabbit-coopshere is something new and worth talking about. There's nothing new about the man who built the house. The townsfolk have known him all their lives, and he hasn't changed. They've had a part in the very first "Ford stories"; and so Ford himself is pretty much taken for granted, as old friends ought to be.</p>
 
-<p>On his part, Ford takes Dearborn in the same way. He doesn't do much talking about it. You see him now and then going by in a machine,—one of his own make,—with his uncovered iron-gray hair flowing in the cool wind. Possibly you get a glimpse of him dropping into the town bank, of which he is president. Or you may watch him settled comfortably be-side Mrs. Ford at a public school entertainment. If you didn't know him for the great automobile wizard, you'd accept him as he likes to be taken thereabouts, for a plain, every-day Dearbornite. Hedoesn't entertain many Dearbornites at the big house—I suspect he likes meeting them in the old way better. But, though the house he lives in now is a lot different from the old Ford farmhouse where he grew up, it is situated near the boyhood home; and, to get back to nature without ornament, Mr. and Mrs. Ford every year abandon the stone mansion to spend a month or so quietly at the dairy farm. They like it.</p>
+<p>On his part, Ford takes Dearborn in the same way. He doesn't do much talking about it. You see him now and then going by in a machine,one of his own make,with his uncovered iron-gray hair flowing in the cool wind. Possibly you get a glimpse of him dropping into the town bank, of which he is president. Or you may watch him settled comfortably be-side Mrs. Ford at a public school entertainment. If you didn't know him for the great automobile wizard, you'd accept him as he likes to be taken thereabouts, for a plain, every-day Dearbornite. Hedoesn't entertain many Dearbornites at the big houseI suspect he likes meeting them in the old way better. But, though the house he lives in now is a lot different from the old Ford farmhouse where he grew up, it is situated near the boyhood home; and, to get back to nature without ornament, Mr. and Mrs. Ford every year abandon the stone mansion to spend a month or so quietly at the dairy farm. They like it.</p>
 
 Before Other Folks Are Up
 
-<p>LIFE even at the bigger house is simple. There is the usual entertainment, of course,—distinguished visitors, friends, etc.,—but the genius of the place is such a busy man, especially in these days when invention spells victory for America, that. he likes to escape to the quiet of home life. So he retires into the pleasant seclusion of his big estate, and there the curtain pretty much falls upon his actions.</p>
+<p>LIFE even at the bigger house is simple. There is the usual entertainment, of course,distinguished visitors, friends, etc.,but the genius of the place is such a busy man, especially in these days when invention spells victory for America, that. he likes to escape to the quiet of home life. So he retires into the pleasant seclusion of his big estate, and there the curtain pretty much falls upon his actions.</p>
 
 <p>There used to be a road running straight before the doors of his new house. The road is still there, but it's a private one now, with a little gate-lodge where it enters Michigan Avenue. You don't get past the gate without a reason. This, however, does not mean that, because Ford bought up hundreds of acres of land, he blocked the public's traffic. That isn't the Ford way. He decided he wanted that road private, so at his own expense he put through another road, two or three miles of fine macadam, to connect the main east-and-west thoroughfares.</p>
 
@@ -217,7 +387,7 @@ Before Other Folks Are Up
 
 <p>"Well," my informant considered, "in a way he does. I reckon he lets the mower lead him around; for afterward we find great streaks in the grass, so that the job has to be done, all right!"</p>
 
-<p>Ford is essentially a worker. Over his huge fireplace is the legend, "Cut your own wood and it will warm you twice." Ever since he was "Crazy Henry" he has been "cutting wood." And the same energy that he puts into his work—and his play—he expects from every one else. "If you work for Ford you've got to work," they say in Dearborn. "He'll give you a chance, and he'll pay you well: but you've got to deliver the goods." It doesn't make any difference if you're an old friend or a relative—he gives you a job to do, and you do it.</p>
+<p>Ford is essentially a worker. Over his huge fireplace is the legend, "Cut your own wood and it will warm you twice." Ever since he was "Crazy Henry" he has been "cutting wood." And the same energy that he puts into his workand his playhe expects from every one else. "If you work for Ford you've got to work," they say in Dearborn. "He'll give you a chance, and he'll pay you well: but you've got to deliver the goods." It doesn't make any difference if you're an old friend or a relativehe gives you a job to do, and you do it.</p>
 
 His Brother Bill
 
@@ -289,7 +459,7 @@ No Need to See
 Chivalry
 
 <p>OCCASIONALLY an incident occurs at the trench front which proves that, amid all the cruelty of war, humanity will assert itself, and is appreciated on both sides. Here is such an incident: For some time a British officer had been
-watching a German officer impaled on his own barbed-wire  © Kadel defenses and writhing in anguish. A hot rifle fire was being	 & Herbert exchanged.</p>
+watching a German officer impaled on his own barbed-wire   Kadel defenses and writhing in anguish. A hot rifle fire was being	 & Herbert exchanged.</p>
 
 <p>At last the British officer turned to the men near him and said:</p>
 
@@ -299,7 +469,7 @@ watching a German officer impaled on his own barbed-wire  © Kadel defenses and w
 
 <p>The rifle fire ceased on both sides. Every one watched. The British officer carried the German officer to a German trench.</p>
 
-<p>Presently the German commander came out, took from his own coat the Iron Cross, and pinned it to the breast of the British officer. There followed no cheering—nothing of that sort. But as the British officer returned to his own trench there fell upon the lines a silence of deeper significance.  (Quoted by Donald Hankey.)</p>
+<p>Presently the German commander came out, took from his own coat the Iron Cross, and pinned it to the breast of the British officer. There followed no cheeringnothing of that sort. But as the British officer returned to his own trench there fell upon the lines a silence of deeper significance.  (Quoted by Donald Hankey.)</p>
 
 What Kind?
 
@@ -383,7 +553,7 @@ HOMESICKNESS
 
 ONE BRAVER, THING
 
-<p>HE was six years old, and the son of an army officer. He himself wore a complete officer's uniform—puttees, coat, cap, and all.</p>
+<p>HE was six years old, and the son of an army officer. He himself wore a complete officer's uniformputtees, coat, cap, and all.</p>
 
 <p>A cousin met him, and asked respect-fully: "Well, Billy, are you a soldier?"</p>
 
@@ -397,9 +567,9 @@ WILL THE WAR BRING A NEW RELIGION?
 
 Photograph by Paul Thompson
 
-<p>The humanest men in France to-day are the priests and prefets. These dozens of small French refugees from the vicinity of Pont-à-Mousson are safe in the care of the prefet of Nancy.</p>
+<p>The humanest men in France to-day are the priests and prefets. These dozens of small French refugees from the vicinity of Pont--Mousson are safe in the care of the prefet of Nancy.</p>
 
-<p>THE old-time parson has gone out of style on the battle-fields of Europe, says Private Peat (Bobbs-Merrill Company), and a new type of human, companionable man of religion has taken his place. "No stupid tracts are handed to us, no whining and groaning, no morbid comments on the possibility of eternal damnation. No; the chaplain of to-day is a real man—a man who risks his life as do we who are in the fighting line.</p>
+<p>THE old-time parson has gone out of style on the battle-fields of Europe, says Private Peat (Bobbs-Merrill Company), and a new type of human, companionable man of religion has taken his place. "No stupid tracts are handed to us, no whining and groaning, no morbid comments on the possibility of eternal damnation. No; the chaplain of to-day is a real mana man who risks his life as do we who are in the fighting line.</p>
 
 <p>"Out of this war will come a new religion. It won't be a sin. any more to sing rag-time on Sunday, as it was in the days of my childhood. It won't be a sin to play a game on Sunday. After church parade in France we rushed to the playing fields behind the lines; and many a time I've seen the chaplain umpire the ball game. Many a time I've seen him take a hand in a friendly game of poker.</p>
 
@@ -431,7 +601,7 @@ HE WANTED HIS SLEEP OUT
 
 <p>"Our dear-old colonel was billeted in the tenement row which used to be in the square of Ypres, close to the Guild Hall. One night they started chucking big shells into the cathedral and what was left of die square. I counted fifty-seven falling over and around the colonel's billet. It was about eleven o'clock, and some of the houses in the row had already been hit.</p>
 
-<p>"I went over to wake up the old boy, as he showed no signs of having been disturbed. I stumbled up the stairs to his room. He was sound asleep—think of it! 1 spoke to him, but he didn't wake; so I shook him gently by the arm, and he opened his eyes.</p>
+<p>"I went over to wake up the old boy, as he showed no signs of having been disturbed. I stumbled up the stairs to his room. He was sound asleepthink of it! 1 spoke to him, but he didn't wake; so I shook him gently by the arm, and he opened his eyes.</p>
 
 <p>" 'Hello, Wellcombe!' he growled. 'What brings you prowling around at this time of night?'</p>
 
@@ -439,13 +609,13 @@ HE WANTED HIS SLEEP OUT
 
 <p>" 'Well, well,' he came back at me, `and you woke me out of a sound sleep to tell me this! Go and get me a drink, and then run along like a good fellow and go to bed!'</p>
 
-<p>"And after the old fellow had had his drink he thanked me, turned over in bed, and I believe was sound asleep before I got out of the house—while a continual hell of fire and shells tore the guts out of the town about him! When I went back in the morning there was only one house left standing in that row—the colonel's. The others were a crumpled mess of bricks and mortar!"</p>
+<p>"And after the old fellow had had his drink he thanked me, turned over in bed, and I believe was sound asleep before I got out of the housewhile a continual hell of fire and shells tore the guts out of the town about him! When I went back in the morning there was only one house left standing in that rowthe colonel's. The others were a crumpled mess of bricks and mortar!"</p>
 
 THE SURF OF WAR
 
 <p>By Etienne (Lieutenant R. N.)</p>
 
-<p>HEAVY is the price that the nations pay to war—
+<p>HEAVY is the price that the nations pay to war
 Heavy as the thunder of surf upon the shore,
 Grinding up the sea-shells it flings upon the land.
 Countless tiny works of God broken on the sand.</p>
@@ -469,7 +639,7 @@ Illustrations by S. J. Woolf
 
 <p>THE woman moving briskly about her kitchen stopped and looked at the young man seated by the table. An official-looking paper and gray envelop lay on the table beside him. His fingers reached out to the paper and pushed it nervously away.</p>
 
-<p>"I don't know what they want to draft me for!" he said. "I never shot so much as a chipmunk in my life—let alone shootin' a man!"</p>
+<p>"I don't know what they want to draft me for!" he said. "I never shot so much as a chipmunk in my lifelet alone shootin' a man!"</p>
 
 <p>The woman's eyes, that had followed the movement with a protecting gesture, flashed to his face.</p>
 
@@ -477,7 +647,7 @@ Illustrations by S. J. Woolf
 
 <p>He straightened a little and glanced out of the window at the low-lying hill and the scrubby pasturage at the back of the house.</p>
 
-<p>"I've got my farm-land to 'tend to," he muttered. "Who is going to take care of the farm if I go off to France or Belgium or Hungary—" The words trailed away into ignorance and a sense of hope-less and futile protest.</p>
+<p>"I've got my farm-land to 'tend to," he muttered. "Who is going to take care of the farm if I go off to France or Belgium or Hungary" The words trailed away into ignorance and a sense of hope-less and futile protest.</p>
 
 <p>"Maybe they won't take you," volunteered the woman.</p>
 
@@ -503,7 +673,7 @@ Illustrations by S. J. Woolf
 
 <p>She set down the pan of peas. " But you can't go!" she said decisively. "You've got me dependent on you!" She stood looking down at him.</p>
 
-<p>He shook his head. "That don't count, they say—not unless there's children."</p>
+<p>He shook his head. "That don't count, they saynot unless there's children."</p>
 
 <p>She flushed slowly and turned away. She took a porcelain kettle from the wall and set it on the table with a little thump.</p>
 
@@ -517,7 +687,7 @@ Illustrations by S. J. Woolf
 
 <p>The elder woman had seated herself on the opposite side of the table. The three faced one another.</p>
 
-<p>"You ought to get out of it, Jamie—some way," said the mother.</p>
+<p>"You ought to get out of it, Jamiesome way," said the mother.</p>
 
 <p>The wife nodded. "I ain't going to have you killed!" she said quickly. Her nimble fingers flashed at the peas and dropped a handful of pods into her lap.</p>
 
@@ -533,7 +703,7 @@ Illustrations by S. J. Woolf
 
 <p>He shook his head. "I'll just have to go, I suppose. What you goin' to have for dinner?"</p>
 
-<p>"Peas—and I'll make a good squash pie for you." His mother got up from the table and disappeared in the pantry.</p>
+<p>"Peasand I'll make a good squash pie for you." His mother got up from the table and disappeared in the pantry.</p>
 
 <p>The two sitting by the table looked at each other. The wife leaned forward a little. Her full bosom rose. "I just can't bear to have you go, Jim!"</p>
 
@@ -561,7 +731,7 @@ Illustrations by S. J. Woolf
 
 <p>"Somehow, I feel he'll have to go!" she said fiercely.</p>
 
-<p>The mother gave her a slow look—almost of contempt, it seemed—and re-turned to the pantry. The thumping of her rolling-pin came through the open door.</p>
+<p>The mother gave her a slow lookalmost of contempt, it seemedand re-turned to the pantry. The thumping of her rolling-pin came through the open door.</p>
 
 <p>The younger woman returned to her work. She did not mind her mother-in-law's sharpness. They understood each other perfectly.</p>
 
@@ -579,7 +749,7 @@ Illustrations by S. J. Woolf
 
 <p>It was his wife. She was leaning for-ward, gazing at him with deep eyes.</p>
 
-<p>"Oh—" He gave a little embarrassed laugh. "I didn't get off, exactly. But Dr. Brown seems to think maybe they won't pass me—" He paused a minute, irresolute.</p>
+<p>"Oh" He gave a little embarrassed laugh. "I didn't get off, exactly. But Dr. Brown seems to think maybe they won't pass me" He paused a minute, irresolute.</p>
 
 <p>"Why won't they pass ye?" demanded his mother. Her voice was keen.</p>
 
@@ -589,7 +759,7 @@ Illustrations by S. J. Woolf
 
 <p>She was looking at him with a strange glance. One could not have told whether hope or fear was in it.</p>
 
-<p>"Well—" The youth hesitated. "He talked to me real good about the war. He said the Germans don't want to hurt us—not really. They're friendly to us. And the best thing we can do is to keep out of it."</p>
+<p>"Well" The youth hesitated. "He talked to me real good about the war. He said the Germans don't want to hurt usnot really. They're friendly to us. And the best thing we can do is to keep out of it."</p>
 
 <p>He straightened himself as he said it. The two women nodded slowly.</p>
 
@@ -607,7 +777,7 @@ Illustrations by S. J. Woolf
 
 <p>"I wouldn't do that, mother."</p>
 
-<p>"Why not? You're not going to be such a fool as to take it before you're examined —and get well beforehand!" She leaned forward. "Give it to me. I'll keep it for you—till after the seventh."</p>
+<p>"Why not? You're not going to be such a fool as to take it before you're examined and get well beforehand!" She leaned forward. "Give it to me. I'll keep it for youtill after the seventh."</p>
 
 <p>A little smile touched his lips, leaving them ghastly.</p>
 
@@ -617,7 +787,7 @@ Illustrations by S. J. Woolf
 
 <p>The mother's face had grown pale.</p>
 
-<p>"I—I don't dare—have you take any poweful stuff—like that!" she whispered.</p>
+<p>"II don't darehave you take any poweful stufflike that!" she whispered.</p>
 
 <p>He laughed easily. "You don't need to be afraid, mother. I guess Dr. Brown knows what he's about."</p>
 
@@ -631,7 +801,7 @@ Illustrations by S. J. Woolf
 
 <p>She spoke almost sharply. Little lines had come in her round, placid face, and her eyes followed the youth with a puzzled look that had something almost wistful in its depths.</p>
 
-<p>"He's got to make up his mind for himself—whether he's going or not going," she said with soft decision.</p>
+<p>"He's got to make up his mind for himselfwhether he's going or not going," she said with soft decision.</p>
 
 <p>"We better have dinner," said the older woman. "Everything's getting stone-cold. It won't be fit to eat."</p>
 
@@ -647,7 +817,7 @@ Illustrations by S. J. Woolf
 
 <p>"I'm going to clear up that pasture," he said. "I've been meaning to do it for years. I'm always putting it off."</p>
 
-<p>"Well, this ain't any time to do it—with the potato-tops dead—and you going away, maybe forever!" She gulped.</p>
+<p>"Well, this ain't any time to do itwith the potato-tops deadand you going away, maybe forever!" She gulped.</p>
 
 <p>He returned the look, and his face grew set.</p>
 
@@ -712,7 +882,7 @@ Illustrations by S. J. Woolf
 
 <p>"Why not?" The tone was sharp.</p>
 
-<p>"Because I'm not sure—myself. A man don t want to hide behind a baby—not a full-sized man!" she said contemptuously.</p>
+<p>"Because I'm not suremyself. A man don t want to hide behind a babynot a full-sized man!" she said contemptuously.</p>
 
 <p>The mother eyed her a minute over stern spectacles. A mist seemed to cover them, and she took them off and rubbed them on her apron.</p>
 
@@ -728,7 +898,7 @@ Illustrations by S. J. Woolf
 
 <p>The younger woman looked at her with a smile. Her round, indolent face was flushed. She raised a hand to her side and stood looking at the hill with quick, shining eyes.</p>
 
-<p>"I shouldn't mind it!" she said softly. "I shouldn't mind it, mother—should you?"</p>
+<p>"I shouldn't mind it!" she said softly. "I shouldn't mind it, mothershould you?"</p>
 
 <p>She turned to her, and suddenly the older woman gave back the look.</p>
 
@@ -742,11 +912,11 @@ Illustrations by S. J. Woolf
 
 <p>Her mother-in-law touched her arm. "We could telegraph him!" she said swiftly.</p>
 
-<p>But the wife shook her head. "I didn't mean that. I only meant—I've set here like a pan of dough while he was fightin' up there—like it was for his life!"</p>
+<p>But the wife shook her head. "I didn't mean that. I only meantI've set here like a pan of dough while he was fightin' up therelike it was for his life!"</p>
 
 <p>A little look of humor touched the mother's thin lips.</p>
 
-<p>"Well—even dough'll rise if you give it time enough and there's good yeast in it," she said quietly. "I guess the best thing we can do is to clean the woodshed chamber. It's been needing it."</p>
+<p>"Welleven dough'll rise if you give it time enough and there's good yeast in it," she said quietly. "I guess the best thing we can do is to clean the woodshed chamber. It's been needing it."</p>
 
 <p>She went into the shed, and her voice came dimly back:</p>
 
@@ -754,7 +924,7 @@ Illustrations by S. J. Woolf
 
 <p>The daughter-in-law stepped into the shed. The mother was examining a basket on the wall by the stairs.</p>
 
-<p>"He was a brave man, too," she said slowly, squinting at the basket. "I do' know as I remember any brave thing heever did—" She took down the basket and tested it a little. "But you kind o' felt he was brave. He always toted fair—carried the big end of the load, you know, if there was anything hard to do." She held out the basket.</p>
+<p>"He was a brave man, too," she said slowly, squinting at the basket. "I do' know as I remember any brave thing heever did" She took down the basket and tested it a little. "But you kind o' felt he was brave. He always toted faircarried the big end of the load, you know, if there was anything hard to do." She held out the basket.</p>
 
 <p>"You better take this. There'll be a good many things up there to throw away, I guess."</p>
 
@@ -774,23 +944,23 @@ Illustrations by S. J. Woolf
 
 <p>His companions joked, and shuffled and dealt the cards as if life were to go on forever. Suddenly, at a way station, some one looked out.</p>
 
-<p>"Hello—Peterboro! We're half way there! Let's have a smoke!" He glanced at his companions.</p>
+<p>"HelloPeterboro! We're half way there! Let's have a smoke!" He glanced at his companions.</p>
 
 <p>One of them laughed and shook his head.</p>
 
-<p>"Forget it!" he said. "Bad for the examination—unless you mean to claim exemption," he added quickly.</p>
+<p>"Forget it!" he said. "Bad for the examinationunless you mean to claim exemption," he added quickly.</p>
 
 <p>His companion's eyes dropped a minute. They raised themselves to the flying landscape. There was a clear look in them.</p>
 
 <p>"I'm not claiming exemption this trip."</p>
 
-<p>"Me neither! Come on, Eagan—your deal."</p>
+<p>"Me neither! Come on, Eaganyour deal."</p>
 
 <p>But the boy did not touch the cards. "I guess I won't play any more," he said slowly.</p>
 
 <p>He got up and sauntered toward the smoker. The eyes of the other two followed him a minute. They met in a glance that was just short of contempt.</p>
 
-<p>IN the smoker, the youth sank into a back seat. His fingers were feeling nervously in his vest pocket. It was there—the smooth, flat packet. "An hour before examination," Dr. Brown had said. They were nearly to Windham. Well, there was time.. The examination was from eight to six. There would be time enough.</p>
+<p>IN the smoker, the youth sank into a back seat. His fingers were feeling nervously in his vest pocket. It was therethe smooth, flat packet. "An hour before examination," Dr. Brown had said. They were nearly to Windham. Well, there was time.. The examination was from eight to six. There would be time enough.</p>
 
 <p>He opened the packet and looked down at the smooth white powder with fascinated gaze. Strange, that a little thing like that could keep the bullets from whipping and stinging about one's ears!</p>
 
@@ -826,17 +996,17 @@ Illustrations by S. J. Woolf
 
 <p>The man's face held the news a moment thoughtfully.</p>
 
-<p>"He was a fine man," he said at last. " Brave and yet very gentle—"</p>
+<p>"He was a fine man," he said at last. " Brave and yet very gentle"</p>
 
 <p>The youth leaned forward a little. His eyes were shining. His face was pale.</p>
 
 <p>The man had pushed back his cap, showing the grizzled hair beneath. A little smile of reminiscence was on his face.</p>
 
-<p>"I remember well the time a lot of us youngsters were off together, and a boy got too near the edge and went over—and Tom Eagan went down for him, hand over fist. I guess there wasn't another one of us would have dared risk it—there wasn't foothold for a monkey. But he did it, and got the boy up somehow and got him to a doctor and had the arm set—" He touched the khaki sleeve with a smile. "I've got a place here now that reminds me of Tom Eagan when it rains!"</p>
+<p>"I remember well the time a lot of us youngsters were off together, and a boy got too near the edge and went overand Tom Eagan went down for him, hand over fist. I guess there wasn't another one of us would have dared risk itthere wasn't foothold for a monkey. But he did it, and got the boy up somehow and got him to a doctor and had the arm set" He touched the khaki sleeve with a smile. "I've got a place here now that reminds me of Tom Eagan when it rains!"</p>
 
 <p>The boy's eyes glowed. "Was it you that fell?" he asked quickly.</p>
 
-<p>The other nodded. "A nasty break—and might have been worse if he hadn't had the nerve to think and act quick. He was a rare fellow!" He reached for his bag.</p>
+<p>The other nodded. "A nasty breakand might have been worse if he hadn't had the nerve to think and act quick. He was a rare fellow!" He reached for his bag.</p>
 
 <p>"We're getting in." He turned to the boy and held out a hand.</p>
 
@@ -854,7 +1024,7 @@ Continued on page 21
 
 From Office-Boy to Manager
 
-<p>THIS is a story of inspiration for office-boys—and others.</p>
+<p>THIS is a story of inspiration for office-boysand others.</p>
 
 <p>Not so many years ago, Malcolm W. Bingay, now managing editor of the Detroit News, a daily paper whose growth almost rivals that other famous Detroit industry, the Ford Company, was an office-boy on a rival journal. He wasn't satisfied with his prospects. One day he heard that a boy was quitting the News. He applied for the job.</p>
 
@@ -866,7 +1036,7 @@ From Office-Boy to Manager
 
 <p>Those were the days when office-boys had to chase "copy" all over the city. It was summer, and among the new-comer's duties was the task of hustling to the ball park, getting the early story of the game, and rushing back to the paper with it. This, you see, was before baseball writers were furnished with direct wires from their desks to their offices.</p>
 
-<p>At the ball park Bingay heard that President McKinley had been shot. With-out waiting, he dashed from the enclosure and broke the record for the mile run —the exact distance from his news room to the baseball grounds.</p>
+<p>At the ball park Bingay heard that President McKinley had been shot. With-out waiting, he dashed from the enclosure and broke the record for the mile run the exact distance from his news room to the baseball grounds.</p>
 
 <p>Breathless, he sprang up the stairs and plumped into the city editor.</p>
 
@@ -912,7 +1082,7 @@ He Specializes on Grouches
 
 William H. Sibbald, grouch specialist.
 
-<p>A NEW kind of specialist is William H. Sibbald, a hotel manager of Los Angeles. For the past decade he has made a scientific study of the disagreeable moods of the traveling public, with the view of discovering cures, or at least palliating treatments. The "grouch"—a I s o known technically among hotel men as the " peeve" —has been closely observed from all angles by the expert.</p>
+<p>A NEW kind of specialist is William H. Sibbald, a hotel manager of Los Angeles. For the past decade he has made a scientific study of the disagreeable moods of the traveling public, with the view of discovering cures, or at least palliating treatments. The "grouch"a I s o known technically among hotel men as the " peeve" has been closely observed from all angles by the expert.</p>
 
 <p>The hotel office and marble lobby have been Mr. Sibbald's fruitful laboratory; his subjects, the more than 1,000,000 persons whom he met face to face and some 300,000 others who talked with him over the telephone. Be-fore he went to the Alexandria Hotel in Los Angeles ten years ago he was employed as clerk in hotels in New York and Chicago.</p>
 
@@ -942,11 +1112,11 @@ Driven Back to Eden
 
 <p>I was afraid I should slump and get old.  I knew a number who had retired, but stayed near where they could toddle around the edges of things with a book under their arms, telling the rest of us how they used to do. It made me shiver. But nature gave the warning, and I knew I must obey.</p>
 
-<p>Which way should I jump? I shut my eyes and jumped—clear out into the country, where I landed in a tiny old house on the corner of a friend's farm. Books, pictures, the garnered treasures of the years, a few sticks of cast-off furniture, a few dollars wisely spent, and here I have a home—after years of hotels, boarding-houses, half-heated bedrooms in some-body's upstairs. "Think of it!</p>
+<p>Which way should I jump? I shut my eyes and jumpedclear out into the country, where I landed in a tiny old house on the corner of a friend's farm. Books, pictures, the garnered treasures of the years, a few sticks of cast-off furniture, a few dollars wisely spent, and here I have a homeafter years of hotels, boarding-houses, half-heated bedrooms in some-body's upstairs. "Think of it!</p>
 
 <p>In the summer I have flowers, a tiny lawn to keep, and a bit of garden. I help the farmer's wife in her garden, and in canning, pickling, and preserving, thus providing myself with a stock for winter. I have not been homesick for the school-room one instant. I ran back the second week, just to gloat; and I enjoyed seeing the boys and girls and teacher friends, but a clay or so was enough. I was homesick to come back and dry more corn and help pick apples.</p>
 
-<p>I sleep as much as I like, eat what I want to, try all the Hooverized recipes, read Browning or Sewell Ford, as the mood takes me, sew, knit, write stories for—the waste-basket. And sometimes I think. I've always wanted to think, but never had time, before, where I could enjoy the necessary quiet. Now I luxuriate in quiet.</p>
+<p>I sleep as much as I like, eat what I want to, try all the Hooverized recipes, read Browning or Sewell Ford, as the mood takes me, sew, knit, write stories forthe waste-basket. And sometimes I think. I've always wanted to think, but never had time, before, where I could enjoy the necessary quiet. Now I luxuriate in quiet.</p>
 
 This is the Place Where--
 
@@ -969,9 +1139,9 @@ Painted for EVERY WEEK by Ralph T. Coleman
 
 <p>If in a certain barrack-room in France, at the beginning of the war, there was one lone English boy who each night knelt down and said his prayers, says Donald Hankey in "A Student in Arms" (E. P. Dutton & Company). There was a certain hushed surprise the first night; and then the conversation went on as if nothing was happening. Nobody jeered; nobody persecuted; nobody followed his example. He was simply ignored, that was all. After a while he quit kneeling down, and began murmuring his prayers in bed: and then he stopped saying them at all.</p>
 
-<p>One day there came a charge—a hopeless affair from the start, undertaken in broad daylight. This boy had fallen between the lines, and had seen the battered remnant of his company retire past him to their own trench before a hail of bullets. He lay in the long grass between the lines. unable to move. and with an unceasing throbbing pain in his left leg and arm. All that afternoon he lay sill. his mind obsessed by one thought: Would any one find him when it was dark. or would he be left to die? He found himself vaguely wondering about the meaning of, everything. The stars gazed at him imperturbably."</p>
+<p>One day there came a chargea hopeless affair from the start, undertaken in broad daylight. This boy had fallen between the lines, and had seen the battered remnant of his company retire past him to their own trench before a hail of bullets. He lay in the long grass between the lines. unable to move. and with an unceasing throbbing pain in his left leg and arm. All that afternoon he lay sill. his mind obsessed by one thought: Would any one find him when it was dark. or would he be left to die? He found himself vaguely wondering about the meaning of, everything. The stars gazed at him imperturbably."</p>
 
-<p>So he lay, looking-up, while the pain grew fiercer. And all at once it seemed to him that there was a Presence in and around and all about him. "God!" he whispered softly. "God everywhere!" Then into his tired brain came a new phrase: "Underneath are the everlasting arms." He sighed contentedly, like a tired child, and the phrase went on repeating itself in his brain in a kind of chant—"Underneath are the everlasting arms."</p>
+<p>So he lay, looking-up, while the pain grew fiercer. And all at once it seemed to him that there was a Presence in and around and all about him. "God!" he whispered softly. "God everywhere!" Then into his tired brain came a new phrase: "Underneath are the everlasting arms." He sighed contentedly, like a tired child, and the phrase went on repeating itself in his brain in a kind of chant"Underneath are the everlasting arms."</p>
 
 <p>It is the experience of thousands of others who, in the fierce realities of No Man's Land. have found their way back to the trust and faith of childhood</p>
 
@@ -982,19 +1152,19 @@ FIVE MILLION
 
 <p>SIXTY-TWO years ago an ordinary-looking boy of sixteen started work in Cleveland. His wages were 64 cents a day; and he lived in a shabby boarding-house. and regularly gave one cent each week to Sun-day school. ' To-day John's income is estimated at $60,000,000 a year: $114.15 every minute: $0.90 a second.  If we were he, we would be five dollars richer even while writing this. Yet John says:- "Great wealth is a burden that destroys the real zest of life." Who will volunteer to help hear that burden?</p>
 
-© Underwood & Underwood.
+ Underwood & Underwood.
 
 <p>THE income-tax returns show that there are ten men in the United States whose incomes are S5,000,000 a year. Five million a year; a hundred thousand a week; fourteen or fifteen thousand a' day. Who are these ten mysterious strangers! Our guess is that Vincent Astor is one of them. His father left him $65,000,000. Which worries him so little that he's oft enjoying himself as an ensign in the war.</p>
 
 <p>IF you happen to be in the neighborhood of the stock-yards in Chicago some morning around eight o'clock, you may happen to see the gentleman here pictured hurrying along to work. Jonathan Ogden Armour has been one of the first on the job in the morning ever since his father started him in at ten dollars a week. To-day he is head of the great business which feeds a pig into a machine at one end, and turns it out at the other in twelve cans, four boxes, and six collapsible tubes.</p>
 
-© International Film Service. Inc.
+ International Film Service. Inc.
 
 International Fllm Service. Inc.
 
 <p>EDWARD HOWLAND ROBINSON GREEN. where in the wide, wide world have you been? (Pronounced bean.) I've been and got married and brought home my queen: said Ed-ward Howland Robinson Green. Hetty started Edward in as a section hand. Then she gave him a little railroad in Texas to straighten out. He found it in terrible condition, and wired her for instructions. Back came a wire: "Do it yourself. Mother."</p>
 
-<p>PUDDLERS in the Bethlehem Steel Mills--puddlers being those fellows who work, stripped to the waist. over molten metal—are riding to work these days in limousines. Last year the average wage and bonus in the works, from water-boy to foreman, was $1,200, or quite a bit more than the average doctor's income. And Charles M. Schwab. who owns it all, and lots more besides, was himself a water-boy a few years ago. Yet the Germans can't understand why we don't want to change that kind of liberty for the blessed privilege of being forbidden to walk on the grass by the Kaiser.</p>
+<p>PUDDLERS in the Bethlehem Steel Mills--puddlers being those fellows who work, stripped to the waist. over molten metalare riding to work these days in limousines. Last year the average wage and bonus in the works, from water-boy to foreman, was $1,200, or quite a bit more than the average doctor's income. And Charles M. Schwab. who owns it all, and lots more besides, was himself a water-boy a few years ago. Yet the Germans can't understand why we don't want to change that kind of liberty for the blessed privilege of being forbidden to walk on the grass by the Kaiser.</p>
 
 Photograph by Paul Thompson
 
@@ -1002,21 +1172,21 @@ Photograph by Paul Thompson
 
 A YEAR MEN
 
-<p>IF we have included anybody in this page who does not belong, we ask him to call it to our attention at once and proper correction will be made. Our impression. however, is that William K. Vanderbilt may safely he admitted to the five million club. At least, we can state positively that he is very well fixed. ' He spends his time these days contributing to war funds, being a patron of the opera. helping to stand the deficits on movements to give the common people better plays, and—horse-racing. Isn't it the irony of fate that at the French races in 0911 he—who didn't need it—should have pulled down $136,000?</p>
+<p>IF we have included anybody in this page who does not belong, we ask him to call it to our attention at once and proper correction will be made. Our impression. however, is that William K. Vanderbilt may safely he admitted to the five million club. At least, we can state positively that he is very well fixed. ' He spends his time these days contributing to war funds, being a patron of the opera. helping to stand the deficits on movements to give the common people better plays, andhorse-racing. Isn't it the irony of fate that at the French races in 0911 hewho didn't need itshould have pulled down $136,000?</p>
 
-© Underwood & Underwood.
+ Underwood & Underwood.
 
 <p>DURING the last three years the house of J. P. Morgan & Company has raised loans for Europe amounting to $1,500.000.000; it has imported gold to the amount of $1,000,000,000, and has marketed' untold millions of American securities. Early one morning last fall, Mr. Morgan lent the Army Department $1,000,000 without security. But J. P. II is a modest man and doesn't like it when disrespectful I. W. W.'s refer to the present conflict as "Mr. Morgan's war."</p>
 
 <p>HENRY CLAY FRICK began as a. clerk in a general store at Overton. Pennsylvania, at the age of sixteen. At thirty he was a millionaire, having had faith to buy coke plants and coal beds when every one else thought the country was on its way to the bow-bows. What Andy ever did to him. we do not know: but he dislikes Andy cordially. We print them together here. hoping they will kiss and be friends.</p>
 
-© International Film Service, Inc.
+ International Film Service, Inc.
 
-© Underwood & Underwood.
+ Underwood & Underwood.
 
 <p>THE other men on this page are as internationally famous as Charlie Chaplin. Not so Daniel Guggenheim, "Mr. Dan," as he is called in distinction to his six partner brothers. He has given only one inter-view in his life, and that was before the Industrial Relations Commission. Said he: "All unemployed should be hired by the State. You may call me socialistic if you like, but it is the job of the United States to look after its people."</p>
 
-<p>QUITE a number of gentlemen in America have made themselves millionaires. Andy not only got his: he made forty-three other millionaires on the side. Which we think is doing pretty well, and we wish we'd met him earlier. Andy has been giving it away at the rate "f $50,000 a day for the last fifteen years: yet those who claim to know about such things say that he still has a good little sum—enough to let him mingle with the other gentlemen on these pages. He has said that he wanted to die poor, but we doubt whether he really means it. He has never started a magazine.</p>
+<p>QUITE a number of gentlemen in America have made themselves millionaires. Andy not only got his: he made forty-three other millionaires on the side. Which we think is doing pretty well, and we wish we'd met him earlier. Andy has been giving it away at the rate "f $50,000 a day for the last fifteen years: yet those who claim to know about such things say that he still has a good little sumenough to let him mingle with the other gentlemen on these pages. He has said that he wanted to die poor, but we doubt whether he really means it. He has never started a magazine.</p>
 
 Photograph by Paul Thompson.
 
@@ -1024,7 +1194,7 @@ Photograph by Paul Thompson.
 
 MADAM, DINNER IS SERVED
 
-<p>OF course French maids don't have to be quite so proper as English ones—viz.: Marie Ascaraga, on the right, of "A Successful Calamity." When this maid hears that her master is bankrupt, she remarks: "Well, I am going. Ze wise rat she leave ze sinking ship before he go down." "I try to get the real feeling of a maid," says Miss Ascaraga. "While I am dressing I think I can never do it; but suddenly, with the tying of the apron-strings, I feel my part."</p>
+<p>OF course French maids don't have to be quite so proper as English onesviz.: Marie Ascaraga, on the right, of "A Successful Calamity." When this maid hears that her master is bankrupt, she remarks: "Well, I am going. Ze wise rat she leave ze sinking ship before he go down." "I try to get the real feeling of a maid," says Miss Ascaraga. "While I am dressing I think I can never do it; but suddenly, with the tying of the apron-strings, I feel my part."</p>
 
 <p>YOU probably think that just a little part, where all. you have to do is "Milord, the carriage waits," is easy. Pause, listen, and reflect. Miss Esther Howard (on the left), of "Eve's Daughter," says that the humble maid is the true aristocrat of the stage, She must be superior, yet helpful; dignified, yet gracious. The heroine may "dissolve in tears" and thus relieve her feelings. The maid has no such privileges. Not by so much as the shake of a duster can she reveal her true opinion of the second butler.</p>
 
@@ -1036,13 +1206,13 @@ Photograph by White Studio.
 
 <p>"THE technique of playing a maid? Thank heaven, I never use technique!" With these few words Miss Ina Claire, who plays the title role in "Polly with a Past," dismisses the troublesome art of acting. Like Hermione, she asks herself each night before she goes to bed, "Have I been simple and genuine to-day? Or have I failed?"'</p>
 
-<p>MISS THERESA VALERIO, of "Jack o' Lantern," is a perfect nursemaid—the kind that make children wish mama were a suffragette or a bridge fiend. But then, she has had a singularly happy training for the part. She has a five-year-old boy of her own; for several years she traveled with a circus; and thirdly, last year she was a Teddy Bear in "Chin Chin." Her husband is the leader of the hilarious "Brown Brothers.'</p>
+<p>MISS THERESA VALERIO, of "Jack o' Lantern," is a perfect nursemaidthe kind that make children wish mama were a suffragette or a bridge fiend. But then, she has had a singularly happy training for the part. She has a five-year-old boy of her own; for several years she traveled with a circus; and thirdly, last year she was a Teddy Bear in "Chin Chin." Her husband is the leader of the hilarious "Brown Brothers.'</p>
 
 Photograph by White Studio.
 
 
 
-"I—I'll tell you about it after we get home,' says young Thad. `Oh, let's have it,' says Corson. `Come on! Out with it!'"
+"II'll tell you about it after we get home,' says young Thad. `Oh, let's have it,' says Corson. `Come on! Out with it!'"
 
 A Slant at the Comers
 
@@ -1054,9 +1224,9 @@ Illustrations by F. Vaux Wilson
 
 <p>As a matter of fact, I hadn't been tellin' the Honorable Thaddeus much of anything. He'd been tellin' me. Oh, yes; I'd been favored with a full account of his case, from the way his tongue looked in the mornin', to that heavy feelin' he had after dinner.</p>
 
-<p>Surprisin' what a lot of these old plutes are that way. They've made good at something or other, jugglin' suburban and country trolley properties was Corson's speciality,—and because they've broken into the seven-figure class they hand themselves the pleasin' fiction that they're wise in the head on any subject that comes up.</p>
+<p>Surprisin' what a lot of these old plutes are that way. They've made good at something or other, jugglin' suburban and country trolley properties was Corson's speciality,and because they've broken into the seven-figure class they hand themselves the pleasin' fiction that they're wise in the head on any subject that comes up.</p>
 
-<p>As for me, I kids him along and don't disturb his happy dreams. I was willin' to admit that he did know the trolley game fairly well. Must have, to keep on buckin' the big syndicates and not get squeezed out. Short lines was his feature; independents, small-town stuff. He was fond of tellin' how he got hold of his first controllin' interest—by swappin' a mortgage on a run-down gas plant for five miles of wabbly track, half a dozen punk cars, and a twenty-year franchise. Now he owned 'em all over the lot—up in New England, down in Jersey, and as far West as Iowa.</p>
+<p>As for me, I kids him along and don't disturb his happy dreams. I was willin' to admit that he did know the trolley game fairly well. Must have, to keep on buckin' the big syndicates and not get squeezed out. Short lines was his feature; independents, small-town stuff. He was fond of tellin' how he got hold of his first controllin' interestby swappin' a mortgage on a run-down gas plant for five miles of wabbly track, half a dozen punk cars, and a twenty-year franchise. Now he owned 'em all over the lotup in New England, down in Jersey, and as far West as Iowa.</p>
 
 <p>You'd never guess it, to look at him, either. Kind of a simple-lookin', leather-faced old Rube. And in that dusty black Stetson, the slate-gray frock-coat, and the striped trousers, you'd probably have sized him up for some village banker or Cayuga County senator. He had served a couple of terms in the Assembly from an up-State district, hence the Honorable.</p>
 
@@ -1104,11 +1274,11 @@ Illustrations by F. Vaux Wilson
 
 <p>"Oh, they mean all that, do they!" says Thaddeus, Sr., his smolderin' little eyes flarin' up combative.  "How about what I told you to do with the city council?"</p>
 
-<p>"No use," says young Thad.  "Reform administration--two Socialists among the lot.  You know that newspaper you took the advertising away from for printing a story about the grade-crossing smash last fall?  Well, they've been pounding you ever since, stirring up public sentiment against the company.  And next year matters will be worse.  They're going to make you an issue in the coming city election.  I went over the whole situation with our local attorneys.  They admitted that things looked squally.  And, as I failed to see how I could do anything along the lines you suggested—well, I came back."</p>
+<p>"No use," says young Thad.  "Reform administration--two Socialists among the lot.  You know that newspaper you took the advertising away from for printing a story about the grade-crossing smash last fall?  Well, they've been pounding you ever since, stirring up public sentiment against the company.  And next year matters will be worse.  They're going to make you an issue in the coming city election.  I went over the whole situation with our local attorneys.  They admitted that things looked squally.  And, as I failed to see how I could do anything along the lines you suggestedwell, I came back."</p>
 
 <p>The Honorable Thaddeus stares at him hostile. Then he turns to me.</p>
 
-<p>"Talk about young blood being needed in business!" says he. "This is a sample. He goes out and lets a sore-head news-paper and a few cheap politicians throw a scare into him; quits—cold!"</p>
+<p>"Talk about young blood being needed in business!" says he. "This is a sample. He goes out and lets a sore-head news-paper and a few cheap politicians throw a scare into him; quitscold!"</p>
 
 <p>"Oh, well," says I, soothin', "they got to learn, I expect."</p>
 
@@ -1128,7 +1298,7 @@ Illustrations by F. Vaux Wilson
 
 <p>"Simply because you never have con-ceded that I could possibly know any-thing on any subject whatever," comes back young Thad.</p>
 
-<p>He don't say it messy—just states it quiet and patient.</p>
+<p>He don't say it messyjust states it quiet and patient.</p>
 
 <p>But Corson blows out his cheeks and glares like he'd been mortally insulted.</p>
 
@@ -1140,11 +1310,11 @@ Illustrations by F. Vaux Wilson
 
 <p>"Very well," says Corson. "Let him tell us why he shouldn't have followed my orders. Think I don't know the street-car business, eh?"</p>
 
-<p>"I am quite sure you did know it—once," says young Thad. "But this `fixing' game is slightly out of date, dad: It doesn't work as it used to."</p>
+<p>"I am quite sure you did know itonce," says young Thad. "But this `fixing' game is slightly out of date, dad: It doesn't work as it used to."</p>
 
 <p>"Oh, doesn't it?" gasps the old man, gettin' purple in the gills. "Then what would? Let's hear what you'd do in-stead. Or would you make a present of the line to the city and tell 'em to run it as a public charity?"</p>
 
-<p>"If you wish," says young Thad, "I will give you the facts in this particular instance. As you know, the company hasn't paid a dividend in the last three years. The rolling stock is in bad shape—cars dirty and shabby, half of them with flat wheels, and all of them rickety. Then, there's the power plant, with a set of patched-up engines that are coal-eaters and energy-wasters."</p>
+<p>"If you wish," says young Thad, "I will give you the facts in this particular instance. As you know, the company hasn't paid a dividend in the last three years. The rolling stock is in bad shapecars dirty and shabby, half of them with flat wheels, and all of them rickety. Then, there's the power plant, with a set of patched-up engines that are coal-eaters and energy-wasters."</p>
 
 <p>"Huh!" grumbles Corson, actin' sort of jarred. "I suppose you would give that one-horse town a metropolitan outfit?"</p>
 
@@ -1156,17 +1326,17 @@ Illustrations by F. Vaux Wilson
 
 <p>"No; as general manager," raps out Corson.</p>
 
-<p>"Do—do you mean it?" says the other.</p>
+<p>"Dodo you mean it?" says the other.</p>
 
 <p>"Why not?"' says Corson. "If I'm an old fossil, I ought to know it; and if I'm not, perhaps it will be worth what it costs to prove it to my son. Yes, I'll make you the G. M. I'll give you a year, full swing. But I must know something of your program, of course."</p>
 
-<p>"Certainly," says young Thad, producin' a note-book. "You see, I had jotted down a few things, just for my own satisfaction. First, I would instal a new Corliss, so that we could keep our schedules. Then I'd paint and repair the cars, one at a time, perhaps adding three or four new ones of the pay-as-you-enter type. At the same time, I would start a publicity campaign—big ads in both papers, assuring our patrons that we were there to give them service, first, last, and all the time. There's a young re-porter on the Herald out there, a chap who was a classmate of mine, who can write that sort of thing with either hand. Yes, I know that is the paper which has been roasting us. But we'd forget that. So would they, after our ad contract was signed. And I should hope, within a month or so, to have public sentiment with us instead of against us; then I wouldn't care about the city council. It's an entirely different policy, I know; but—"</p>
+<p>"Certainly," says young Thad, producin' a note-book. "You see, I had jotted down a few things, just for my own satisfaction. First, I would instal a new Corliss, so that we could keep our schedules. Then I'd paint and repair the cars, one at a time, perhaps adding three or four new ones of the pay-as-you-enter type. At the same time, I would start a publicity campaignbig ads in both papers, assuring our patrons that we were there to give them service, first, last, and all the time. There's a young re-porter on the Herald out there, a chap who was a classmate of mine, who can write that sort of thing with either hand. Yes, I know that is the paper which has been roasting us. But we'd forget that. So would they, after our ad contract was signed. And I should hope, within a month or so, to have public sentiment with us instead of against us; then I wouldn't care about the city council. It's an entirely different policy, I know; but"</p>
 
-<p>"Yes, yes," breaks in Corson. "It's the fad just now—soothing syrup stuff. Make 'em believe you're running your business to suit them instead of yourself."</p>
+<p>"Yes, yes," breaks in Corson. "It's the fad just nowsoothing syrup stuff. Make 'em believe you're running your business to suit them instead of yourself."</p>
 
 <p>YOUNG Thad indulges in a quiet smile. "I suppose you wanted to try out new methods when you first started?"</p>
 
-<p>"Me?" says the old man. "Why, I began with a cable line, and in six months I'd changed it to an overhead trolley—first in the State. Some of the directors thought I was crazy. But I'd studied it all out; I knew what I was doing. You, though! Why, you've been out of college barely two years."</p>
+<p>"Me?" says the old man. "Why, I began with a cable line, and in six months I'd changed it to an overhead trolleyfirst in the State. Some of the directors thought I was crazy. But I'd studied it all out; I knew what I was doing. You, though! Why, you've been out of college barely two years."</p>
 
 Concluded on page i8
 
@@ -1183,13 +1353,13 @@ WILL OUR BOYS BE CONTENT TO COME HOME?
 
 <p>War relieves a man of all obligations, Captain Derby Holmes answers in the New York Evening Post. He has no bills to meet, no thinking to do. After the first strain of adjustment, the men come to like the rough outdoor existence.</p>
 
-<p>"The probability is that hardly any man in the trenches would say, if he were asked, that he liked army life," says Captain Holmes. "But he does, just the same —which is amply and frequently demonstrated by men on furlough. Almost any healthy, unwounded man on leave finds himself in a very few days bored to death and irked beyond endurance by the restrictions of a nearly forgotten civilization."</p>
+<p>"The probability is that hardly any man in the trenches would say, if he were asked, that he liked army life," says Captain Holmes. "But he does, just the same which is amply and frequently demonstrated by men on furlough. Almost any healthy, unwounded man on leave finds himself in a very few days bored to death and irked beyond endurance by the restrictions of a nearly forgotten civilization."</p>
 
 <p>After the war, the Captain continues, thousands of those men will turn to the wild frontier sections of the world. "The men are thinking and talking about where they will go after the war, and the place in fifty per cent of the cases is most emphatically not home, sweet home!"</p>
 
 <p>When a man landed in the trenches from South Africa, the Tommies fairly pounced upon him and pumped him dry. South Africa sounded good to them.</p>
 
-<p>Captain Holmes overheard the following conversation one night between two privates—Coffee Byers and his chum, Taters Smith. Coffee was just back from a six days' leave, and he confessed that he was glad to get back—that his home in England hadn't looked nearly so good to him as he had thought it would.</p>
+<p>Captain Holmes overheard the following conversation one night between two privatesCoffee Byers and his chum, Taters Smith. Coffee was just back from a six days' leave, and he confessed that he was glad to get backthat his home in England hadn't looked nearly so good to him as he had thought it would.</p>
 
 <p>"Gawd lumme! Taters," said Coffee. "Blighty ayen't wot it was. Not hawf. Too many 'ouses. Too blinkin' many busses. A cove ayen't safe. No fresh air."</p>
 
@@ -1205,17 +1375,17 @@ BETTER CARE FOR MOTHERS
 
 THE SMALLEST CHURCH IN THE WORLD
 
-© Kadel and Herbert
+ Kadel and Herbert
 
 <p>The smallest church in the world stands on the roof of the St. Lawrence Hospital in New York City. It will hold just forty people, and in four long steps one can cover the distance from the entrance to the altar. It was built for the convenience of patients in the hospital and of the hospital employees.</p>
 
 THE BIRMINGHAM JAIL IS EMPTY
 
-<p>BIRMINGHAM, Alabama, built a new city prison a few years ago, and in August, 1915, there were 109 prisoners in it, as well as 134 in the older jail downtown. Two years later, in August, 1917, there were only twenty-three prisoners in the new city prison, and twenty-eight downtown. A month later the total number of prisoners was only eleven—and not a white man or woman.</p>
+<p>BIRMINGHAM, Alabama, built a new city prison a few years ago, and in August, 1915, there were 109 prisoners in it, as well as 134 in the older jail downtown. Two years later, in August, 1917, there were only twenty-three prisoners in the new city prison, and twenty-eight downtown. A month later the total number of prisoners was only elevenand not a white man or woman.</p>
 
 <p>With such slim patronage the city fathers decided they could not afford to operate the nice new jail any longer; and it is consequently closed until further orders.</p>
 
-<p>What has caused the startling decrease in what used to be an established and dependable business? The answer is twofold, says the Survey. The activity of Birmingham's industries has cleared the streets of idle men—and busy men have no time for crime. But a factor greater than this is prohibition. "The commissioner of public safety declares that, in his judgment, it is certain that seventy-five per cent of the decrease in crime is due to the State prohibition law and the federal `bone dry' law—in other words, no open saloons and a scarcity of blind tigers."</p>
+<p>What has caused the startling decrease in what used to be an established and dependable business? The answer is twofold, says the Survey. The activity of Birmingham's industries has cleared the streets of idle menand busy men have no time for crime. But a factor greater than this is prohibition. "The commissioner of public safety declares that, in his judgment, it is certain that seventy-five per cent of the decrease in crime is due to the State prohibition law and the federal `bone dry' lawin other words, no open saloons and a scarcity of blind tigers."</p>
 
 THE TWELVE NUNS AND MARTIN LUTHER
 
@@ -1243,7 +1413,7 @@ From Martin Luther, the Man and His Work
 
 NURSING WOUNDED WAR DOGS
 
-<p>OUTSIDE of Paris is a hospital filled with wounded heroes—heroes with bullet wounds, shattered legs, shell-shock, one or both eyes gone. It is run by the Russian Countess Yourkevitch, and all her patients are war dogs.</p>
+<p>OUTSIDE of Paris is a hospital filled with wounded heroesheroes with bullet wounds, shattered legs, shell-shock, one or both eyes gone. It is run by the Russian Countess Yourkevitch, and all her patients are war dogs.</p>
 
 <p>All of these patients are veterans. The messenger dogs have perhaps the longest record of heroism. Says Ivan Novikoff in the Wide World Magazine: "They carry written orders or information from one body of troops to another. They have often to cross territory swept by shot or shell, where it would be almost impossible for a man to live."</p>
 
@@ -1303,7 +1473,7 @@ WHEN GOETHALS SLICED THE RED TAPE
 
 <p>There was plenty of red tape at Panama, and Forbes' Magazine tells an anecdote to illustrate how the Colonel dealt with it:</p>
 
-<p>"A large squad of Italian laborers were engaged, but word came to the Colonel that they refused to work unless they were allowed a modest quantity oftheir beloved red wine with their meals. It appears that the law forbade supplying Canal workers on duty with liquor—except for medicinal purposes. Goethals was wise enough to know that he couldn't change human nature.</p>
+<p>"A large squad of Italian laborers were engaged, but word came to the Colonel that they refused to work unless they were allowed a modest quantity oftheir beloved red wine with their meals. It appears that the law forbade supplying Canal workers on duty with liquorexcept for medicinal purposes. Goethals was wise enough to know that he couldn't change human nature.</p>
 
 <p>"So, what did he do?</p>
 
@@ -1315,7 +1485,7 @@ THE PLEASANT BUSINESS OF RAISING GAME
 
 <p>THE double achievement of preserving many kinds of wild birds otherwise sure to become extinct, and conducting a lucrative business, is possible for people who go in for game farming. Besides this, it is a fascinating sport.</p>
 
-<p>The laws have hindered wild bird breeding. "A hunter," says Herbert K. Job in the American Museum journal, "pays a dollar for a license, and kills, say, a hundred birds. It has been lawful to have many dead ones, but a crime to be caught with one alive and unwounded! Our domestic poultry was originally a wild species—very wild—with restricted range. Had it been `protected' as we have been protecting our game, there grandfather of this witness, of the same name, probably would not be one left on earth carried on for a time a bootblacking establish- to-day.</p>
+<p>The laws have hindered wild bird breeding. "A hunter," says Herbert K. Job in the American Museum journal, "pays a dollar for a license, and kills, say, a hundred birds. It has been lawful to have many dead ones, but a crime to be caught with one alive and unwounded! Our domestic poultry was originally a wild speciesvery wildwith restricted range. Had it been `protected' as we have been protecting our game, there grandfather of this witness, of the same name, probably would not be one left on earth carried on for a time a bootblacking establish- to-day.</p>
 
 <p>"The propagation of wild game requires careful attention to matters of sanitation, as wild species are very susceptible to diseases of uncleanliness. No one is qualified to undertake it who has not a deep interest in the birds themselves.  Always begin on a small scale and learn the technique by first-hand experience.</p>
 
@@ -1354,9 +1524,9 @@ Concluded from page 15
 
 <p>"Just look who's been coaching me all that time, though, dad," puts in Thad.</p>
 
-<p>"There, now! None of your blarney," says Corson, slappin' the youngster playful on the shoulder. "But you shall have a shot at it, son—a year's try-out. And if you can show the old man any new tricks —well, we'll see."</p>
+<p>"There, now! None of your blarney," says Corson, slappin' the youngster playful on the shoulder. "But you shall have a shot at it, sona year's try-out. And if you can show the old man any new tricks well, we'll see."</p>
 
-<p>And off they goes, arm in arm—which was a happier finish than I'd looked for when they starts in.</p>
+<p>And off they goes, arm in armwhich was a happier finish than I'd looked for when they starts in.</p>
 
 <p>BEIN' as how I'd taken part in the original debate, old Corson sort of counted me in on the deal.</p>
 
@@ -1398,7 +1568,7 @@ Concluded from page 15
 
 <p>"And maybe dividends?" I suggests.</p>
 
-<p>"Bound to come," says Corson. Then he stops and scratches his head. "And to think of Thad—just a boy, as you might say— working out schemes like that which I— Well, I'll have to own up, I wouldn't have thought of 'em in a thousand years. And this is my game, too, the one I've made my pile at. Oh, Thad stumbled into luck, that's all. In the long run, it's us old fellows who can be depended on."</p>
+<p>"Bound to come," says Corson. Then he stops and scratches his head. "And to think of Thadjust a boy, as you might say working out schemes like that which I Well, I'll have to own up, I wouldn't have thought of 'em in a thousand years. And this is my game, too, the one I've made my pile at. Oh, Thad stumbled into luck, that's all. In the long run, it's us old fellows who can be depended on."</p>
 
 <p>"Sometimes," says I. "But mostly I'm backin' the comers."</p>
 
@@ -1422,7 +1592,7 @@ Concluded from page 15
 
 <p>"Aw, pap! he protests. "Jes' 'cause you didn't uster play hockey yourself! A lot you and 'ma know about it. Shucks!"</p>
 
-<p>"Now, listen here, young man," I starts in, "when I tell you a thing once, I want you to—"</p>
+<p>"Now, listen here, young man," I starts in, "when I tell you a thing once, I want you to"</p>
 
 <p>Then I stops; for, someway, just about then I thought of old Corson.</p>
 
@@ -1435,7 +1605,7 @@ Concluded from page 15
 
 
 
-Henry Ford—concluded front page 5
+Henry Fordconcluded front page 5
 
 <p>story is about Ford's brother "Bill." Bill Ford, they say, for some time was in charge of the farms. One clay Henry came up to him and announced:</p>
 
@@ -1457,7 +1627,7 @@ A Hundred Per Cent Citizen
 
 <p>"What did he want that land for?"</p>
 
-<p>"I'l tell you," explained the old-timer. "Years ago, Henry needed some money. He had a little shop out Grand River Avenue, and he'd put in every cent he could get. He came to a man here in town, and says, `John, I need some money.' `How much?' says John. 'I think about a thousand will swing the deal; but I haven't any security.' `Never mind the security,' says John. `I've got the thousand. Take it.' Well, things went fine after that—with Henry. But years later John him-self was in a bad fix—about to fail in business. And along comes Henry and buys his farm at a fancy figure—without any brass band, y' understand."</p>
+<p>"I'l tell you," explained the old-timer. "Years ago, Henry needed some money. He had a little shop out Grand River Avenue, and he'd put in every cent he could get. He came to a man here in town, and says, `John, I need some money.' `How much?' says John. 'I think about a thousand will swing the deal; but I haven't any security.' `Never mind the security,' says John. `I've got the thousand. Take it.' Well, things went fine after thatwith Henry. But years later John him-self was in a bad fixabout to fail in business. And along comes Henry and buys his farm at a fancy figurewithout any brass band, y' understand."</p>
 
 <p>The second story comes from Jake Tyson. Jake Tyson was a boy with Ford. One day the elder Ford came to young Tyson with a worried look in his eye.</p>
 
@@ -1507,7 +1677,7 @@ And His Wife
 
 <p>I think Henry Ford will like that answer. It's so democratically American. And, indeed, that is the key-note of Dearborn's attitude toward Ford. Dearborn likes to have him in town, because Dear-born likes Ford. The people talk about his fine house, and then with a beautiful simplicity conclude: "But, d'you know, I don't think I'd care for it myself. I'm afraid I'd get lost. I guess I'd rather have my own little house." I don't blame the people of Dearborn for liking "their own little houses." Dearborn is a pretty little town, thriving toward citydom, but still having charming houses where there are perambulators on the front porches, and phonographs in the parlors, preserves on pantry shelves, and potato patches in the back yards.</p>
 
-<p>In 1915 there was a big Fourth of July celebration at Dearborn. Ford was "back of it." When evening settled down refreshingly on a hot and busy day, and quiet after noise accompanied it, and lovely Dearborn girls strolled beside stalwart Dearborn youths, across a cleared space moving pictures were flashed. They were the first pictures of Ford's first tractors. I stood on the running-board of an automobile, watching the pictures. And in a seat close beside me, watching also silently, was the slim, still youthful figure of a man in pepper-gray: It was Henry Ford. His eyes never left the pictures. His thoughts, I think, were not in Dearborn. They were flying ahead to what is fact to-day—visioning, visioning. And I think that in that Dearborn twilight I caught the home spirit of Henry Ford. He says little about his home town; his mind is busy visioning. But he likes to do his visioning in Dearborn.</p>
+<p>In 1915 there was a big Fourth of July celebration at Dearborn. Ford was "back of it." When evening settled down refreshingly on a hot and busy day, and quiet after noise accompanied it, and lovely Dearborn girls strolled beside stalwart Dearborn youths, across a cleared space moving pictures were flashed. They were the first pictures of Ford's first tractors. I stood on the running-board of an automobile, watching the pictures. And in a seat close beside me, watching also silently, was the slim, still youthful figure of a man in pepper-gray: It was Henry Ford. His eyes never left the pictures. His thoughts, I think, were not in Dearborn. They were flying ahead to what is fact to-dayvisioning, visioning. And I think that in that Dearborn twilight I caught the home spirit of Henry Ford. He says little about his home town; his mind is busy visioning. But he likes to do his visioning in Dearborn.</p>
 
 
 
@@ -1534,7 +1704,7 @@ From San Quentin Prison
 
 <p>I trust that you will not be offended in receiving a word of praise "from the inside." Your magazine passes through a good many hands here, and is surely appreciated. Your editorials are so full of hope that they atone arc bound to make an impression; and the one headed "Where Will You Be Ten Years from Now?" made quite a stir among the men. Please let us have more like it, for we are trying hard, inside here, to believe that we have a chance for a brighter future, and such messages help.	J. W. W., San Quentin.</p>
 
-<p>We would like to feel that there is something in every number of the magazine that makes living a bit happier and easier and more hopeful for folks out-side as well as "in." Letters like yours, J. W. W., please us almost as much as our salary check—and that is going some, believe us.</p>
+<p>We would like to feel that there is something in every number of the magazine that makes living a bit happier and easier and more hopeful for folks out-side as well as "in." Letters like yours, J. W. W., please us almost as much as our salary checkand that is going some, believe us.</p>
 
 The Head of Lincoln
 
@@ -1566,7 +1736,7 @@ What I Call a Regular Subscriber
 
 <p>Of course we want to take the children to the circus.</p>
 
-<p>Do I want to take them to the circus? Haven't I been watching that youngster day by day, and saying to myself, "Next spring he will be two and a half: surely that is old enough for the circus." Do I want—say, Mr. King, you're sure you have the address right, aren't you? 381 Fourth Avenue. And you needn't send in your card: just walk right in.</p>
+<p>Do I want to take them to the circus? Haven't I been watching that youngster day by day, and saying to myself, "Next spring he will be two and a half: surely that is old enough for the circus." Do I wantsay, Mr. King, you're sure you have the address right, aren't you? 381 Fourth Avenue. And you needn't send in your card: just walk right in.</p>
 
 That Bitter Postage Pill
 
@@ -1578,7 +1748,7 @@ That Bitter Postage Pill
 
 <p>Now Congress has passed what is known as a "zone bill," which divides the country into zones of about three hundred miles apiece, and proposes that the magazines shall pay an increased rate on the copies that have to travel farthest.</p>
 
-<p>We publishers believe that magazines ought to be classed with letters, rather than with freight and parcel-post pack-ages. If our postage rate is lower than the government can afford to give us, we are willing to pay what we can afford. But we believe it is unwise and unfair to arrange the rates in such a way that a subscriber is penalized for living away from New York—which is where most of the magazines are published.</p>
+<p>We publishers believe that magazines ought to be classed with letters, rather than with freight and parcel-post pack-ages. If our postage rate is lower than the government can afford to give us, we are willing to pay what we can afford. But we believe it is unwise and unfair to arrange the rates in such a way that a subscriber is penalized for living away from New Yorkwhich is where most of the magazines are published.</p>
 
 <p>If the law stands, we shall either have to reduce our circulation very much, or we shall have to charge a higher price to folks who live in the West and South.</p>
 
@@ -1603,13 +1773,13 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>The boy's look was apologetic.</p>
 
-<p>"I ain't old enough!" he said softly. "But Mr. Prescott—he's Scout-Master--he says it's all right to salute even if you ain't a Scout. I shall be one in two years," he added proudly.</p>
+<p>"I ain't old enough!" he said softly. "But Mr. Prescotthe's Scout-Master--he says it's all right to salute even if you ain't a Scout. I shall be one in two years," he added proudly.</p>
 
 <p>The boy moved a little nearer to him. Eagan had never felt toward any one as this boy made him feel. He wanted to put out an arm and draw him close and protect him.</p>
 
 <p>The boy looked up with a smile.</p>
 
-<p>You going to enlist?" he asked. "I—don't know."</p>
+<p>You going to enlist?" he asked. "Idon't know."</p>
 
 <p>Little beads of moisture had come to Eagan's forehead. He wiped them away and got to his feet. The boy stood up too.</p>
 
@@ -1633,11 +1803,11 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>The youth looked back and nodded. Then, with a wan smile, he went in.</p>
 
-<p>THE two doctors moved away. They came hack. One of them bent to him. You are all right," he said. "But the heart action is a little—"</p>
+<p>THE two doctors moved away. They came hack. One of them bent to him. You are all right," he said. "But the heart action is a little"</p>
 
 <p>He moved a quick hand. The face lifted to him had gone pale.</p>
 
-<p>"Here—some water—quick!" he said. But the youth sat up. He pushed aside the glass.</p>
+<p>"Heresome waterquick!" he said. But the youth sat up. He pushed aside the glass.</p>
 
 <p>"I'm all right!" he muttered. And again he noticed with surprise the curious thickness in his voice.</p>
 
@@ -1649,7 +1819,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>Eagan had sprung to his feet. His face worked strangely. He tugged at his collar.</p>
 
-<p>"I—I'm all right!" he panted. "You just let me tell—"</p>
+<p>"II'm all right!" he panted. "You just let me tell"</p>
 
 <p>His hand, fumbling at his vest pocket, had brought out a flat white packet.</p>
 
@@ -1659,7 +1829,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>HE opened the packet and looked at it. Then he glanced at Eagan. The boy nodded.</p>
 
-<p>"I took it—part of it," he said hoarsely.</p>
+<p>"I took itpart of it," he said hoarsely.</p>
 
 <p>The man beckoned to his associate. They stood looking at the powder and sniffing it a moment. Then the doctor lifted a tiny bit on the blade of his knife and put it to his lips. After a moment he nodded and folded the paper with care and locked it in a case on the other side of the room.</p>
 
@@ -1677,7 +1847,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>The doctor's eyes gleamed.</p>
 
-<p>"You have not disgraced him," he said. "You have done the country a big service. What you have told me is worth hundreds of men, thousands of dollars to the government. We have suspected all along. But we could not get evidence. Too many men from this district have shown curious heart action. Now we have this man, and through him we shall probably get more. They'll all squeal. And, what is still more to the point, we shall know the symptoms —when we meet them."</p>
+<p>"You have not disgraced him," he said. "You have done the country a big service. What you have told me is worth hundreds of men, thousands of dollars to the government. We have suspected all along. But we could not get evidence. Too many men from this district have shown curious heart action. Now we have this man, and through him we shall probably get more. They'll all squeal. And, what is still more to the point, we shall know the symptoms when we meet them."</p>
 
 <p>There was a little gleam like steel in the doctor's eyes.</p>
 
@@ -1713,7 +1883,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>"They didn't turn you down?" he said sharply.</p>
 
-<p>"No. But—"</p>
+<p>"No. But"</p>
 
 <p>The Colonel's laugh broke across it.</p>
 
@@ -1725,7 +1895,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>"Did you pass?" he demanded.</p>
 
-<p>Eagan flushed. "It looks like it—yes," he said gravely.</p>
+<p>Eagan flushed. "It looks like ityes," he said gravely.</p>
 
 <p>" Bully for you!" said the boy.</p>
 
@@ -1747,7 +1917,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>He says I can begin to get my things ready," she said quietly.</p>
 
-<p>She took off her hat and pushed up the little rings of hair from her forehead. The face had the waiting look of a Flemish Madonna—healthy and unafraid.</p>
+<p>She took off her hat and pushed up the little rings of hair from her forehead. The face had the waiting look of a Flemish Madonnahealthy and unafraid.</p>
 
 <p>" Jamie can claim his exemption, then!" said the mother quickly.</p>
 
@@ -1759,7 +1929,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>"The train is late," she said.</p>
 
-<p>"I thought I heard a whistle—"</p>
+<p>"I thought I heard a whistle"</p>
 
 <p>"Owl, maybe," said the mother. She turned her head to listen.</p>
 
@@ -1773,7 +1943,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>The daughter had not stirred.</p>
 
-<p>He turned into the path from the road, and they could see that he walked with a free stride—like a man who has cast off a burden.</p>
+<p>He turned into the path from the road, and they could see that he walked with a free stridelike a man who has cast off a burden.</p>
 
 <p>He entered the half-dim room and peered in at them from the doorway.</p>
 
@@ -1791,17 +1961,17 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>"Have you had supper?" asked his mother.</p>
 
-<p>"Yes—with the boys."</p>
+<p>"Yeswith the boys."</p>
 
 <p>There was silence again. After a time he began to speak in a slow voice, as if some one within were communing with him.</p>
 
-<p>"It was easy—dead easy—when I came to it. There was nothing to be scared of!"</p>
+<p>"It was easydead easywhen I came to it. There was nothing to be scared of!"</p>
 
 <p>The two women's glances sought each other in the dimness and looked away.</p>
 
 <p>His hands were thrust a little into his pockets. He whistled absently and a smile touched his lips.</p>
 
-<p>"It was like a bad dream!" he said softly. "You're kind of tied, hand and foot—and then something gives way and you float off, easy as anything! Why, when they said they were going to take me, I felt as if I was standing on top of the world and looking 'way off somewhere—and I could see things coming!"</p>
+<p>"It was like a bad dream!" he said softly. "You're kind of tied, hand and footand then something gives way and you float off, easy as anything! Why, when they said they were going to take me, I felt as if I was standing on top of the world and looking 'way off somewhereand I could see things coming!"</p>
 
 <p>His hands had come out of his pockets and his voice was like a triumph.</p>
 
@@ -1815,7 +1985,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>"Maybe I've been selfish," he said. "I've just been thinking of myself all day, I guess. I seemed to forget you might need me!"</p>
 
-<p>"I reckon we can get along," said the mother dryly. "I took care of two of us a good many years, after your father died. I reckon I can take care of two of us again —and three if need be."</p>
+<p>"I reckon we can get along," said the mother dryly. "I took care of two of us a good many years, after your father died. I reckon I can take care of two of us again and three if need be."</p>
 
 <p>He looked from one shadow to the other swiftly.</p>
 
@@ -1829,7 +1999,7 @@ Jim Eagan's Draft--Continued from page 9
 
 <p>His wife's voice came quietly from the shadow:</p>
 
-<p>"We want you to go, Jim—all of us want it, I guess."</p>
+<p>"We want you to go, Jimall of us want it, I guess."</p>
 
 <p>Again there was silence; and the moon-light, traveling across the room, touched the faces with an austere light, as if it revealed something the clay had kept hid.</p>
 
