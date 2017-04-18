@@ -1,55 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180420">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, April 20, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180420</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-04-20">April 20, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-04-18"><name>Erin Marra</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
-This is Her Week
+<pb n="Cover" xml:id="ew.issue.19180420.p001" />
 
-<p>THREE lonely girls lived on a York-shire moor in the first half of the last century. They were oppressed by poverty and inherited ill health.</p>
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER: Place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>April 20, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main">In this Issue&#8212;Ten Exciting Letters</head>
+<head type="main">THE BRAVEST THING I EVER DID</head>
+<p></p>
+<ab type="credit">E. Haven.</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
 
-<p>A hectoring, loud-voiced, angry, egotistical father badgered the life out of them. A vicious, degraded brother drained the meager family purse. They grew up solitary, friendless, kinless. Yet in this very wrestle with hopelessness each one of the sisters developed a definite and curious writing genius that almost took fame by violence, as it were. They were the astounding Misses Brontë of Haworth, who each in turn dazzled the literary world of the time.</p>
+<pb n="Page 2" xml:id="ew.issue.19180420.p002"/>
+
+<text type="nonfiction" xml:id="week.19180420">
+<body>
+
+<head type="main">This is Her Week</head>
+
+<cb n="1"/>
+
+<p>THREE lonely girls lived on a Yorkshire moor in the first half of the last century. They were oppressed by poverty and inherited ill health.</p>
+
+<p>A hectoring, loud-voiced, angry, egotistical father badgered the life out of them. A vicious, degraded brother drained the meager family purse. They grew up solitary, friendless, kinless. Yet in this very wrestle with hopelessness each one of the sisters developed a definite and curious writing genius that almost took fame by violence, as it were. They were the astounding Misses BrontÃ« of Haworth, who each in turn dazzled the literary world of the time.</p>
 
 <p>Two of the sisters, Emily and Anne, died at the moment of success. Charlotte lived to become famous, but was snatched from happiness and motherhood before either had become complete.</p>
 
-<p>The book that made her fame, "Jane Eyre," was published in October, 1847. It stole upon London in the midst of the serial publication of "Vanity Fair," and obtained for its author, in the course of a few weeks, a success such as the creator of Becky Sharp afterward said to her a little sadly, "it took me ten years to achieve." Mrs. Gaskell describes Miss Bronte at this time as "a little set, antiquated old maid, very quiet in manners and quaint in dress, in whom onesought in vain for the knowledge of life, the passion, power or vividness that her book revealed."</p>
+<p>The book that made her fame, "Jane Eyre," was published in October, 1847. It stole upon London in the midst of the serial publication of "Vanity Fair," and obtained for its author, in the course of a few weeks, a success such as the creator of Becky Sharp afterward said to her a 
 
-<p>It was almost too late for success. She had drudged out her youth as a governess, as a teacher, as a paid companion. She had fought a losing battle against consumption. Suffering, solitude, and bereavement had drawn from her her strength. As she said of herself: "So many years had my thoughts and dreams consumed me; so many years had my Imagination eaten me up. If you knew to what extent you would pity me."</p>
+<cb n="2"/>
 
-<p>Timorously she enjoyed the great fame that came to her. It was almost as if it bewildered her. "Then, to the amazement of every one, she married a curate who had been "calling" upon her for years—an insignificant little man.</p>
+little sadly, "it took me ten years to achieve." Mrs. Gaskell describes Miss BrontÃ« at this time as "a little set, antiquated old maid, very quiet in manners and quaint in dress, in whom one sought in vain for the knowledge of life, the passion, power or vividness that her book revealed."</p>
 
-<p>A year after the marriage she died. But "Jane Eyre" persists and Charlotte Brontë is to-day an "immortal."</p>
+<p>It was almost too late for success. She had drudged out her youth as a governess, as a teacher, as a paid companion. She had fought a losing battle against consumption. Suffering, solitude, and bereavement had drawn from her her strength. As she said of herself: "So many years had my thoughts and dreams consumed me; so many years had my imagination eaten me up. If you knew to what extent you would pity me."</p>
 
-<p>She was a sybil. She wore, however, no flying robes. She wore crinolines. In the house she wore a mob cap. When she went abroad she put on a lop-eared bon-net, carried a parasol the size of a silver dollar, and put odd flat brodequins on her feet. But, for all that, her voice was direct and out-spoken and went straight to the heart of thins. She was the "wren with a quill of fire." Beneath ¬her kerchief an eager heart throbbed in a small, frail body. Her name was Charlotte Bronte, and she was born in Yorkshire, England, April 21, 1816, and died in 1855.</p>
+<p>Timorously she enjoyed the great fame that came to her. It was almost as if it bewildered her. Then, to the amazement of every one, she married a curate who had been "calling" upon her for years&#8212;an insignificant little man.</p>
 
-For Rickets—Cod-Liver Oil
+<p>A year after the marriage she died. But "Jane Eyre" persists and Charlotte BrontÃ« is to-day an "immortal."</p>
 
-By J. B. HUBER, A. M., M. D.
+<figure n="portrait">
+<head></head>
+<ab n="credit"></ab>
+<p>She was a sybil. She wore, however, no flying robes. She wore crinolines. In the house she wore a mob cap. When she went abroad she put on a lop-eared bonnet, carried a parasol the size of a silver dollar, and put odd flat brodequins on her feet. But, for all that, her voice was direct and out-spoken and went straight to the heart of thins. She was the "wren with a quill of fire." Beneath her kerchief an eager heart throbbed in a small, frail body. Her name was Charlotte BrontÃ«, and she was born in Yorkshire, England, April 21, 1816, and died in 1855.</p>
+<figDesc></figDesc>
+</figure>
 
-<p>RICKETS—few words in the English language have a more unpleasant sound. And few convey a more unpleasant meaning than this word, descriptive of a children's disease arising from malnutrition. What is the preventative for rickets? For a long time, the answer to that question has been cod-liver oil: and Dr. A. F. Hess and Dr. L. J. Unger recently conducted experiments to discover how safe we are in pinning our faith to this old-time remedy.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="huber.19180406">
+<body>
+
+<head type="main">For Rickets&#8212;Cod-Liver Oil</head>
+<byline>By <persName type="author" key="#Huber, J. B.">J. B. HUBER</persName>, A. M., M. D.</byline>
+
+<cb n="1"/>
+
+<p>RICKETS&#8212;few words in the English language have a more unpleasant sound. And few convey a more unpleasant meaning than this word, descriptive of a children's disease arising from malnutrition. What is the preventative for rickets? For a long time, the answer to that question has been cod-liver oil: and Dr. A. F. Hess and Dr. L. J. Unger recently conducted experiments to discover how safe we are in pinning our faith to this old-time remedy.</p>
 
 <p>Colored children are more generally afflicted with rickets than white, and the investigators therefore planned their experiments in the Columbus Hill district of New York, where the population is largely colored.</p>
 
-<p>It was determined to give cod-liver oil to fifteen babies between the ages of four months and one year; and select, as far as possible, infants in families where the other children had rickets. A careful examination of the children's constitutions was made before the oil was given; and these examinations were repeated at two-month intervals until six months had elapsed. The baby's and the mother's diet, the economic condition of the family, the length of time they had lived in the North, and other relevant facts were in each case recorded. These humane physicians were thus able to prevent the development of rickets in more than four fifths of the babies who received the oil for six months, and in more than one half of those to whom it had been given for four months. Of sixteen infants that did not receive the oil, fifteen, living under the same conditions, gave indications of rickets.</p>
+<p>It was determined to give cod-liver oil to fifteen babies between the ages of four months and one year; and select, as far as possible, infants in families where the other children had rickets. A careful examination of the children's constitutions was made before the oil was given; and 
 
-<p>Since it thus became evident that cod-liver oil does protect from rickets, a clinic for the prevention of that disease was developed; and Dr. Hess and his col-league recommend the establishment of like institutions in other cities, especially in negro and Italian districts—for the malady is almost as prevalent among Italians as among colored folk.</p>
+<cb n="2"/>
 
-Beware of Bread if You're Fat
+these examinations were repeated at two-month intervals until six months had elapsed. The baby's and the mother's diet, the economic condition of the family, the length of time they had lived in the North, and other relevant facts were in each case recorded. These humane physicians were thus able to prevent the development of rickets in more than four fifths of the babies who received the oil for six months, and in more than one half of those to whom it had been given for four months. Of sixteen infants that did not receive the oil, fifteen, living under the same conditions, gave indications of rickets.</p>
 
-<p>FAT people are frequently subject to certain very irritating skin diseases —the bull-neck boil, for instance, and eczema, which is so exasperating and so intractable a malady. Why is it that stout people are more frequently afflicted than others, asked Dr. R. Sabouraud, and in La Presse Medicale he details a series of experiments in which he sought the answer to that question.</p>
+<p>Since it thus became evident that cod-liver oil <hi rend="italic">does</hi> protect from rickets, a clinic for the prevention of that disease was developed; and Dr. Hess and his colleague recommend the establishment of like institutions in other cities, especially in negro and Italian districts&#8212;for the malady is almost as prevalent among Italians as among colored folk.</p>
 
-<p>From a study of the diet of such stout sufferers, he discovered that their food was not essentially different from that of other people, except that they were accustomed to eat a superabundance of bread. He learned, indeed, that many of them seemed to think it impossible to consume too much of the "staff of life." Not only was the amount excessive, but much of the bread was poorly baked, causing digestive disturbances, and these, in their turn, reacted badly on the skin.</p>
+</body>
+</text>
 
-<p>All good things can be overdone. Be-ware of too much bread—especially if the flesh is beginning to be too much in
-evidence.</p>
+<text type="nonfiction" xml:id="huber2.19180420">
+<body>
 
-J. B. HUBER.
+<head type="main">Beware of Bread if You're Fat</head>
 
-We Shall Win—If Our Sense of Humor Lasts
+<cb n="1"/>
 
-<p>SERIOUS minded subscriber takes me to task because one of the captions on our picture pages seems to him facetious.</p>
+<p>FAT people are frequently subject to certain very irritating skin diseases&#8212;the bull-neck boil, for instance, and eczema, which is so exasperating and so intractable a malady. Why is it that stout people are more frequently afflicted than others, asked Dr. R. Sabouraud, and in <hi rend="italic">La Presse Medicale</hi> he details a series of experiments in which he sought the answer to that question.</p>
+
+<p>From a study of the diet of such stout sufferers, he discovered that their food was not essentially different from that of 
+
+<cb n="2"/>
+
+other people, except that they were accustomed to eat a superabundance of bread. He learned, indeed, that many of them seemed to think it impossible to consume too much of the "staff of life." Not only was the amount excessive, but much of the bread was poorly baked, causing digestive disturbances, and these, in their turn, reacted badly on the skin.</p>
+
+<p>All good things can be overdone. Beware of too much bread&#8212;especially if the flesh is beginning to be too much in evidence.</p>
+
+<byline><persName type="author" key="#Huber, J. B.">J. B. HUBER</persName>.</byline>
+
+</body>
+</text>
+
+<text type="editorial" xml:id="barton.19180420">
+<body>
+
+<head type="main">We Shall Win&#8212;If Our Sense of Humor Lasts</head>
+
+<p>A SERIOUS minded subscriber takes me to task because one of the captions on our picture pages seems to him facetious.</p>
 
 <p>"In ordinary times this might be all right," he reminds me; "but we are in the midst of a great war, and it is no time for jokes."</p>
 
-<p>To which I reply that we are in the midst of a great war—therefore we should have twice as many jokes and they should be twice as funny.</p>
+<p>To which I reply that we are in the midst of a great war&#8212;therefore we should have twice as many jokes and they should be twice as funny.</p>
 
-<p>Only yesterday I was reading about a Cabinet meeting held at the Al bite House in one of the most critical hours of our history. The incident was recorded by Secretary Stanton, not a particularly sympathetic reporter.</p>
+<p>Only yesterday I was reading about a Cabinet meeting held at the White House in one of the most critical hours of our history. The incident was recorded by Secretary Stanton, not a particularly sympathetic reporter.</p>
 
 <p>Around the table the various Secretaries gathered, solemn-faced and silent. To their amazement, the President, instead of turning to the business in hand, began reading aloud a chapter from the humorous works of Artemus Ward.</p>
 
@@ -65,9 +213,9 @@ We Shall Win—If Our Sense of Humor Lasts
 
 <p>The members of the Cabinet never could fathom the mingling of laughter and tears that was the secret of Lincoln's greatness.</p>
 
-<p>They were afraid of laughter: they regarded it as dangerous and—in times like those—almost immoral.</p>
+<p>They were afraid of laughter: they regarded it as dangerous and&#8212;in times like those&#8212;almost immoral.</p>
 
-<p>But Lincoln knew better. Humor to him—as to many another overburdened man--was the great shock-absorber of life: without its kindly ministrations, the hard places of the road would have wrenched his soul beyond endurance.</p>
+<p>But Lincoln knew better. Humor to him&#8212;as to many another overburdened man&#8212;was the great shock-absorber of life: without its kindly ministrations, the hard places of the road would have wrenched his soul beyond endurance.</p>
 
 <p>Napoleon seldom smiled; Cromwell had little sense of humor. Either of them would be a dangerous man to handle our affairs in times like these.</p>
 
@@ -75,13 +223,13 @@ We Shall Win—If Our Sense of Humor Lasts
 
 <p>Give us, rather, men like Washington, who, as Irving writes, frequently leaned back and "laughed until the tears ran down his face."</p>
 
-<p>Men like Lincoln, whose point of view is so detached that they call laugh even at themselves.</p>
+<p>Men like Lincoln, whose point of view is so detached that they can laugh even at themselves.</p>
 
 <p>A saving sense of humor is the fourth great Christian virtue, says A. C. Benson. And that is so true that I wish it had been written in the Bible instead of in one of Mr. A. C. Benson's books.</p>
 
 <p>A man may have faith and hope and charity, and still be a prig and a bore.</p>
 
-<p>Jesus was none of these. IIe was the most popular dinner guest in Jerusalem.</p>
+<p>Jesus was none of these. He was the most popular dinner guest in Jerusalem.</p>
 
 <p>No one ever criticized Him for being too serious minded and respectable. Instead, He was criticized for dining out too much, for not compelling His disciples to fast, and for being too much with the loud laughing crowd of "publicans and sinners."</p>
 
@@ -91,25 +239,88 @@ We Shall Win—If Our Sense of Humor Lasts
 
 <p>"He that sitteth in the heavens shall laugh."</p>
 
-<p>With all my heart I would urge them to begin right now—even in serious days like these—to cultivate that fourth great Christian virtue.</p>
+<p>With all my heart I would urge them to begin right now&#8212;even in serious days like these&#8212;to cultivate that fourth great Christian virtue.</p>
 
-<p>Lest perchance they die, and—in a heaven presided over by a God who dearly loves a laugh—shall find themselves lonesome and ill at case.</p>
+<p>Lest perchance they die, and&#8212;in a heaven presided over by a God who dearly loves a laugh&#8212;shall find themselves lonesome and ill at case.</p>
 
-Bruce Barton, Editor.
+<byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</byline>
 	
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180420.p003"/>
 
-THE BRAVEST THING I EVER DID
+<text>
+<body>
 
-By THE READERS OF EVERY WEEK
+<figure n="advertisement">
+<head>HOW MANY USES HAVE YOU FOR 3-IN-ONE</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Three-In-One Oil Co.</figDesc>
+</figure>
 
-"With some difficulty I contrived to open the blade and strove to cut away the wood that held my fingers. In vain!"
+</body>
+</text>
 
-<p>COURAGE is the virtue upon which all the others depend. Fortunately, it is not a rare quality. The great war has proved that, if proof were necessary. But the failure of the coward is such a terrible failure that in the hearts of all of us is the fear that we will be afraid—that when the test comes we may be found wanting. We have seldom had more interesting letters than these in which our readers tell of the bravest thing they ever did. They show once more that the battlefield by no means presents the only test of high courage.</p>
+<pb n="Page 4" xml:id="ew.issue.19180420.p004"/>
 
-<p>Next week Ralph Connor, author of "The Major," tells, in an interview, of brave men he knew in France.</p>
+<text>
+<body>
 
-The Prize Letter
+<figure n="advertisement">
+<head>The Right Way to Shampoo</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Andrew Jergens Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19180420.p005"/>
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 16<lb/>
+April 20, 1918<lb/>
+
+Every Week<lb/>
+"Every word counts"<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="readers.19180420">
+<body>
+
+<head type="main">THE BRAVEST THING I EVER DID</head>
+<byline>By THE READERS OF EVERY WEEK</byline>
+
+<note><p>COURAGE is the virtue upon which all the others depend. Fortunately, it is not a rare quality. The great war has proved that, if proof were necessary. But the failure of the coward is such a terrible failure that in the hearts of all of us is the fear that we will be afraid&#8212;that when the test comes we may be found wanting. We have seldom had more interesting letters than these in which our readers tell of the bravest thing they ever did. They show once more that the battlefield by no means presents the only test of high courage.</p>
+
+<p>Next week Ralph Connor, author of "The Major," tells, in an interview, of brave men he knew in France.</p></note>
+
+<cb n="1"/>
+
+<div1>
+<figure n="illustration">
+<head></head>
+<ab n="credit"></ab>
+<p>"With some difficulty I contrived to open the blade and strove to cut away the wood that held my fingers. In vain!"</p>
+<figDesc></figDesc>
+</figure>
+
+<head type="sub">The Prize Letter</head>
 
 <p>THE event I am going to relate happened in the late afternoon of one of the coldest days in December, 1917.</p>
 
@@ -117,49 +328,60 @@ The Prize Letter
 
 <p>My father's farm of three hundred acres in Maine is, for the most part, covered with a heavy growth of hard wood; and, immediately after the fall work was done and everything made snug for the winter, we set about cutting our year's supply of fuel.</p>
 
-<p>On the day in question the weather was bitterly cold, the thermometer at noon registering thirty-eight degrees below zero. Father and mother had been obliged to go to a distant town, to be gone over-night. As they drove out of the yard in the morning, father gave me a parting injunction: "Better not go in the woods to-day, Ralph; it is too cold. Stay around home until we get back."</p>
+<p>On the day in question the weather was bitterly cold, the thermometer at noon registering thirty-eight degrees below zero. Father and mother had been obliged to go to a distant town, to be gone overnight. As they drove out of the yard in the morning, father gave me a parting injunction: "Better not go in the woods to-day, Ralph; it is too cold. Stay around home until we get back."</p>
 
 <p>But the desire to cut my usual two cords of wood possessed me, and as soon as they were out of sight I shouldered my ax and went across the fields to the woods, about a mile from the house.</p>
 
 <p>Stopping only long enough to eat a lunch at noon, I worked until my two cords were cut and neatly piled. Then, thinking to make a start on the next day's work, I felled a fair sized tree, which in its descent lodged against another. Not liking to leave the job half finished, I mounted the almost prostrate trunk to cut away a limb and let it down.</p>
 
-<p>A bole of the tree was forked about twenty feet from the ground, and one of the divisions of the fork would have to be cut asunder. A few blows of my ax, and the tree began to settle; but, as I was about to descend, the fork split, and the first joints of my left-hand fingers slid into the crack, so that for the moment I could not extricate them.</p>
+<p>A bole of the tree was forked about twenty feet from the ground, and one of the divisions of the fork would have to be cut asunder. A few blows of my ax, and the tree began to settle; but, as I was 
+
+<cb n="2"/>
+
+about to descend, the fork split, and the first joints of my left-hand fingers slid into the crack, so that for the moment I could not extricate them.</p>
 
 <p>The pressure was not severe, and, as I believed I could soon relieve myself by cutting away the remaining portion, I felt no alarm. But, at the first blow of the ax, which I held in my right hand, the trunk changed its position, rolling over and closing the split, with the whole force of its tough oaken fibers crushing my fingers. At the same time, my body was dislodged from the trunk, and I slid slowly down until I hung with my feet just resting on the snow.</p>
 
-<p>The sun was setting, and the short winter day would soon be done. The air was freezing and every moment becoming colder. No prospect of any relief that night. The nearest house was 'a mile away. No friends to feel alarmed at my absence, for my folks would suppose that I was safe at home.</p>
+<p>The sun was setting, and the short winter day would soon be done. The air was freezing and every moment becoming colder. No prospect of any relief that night. The nearest house was a mile away. No friends to feel alarmed at my absence, for my folks would suppose that I was safe at home.</p>
 
 <p>My first thought was of my mother: "It will kill her to know that I died in this death trap, all alone here in the woods so near home. There must be some escape; but how?"</p>
 
 <p>My ax had fallen below me, and my feet could almost touch it. My only hope of life rested on that keen blade which lay glittering on the snow.</p>
 
-<p>Within reach of my hand was a dead bush which towered some six feet above me, and by a great exertion of strength I managed to break it. Holding it between my teeth, I stripped it of its twigs, leaving two projecting a few inches at the lower end to form a hook. With this I managed to draw toward me the head of the ax until my fingers touched it—when it slipped from the hook and fell again upon the snow, breaking through the crust and burying itself so that only the upper end of the helve could be seen.</p>
+<p>Within reach of my hand was a dead bush which towered some six feet above me, and by a great exertion of strength I managed to break it. Holding it between my teeth, I stripped it of its twigs, leaving two projecting a few inches at the lower end to form a hook. With this I managed to draw toward me the head of the ax until my fingers touched it&#8212;when it slipped from the hook and fell again upon the snow, breaking through the crust and burying itself so that only the upper end of the helve could be seen.</p>
 
 <p>Up to that moment the excitement engendered by hope had almost made me unconscious of the excruciating pain in my crushed fingers, and the sharp thrills that shot through my nerves, as my body swung and twisted in my efforts to reach the ax. But now, as the ax fell beyond my reach, the reaction came. Hope fled, and I shuddered with the thought that I must die there alone like some wild thing caught in a snare.</p>
 
-<p>I thought of my father and mother, and of the pleasant home where I had always lived so comfortably and happily. I prayed earnestly to God for forgive-ness of my sins, and then calmly resigned myself to death, which I now believed to be inevitable.</p>
+<p>I thought of my father and mother, and of the pleasant home where I had always lived so comfortably and happily. I prayed earnestly to God for 
 
-<p>For a time, which was probably but a very few minutes, but which then seemed like hours, I hung there motionless. The pain had ceased, for the intense cold blunted my sense of feeling. A numbness stole over me, and I seemed to be falling into a trance, from which I was aroused by a sound of bells borne to me as if from a great distance. Hope again awoke, and I shouted loud and long. The woods echoed my cries, but no voice re-plied.</p>
+<cb n="3"/>
+
+forgiveness of my sins, and then calmly resigned myself to death, which I now believed to be inevitable.</p>
+
+<p>For a time, which was probably but a very few minutes, but which then seemed like hours, I hung there motionless. The pain had ceased, for the intense cold blunted my sense of feeling. A numbness stole over me, and I seemed to be falling into a trance, from which I was aroused by a sound of bells borne to me as if from a great distance. Hope again awoke, and I shouted loud and long. The woods echoed my cries, but no voice replied.</p>
 
 <p>The bells grew fainter and fainter, and at last died away.</p>
 
-<p>But the sound of my voice had broken the spell which cold and despair were fast throwing over inc. A hundred different devices ran swiftly through my mind, and each device was dismissed as impracticable.</p>
+<p>But the sound of my voice had broken the spell which cold and despair were fast throwing over me. A hundred different devices ran swiftly through my mind, and each device was dismissed as impracticable.</p>
 
-<p>The helve of the ax caught my eye; and instantly, by an association of ideas, it flashed across me that in my vest pocket there was a sharp knife, another Instru-ment by which I could extricate myself.</p>
+<p>The helve of the ax caught my eye; and instantly, by an association of ideas, it flashed across me that in my vest pocket there was a sharp knife, another instrument by which I could extricate myself.</p>
 
-<p>With some difficulty I contrived to open the blade, and then, gripping it as one who clings to the last hope of life, I strove to cut away the wood that held may fingers in its terrible vise. In vain! the wood was like iron. The motion of my arm and body brought back the pain which the cold had lulled, and I feared that I should faint.</p>
+<p>With some difficulty I contrived to open the blade, and then, gripping it as one who clings to the last hope of life, I strove to cut away the wood that held my fingers in its terrible vise. In vain! the wood was like iron. The motion of my arm and body brought back the pain which the cold had lulled, and I feared that I should faint.</p>
 
 <p>I became desperate, and after a moment's pause I adopted a last expedient. Nerving myself to the awful necessity, I cut off my fingers at the joints and fell to the snow exhausted.</p>
 
 <p>My life was saved, but my left hand was a bleeding stump.</p>
 
-<p>The intensity of the cold stopped the flow of blood, and with  my handkerchief I bound up my hand and started for the nearest neighbor's house. My complete exhaustion and the bitter cold made that the longest journey that I had ever traveled. By eight o'clock that evening I had managed to drag myself to their door, where I was well taken care of and a doctor summoned to dress my wounds.</p>
+<p>The intensity of the cold stopped the flow of blood, and with my handkerchief I bound up my hand and started for the nearest neighbor's house. My complete exhaustion and the bitter cold made that the longest journey that I had ever traveled. By eight o'clock that evening I had managed to drag myself to their door, where I was well taken care of and a doctor summoned to dress my wounds.</p>
 
-<p>My father and mother returned the next day; and I was carried home, being unable to walk, as both feet had been badly frost-bitten.	C. R. R.</p>
+<p>My father and mother returned the next day; and I was carried home, being unable to walk, as both feet had been badly frost-bitten.</p>	
 
-Not Reported at Headquarters
+<byline>C. R. R.</byline>
+</div1>
+<div1>
+<head type="sub">Not Reported at Headquarters</head>
 
-<p>WAS only about seventeen years old, and didn't consider it very brave at that time; but as 1 look back twenty-five years I consider it was quite a feat.</p>
+<p>I WAS only about seventeen years old, and didn't consider it very brave at that time; but as I look back twenty-five years I consider it was quite a feat.</p>
 
 <p>It happened while I was working as a freight brakeman on a line in New York State. Just as we tipped a grade and were moving at a pretty good clip, our train broke apart in three sections. There were two carloads of gunpowder in the middle section.</p>
 
@@ -169,19 +391,38 @@ Not Reported at Headquarters
 
 <p>Then I got down on the step of the locomotive and dropped off.</p>
 
-<p>As soon as I was off, the engineer pulled away down the hill like mad, to get away from the broken section of the train. When the middle section came along, I grabbed a side ladder. The cars were going so fast they nearly wrenched my</p>
+<p>As soon as I was off, the engineer pulled away down the hill like mad, to get away from the broken section of the train. When the middle section came along, I grabbed a side ladder. The cars were going so fast they nearly wrenched my </p>
 
-Continued on page 21
+<p><ref target="readers.19180420.jump">Continued on page 21</ref></p>
 
-"Had I lost my grip I should have been. crushed under the wheels and the cars would have run together."
+<figure n="illustration">
+<head></head>
+<ab n="credit"></ab>
+<p>"Had I lost my grip I should have been crushed under the wheels and the cars would have run together."</p>
+<figDesc></figDesc>
+</figure>
+</div1>
 
+</body>
+</text>
 
+<pb n="Page 6" xml:id="ew.issue.19180420.p006"/>
 
-CASHING IN
+<text type="fiction" xml:id="terhune.19180420">
+<body>
 
-By ALBERT PAYSON TERHUNE
+<head type="main">CASHING IN</head>
+<byline>By <persName type="author" key="#Terhune, Albert Payson">ALBERT PAYSON TERHUNE</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Mulford, Stockton">Stockton Mulford</persName></byline>
 
-Illustrations by Stockton Mulford
+<figure n="illustration">
+<head></head>
+<ab n="credit"></ab>
+<p>"Sonya poured forth her vitriolic grief upon her husband. She cursed him; the mother who bore him; his male ancestors, back to Rurik the Lawmaker."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
 
 <p>THE movies, a hybrid industry, have bred a hybrid race. They have transformed countless unpromising clerklings, and at least one dock-laborer, into leading men whose salaries eclipse John Barrymore's.</p>
 
@@ -189,53 +430,59 @@ Illustrations by Stockton Mulford
 
 <p>The same mystic power has lifted penniless immigrants to undreamed-of heights of finance.</p>
 
-<p>To Loris Grod this movie magic did more than to all the foregoing combined. Upon his thin-thatched head it dumped the whole bag of tricks—good and bad alike. And —because he was Loris Grod—he was neither smashed nor inflated by this avalanche. He merely hammered it all into a crown—which he wore a little on one side.</p>
+<p>To Loris Grod this movie magic did more than to all the foregoing combined. Upon his thin-thatched head it dumped the whole bag of tricks&#8212;good and bad alike. And&#8212;because he was Loris Grod&#8212;he was neither smashed nor inflated by this avalanche. He merely hammered it all into a crown&#8212;which he wore a little on one side.</p>
 
 <p>When Loris and Sonya, his wife, were passed through the immigration hopper and tossed ashore at the tip of the thin, feverish tongue that is Manhattan Island, all their joint effects were carried in one lumpy flour-sack and in Loris's right-hand trousers-pocket. The pocket contained forty-seven American dollars and a grease-grimed little pamphlet whose blurred Russian title might best be translated as "English at Sight."</p>
 
 <p>Loris was twenty-two. Sonya was ten years older. Like her husband's, her cheek-bones were high, her nose tended toward flatness, and her eyes slanted just a little. Unlike his, her forehead receded. She was thirty-two. Thanks to field work and scant food, Sonya looked forty-two.</p>
 
-<p>Before he had been in New York a year, Loris Grod had begun to climb—partly because there was no other direction -in which he could move, but chiefly because he was that kind of man.</p>
+<p>Before he had been in New York a year, Loris Grod had begun to climb&#8212;partly because there was no other direction in which he could move, but chiefly because he was that kind of man.</p>
 
 <p>Twelve years later he shook from him the lint of the one-room Division Street garment factory whose foreman and part-owner he had become; and he leased the ground floor of a condemned rattle-trap, far east on Fourteenth Street, which he turned into a motion-picture theater.</p>
 
-<p>The photo-play business was in its shambling and loud-mouthed boyhood, afflicted by quaintly grotesque growing pains. But from some Tartar forebear Loris had inherited the Mongolian dream-habit —along with his nose and cheek-bones and eyes. Hence his desertion of the garment trade and his braving of Sonya's shrill pro-tests at his madness.</p>
+<p>The photo-play business was in its shambling and loud-mouthed boyhood, afflicted by quaintly grotesque growing pains. But from some Tartar forebear Loris had inherited the Mongolian dream-habit&#8212;along with his nose and cheek-bones and eyes. Hence his desertion of the garment trade and his braving of Sonya's shrill protests at his madness.</p>
 
 <p>Yet presently, when a single week's profits at the nickelodeon were greater than three months' net gain from the Division Street garment factory, Sonya felt a change of heart. She began to look on Loris with something like approval.</p>
 
-<p>LORIS was growing rich. Already he had paid for all his theater's rickety fixtures; and every Monday he deposited in the savings bank a sum larger than once he had known was in circulation. He cast about for new worlds, to string on a chain with the one he was now conquering: a chain of nickelodeons—acquired, one theater at a time—all through the East Side.</p>
+<p>LORIS was growing rich. Already he had paid for all his theater's rickety fixtures; and every Monday he deposited in the savings bank a sum larger than once he had known was in circulation. He cast about for new worlds, to string on a chain with the one he was now conquering: a chain of nickelodeons&#8212;acquired, one theater at a time&#8212;all through the East Side.</p>
 
-<p>Loris was forever studying. Among other things, he had mastered—except in moments of dire stress—the mysteries of the English language. He was growing —growing rapidly.</p>
+<p>Loris was forever studying. Among other things, he had mastered&#8212;except in moments of dire stress&#8212;the mysteries of the English language. He was growing&#8212;growing rapidly.</p>
 
-<p>Then, with no shadow of warning,—to Loris, at least,--came the blow.</p>
+<cb n="2"/>
 
-<p>Old Jacob Corlaer, who owned the bulk of the block whereon stood the nickelodeon, died; and the estate was cut tip. The condemned building and some property on either side of it fell to the dead man's nephew, Royle Hunter: a Wall Streeter, a power in his own social sector, a financier of the lean gray type—gray of eyes, of hair, of clothes, of soul.</p>
+<p>Then, with no shadow of warning,&#8212;to Loris, at least,&#8212;came the blow.</p>
 
-<p>In due time a brisk and obese man called at the nickelodeon, just before the opening hour. He informed Loris—who was scouring the vestibule while Sonya dusted the wabbly seats—that on the expiring of the lease, five weeks hence, the Grods must clear out. The building was to come down.</p>
+<p>Old Jacob Corlaer, who owned the bulk of the block whereon stood the nickelodeon, died; and the estate was cut up. The condemned building and some property on either side of it fell to the dead man's nephew, Royle Hunter: a Wall Streeter, a power in his own social sector, a financier of the lean gray type&#8212;gray of eyes, of hair, of clothes, of soul.</p>
+
+<p>In due time a brisk and obese man called at the nickelodeon, just before the opening hour. He informed Loris&#8212;who was scouring the vestibule while Sonya dusted the wabbly seats&#8212;that on the expiring of the lease, five weeks hence, the Grods must clear out. The building was to come down.</p>
 
 <p>For a whole half minute Loris stood, mouth ajar and back slumped, while the agent recited the death sentence of his hopes. Then he began to talk, in a broken English he thought he had forgotten, while Sonya scuttled forth from the black maw of the theater and added tearful screams and four-syllable Russian lamentations to the din.</p>
 
-<p>The agent cut short the noisy duet by saying, as he stuck a paper into Loris's pitifully gesticulating hand and backed away out of die scene:</p>
+<p>The agent cut short the noisy duet by saying, as he stuck a paper into Loris's pitifully gesticulating hand and backed away out of the scene:</p>
 
-<p>"Owner's orders. I'm sorry. See Mr. Hunter if you think it'll help you any--Royle Hunter, 999 Wall Street, he is."</p>
+<p>"Owner's orders. I'm sorry. See Mr. Hunter if you think it'll help you any&#8212;
+
+<cb n="3"/>
+
+Royle Hunter, 999 Wall Street, he is."</p>
 
 <p>Dodging Loris's hands, that waved hypnotically in the visitor's very face, and ducking an effort of the loud-weeping Sonya to hurl herself at his feet, the agent vanished.</p>
 
-<p>SONYA disregarded the momentarily in the vestibule, and poured forth the vials of her vitriolic grief upon her stricken husband. She cursed him; the mother who bore him; his unknown male ancestors, back to Rurik the Lawmaker; his equally unknown female ancestors, back to the Flood. She cursed him for dragging her across seas to this doubly accursed country, for giving up their happy sweat-shop, for embarking on an enterprise too perilously great for his gnat-brain.</p>
+<p>SONYA disregarded the momentarily swelling "gallery" in the vestibule, and poured forth the vials of her vitriolic grief upon her stricken husband. She cursed him; the mother who bore him; his unknown male ancestors, back to Rurik the Lawmaker; his equally unknown female ancestors, back to the Flood. She cursed him for dragging her across seas to this doubly accursed country, for giving up their happy sweat-shop, for embarking on an enterprise too perilously great for his gnat-brain.</p>
 
 <p>Then she passed from objurgation into a faint. After which she trotted quickly around to the cashier's window to receive the nickels of the day's first patrons.</p>
 
-<p>As her tirade had been delivered in voluble Russian,—in Moscow dialect, at that,—the avidly interested crowd at the entrance had not gleaned the full benefit of it. But Loris had. And—inured as he was to Sonya's tongue lashings—it seared him to the mar-row.</p>
+<p>As her tirade had been delivered in voluble Russian,&#8212;in Moscow dialect, at that,&#8212;the avidly interested crowd at the entrance had not gleaned the full benefit of it. But Loris had. And&#8212;inured as he was to Sonya's tongue-lashings&#8212;it seared him to the marrow.</p>
 
-<p>There must be a way to retrieve what the agent's decree had cost him. His dazed mind began to work again.</p>
+<p>There <hi rend="italic">must</hi> be a way to retrieve what the agent's decree had cost him. His dazed mind began to work again.</p>
 
 <p>Bitterly he went over in his mind the agent's visit. When his rehearsal brought to memory the words, "Royle Hunter, 999 Wall Street," his idea was born.</p>
 
 <p>He delayed the starting of the day's initial show for nearly half an hour while he wrote and then rewrote and wrote again the following epistle:</p>
 
-<p>Mr. Royle Hunter, 999 Wall Street.</p>
+<l>Mr. Royle Hunter, 999 Wall Street.</l>
 
-<p>Respected Sir:</p>
+<l><hi rend="italic">Respected Sir:</hi></l>
 
 <p>I am Loris Grod, who proprietors the moving-pictures at 8756 East Fourteenth Street. It is a small business, but it is my everything. It gives bread to me and to my aged wife. Without it, we are as the beggars at the gate.</p>
 
@@ -243,35 +490,39 @@ Illustrations by Stockton Mulford
 
 <p>Your servant tells me that you design to tear this house to the ground. If you do so cruel a deed, you will tear my happiness and my livelihood to the ground with it. I beg you to take back that order and to let this house stand, and my business with it.</p>
 
-<p>That you may not suffer from your goodness to a poor man, I will pay you five dollars more each month in rent than now I pay. I can ill afford it. But I can more ill afford to he destitute. Have pity and let stand this house, Respected Sir. And the Most High shall bless you and your dear ones.</p>
+<p>That you may not suffer from your goodness to a poor man, I will pay you five dollars more each month in rent than now I pay. I can ill afford it. But I can more ill afford to be destitute. Have pity and let stand this house, Respected Sir. And the Most High shall bless you and your dear ones.</p>
 
-<p>Your servant, LORIS Grod.</p>
+<l>Your servant, LORIS GROD.</l>
 
-<p>His mind still agitated as he wrote, Loris lapsed more than once from the carefully stilted English diction he had been at such pains to learn. But, thanks to the pocket dictionary on his single book-shelf, even the longest word was not misspelled—as Royle Hunter's yawning secretary might have noted with approval had not that functionary waste-basketed the appeal after reading the first three sprawly lines.</p>
+<p>His mind still agitated as he wrote, Loris lapsed more than once from the carefully stilted English diction he had been at such pains to learn. But, thanks to the pocket dictionary on his single book-shelf, even the longest word was not misspelled&#8212;as Royle Hunter's yawning secretary might have noted with approval had not that functionary waste-basketed the appeal after reading the first three sprawly lines.</p>
 
-<p>A week sagged by—a week punctuated by Sonya's railings and tears. A week in which her husband made life a horror for the postman. On the morning of the eighth day Loris attired himself in the garb he wore on his hi-weekly attendance at St. Mary's Russian Orthodox Church in East Fourteenth Street.</p>
+<p>A week sagged by&#8212;a week punctuated by Sonya's railings and tears. A week in which her husband made life a horror for 
 
-<p>The frock-coat was not shiny enough for vaudeville use, and it fitted Loris's stock body reasonably well—for a hand-me-down. The felt hat was clean-brushed and still retained much of its nap. The low collar was not too loose nor too tight. The tie was black and almost new. Loris wore his clothes well. He had an innate taste in dress—a taste thus far unbacked by knowledge or money.</p>
+<cb n="4"/>
 
-<p>So, when he bowed himself into the ante-room of Royle Hunter's compact little suite of offices, he might have been almost any one—except a man to be thrown out on sight.</p>
+the postman. On the morning of the eighth day Loris attired himself in the garb he wore on his bi-weekly attendance at St. Mary's Russian Orthodox Church in East Fourteenth Street.</p>
 
-<p>"I wish to speak with Mr. Royle Hun-ter, if you please," he told the office-boy.</p>
+<p>The frock-coat was not shiny enough for vaudeville use, and it fitted Loris's stock body reasonably well&#8212;for a hand-me-down. The felt hat was clean-brushed and still retained much of its nap. The low collar was not too loose nor too tight. The tie was black and almost new. Loris wore his clothes well. He had an innate taste in dress&#8212;a taste thus far unbacked by knowledge or money.</p>
+
+<p>So, when he bowed himself into the anteroom of Royle Hunter's compact little suite of offices, he might have been almost any one&#8212;except a man to be thrown out on sight.</p>
+
+<p>"I wish to speak with Mr. Royle Hunter, if you please," he told the office-boy.</p>
 
 <p>"Got an appointment?" grunted the boy, at once despising and suspecting a man who wasted such a wealth of humble courtesy on him.</p>
 
 <p>"I am his tenant," continued Loris, "whose letter he has read. I wish to speak with him. I am Loris Grod. Take him my name, if you please."</p>
 
-<p>The boy nonchalantly shoved toward him a block of printed slips with dotted lines after the words Name and Business.</p>
+<p>The boy nonchalantly shoved toward him a block of printed slips with dotted lines after the words <hi rend="italic">Name</hi> and <hi rend="italic">Business</hi>.</p>
 
-<p>Loris wrote his name on the topmost bit of paper. Pausing a moment to stare at the printed word Business, he wrote after it:</p>
+<p>Loris wrote his name on the topmost bit of paper. Pausing a moment to stare at the printed word <hi rend="italic">Business</hi>, he wrote after it:</p>
 
 <p>"About the letter I wrote, begging you not to tear down the house at 8756 East Fourteenth Street."</p>
 
-<p>The boy loafed into an inner office whose ground-glass door had on it no legend at all. Loris, peering eagerly after the messenger, had a flashed glimpse of a small room whose severe good taste appealed instinctively to him. At a flat-top desk was sitting a man in gray. Loris saw the man for barely a second as the boy went in, closing the door behind him—and for perhaps less than a second as the boy came out, closing it again.</p>
+<p>The boy loafed into an inner office whose ground-glass door had on it no legend at all. Loris, peering eagerly after the messenger, had a flashed glimpse of a small room whose severe good taste appealed instinctively to him. At a flat-top desk was sitting a man in gray. Loris saw the man for barely a second as the boy went in, closing the door behind him&#8212;and for perhaps less than a second as the boy came out, closing it again.</p>
 
-<p>"Mr. Hunter can't see you," reported die lad. "G'-by."</p>
+<p>"Mr. Hunter can't see you," reported the lad. "G'-by."</p>
 
-<p>"But he must see me. It is necessary. Ask him again. Tell him I—"</p>
+<p>"But he <hi rend="italic">must</hi> see me. It is necessary. Ask him again. Tell him I&#8212;"</p>
 
 <p>"Nothing doing," answered the boy. "He won't see you. Better get out."</p>
 
@@ -279,35 +530,35 @@ Illustrations by Stockton Mulford
 
 <p>"What's this chicken feed for?" snapped the youth.</p>
 
-<p>"It is yours," said Loris. "Now will you please ask Mr. Royle Hunter—?"</p>
+<p>"It is yours," said Loris. "<hi rend="italic">Now</hi> will you please ask Mr. Royle Hunter&#8212;?"</p>
 
-<p>"I'll ask the special cop instead," re-turned the boy, in a temper, reaching for the telephone with one hand, while with the other he tossed the five-cent piece contemptuously to the floor. "I'll rustle him up here in just three seconds, if you don't get out. Git!"</p>
+<p>"I'll ask the special cop instead," returned the boy, in a temper, reaching for the telephone with one hand, while with the other he tossed the five-cent piece contemptuously to the floor. "I'll rustle him up here in just three seconds, if you don't get out. Git!"</p>
 
-<p>Loris, at the tone of authority, gave up hope. Sighing, he retrieved the discarded bribe from the floor, and pattered out. But in the elevator, on the way earth-ward, a dogged resolve crept over him.</p>
+<p>Loris, at the tone of authority, gave up hope. Sighing, he retrieved the discarded bribe from the floor, and pattered out. But in the elevator, on the way earthward, a dogged resolve crept over him.</p>
 
 <p>HE STEPPED out of the elevator, and took up his station at a pillar hard by. And there, with all the bovine patience bred of a thousand Russian peasant ancestors, he waited.</p>
 
 <p>At one o'clock the man in gray emerged from the elevator and started lunchward. With him were two other men.</p>
 
-<p>Before they had taken a dozen steps, Loris Grod was skittering. and side-step-ping apologetically in front of them, with timorous persistence trying to bar their advance.</p>
+<p>Before they had taken a dozen steps, Loris Grod was skittering. and side-stepping apologetically in front of them, with timorous persistence trying to bar their advance.</p>
 
 <p>"Mr. Royle Hunter. Please!" he said, smiling deprecatingly up at the man in gray. "Please."</p>
 
-<p>The trio came to a shuffling halt. Hun-ter looked down at the excited stranger who had spoken to him. A single quizzical glance told him the fellow was no one with whom he could possibly have any business. Grod's next sentence tabulated him in Hunter's mind as a crank.</p>
+<p>The trio came to a shuffling halt. Hunter looked down at the excited stranger who had spoken to him. A single quizzical glance told him the fellow was no one with whom he could possibly have any business. Grod's next sentence tabulated him in Hunter's mind as a crank.</p>
 
-<p>"Please, sir," implored Loris, "please do not tear down my theater. It will ruin me. I said so in the letter. It will be so</p>
+<p>"Please, sir," implored Loris, "please do not tear down my theater. It will ruin me. I said so in the letter. It will be so 
 
-"Sonya poured forth her vitriolic grief upon her husband. She cursed him; the mother who bore him; his male ancestors, back to Rurik the Lawmaker."
+<pb n="Page 7" xml:id="ew.issue.19180420.p007"/>
 
+<cb n="1"/>
 
-
-<p>little to you to let it stand. To me it is everything on earth. For the love of my mother and of yours—"</p>
+little to you to let it stand. To me it is everything on earth. For the love of my mother and of yours"</p>
 
 <p>He got no further. With a shrug of very evident disgust, the fastidious Hunter eluded the none too clean fingers that were trying so conciliatingly to pat his gray coat-sleeve. One of the other men laughed. Hunter hated ridicule. He brushed by Loris and moved on.</p>
 
 <p>But this time Loris's fingers found their hold. Self-consciousness lost in the terror of his overlord's escape, he clasped Hunter's coat-sleeve, almost fiercely exclaiming:</p>
 
-<p>"For God's sake, Mr. Royle Hunter, listen to me! For God's sake, sir! It means so much to me. I—"</p>
+<p>"For God's sake, Mr. Royle Hunter, listen to me! For God's sake, sir! It means so much to me. I"</p>
 
 <p>Several people had paused in curiosity and were watching. The building's big special policeman sauntered up.</p>
 
@@ -317,31 +568,31 @@ Illustrations by Stockton Mulford
 
 <p>As he spoke, he collared Loris and gave his neck a practised wrench that well-nigh cut off the Russian's air supply.</p>
 
-<p>"I'm not a 'greasy idiot'!" gurgled Loris, fighting for breath. "I'm a business man. I'm not a crank. I came here to—"</p>
+<p>"I'm not a 'greasy idiot'!" gurgled Loris, fighting for breath. "I'm a business man. I'm not a crank. I came here to"</p>
 
 <p>"Shut up!" snarled the officer, throwing more power into the twist.</p>
 
 <p>Then Loris Grod went quite mad. By sheer strength he tore free, leaving his tie and a shredded strip of his coat-collar in the policeman's hands. Flinging himself at the departing Hunter and fighting like an angry cat against the combined restraint of the special officer and the elevator starter, he screeched:</p>
 
-<p>"I'll make you do me justice, you gray-faced iceberg, you! I'll make you! I'll get my rights! I'll cash in! A 'greasy idiot,' am I! I'll cash in on you, you—"</p>
+<p>"I'll make you do me justice, you gray-faced iceberg, you! I'll make you! I'll get my rights! I'll cash in! A 'greasy idiot,' am I! I'll cash in on you, you"</p>
 
 <p>English failed him, and a torrent of lurid Russian came to his aid. He howled it, at the top of his sob-choked lungs, all the way to the police station.</p>
 
-<p>IT was another six months' work—accompanied companied by hunger and by the scourgings of Sonya's tongue—for Loris to establish a paying nickelodeon in a more congested quarter of the East Side. But after that everything was easy. The photo-play industry began its upward surge, and Loris Grod was swept along on the wave-crest. His chain of motion-picture houses swiftly passed from dream to golden reality.</p>
+<p>IT was another six months' workaccompanied companied by hunger and by the scourgings of Sonya's tonguefor Loris to establish a paying nickelodeon in a more congested quarter of the East Side. But after that everything was easy. The photo-play industry began its upward surge, and Loris Grod was swept along on the wave-crest. His chain of motion-picture houses swiftly passed from dream to golden reality.</p>
 
-<p>There was an odd change in the man—since his interview with Hunter. He had lost his old-time meekly admiring civility toward everything American. His single experience with a representative of millionairedom had left him with a deathless hate for the man and for his class.</p>
+<p>There was an odd change in the mansince his interview with Hunter. He had lost his old-time meekly admiring civility toward everything American. His single experience with a representative of millionairedom had left him with a deathless hate for the man and for his class.</p>
 
-<p>Ten years from the day he was hauled screeching from the presence of Royle Hunter, the Russian was the king-pin--the president—the only visible stockholder—of the Valencia Film Corporation: one of the most successful motion-picture houses in America. The road from sweat-shop to financial rulership, along the movie route, had been a new one and strange. But Loris had not traveled it alone. He had had plenty of company in the mush-room horde of movie millionaires that sprang up in a decade.</p>
+<p>Ten years from the day he was hauled screeching from the presence of Royle Hunter, the Russian was the king-pin--the presidentthe only visible stockholderof the Valencia Film Corporation: one of the most successful motion-picture houses in America. The road from sweat-shop to financial rulership, along the movie route, had been a new one and strange. But Loris had not traveled it alone. He had had plenty of company in the mush-room horde of movie millionaires that sprang up in a decade.</p>
 
 <p>America was movie-mad. From a shoe-string catch-penny, the new-born industry had shouldered its way to a height barely lower than the pinnacles of steel and of railroads and of motor-cars. And Loris Grod was one of the mightiest men in the mighty and amorphous young realm of cinema.</p>
 
 <p>But he was no longer Loris Grod. He had Americanized his name as well as all else about him. "Grod" being the Moscow dialect word for "town" or "city," a non-publicity act of law had changed Loris's cognomen to "Towne," and at the same time altered "Loris" to "Louis."</p>
 
-<p>Sonya—the only person who objected to the change—had obligingly died about the time when her spouse amassed his first million. So, to all intents, Loris Grod no longer existed. Louis Towne reigned in his stead.</p>
+<p>Sonyathe only person who objected to the changehad obligingly died about the time when her spouse amassed his first million. So, to all intents, Loris Grod no longer existed. Louis Towne reigned in his stead.</p>
 
-<p>WHILE some of his fellow mushroom magnates were disporting themselves in their new wealth like boys in a swimming pool, Loris lived almost as an ascetic. He did not wear a scrap of jewelry. The best artist-tailor in America was under contract to furnish him with twenty business suits a year, at a cost, each, that exceeded Loris's yearly sweat-shop savings—suits so perfect in fit and cut and material that no one gave them a second glance.</p>
+<p>WHILE some of his fellow mushroom magnates were disporting themselves in their new wealth like boys in a swimming pool, Loris lived almost as an ascetic. He did not wear a scrap of jewelry. The best artist-tailor in America was under contract to furnish him with twenty business suits a year, at a cost, each, that exceeded Loris's yearly sweat-shop savingssuits so perfect in fit and cut and material that no one gave them a second glance.</p>
 
-<p>In his bare workshop of an office, high up in the block-wide Valencia Film Building, sat Loris for anywhere from eight to twenty hours a day, dextrously moving the strings which kept a thousand manikins dancing. He supervised in person every important detail of his giant business—from the opening of a new "territory" to the final choice of actor-material.</p>
+<p>In his bare workshop of an office, high up in the block-wide Valencia Film Building, sat Loris for anywhere from eight to twenty hours a day, dextrously moving the strings which kept a thousand manikins dancing. He supervised in person every important detail of his giant businessfrom the opening of a new "territory" to the final choice of actor-material.</p>
 
 <p>It was this question of actors that caused him most trouble; and it was to his choice of actors that he owed a great measure of his artistic success. He read and passed upon and revised every Valencia scenario of five reels or more. He chose the cast for each production. And the result was easily seen in the completed pictures and in the box-office proceeds.</p>
 
@@ -361,11 +612,11 @@ Illustrations by Stockton Mulford
 
 <p>"You found her three times before, I think," commented Loris. "Not once did you find what I wanted. Who is she, this time? Another restaurant-cashier whom you have coached to enter a room gracefully?"</p>
 
-<p>"No, sir," hastily denied Croyden—adding, in loud self-defense: "And the last one wasn't a cashier, either. Her people—"</p>
+<p>"No, sir," hastily denied Croydenadding, in loud self-defense: "And the last one wasn't a cashier, either. Her people"</p>
 
 <p>"Never mind the last one," cut in Loris wearily. "If I remember, she claimed to be very young and to belong to an old family. She got the facts reversed; that was all. And the one before that was so well bred that she said 'Pleased to meet you, sir,' when you brought her here."</p>
 
-<p>"But—"</p>
+<p>"But"</p>
 
 <p>" Before you risk another failure," pursued Loris, unheeding, "let me remind you, for the fourth time, just what I want. Then, if this newest candidate doesn't fill every single requirement for the part, you can save my time by not bringing her to see me. Lady Molly is an ingenue. Her father is an earl. That does not mean that the girl should try to be dignified, but that she should be gloriously natural. Lady Molly's breeding is so much a part of her-self that she never notices it. (For one thing, she doesn't say 'Pleased to meet you.') She needn't have manners, but she must have manner. Now, do you want to look further?"</p>
 
@@ -379,7 +630,7 @@ Illustrations by Stockton Mulford
 
 <p>"Financial reverses?" asked Loris.</p>
 
-<p>"Not exactly. Though I believe her father has lost a fairish bit of cash this past year. Here's the idea: Dad's heart is all tied up in the girl,—she's the only child,—but he's too busy downtown to see much of her. Mama is too much interested in her beloved Civic League to waste much time at home. So the girl has more of her own way than she really needs. And can you blame her for running in debt at bridge? Well, that's what she's done. She's afraid to go to her parents for cash, because they scolded her good and plenty last time she overdrew her allowance, and they threatened to cut it down to the bone if she ran in debt again."</p>
+<p>"Not exactly. Though I believe her father has lost a fairish bit of cash this past year. Here's the idea: Dad's heart is all tied up in the girl,she's the only child,but he's too busy downtown to see much of her. Mama is too much interested in her beloved Civic League to waste much time at home. So the girl has more of her own way than she really needs. And can you blame her for running in debt at bridge? Well, that's what she's done. She's afraid to go to her parents for cash, because they scolded her good and plenty last time she overdrew her allowance, and they threatened to cut it down to the bone if she ran in debt again."</p>
 
 <p>"They let her gamble?"</p>
 
@@ -387,7 +638,7 @@ Illustrations by Stockton Mulford
 
 <p>"H'm!"</p>
 
-<p>"I met her at the Ritz this afternoon," continued the scout. "She got to talking about her debts. The poor kid actually cried. Then it just struck me—she'd be perfect for Lady Molly. I was scared stiff to suggest it. But I needn't have been.  She jumped at the chance. I told her the same old wheeze—that nobody'd ever recognize her on the screen, and, if any</p>
+<p>"I met her at the Ritz this afternoon," continued the scout. "She got to talking about her debts. The poor kid actually cried. Then it just struck meshe'd be perfect for Lady Molly. I was scared stiff to suggest it. But I needn't have been.  She jumped at the chance. I told her the same old wheezethat nobody'd ever recognize her on the screen, and, if any</p>
 
 Continued on page 19
 
@@ -429,7 +680,7 @@ Driving Over Shell-Holes in the Dark
 
 <p>But what were the ambulance men to do? It didn't take them long to decide.</p>
 
-<p>First they unhitched the dead horses, and dragged them off the road—no easy or quick job. There was no time to do a like service for the comatose animals; so, digging their pocket-knives into the beasts' flanks, they got them to move out of the way. That done, they proceeded to hitch the battery to their own cars; and so, moving slowly, but as it happened safely, along the road, they got themselves and the guns into place.</p>
+<p>First they unhitched the dead horses, and dragged them off the roadno easy or quick job. There was no time to do a like service for the comatose animals; so, digging their pocket-knives into the beasts' flanks, they got them to move out of the way. That done, they proceeded to hitch the battery to their own cars; and so, moving slowly, but as it happened safely, along the road, they got themselves and the guns into place.</p>
 
 <p>And the French government gave each of them a Croix de Guerre, six of them in all being decorated.</p>
 
@@ -437,7 +688,7 @@ Driving Over Shell-Holes in the Dark
 
 Working Double Time
 
-<p>THERE was a time, at Verdun, when the firing was so heavy that it was al-most impossible to get supplies up to the front line. One wagon after another was bowled over on the way. Things were reaching a crisis, when the ambulance men came to the rescue—but not the men, naturally, who were on duty at the time. For tell hours these chaps who should have been resting carried loads of food-stuffs to the trenches. That clone, they carried the wounded out of danger, and, their time for this work being up, they went back to the other. For two days they kept at it, alternating their jobs. I don't know how many were wounded in the process, but the casualties must have been heavy.</p>
+<p>THERE was a time, at Verdun, when the firing was so heavy that it was al-most impossible to get supplies up to the front line. One wagon after another was bowled over on the way. Things were reaching a crisis, when the ambulance men came to the rescuebut not the men, naturally, who were on duty at the time. For tell hours these chaps who should have been resting carried loads of food-stuffs to the trenches. That clone, they carried the wounded out of danger, and, their time for this work being up, they went back to the other. For two days they kept at it, alternating their jobs. I don't know how many were wounded in the process, but the casualties must have been heavy.</p>
 
 <p>You don't hear much of the courage of the ambulance man, for his duty is to be a helper, not a hero. But I can tell one incident that came under my notice illustrating the devotion that these men bring to their work. It was a Britisher who distinguished himself here.</p>
 
@@ -461,7 +712,7 @@ A BURIAL SERVICE FOR A SOLDIER
 
 <p>IT was during those terrible, glorious days after the overseas divisions from Canada had flung themselves into the gap in the French front line and blocked the advance of the Huns to Calais.</p>
 
-<p>Two of my friends had been buried out in the front one night with two other officers—all in the one shell-hole [writes Colonel George G. Nasmith in On the Fringe of the Great Fight, McClelland, Goodchild & Stewart]. The medical officer, Captain Haywood, conducted the burial without candle or book. The green-white light from the German flares and the red flashes of the guns were the only light to show the sad little party where their erstwhile comrades rested. The lay parson, exhausted by seventy hours' continuous work, and unable to recall a single word of the burial service, broke huskily into this rugged commendation: "Well, boys, they were four damn good fellows; let us repeat the Lord's Prayer."</p>
+<p>Two of my friends had been buried out in the front one night with two other officersall in the one shell-hole [writes Colonel George G. Nasmith in On the Fringe of the Great Fight, McClelland, Goodchild & Stewart]. The medical officer, Captain Haywood, conducted the burial without candle or book. The green-white light from the German flares and the red flashes of the guns were the only light to show the sad little party where their erstwhile comrades rested. The lay parson, exhausted by seventy hours' continuous work, and unable to recall a single word of the burial service, broke huskily into this rugged commendation: "Well, boys, they were four damn good fellows; let us repeat the Lord's Prayer."</p>
 
 <p>What a setting for a soldier funeral! The black night, the roar and flash of the guns, and the green flare of the German star shells silhouetting those bowed heads above the soldiers' grave.</p>
 
@@ -485,7 +736,7 @@ By Grace Fallow Norton
 
 <p>Except for something in the air,</p>
 
-<p>Except for the weeping of the ruddy old women of Finistère.</p>
+<p>Except for the weeping of the ruddy old women of Finistre.</p>
 
 <p>The younger women do not weep. They dream and stare.</p>
 
@@ -509,7 +760,7 @@ By Grace Fallow Norton
 
 <p>Except for something, something in the air,</p>
 
-<p>Except for the weeping of the wild old women of Finistère.</p>
+<p>Except for the weeping of the wild old women of Finistre.</p>
 
 <p>How long will the others dream and stare?</p>
 
@@ -523,7 +774,7 @@ Photograph by Central News Photo Service
 
 WHAT SOLDIERS FACE IN MESOPOTAMIA
 
-<p>THE soldiers in Mesopotamia have had other things to face than Turks and Germans and Arabs. They have had to face heat, worse than all these, an enemy which soldiers refuse to respect and guard against—until suddenly, one day, it kills them.</p>
+<p>THE soldiers in Mesopotamia have had other things to face than Turks and Germans and Arabs. They have had to face heat, worse than all these, an enemy which soldiers refuse to respect and guard againstuntil suddenly, one day, it kills them.</p>
 
 <p>Martin Swayne, an English surgeon, in his book In Mesopotamia (George H. Doran Company), describes the awful days that take their toll of northern lives in the country fondly believed to have been the Garden of Eden.</p>
 
@@ -553,7 +804,7 @@ OUGHT WE TO HATE THE GERMANS?
 
 <p>"Then followed the U-boat outlawry, the poison gas, and the shooting of Edith Cavell, strengthening all the time the determination of free peoples that a nation which could do such things must not be allowed to conquer.</p>
 
-<p>"So it is apparent that Germany's psychological policy was based on wrong premises; frightful acts did not terrify—they outraged."</p>
+<p>"So it is apparent that Germany's psychological policy was based on wrong premises; frightful acts did not terrifythey outraged."</p>
 
 BRINGING HOME THEIR DEAD
 
@@ -565,13 +816,13 @@ RED TAPE
 
 <p>Dear Sir:</p>
 
-<p>During the last week in December I was riding toward my home on one of the Maine Central trains. Near the forward end of the car I noticed two seats occupied by a young man in uniform, and I made my way up the aisle and sat down beside him. I learned that he was a member of one of the Scottish Canadian regiments. His sleeve told a story with its two upright short gold stripes —wounded twice; and besides this he had been gassed once. His regiment went to the front in 1914. He said, "I've been lucky." He did not smile when saying it. The last time he was wounded, a shrapnel burst close to him and shattered one leg, but through their wonderful surgery the doctors had saved him the use of it, though he was yet using canes. The first time he was wounded he had part of his left ear blown away, and scalp wounds. These were all wonderfully re-paired by grafting.</p>
+<p>During the last week in December I was riding toward my home on one of the Maine Central trains. Near the forward end of the car I noticed two seats occupied by a young man in uniform, and I made my way up the aisle and sat down beside him. I learned that he was a member of one of the Scottish Canadian regiments. His sleeve told a story with its two upright short gold stripes wounded twice; and besides this he had been gassed once. His regiment went to the front in 1914. He said, "I've been lucky." He did not smile when saying it. The last time he was wounded, a shrapnel burst close to him and shattered one leg, but through their wonderful surgery the doctors had saved him the use of it, though he was yet using canes. The first time he was wounded he had part of his left ear blown away, and scalp wounds. These were all wonderfully re-paired by grafting.</p>
 
-<p>Now—I am going to speak of a thing that affected me. Here was a boy of twenty-four, one of our Maine boys, clean-cut of features and clean of speech, with a pleasant face made prematurely old by the terrors passed through,—one who had helped to withstand the worst onslaughts of our enemies,—sitting there alone, unnoticed.</p>
+<p>NowI am going to speak of a thing that affected me. Here was a boy of twenty-four, one of our Maine boys, clean-cut of features and clean of speech, with a pleasant face made prematurely old by the terrors passed through,one who had helped to withstand the worst onslaughts of our enemies,sitting there alone, unnoticed.</p>
 
 <p>We had the same destination, and I felt a great joy in doing any favor that I could for him. I assisted him from the train and saw him comfortably situated in the hotel. Before I left I made arrangements to go to the hospital with him the next morning, and then to see him off on the train.</p>
 
-<p>We allowed an hour and a half before train-time to go to the hospital and have a simple surgical dressing put upon his leg. The hospital was only ten minutes away. It was well that we allowed plenty of time—we had to wait while a scrubwoman brought a nurse, and the nurse brought the head nurse, who gave the ultimate verdict that this simple dressing—taking approximately five minutes to apply—could not be done unless he entered a ward and became a patient. Wherever he had been in France or England, and in Canada the same, any hospital, public or private, would quickly, gladly, and freely do the service. He and I left the hospital, he with lessened regard for the service and hospitality of his mother land, and I thoroughly ashamed; for I had felt assured that one of our large State hospitals would welcome the chance to serve one of the boys who had done his "bit." We called upon a doctor, who quickly did the work, and, I am thankful to say, would accept no payment.</p>
+<p>We allowed an hour and a half before train-time to go to the hospital and have a simple surgical dressing put upon his leg. The hospital was only ten minutes away. It was well that we allowed plenty of timewe had to wait while a scrubwoman brought a nurse, and the nurse brought the head nurse, who gave the ultimate verdict that this simple dressingtaking approximately five minutes to applycould not be done unless he entered a ward and became a patient. Wherever he had been in France or England, and in Canada the same, any hospital, public or private, would quickly, gladly, and freely do the service. He and I left the hospital, he with lessened regard for the service and hospitality of his mother land, and I thoroughly ashamed; for I had felt assured that one of our large State hospitals would welcome the chance to serve one of the boys who had done his "bit." We called upon a doctor, who quickly did the work, and, I am thankful to say, would accept no payment.</p>
 
 <p>Let me add that the only comment this young soldier made as we came out of the hospital was: "They'll feel differently when they see the boys that they know come back."  M. B. O.</p>
 
@@ -604,27 +855,27 @@ Illustrations by Arthur William Brown
 
 "I was down on my knees doin' a buckin' bronco act, when there comes a gasp from the doorway."
 
-<p>I EXPECT a lot of people thought it about me; but the one who really registered the idea was Auntie. Trust her. For of course, with an event of this kind staged in the house, we couldn't expect to dodge a visit from the old girl. She came clear up from Miami—although, with so much trouble about through sleepers and everything, I kept tellin' Vee I was afraid she wouldn't think it worth while makin' the trip.</p>
+<p>I EXPECT a lot of people thought it about me; but the one who really registered the idea was Auntie. Trust her. For of course, with an event of this kind staged in the house, we couldn't expect to dodge a visit from the old girl. She came clear up from Miamialthough, with so much trouble about through sleepers and everything, I kept tellin' Vee I was afraid she wouldn't think it worth while makin' the trip.</p>
 
 <p>"How absurd, Torchy!" says Vee. "Not want to see baby? To be sure, she will."</p>
 
-<p>You see, Vee had the right hunch from the very first—about the importance of this new member of the fam'ly, I mean. She took it as a matter of course that everybody who'd ever known or heard of us would be anxious to rush in and gaze awe-struck and reverent at this remark-able addition we'd made to the population of Long Island. Something like that. She don't have to work up to it. Seems to come natural. Why, say, she'd sit by and listen without crackin' a smile to these regular gushers who laid it on so thick you'd 'most thought the youngster him-self would have turned over and run his tongue out at 'em.</p>
+<p>You see, Vee had the right hunch from the very firstabout the importance of this new member of the fam'ly, I mean. She took it as a matter of course that everybody who'd ever known or heard of us would be anxious to rush in and gaze awe-struck and reverent at this remark-able addition we'd made to the population of Long Island. Something like that. She don't have to work up to it. Seems to come natural. Why, say, she'd sit by and listen without crackin' a smile to these regular gushers who laid it on so thick you'd 'most thought the youngster him-self would have turned over and run his tongue out at 'em.</p>
 
 <p>"Oh, the dear, darling 'ittle cherub!" they'd squeal. "Isn't he simp-ly the most won-der-ful baby you ev-er saw?"</p>
 
 <p>And Vee would never blink an eye. In fact, she'd beam on 'em grateful, and re-peat to me afterwards what they'd said, like it was just a case of the vote bein' made unanimous, as she knew it was bound to be all along.</p>
 
-<p>Which wasn't a bit like any of the forty-seven varieties of Vee I thought I was so well acquainted with. No. I'll admit she'd shown whims and queer streaks now and then, and maybe a fault or so; but nothing that had anything to do with any tendency of the ego to stick its elbows out. Yet, when it comes to listenin' to flatterin' re-marks about our son and heir—well, no Broadway star readin' over what his press-agent had smuggled into the dramatic notes had anything on her. She couldn't have it handed to her too strong.</p>
+<p>Which wasn't a bit like any of the forty-seven varieties of Vee I thought I was so well acquainted with. No. I'll admit she'd shown whims and queer streaks now and then, and maybe a fault or so; but nothing that had anything to do with any tendency of the ego to stick its elbows out. Yet, when it comes to listenin' to flatterin' re-marks about our son and heirwell, no Broadway star readin' over what his press-agent had smuggled into the dramatic notes had anything on her. She couldn't have it handed to her too strong.</p>
 
-<p>AS for me, I guess I was in sort of a  daze there for a week or so. Gettin' to be a parent had been sprung on me so sudden that it was sort of confusin'. I couldn't let on to be a judge of babies myself. I don't know as I'd ever examined one real near to before, anyway —not such a new one as this.</p>
+<p>AS for me, I guess I was in sort of a  daze there for a week or so. Gettin' to be a parent had been sprung on me so sudden that it was sort of confusin'. I couldn't let on to be a judge of babies myself. I don't know as I'd ever examined one real near to before, anyway not such a new one as this.</p>
 
-<p>And, between me and you, when I did get a chance to size him up real close once, —they'd all gone out of the room and left me standin' by the crib,—I was kind of disappointed. Uh-huh. No use kiddin' yourself. I couldn't see a thing wonderful about him, or where he was much different from others I'd glanced at casual. Such a small party to have so much fuss made over! Why, one of his hands wasn't much bigger'n a cat's paw. And his face was so red and little and the nose so sketchy that it didn't seem likely he'd ever amount to much. Here he'd had more'n a week to grow in, and I couldn't notice any change at all.</p>
+<p>And, between me and you, when I did get a chance to size him up real close once, they'd all gone out of the room and left me standin' by the crib,I was kind of disappointed. Uh-huh. No use kiddin' yourself. I couldn't see a thing wonderful about him, or where he was much different from others I'd glanced at casual. Such a small party to have so much fuss made over! Why, one of his hands wasn't much bigger'n a cat's paw. And his face was so red and little and the nose so sketchy that it didn't seem likely he'd ever amount to much. Here he'd had more'n a week to grow in, and I couldn't notice any change at all.</p>
 
 <p>Not that I was nutty enough to report any such thoughts. Hardly. I felt kind of guilty at just havin' 'em in my head. How was it, I asked myself, that I couldn't stand around with my hands clasped and my eyes dimmed up, as a perfectly good parent should when he gazes at his first and only chee-ild? Wasn't I human?</p>
 
 <p>All the alibi I can put up is that I wasn't used to bein' a father. Ain't there some-thing in that? Just think, now. Why, I'd hardly got used to bein' married. Here, only a little over a year ago, I was floatin' around free and careless. And then, first thing I know, without any special coachin' in the act, I finds myself pushed out into the center of the stage with the spot-light on me, and I'm introduced as a daddy.</p>
 
-<p>The only thing I could do was try to make a noise like one. I didn't feel it, any more'n I felt like a stained-glass saint in a church window. And I didn't know the lines very well. But there was everybody watching,—Vee, and the nurse, and Madame Battou, and occasional callers,—so I proceeds to bluff it through the best I could.</p>
+<p>The only thing I could do was try to make a noise like one. I didn't feel it, any more'n I felt like a stained-glass saint in a church window. And I didn't know the lines very well. But there was everybody watching,Vee, and the nurse, and Madame Battou, and occasional callers,so I proceeds to bluff it through the best I could.</p>
 
 <p>MY merry little idea was to be familiar with the youngster, treat him as if he'd been a member of the fam'ly for a long time, and hide any embarrassin' feelin's I might have by addressin' him loud and joshin'. I expect it was kind of a poor performance, at that. But I seemed to be gettin' away with it, so I stuck to that line. Vee appears to take it all right, and, as nobody else gave me the call, I almost got to believe it was the real thing myself.</p>
 
@@ -636,15 +887,15 @@ Illustrations by Arthur William Brown
 
 <p>"May I ask," says she, "if this is your usual manner of greeting your offspring?"</p>
 
-<p>"Why," says I, "I—I expect it is."</p>
+<p>"Why," says I, "II expect it is."</p>
 
 <p>"Humph!" says she. "I might have known."</p>
 
-<p>"Now, Auntie," protests Vee, "you know very well that Torchy means—"</p>
+<p>"Now, Auntie," protests Vee, "you know very well that Torchy means"</p>
 
 <p>"Whatever he means or doesn't mean," breaks in Auntie, "I am sure he has an astonishing way of showing parental affection. Calling the child an `old scout,' a `young rough-houser'! It's shocking."</p>
 
-<p>"Sorry," says I; "hut I ain't takin' any lessons in polite baby talk yet. Maybe in time I could learn this ittums-tweetums stuff, but I doubt it. Always made me sick, that did; and one of the things Vee and I agreed on was that—"</p>
+<p>"Sorry," says I; "hut I ain't takin' any lessons in polite baby talk yet. Maybe in time I could learn this ittums-tweetums stuff, but I doubt it. Always made me sick, that did; and one of the things Vee and I agreed on was that"</p>
 
 <p>"Oh, very well," says Auntie. "I do not intend to interfere in any way."</p>
 
@@ -656,9 +907,9 @@ Illustrations by Arthur William Brown
 
 <p>"Really!" says she. "Are you never to realize, young man, that you are now sup-posed to be a husband and a father?"</p>
 
-<p>And, before I can shoot back a word, she's sailed on, her chin in the air and her mouth about as smilin' as a crack in a vinegar bottle. But she'd said it. She'd pushed it home, too. And the worst of it was, I couldn't deny that she had the goods on me. I might pass as a husband, if you didn't expect too much. But as for the rest—well, I knew I wasn't meetin' the specifications.</p>
+<p>And, before I can shoot back a word, she's sailed on, her chin in the air and her mouth about as smilin' as a crack in a vinegar bottle. But she'd said it. She'd pushed it home, too. And the worst of it was, I couldn't deny that she had the goods on me. I might pass as a husband, if you didn't expect too much. But as for the restwell, I knew I wasn't meetin' the specifications.</p>
 
-<p>The only model I could think of was them fond parent groups you see in the movie close-ups—mother on the right, father at the left, and Little Bright Eyes squeezed in between and bein' mauled affectionate. Had we ever indulged in any such family clinch? Not up to date. Why? Was it because I was a failure as a daddy? Looked so. And here was Auntie taxin' me with it. Would other folks find out, too?</p>
+<p>The only model I could think of was them fond parent groups you see in the movie close-upsmother on the right, father at the left, and Little Bright Eyes squeezed in between and bein' mauled affectionate. Had we ever indulged in any such family clinch? Not up to date. Why? Was it because I was a failure as a daddy? Looked so. And here was Auntie taxin' me with it. Would other folks find out, too?</p>
 
 <p>I BEGUN thinkin' over the way different ones had taken the news. Old Hickory, for instance. I was wearin' a wide grin and still feelin' sort of chesty when I broke into his private office and handed him the bulletin.</p>
 
@@ -666,7 +917,7 @@ Illustrations by Arthur William Brown
 
 <p>"Why not?" says I. "It's still being done, ain't it?"</p>
 
-<p>"Oh, I suppose so. Yes, yes," he goes on, starin' at me. "But somehow, young man, I can hardly think of you as—as--Well, congratulations, Torchy. You have frequently surprised me by rising to the occasion. Perhaps you will in this also."</p>
+<p>"Oh, I suppose so. Yes, yes," he goes on, starin' at me. "But somehow, young man, I can hardly think of you asas--Well, congratulations, Torchy. You have frequently surprised me by rising to the occasion. Perhaps you will in this also."</p>
 
 <p>"Thanks, Mr. Ellins," says I. "It's nice of you to cheer me up that way."</p>
 
@@ -688,7 +939,7 @@ Illustrations by Arthur William Brown
 
 <p>"Ah, what's usually in the next column?" says I. "It's a case of somebody bein' horn."</p>
 
-<p>"Why—why," says he, openin' his mouth, "you don't mean that—"</p>
+<p>"Whywhy," says he, openin' his mouth, "you don't mean that"</p>
 
 <p>"Uh-huh," says I, tryin' to look modest.</p>
 
@@ -698,7 +949,7 @@ Illustrations by Arthur William Brown
 
 <p>"Glad it amuses you," says I, startin' to move off.</p>
 
-<p>"Oh, come, old chap!" says he, followin' along. "Don't get crabby. What—what is it, anyway?"</p>
+<p>"Oh, come, old chap!" says he, followin' along. "Don't get crabby. Whatwhat is it, anyway?"</p>
 
 <p>It's a baby," says I. "Quite a young one. Now go laugh your fat head off, you human hyena."</p>
 
@@ -727,13 +978,13 @@ American Mutual Film Company
 
 <p>BELOW we glimpse how the cow-boy motif works out on the English stage. This is Miss Billie Carleton amusing the London Tommies on leave. At first glance it may seem as if the young lady should not have let herself get ruffled by such little things as bias bands of bengaline. But with the second glance criticism ceases.</p>
 
-© F. O. Hoppe
+ F. O. Hoppe
 
-<p>ARRIVING at length at this picture, we heave a sigh of relief. This represents about our own stage of sartorial development. It's a good, conservative model; and the lady crocheted it all herself, hat and everything. The skirt is neither long nor short ; same way with the sleeves, so it's sure to please every one. And worn over, say, a dainty little red mohajr slip—chic's the word (French).</p> 
+<p>ARRIVING at length at this picture, we heave a sigh of relief. This represents about our own stage of sartorial development. It's a good, conservative model; and the lady crocheted it all herself, hat and everything. The skirt is neither long nor short ; same way with the sleeves, so it's sure to please every one. And worn over, say, a dainty little red mohajr slipchic's the word (French).</p> 
 
-© Boston Photo News Company.
+ Boston Photo News Company.
 
-© E. O. Hoppe.
+ E. O. Hoppe.
 
 <p>IN a season when every one else is wearing furs, Gaby Deslys may be picked out in the crowd by her cape of feathers. Gaby is not one of those estimable ladies who are always able to make last year's shirtwaist dress do. She is not one to spend the long evenings shirring fresh organdie on last winter's suit.</p>
 
@@ -741,7 +992,7 @@ American Mutual Film Company
 
 REGULAR
 
-<p>INTRODUCING Professor George H. Corsan of the University of Toronto, who has taught so many people to swim that if they were all lined up—well, any-how, there are about 250.-017 of them. In the summer he conducts Y. M. C. A. swimming classes, and by the time this appears he will probably be showing the Australian crawl to all United States soldiers and sailors (and nurses) about to enter the deep cold danger zone.</p>
+<p>INTRODUCING Professor George H. Corsan of the University of Toronto, who has taught so many people to swim that if they were all lined upwell, any-how, there are about 250.-017 of them. In the summer he conducts Y. M. C. A. swimming classes, and by the time this appears he will probably be showing the Australian crawl to all United States soldiers and sailors (and nurses) about to enter the deep cold danger zone.</p>
 
 <p>DO not, upon reading this, send a letter to Professor D. Jones of Kansas City, saying: "I have recieved my copy of Every Week containing your pitchoor in it. The Professor, who recently retired from a fifty years' stretch of teaching in Missouri, is the world's champion speller. Over a period of thirty-five years he issued a challenge to the world to spell against him. Usually it was a walkaway for our hero. But once, back in '75, a Kansas University professor gave him some nervous moments. In a four-hour contest over 15,000 words, Professor Jones missed 14 to his opponent's 17.</p>
 
@@ -753,7 +1004,7 @@ Photograph from, Fred G. Milliken.
 
 <p>"TICKETS. please."  Elial Hoxsie figures that he has said these fateful words 4,056,000 times. Conductor Hoxsie has been on the job on his run between MacGregor, Iowa, and San-born, Iowa, for fifty-two years. His side partners say that he works his train to-day with greater ease than many men years younger than he, and his old-school</p>
 
-<p>THE year before Captain John Black was born near Point Lepreaux. New Brunswick, the first steamship crossed the Atlantic; and when he was a lad of eight he heard his elders scoffing at the first steam railway for passengers—even ladies. Now he is ninety-seven, and he has seen more marvelous changes still. But nothing surprises Cap'n Black. "Everything you need to know is written in the Good Book," says he. And he should know, for he has read it through hundreds of times. Not a day has passed for eighty years with-out' the Captain reading a few more pages of the Bible, which he always carries with him.</p>
+<p>THE year before Captain John Black was born near Point Lepreaux. New Brunswick, the first steamship crossed the Atlantic; and when he was a lad of eight he heard his elders scoffing at the first steam railway for passengerseven ladies. Now he is ninety-seven, and he has seen more marvelous changes still. But nothing surprises Cap'n Black. "Everything you need to know is written in the Good Book," says he. And he should know, for he has read it through hundreds of times. Not a day has passed for eighty years with-out' the Captain reading a few more pages of the Bible, which he always carries with him.</p>
 
 Harris.
 
@@ -789,7 +1040,7 @@ MILLIONAIRES FOR DEFENSE
 
 Photograph by Paul Thompson.
 
-<p>"MILLIONS for defense; not one cent for tribute." was the old-time war-cry. We have changed it to "Millionaires for defense and one hundred per cent super-tax." The world knew Oliver Curley Harriman as a quiet, industrious young man who raised Great Danes. At a dog show a year or two ago one of his Great Danes became careless and ate up a $1500 prize-winner—fifty months' salary.</p>
+<p>"MILLIONS for defense; not one cent for tribute." was the old-time war-cry. We have changed it to "Millionaires for defense and one hundred per cent super-tax." The world knew Oliver Curley Harriman as a quiet, industrious young man who raised Great Danes. At a dog show a year or two ago one of his Great Danes became careless and ate up a $1500 prize-winnerfifty months' salary.</p>
 
 Photograph by M. It. Berner.
 
@@ -801,13 +1052,13 @@ Photographed by M. E. Berner.
 
 Photograph by. Paul Thompson.
 
-<p>IN front of a red house on Park Avenue, New York, hangs a service flag with three stars. The stars are for Robert Bacon, formerly our Ambassador to France, and for his sons. Here's one of them—Robert L. Bacon, Jr. Robert was graduated from Harvard in 1907, and was one of the best oarsmen the University ever owned. Offer him a penny for his thoughts, and they would probably run somewhat like this: "If the Kaiser, Hindenburg, and Ludendorf had only one head, and I had this ax—"</p>
+<p>IN front of a red house on Park Avenue, New York, hangs a service flag with three stars. The stars are for Robert Bacon, formerly our Ambassador to France, and for his sons. Here's one of themRobert L. Bacon, Jr. Robert was graduated from Harvard in 1907, and was one of the best oarsmen the University ever owned. Offer him a penny for his thoughts, and they would probably run somewhat like this: "If the Kaiser, Hindenburg, and Ludendorf had only one head, and I had this ax"</p>
 
-<p>THERE is hardly a wealthy family in the country that does not have its boys in the service; and, in the draft, the New York district where the fewest exemptions were claimed was the district in which the richest families live. Private W. A. Rockefeller, of the U. S. Aerial Naval Patrol, if commissioned, as he hopes to be, believes he can see his way clear to outfitting himself completely—provided, of course, the dealers give him reasonable time. He is the son of the late William G. Rockefeller and grandnephew of John D.</p>
+<p>THERE is hardly a wealthy family in the country that does not have its boys in the service; and, in the draft, the New York district where the fewest exemptions were claimed was the district in which the richest families live. Private W. A. Rockefeller, of the U. S. Aerial Naval Patrol, if commissioned, as he hopes to be, believes he can see his way clear to outfitting himself completelyprovided, of course, the dealers give him reasonable time. He is the son of the late William G. Rockefeller and grandnephew of John D.</p>
 
 Photograph by Paul Thompson.
 
-<p>LOOKING at the $30 a month that the government pays, and at the amount that will be left in his bank account after the income-tax collector passes by, Vincent Astor decided that there was no doubt as to where his duty Jay. He is an ensign in the Aero Department of the Navy, and frequently flies over the farm which his great-grand father bought—the present home of 5,000,000 souls and Mayor Hylan.</p>
+<p>LOOKING at the $30 a month that the government pays, and at the amount that will be left in his bank account after the income-tax collector passes by, Vincent Astor decided that there was no doubt as to where his duty Jay. He is an ensign in the Aero Department of the Navy, and frequently flies over the farm which his great-grand father boughtthe present home of 5,000,000 souls and Mayor Hylan.</p>
 
 Photograph by Paul Thompson.
 
@@ -825,7 +1076,7 @@ Photograph by Paul Thompson.
 
 <p>"Suppose I should drop him?" says I.</p>
 
-<p>"You can't if you take him just as I show you," she goes on patient. "Now, sit clown in that chair. Crook your left arm like this. Now hold your knees together, and we'll just put the little precious right in your— There! Why, you're doing it splendidly."</p>
+<p>"You can't if you take him just as I show you," she goes on patient. "Now, sit clown in that chair. Crook your left arm like this. Now hold your knees together, and we'll just put the little precious right in your There! Why, you're doing it splendidly."</p>
 
 <p>"Am I?" says I.</p>
 
@@ -839,7 +1090,7 @@ Photograph by Paul Thompson.
 
 <p>It was the first thing that came into my head, but I guess I'd better not have let it out. Mrs. Robert pinks up, Vee snickers, and they both hurries into the next room.</p>
 
-<p>"Thank you, Torchy," says Mr. Robert. "Within certain limitations, I trust your wish comes true. But I say—how does it feel, being a father?"</p>
+<p>"Thank you, Torchy," says Mr. Robert. "Within certain limitations, I trust your wish comes true. But I sayhow does it feel, being a father?"</p>
 
 <p>"Just plain foolish," says I.</p>
 
@@ -877,7 +1128,7 @@ Photograph by Paul Thompson.
 
 <p>"Googly-goo!" remarks Sonny, indicatin' 'most anything you're a mind to call it.</p>
 
-<p>Anyway, he seems to be entertained. We was gettin' acquainted fast. Pretty soon he pulls a smile on me. Say, it's the real thing in the smile line, too—confidential and chummy. I has to smile back.</p>
+<p>Anyway, he seems to be entertained. We was gettin' acquainted fast. Pretty soon he pulls a smile on me. Say, it's the real thing in the smile line, tooconfidential and chummy. I has to smile back.</p>
 
 <p>"That's the trick, Buster!" says I. "Friendly face motions is what wins. "</p>
 
@@ -887,7 +1138,7 @@ Photograph by Paul Thompson.
 
 <p>We must have kept that up for near half an hour, until he shows signs of gettin' sleepy. Just before he drops off, though, he was wavin' one of his hands around, and the first thing I know them soft little pink fingers have circled about my thumb.</p>
 
-<p>SAY, that turned the trick—just that. Ever had a baby grip you that way? Your own, I mean? If you have, I expect you'll know what I'm drivin' at. And if you ain't—well, you got something comin' to you. It's a thing I couldn't tell you about. It's a gentle sort of thrill, that spreads and spreads until it gets 'way in-side of you—under your vest, on the left side.</p>
+<p>SAY, that turned the trickjust that. Ever had a baby grip you that way? Your own, I mean? If you have, I expect you'll know what I'm drivin' at. And if you ain'twell, you got something comin' to you. It's a thing I couldn't tell you about. It's a gentle sort of thrill, that spreads and spreads until it gets 'way in-side of youunder your vest, on the left side.</p>
 
 <p>When Vee finally comes in to see how we're gettin' along, he's snoozin' calm and peaceful, with a sketchy smile kind of flickerin' on and off that rosebud mouth of his, like he was indulgin' in pleasant dreams. Also, them little pink fingers was still wrapped around my thumb.</p>
 
@@ -895,9 +1146,9 @@ Photograph by Paul Thompson.
 
 <p>This ain't a pose," says I. "It's the real thing."</p>
 
-<p>"You mean—" begins Vee.</p>
+<p>"You mean" begins Vee.</p>
 
-<p>"I mean I've qualified," says I. "May-be I didn't show up so strong durin' the initiation, but I squeaked through. I'm a reg'lar daddy now. See! He's givin' me the inside brother grip—on my thumb. You can call Auntie in, if you like."</p>
+<p>"I mean I've qualified," says I. "May-be I didn't show up so strong durin' the initiation, but I squeaked through. I'm a reg'lar daddy now. See! He's givin' me the inside brother gripon my thumb. You can call Auntie in, if you like."</p>
 
 "'Well, if you aren't a picture, you two!' says Vee."
 
@@ -905,17 +1156,17 @@ FACING LIFE ON THIRTY-SEVEN CENTS
 
 <p>TEN years ago I, a nineteen-year-old country girl, found myself at the close of a December day in New York City with only thirty-seven cents in my pocket, no friends in the city, and my bridges burned behind me.</p>
 
-<p>I was decently dressed. I had on good shoes, a serge dress and a warm coat, gloves, and a plain black hat and veil. In my hand I carried a small bag in which were' two clean handkerchiefs, a pair of stockings, some small toilet articles, and—thirty-seven cents.</p>
+<p>I was decently dressed. I had on good shoes, a serge dress and a warm coat, gloves, and a plain black hat and veil. In my hand I carried a small bag in which were' two clean handkerchiefs, a pair of stockings, some small toilet articles, andthirty-seven cents.</p>
 
 <p>I had been hunting work for several weeks, but had failed, doubtless because I did not look for work intelligently, and also because it was harder to find work then than now. When my money gave out my landlady asked me to leave, and kept my trunk as security for my bill.</p>
 
 <p>Standing there watching the home-going crowd, I realized that I must act quickly. The first thing to do was to find a place to spend the night. I could do without food, I calculated, for twelve hours longer. I knew that newspaper buildings were open and work going on, and I decided to seek the hospitality of the press. I walked to Newspaper Row, and paced back and forth, trying to decide which building to enter. As darkness fell I made my way into the waiting room of the Tribune building.</p>
 
-<p>I sat there undisturbed for several hours. Once a young man—a reporter, probably—said in passing: "Waiting to see some one?" And I suppose I must have nodded in assent, for he passed on.</p>
+<p>I sat there undisturbed for several hours. Once a young mana reporter, probablysaid in passing: "Waiting to see some one?" And I suppose I must have nodded in assent, for he passed on.</p>
 
 <p>Every one was so busy that no one seemed to question my presence there. I settled myself into an easy position, and dozed sweetly, if warily, until mid-night, when the roar of the presses began.</p>
 
-<p>Still I waited; and after a while I began to see the editors and reporters hurrying out to go home. By and by the night watchman came in—an Irishman.</p>
+<p>Still I waited; and after a while I began to see the editors and reporters hurrying out to go home. By and by the night watchman came inan Irishman.</p>
 
 <p>"Going to wait here all night, Miss?"</p>
 
@@ -935,11 +1186,11 @@ FACING LIFE ON THIRTY-SEVEN CENTS
 
 <p>My spirits rose high. I smiled at the good watchman, and went out to seek my fortune.</p>
 
-<p>At twelve o'clock I came back to that building again. I had made as much of a toilet and brushing up as circumstances permitted. I asked to see some of the editorial force. I was going to ask for a job—anything that would enable me to live.</p>
+<p>At twelve o'clock I came back to that building again. I had made as much of a toilet and brushing up as circumstances permitted. I asked to see some of the editorial force. I was going to ask for a jobanything that would enable me to live.</p>
 
 <p>As I sat in the waiting-room where I had spent the early part of the night, the door of one of the offices opened, and a man and woman came out. I heard the woman say to the man:</p>
 
-<p>"Frank, I just can't get a nurse for the boy. That last one I had was a fiend; she would have ruined his disposition. I really must—"</p>
+<p>"Frank, I just can't get a nurse for the boy. That last one I had was a fiend; she would have ruined his disposition. I really must"</p>
 
 <p>I took my courage in both hands.</p>
 
@@ -949,7 +1200,7 @@ FACING LIFE ON THIRTY-SEVEN CENTS
 
 <p>"Are you an experienced nurse?" she asked. "You look very young."</p>
 
-<p>"I have never been a nurse," I said. "But I know I can be a good one." And I took from my hand-bag a testimonial—glowing, if general in terms-from my old minister in the village I came from.</p>
+<p>"I have never been a nurse," I said. "But I know I can be a good one." And I took from my hand-bag a testimonialglowing, if general in terms-from my old minister in the village I came from.</p>
 
 <p>She took me home with her and gave me a trial. For three years I lived in her house, the nurse of the dearest of little boys. In all those years I strove to give faithful service, and I had the kindest home and the best of friends. But I never forgot how I stood on the street with thirty-seven cents in all the world. And I never forgot the kind watchman who gave me shelter. I spent my evenings in study, and later on in practising writing. Believe me, I worked hard. Mine was no royal road, for I possess no royal gifts, unless it is the gift of courage. Now I am, and have been for several years, a "free-lance" magazine writer. My income, while not very magnificent, is amply sufficient for my wants. I try to keep my eyes open for those in the position I once found myself, and to extend to them, when in my power, a helping hand.	N. W. J.</p>
 
@@ -962,7 +1213,7 @@ In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes
 
 AMERICA'S GREAT NEW NATURAL WONDER
 
-<p>A VAST barren valley, surrounded by broken mountains, where no living thing can grow; from whose hollow floor thousands upon thousands of columns of white steam are perpetually rising—this is the place that Robert F. Griggs and a little party of explorers, climbing through the mountains of the Alaskan Peninsula against icy, pumice-laden winds, looked down on with wonder and stupefaction. "It was evident at once," says the leader of the expedition, "that one of the great wonders of
+<p>A VAST barren valley, surrounded by broken mountains, where no living thing can grow; from whose hollow floor thousands upon thousands of columns of white steam are perpetually risingthis is the place that Robert F. Griggs and a little party of explorers, climbing through the mountains of the Alaskan Peninsula against icy, pumice-laden winds, looked down on with wonder and stupefaction. "It was evident at once," says the leader of the expedition, "that one of the great wonders of
 the world had been discovered."</p>
 
 <p>The Valley of Ten Thousand Smokes lies adjacent to Mount Katmai, a great volcanic mountain where one of the most tremendous explosions known in history took place in 1912. The whole floor of the valley is a sort of gigantic valve for a boiling underground caldron. Through its million fissures steam pours up, releasing the terrible energy beneath.</p>
@@ -987,7 +1238,7 @@ the world had been discovered."</p>
 
 1800 AND 1900
 
-Photograph by Paul Thompson  © by Hoppe
+Photograph by Paul Thompson   by Hoppe
 
 <p>ONE hundred and two years have carved and lined the face of the woman on the left, who not long ago cast her first vote in the New York congressional elections. She is Mrs. Mary Gold of New York City. She was born in Austria and lived there for sixty years. She has seen a century pass over the Old World and the New. In her lifetime modern science has been born, has grown to undreamed-of proportions, and like some Frankenstein has plunged the world in the greatest war that history has known. During her lifetime, also, slavery has been abolished, women have been enfranchised, and the Russian Revolution has taken place. Beside her is a typical woman of the new century. Her smiling face beneath its uniform cap has in it the qualities that economic independence and mental and bodily freedom have given women. Sturdy and self-reliant, she faces the future. What world-changes will she see, if she lives as long as Mrs. Mary Gold?</p>
 
@@ -1029,7 +1280,7 @@ WOMEN SHOULD REMEMBER PASTEUR
 
 <p>WHEN Louis Pasteur, greatest of scientists, was a young man, the world knew little more about the cause and spread of disease than did the Greeks centuries before Christ. Plagues could still wipe out whole communities, and the causes of infection were unsolved. When he died in 1895, he left medicine revolutionized.</p>
 
-<p>His work in discovering the causes of hydrophobia and other contagious diseases, in preparing preventive serums, in purifying milk by the process now known as pasteurization—all this is well known: But perhaps his greatest achievement was to stamp out the disease known as puerperal or childbed fever, which ravaged the maternity wards of hospitals as late as 1879.</p>
+<p>His work in discovering the causes of hydrophobia and other contagious diseases, in preparing preventive serums, in purifying milk by the process now known as pasteurizationall this is well known: But perhaps his greatest achievement was to stamp out the disease known as puerperal or childbed fever, which ravaged the maternity wards of hospitals as late as 1879.</p>
 
 <p>Says Dr. William Williams Keen, in Medical Research and Human Welfare (Houghton, Mifflin Company) :</p>
 
@@ -1076,7 +1327,7 @@ WHEN NAPOLEON MADE PEACE WITH THE CZAR
 <p>FEW peace conferences have been more dramatic than that one which was participated in by only two men
 Napoleon and Czar Alexander of Russia.</p>
 
-<p>Napoleon had defeated Alexander in fair light, says Charles Whibley in Political Portraitts (Macmillan Company), and he meant to get all the advantage he could out of the victory. The necessary result of his amazing triumph at Friedland was peace. Harboring no resentment against his beaten foe, he resolved to turn the new friendship to the best account. In 1807 he had but one end and one aim—to achieve a general peace by the conquest of England. He might, for the moment, be engaged with other countries; but every march he made, every battle he fought, were but steps upon the same road. England was the enemy, and must be destroyed.</p>
+<p>Napoleon had defeated Alexander in fair light, says Charles Whibley in Political Portraitts (Macmillan Company), and he meant to get all the advantage he could out of the victory. The necessary result of his amazing triumph at Friedland was peace. Harboring no resentment against his beaten foe, he resolved to turn the new friendship to the best account. In 1807 he had but one end and one aimto achieve a general peace by the conquest of England. He might, for the moment, be engaged with other countries; but every march he made, every battle he fought, were but steps upon the same road. England was the enemy, and must be destroyed.</p>
 
 <p>A master of all the arts of flattery and cajolery, Napoleon had no difficulty in outwitting Alexander. He told him tales of victories won in the field, of the vast ambitions which he cherished of universal dominion. Alexander saw him-self for the moment a proud sharer with Napoleon in the sovereignty of the world.</p>
 
@@ -1088,7 +1339,7 @@ Napoleon and Czar Alexander of Russia.</p>
 
 KEEPING THE BALL ROLLING
 
-© Western Newspaper Union
+ Western Newspaper Union
 
 The choir boys of the Cathedral of St. John the Divine, in New York City, knitting in their leisure moments. What we want to know is, is Number 12, left end of the middle row, reading knitting directions, or has he got hold of a copy of "Coyote Charlie, the Cowboy Chevalier"?
 
@@ -1108,7 +1359,7 @@ Illustrations by Jessie Gillespie
 
 <p>"Ay bane keep 'em all safe," she said, glowing with satisfaction. "Ay always bane keep 'em t'ree four days, because in America Ay bane find out gentlemens want newspapers to cut out clippings."</p>
 
-<p>A discerning maid, that. For the hotel where she works is a big hostelry patronized by business men from all over the country, and she had discovered one of the characteristics of the big American business man—that he likes to cut pieces out of the newspapers and periodicals he reads.</p>
+<p>A discerning maid, that. For the hotel where she works is a big hostelry patronized by business men from all over the country, and she had discovered one of the characteristics of the big American business manthat he likes to cut pieces out of the newspapers and periodicals he reads.</p>
 
 <p>One of the most valuable tools you can have in your business is a pair of scissors. And it makes little difference what your line of business is, whether you are president of a big corporation in that line, or just an office-boy beginning the long climb from the bottom.</p>
 
@@ -1122,11 +1373,11 @@ Get a Big View of Your Work
 
 <p>Clipping is not only very personal in this sense, but it also puts a sort of premium on healthy curiosity. One man will go through a pile of publications with healthy curiosity and scissors, and snip out a dozen things that another would miss altogether.</p>
 
-<p>Work goes so fast nowadays that you have to clip to keep up with it. The professional man finds that the scientific books—even the best of them—are six months or a year behind current progress, and in many lines of work there are few books available—all the new methods and most of the technique are recorded in periodicals, and never find their way into books. No book in the world will embody the best methods in your work as well as a budget of clippings made by yourself—in this respect you are a compiler of your own technical books.</p>
+<p>Work goes so fast nowadays that you have to clip to keep up with it. The professional man finds that the scientific bookseven the best of themare six months or a year behind current progress, and in many lines of work there are few books availableall the new methods and most of the technique are recorded in periodicals, and never find their way into books. No book in the world will embody the best methods in your work as well as a budget of clippings made by yourselfin this respect you are a compiler of your own technical books.</p>
 
-<p>Many of the most useful clippings are those that have no great permanent value, those that you run across and make avail-able to-day and throw away to-morrow. A minister preparing his Sunday sermon, for instance, wants to preach on some question of the day, perhaps a question of the hour, touching only his own community. None of the theological books will help him on that. A salesman can not go to a book-shelf and find out which people in his territory are prosperous enough to buy automobiles or life insurance—he has to clip news items out of the morning paper and put two and two together.</p>
+<p>Many of the most useful clippings are those that have no great permanent value, those that you run across and make avail-able to-day and throw away to-morrow. A minister preparing his Sunday sermon, for instance, wants to preach on some question of the day, perhaps a question of the hour, touching only his own community. None of the theological books will help him on that. A salesman can not go to a book-shelf and find out which people in his territory are prosperous enough to buy automobiles or life insurancehe has to clip news items out of the morning paper and put two and two together.</p>
 
-<p>The floor salesmen in a big wholesale house in the Middle West have become known for the intimate way in which they greet each country merchant who comes in to buy his season's stock of goods. "Did that fire cripple you folks much in Smithville last week?" asks the salesman of the customer, to the astonishment of the latter, who does not know how it is done. The answer is—clippings! That wholesale house has several keen young women who read newspapers through its territory, and they clipped the item about the fire last week in Smithville. The telephone girl sends up word to the salesman that Mr. Smith of Smithville is in the house, and in thirty seconds the salesman prepares himself by glancing at a file.</p>
+<p>The floor salesmen in a big wholesale house in the Middle West have become known for the intimate way in which they greet each country merchant who comes in to buy his season's stock of goods. "Did that fire cripple you folks much in Smithville last week?" asks the salesman of the customer, to the astonishment of the latter, who does not know how it is done. The answer isclippings! That wholesale house has several keen young women who read newspapers through its territory, and they clipped the item about the fire last week in Smithville. The telephone girl sends up word to the salesman that Mr. Smith of Smithville is in the house, and in thirty seconds the salesman prepares himself by glancing at a file.</p>
 
 Do Your Own Filing
 
@@ -1134,7 +1385,7 @@ Do Your Own Filing
 
 <p>Trained librarians usually sniff tolerantly as they glance over the personal one-man filing system of a man who uses a pair of scissors to help make a living. "Crude and unscientific," they say. But stick to your own system, and make it as crudely personal as possible.</p>
 
-<p>Some people paste their clip-pings into scrap books. This is a commendable method for anything that you want to keep in permanent form, and that naturally follows a sequence—say, everything the trade journals said about the building and opening of the new factory. But the mass of one's personal clippings yield the best results when they are kept loose and flexible in envelops or cabinet compartments, each devoted to a special subject.</p>
+<p>Some people paste their clip-pings into scrap books. This is a commendable method for anything that you want to keep in permanent form, and that naturally follows a sequencesay, everything the trade journals said about the building and opening of the new factory. But the mass of one's personal clippings yield the best results when they are kept loose and flexible in envelops or cabinet compartments, each devoted to a special subject.</p>
 
 <p>Scissors are a valuable working tool. Let them be sharp scissors. And back them up with sharp wits.</p>
 
@@ -1150,7 +1401,7 @@ List Your Faults
 
 <p>"A lack that is all too common in employees," said this manager. "Our firm can readily discover your ability, but it takes any firm time to list each employee's faults. One man may be jealous, and find himself in constant op-position to some fellow employee because of it; another may be careless in dress, and so lower the standard of our personnel; another may spend his off hours in pleasure that does not make him `fit' for our careful work.</p>
 
-<p>"When a doctor makes a diagnosis of a case, he doesn't tell you to watch over a sound heart or a normal digestive apparatus. He gives you minute directions how to care for that weakened lung--how to act, to live, to rest, to make your body well again. This is much the way a young man should do—study his weak points and cure them.</p>
+<p>"When a doctor makes a diagnosis of a case, he doesn't tell you to watch over a sound heart or a normal digestive apparatus. He gives you minute directions how to care for that weakened lung--how to act, to live, to rest, to make your body well again. This is much the way a young man should dostudy his weak points and cure them.</p>
 
 <p>"Early in my business life I made out a written list of my faults, and began an effort to correct them. I found that if I quit singing a song of hate I found my-self singing a song of joy. If I quit envying the man higher up I soon found myself in the place ahead. When I quit doing careless work I found I was doing careful work.</p>
 
@@ -1201,7 +1452,7 @@ Those Bad Bills
 
 
 
-Cashing In—Continued from page 7
+Cashing InContinued from page 7
 
 "In a high-pitched young voice she thanked him over and over again for his munificence."
 
@@ -1211,7 +1462,7 @@ Cashing In—Continued from page 7
 
 <p>Loris took up the full-length likeness and stared at it with cold appraisal. It was of a tall, somewhat willowy girl, whose features were not had, whose expression was discontented, and who had good hair and hands. The Valencia's president gazed at it for several seconds with no display of enthusiasm, then laid it down.</p>
 
-<p>"She is the type," he said critically. "Not a beauty, but not bad-looking. She will pass—on the strength of her manner. But we'll have to change that expression. It isn't Lady Molly's. How old is she?"</p>
+<p>"She is the type," he said critically. "Not a beauty, but not bad-looking. She will passon the strength of her manner. But we'll have to change that expression. It isn't Lady Molly's. How old is she?"</p>
 
 <p>"Not quite twenty-two. Over twenty-one, though: so there'll be no legal come-back if her parents turn nasty. Not that they'll hear about it," explained Croyden reassuringly. "I don't suppose they ever saw a movie in their lives."</p>
 
@@ -1222,7 +1473,7 @@ Cashing In—Continued from page 7
 <p>"My sense of humor is defective," re-turned Loris dryly. "By the way, I notice you speak of her very carefully as `the
 girl' and of her parents as `dad' and mama.' What's her name?"</p>
 
-<p>"Her name is Hunter," answered the the scout—"Bébé Hunter. Full name's Beatrice; but every one calls her Bébé."</p>
+<p>"Her name is Hunter," answered the the scout"Bb Hunter. Full name's Beatrice; but every one calls her Bb."</p>
 
 <p>"What's her father's name?" asked Loris, with suddenly increased carelessness. "His first name, I mean?"</p>
 
@@ -1232,7 +1483,7 @@ girl' and of her parents as `dad' and mama.' What's her name?"</p>
 
 <p>"Have her here at eleven o'clock to-morrow morning," he bade Croyden, with-out turning around again. "The contract will be ready for her to sign. You get double commission on this. Tell her I'll pay her two thousand a week. Good day."</p>
 
-<p>"Two thousand a week!" gobbled Croyden, all but dumb. "Two thousand a—"</p>
+<p>"Two thousand a week!" gobbled Croyden, all but dumb. "Two thousand a"</p>
 
 <p>"Good day!" snapped Loris.</p>
 
@@ -1246,13 +1497,13 @@ girl' and of her parents as `dad' and mama.' What's her name?"</p>
 
 <p>"Do you know Royle Hun-ter?" asked Loris incisively.</p>
 
-<p>"Royle Hunter?" repeated the president. "Why, of course I know him; I've known him for years. We play golf together, twice a month, at Wykagil. And we're both on the—"</p>
+<p>"Royle Hunter?" repeated the president. "Why, of course I know him; I've known him for years. We play golf together, twice a month, at Wykagil. And we're both on the"</p>
 
 <p>"Good!" interrupted Loris. "I'd like you to give me a letter to him."</p>
 
 <p>"A letter? What sort?"</p>
 
-<p>"Introduction. Not the stereotyped kind, but one that will make him drop everything else and see me. Better still—get him on the 'phone. Tell him who I am. Tell him what I can do for him if I want to. Make it strong. Then arrange for me to see him at his office at three to-morrow."</p>
+<p>"Introduction. Not the stereotyped kind, but one that will make him drop everything else and see me. Better stillget him on the 'phone. Tell him who I am. Tell him what I can do for him if I want to. Make it strong. Then arrange for me to see him at his office at three to-morrow."</p>
 
 <p>Ringing the bell as he turned from the telephone, Loris summoned his boss printer; and there was a rush of work in various departments of the Valencia for the ensuing twenty-four hours.</p>
 
@@ -1268,7 +1519,7 @@ girl' and of her parents as `dad' and mama.' What's her name?"</p>
 
 <p>Royle Hunter had followed the sense of his guest's words, but their purport was as Greek to him.</p>
 
-<p>"Here," said Loris, drawing from the case a much folded sheet of paper and, with practised speed, opening it to full size on the table—"here is one of my color-prints of her. Rather striking, I think. And here"—with another dive into</p>
+<p>"Here," said Loris, drawing from the case a much folded sheet of paper and, with practised speed, opening it to full size on the table"here is one of my color-prints of her. Rather striking, I think. And here"with another dive into</p>
 
 Continued on page 20
 
@@ -1292,15 +1543,15 @@ Who is He?
 
 <p>ALICE ROOSEVELT LONGWORTH About whom we told you in the March 30 EVERY WEEK</p>
 
-"Cashing In"—Continued from page 19
+"Cashing In"Continued from page 19
 
-<p>the case—" here is a specimen of the press matter I am sending out. I intend to buy advertising space in—"</p>
+<p>the case" here is a specimen of the press matter I am sending out. I intend to buy advertising space in"</p>
 
 <p>He got no further. A strangled yell of fury from the faultlessly self-controlled Hunter broke in on his speech. Hunter had glanced at the flaring-colored litho-graph spread before him. His sole emotion at first had been one of fastidious disgust at its crudely garish blatancy.</p>
 
-<p>Then, in a spasm of horrified unbelief, he had recognized the woman pictured in the kaleidoscope-tinted lithograph—had recognized the likeness, and had remembered the photograph from which it had been reproduced even before he read the scarlet caption that leaped forth at him from its gilt background:</p>
+<p>Then, in a spasm of horrified unbelief, he had recognized the woman pictured in the kaleidoscope-tinted lithographhad recognized the likeness, and had remembered the photograph from which it had been reproduced even before he read the scarlet caption that leaped forth at him from its gilt background:</p>
 
-<p>"Bébé Hunter, Fifth Avenue Society Princess—Daughter of Royle Hunter, the Financier--</p>
+<p>"Bb Hunter, Fifth Avenue Society PrincessDaughter of Royle Hunter, the Financier--</p>
 
 <p>"As Lady Molly in the Daring Valencia Feature, `Cast Adrift.'"</p>
 
@@ -1314,23 +1565,23 @@ Who is He?
 
 <p>"I was afraid of something like that," said Loris, in mild reproof. "So I prepared for it. That was only a certified copy. Here is another. Tear that too, if you choose, for I have three more. If you leave one of them untorn, take it to your lawyer. He will tell you it is iron-bound. I shall leave this second copy of the contract on your table here. If you are so babyish as to tear it, 'phone me and I'll mail you a third copy."</p>
 
-<p>HAVING read and re-read the paper, Hunter rushed home. Bébé was just leaving the house when her father arrived.</p>
+<p>HAVING read and re-read the paper, Hunter rushed home. Bb was just leaving the house when her father arrived.</p>
 
-<p>The olden artist, who painted the great picture of Iphigenia's sacrifice, dared not depict the face of Agamemnon as the stricken father raised the sacrificial knife to slay his own child. A like reticence can not be amiss in skirting around the far more hideous scene between Royle and Bébé Hunter—and its sequel between the same two protagonists, enforced by hysterical Mrs. Hunter and the hastily sent for family lawyer.</p>
+<p>The olden artist, who painted the great picture of Iphigenia's sacrifice, dared not depict the face of Agamemnon as the stricken father raised the sacrificial knife to slay his own child. A like reticence can not be amiss in skirting around the far more hideous scene between Royle and Bb Hunterand its sequel between the same two protagonists, enforced by hysterical Mrs. Hunter and the hastily sent for family lawyer.</p>
 
-<p>"He's got you, Royle," decreed Willis, the lawyer, as he and his client sat together, after tearful Mrs. Hunter had convoyed the weeping Bébe to the house's upper regions. "He's got you hard and fast: You've made Miss Hunter see how rashly and foolishly she's behaved, and I think you may be certain she will never set foot in the Valencia Building again. But that is only half of your trouble. This clause in the contract, now, entailing a forfeit of fifty thousand dollars cash upon either party who may default in fulfilling every portion of the agreement—he's got you on that."</p>
+<p>"He's got you, Royle," decreed Willis, the lawyer, as he and his client sat together, after tearful Mrs. Hunter had convoyed the weeping Bbe to the house's upper regions. "He's got you hard and fast: You've made Miss Hunter see how rashly and foolishly she's behaved, and I think you may be certain she will never set foot in the Valencia Building again. But that is only half of your trouble. This clause in the contract, now, entailing a forfeit of fifty thousand dollars cash upon either party who may default in fulfilling every portion of the agreementhe's got you on that."</p>
 
 <p>"It's blackmail!" fumed Hunter.</p>
 
 <p>"Of course it is," agreed Willis. " Black-mail, impure and simple. It's blackmail. But only morally. Legally, it's as sound as the Rock of Gibraltar. He's got you. You'll have to pay. You can't stand a suit against your daughter and the publicity the Valencia people will be sure to make of it."</p>
 
-<p>"I'll pay!" groaned Hunter—who felt all at once that his none too rugged nerves had endured everything they could for one day. "Fix it up as best you can for us. I'll leave it in your hands."</p>
+<p>"I'll pay!" groaned Hunterwho felt all at once that his none too rugged nerves had endured everything they could for one day. "Fix it up as best you can for us. I'll leave it in your hands."</p>
 
 <p>Two days later the lawyer bounced into Hunter's office, in a state of garrulous excitement.</p>
 
-<p>"The man's crazy!" he declared. "I went to him myself, with your certified check for $50,000 and the form of release for him to sign. What d'you suppose he: said? Told me he wouldn't accept the check unless you bring it to his office, in person, this afternoon. In person, mind you. That's what he said. He must be—"</p>
+<p>"The man's crazy!" he declared. "I went to him myself, with your certified check for $50,000 and the form of release for him to sign. What d'you suppose he: said? Told me he wouldn't accept the check unless you bring it to his office, in person, this afternoon. In person, mind you. That's what he said. He must be"</p>
 
-<p>"'Phone him that I'll do nothing of the kind!" barked Hunter, in sudden heat. "I'll see him rot first. You have tendered him my check for the forfeit. If he re-fused it, that is his lookout. Our hands are clean. I know enough of law to—"</p>
+<p>"'Phone him that I'll do nothing of the kind!" barked Hunter, in sudden heat. "I'll see him rot first. You have tendered him my check for the forfeit. If he re-fused it, that is his lookout. Our hands are clean. I know enough of law to"</p>
 
 <p>"I'm afraid not," contradicted Willis. "I knew how you'd feel about it, and I told him you wouldn't humiliate yourself by coming to his office with the money. What d'you think he said?"</p>
 
@@ -1340,7 +1591,7 @@ Who is He?
 
 
 
-<p>couldn't perform. But it was going to make an exception now. He realizes Miss Hunter won't fulfil her contract, he says. But, unless you hand him that check, in his own office, this afternoon, he's going to placard the city and fill the newspapers, to-morrow, with pictures and announcements of her appearance in one of his photo-plays. And—and the deuce of it is, I really believe he'll keep his word. He's not a blackmailer, Royle. He's a paranoiac. Better humor him. He's dangerous."</p>
+<p>couldn't perform. But it was going to make an exception now. He realizes Miss Hunter won't fulfil her contract, he says. But, unless you hand him that check, in his own office, this afternoon, he's going to placard the city and fill the newspapers, to-morrow, with pictures and announcements of her appearance in one of his photo-plays. Andand the deuce of it is, I really believe he'll keep his word. He's not a blackmailer, Royle. He's a paranoiac. Better humor him. He's dangerous."</p>
 
 <p>PROMPTLY at four o'clock, the ragingly apoplectic Royle Hunter entered the outer office of the Valencia's president. An office-boy took his card in to Loris. Then the boy returned to the scowling visitor, and, in the manner of one repeating a hard learned recitation, growled :</p>
 
@@ -1364,9 +1615,9 @@ Who is He?
 
 <p>For a moment Hunter stood gulping, irresolute. Loris's slanting, deep-set eyes never left the visitor's. Behind their Oriental calm seemed to lurk some strange quality that gripped the other man's gaze and will power.</p>
 
-<p>Hunter bent down, picked up the folded check, and handed it to Loris—at the same time snatching the release from the sitter's unresisting fingers.</p>
+<p>Hunter bent down, picked up the folded check, and handed it to Lorisat the same time snatching the release from the sitter's unresisting fingers.</p>
 
-<p>He made as if to go. Then he faltered—held now, not by his opponent's eye-grip, but by what Loris was doing.</p>
+<p>He made as if to go. Then he falteredheld now, not by his opponent's eye-grip, but by what Loris was doing.</p>
 
 <p>For, very deliberately, Loris was tearing the fifty-thousand-dollar check into in-finitely small pieces. As the last of them fell into his cupped palm, he tossed them all into the waste-basket at his side.</p>
 
@@ -1400,7 +1651,7 @@ His Little Son
 
 <p>After lighting the fuse, I ran back out of danger and sat down on a stone. I knew about how long it would take for the fuse to burn up to the dynamite, so I took my watch out to time it.</p>
 
-<p>When it came time for the explosion, I looked up—and there, about three feet beyond the stump, was my three-year-old boy, trotting along as unconcerned as could be. Without an instant's thought, I ran for him—and I know I never ran faster. As I reached him, I grabbed him and ran on, getting about twenty feet</p>
+<p>When it came time for the explosion, I looked upand there, about three feet beyond the stump, was my three-year-old boy, trotting along as unconcerned as could be. Without an instant's thought, I ran for himand I know I never ran faster. As I reached him, I grabbed him and ran on, getting about twenty feet</p>
 
 "I grabbed him and had run about twenty feet when the explosion came."
 
@@ -1416,11 +1667,11 @@ In the Blizzard of '87
 
 <p>When we got to Great Barrington, at about 8.3o, we found a blizzard raging, and the wind blowing a gale, so that you could see but a few feet ahead. The storm increased in fury, and the snow got deeper every slow mile the train made, until the train stopped, then backed down a few feet and started ahead again, until it stalled altogether. It was then midnight.</p>
 
-<p>The hungry passengers, of whom there were about one hundred, quickly devoured my basketful of cookies, which I sold them at twenty cents a dozen. The storm increased all night, and at day-break we were hemmed in on both sides, the snow being level with the top of the car windows, so that you could not see out. About noon I suggested to the passengers that they go to the express car and see if there was anything eatable in charge of the messenger; but all he had was a box of canned tomatoes. The passengers opened the cans with pocket knives, and ate the tomatoes, drinking the liquid from the cans—a sight I shall never for-get.</p>
+<p>The hungry passengers, of whom there were about one hundred, quickly devoured my basketful of cookies, which I sold them at twenty cents a dozen. The storm increased all night, and at day-break we were hemmed in on both sides, the snow being level with the top of the car windows, so that you could not see out. About noon I suggested to the passengers that they go to the express car and see if there was anything eatable in charge of the messenger; but all he had was a box of canned tomatoes. The passengers opened the cans with pocket knives, and ate the tomatoes, drinking the liquid from the cansa sight I shall never for-get.</p>
 
 <p>It snowed all that day and night. The following day the train crew appointed me to go out and look for food for the starving passengers and trainmen, since I best knew the lay of the land. I went into the baggage car, picked up the old box that had held the tomatoes to use for a snowshoe, grabbed a plank, took my basket, and passed the things up between the cars, a brakeman assisting me. Then I placed a newspaper across my chest under my vest, and climbed up on top of the smoker. I threw the box be-fore me, put one foot in it, then threw the plank ahead and stepped on that, and struck out for the nearest house, which I knew was about half a mile away to the northeast, though I could not see it on account of the blinding storm.</p>
 
-<p>In about an hour and a half I reached the house—a low two-story farm-house. 'The snow had drifted in under the veranda and covered it completely up to the second-story window. I reached the drift, climbed it, nearly exhausted, rapped on the window, and shouted as loud as I could. After what seemed an hour a man came, excited and surprised, opened the window, and fairly pulled me in, where I thawed out, told my story, rested, and inquired for food for the passengers. I was amazed and almost discouraged to find that he had everything cleaned up but apples and salt pork.</p>
+<p>In about an hour and a half I reached the housea low two-story farm-house. 'The snow had drifted in under the veranda and covered it completely up to the second-story window. I reached the drift, climbed it, nearly exhausted, rapped on the window, and shouted as loud as I could. After what seemed an hour a man came, excited and surprised, opened the window, and fairly pulled me in, where I thawed out, told my story, rested, and inquired for food for the passengers. I was amazed and almost discouraged to find that he had everything cleaned up but apples and salt pork.</p>
 
 <p>I took my basket half full of apples, and started back, while the farmer and his wife wished me a hearty safe return to the train. It was nearly 6 P. M. when I noticed a brakeman's light a few feet ahead of me. Then I realized I was safe, after the most trying and hardest half day's work I had ever done. The brake-man was swinging his lantern and shouting. I shouted back. He recognized my voice, and when I got to him he lowered me down on to the platform, weary, tired, and benumbed with cold. They thawed me out and gave me a special place near the stove, where I curled up and slept, dreaming of blizzards. In the morning I found my train cap beside me nearly filled with change and a few bills.</p>
 
@@ -1436,13 +1687,13 @@ She Didn't Know How to Shoot
 
 <p>Suddenly my grandmother screamed, "Help!" twice.</p>
 
-<p>I sprang up, dropping my book, and rushed to her, frightened, but without the remotest idea of what threatened. As I approached, she screamed again: "The gun—bring the gun!"</p>
+<p>I sprang up, dropping my book, and rushed to her, frightened, but without the remotest idea of what threatened. As I approached, she screamed again: "The gunbring the gun!"</p>
 
-<p>I snatched it from its corner, an old "muzzle-loader" that my grandfather kept for hawks. I knew nothing of fire-arms, and remembered as I seized it that my grandfather had emptied it at a marauder that morning, without reloading. It was empty—and I knew it!</p>
+<p>I snatched it from its corner, an old "muzzle-loader" that my grandfather kept for hawks. I knew nothing of fire-arms, and remembered as I seized it that my grandfather had emptied it at a marauder that morning, without reloading. It was emptyand I knew it!</p>
 
 <p>Nevertheless, I ran with it into my grandmother's room, where she cowered in a corner, away from a negro who hung on the window-sill, a knife in his hand.</p>
 
-<p>I leveled the gun at the negro. "Get—you dog! If you aren't gone by the time I count three, I'll blow your damned head off!" (I had never before used the word "damn.")</p>
+<p>I leveled the gun at the negro. "Getyou dog! If you aren't gone by the time I count three, I'll blow your damned head off!" (I had never before used the word "damn.")</p>
 
 <p>The negro's leer wavered, but he clung while I counted two. At "three" he dropped.</p>
 
@@ -1452,11 +1703,11 @@ She Didn't Know How to Shoot
 
 <p>I rushed to find her, calling. To my boundless re-lief, she came running.</p>
 
-<p>With my grandmother and little sister, I sat on the front steps in the late afternoon, the empty gun across my knees,—none of us knew how to load it,—awaiting my grandfather's return.</p>
+<p>With my grandmother and little sister, I sat on the front steps in the late afternoon, the empty gun across my knees,none of us knew how to load it,awaiting my grandfather's return.</p>
 
 <p>The negro, as we learned late that night, went direct from our house to a neighbor's, where he attacked the neighbor's wife, seriously injuring her.</p>
 
-<p>This is the bravest thing I ever did—I hope a severer test may never come. I remember, afterward, how glad I was to find I was not a coward!  F. D. P.</p>
+<p>This is the bravest thing I ever didI hope a severer test may never come. I remember, afterward, how glad I was to find I was not a coward!  F. D. P.</p>
 
 "Not Exceptionally Brave"
 
@@ -1481,9 +1732,9 @@ She Didn't Know How to Shoot
 
 <p>long before I reached the object, which proved to be a little girl. I lifted the little head above water, and started toward the excursion boat, which by this time had started a small boat toward me.</p>
 
-<p>But then a cry rang through the air—a cry that every sailor dreads: "Shark! Shark!"</p>
+<p>But then a cry rang through the aira cry that every sailor dreads: "Shark! Shark!"</p>
 
-<p>I turned, and there on the surface I saw the back fins of two sharks—quite a way off, it is true; but you have to see a shark swim for his prey before you can realize what speed sharks can make, and they come swiftly and silently. For a moment it was as if the blood froze in my veins, as if my limbs became paralyzed.</p>
+<p>I turned, and there on the surface I saw the back fins of two sharksquite a way off, it is true; but you have to see a shark swim for his prey before you can realize what speed sharks can make, and they come swiftly and silently. For a moment it was as if the blood froze in my veins, as if my limbs became paralyzed.</p>
 
 <p>For a fraction of a second I believe I even considered leaving the little girl and trying to save myself. Sights I had seen of men being attacked by sharks came to me like a flash.</p>
 
@@ -1491,7 +1742,7 @@ She Didn't Know How to Shoot
 
 <p>I was now but a few yards from the boat. Would I make it? I remembered a case of a man getting his leg cut off by a shark just as he was being pulled into a boat. Would I share his fate? Oh, how I swam!</p>
 
-<p>Then, all of a sudden, I felt myself relieved of my burden. I had reached the boat. I was no longer fully conscious. Simultaneously as I was relieved of my burden, a cry went up from the steamer. I did not realize its meaning, but when strong arms found my shoulders and pulled me with a quick jerk into the boat, the last thing I could remember was the sight of the shark's white shining belly as it turned on its back to sever my legs —but just a moment too late.  E. R.</p>
+<p>Then, all of a sudden, I felt myself relieved of my burden. I had reached the boat. I was no longer fully conscious. Simultaneously as I was relieved of my burden, a cry went up from the steamer. I did not realize its meaning, but when strong arms found my shoulders and pulled me with a quick jerk into the boat, the last thing I could remember was the sight of the shark's white shining belly as it turned on its back to sever my legs but just a moment too late.  E. R.</p>
 
 One Woman's Story
 
@@ -1503,7 +1754,7 @@ One Woman's Story
 
 <p>My baby daughter was sleeping the peaceful sleep of babyhood in her crib not three feet from the spot where stood her father. Our other child slept in an adjoining room. There was no one else in the house, which was a little bungalow in a country town.</p>
 
-<p>There was no one to summon to my aid. The man was coolly intent upon his purpose. My whole life seemed to flit past me in that moment—all my hopes, aims, ambitions, my moments of happiness and my many disappointments. I can not express the feeling of helplessness that overcame me. To appeal to his mercy was useless; he was crazed, and could not be reasoned with.</p>
+<p>There was no one to summon to my aid. The man was coolly intent upon his purpose. My whole life seemed to flit past me in that momentall my hopes, aims, ambitions, my moments of happiness and my many disappointments. I can not express the feeling of helplessness that overcame me. To appeal to his mercy was useless; he was crazed, and could not be reasoned with.</p>
 
 <p>He opened his lips to announce that the time was up. I interrupted him by saying:</p>
 
@@ -1533,9 +1784,9 @@ One Woman's Story
 
 <p>I jumped up and said, "I'll go," right on the impulse of the moment.</p>
 
-<p>We two jumped over the parapet, rushed to the little bush, picked up the officer, and carried him to the trench. During all this time do you think things were quiet? Not by any means. The Chinese on the south wall spotted us almost at once, and let loose a veritable hail of lead. The bullets cut the dust around my feet; they hummed past my face and over my head—I did not discover until afterward that a bullet had actually gone through my hat. But my partner and I kept going (in fact, there was nothing else to do) until we were safe with our wounded officer back of the trenches.</p>
+<p>We two jumped over the parapet, rushed to the little bush, picked up the officer, and carried him to the trench. During all this time do you think things were quiet? Not by any means. The Chinese on the south wall spotted us almost at once, and let loose a veritable hail of lead. The bullets cut the dust around my feet; they hummed past my face and over my headI did not discover until afterward that a bullet had actually gone through my hat. But my partner and I kept going (in fact, there was nothing else to do) until we were safe with our wounded officer back of the trenches.</p>
 
 <p>Officers and men alike shook hands with us when they got the chance. This is the bravest (if it can be considered brave) thing I ever have done. I'll admit it was all done under undue excitement. When I was safe, I just slumped right down and went all to pieces. Some may question this as bravery.</p>
 
-<p>Well—the government thought it was, when they presented me with a medal some time afterward, and honorable mention as well.  W. C. S.</p>
+<p>Wellthe government thought it was, when they presented me with a medal some time afterward, and honorable mention as well.  W. C. S.</p>
 
