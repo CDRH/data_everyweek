@@ -1,25 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-It's the Most Important Word in the Language To-day
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180427">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, April 27, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180427</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-04-27">April 27, 1918</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-04-24"><name>Erin Marra</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
-<p>WORDS come and go: they have their day" We have passed through the reign of "psychological" and "efficiency" and "merchandising." </p>
+<pb n="Cover" xml:id="ew.issue.19180427.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note></note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>April 27, 1918</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main">THE STUFF HEROES ARE MADE OF</head>
+<p>An Interview with Ralph Connor</p>
+<ab type="credit">J. G.</ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19180427.p002"/>
+
+<text>
+<body>
+
+<figure n="advertisement">
+<head>"THE ENCLOSED BLADE"</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Gem Damaskeene Razor Blades</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"YES, SIR!"</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="editorial" xml:id="barton.19180427">
+<body>
+
+<head type="main">It's the Most Important Word in the Language To-day</head>
+
+<p>WORDS come and go: they have their day. We have passed through the reign of "psychological" and "efficiency" and "merchandising." </p>
 
 <p>And a new little word now holds the throne: the destinies of the world are wrapped up in its six letters.</p>
 
 <p>It is spelled this way: M-O-R-A-L-E.</p>
 
-<p>I listened the other night to "Will Irwin's description of the great Italian disaster. 'There are no better fighters in the world than the Italians.  Cadorna had established them in positions almost impregnable.</p>
+<p>I listened the other night to Will Irwin's description of the great Italian disaster. There are no better fighters in the world than the Italians. Cadorna had established them in positions almost impregnable.</p>
 
 <p>What, then, happened to hurl them to defeat?</p>
 
-<p>First of all, the report spread insidiously all over Italy that the war would he over in December, that the peace conference even then was under way in Switzerland.</p>
+<p>First of all, the report spread insidiously all over Italy that the war would be over in December, that the peace conference even then was under way in Switzerland.</p>
 
-<p>It spread first, not among the soldiers, but among the women at home. Soldiers going home on leave met wives who gave them the good news and warned them: "Don't take any chances now: the war is practically over. Just he careful a few days more."</p>
+<p>It spread first, not among the soldiers, <hi rend="italic">but among the women at home</hi>. Soldiers going home on leave met wives who gave them the good news and warned them: "Don't take any chances now: the war is practically over. Just be careful a few days more."</p>
 
-<p>The whole story is too long to tell. But, for our purpose, the significant fact is this	the morale of the people at home was first attacked; and they, in turn, poisoned the faith and determination of the troops at the front.</p>
+<p>The whole story is too long to tell. But, for our purpose, the significant fact is this&#8212;the morale of the people at home was first attacked; and they, in turn, poisoned the faith and determination of the troops at the front.</p>
 
 <p>Morale is as old as warfare, and it can be made or broken overnight.</p>
 
-<p>Caesar was overwhelmed by Pompey at the battle of Dyrrhachium. Yet so powerfully did he impress his own faith upon his troops that they met the same army only a few days later, and, though outnumbered two to one, accomplished one of the greatest victories of history.</p>
+<p>CÃ¦sar was overwhelmed by Pompey at the battle of Dyrrhachium. Yet so powerfully did he impress his own faith upon his troops that they met the same army <hi rend="italic">only a few days later</hi>, and, though outnumbered two to one, accomplished one of the greatest victories of history.</p>
 
 <p>Gideon in one night destroyed the morale of the hosts of Midian, and defeated them with only three hundred men.</p>
 
@@ -27,11 +156,11 @@ It's the Most Important Word in the Language To-day
 
 <p>And that nation whose morale curve is highest when the final conflict comes will win the war.</p>
 
-<p>What, then, is this quality morale? Of what elements does it consist'</p>
+<p>What, then, is this quality&#8212;morale? Of what elements does it consist?</p>
 
 <p>Of cheerfulness, first of all.</p>
 
-<p>When the forty-two thousand .Jews returned from their captivity to rebuild the walls of ,Jerusalem, they brought not merely money and food and implements, but "there were among them two hundred singing men and singing women."</p>
+<p>When the forty-two thousand Jews returned from their captivity to rebuild the walls of Jerusalem, they brought not merely money and food and implements, but "there were among them two hundred singing men and singing women."</p>
 
 <p>Their leaders knew the magic influence of music on discouraged men and women.</p>
 
@@ -39,105 +168,191 @@ It's the Most Important Word in the Language To-day
 
 <p>There will be no lack of spirit at the front: what of the spirit back home?</p>
 
-<p>And what of the faith of the home folks? For  faith is the second great factor in morale.</p>
+<p>And what of the <hi rend="italic">faith</hi> of the home folks? For <hi rend="italic">faith</hi> is the second great factor in morale.</p>
 
+<cit>
+<quote>
 <p>The strength of the fighter is the strength of his faith [says F. S. Oliver]. Each new Gideon who goes out against the Midianites fancies that the sword of the Lord is in his hand. He risks all that he holds dear in order that he may pull down the foul altar of Baal and build up an altar to Jehovah, in order that his race may not be shorn of its inheritance, in order that it may hold fast its own laws and institutions, and not pass under the yoke of the Gentiles.</p>
+</quote>
+</cit>
 
-<p>Cheerfulness--bred of the knowledge that the home fires are burning brightly and arc worth fighting for.</p>
+<p>Cheerfulness&#8212;bred of the knowledge that the home fires are burning brightly and are worth fighting for.</p>
 
-<p>Courage—sustained by the courage of those who are behind"</p>
+<p>Courage&#8212;sustained by the courage of those who are behind.</p>
 
-<p>Faith that the cause is eternally just, and therefore can not fail"</p>
+<p>Faith&#8212;that the cause is eternally just, and therefore <hi rend="italic">can not</hi> fail.</p>
 
-<p>These are thus elements of morale. If you yearn for the news of' victory that will spell peace, see that. you keep these qualities in your own heart strong and vibrant"</p>
+<p>These are thus elements of morale. If you yearn for the news of victory that will spell peace, see that you keep these qualities in your own heart strong and vibrant.</p>
 
-<p>For almost always, lien morale begins to weaken, it begins to weaken first of all at home.</p>
+<p>For almost always, when morale begins to weaken, it begins to weaken first of all <hi rend="italic">at home</hi>.</p>
 
-Bruce Barton, Editor.
+<byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19180427.p003"/>
 
+<text>
+<body>
 
+<figure n="advertisement">
+<head>Ingram's Milkweed Cream</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Frederick F. Ingram Co.</figDesc>
+</figure>
 
-"THERE ARE NO COMMON MEN"
+</body>
+</text>
 
-An Interview with Ralph Connor
+<pb n="Page 4" xml:id="ew.issue.19180427.p004"/>
 
-By LOREN PALMER
+<text>
+<body>
 
-<p>THERE are no `common men"' " Type can not convey the meaning that Major Charles W. Gordon put into those words" Back from three years in the trenches, this chaplain of the Canadian forces at the front has, as he said, seen "the sudden flaming forth of the divine in men." For him unemotional bravery and unquestioning self-sacrifice had become a commonplace."</p>
+<figure n="advertisement">
+<head>New Upholstery for Old</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Du Pont Fabrikoid Company</figDesc>
+</figure>
 
-<p>"Why, I remember one little insignificant beggar," he said" "No one knew where he came from, and no one cared" He had been nobody back home; he was the last sort of material, you'd have thought, from which heroes are made."</p>
+</body>
+</text>
 
-<p>"Then, one day, he was on duty in a front bay, an outpost position" Men aren't supposed to get together in such places, but a half dozen had bunched themselves there—the human instinct for companion-ship, I suppose. A live bomb dropped in their midst. Five men rushed to one end of the bay and cowered down, awaiting the crash that would mean death to them all: but the sixth dropped on that bomb and smothered the explosion with his body" He was blown to bits, but the others were saved. It was the little beg-gar from nowhere in particular."</p>
+<pb n="Page 5" xml:id="ew.issue.19180427.p005"/>
 
-<p>Major Gordon—you know him better as Ralph Connor, who wrote "Black Rock," "The Sky Pilot," and "The Major," his latest book—Major Gordon was lying in bed in a room in a New York hotel when I talked with him" He had come to New York to snatch a few hours' rest; and I got the impression that he found New York almost too restful, and that he was startled to find here so little evidence of a country at war. By now he is at his home in Winnipeg, Canada, busy with the book his government has asked him to write about the war, or—and this is more likely—back at the fighting front."</p>
+<text type="flag">
+<body>
 
-<p>The tan of the trenches was still on his face when I talked with him. It is a face strongly lined, and his deep-set gray eyes have the steady look of those who have seen death and conquered fear. The mouth beneath the close-cut iron-gray mustache is firm" They say the chaplains in this war are fighting men.</p>
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 17<lb/>
+April 27, 1918<lb/>
 
-<p>He told that story of the "no-account little beggar" unemotionally, reflectively."</p>
+Every Week<lb/>
+"Every word counts"<lb/>
 
-<p>"Such acts have become almost commonplace," said he. "They are strewn through the story of this war like stones in a field, and all conditions of men have had part in them" They told us before the war that in the `blue-blooded aristocracy' of England the blood was running thin and the bodies getting soft. But hosts of young men from what we call—for lack of a better term—'the best families' (I hate the phrase) have shown their ability to endure tremendous physical strain, carrying on through the dirt and the lice with unruffled temper and calm assurance. Call for the heroic, and these men-are `there' just as often as those bred to hardship and built for fighting."</p>
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
 
-<p>"There was one little lieutenant. With his delicate, sensitive face and quiet spoken way, he appeared to be what you call a `mother's boy.' But he was like steel" In one of our bad goes, his company commander was wounded" He lay in the bottom of a trench, where no living thing could get out or in. He was groaning and bleeding. They fixed him up as best they could, and the little lieu-tenant asked permission to try to get back and bring up stretcher-bearers. His commander refused" After an hour of this, with no slackening of the hail from the machine-guns, the lieutenant said:</p>
+<p>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
+
+</body>
+</text>
+
+<text>
+<body>
+
+<head type="main">"THERE ARE NO COMMON MEN"</head>
+<head type="sub"><hi rend="italic">An Interview with Ralph Connor</hi></head>
+<byline>By <persName type="author" key="#Palmer, Loren">LOREN PALMER</persName></byline>
+
+<cb n="1"/>
+
+<p>"THERE are no 'common men.'" Type can not convey the meaning that Major Charles W. Gordon put into those words. Back from three years in the trenches, this chaplain of the Canadian forces at the front has, as he said, seen "the sudden flaming forth of the divine in men." For him unemotional bravery and unquestioning self-sacrifice had become a commonplace.</p>
+
+<p>"Why, I remember one little insignificant beggar," he said. "No one knew where he came from, and no one cared. He had been nobody back home; he was the last sort of material, you'd have thought, from which heroes are made.</p>
+
+<p>"Then, one day, he was on duty in a front bay, an outpost position. Men aren't supposed to get together in such places, but a half dozen had bunched themselves there&#8212;the human instinct for companionship, I suppose. A live bomb dropped in their midst. Five men rushed to one end of the bay and cowered down, awaiting the crash that would mean death to them all: but the sixth dropped on that bomb and smothered the explosion with his body. He was blown to bits, but the others were saved. It was the little beggar from nowhere in particular."</p>
+
+<p>Major Gordon&#8212;you know him better as Ralph Connor, who wrote "Black Rock," "The Sky Pilot," and "The Major," his latest book&#8212;Major Gordon was lying in bed in a room in a New York hotel when I talked with him. He had come to New York to snatch a few hours' rest; and I got the impression that he found New York almost too restful, and that he was startled to find here so little evidence of a country at war. By now he is at his home in Winnipeg, Canada, busy with the book his government has asked him to write about the war, or&#8212;and this is more likely&#8212;back at the fighting front."</p>
+
+<p>The tan of the trenches was still on his face when I talked with him. It is a face strongly lined, and his deep-set gray eyes have the steady look of those who have seen death and conquered fear. The mouth beneath the close-cut iron-gray mustache is firm. They say the chaplains in this war are fighting men.</p>
+
+<p>He told that story of the "no-account little beggar" unemotionally, reflectively.</p>
+
+<p>"Such acts have become almost commonplace," said he. "They are strewn through the story of this war like stones in a field, and all conditions of men have had part in them. They told us before the war that in the 'blue-blooded aristocracy' of England the blood was running thin and the bodies getting soft. But hosts of young men from what we call&#8212;for lack of a better term&#8212;'the best families' (I hate the phrase) have shown their ability to endure tremendous physical strain, carrying on through the dirt and the lice with unruffled temper and calm assurance. Call for the heroic, and these men are 'there' just as often as those bred to hardship and built for fighting."</p>
+
+<p>"There was one little lieutenant. With his delicate, sensitive face and quiet spoken way, he appeared to be what you call a 'mother's boy.' But he was like steel. In one of our bad goes, his company commander was wounded. He lay in the bottom of a trench, where no living thing could get out or in. He was 
+
+<cb n="2"/>
+
+groaning and bleeding. They fixed him up as best they could, and the little lieutenant asked permission to try to get back and bring up stretcher-bearers. His commander refused. After an hour of this, with no slackening of the hail from the machine-guns, the lieutenant said:</p>
 
 <p>"'Sir, I have always obeyed your orders; but, by God, I can't stand it any longer! I'm going for the bearers.'</p>
 
-<p>"He jumped out of the trench, and without heroics a private, his batman, followed at his heels" The lieutenant got perhaps fifty yards before the bullets cut him down; the private also was killed."</p>
+<p>"He jumped out of the trench, and without heroics a private, his batman, followed at his heels. The lieutenant got perhaps fifty yards before the bullets cut him down; the private also was killed.</p>
 
-<p>AND the devotion of the men to one another  other is just as splendid. Two chums were in a raid in No Man's Land" As they came back, one was wounded and fell near our trenches. The machine-gun fire was so fierce that no one was allowed to go to the wounded man's aid. His chum, however, quietly got together some water bottles, bandages, and biscuits, and begged so hard for permission to make the attempt that his commander said to go.</p>
+<p>"AND the devotion of the men to one another is just as splendid. Two chums were in a raid in No Man's Land. As they came back, one was wounded and fell near our trenches. The machine-gun fire was so fierce that no one was allowed to go to the wounded man's aid. His chum, however, quietly got together some water bottles, bandages, and biscuits, and begged so hard for permission to make the attempt that his commander said to go.</p>
 
-<p>"He crawled out to the wounded man, tied up his hurts, gave him water, and made him eat some biscuits to hearten him.  And then they lay there, waiting for night to come, when they could crawl to safety" As they waited, a bullet found the rescuer" We get to know when a man has a fatal hurt, and this man's chum sensed it."</p>
+<p>"He crawled out to the wounded man, tied up his hurts, gave him water, and made him eat some biscuits to hearten 
 
-<p>`Ye're hit, ain't ye, Jim?' he said. And the other answered: `Guess I've got it,' and died."</p>
+<cb n="3"/>
 
-<p>"A few minutes later the sun set, and the man whose chum had died for him crawled back into the lines."</p>
+him. And then they lay there, waiting for night to come, when they could crawl to safety. As they waited, a bullet found the rescuer. We get to know when a man has a fatal hurt, and this man's chum sensed it.</p>
 
-<p>"Oh, yes; once in a while a man does `break,' but there are few instances of the yellow streak" A man had better die in the field than face the contempt of his fellows" He can't live in a battalion after he has proved yellow" And the war has brought keen discrimination to these man. The symptoms of shell-shock are so like those of terror that at first we were easily deceived; but now the men spot unerringly the man who is going back because shell-shock has unhinged his mind and the man who runs because he is plain afraid."</p>
+<p>"'Ye're hit, ain't ye, Jim?' he said. And the other answered: 'Guess I've got it,' and died."</p>
 
-<p>"Men are naturally brave when it comes to actual fighting, and when we are at hands' grip with the enemy acts of gallantry are so common as often to pass unnoticed. Instances of men jump-ing Into a trench and cleaning up a squad of Boches single-handed are numberless. The Victoria Crosses awarded do not represent one thousandth part of those deserved."</p>
+<p>"A few minutes later the sun set, and the man whose chum had died for him crawled back into the lines.</p>
 
-<p>Major Gordon's reference to awards for courage reminded me of what John Gallishaw tells in Trenching at Gallipoli. Gallishaw was a member of the famous Newfoundland contingent. The Newfoundlanders were impatient of formalities, and one big private had been so often reprimanded by smart British officers for minor breaches of discipline that a request for his name meant to him that he'd blundered."</p>
+<p>"Oh, yes; once in a while a man does 'break,' but there are few instances of the yellow streak. A man had better die in the field than face the contempt of his fellows. He can't live in a battalion after he has proved yellow. And the war has brought keen discrimination to these man. The symptoms of shell-shock are so like those of terror that at first we were easily deceived; but now the men spot unerringly the man who is going back because shell-shock has unhinged his mind and the man who runs because he is plain afraid.</p>
 
-<p>He was in a sap only a few yards from the Turkish position, when the supply of bombs gave out" The bombs used by the Turks explode five seconds after they are thrown, while the English bombs are timed for three seconds" This difference gave the Newfoundlander his chance. Instead of retreating, he began picking up the Turkish bombs and throwing them back."</p>
+<p>"Men are naturally brave when it comes to actual fighting, and when we are at hands' grip with the enemy acts of gallantry are so common as often to pass unnoticed. Instances of men 
+
+<cb n="4"/>
+
+jumping into a trench and cleaning up a squad of Boches single-handed are numberless. The Victoria Crosses awarded do not represent one thousandth part of those deserved."</p>
+
+<p>Major Gordon's reference to awards for courage reminded me of what John Gallishaw tells in <hi rend="italic">Trenching at Gallipoli</hi>. Gallishaw was a member of the famous Newfoundland contingent. The Newfoundlanders were impatient of formalities, and one big private had been so often reprimanded by smart British officers for minor breaches of discipline that a request for his name meant to him that he'd blundered.</p>
+
+<p>He was in a sap only a few yards from the Turkish position, when the supply of bombs gave out. The bombs used by the Turks explode five seconds after they are thrown, while the English bombs are timed for three seconds. This difference gave the Newfoundlander his chance. Instead of retreating, he began picking up the Turkish bombs and throwing them back."</p>
 
 <p>A brigade officer saw the performance and stood gazing an awe-struck moment. At last he spoke:</p>
 
 <p>"I say, my man, what's your name and number?"</p>
 
-<p>The Newfoundlander heaved back an-other bomb as he answered plaintively:</p>
+<p>The Newfoundlander heaved back another bomb as he answered plaintively:</p>
 
 <p>"What in hell have I done now?"</p>
 
-<p>-Said an Irish sergeant:</p>
+<p>Said an Irish sergeant:</p>
 
-<p>"There's a man who would have been recommended for the Distinguished Conduct Medal if he had answered that officer right. The real Distinguished Conduct Medal men and the real V. C" heroes never get them. They're underground."</p>
+<p>"There's a man who would have been recommended for the Distinguished Conduct Medal if he had answered that officer right. The real Distinguished Conduct Medal men and the real V. C. heroes never get them. They're underground."</p>
 
-<p>THOSE men out there know that there are lots of things worse than death," the Major continued after a pause. "Wounded men sent home will say, `I've had enough.' But they can't stay at home" They want to go back. They hate the beastly thing that is war, but they can't feel content out of it while the others are there carrying on.</p>
+<p>THOSE men out there know that there are lots of things worse than death," the Major continued after a pause. "Wounded men sent home will say, 'I've had enough.' But they can't stay at home. They want to go back. They hate the beastly thing that is war, but they can't feel content out of it while the others are there carrying on.</p>
 
-<p>"If I were to pick from the hosts of brave men I've known, I think I'd fancy a class of men that perhaps you'd not think of as heroic. I mean the runners. Usually they are young chaps, too light to he of much use in a bayonet push. They go, day or night, on any kind of an errand. They carry on through the worst barrage" Messages must be taken back, and they've got to go" Nothing stops them except death.</p>
+<p>"If I were to pick from the hosts of brave men I've known, I think I'd fancy a class of men that perhaps you'd not think of as heroic. I mean the runners. Usually they are young chaps, too light to be of much use in a bayonet push. They go, day or night, on any kind of an errand. They carry on through the worst barrage. Messages must be taken back, and they've got to go. Nothing stops them except death.</p>
 
-<p>"Two of these runners were sent back from an exposed position with a message for headquarters" They hadn't gone far when one fell with his arm shattered. He called to his comrade to go on, and set himself to bandaging his arm" A hundred yards farther on the second man fell—killed outright" The man with the shattered arm saw it. He heaved himself up and staggered on. A bullet got him in the back. His legs wouldn't carry him; but he could still crawl, and he crawled. He reached the parapet and was pulled inside. He gave the message; but when they started to examine his wounds, they found that he was dead.</p>
+<p>"Two of these runners were sent back from an exposed position with a message for headquarters. They hadn't gone far when one fell with his arm shattered. He called to his comrade to go on, and set himself to bandaging his arm. A hundred yards farther on the second man fell&#8212;killed outright. The man with the shattered arm saw it. He heaved himself up and staggered on. A bullet got him in the back. His legs wouldn't carry him; but he could still crawl, and he crawled. He reached the parapet and was pulled inside. He gave the message; but when they started to examine his wounds, they found that he was dead.</p>
 
-<p>"Devotion to duty? It has to he duty reinforced by some other human passion to make men do things like that."</p>
+<p>"Devotion to duty? It has to be duty reinforced by some other human passion to make men do things like that."</p>
 
-EVERY MAN IS A POSSIBLE HERO
+</body>
+</text>
 
-<p>COURAGE is elemental and almost universal, says Professor George T" W" Patrick in Medicine and Surgery" No class has a monopoly of heroism" The London cockney, the university student or professor, the wastrel from the East End, most unpromising fighters, many of them, have turned out to be heroes.</p>
+<text type="nonfiction" xml:id="possible.19180427">
+<body>
+
+<head type="main">EVERY MAN IS A POSSIBLE HERO</head>
+
+<p>COURAGE is elemental and almost universal, says Professor George T. W. Patrick in <hi rend="italic">Medicine and Surgery</hi>. No class has a monopoly of heroism. The London cockney, the university student or professor, the wastrel from the East End, most unpromising fighters, many of them, have turned out to be heroes.</p>
 
 <p>Read these incidents taken at random from the despatches:</p>
 
-<p>"A live bomb fell among a group of men. Private D. R. Lander covered it with his foot to protect his comrades" His foot was blown off."</p>
+<p>"A live bomb fell among a group of men. Private D. R. Lander covered it with his foot to protect his comrades. His foot was blown off."</p>
 
 <p>"The Reservist Courtin, of the 126th Infantry, first killed all the men who were working a machine-gun, and then leaped alone into the trench, which was defended by twenty Germans, whom he killed by shooting some and bayoneting the rest."</p>
 
-<p>"Corporal Leboucq, of the 4th Cuirassiers, although he was quite alone, took a captain and twenty-three Württemberg soldiers prisoners by his coolness and intrepidity."</p>
+<p>"Corporal Leboucq, of the 4th Cuirassiers, although he was quite alone, took a captain and twenty-three WÃ¼rttemberg soldiers prisoners by his coolness and intrepidity."</p>
 
-<p>"Arthur Fleury, of the 319th Territorial Infantry, killed four Germans single-handed, captured eight, and put three others to flight. He was twice wounded and sent to the rear, but returned to his company of his own ac-cord, though not fully cured."</p>
+<p>"Arthur Fleury, of the 319th Territorial Infantry, killed four Germans single-handed, captured eight, and put three others to flight. He was twice wounded and sent to the rear, but returned to his company of his own accord, though not fully cured."</p>
 
+<figure n="photograph"></figure>
 
+</body>
+</text>
 
-When the German Doctors Ran Away
+<pb n="Page 6" xml:id="ew.issue.19180427.p006"/>
+
+<text type="nonfiction" xml:id="german.19180427"> 
+<body>
+
+<head type="main">When the German Doctors Ran Away</head>
+
+<cb n="1"/>
 
 <p>THE camp at Wittenberg, Germany, which housed some fifteen thousand prisoners, Russians, British, and French, was approximately ten acres in extent.</p>
 
@@ -147,13 +362,17 @@ When the German Doctors Ran Away
 
 <p>In this camp, in the fall of 1914, typhus broke out in a virulent form, and lasted to the following summer.</p>
 
-<p>"It is easy," says Dr. McCarthy, an inspector of camps on behalf of the Amer-can Embassy, in his book The Prisoner of liar in Germany (Moffat Yard & Company), "to imagine the helpless horror that overtook the men. It was from this plague-stricken camp that the entire German staff and guard to a man, responsible for their own honor and their safe-keeping, fled. Not a single German was left within the camp enclosure."</p>
+<p>"It is easy," says Dr. McCarthy, an inspector of camps on behalf of the Amercan Embassy, in his book <hi rend="italic">The Prisoner of War in Germany</hi> (Moffat Yard &amp; Company), "to imagine the helpless horror that overtook the men. It was from this plague-stricken camp that the entire German staff and guard to a man, responsible for their own honor and their safe-keeping, fled. Not a single German was left within the camp enclosure."</p>
 
-<p>Presently, how-ever, help was sent in the form of four British doctors who had been detained at [lane—probably, Dr. McCarthy says, for this very purpose. Of the four, one survives. He, one Captain L—, found the sick and the well all herding together. When he tried to take them to the hospital, he found no stretchers were available. Tables from which the men ate were used for the purpose, and there was no soap even to wash them afterwards. When he attempted to wipe away what he thought was dust from the folds of a man's clothes, he found it to be a moving mass of lice. When he took the clothing from the men to disinfect it, he had nothing to put on them instead. Drugs and bandages were practically unprocurable.</p>
+<p>Presently, however, help was sent in the form of four British doctors who had been detained at Halle&#8212;probably, Dr. McCarthy says, for this very purpose. Of the four, one survives. He, one Captain L&#8212;, found the sick and the well all herding together. When he tried to take them to the hospital, he found no stretchers were available. Tables from which the men ate were used for the purpose, and there was no soap even to wash them afterwards. When he attempted to wipe away what he thought was dust from the folds of a man's clothes, he found it to be a moving mass of lice. When he took the clothing from the men to disinfect it, he had nothing to put on them instead. Drugs and bandages were practically unprocurable.</p>
 
-<p>Gangrene and bed-sores resulted in loss of limbs that might have been saved by some camphorated oil and cotton wool.</p>
+<p>Gangrene and bed-sores resulted in loss of limbs that might have been saved by 
 
-<p>The food consisted of a roll, half a cup of milk, and some soup trans-ported in wooden tubs without covers. It was impossible to get even warm water with the milk.</p>
+<cb n="2"/>
+
+some camphorated oil and cotton wool.</p>
+
+<p>The food consisted of a roll, half a cup of milk, and some soup transported in wooden tubs without covers. It was impossible to get even warm water with the milk.</p>
 
 <p>And, according to orders from the German government, all patients, whether they were suffering from plague or other disease, had to be placed in the same hospital!</p>
 
@@ -167,11 +386,23 @@ When the German Doctors Ran Away
 
 <p>"Yet, in the absence of this, German science and German medicine will bear the responsibility and the odium attached to the act of men who, when human life was placed in their hands, failed to live up to their plain duty."</p>
 
-Mother and Child
+</body>
+</text>
 
-Photograph by Central News Photo Service
+<text type="nonfiction" xml:id="mother.19180427">
+<body>
 
+<head type="main">Mother and Child</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph by Central News Photo Service</ab>
 <p>She looks like a witch mother with her demon child; but she is only a sturdy Flemish peasant woman, who prefers to sit at her own hearth, even in a gas-mask, than risk herself among strangers.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
 
 From Punch
 PRIVATE SMITH (late assistant to palmist, etc., Bond Street). Who'd have thought it? They seem to know me.
@@ -188,7 +419,7 @@ The little mother shed tears of happiness.
 
 <p>The mother never hesitated, but, sitting down in the shack by courtesy called her home, she cast away her hopes of being liberated from her prison of poverty. Here is the letter she sent her boys:</p>
 
-<p>"You must decide for yourselves, my boys. But if I were in your place I know I should enlist and go to the defense of my coutry. And oh, my dears, if you should not live to come back, life is but a little span at best, and you would have a part in saving the finest civilization of which the world has ever dreamed. On some cathedral in Italy—I can not remember just now which one—there is an inscription which reads: `That only is important which is eternal.'"</p>
+<p>"You must decide for yourselves, my boys. But if I were in your place I know I should enlist and go to the defense of my coutry. And oh, my dears, if you should not live to come back, life is but a little span at best, and you would have a part in saving the finest civilization of which the world has ever dreamed. On some cathedral in ItalyI can not remember just now which onethere is an inscription which reads: `That only is important which is eternal.'"</p>
 
 <p>The boys have gone "over there." She has resumed the old life of poverty and toil in the desert. But it is said that nowhere else in the world can there be seen such wonderful sunsets as in the desert.</p>
 
@@ -205,7 +436,7 @@ But not me," says Dan the sailor-man, "not me," says he;
 
 <p>"When the last battle's lost an' won an' won or lost the game,
 There's some'!! think no 'arm to drink with squareheads just the same; 
-But not me," says Dan the sailor-man, "an' if you ask me why—
+But not me," says Dan the sailor-man, "an' if you ask me why
 Lord knows it's thirsty in an open boat when the water-breaker's dry.</p>
 
 <p>"When all the bloomin' mines is swep' an' ships are sunk no more, 
@@ -215,7 +446,7 @@ Lord knows it's hungry in an open boat when the last biscuit's done.</p>
 
 <p>"When peace is signed an' treaties made an' trade begins again, 
 There's some'!! shake a German's 'and an' never see the stain;
-But not me," says Dan the sailor-man, "not me, as God's on high—
+But not me," says Dan the sailor-man, "not me, as God's on high
 Lord knows it's bitter in an open boat to see your shipmates die."</p>
 
 Down But Not Out
@@ -281,9 +512,9 @@ Illustrations by Walter Biggs
 
 <p>THE Irishman answered with all the minute detail of a man consulted on his own profession; but when Adam walked away from the fair grounds his mind reverted immediately to young Jack Sullivan. The old merchant had indeed been guilty of a mild sentimental false-hood when he had said that he had known the older Jack Sullivan well, but in this he was free from any intent to deceive, for the mention of One-Horse Jack had brought rushing back a chapter in Adam's own history which he had almost forgotten.</p>
 
-<p>In the seventies—those mellow days of black-walnut furniture and famous horse races, those days which, even in this re-public, we designate as "Victorian" Marc Adam had come to this country, a boy of twenty. His father had been a hotel-keeper in Prague. He had had a good bringing up and a good education, but his only friend in America was the caterer of a racing club on Long Island, and for want of a better beginning young Adam had found himself installed at this club as a waiter. It was not the station in life for which he was fitted, but the mild young Bohemian took it good-naturedly, and in some ways that summer was the happiest of his whole life. It was certainly the most exciting.</p>
+<p>In the seventiesthose mellow days of black-walnut furniture and famous horse races, those days which, even in this re-public, we designate as "Victorian" Marc Adam had come to this country, a boy of twenty. His father had been a hotel-keeper in Prague. He had had a good bringing up and a good education, but his only friend in America was the caterer of a racing club on Long Island, and for want of a better beginning young Adam had found himself installed at this club as a waiter. It was not the station in life for which he was fitted, but the mild young Bohemian took it good-naturedly, and in some ways that summer was the happiest of his whole life. It was certainly the most exciting.</p>
 
-<p>Among the gallant racing men was Jack Sullivan the elder, even then known as "One-Horse Jack"—hard-bitten, hard-riding, loud-laughing, and with a knowledge of horse-flesh amounting almost to clairvoyance. He never had any great amount of money, but he was not an adventurer. He asked no favors and accepted no loans, and he owned just onegood steeplechase horse, which he rode himself.</p>
+<p>Among the gallant racing men was Jack Sullivan the elder, even then known as "One-Horse Jack"hard-bitten, hard-riding, loud-laughing, and with a knowledge of horse-flesh amounting almost to clairvoyance. He never had any great amount of money, but he was not an adventurer. He asked no favors and accepted no loans, and he owned just onegood steeplechase horse, which he rode himself.</p>
 
 <p>Possibly because the fearless riding and the dashing manners of the young Irish-man so contrasted with his own mild nature, the young Bohemian waiter made of the horseman a mental hero. He always sought opportunity to wait on him. He never missed seeing his races, if only from the club-house piazza; but, as usually happens, the object of this hero-worship passed through it completely unconscious of it, and when autumn came young Adam abandoned the shirt-front and napkin for all time.</p>
 
@@ -315,7 +546,7 @@ Illustrations by Walter Biggs
 
 <p>The younger man looked up sharply and nodded.</p>
 
-<p>"I think," said the older, "that I once knew your father—at the Manhansett Club."</p>
+<p>"I think," said the older, "that I once knew your fatherat the Manhansett Club."</p>
 
 <p>Like a miracle the rider's face changed. He looked at Adam expectantly.</p>
 
@@ -342,7 +573,7 @@ Illustrations by Walter Biggs
 
 
 
-<p>"Well, if the horse is a good one, as your father's always were—" began Adam. And then he saw his mistake.</p>
+<p>"Well, if the horse is a good one, as your father's always were" began Adam. And then he saw his mistake.</p>
 
 <p>Sullivan saw it too. He looked down at the brown mare's head and grimaced.</p>
 
@@ -352,7 +583,7 @@ Illustrations by Walter Biggs
 
 <p>Adam made light of it; but as he turned to go Sullivan called to him:</p>
 
-<p>"By the way, if you cared to see that picture of Kentucky King, any time you'd drop over to my house, Mr.—"</p>
+<p>"By the way, if you cared to see that picture of Kentucky King, any time you'd drop over to my house, Mr."</p>
 
 <p>"Adam," supplied the other.</p>
 
@@ -376,29 +607,29 @@ Illustrations by Walter Biggs
 
 <p>To the credit of Marc Adam, he displayed no consciousness of the wall of hostility erected around him. Even in his own mind he refused to harbor a smallness to match that which was entertained against him. He lived his life in Wessex, enjoying such pleasures as no hostility could keep him from enjoying, but, until he spoke to jack Sullivan, neither he nor his family had made or received one single social advance.</p>
 
-<p>Not even was the invitation of the simple young Irishman accepted until it had been repeated: a delicacy quite unnecessary, for a visit to Jack Sullivan's bachelor house had the formality of a visit to a barn—which, in some ways, it rather resembled. It was a place that would have given a housekeeper cold chills; but the moment Marc Adam entered it, it awakened a reminiscence as potent as that of for-gotten scents. The yellowed prints on the walls, the spurs and gloves lying carelessly on tables, the aroma of leather and old tobacco, made him suddenly feel, with a catch at his heart, that he was back in that old, old racing club of his youth: There was a sense of squat bottles and long pipes, and of a tall figure with thin bow legs standing before an open fire-place.</p>
+<p>Not even was the invitation of the simple young Irishman accepted until it had been repeated: a delicacy quite unnecessary, for a visit to Jack Sullivan's bachelor house had the formality of a visit to a barnwhich, in some ways, it rather resembled. It was a place that would have given a housekeeper cold chills; but the moment Marc Adam entered it, it awakened a reminiscence as potent as that of for-gotten scents. The yellowed prints on the walls, the spurs and gloves lying carelessly on tables, the aroma of leather and old tobacco, made him suddenly feel, with a catch at his heart, that he was back in that old, old racing club of his youth: There was a sense of squat bottles and long pipes, and of a tall figure with thin bow legs standing before an open fire-place.</p>
 
 <p>It was a crude hospitality that Jack Sullivan offered; but, until he sat back in a great leather chair and talked of old days, Marc Adam had never realized how lonely he had been in his isolated grandeur. He had meant to stay twenty minutes. He stayed three hours; and even then he did not mention the affair that had brought him until he was leaving.</p>
 
 <p>"Mr. Sullivan," he said, "I've got a matter that I would like to talk with you about. Why couldn't you come up to dinner to-night?"</p>
 
-<p>For a moment the Irishman's face clouded. He had not dined formally in a private house in ten years,—not since the single ill-fated attempt to send him through college,—and the idea appalled him. His rooted habits revolted against ' it, but equally his social training was not quick enough to invent an excuse. He stammered and blushed, and then accepted. The moment he was alone, he regretted it. He grew hot and cold, he was in a panic; but he went.</p>
+<p>For a moment the Irishman's face clouded. He had not dined formally in a private house in ten years,not since the single ill-fated attempt to send him through college,and the idea appalled him. His rooted habits revolted against ' it, but equally his social training was not quick enough to invent an excuse. He stammered and blushed, and then accepted. The moment he was alone, he regretted it. He grew hot and cold, he was in a panic; but he went.</p>
 
-<p>AND then happened a curious thing: The minute Jack Sullivan had stepped across the thresh-old of Adam's house, there swept over him a wave of reminiscence as vivid, as potent, as that which had swept over Adam. The old Wendall mansion had been little changed since he had gone there as a child. There were distant memories of boyhood; but the thing was deeper than that. It was more like slipping hack into a pleasant dream or waking up from a had one. Jack Sullivan couldn't tell which, but it was all strangely, vividly familiar. These deep carpets, this slipping in and out of anxious-faced servants, this cathedral clock booming in a hall, this fire burning in an immense stone fireplace—all seemed strangely exhilarating. It all seemed a life that he had once left and now come back to again. Poor Jack Sullivan! He had gone badly to seed in ten years.</p>
+<p>AND then happened a curious thing: The minute Jack Sullivan had stepped across the thresh-old of Adam's house, there swept over him a wave of reminiscence as vivid, as potent, as that which had swept over Adam. The old Wendall mansion had been little changed since he had gone there as a child. There were distant memories of boyhood; but the thing was deeper than that. It was more like slipping hack into a pleasant dream or waking up from a had one. Jack Sullivan couldn't tell which, but it was all strangely, vividly familiar. These deep carpets, this slipping in and out of anxious-faced servants, this cathedral clock booming in a hall, this fire burning in an immense stone fireplaceall seemed strangely exhilarating. It all seemed a life that he had once left and now come back to again. Poor Jack Sullivan! He had gone badly to seed in ten years.</p>
 
 <p>It was from a trance that Adam rescued him when lie came down the oak staircase looking, in his evening clothes; more like King Edward than ever.</p>
 
-<p>"May I present you to my wife, Mr. Sullivan," he said—"and my daughter?"</p>
+<p>"May I present you to my wife, Mr. Sullivan," he said"and my daughter?"</p>
 
 <p>The young horseman turned to see a stately woman in a gown as magnificent as the room, and behind her a small dark-eyed girl of twenty-odd, with a foreign look and a wistful expression.</p>
 
 <p>It was not until after dinner, over their coffee, that Adam mentioned the subject in mind.</p>
 
-<p>"Mr. Sullivan," he said, "I know it is not your business, but I need an expert. I want to build up a stable. Myself, I know nothing of horses; but somehow, here in these hills, motors seem out of place. I want horses—all kinds of horses: coach horses, saddle horses, hunters. There are such horses to be bought, but I don't know where to get them. You do. Will you help me?"</p>
+<p>"Mr. Sullivan," he said, "I know it is not your business, but I need an expert. I want to build up a stable. Myself, I know nothing of horses; but somehow, here in these hills, motors seem out of place. I want horsesall kinds of horses: coach horses, saddle horses, hunters. There are such horses to be bought, but I don't know where to get them. You do. Will you help me?"</p>
 
 <p>At the very suggestion Sullivan's eyes grew wide with interest and his weather-beaten face grew brick-red over his unaccustomed white collar. Adam's ambition seemed to him so wholly normal that it never occurred to him that the old merchant had never dreamed of it three days before. He leaned across the table in his excitement.</p>
 
-<p>"If you are looking for a good hunter," he exclaimed passionately, "I. can tell you where, for six or eight hundred, you can get the finest three-quarter thorough-bred you ever saw—pure chestnut, not a white hair on him, sixteen hands, carry your weight, and just as good in heavy country as in the show ring—"</p>
+<p>"If you are looking for a good hunter," he exclaimed passionately, "I. can tell you where, for six or eight hundred, you can get the finest three-quarter thorough-bred you ever sawpure chestnut, not a white hair on him, sixteen hands, carry your weight, and just as good in heavy country as in the show ring"</p>
 
 <p>Adam laughed.</p>
 
@@ -410,9 +641,9 @@ Illustrations by Walter Biggs
 
 <p>"I'll call around at your place and pick you up," said Adam in planning it. "And, the way, do you mind if my daughter comes?"</p>
 
-<p>"Mind?" asked Sullivan. "Why, not at all. But, as I was saying, if you want to get the true type of French coach horse, you can't expect to pick them up offhand. Nevertheless, I can show you—"</p>
+<p>"Mind?" asked Sullivan. "Why, not at all. But, as I was saying, if you want to get the true type of French coach horse, you can't expect to pick them up offhand. Nevertheless, I can show you"</p>
 
-<p>Show him he certainly did. Business the real love of Adam's life, in those trips he learned the fascination of that most alluring of all forms of commerce, the buying and selling of live stock—the long motor trips over sun-bathed hills, the picturesque, almost feudal scenes at the big stock-farms, the high-bred animals running free in whitewashed pad-docks, the quaint, pungent talk of the stablemen, and all the old-fashioned etiquette of buying and selling. In that line, at least, Adam saw very soon that the son of One-Horse Jack was no mean bargainer. Every horse-dealer, every stockman in the country knew him, and to every one Sullivan adapted himself precisely.</p>
+<p>Show him he certainly did. Business the real love of Adam's life, in those trips he learned the fascination of that most alluring of all forms of commerce, the buying and selling of live stockthe long motor trips over sun-bathed hills, the picturesque, almost feudal scenes at the big stock-farms, the high-bred animals running free in whitewashed pad-docks, the quaint, pungent talk of the stablemen, and all the old-fashioned etiquette of buying and selling. In that line, at least, Adam saw very soon that the son of One-Horse Jack was no mean bargainer. Every horse-dealer, every stockman in the country knew him, and to every one Sullivan adapted himself precisely.</p>
 
 <p>At the big Fairview Farms, where they went for the coach horses, he was as formal as in a law court. "If you please, Mr. Kinkaid," it was to the manager; and "The pleasure is mine, Mr. Sullivan."</p>
 
@@ -438,9 +669,9 @@ Illustration by Jessie Gillespie
 
 <p>A CERTAIN editor maintains such an even average of originality, practicality, and human interest in his magazine that people often ask where he gets all his ideas.</p>
 
-<p>"That's easy!" he says. "Our best things are taken out of rival magazines—we go after the articles they do not publish, the points they overlook. Every article ever written was intended to answer readers' questions. While the author is answering some questions he usually raises others that he does not answer. We follow up the suggestions, and get the answers. Points that other fellows overlook would fill three magazines like ours—if we see them."</p>
+<p>"That's easy!" he says. "Our best things are taken out of rival magazineswe go after the articles they do not publish, the points they overlook. Every article ever written was intended to answer readers' questions. While the author is answering some questions he usually raises others that he does not answer. We follow up the suggestions, and get the answers. Points that other fellows overlook would fill three magazines like oursif we see them."</p>
 
-<p>Most of the originality in business, and the service and the efficiency, come down to this—doing things a little better, a little more quickly than others.</p>
+<p>Most of the originality in business, and the service and the efficiency, come down to thisdoing things a little better, a little more quickly than others.</p>
 
 <p>Out in the Middle West, where it is harder to build up a manufacturing business than it is in the East, because materials are not so handy or trained workers so plentiful, there is a factory that makes ventilating apparatus of galvanized iron. In cutting parts there was considerable waste of sheet metal. The manager looked around for some way of utilizing these trimmings, and found that they could be made up into good brick-tieswhich are short strips of metal laid with the mortar in brick walls to help hold the structure together.</p>
 
@@ -456,9 +687,9 @@ A Little Lesson in Efficiency
 
 <p>An amusing instance of overlooked points! For, two years before that, the New York store of which he was the manager had engaged a production expert to study its needs and devise new methods, and this very system was the outcome of the expert's investigation. It had been delivered complete, ready to operate, and paid for on a very liberal basis. But the New York manager had never installed it in his establishment. The Canadian department-store man, on an investigating trip to the States in search of just the practical little points that others were overlooking, had taken that system back home bodily, and had made it work for him.</p>
 
-<p>If the little merchant around the corner centers his intelligence upon points in service that the big department-store on the main street is overlooking, he can hold his own despite disadvantages of capital and location; while the corporations and trusts and Goliaths of the business world generally are constantly being swatted with pebbles from the slings of little Davids who concentrate on the points they are missing—and you bet they know it!</p>
+<p>If the little merchant around the corner centers his intelligence upon points in service that the big department-store on the main street is overlooking, he can hold his own despite disadvantages of capital and location; while the corporations and trusts and Goliaths of the business world generally are constantly being swatted with pebbles from the slings of little Davids who concentrate on the points they are missingand you bet they know it!</p>
 
-<p>One of the most successful concerns in the electrical appliance business is located on the Pacific Coast—about the last place on earth for a company in that line. When it started, some years ago, experts in the electrical industry were able to demonstrate that such an enterprise had none of the factors necessary for success—materials for those products were remote, skilled mechanics hard to find, and, even if the product could be made in that region, there was not sufficient population west of the Rockies upon which to found outlets.</p>
+<p>One of the most successful concerns in the electrical appliance business is located on the Pacific Coastabout the last place on earth for a company in that line. When it started, some years ago, experts in the electrical industry were able to demonstrate that such an enterprise had none of the factors necessary for successmaterials for those products were remote, skilled mechanics hard to find, and, even if the product could be made in that region, there was not sufficient population west of the Rockies upon which to found outlets.</p>
 
 <p>The young fellows who established this Western concern went ahead, however, chiefly because they had a liking for that particular business and wanted to set up a shop for themselves where they lived. And from the start they succeeded, largely on overlooked points. The big electrical appliance corporations of the East, absorbed in large-scale production and national distribution, were overlooking dozens of important little details pertaining to the human nature side of their output.</p>
 
@@ -468,7 +699,7 @@ Make a Market for Your Product
 
 <p>Before long they were so well intrenched in their own Western territory that wider markets were needed, and they began to expand into the national field. Goliath thought that rather humorous, and kindly warned them that they stood no chance in competition with his far-reaching organization.</p>
 
-<p>To-day, however, this Pacific Coast concern is firmly established in the national field, and its business has been built on the same factors that enabled it to begin small and on a local basis—the little human points that others over-looked.</p>
+<p>To-day, however, this Pacific Coast concern is firmly established in the national field, and its business has been built on the same factors that enabled it to begin small and on a local basisthe little human points that others over-looked.</p>
 
 How I Help My Husband
 
@@ -476,7 +707,7 @@ How I Help My Husband
 
 <p>First of all, the success of the man on the road depends largely upon his wife. When my husband is away I write to him every day, telling him how things are going at home and cheering him up. A sales-man on the road needs cheer. There is nothing more tiresome than riding twelve hours at a stretch, and snatching meals at railroad lunch-rooms.</p>
 
-<p>In the larger cities there are fine hotels, but there is no one except a tip-seeking bell-hop to greet you, while in the smaller towns it is often hard to get decent sleeping quarters or meals. There are cranky and time-wasting customers to handle, too. But under all conditions the traveling man must smile and seem cheerful—it's part of his business.</p>
+<p>In the larger cities there are fine hotels, but there is no one except a tip-seeking bell-hop to greet you, while in the smaller towns it is often hard to get decent sleeping quarters or meals. There are cranky and time-wasting customers to handle, too. But under all conditions the traveling man must smile and seem cheerfulit's part of his business.</p>
 
 <p>A traveling man has very little opportunity to read while on the road, so 1 read all the articles I can find on salesmanship and tell my husband about them. He says that this is a great help. Recently I baked some muffins in the pans manufactured by his company. He had pictures taken of them and used the pictures in his selling talk. The plan worked so well that- the company has had prints made for the rest of the selling force. There are many ways in which a wife can help her husband on the road.</p>
 
@@ -518,7 +749,7 @@ The Way to Handle Tony
 
 <p>We are warned that the Italian work-man is easily angered, and not quite so easily soothed; but if managed good-naturedly, with sympathy and justice, he will render loyal service. He is quick to go on strike. Reprimand one Italian, and all his friends will quit as a protest. But go to the bottom of the trouble and correct matters, and they will all return to work with no hard feelings.</p>
 
-<p>At learning new tricks and trades the Italian has no superior—especially if it calls for delicacy of touch and artistic treatment. He will learn it in a marvelously short time. He will do wonderful work with the crudest tools, producing not only jewelry, art objects, and the ornamental things of life, but steam engines, electric machinery, ships, and practical devices second to none.</p>
+<p>At learning new tricks and trades the Italian has no superiorespecially if it calls for delicacy of touch and artistic treatment. He will learn it in a marvelously short time. He will do wonderful work with the crudest tools, producing not only jewelry, art objects, and the ornamental things of life, but steam engines, electric machinery, ships, and practical devices second to none.</p>
 
 
 
@@ -547,13 +778,13 @@ Illustration by John R. Neill
 
 <p>Aubrey Andrews was the rival warrior. He was the kind of man who always has a lot of crisp greenbacks in a neat leather bill-fold. Harry's hard earned frogskins were always crumpled in a trousers pocket. This may seem trivial, but it distinguishes two totally different classes of men. Aubrey was tall, dark, well groomed; he played billiards and belonged to expensive clubs. It was supposed that his wife would be beyond the reach of financial worries. He kept a horse and easy office hours.</p>
 
-<p>Harry—well, Harry was no aristocrat. He worked hard for what he got, and didn't get much. He was neither tall, nor dark, nor well groomed. But he was a fine, lovable, high-minded chap, and to every one's surprise, including his own, he got Elaine.</p>
+<p>Harrywell, Harry was no aristocrat. He worked hard for what he got, and didn't get much. He was neither tall, nor dark, nor well groomed. But he was a fine, lovable, high-minded chap, and to every one's surprise, including his own, he got Elaine.</p>
 
 <p>Tennyson had a good deal to do with it, I think. Harry still read Tennyson, although that excellent poet is no longer fashionable, and kept on repeating what Tennyson said about Elaine. And finally Elaine could not help saying " My Lance-lot!" and melting into his arms.</p>
 
 <p>AUBREY gave them a magnificent silver coffee-urn for a wedding present, and presently enlisted for service, first on the Mexican border and then in France, where he became a heroic and legendary figure, surrounded in Elaine's mind by the prismatic glamour of girlhood days.</p>
 
-<p>That coffee-urn was a stunner! It was far the handsomest thing in the little suburban house, except, of course, Elaine herself. Beneath its shining caldron sat an alcohol lamp that rendered a blue flame and kept the coffee hot. Elaine's initials—her maiden initials—were en-graved upon it, and those of the donor: E. A. from A. A. The hand of the insidious silversmith had twined the A's together very gracefully.</p>
+<p>That coffee-urn was a stunner! It was far the handsomest thing in the little suburban house, except, of course, Elaine herself. Beneath its shining caldron sat an alcohol lamp that rendered a blue flame and kept the coffee hot. Elaine's initialsher maiden initialswere en-graved upon it, and those of the donor: E. A. from A. A. The hand of the insidious silversmith had twined the A's together very gracefully.</p>
 
 <p>Every time he looked at it, Harry felt subconsciously irritated, although he hardly realized why.</p>
 
@@ -564,7 +795,7 @@ pride, and was used only on special occasions. Often it was brought out for the 
 
 <p>ALL the way to town in the smoking car, Harry's mind rotated savagely about their absurd tiff.</p>
 
-<p>Let's see, how was it? He had said: "I'm sorry, dearest; I shall have to he rather late to-night. The head of my department is away, and I've got an extra lot of work to do." She said: "Oh, dear—oh, dear! Then we sha'n't be able to go to the theater, shall we?" He said : " We can go next week, Brownie." She said: "Something horrid always hap-pens when we have this coffee-urn on the table."</p>
+<p>Let's see, how was it? He had said: "I'm sorry, dearest; I shall have to he rather late to-night. The head of my department is away, and I've got an extra lot of work to do." She said: "Oh, dearoh, dear! Then we sha'n't be able to go to the theater, shall we?" He said : " We can go next week, Brownie." She said: "Something horrid always hap-pens when we have this coffee-urn on the table."</p>
 
 <p>(N. B. Right here, when the danger topic was introduced, he should have put on an extra soft pedal. But did he? Not a bit. As soon as the urn was mentioned his eyes began to flash.)</p>
 
@@ -624,7 +855,7 @@ pride, and was used only on special occasions. Often it was brought out for the 
 
 <p>"I don't understand how it was that you didn't hear anything," said Elaine. "You generally sleep so lightly. Did you sit up late?"</p>
 
-<p>"No," he said; "I sat in the dining-room until about ten, eating cheese and apple pie, and smoking a cigar. Then I went to bed—"</p>
+<p>"No," he said; "I sat in the dining-room until about ten, eating cheese and apple pie, and smoking a cigar. Then I went to bed"</p>
 
 <p>"Oh, you just reminded me!" cried Elaine. "I bought you a nice cigar to smoke after your dinner, and I forgot to give it to you."</p>
 
@@ -646,7 +877,7 @@ pride, and was used only on special occasions. Often it was brought out for the 
 
 <p>"Come down here to the police station," he said. "We've found your coffee-pot. The most extraordinary thing you ever heard of. We found it buried in a haystack, back of Webster's barn. Why any one should leave it there is more than I know. The thief must have been frightened and hid it. Will you come down and identify it?"</p>
 
-<p>Mrs. Bennett hastened down to the police station. There on the sergeant's table stood the famous urn, the pride of her heart. There was no doubt about it: the initials were there—it was hers. Tarnished and spotted by exposure, it was still the handsomest piece of silver she had ever seen. Involuntarily she gave a cry of delight. Then she hesitated. After all, compared to Harry's happiness and hers, what was a silver urn?</p>
+<p>Mrs. Bennett hastened down to the police station. There on the sergeant's table stood the famous urn, the pride of her heart. There was no doubt about it: the initials were thereit was hers. Tarnished and spotted by exposure, it was still the handsomest piece of silver she had ever seen. Involuntarily she gave a cry of delight. Then she hesitated. After all, compared to Harry's happiness and hers, what was a silver urn?</p>
 
 <p>"Oh, captain," she said, "I'm so disappointed. That's not mine! It's very much like it, but it isn't mine."</p>
 
@@ -662,7 +893,7 @@ RED-HEADS
 
 Mishkin.
 
-<p>WHEN you go to Washington you will notice that the Treasury Building sticks clear out into Pennsylvania Avenue, and the Avenue has to make a bend around it. That is due to Andrew Jackson—"Old Hickory." The surveyors could not agree on the location; so Andy did a little amateur surveying, stuck his cane in the grass, and said, "Build her there." A bit impetuous, these red-headed boys, but we can't help wishing we had one on the Western front. We might all spend Fourth of July walking on the Kaiser's lawn, kicking over the Verboten signs.</p>
+<p>WHEN you go to Washington you will notice that the Treasury Building sticks clear out into Pennsylvania Avenue, and the Avenue has to make a bend around it. That is due to Andrew Jackson"Old Hickory." The surveyors could not agree on the location; so Andy did a little amateur surveying, stuck his cane in the grass, and said, "Build her there." A bit impetuous, these red-headed boys, but we can't help wishing we had one on the Western front. We might all spend Fourth of July walking on the Kaiser's lawn, kicking over the Verboten signs.</p>
 
 Photograph by Sarony.
 
@@ -690,7 +921,7 @@ Photograph from Dudley Siddall.
 
 Photograph by Robert H. Moulton
 
-<p>BEFORE the dry wave hit their town, Gray and Henderson saw it coming. They leased twelve acres of vegetable- and fruit-growing land—they own it now: and in one corner they erected a canning factory. When the fatal vote was counted, it worried Gray and Henderson not a bit. Presto! Overnight the saloon became a "new idea grocery." Not a thing in the store except in packages; and all the vegetables and fruits, grown by the proprietors, canned in their own cannery. No license to pay, and more money in the till than they ever had in the "good old days."</p>
+<p>BEFORE the dry wave hit their town, Gray and Henderson saw it coming. They leased twelve acres of vegetable- and fruit-growing landthey own it now: and in one corner they erected a canning factory. When the fatal vote was counted, it worried Gray and Henderson not a bit. Presto! Overnight the saloon became a "new idea grocery." Not a thing in the store except in packages; and all the vegetables and fruits, grown by the proprietors, canned in their own cannery. No license to pay, and more money in the till than they ever had in the "good old days."</p>
 
 
 
@@ -709,7 +940,7 @@ Photograph from Peggy Curtis.
 
 Photograph from Ralph E. Dyer
 
-<p>NOT so many years ago. Clarence Rowland was a bartender, and later a saloon-keeper in Dubuque, Iowa. Clarence was one of the tans who itched to get into the game, however, and be-fore long he was the manager of a local team. Two years later, Comiskey—the old Roman—caught sight of him and brought him to Chicago. And a year ago he had the satisfaction of backing New York on to a side-track in the only world's series ever played between teams from the two biggest towns.</p>
+<p>NOT so many years ago. Clarence Rowland was a bartender, and later a saloon-keeper in Dubuque, Iowa. Clarence was one of the tans who itched to get into the game, however, and be-fore long he was the manager of a local team. Two years later, Comiskeythe old Romancaught sight of him and brought him to Chicago. And a year ago he had the satisfaction of backing New York on to a side-track in the only world's series ever played between teams from the two biggest towns.</p>
 
 Photograph by American Press Association
 
@@ -725,9 +956,9 @@ MAGICIANS
 
 Photograph by. Paul Thompson.
 
-<p>CHARLES J. CARTER bought this lion (the lion's name is Baby) from poor, dear deposed Manuel of Portugal, and took him on a nice tour around the world in his famous illusion, "The Lion's Bride." In this trick a beautiful maiden is thrown to Baby; Baby growls—no, roars. And then, just as strong men in the audience begin to faint, Baby stands up, bows politely, takes off his head, and turns into Mr. Carter. We placed that saucer of milk for Baby with our own fair hand. Brave we!</p>
+<p>CHARLES J. CARTER bought this lion (the lion's name is Baby) from poor, dear deposed Manuel of Portugal, and took him on a nice tour around the world in his famous illusion, "The Lion's Bride." In this trick a beautiful maiden is thrown to Baby; Baby growlsno, roars. And then, just as strong men in the audience begin to faint, Baby stands up, bows politely, takes off his head, and turns into Mr. Carter. We placed that saucer of milk for Baby with our own fair hand. Brave we!</p>
 
-<p>PLACING her hands lightly upon its top and murmuring a few mystic nothings, Miss Evelyn Max-well can make a table do a really creditable fox-trot. She can coax mice and gold-fish out of hats, and make a whole rose-bush grow in an instant, where before was only one mingy little twig. With nothing at all up her sleeves, she can fool quite a number of people a good deal of the time—wherein she does not differ greatly from several other young ladies that we know.</p>
+<p>PLACING her hands lightly upon its top and murmuring a few mystic nothings, Miss Evelyn Max-well can make a table do a really creditable fox-trot. She can coax mice and gold-fish out of hats, and make a whole rose-bush grow in an instant, where before was only one mingy little twig. With nothing at all up her sleeves, she can fool quite a number of people a good deal of the timewherein she does not differ greatly from several other young ladies that we know.</p>
 
 Photograph by Press Illustrating Service, Inc.
 
@@ -747,11 +978,11 @@ Beating Back to Prosperity
 
 <p>I WAS working for a corporation at a salary of $170 a month. I was happily married, and thought I saw my way clear to a successful future. Then, one day, the secretary of the company called me into his private office and told me that, on account of a dull season ahead, the pay-roll must be cut and that a few of the higher salaried men, I among them, would have to go.</p>
 
-<p>Up to this time we had saved nothing. We had not lived extravagantly, yet we had always managed to spend all of my salary before the end of the month. I thought it would be only a few days until I could find another position, but weeks passed and I found nothing. I was getting desperate when I called on a banker and told him my troubles. The best he could offer was a place as a uniformed attendant in the lobby—that is, directing customers to the various departments. The salary was $6o a month.</p>
+<p>Up to this time we had saved nothing. We had not lived extravagantly, yet we had always managed to spend all of my salary before the end of the month. I thought it would be only a few days until I could find another position, but weeks passed and I found nothing. I was getting desperate when I called on a banker and told him my troubles. The best he could offer was a place as a uniformed attendant in the lobbythat is, directing customers to the various departments. The salary was $6o a month.</p>
 
 <p>I took the place, but I didn't tell my wife exactly where I was working or what my duties were. If she had ever come into that bank and seen me in brass buttons, the shock would have proved fatal.</p>
 
-<p>When our lease was up we moved to a cheaper place. At first we had a hard time getting along on $110 a month less than we had been spending. I decided that the only way to beat back was to save money. We found that, by strict economy, we could spare two dollars each pay-day—four dollars a month. It seemed almost too small to bother with. The bank did not allow employees to carry accounts there, so we fitted up a home bank.</p>
+<p>When our lease was up we moved to a cheaper place. At first we had a hard time getting along on $110 a month less than we had been spending. I decided that the only way to beat back was to save money. We found that, by strict economy, we could spare two dollars each pay-dayfour dollars a month. It seemed almost too small to bother with. The bank did not allow employees to carry accounts there, so we fitted up a home bank.</p>
 
 <p>A year passed, and I was still at the same place: I was about ready to give up hope when I overheard a stockman talking to our vice-president. He was telling him he had a stock farm in another State and wanted a good man to look after it.</p>
 
@@ -791,7 +1022,7 @@ Helping Hoover
 
 <p>Inquiries developed that Ur. Halsted, mender of light-switches, is a few other things on the side:</p>
 
-<p>Omitting college titles, he is a member of the London Mathematical Society; of the Société Mathématique of France; of the Circulo Matematico di Palermo. He can also afford to admit that he belongs to the Deutschen Mathematiker-Vereinigung, since he has three sons fighting for the Allies.</p>
+<p>Omitting college titles, he is a member of the London Mathematical Society; of the Socit Mathmatique of France; of the Circulo Matematico di Palermo. He can also afford to admit that he belongs to the Deutschen Mathematiker-Vereinigung, since he has three sons fighting for the Allies.</p>
 
 <p>France has always been his staunch admirer. The French savants, not long ago, issued, as a special compliment to him, an edition de luxe of his important work on modern geometry.</p>
 
@@ -803,7 +1034,7 @@ Helping Hoover
 
 <p>"No," said Dr. Halsted; "I am not hoping to discover new applications of electricity, like Edison. My bent is to mathematical theory; any person accepting my premises is as able as I to handle the force of electricity. I am an electrician for a living.</p>
 
-<p>"Americans are pragmatists. They pay the inventor of useful things, but not the discoverer of principles. I shall not complain—every nation has its particular genius. Besides, the most honorable thing is to give services for which one is not paid."	M. Gauss.</p>
+<p>"Americans are pragmatists. They pay the inventor of useful things, but not the discoverer of principles. I shall not complainevery nation has its particular genius. Besides, the most honorable thing is to give services for which one is not paid."	M. Gauss.</p>
 
 Do You Deal in Misfit Kindness?
 
@@ -814,11 +1045,11 @@ be said with especial fervor by invalids.</p>
 
 <p>But these are not the worst of their troubles. The very worst are the good people around them who are over-eager to be helpful.</p>
 
-<p>I know: for I am an invalid confined to a wheel-chair. Not only am I unable to stand, but my arms are drawn and comparatively incapacitated. My reach is necessarily much shortened; but my tidy neighbor, though she calls often, never realizes this fact. She always glances around before leaving to see what she can straighten up; and unless I am very alert I find, when she has gone, that she has put beyond my reach some needed article. That is the trouble—the well meaning ones go ahead blindly conferring benefits without readjusting their own standards of pleasure and capability.</p>
+<p>I know: for I am an invalid confined to a wheel-chair. Not only am I unable to stand, but my arms are drawn and comparatively incapacitated. My reach is necessarily much shortened; but my tidy neighbor, though she calls often, never realizes this fact. She always glances around before leaving to see what she can straighten up; and unless I am very alert I find, when she has gone, that she has put beyond my reach some needed article. That is the troublethe well meaning ones go ahead blindly conferring benefits without readjusting their own standards of pleasure and capability.</p>
 
 <p>One can grow used to life in a wheel-chair. As remarked the small boy who had lost his legs in an accident, and who was wearied by the constant expressions of sympathy he heard: "Aw, g'wan! There's lots of sittin'-down fun." The real trouble comes when you have to smile and be grateful to some one who is actually pestering you.</p>
 
-<p>"Take, for instance, the matter of food. The appetite of an active person is no gauge for that of an invalid. Our elementary physiology taught us that "persons of sedentary habits do not require so much food"—and what could be more sedentary than living in a wheel-chair? If, with a fairly comfortable appetite, you dispose of your fairly comfortable meals in a fairly comfortable fashion, you are not likely to feel hungry between-times. But if, in an unguarded moment, you gush over the memory of a long past feast or grow enthusiastic over the description of a present dish, you will likely soon find yourself confronted by a mountain of that delectable, while your kind friend the donor watches with a fatuous smile to see you devour it.</p>
+<p>"Take, for instance, the matter of food. The appetite of an active person is no gauge for that of an invalid. Our elementary physiology taught us that "persons of sedentary habits do not require so much food"and what could be more sedentary than living in a wheel-chair? If, with a fairly comfortable appetite, you dispose of your fairly comfortable meals in a fairly comfortable fashion, you are not likely to feel hungry between-times. But if, in an unguarded moment, you gush over the memory of a long past feast or grow enthusiastic over the description of a present dish, you will likely soon find yourself confronted by a mountain of that delectable, while your kind friend the donor watches with a fatuous smile to see you devour it.</p>
 
 <p>What can you do? It represents trouble, thoughtfulness, and perhaps even sacrifice. You must either choke it down with simulated appreciation, especially if it is a perishable dainty, or else you must find some excuse to put off the eating till your friend has gone; then it is an easy matter to find some one with an active appetite who really will enjoy it.</p>
 
@@ -869,7 +1100,7 @@ From the International Studio
 
 <p>"He had stepped six miles over the mountain and hack for that little bag of meal, and he would allow his guest tb pay nothing the next morning.</p>
 
-<p>"I have slept with nine others in a single room. The host gave up his bed to two of our party, and he and his wife slept with the rest of us on the floor. He gave us supper, kept us all night, sent us away the next morning with a parting draught of moonshine apple-jack,—of his own brewing, by the way,—and would suffer no one to pay a cent for his entertainment. That man was a desperado, an outlaw, a moonshiner, and was running from the sheriff at that time."</p>
+<p>"I have slept with nine others in a single room. The host gave up his bed to two of our party, and he and his wife slept with the rest of us on the floor. He gave us supper, kept us all night, sent us away the next morning with a parting draught of moonshine apple-jack,of his own brewing, by the way,and would suffer no one to pay a cent for his entertainment. That man was a desperado, an outlaw, a moonshiner, and was running from the sheriff at that time."</p>
 
 <p>The mountaineers of Kentucky still believe in witches, and have them. They are haunted by all manner of omens and superstitions. They observe the old Christmas on January 6, that used to be celebrated in England in Shakespeare's time. On that day at midnight the elder-bushes are supposed to burst into bloom, and the cows and oxen kneel, lowing, in their stalls in honor of Christ's birth.</p>
 
@@ -893,7 +1124,7 @@ THREE YEARS IN THE WILDERNESS
 
 <p>Three hundred miles from civilization, after the gray sail that brought him sank into the blue of the southern horizon, he tramped off to Churchill, a clump of shacks misnamed a town, to organize his party.</p>
 
-<p>"We made a queer-looking group,—I with my outfit and provisions, the Eskimos with their skin tents, seal oil, wives, children, and dogs,—all setting sail in an open boat for the unknown north.</p>
+<p>"We made a queer-looking group,I with my outfit and provisions, the Eskimos with their skin tents, seal oil, wives, children, and dogs,all setting sail in an open boat for the unknown north.</p>
 
 <p>"After a fortnight of slow and rough sailing, with hungry dogs, seasick women, and squalling children all making their presence felt in the little open craft, our trip came to a disastrous end. A fearful northeast snow-storm came upon us in a dangerous place. We could see nothing and do nothing against the terrible gale. On the second night the boat was forced by the raging waters over the reefs, and beached. Everything but our lives and a few tents was swept away.</p>
 
@@ -925,7 +1156,7 @@ THE SCHOOL AS FOSTER MOTHER
 
 <p>The experience of the Food Scouts has had a long train of results. Not only have their own families changed their methods of buying food and preparing it, but the Department of the Interior, through the National Bureau of Education, has sent out 300,000 letters to school superintendents all over the country, calling their attention to the New York experiment; the Federal Public Health Bureau has started a campaign to arouse interest in the proper feeding of school children; and the National Council of Defense is doing the same thing.</p>
 
-© Underwood & Underwood
+ Underwood & Underwood
 
 Colonel Roosevelt weighing the underfed "Food Scouts" from a New York Public School.
 
@@ -969,9 +1200,9 @@ MILL OR MONTESSORI?
 
 <p>By the time he was eight he had read the whole of Herodotus and of Zenophon's Cyclopaedia and Memorials of Socrates, besides lives of philosophers and the first six dialogues from Plato.</p>
 
-<p>History the young Mill studied in the following manner: From the time he was four until he was eight the family were living in a rural neighborhood, and as his father's health required constant exercise, father and son "walked together in the green lanes." During these rambles the young Mill repeated from notes what he had read the day before—his reading consisting of the histories of Hume. Robertson, Gibbon, Plutarch, and many others. "Of children's books, any more than of playthings, I possessed scarcely any," he mentions—perhaps needlessly.</p>
+<p>History the young Mill studied in the following manner: From the time he was four until he was eight the family were living in a rural neighborhood, and as his father's health required constant exercise, father and son "walked together in the green lanes." During these rambles the young Mill repeated from notes what he had read the day beforehis reading consisting of the histories of Hume. Robertson, Gibbon, Plutarch, and many others. "Of children's books, any more than of playthings, I possessed scarcely any," he mentionsperhaps needlessly.</p>
 
-<p>In his eighth year he began learning Latin—"with a younger sister, to whom I taught it as I went on, and who afterwards repeated the lessons to my father; and from this time, other sisters and brothers being successively added as pupils, a considerable part of my day's work consisted of this preparatory teaching.”</p>
+<p>In his eighth year he began learning Latin"with a younger sister, to whom I taught it as I went on, and who afterwards repeated the lessons to my father; and from this time, other sisters and brothers being successively added as pupils, a considerable part of my day's work consisted of this preparatory teaching.</p>
 
 <p>"Given such teachers as James Mill, such students as John Stuart Mill would more frequently be made," comments the author of. Education.</p>
 
@@ -1013,7 +1244,7 @@ THE UNMARRIED MOTHER
 <p>Gradually people are coming to see that the State can not af to let thousands of its children die of' neglect or live to be a social menace. The policy of disgracing the mother and ignoring the father has done nothing to lessen the amount of illegitimacy. It is evident that the State must take a hand. Social conditions must he improved so that young girls have a better chance to keep straight. Education in matters of sex must be increased. Mentally abnormal women must be segregated during child-bearing age. Society must change its attitude to make it possible for unmarried mothers to earn decent living.	Illegitimate children must come under public care, and the State itself must in each case find out the father and place upon him a fair share of the responsibility for his child's welfare.</p>
 
 
-© Western Newspaper Union,
+ Western Newspaper Union,
 
 Havana has a primitive method of caring for its unwanted babies. In the wall of the Casa de Beneficencia is an opening through which a mother may thrust her baby into o revolving box. The baby's weight rings a bell and notifies the Sisters of Charity that another waif has been left to their care.
 
@@ -1029,19 +1260,19 @@ THIS IS HER WEEK
 
 <p>Catharine left her husband in bed the morning of the coronation, and, rushing to the cathedral before he waked up, man-aged to get herself crowned alone. After that she had the army at her command and the capital at her feet, for she under-stood the gift of popularity.</p>
 
-<p>She gave out that her husband was in-sane, and his abdication was requested by the state. He abdicated and died obligingly—or not so obligingly, some histories say. At any rate, he died; and his wife, who had no more right to the throne than the poorest subject in the realm, became Great Catharine, and reigned for thirty-three years.</p>
+<p>She gave out that her husband was in-sane, and his abdication was requested by the state. He abdicated and died obliginglyor not so obligingly, some histories say. At any rate, he died; and his wife, who had no more right to the throne than the poorest subject in the realm, became Great Catharine, and reigned for thirty-three years.</p>
 
 <p>Great Catharine spent with a recklessness to exceed which we must go back to the days of Caligula and Heliogabalus. During her reign she squandered a sum equal to $100,000,000 on her favorites alone. "She gave diamonds by handfuls and made gold and silver common as pebbles." By a word, by a stroke of her pen, she who called her people her children and by her royal clemency had substituted the word "subject" for "slave," gave away tens of thousands of serfs, transfer-ring them from one proprietor to another like cattle. People lay groveling in the earth when her carriage passed, and whole villages were exiled to Siberia at her pleasure.</p>
 
 <p>She was a born organizer, however, and desired to shine in Europe as an enlightened ruler. So she reformed institutions, established hospitals, encouraged internal betterment, founded schools and colleges, and erected arsenals and factories. She doubled the resources and revenues of her country by making war on Turkey and throwing open the Mediterranean, and more than once averted disaster by quick judgments and crafty intrigue.</p>
 
-<p>Her private life shocked even eighteenth-century Europe—than which one need say no more.</p>
+<p>Her private life shocked even eighteenth-century Europethan which one need say no more.</p>
 
-<p>She was preparing all the resources of her Empire for war—war on everything and everybody; but, before she pulled this, death came and she fell like a sorceress suffocated by her own poisons.</p>
+<p>She was preparing all the resources of her Empire for warwar on everything and everybody; but, before she pulled this, death came and she fell like a sorceress suffocated by her own poisons.</p>
 
-<p>This is her week because we hope to make the world so safe that no one like her can ever have a week to herself—or himself—again.</p>
+<p>This is her week because we hope to make the world so safe that no one like her can ever have a week to herselfor himselfagain.</p>
 
-The Son of One-Horse Jack–continued from page 8
+The Son of One-Horse Jackcontinued from page 8
 
 <p>tains, but it seemed to One-Horse Jack that they had unusual luck that day. A lady's hack was what they were after, and Ruth Adam wore her riding habit. Curiously, Sullivan had never thought about her directly; but in her short-skirted coat and stiff white stock she looked unexpectedly slender and trim.</p>
 
@@ -1055,7 +1286,7 @@ The Son of One-Horse Jack–continued from page 8
 
 <p>He tucked the motor robe around her, and found himself excited at the sudden proximity. Seemingly for the first time he realized that things were exciting when there were only two of them there. Leaning back in his corner of the great tonneau, and with Ruth leaning back in hers, life seemed wonderfully luxurious and wonderfully simple.</p>
 
-<p>"What if—?" he thought, then refused to allow himself to think.</p>
+<p>"What if?" he thought, then refused to allow himself to think.</p>
 
 <p>"You blame fool, you blame fool," was the way in which he framed, in his mind, his own self-reproaches. But when they reached the old Wendall place, and Ruth asked him, in complete casualness, "You are coming in to dinner, aren't you?" One-Horse Jack would have been disappointed if she had not asked him.</p>
 
@@ -1075,17 +1306,17 @@ The Son of One-Horse Jack–continued from page 8
 
 <p>"Go to it, boy. Go to it," he repeated. "There's five million there for somebody. You might as well have it as any one else."</p>
 
-<p>If that had happened in ancient days there might have been a blow and a challenge, but this was not ancient days. Hurlburt roared all unhindered and went away, leaving One-Horse Jack in a tumult. He was not particularly angry—or, if he was, he was angry at himself. Brutal as he had been, Hurlburt had' stated a truth</p>
+<p>If that had happened in ancient days there might have been a blow and a challenge, but this was not ancient days. Hurlburt roared all unhindered and went away, leaving One-Horse Jack in a tumult. He was not particularly angryor, if he was, he was angry at himself. Brutal as he had been, Hurlburt had' stated a truth</p>
 
 
 
 <p>that Sullivan was too much a man among men not to appreciate. At least, he wondered whether it were not a truth. It was not so much what people might think as what, from now on, Jack Sullivan must think of himself.</p>
 
-<p>NOT models of all the virtues, men like Jack Sullivan have at least one virtue which they seldom allow to be tarnished —a fierce independence, a fierce self-respect. And now the poison of a single sentence, the glimpse of how his attentions to the heiress of the outlawed millionaire would appear to other men like himself, had put the gall in the first love that lonely Jack Sullivan had ever known.</p>
+<p>NOT models of all the virtues, men like Jack Sullivan have at least one virtue which they seldom allow to be tarnished a fierce independence, a fierce self-respect. And now the poison of a single sentence, the glimpse of how his attentions to the heiress of the outlawed millionaire would appear to other men like himself, had put the gall in the first love that lonely Jack Sullivan had ever known.</p>
 
-<p>He showed it in the transparent, child-like way in which he must have shown it. On his next visit to the Wendall place he was stiff and embarrassed, and after that he stayed away for a week. Old Adam noticed it, and it saddened him pitifully; for, although he did not know the immediate cause, he knew only too well the general cause—that same general cause which lay as a curse over all his happiness in Wessex. Even Ruth suspected,  but she dared do what her father had not. She rode deliberately by Sullivan's gate one day, and signaled him to her.</p>
+<p>He showed it in the transparent, child-like way in which he must have shown it. On his next visit to the Wendall place he was stiff and embarrassed, and after that he stayed away for a week. Old Adam noticed it, and it saddened him pitifully; for, although he did not know the immediate cause, he knew only too well the general causethat same general cause which lay as a curse over all his happiness in Wessex. Even Ruth suspected,  but she dared do what her father had not. She rode deliberately by Sullivan's gate one day, and signaled him to her.</p>
 
-<p>"Jack," she said,—for before the crash it had gone that far,—" Jack, have we done anything to offend you?"</p>
+<p>"Jack," she said,for before the crash it had gone that far," Jack, have we done anything to offend you?"</p>
 
 <p>Instinctively he put his hand on her horse's neck, but his eyes turned to the ground.</p>
 
@@ -1095,7 +1326,7 @@ The Son of One-Horse Jack–continued from page 8
 
 <p>When the two could forget themselves they were happy, happier, probably, than either ever had been. Every time that he saw the appealing eyes and the slender figure of the wistful-looking little girl, One-Horse Jack had to light harder against the impulse to take her into his arms; while Ruth, accustomed only to blue-serge men who talked of buying and selling, knew that no such cavalier had ever before come into her life or ever would come again. Yet always, when they became too happy, back would come that restraint.</p>
 
-<p>It was a cruel little tragedy—the more cruel because it was so unnecessary. A man more gallant would have explained it away in one sentence, and taken the credit for it; but Jack Sullivan never had opened his heart to men, much less to women. Not even in his own mind was it wholly straight. He merely knew that he could not let himself love Ruth Adam, because he could never free himself from the suspicion that it might be her horses, her motors, and the great \Wendall place that he loved. And what made it so cruel was that all the time she believed, as her kind old father believed, that lie could not let himself love her because of her race.</p>
+<p>It was a cruel little tragedythe more cruel because it was so unnecessary. A man more gallant would have explained it away in one sentence, and taken the credit for it; but Jack Sullivan never had opened his heart to men, much less to women. Not even in his own mind was it wholly straight. He merely knew that he could not let himself love Ruth Adam, because he could never free himself from the suspicion that it might be her horses, her motors, and the great \Wendall place that he loved. And what made it so cruel was that all the time she believed, as her kind old father believed, that lie could not let himself love her because of her race.</p>
 
 <p>Fortunately, excuses for seeing each other were frequent, and became more frequent as autumn ripened, for posters were up for the Hunt Club show. With the appearance of the first of them One-Horse Jack was ecstatic. He had done well with old Adam's stable.</p>
 
@@ -1186,7 +1417,7 @@ absently had lie known that that moment had been deliberately planned two months
 
 <p>"Jack," replied the judge, his voice kindly but his eye as ashamed as that of the groom, "I'm sorry, but there is nothing we can do."</p>
 
-<p>Without a word, Sullivan turned and went back to the paddock. He knew that the cards had been stacked. With his own eyes he had seen Barnaby Rudge jump six feet eleven in Madison Square Garden, and at the last minute he knew what every man in the ring had already known—that the brown horse had been imported especially to beat Marc Adam.</p>
+<p>Without a word, Sullivan turned and went back to the paddock. He knew that the cards had been stacked. With his own eyes he had seen Barnaby Rudge jump six feet eleven in Madison Square Garden, and at the last minute he knew what every man in the ring had already knownthat the brown horse had been imported especially to beat Marc Adam.</p>
 
 <p>The jumping was started at four feet six, and then went to five feet; but even this height eliminated two of the six entries, for all the horses in the event, except the ringer, were qualified hunters rather than high-jumping specialists, and, until this year, the event had not been very pretentious. Five feet six put out two more, and then the event settled into what every one on the rounds knew to be the real struggle. The Lizard was handling like a violin, but at his best he was only an exceptional hunter, while Barnaby Rudge, alias Axel, was one of those freak horses good for extreme high jumping and nothing else. His rider was obviously a professional; but, at the first jump, One-Horse Jack saw that he was new to his horse and that his only advantage was ten pounds less weight. Both horses cleared five six with ease, but at six feet Barnaby Rudge took two of the three permitted tries and The Lizard took them all to get over.</p>
 
@@ -1228,7 +1459,7 @@ absently had lie known that that moment had been deliberately planned two months
 
 <p>A tie, in fact, was what the event promised to be; for even Jack Sullivan had little confidence that the flighty Lizard could clear that terrific height. It would be a fluke if he did, but, above all, Sullivan knew the thoroughbred's temperament, and the one thing he feared to do was upset him.</p>
 
-<p>Almost uncertain in his anxiety, he held his mount facing the barrier and rising in little rears, exactly as Marc Adam had seen Sullivan's own mare do on that first day. Every face in the grounds was toward him, and still Jack .sat there, judging his moment. Then suddenly, out of the silence around him, with the unbelievable distinctness of tense moments, Sullivan heard a voice—a casual voice:</p>
+<p>Almost uncertain in his anxiety, he held his mount facing the barrier and rising in little rears, exactly as Marc Adam had seen Sullivan's own mare do on that first day. Every face in the grounds was toward him, and still Jack .sat there, judging his moment. Then suddenly, out of the silence around him, with the unbelievable distinctness of tense moments, Sullivan heard a voicea casual voice:</p>
 
 <p>"And who does this one belong to?"</p>
 
@@ -1238,7 +1469,7 @@ absently had lie known that that moment had been deliberately planned two months
 
 <p>JACK SULLIVAN heard it, and at that single word his face went livid. Forgetting himself utterly, he turned with a look that made the speaker shrink into the crowd. At the same minute down came his whip on the horse's flank with all the pent-up anger of weeks. It was a blow that he would never have dared to strike the nervous thoroughbred, and the animal went forward like a shot out of a gun.</p>
 
-<p>Five yards from the barrier, he catapulted into the air; and if there had been a shout from the crowd before, thistime it rose to a scream, for the long gray shape went hurtling over the bar with a foot to spare. It threatened, as well, to go over the paddock fence—but One-Horse Jack, straining and tugging, turned the maddened horse and pulled him down.</p>
+<p>Five yards from the barrier, he catapulted into the air; and if there had been a shout from the crowd before, thistime it rose to a scream, for the long gray shape went hurtling over the bar with a foot to spare. It threatened, as well, to go over the paddock fencebut One-Horse Jack, straining and tugging, turned the maddened horse and pulled him down.</p>
 
 <p>AT the paddock gate old Adam himself came rushing out, and One-Horse Jack slipped from his saddle; but, at the same time, the fussy ring steward came bustling up.</p>
 
@@ -1254,7 +1485,7 @@ absently had lie known that that moment had been deliberately planned two months
 
 <p>"You are going to do nothing of the kind. You are going to get' your ribbon and then come to dinner with us."</p>
 
-<p>Suddenly ashamed, One-Horse Jack obeyed—obeyed both commands. But after dinner, when he and Ruth had been a long time on the terrace in the chill autumn air, Marc Adam's wife exclaimed:</p>
+<p>Suddenly ashamed, One-Horse Jack obeyedobeyed both commands. But after dinner, when he and Ruth had been a long time on the terrace in the chill autumn air, Marc Adam's wife exclaimed:</p>
 
 <p>"Those children ought to come in. They will catch their death of cold."</p>
 
@@ -1293,7 +1524,7 @@ JAMES S. CARLIN, Pennsylvania.</p>
 
 <p>Thank you, Mr. Carlin. We're printing the picture of your post-office and the boys who chipped in the forty dollars.</p>
 
-<p>We like the looks of those boys: it would be interesting to see what would happen if some one were to stop in front of them and speak of "our enemies—if they are that."</p>
+<p>We like the looks of those boys: it would be interesting to see what would happen if some one were to stop in front of them and speak of "our enemiesif they are that."</p>
 
 Consider Them Shot
 
@@ -1322,7 +1553,7 @@ Who is He?
 
 <p>One of his employees made a mil-lion dollars last year in the profit-sharing plan which he inaugurated. The hum-blest employee in the shops could have done the same thing if he had had the brains. Any short cuts a man may devise or any unusual energy he may show are immediately capitalized not only into profit for the employer but for the employee. For this is one millionaire's idea of a square deal.</p>
 
-<p>When, some years ago, he took over the great steel works of which he is now the brains and energy, he decided to train up his own managers as if they were boys. He watched everybody in the plant—there were about 20,000 then—and ended by picking out a dozen. Then he set out to build up his organization.</p>
+<p>When, some years ago, he took over the great steel works of which he is now the brains and energy, he decided to train up his own managers as if they were boys. He watched everybody in the plantthere were about 20,000 thenand ended by picking out a dozen. Then he set out to build up his organization.</p>
 
 <p>Last year a group of capitalists offered him an astounding sum to sell out. The income on the sum alone would have amounted to $3,000,000 a year. He talked the matter over with his wife. "And what would you do if you had nothing to do?" asked his wife. "I don't know," said the man, and refused the offer.</p>
 
@@ -1359,7 +1590,7 @@ Why Women Used to be Afraid of Banks
 
 <p>"Women do about 8o per cent. of the average family's money-handling. They encourage the children to open savings accounts, and their good will means their men's good will."</p>
 
-<p>Feickert's reply to the complaint that women can't handle a bank account intelligently—that they overdraw their deposits and pay no attention to requests to pay up, even drawing checks after that in some cases—is that a personal word of explanation will stop such troubles.</p>
+<p>Feickert's reply to the complaint that women can't handle a bank account intelligentlythat they overdraw their deposits and pay no attention to requests to pay up, even drawing checks after that in some casesis that a personal word of explanation will stop such troubles.</p>
 
 <p>"By taking pains to explain in person we find that nuisance has been almost entirely abated."</p>
 
