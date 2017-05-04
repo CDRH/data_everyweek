@@ -1,8 +1,135 @@
-DECEMBER 3, 1917
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
-PAGE 2 EVERY WEEK
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171203">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, December 3, 1917</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19171203</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2017</date>
+<availability>
+<p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+            
+<sourceDesc>
+                
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>28 pages</extent>
+<date when="1917-12-03">December 3, 1917</date>
+</bibl>
+</sourceDesc>
+            
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017-05-04"><name>Erin Marra</name> Initial Encoding 
+</change>
+</revisionDesc>
+        
+</teiHeader>
+<text>
 
-Be Good to Yourself, This Christmas, by Being Good to Some One Else
+<pb n="Cover" xml:id="ew.issue.19171203.p001" />
+
+<front>
+            
+<titlePage>
+<docTitle>
+<note>NOTICE TO READER: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3&#162;</titlePart>
+<titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1917, By the Crowell Publishing Co.</publisher>
+<pubPlace></pubPlace>
+<docDate>December 3, 1917</docDate>
+</docImprint>
+                
+<figure n="illustration">
+<head type="main"></head>
+<head type="sub"></head>
+<ab type="credit"></ab>
+<figDesc></figDesc>
+</figure>
+                
+</titlePage>
+</front>
+ 
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19171203.p002"/>
+
+<text>
+<body>
+
+<figure n="advertisement">
+<head>Something to remind him <lb/> Of the girl he left behind him</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for Gem Cutlery Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Here's What You Want for XMAS</head>
+<ab n="credit"></ab>
+<p></p>
+<figDesc>Advertisement for The Lionel Mfg. Company</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton.19171203">
+<body>
+
+<head>Be Good to Yourself, This Christmas, by Being Good to Some One Else</head>
 
 <p>A CERTAIN man whom I know set out many years ago to become rich.</p>
 
@@ -16,7 +143,7 @@ Be Good to Yourself, This Christmas, by Being Good to Some One Else
 
 <p>And a tragic thing had happened to him: he had forgotten how to give. When he reached the place where he could afford to do the princely thing, behold, the habits of a life-time rose up and forbade him.</p>
 
-<p>The generous impulse, so long denied, had not force enough to function. He died surrounded by his dollars�a lonely, shrunken, loveless old man.</p>
+<p>The generous impulse, so long denied, had not force enough to function. He died surrounded by his dollars&#8212;a lonely, shrunken, loveless old man.</p>
 
 <p>I did not know Mrs. Hetty Green: few people did. But I can imagine that something of the same sort must have gone on inside of her.</p>
 
@@ -26,13 +153,17 @@ Be Good to Yourself, This Christmas, by Being Good to Some One Else
 
 <p>Even in the making of her will she could not bring herself to one single generous act. In death, the hands so long hard clenched could not be opened.</p>
 
-<p>We too often forget that our generous impulses�like our muscles�grow weak unless they are exercised.</p>
+<p>We too often forget that our generous impulses&#8212;like our muscles&#8212;grow weak unless they are exercised.</p>
 
-<p>Go through life saying, "I have not time to be kind to-day; later on, when I am not so busy, I will-do it"� and behold, later on, when you are not busy, you will have lost the power to be kind.</p>
+<p>Go through life saying, "I have not time to be kind to-day; later on, when I am not so busy, I will do it"&#8212;and behold, later on, when you are not busy, you will have lost the power to be kind.</p>
 
-<p>Deny to-day the impulse to give a little money, and tomorrow's impulse will be that !hitch weaker�until, finally, the impulse will not return at all.</p>
+<p>Deny to-day the impulse to give a little money, and tomorrow's impulse will be that much weaker&#8212;until, finally, the impulse will not return at all.</p>
 
-<p>He is great who confers the most benefits [says Emerson]. He is base�and that is the only base thing in the universe� to receive favors and render none. In the order of nature we can not render benefits to those from whom we receive them, or only seldom. But the benefit we receive must be rendered again, line for line, deed for deed, cent for cent, to somebody. Beware of too much good staying in your hand. It will fast corrupt and worm worms. Put it away quickly in some sort.</p>
+<cit>
+<quote>
+<p>He is great who confers the most benefits [says Emerson]. He is base&#8212;and that is the only base thing in the universe&#8212;to receive favors and render none. In the order of nature we can not render benefits to those from whom we receive them, or only seldom. But the benefit we receive must be rendered again, line for line, deed for deed, cent for cent, to somebody. Beware of too much good staying in your hand. It will fast corrupt and worm worms. Put it away quickly in some sort.</p>
+</quote>
+</cit>
 
 <p>Men pass over the saying "It is more blessed to give than to receive" as if it were a bit of idealistic nonsense.</p>
 
@@ -40,7 +171,7 @@ Be Good to Yourself, This Christmas, by Being Good to Some One Else
 
 <p>Every man who gives, gives to himself. To the sweetening and broadening of his own nature. Every man who refuses to give, by that refusal contracts and narrows his own soul.</p>
 
-<p>A great opportunity is offered us this year�not merely to give to our own friends and relatives, but to send something to the boys in the camps; to the stricken 'people abroad; to the families of those men who have gone.</p>
+<p>A great opportunity is offered us this year&#8212;not merely to give to our own friends and relatives, but to send something to the boys in the camps; to the stricken people abroad; to the families of those men who have gone.</p>
 
 <p>Make the most of that opportunity.</p>
 
@@ -53,26 +184,54 @@ sacrifice.</p>
 
 <p>"Inasmuch as ye have done it unto one of the least of these," said the Founder of Christmas, "ye have done it unto me."</p>
 
-<p>By which He meant, "ye have done it unto yourselves, unto your own souls�unto the God that is within you."</p>
+<p>By which He meant, "ye have done it unto yourselves, unto your own souls&#8212;unto the God that is within you."</p>
 
-<p>Bruce Lton , Editor.</p>
+<byline><hi rend="italic"><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor</hi>.</byline>
 
+</body>
+</text>
 
+<pb n="Page 3" xml:id="ew.issue.19171203.p003"/>
 
+<text type="flag">
+<body>
 
-Published weekly by the Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as  second Class Matter.
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 5, No. 23<lb/>
+December 3, 1917<lb/>
 
-$1.00 Per Year 3 Cents a Copy
-		
-Vol. 5, No. 23
+Every Week<lb/>
 
-December 3, 1917
+$1.00 per Year<lb/>
+3 Cents a Copy</p>
+</figure>
 
-KIFFIN ROCKWELL'S LETTERS TO HIS BROTHER
+<p>Published weekly by the Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</p>
 
-<p>WE have seen many accounts of the exploits of the American fliers in France, but nothing that gives so vivid a sense of the courage and spirit of these young men as these letters, written by Kiffin Rockwell, and gathered together with comment by his brother a f ter Kiffin's death. Kiffin was an American boy, twenty- four years old. Who can read this story without an added sense of wonder and reverence at the cool courage of men who can see their comrades downed, one after another, and yet, without flinching, can go about their work day after day,staring death, in the face? The name "American" will have added splendor and significance for the peoples of Europe because of Kiffin Rockwell and his friends.</p>
+</body>
+</text>
 
+<text type="nonfiction" xml:id="rockwell.19171203">
+<body>
+
+<head type="main">KIFFIN ROCKWELL'S LETTERS TO HIS BROTHER</head>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
+<p>WE have seen many accounts of the exploits of the American fliers in France, but nothing that gives so vivid a sense of the courage and spirit of these young men as these letters, written by Kiffin Rockwell, and gathered together with comment by his brother after Kiffin's death. Kiffin was an American boy, twenty-four years old. Who can read this story without an added sense of wonder and reverence at the cool courage of men who can see their comrades downed, one after another, and yet, without flinching, can go about their work day after day, staring death in the face? The name "American" will have added splendor and significance for the peoples of Europe because of Kiffin Rockwell and his friends.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab n="credit"></ab>
 <p>The first four American airmen to give up their lives in France are shown in this picture, standing on each side of Captain Georges Thenault. On his left, James Rogers McConnell and Kiffin Yates Rockwell: on his right, Norman Prince and Victor Emmanuel Chapman.</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1"/>
 
 <p>ABOUT nine o'clock on the evening of Monday, April 17, 1916, four cheerful, enthusiastic, eager-faced youths in the uniform of the French aviation corps, and one sad-featured civilian, stepped out of a taxi-cab in Paris. The aviators were Victor Chapman, my brother Kiffin Rockwell, Norman Prince, and James McConnell. They were happy and gay because they had at last come to the realization of their fondest hope, and were off for the front as the first four members of the newly formed American escadrille. The civilian was myself, and I was sad because I was not going with my four companions,' and because I was apprehensive for the future.</p>
 
