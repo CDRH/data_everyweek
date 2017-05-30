@@ -1,0 +1,2389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.1.3.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180525">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, May 25, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180525</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2010</date>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project"></note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-05-25">May 25, 1918</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-01-28"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2008-11-19"><name>Katie Heupel</name> OCR/Initial Encoding
+</change>
+<change when="2008"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+        
+<pb n="Cover" xml:id="ew.issue.19180525.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5&#162;</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Co.</publisher>
+<pubPlace></pubPlace>
+<docDate>May 25, 1918</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head></head>
+<ab type="credit">Gustav Michelson</ab>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+
+
+<pb n="Page 2" xml:id="ew.issue.19180525.p002" />
+
+<text type="advertisement" xml:id="gem.19180525">
+<body>
+
+<figure n="advertisement">
+<head>"The Best Blade in the Service"</head>
+<p></p>
+<figDesc>Advertisement for Gem Cutlery Company, Inc.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Save from $5 to $15 each, on Quality Rubber Tires</head>
+<p></p>
+<figDesc>Advertisement for The L. &amp; M. Rubber Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="barton.19180525">
+<body>
+
+<head type="main">While We're Fighting, Why Not Tackle This Enemy Also?</head>
+
+<p>WE were talking about a friend who has rendered a perfectly splendid service in this war.</p>
+
+<p>For perhaps fifteen minutes we talked about him, and then&#8212;as so often happens&#8212;there came that jarring note.</p>
+
+<p>"He certainly is a wonderful chap," one of the group began, "but&#8212;"</p>
+
+<p>We shuddered at that "<hi rend="italic">but</hi>": we knew its meaning the inevitable bit of criticism tinged with jealousy that it would introduce.</p>
+
+<p>And as I listened I thought, how omnipresent is this infirmity that we call jealousy&#8212;in what diverse and unexpected places it raises its unwelcome head!</p>
+
+<p>We think of it sometimes as a disease of little minds. But it is far from that. Among the very greatest and the ablest it does its vicious business every day.</p>
+
+<p>At one of the most critical periods of the war, I am told that the President was interrupted by a call from a man of national reputation, now in government service.</p>
+
+<p>Supposing it to be a matter of vital importance, the President received him. Imagine his surprise to discover that the great man had come, not with a constructive suggestion, but merely to register a petty complaint.</p>
+
+<p><hi rend="italic">He had been improperly seated at an official dinner, and he wished to protest at what he considered a reflection upon his importance and rank.</hi></p>
+
+<p>Even in a moment of national danger, the man's patriotism was not great enough to conquer his jealousy.</p>
+
+<p>I think that jealousy is the most widespread of human frailties: certainly it was among the very first to make its appearance.</p>
+
+<p>The world was very young indeed when Cain, the son of Adam, went to lay his sacrifice on the altar, and, seeing that his brother Abel had made a more acceptable offering, slew his brother in a fit of jealous rage.</p>
+
+<p>From that day to this, hardly a son of Adam has been entirely free from this corroding influence. All through the arteries of the world's affairs it runs. I have seen a suggestion of it in great philanthropic organizations, working ostensibly for the same unselfish ends: and even ill churches standing side by side, their spires pointing upward to the same heaven.</p>
+
+<p>"How is your church getting along?" some one asked the kind old lady in the little town.</p>
+
+<p>"Not very well," she answered sadly; and then, her face brightening: "But, praise the Lord, the Baptists aren't doing any better."</p>
+
+<p>We need to be on guard against this subtle enemy: it has made trouble for us in every great crisis of our history.</p>
+
+<p>Months and months, in the Civil War, the North waited for a sign of victory; and at length came the news of Grant's capture of Fort Donelson. It was a notable achievement, which spread dismay through the Confederacy.</p>
+
+<p>The people of the North received it joyously: how did Grant's superiors receive it? With approbation? Not a bit.</p>
+
+<p>Halleck telegraphed to McClellan a message of petty, carping criticism. And McClellan, who had achieved nothing with his own army, wired back:</p>
+
+<p><hi rend="italic">Do not hesitate to arrest Grant at once if the good of the service requires it.</hi></p>
+
+<p>They were not little men&#8212;Halleek and McClellan&#8212;but the memory of their jealousy of Grant will be a blot on their records forever.</p>
+
+<p>The lives of most of us will never be written: our jealousies and envyings will be our own secret, and the record of them will perish with us.</p>
+
+<p>But what a magnificent thing it would be if, in this year of the great war, we could institute a little war inside ourselves&#8212;and win it.</p>
+
+<p>If, in looking back, we could say: "In that period when the whole nation was sacrificing, I too learned to sacrifice.</p>
+
+<p>"The fire that cleansed the heart of the world did not leave me untouched.</p>
+
+<p>"In my devotion to the great common cause, I forgot&#8212;for the first time in my life&#8212;to think about myself.</p>
+
+<p>"And, in forgetting myself, I found to my delight that I had destroyed my ancient enemy&#8212;Jealousy."</p>
+
+<closer><signed>Bruce Barton, Editor.</signed></closer>
+
+</body>
+</text>
+<pb n="Page 3" xml:id="ew.issue.19180525.p003" />
+
+<text type="advertisement" xml:id="pen.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Send us a Waterman's Ideal Fountain Pen A message from "Over There"</head>
+<p></p>
+<figDesc>Advertisement for Waterman's Ideal Fountain Pen</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19180525.p004" />
+
+<text type="nonfiction" xml:id="interesting.19180525">
+<body>
+
+<head type="main">THE MOST INTERESTING PERSON I KNOW</head>
+
+<div1 xml:id="chaplin.19180525">
+<head type="sub">SASSY JANE</head>
+<byline>By <persName type="author" key="#Chaplin, Charlie">CHARLIE CHAPLIN</persName></byline>
+
+<p>WHEN she introduced herself to me she said: "I'm Sassy Jane." That was plenty to arouse my curiosity from the very start, and at once I became interested in her.</p>
+
+<p>This little woman&#8212;she is nothing more than a slip of a girl&#8212;had an idea. With this idea she was backed up by a few cents less than five dollars, a package of needles and a quantity of thread, the promise of sixty days' credit with a dry-goods merchant, and the determination to make good.</p>
+
+<p>All of this information was gathered by me in March of 1916. It is since that time that I have observed closely the progress of "Sassy Jane," or, to be more formal, Miss June Beatrice Rand.</p>
+
+<p>A little house apron constituted this young woman's idea. She called it "Sassy Jane," giving it the same name that had replaced her own, June, when she romped about the hills of Wyoming. It was not long after she made her first few sales that the demand grew so rapidly that she had to seek more capital. She could have turned to her rich relatives, but she did not.</p>
+
+<p>Soon her little business had outgrown
+
+<figure n="photograph">
+<head></head>
+<p>Yes, we did print Sassy Jane's picture and a piece about her several months ago; but when we asked Charlie Chaplin who was the most interesting person he knew, and he started right in about Miss Jane, we didn't have the heart to stop him. You see, he knew her before we did.</p>
+<figDesc></figDesc>
+</figure>
+
+the home-made shop in a small bungalow room, and the work was so heavy that two hands could not do justice to it. Even then, after three weeks of hard labor, day and night, "Sassy Jane" discovered that she had little more financially than when she started. But she did not give up.</p>
+
+<p>A machine took the place of her hands, and next she engaged a helper. Her work was recognized by a big department store, and she received many orders calling for dozens of the aprons. A shrewd factory owner became her competitor, and, with every facility at his disposal, started to reap a harvest through the manufacture of a similar garment.</p>
+
+<p>This spurred the girl to still greater efforts. Each week found another machine and another helper added to her force, and she nobly measured strides with her imitator.</p>
+
+<p>Before six months had passed "Sassy Jane" had interested outside resources,&#8212;and I am proud to say that I am one. Night and day, now, a hundred power-driven machines grind away to supply the demand of thousands of homes. But little "Sassy Jane" remains unchanged.</p>
+</div1>
+
+<div1 xml:id="tilden.19180525">
+<head type="sub">HE PLAYED A RETURN ENGAGEMENT</head>
+<byline>By <persName type="author" key="#tilden.19180525">FREEMAN TILDEN</persName></byline>
+
+
+<p>THIS man I'm writing of was actually counted out. The sponge had been duly tossed. Fate had landed on Alexander Hadlock's solar plexus, and he was hanging half through the ropes, with the world looking on and saying, "Poor chap. What's the next bout?"</p>
+
+<p>Hadlock, when he was handed the K. O., was over sixty years old. A fool for going up against Battling Fate, the well known youth with the hay-making punch, you say? Wait! He couldn't help it. You'll see why.</p>
+
+<p>He had been a college professor. He was a shark on conic sections, spherical harmonics, and the fourth dimension. Many a class of bright-eyed boys had passed in and out of his class-room&#8212;and Hadlock remained. He had a big, affectionate heart, a mind full of good things, a soul full of good will&#8212;but he had also that mere slit of a vision on practical life that you get naturally from looking out a class-room window on the campus.</p>
+
+<p>One thing and another happened&#8212;painful but ordinary life stuff not worth repeating. He lost his money, carefully scraped together from the well-known munificent salary of a college professor. The eager, dazzling romance of solid geometry became blurred. He stepped out, one day, into the open atmosphere. And then Fate came along and challenged Alexander Hadlock to a little ten-round thing, to see whether said Hadlock should be allowed to live.</p>
+
+<p>This part is very painful. Fate fanned him one, and the good man went down. And that ought to have been the last of him&#8212;unless he managed to capture an unoccupied street-corner and sell pencils.</p>
+
+<p>But Hadlock, though over sixty, wasn't
+
+<figure n="photograph">
+<head></head>
+<p>"Whenever I get fearful of the day after tomorrow, I think of this man."</p>
+<figDesc></figDesc>
+</figure>
+
+down. He went right into training, and came back with a wallop that made Fate look foolish.</p>
+
+<p>Hadlock went back to the land. He had no money, no helpful friends, no land, no shelter. He knew something about farming, but not much. But he found a sixty-five-acre piece of soil in Vermont that some careless person had left lying there, bought it on tick, got a horse and a couple cows, and started in. Romance! Say, Robinson Crusoe's proposition wasn't in it for difficulty with Hadlock's. Crusoe was on a nice, warm island. The land Hadlock took up was in a climate where the mercury wouldn't be happy if it didn't stay solid all through February. He built a house and barn with his own hands, getting out the timber to do it. He stuck to the job like grim death.</p>
+
+<p>That was about ten years ago. To-day Hadlock has a fine herd of Holstein cattle, is known as one of the most expert milk-producers in his county and State, is brown as a berry, sound as a nut, happy as a song-bird. He has the same amount of agricultural knowledge in his head as a crack professor at Amherst Aggie&#8212;plus the practical wisdom of a farmer. If I wanted to know how to raise a mammoth crop of red clover, I'd ask Hadlock. If you want to know how to produce three hundred and twenty-odd bushels of potatoes to the acre, you'd better ask Hadlock. He has done it. His silos bulge with fine corn ensilage and other toothsome cow victuals.</p>
+
+<p>To me Hadlock is an inspiration and a solace and a hero to worship. I don't mind if he does make me look small sometimes. Whenever I get peevish, and bluish around the gills, and fearful of the day after to-morrow, I think of this man. At sixty he played a return engagement.</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19180525.p005" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 21<lb/>
+May 25, 1918<lb/>
+
+Every
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc>Abraham Lincoln</figDesc>
+</figure>
+
+Week<lb/>
+
+"Every word counts<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by the Crowell Publishing Company, 381 Fourth Avenue, New York. Entered at the New York Post Office as Second Class Matter.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="martin.19180525">
+<body>
+<!-- 
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="main">PICKING THE RIGHT MEN FOR THE TANKS</head>
+<byline>By <persName type="author" key="#Martin, George">GEORGE MARTIN</persName></byline>
+
+<note type="editors">
+<floatingText>
+<body>
+<head type="sub">The Hall-Marks of a Brave Man</head>
+
+<p>BY these signs you may know a brave man:</p> 
+
+<p>Height matters little: he may be anywhere from five to six feet tall. But his eyes should be gray-blue. If they have a steely or glassy cast, so much the better. And he should "smile with his eyes" when you talk danger to him. He should be a man whose women-folk believe in his fighting qualities and do not hold him back. If he has a good record in sports, big-game hunting, or anything else that requires backbone and stamina, better still.</p>
+
+<p>It is such men as these that our army picks for its tanks. They will fight bravely and intelligently, where other men would give up.</p>
+</body>
+</floatingText>
+</note>
+<div1>
+<p>THIS war has reached the point where the picked fighter, the man who is  chosen for the most dangerous and difficult tasks, must be much more than merely brave. Just going out and getting one's self killed is not enough.
+There are plenty of men to do that.</p>
+
+<p>What is needed now is the man who doesn't fear getting killed, but who is resourceful, quick-thinking, shrewd, and courageous enough to do the job in which death walks at his side, and not die.</p>
+
+<p>There is no branch of the service in which this kind of man shows up better than in the tanks. No man is more thoroughly proved before he goes out to battle than the tank fighter. Before he is taken for service with the monster fleets of these modern engines of war now forming in America to sweep the German army back across the Rhine, he must bring forward definite proof that his fighting mettle is of the proper temper&#8212;that he will fight intelligently in a pinch where one man's head-work may mean a battle lost or won.</p>
+
+<p>Perhaps you will say there is no way of proving this before a man has been put to the test in battle. The best answer would be for you to go to Camp Upton and see the first unit of 200 tank fighters recruited for the American army. Or to go down and climb the rickety wooden stairway at Forty-second Street and Sixth Avenue, New York, and talk to Captain H. H. George, the man who picked them. It would give you confidence in the tanks. It would prove to you that brains and bravery wear their own badge, and that those who look for them may see.</p>
+</div1>
+
+<div1>
+<head type="sub">The Kind of Men They Are</head>
+
+<p>WHAT manner of men, then, did Captain George get? How did he judge them? How did each man brand himself as worth having, out of the hundreds who came trooping in on him in answer to the recruiting call? By what reasoning did he decide that 300 of the 500 who applied would not do; and that the other 200 would? How did this cheerful, genial, happy-go-lucky young army captain, who never fought a battle in his life, or even saw one, know that this man would stand and battle to the last gasp with all there was in him, and that that one wouldn't?</p>
+
+<p>Some deep student once said that every act we perform, every move we make, beit great or small, is indelibly photographed somewhere in nature: that as we go through the world we unknowingly leave behind a daily history of ourselves in pictures; that if our shadow falls on a wall the outline of it remains there; that if we touch a glass with our finger-tips and, returning weeks later, breathe upon that spot, the ghostly image of our finger-prints will reappear.</p>
+
+<p>Thus also do men mirror their deeds, their ways, their minds, and their characters in their physical bodies. The record of what they have done is in them; and the right man can find it out. Especially is it in their faces; and more especially in their eyes.</p>
+
+<p>Then what are the signs of bravery?</p>
+
+<p>"Bravery," Captain George said to me, "shows as nowhere else in men's eyes."</p>
+
+<p>And this, then, is the supreme swivel-chair test of a brave man:</p>
+
+<p>"If he smiles with his eyes when you talk of danger, he is your man. If he scowls or looks away, he's a coward."</p>
+
+<p>It is important&#8212;very important&#8212;that we have men with smiling eyes to man our tanks. Just how important this is we may not realize until after the war. The tank is in its childhood. No one knows what it may be when it grows up. But it is a factthat, ever since that gloomy September morning in 1916 when the mists rolled up like a theater curtain from the battle on the Somme and revealed them for the first time,&#8212;great steel beasts, crawling viciously forward and crushing a relent-less path with their iron bellies through wasps' nests of machine-guns, over concrete walls, gaping trenches, old houses, and camouflaged gun-pits, spitting death and destruction from their gray sides and lurching into the heaviest fire unscathed,&#8212;ever since then the battle lords of both camps have been frantically redrafting their ideas to fit the tanks into a decisive smash that might end the war. Already they have to their credit the only real surprise attack by land in the present war&#8212;General Byng's great advance of a few months ago, led out of the dawn by the tanks, without artillery preparation.</p>
+</div1>
+
+<div1>
+<head type="sub">Life in a Tank</head>
+
+<p>WHO knows what these monsters may yet do? And how much may depend on the kind of men who man them? Even at the beginning no ordinary men would do. And the development of the tank calls for ever a stiffer backbone and a betterbrain in the men inside.</p>
+
+<p>Just to exist in an embattled tank is enough to break the ordinary spirit. But to live and to fight in that little black dungeon, crammed and crowded with its roaring hundred-horse-power engine, six mounted guns, three days' provisions, ammunition, equipment, other members of the crew, smoke, oil, ear-splitting noise, and the lurching, sickening motion of a ship in a heavy sea&#8212;that is the test of a real man.</p>
+
+<p>It is small wonder, then, that in picking the men the government looks for the secrets they have told nature about themselves; that it is not content with brave talk. Many a man has spoken convincingly of himself to Captain George, and, when Captain George began to talk convincingly to him of the things he would find in tank fighting, failed to meet the test&#8212;and was rejected.</p>
+
+<p>This is a war in which talk has a very important, vital place, but it is not among tank fighters. These men are not proved by their talk. They are proved by five physical things: their smiling eyes, their women, their records, the build of their heads, and the color of their eyes.</p>
+
+<p>You wouldn't think "the girl he left behind him" would have much to do with the fight a man will put up. As a matter of fact, she has a great deal to do with it.</p>
+</div1>
+
+<div1>
+<head type="sub">The Woman Behind the Tankman</head>
+
+<p>TO my mind, there never was more convincing proof that in this war women&#8212;all women&#8212;are actually, physically fighting in the trenches with their men than what Captain George said about the home-makers of his tankmen. It brings to mind and squares with the words of a high army officer in Washington not long ago.</p>
+
+<p>"Most cases of bad morale in fighting men," said he, "can be traced to the attitude of their women at home. Nothing takes the fighting spirit out of a man so quickly as the pitying, sneering, or whining attitude of a woman. Nothing makes him so courageous as her courage. Whichever it is, it dogs his footsteps into the trenches and over the top."</p>
+
+<p>Perhaps that is why Captain George made a point of seeing the women of all these men.</p>
+
+<p rend="continued">"And fine women they were," said he. "Their wives&#8212;and most of them are </p>
+
+    <p rend="jumpline"><ref target="martin.19180525.jump">Concluded on page 15</ref></p>
+</div1>
+</body>
+</text>
+    
+<pb n="Page 6" xml:id="ew.issue.19180525.p006" />
+
+<text type="fiction" xml:id="muller.19180525">
+<body>
+<head type="main">MORGAN'S LOYALTY</head>
+<byline>By <persName type="author" key="#Muller, Julius W.">JULIUS W. MULLER</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Gigu&#233;re, George">George Gigu&#233;re</persName></byline>
+
+<p>YONDER," said Captain Pearsall, turning his wind-grained face shoreward as the sloop heaved
+herself slowly along the coast, "lays beach that it ain't good to see close. In front, a few cables' len'th off, lays a bar. It makes outer surf that'll break a steel ship, and yet it don't enough break the surf that rolls over into shore." He shook his head. "'Morgan's Loyalty' they call it&#8212;that and the point of beach over beyond." He lifted his arm to indicate a billowy dune with a bleached house in front.</p>
+
+<p>"A queer name, Captain," said I. "'Morgan's Loyalty'!"</p>
+
+<p>"And a queer story, sort of," replied he. "They settled here, them Morgans, away back. Blacker they was, even in my time, than our own people&#8212;black-haired, with eyes that gets angry. He that I knowed, Cap'n Jem Morgan, was like all them that had gone before, according to what my grandfather tell't me. And he had a habit that my grandfather tell't me all the Morgans had. When he were puzzled-like or angry, he'd pull at his beard with both hands, till it come to grow forked, an uncommon thing to see. Not that Cap'n Jem were a man as often got angry. A still man he were, and shy. When anybody spoke him friendly, he'd look at them as if he was glad, but mostly he'd never say a word.</p>
+
+<p>"He were a hard worker, yet he never prospered.  One season his oysters sanded up. Another season his gear would get wrecked in gales. It goes that way sometimes with a man. Then his wife took sick, and for more'n three year she couldn't live, but she couldn't rightly die. Cap'n Jem he fished and oystered and lobstered, and in the night he went out to spear flatfish and eels; and between tides, day and night, he nursed his woman and tried to be father and mother both to their little girl.</p>
+
+<p>"'Elise,' her name was, Mrs. Morgan being given to read poetry. She were about twelve year old when that poor, tired woman got so as she could die at last. I mind we used to say as we could sight Cap'n Jem's Elise a mile away, her hair were that crow-black against the white beach. It had the shine of a crow in it, too, as if it was alive.</p>
+
+<p>"Mebbe a month after the funeral, he taked her to a boarding-school&#8212;a boarding-school, if you please, and a fine one.</p>
+
+<p>"It required some paying for, we reckoned, and that year we see Cap'n Jem doing it. From the little he bought at the store, we guessed that he didn't live on much except fish and clams. He stopped buying tobacco; and before that there were never any Cap'n Jem without a pipe in his mouth.</p>
+
+<p>"Once a month regular he went up to where that boarding-school were. We wondered how the people in the fine school liked that, seeing as how he weared his regular rough fishing clothes. Fact was, Jem didn't have no others. Pretty soon, though, we found out&#8212;through Jacob Smith of the hotel, he being a great hand at minding other folkses' business&#8212;that Jem didn't go into the school at all. He just hanged around out of sight, hacking and filling till the school went out for its regular walk and he could look at Elise unbeknownst.</p>
+
+<p>"We guessed as how Jem Morgan's girl would be growing away from him; and so she done, as was only natural. 'Twas noticeable even when she come home the first time on her holidays. The second year&#8212;well, I can't rightly tell you how 'twas. 'Tweren't only that she were wonderful pretty to look at. You felt as if you was right rough and ignorant whenever she come nigh.</p>
+
+<p>"The only one as didn't feel that way, seemingly, were Cap'n George Lawrence's Dick. He were about seventeen then&#8212;seventeen wuthless years, Cap'n George used to say when Dick had been into something extra. Strong and fine-looking he were, and never done a tap. Before Elise were back three days, everybody 
+
+<cb n="2" />
+
+<figure n="illustration">
+<head></head>
+<p>"It were more than a year before Elise came bock to Natchogue, and then she didn't what you could rightly call come back."</p>
+<figDesc></figDesc>
+</figure>
+
+knowed as Dick Lawrence were clean crazy over her.</p>
+
+<p>"Elise? Well, she were a puzzle. Whenever she met up with Dick, she treated him like dirt, and she called him to his face what the rest of us called him behind his back. And yet, she somehow managed to be where he'd find her. You'd say she was only a baby, judging by years; but the way she led that Lawrence boy around, you'd have said she were a woman grown.</p>
+
+<p>'Tweren't long before more'n one of us says as how Dick were improved. Mebbe 'tweren't much improvement; but in Dick even the littlest improvement were bound to loom up like a red spar buoy in a flat calm. We guessed as how Cap'n George noticed it, for he looked after Dick and Elise more'n once with a kind of a pleased look on him.</p>
+
+<p>"ONE morning Cap'n Jem Morgan meets up with Cap'n Lawrence in front of Jacob Smith's hotel, and us as was settin' on the porch could see as it were done by Jem on purpose.</p>
+
+<p>'Cap'n George,' says Jem, pulling at his beard, 'I've warned that son o' your'n to stay away from my Elise. I lay it on you to undertake he does it: A lazy, idle, wuthless&#8212;</p>
+
+<p>"Cap'n George, as I tell't you, weren't over and above laying such names himself to Dick. Getting it that way, howsomever, right in public, it caught him aback.</p>
+
+<p>"'Easy, Jem,' says he, getting all-fired red. 'Don't slack away no more on your jaw-tackle. No use bringing things down on the run. Me, I been feeling right hopeful that, with a nice girl like Elise to be helping him, Dick might come around fine.'</p>
+
+<p>"'Oh! That's it! That's it, is it?' It come out of Jem like a dog growling deep down. 'You don't mind taking a chanst on sending my child to hell, if it might snatch your own out!'</p>
+
+<p>"He pulled his beard out so that it made you want to stand back. Cap'n George done so, too. He lifted his hand, wishing to make things easy. Cap'n Jem
+
+<cb n="3" />
+
+swung his, and brushed Cap'n George's. We could see that Cap'n George were bitter sorry the minute he done it&#8212;but before he could think he had rammed his fist in Jem's face. '</p>
+
+<p>"We run in, but 'twere not needed. Jem stared at Cap'n George for a little bit. His face were all gone dead-white behind that forked beard and them eyes. Then he turned, kind of swaying, and walked away slow. There wasn't one of us, you may be sure, as made the mistake of thinking that he walked away because he were afraid. It were plain as if wrote down for us that Cap'n Jem had been meaning, in that moment of staring, to kill George where he stood.</p>
+
+<p>"Next morning Jem come rowing up to Natchogue wharf with Elise and her trunk. He taked the trunk on his back and carried it to the railroad station, with Elise walking along of him, kind of flushed. Her and Jem went aboard of the train, and that evening Jem come back alone and went home without saying nothing to anybody.</p>
+
+<p>"It worried Jacob Smith something fearful, till he had snooped around and found out that Jem had took Elise back to the school. Jacob found out, too, that because die holidays hadn't ended yet Jem had to pay extra. When Cap'n George heard that, he went home and lammed into Dick so that the neighbors thought the two would come through the sides of the house.</p>
+
+<p>"THAT year Cap'n George done for Jem everything that he could do unbeknownst. Many a dollar that would have come his way he put Cap'n Jem's way quiet. More'n that no man could do for Jem Morgan, for he were the sort of man as took no favors from nobody. He seemed to live only for one thing, and that were to go up to that school once a month, hanging around and looking.</p>
+
+<p>"Now, here were a queer thing! Jem see his daughter once a month, but he never had word with her, and so didn't have no news about her except what she'd write. Every night he would trudge
+
+<cb n="4" />
+
+or row up to Natchogue and go to the post-office. First off, he got a letter pretty regular about once a week, but before that autumn was passed, the post-mistress tell't us as she was plumb ashamed to say so often to Jem, 'Nothing for you to-night, Cap'n Morgan.'</p>
+
+<p>"Week before Christmas, Jem come to the village, and near knocked Abe Skidmore of the general store over by asking could he have a little credit. He bought a whole raft of truck, such as candy and nuts and oranges, and he picked it that careful that Abe said as how he turned every nut over and over. And if he asked once he asked a dozen times if it sure were the kind of thing as would please a young girl. He bought a fine hook, too, and one of them fancy picture-frames all covered with blue velvet or stuff like that.</p>
+
+<p>"The next few days he went to the post-office twice a day, till at last he got a letter from Elise. For the first time, he opened it right there in front of every-body. But after he read it he folded it slow and put it in his pocket, and walked out with his head kind of dropped.</p>
+
+<p>"Next morning he come to Abe Skidmore and asked him if he could talk to him private, and he tell't Skidmore as how Elise couldn't come home for Christmas, much as she wanted, because she had been invited by a school-mate, and would Skidmore mind taking back the nuts and such?</p>
+
+<p>"He kept the book and the frame, and that afternoon he taked a parcel to the post-office. It were marked for Elise, 'care of Mrs. David Larrabee,' in the city&#8212;the city of New York. A good many in Natchogue whistled when they heard of that address, for anybody that peeked into a newspaper even once in a while knowed who David Larrabee were.</p>
+
+<p>'Jem Morgan's girl is sure coming along,' says Jacob Smith. 'They's many a millionaire woman would give her eye-teeth if her daughter was to get an invite to the Larrabee house.'</p>
+
+<p>'Twas Jacob, of course, as found out that the Larrabee daughter had took a great shine to Elise in the school. When the next summer holidays come, Elise were invited down to the Larrabee place down New Jersey way&#8212;'a place as big as all Natchogue,' Jacob tell't us, 'where the hired men dresses in uniforms.'</p>
+
+<p>"ELISE come home next Christmas, but 'twas only for a couple of days, and there were no going on with Dick Lawrence this time. He put himself in her way steady. In fact, he followed her around like a dog. But he didn't get no more out of it than a dog would, mebbe not so much. She just nodded at him with a kind of look on her as would have made a man want to slap her if she hadn't been so wonderfully pretty. When Jem come through the village carrying her trunk to the railroad again, Dick hanged around till Elise come to the train, and he pushed up to her, but she just touched his fingers with her'n and climbed aboard.</p>
+
+<p>"After that Dick got to be almost as still as Jem himself, and he loafed around with a kind of homesick look on him.</p>
+
+<p>"So it went on for the next three year. Every holiday time Elise's visits got shorter, and every time she were more changed, so that we all got to calling her 'Miss Morgan' against our wills, and most of the young men they didn't dare speak to her at all. There come a queer change in Jem, too. Whenever she went away after one of them short visits, or when she didn't come home at all,&#8212;and that happened oftener and oftener,&#8212;Jem, as had hardly talked to anybody, would stop and talk to any that knowed him, and women-folk especially. What he said was mostly something like this: 'Elise, you know, my Elise, she feels right bad not to stay with me. She'd ruttier be home than any other place. But them friends of her'n is right good to her, and she can't always get out of accepting their invites. So that's how it is,' he'd say; 'that's how it is.'</p>
+
+<pb n="Page 7" xml:id="ew.issue.19180525.p007" />
+
+<p>"At last come the time when Elise were going on eighteen and ready to leave school. 'And high time, too,' as Jacob said, 'for pretty soon Jem Morgan'll he begrudging himself even the fish he eats.'</p>
+
+<p>"One day Jacob showed us all a New York newspaper as had a long article about the school, and there was pictures of the girls as was going to be through that year, and amongst 'em one of Emily Larrabee, with her arm around another girl. You may lay that we was struck of a heap! This other girl was no less than our Elise.</p>
+
+<p>JACOB called out to Jem that day, as he was passing by, and showed it to him. Jem didn't say anything, but just looked at it and pulled his beard. Next day Jem come around and asked Jacob could he have it. He nailed it up over his bed. I see it when I went in, one day, to borrow a clam-rake.</p>
+
+<p>"Soon a great big square letter come for Jem, and he got sociable all at once and stopped 'most everybody to show it to them. It were a thick card printed like handwriting, with his name wrote on the top, and under it, 'You are respectfully invited.' It were an invite to the school affair to see the girls graduated, or whatever you call it.</p>
+
+<p>"Jem even showed it to Jacob Smith and he didn't like Jacob none too well.  After talking back and forth for a spell, he says: 'Jacob, you know a lot about them things. I s'pose they be pretty grand affairs. And I guess a man as goes to one has to act mighty particular.'</p>
+
+<p>"Jacob puffed himself up like a toad-fish, and tel't Jem everything that he knowed and a lot that he didn't. Jem took it all in, and when he went hack home I dare say he tried to patch his clothes and wash the stains out, to make 'em look something like the way Jacob tel't him he ought to dress up.</p>
+
+<p>"Next evening, when Jem come into the post-office, there were a letter for him in Elise's handwriting; and once more Jem opened it right there, greedy. Them as was standing around see his hand go up, clawing his beard. He walked out slow. A little way off he stopped and read the letter again. He stood still for a while; and then he went on, slower than before. 'Jem's getting old,' says one of them as stood watching. 'He walks like as if he be all tired out.'</p>
+
+<p>"When Jem come along with a load of oysters next morning, Jacob tried to stop him and tell him some more about how to behave at the school. But Jem shaked his head. Kind of looking away, he says to Jacob, 'I been thinking it over, and I come to think it ain't no place for me. Them rich people and such&#8212;it'd only make me uncomfortable, I reckon.  I'm only a rough fisherman, and&#8212;and&#8212; well, I been thinking it over.' He started away, but he come hack. 'Elise'll be awful disappointed,' he says; 'but I made up my mind.'</p>
+
+<p>"Well, that last made old Jacob suspicion right away how it were; and when him and the post-mistress laid their heads together, they soon figured out as how Elise must have wrote to him, hinting to him not to go.</p>
+
+<p>"I guess that was pretty close to correct.  Everything that happened after that proved it. Elise didn't come home,
+
+<figure n="illustration">
+<head></head>
+<p>"Before I could stand up, he 'were in the sea. Nobody but Jem
+Morgan could have done it. He swam through that sea."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="2" />
+
+not even for a day, after the school was over. She went down to the Larrabee place, and pretty soon we heard as how she had been took to Europe by them. Yes, sir! Europe!</p>
+
+<p>"It were more than a year before Elise come back to Natchogue, and then she didn't what you could rightly call come back. Jem were waiting for her at the railroad station, and she just sat down there, talking to him. He sat alongside of her, and kept hold of her hand kind of timid, patting it every little while, until the next train come along; and then she got up quick, and kissed him on the cheek, and climbed aboard.</p>
+
+<p>" Jacob Smith was nigh crazy over trying to find out where she had went, for she had went on up the coast. But he couldn't find out till the county paper was out, and he read to us out of it as how Miss Morgan had arrived at Idle-ease, the grand hotel about ten miles along the beach, as a guest of Mr. and Mrs. Larrabee. Yes, sir! Old jem Morgan's daughter, as had run barefoot on Natchogue Beach! There she was in that hotel, as was so grand that there wasn't a Natchoguer as had ever dast so much as step into the grounds around it, excepting mebbe to bring fish to the kitchen door.</p>
+
+<p>"But that were nothing to what Jacob read to us out of that same county paper mebbe a month or so later. It were a long article as told about Miss Elise Morgan and young David Larrabee being engaged! And it went on to tell how rich old Dave Larrabee were, and how Elise were a bosom friend of Miss Emily Larrabee. Elise, says the article, come from a well known old seafaring family&#8212;but it didn't make no mention of Jem Morgan or Natchogue.</p>
+
+<p>"You may guess that Jacob couldn't hardly wait to tackle Jem. He kept on the watch till he see Jem come up from the landing, bent over under a sack of hard clams. 'Hello!' he hails. 'What for you didn't tell us about Elise, so as we could congratulate you?'</p>
+
+<p>"The way Jem stared at him was enough to show any of us that he didn't sense what Jacob was talking about.</p>
+
+<p>"'I mean Elise's engagement! To young Dave Larrabee!' says Jacob. "At that Jem stepped back.	He dropped his sack, and his hand went to his beard.</p>
+
+<p>"'You don't mean to say as you didn't know it?' cackles Jacob. 'Sho! Sho! Think of that, now! A girl getting engaged without telling her pa!'</p>
+
+<p>"Jem taked up his sack and trudged off without a word. At that my temper riz up. I looked after old Jem, trudging away slow and all alone; and I went over to Jacob and I kicked that old gossip-bag good and plenty and patient. I be an old man now, but I feel good as new whenever I thinks of that kicking job.</p>
+
+<p>"I went out to see Jem that evening. Of course, I didn't say nothing to him about Elise, but, after chatting a while to and fro, he turns to me and says: 'You been a good friend of mine, Cap'n Pearsall. Now, that what Jacob said about Elise! I is doubt he was lying.'</p>
+
+<p>"Well, I tel't him what the paper had said, Jem pulling away at his beard. He looked down on the ground for a spell. Then he says, without looking up:</p>
+
+<p>"'You see, 'tis this way. Them friends
+
+<cb n="3" />
+
+of my Elise, they has different ways from our ways. They puts things in the papers first, before they tells anybody. It sort of breaks the news, as I see it. I want you should get it straight, Cap'n, and the straight of it is that it ain't nowise to be held against Elise as she didn't write to me first. Elise, she been a good  daughter to me. If you could see them loving letters! And I ain't been what you could call a good father to her. Not but what I tried, and tried honest. But me being nowise a hand at money-earning, and nowise a hand at good manners, but rough and ignorant&#8212;well, there 'tis. I never maked a home for her such as a daughter has a right to expect from a good providing father.'</p>
+
+<p>"Jem went along the same as before after that, except for one change, and that was a curious one&#8212;the curiousest one as could be. Him and Dick Lawrence got to be thick together. 'Twas a couple of days after Jacob Smith had read out the engagement notice that I sighted Dick going into Jem's house. I expected to see him come flying out again, for Jem hadn't spoke to a Lawrence since the day Cap'n George hit him. But this time!&#8212;well, 'twere curious. Instead of getting kicked out, Dick come out of doors side by side with Ca p'n Jem, and they two set on a boat, Jem mending a net and Dick talking.  From that day, 'twas so. Dick puttered around with Jem all the time, till he were all but living with him. And my wife says to me: 'I'll lay that, if the truth was to be knowed, them two don't talk about much else except Elise.'</p>
+
+<p>"SUMMER went over, and September drawed in fine and warm, with big tides as brought us lots of fish. 'Twere too good to last, and we knowed that 'twould have to end in storm; so we all worked the hardest we was able&#8212;all except Jem. Jem, as had been the hardest working of us all, were lagging behind.</p>
+
+<p>"'I don't like it,' Dick tell't us. 'He been having spells as was like fainting, with had pains to his heart.'</p>
+
+<p>"Come about the middle of September, with the fine, calm weather still holding on, when Dick says to me as how Cap'n Jem were more poorly. 'And I tell you what it is, Cap'n Pearsall,' says Dick to me, 'Cap'n Morgan has a great want for his daughter. He watches the beach constant. Whenever he sights a rig coming along,'&#8212;them Idle-easers had took to driving on our beach on the fine sand packed tight by the surf,&#8212;'he hurries into the house to tidy up, because he thinks it's Elise, mebbe.'</p>
+
+<p>"I didn't say anything; but next morning before daybreak I was in my sloop, sailing down the coast for Idle-ease. I never in my life see so many dressed-up people as was loafing around that hotel.  I could sense as how they was looking at my rough clothes. It made me feel hot all over; but I set my teeth and went up to the man at the big desk and tell't him as I wanted to see Elise.</p> 
+
+<p>"I waited for quite a spell, and then a boy in a uniform piloted me into a place as had chairs that I didn't dast sit on, they was that pretty. And then a woman come in as made me want to back away such a fine-looking woman she was. She looks at me through a big round glass with a gold handle, and says: 'I be Mrs. <choice><orig>Larra-
+
+<cb n="4" />
+
+bee</orig><reg>Larrabee</reg></choice>,' she says. 'If you have anything to say to Miss Morgan, or a message to deliver, I will hear it.'</p>
+
+<p>"I was took back, but after a little I made out to say as how I was aiming to speak with Elise or nobody. And she says as how, in that case, I'd mebbe better write my word and leave it. And she says something about Elise's old friends doing her the best kindness if they'd leave her alone.</p>
+
+<p>"I stomped out, and I was mad to the bottoms of my sea-boots. And who should I sight, as I went through the garden, but Elise amongst a lot of men and women!  And I just turned and went straight up to her. They was some flustered when I stomped in amongst them, but I didn't bother even to say 'Howdy' to any of 'em.</p>
+
+<p>"'Elise,' says I, 'I come to tell you as how your father is right poorly and is pining for you. 'Tain't right,' says I, 'for you to be so nigh him and yet never come to him. I ain't aiming to apologize for coming here,' says I, casting a look aroumd at her friends. 'Your father been a right good father to you, and the least you can do is to try and cheer him. That's all I got to say,' says I. And with that I stomped out again, because I felt myself getting madder all the time. I guess 'twas all them fine clothes&#8212;them white flannens and white shoes and things&#8212;as made me mad, because I had to think of old Jem with his patched breeches.</p>
+
+<p>"I headed straight for my sloop, and if anybody'd got in my way I'd have walked over 'em, though I am't a bad-tempered man by nature. But all to once there came a heavy clutch on my shoulder, and behind me were a big man, a mite out of breath.</p>
+
+<p>"'My name's Larrabee,' says he. 'I don't know your'n, but I want to know. And I want you should set down with me and let's have a talk.'</p> 
+
+<p>"With that he steered me to a benchin some bushes, and he give me a cigar and held a match for me.</p>
+
+<p>"'Now,' says he, 'tell me about Elise's father. I'm sorry to hear he's poorly, and I want to know what I can do for him. Him and me,' says he, smiling, 'is going to be related, for I s'pose you know as my boy and Elise is aiming to get spliced.'</p>
+
+<p>"I KNOWED right to once that he was  the kind of man a man could talk to. So I tell't him the whole thing&#8212;about old Jem half starving himself, and all the rest; and how he was setting and watching for her.</p>
+
+<p>"'Cap'n Pearsall,' says he to me, when I was all through, 'I want you should know as I'm obliged to you. It's a shame!' says he, slapping his big hand down hard&#8212;'a darned shame! But 'twasn't so meant! My woman,' says he, 'is a good woman, and she ain't aiming to do nothing wrong. But women-folks is queer, and they're special queer when they're mad about society, as most of 'em are. Me,' says he, 'I generally let 'em do what they please. But this here! I had ought to be lammed a good one for letting it go on so long. But it stops right now!'</p>
+
+<p>"He holds out his hand and says he:  'You go right back to Jem Morgan, and you tell him as Elise and Dave Larrabee will come driving down the beach to-morrow morning, rain or shine, hell or thunder.  I'd bring the lad too,' says he, 'and let Cap'n Morgan see the bully son-in-law as he's going to have. But the young feller went down coast to bring up his yacht.  He's due to-morrow or next day. But we sha'n't wait for him. There sha'n't be a minute more as I can help put betwixt Cap'n Morgan and his daughter. Him and Elise can come down later.'</p>
+
+<p>"'Twere a glassy sea when I sailed back&#8212;too glassy. 'You're going to bust loose right soon!' says I to the weather, and I hauled my old sloop well up-channel and put out both anchors. When I started walking up the beach to tell Jem about his daughter coming, 'twere dark, and such darkness as a man don't often know. I trudged that beach, man and boy, many a hundred times; yet that night I lost my bearings more than once, and was nigh to walking plumb into the sea, if it hadn't been for the fall of the
+
+<pb n="Page 8" xml:id="ew.issue.19180525.p008" />
+
+surf as warned my ears. Eyes was no good. Sea and beach and air was all one blackness.</p>
+
+<p>"I found Dick setting in front of the house, smoking.</p>
+
+<p>"'Talk easy,' says he, 'Jem's asleep inside. He been overdoing again, getting his gear out of harm's way, account of the weather. He fainted off when he got done.'</p>
+
+<p>'I got news for him&#8212;good news,' says I; 'but it'll keep till he wakes up. I'll set and wait a while.'</p>
+
+<p>"'You won't have to wait long,' says Dick. 'Jem don't sleep much nowadays, only short spells; and then he wakes up excited-like, and talking kind of wild. I suspicion,' says Dick, 'as mostly he dreams as Elise has come home to him.'</p>
+
+<p>"'His dream'll come true to-morrow,' says I; and I tells Dick how I see Elise, and what Dave Larrabee said.</p>
+
+<p>"'That Larrabee's all of a white man,' says Dick. 'And Elise she's all right, too. You take my word for it, Cap'n Pearsall. She's right good at heart; right good.'</p>
+
+<p>"I lighted up my pipe, and we sat waiting. 'Twere terrible still. The tide were running for low, and the surf were only enough to make a slow sort of growl. But all to once there come a sound, far off, like summer thunder.</p>
+
+<p>"'Hark!' says Dick. 'What's that?'</p>
+
+<p>"'That,' says I, listening hard, 'can't be anything except the breakers on Lost Ships' Bar; and,' says I, 'they're twenty mile to eastward, and to my memory ain't been heard here on Natchogue Beach more'n half a dozen times. There's a storm coming, and a big storm,' says I; 'and the first of the wind will be on us in less than an hour.'</p>
+
+<p>"FOR about half an hour it  stayed just so&#8212;the surf growling, the breakers faraway, and not another thing in all the world and all the sky. Then there come a queer sound far out to sea. Mighty queer it were. If you sat up and listened too hard, you couldn't hear anything at all; but if you just set quiet, 'twould fill your ears. Like lots of people talking out to sea, it were. Sometimes you'd almost think you could hear real words—lots on lots of people, all talking fast and wild, and all in terrible trouble.</p>
+
+<p>"'Wind!' says Dick. 'It's coming.'</p>
+
+<p>"The next minute, as if it had been hit a slam by a big fist out of the sky, a heavy sea broke all along for a good mile and more. The bar off the beach spouted. We could glimpse the white lather&#8212;so white in the darkness that it shined as if 'twere all lighted up. A second sea come pouring on the beach, and out of the house ran Jem.</p>
+
+<p>"`Elise!' says he, wild. 'Elise!'</p>
+
+<p>"'Steady, Jem!' says I; and he come to and says:</p>
+
+<p>"`I dreamed as somebody&#8212;somebody I knowed&#8212;were out to sea in a gale of wind!'</p>
+
+<p>"'Set down,' says I. 'I got news for you, Jem. I met up, accidental, with Dave Larrabee,' says I, lying like a good one. 'And he laid it on me to tell you as how him and Elise is going to come driving down the beach to-morrow morning to see you. They been aiming to do it every day for weeks and weeks,' says I, laying it on thick; 'but Larrabee been that busy, and Elise kept waiting, she wishing for him to see you&#8212;' And that was as far as I could lie, so I stopped.</p>
+
+<p>"Jem he didn't say a word, but in the
+
+<cb n="2" />
+
+dark his hand come groping, and he got mine and held it good and tight. I wondered if he suspicioned as I was lying about meeting Larrabee accidental&#8212;and I wonder yet.</p>
+
+<p>I STARTED to go home, but I never went. The wind struck in just as I stood up. Such a wind I never see before and I hope never to see again. It didn't have what you could call a beginning. It come, not like wind, but like as if a great wall had fell in on top of you, sudden. It blew me up against Jem. We heard a smash, and we see the house door go past us, blowed off the hinges.</p>
+
+<p>"The surf struck so you could feel the sand tremble underneath your feet. The white spume of it showed through the
+
+
+<figure n="illustration">
+<head></head>
+<p>"'Father! Father! Brave, good, kind father!'"</p>
+<figDesc></figDesc>
+</figure>
+
+dark. It come further up the beach than sea had ever come before. I changed my mind about going, and we set down in the lee of the house, waiting; for we knowed that what was happening wasn't nothing to what it would be when the tide begun to come in.</p>
+
+<p>"Every now and then one of us would get up and buck the wind to look out seaward&#8212;not that it did any good, for the dark was something as made the best eye blind. 'Twas as if the wind itself were black.</p>
+
+<p>'I'd dozed off, when Dick come jumping back from one of his lookouts and bawls in my ear, 'A vessel! I see her light!'</p>
+
+<p>"We run out. For a while we couldn't see nothing. Then, just for a second, we
+
+<cb n="3" />
+
+see a light&#8212;and then, just as quick, it were gone. It had seemed far, terrible far, off shore; but we knowed, of course, that standing on the low beach we couldn't have sighted her if she'd been more than three mile out.</p>
+
+<p>"'Show a light!' I yells to Dick. It was all I could doin that roar of gale to make him hear me, though I put my mouth close to his ear. 'Show a light from the top of the house! Warn him away, for God's sake!'</p>
+
+<p>"Dick were up on the roof with a lantern almost before I got through. Say what you will about Dick, he were spry when he wanted to move. He climbed up to the gable, and hung there, swaying in the big wind, sheltering the lantern with his body, and waving it up and down.</p>
+
+<p>"We knowed there was a mighty slim chance that they'd see it, for we knowed that they must be swept by seas and half blind with spray. But we held on to the hope that they'd catch just a glimpse of it, and a glimpse would be enough.</p>
+
+<p>"ABOUT three o'clock we see, all of a sudden both the ship's lights&#8212;the red and the green. Them poor souls was standing dead in for shore! Dick let go his hold on the gable, and stood up as high as he could get, and swung his lantern far as his arm could sweep. Then they see it! As Dick come tumbling head over heels from the roof, clean blowed off, we see both lights disappear.</p>
+
+<p>"'It's too late!' says Dick, picking
+
+<cb n="4" />
+
+himself up and wiping blood off his face where he'd been gashed. 'They can't claw off! Never in God's world.'</p>
+
+<p>"All this time we'd been watching for the patrolman of the Whalefish Cove Life Saving Station. He were due on his round between half past three and four, and about four he come.</p>
+
+<p>"'They'll never make it!' says he, agreeing with us. And off he pounded at top speed to rout out the crew at the station and come down with the gear.</p>
+
+<p>"He had five mile to go, as hard going as you could wish. We figured that 'twould be well on toward seven before the men could bring the heavy gear. 'She'll have either struck or got clear long before then,' says Jem.</p>
+
+<p>"Well, she struck. 'Twere just coming dim light when we see her close in, fighting hard, but making leeway steady toward shore. There come a had shift in the wind, and with it great gusts that seemed as if they was pounding their way through the rest of the gale. Then them aboard had to know that there was no use trying no longer to beat off shore. Their sails was rags, and she had to wreck. So they laid her dead before the big wind, and come piling straight for shore, aiming to drive her in far as they could.</p>
+
+<p>"'Twere the best thing to do, and they done it well. She come flying, pitching beyond belief, and she hit the bar nose on, with such a big sea bringing her that for a minute we hoped as she might drive over and in. But the sea broke spouting, and amidst the smother we see her mast toss and go. When the breaker rolled by, she lay fast, with her back broke.</p>
+
+<p>"IT come daylight fast, and we see that she were a big sloop, very handsome. Five men was on her, near as we could make out, but even whilst we looked, two was swept away. We hadn't any earthly chance to launch a boat. Not the whole Whalefish Cove crew could get its lifeboat out into that sea and wind. But we had been bending together all of Jem's lines,&#8212;every kind of a line,&#8212;and we started for the surf to try and snatch any as might come ashore.</p>
+
+<p>"'Jem,' I bawls, 'me and Dick's going in, each with a line. You tend the shore end of them lines!'</p>
+
+<p>"'You take the shore end,' Jem says, and starts to make a line fast to him. 'I be twice the swimmer you be, Pearsall!' And that was true, too. Jem was the strongest swimmer along shore.</p>
+
+<p>"I knowed that he meant to try to swim out to them three men as was left on the wreck, and I knowed 'twas impossible: not a thousand Jems could have done it. So I held the line and hauled him back. But I see that he won't give in, and I got an idea.</p>
+
+<p>"'That daughter o' yourn is coming along this morning!' I shouts in his ear. 'What do you s'pose will happen to her if you're laying dead on the sand or drifting out yonder? D'ye think I'll face her and tell her as how I let her father, a sick man, cast away his life? For, Jem Morgan,' says I, 'you'll be plumb committing suicide if you go out there; and Elise'll know you committed suicide.'</p>
+
+<p rend="continued">"He begun clawing his beard at that, and I was on him and had the line off him before he could answer. I'd only just lashed it to me when Dick waved his arms and rushed into the surf, and me after him; for them three on the wreck</p>
+
+
+    <p rend="jumpline"><ref target="muller.19180525.jump">Concluded on page 17</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 9" xml:id="ew.issue.19180525.p009" />
+
+<text type="nonfiction" xml:id="collins.19180525">
+<body>
+<head type="main">Am I Cursed with Modesty?</head>
+<byline>By <persName type="author" key="#Collins, J.H.">J. H. COLLINS</persName></byline>
+
+<div1>
+<p>AN actor, an author, and an editor sat at lunch in the Friars Club, in New York City. The actor did most of the talking, because he did it well. He told of odd characters and queer places on the road. He was an actor, and therefore naturally mimicked the characters in his stories. But there was also something else&#8212;a certain literary way of putting his stories together which showed another kind of observation.</p>
+
+<p>"Why don't you write some of that stuff?" asked the author admiringly.</p>
+
+<p>"Write!" was the reply. "I am writing all the time, old chap. It seems to be as natural for me to write as to eat."</p>
+
+<p>"Have you published any of your writing?"</p>
+
+<p>"Oh, my dear fellow, no," was the actor's self-deprecatory answer. "Modesty forbids! When I look over it, it seems such bally rot that I always tear it up."</p>
+
+<p>"But why not offer it to an editor or publisher?"</p>
+
+<p>"In my opinion, it's not good enough by half."</p>
+
+<p>"That is just where you are wrong," interposed the editor. "Who are you, to say whether your writing is good or bad, any more than your acting? You are an artist, like the rest of us. You work by feeling. You catch your little inspiration, and have your little thrill, and do your little stunt, whether it is acting or writing. And then you are done&#8212;understand? It is for others to say whether a thing is good or bad. Let the editors edit, and the publishers publish, and the public enjoy or otherwise. You are an artist, and your job is done when you
+
+<cb n="2" />
+
+have produced something."</p>
+
+<p>The handicap of false modesty!</p>
+
+<p>There was a woman in New York who sang and played other people's songs until the spirit moved her to make songs of her own. She made them mentally, and sang them with her own accompaniments. But  writing the music was hard, because she had had no training in composition. Who was she, to dabble in the art of Schubert and Schumann? Her husband urged her to overcome this modesty, and she wrote out two or three of her creations. But, when he wanted to take them to a publisher, modesty stood in the way again. She was certain that no publisher would seriously consider such amateurish things. But, very properly, her husband took the work to a publisher, who accepted and brought it out.</p>
+</div1>
+
+<div1>
+<head type="sub">The Fear of Being an Amateur</head>
+
+<p>MODESTY in this form is really a kind of egotism&#8212;a self-consciousness that keeps many capable workers in every line, business as well as the arts, from achieving the best that is in them. The fear
+
+<cb n="3" />
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+that your work is not good enough for this purpose or that, the fear of what other people will say, the shrinking that prevents you from doing your best in your own field and then letting it pass on to others&#8212;is that what is standing in the way of your development and advancement?</p>
+
+<p>The business world to-day is full of specialists who excel in some given line. All of their abilities and interests lie along that line, whether it be invention or system or selling or management; but they are restricted by the petty false modesty that makes them self-conscious at a point where their work should pass into other fields, to be amplified and utilized by other workers. From the narrow outlook of their own specialty, they undertake to forejudge what will happen when their results pass into the broad field of human service. And therein they are wrong.</p>
+
+<p>"How will this advertisement appeal to readers?" asks the advertising man as he finishes his copy. And, for fear that readers will fail to understand, he holds back the copy and tinkers with it until its original force has been frittered away.</p>
+
+<cb n="4" />
+
+<p>"Will our customers like this new specialty?" asks the designer, and procrastinates in working out the production process until the novelty of the thing as it originally appealed to him has worn off and been replaced by doubt of its ever appealing to any one else.</p>
+
+<p>"These plans are absolutely right," says an engineer. "I have checked them up in every detail. But will the board of directors be able to see their importance?"</p>
+
+<p>False modesty again!</p>
+</div1>
+
+<div1>
+<head type="sub">Let Somebody Else Judge</head>
+
+<p>THE only way to tell whether the advertisement will appeal to people is to put it before people and see what happens. There will be fifty different results with fifty individuals; for each will be affected according to his interests.
+The only way to find out what customers will think of the new specialty is to let them see and pass upon it themselves. And there never yet was a board of directors that did not include at least one man capable of comprehending and appreciating good work.</p>
+
+<p>"Hew to the line and let the chips fall where they may," is a safe old saw. It means simply that if you write or play, you can not read and listen also, and that if you invent, or design, or plan, or manage, your field ends when you have finished your particular work the best you know how. Do your little stunt, pass the results along to customers or directors, and forget it. Do your own little stunt and cut out the modesty, which is really crass egotism.</p>
+    </div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="read.19180525">
+<body>
+<head type="main">This Shop-Girl Read Her Way to a Good Job</head>
+
+<div1>
+<p>AT Christmas-time I got a job in a department store&#8212;was "put in the laces" at six dollars a week. I learned from the other clerks that the "extra" girls who made the best records in the rush season were kept on after the holidays, and I realized that unless I sold more goods than I had been selling, Christmas morning would see me out of a job.</p>
+
+<p>I did manage to hold the job, and when the January sales began I was transferred to the "silks." Then I saw my chance. I must learn all I possibly could about silks.</p>
+
+<p>I was a stranger in the city, but I knew that there was a public library full of hooks near by. At ten o'clock that night I knew more about silks than I had ever expected to know, and in a week I had learned all about where silks were made, the different kinds, and what they were used for. I was a walking encyclopedia on silkworms and their products, and on silk manufacture.</p>
+
+<p>It didn't take the department head long to appreciate my added usefulness, and when the superintendent transferred me back to the laces after the sale season my chief protested so strongly that I was returned to the silks. Book knowledge had counted.</p>
+
+<p>Every evening I went to the library and stayed until it closed, taking notes on the things I read. By day I checked up what I had read by a study of the stock I sold. Then I asked to be transferred to the women's silk dress and suit department. I knew I had an eye for clothes; I could talk well and my manners were pleasing; all I lacked was knowledge of fashions, and I knew how to get that.</p>
+
+<p>I read everything I could find in the women's magazines, and then at the library followed up references to the styles of a hundred years ago from which that sea-son's styles had drawn largely. I prepared myself as thoroughly as for a final school examination, and then I worked to find the things my customers wanted, giving them the benefit of my knowledge when they asked advice, and making in-direct suggestions when they didn't ask for them.</p>
+
+<p>It wasn't long before my salary jumped to twenty-five dollars a week. Book knowledge had won again.</p>
+
+<p>I remained with that store more than three years, and my salary was raised every six months. I specialized in one section after another, until all were familiar. Then I wrote to a man who owned a large department-store. He hired me, and to-day I am general supervisor of all departments of his store and do some of the buying.</p>
+
+<p>I give all the credit for my success to books. Your mind is made or marred by the books you read. The value is not so much in the book itself as in the thoughts it creates. Think your way through as you read, and you will succeed.</p>
+
+<closer><signed>M. E. M.</signed></closer>
+
+</div1>
+
+<div1>
+<head type="sub">Buy Carefully</head>
+
+<p>DON'T be "gypsied" on a used car.  "First of all," says a writer in the <hi rend="italic">Auto and Tractor Shop</hi>, "deal with a reliable dealer. Then be careful not to get a stolen car.</p>
+
+<p>"Go into the history of the car. Find out how long the dealer has had it on hand, how many miles it has run, who the previous owner was, and whether the dealer bought it new or second-hand. If you can, get the number of the 'car and find out from the factory when it was turned out.</p>
+
+<p>"Then examine its mechanical details, cooling system, brakes, transmission, carburetion, differential, and other parts, and listen for any sound that indicates loose or worn parts. Notice the upholstery and finish, and look for wiring and braces.</p>
+
+<p>"If you don't know about cars, have some one who does know examine the car before you put your money into it."</p>
+</div1>
+
+<div1>
+<head type="sub">Sell Shrewdly</head>
+
+<p>A MAN saw a green silk tie in a shop window. He thought it would sell for about a dollar. He went in and asked about it. The clever clerk quickly tied the cravat on his finger, remarking that the silk in it was manufactured in Scotland and imported directly by his firm. The man mentally put the price up to $1.50.</p>
+
+<p>Then the clerk inserted a tie pin in the tie on his finger, remarking that most ties were ruined by a stick-pin, but that this tie's quality and texture could not be damaged by a stick-pin. He then put the tie in the customer's hands and asked him to feel the unusual softness. The prospective buyer had by now men-tally put the price up to $2. And when the salesman said it was only $1.50 he immediately took it, though he had originally appraised it at $1.</p>
+
+<p>If you sell things, think this over.</p>
+
+<floatingText>
+<body>
+<head type="main">Weigh Your Intellect</head>
+
+<p>BENJAMIN FRANKLIN kept a daily balance sheet of his good and bad qualities. He jotted down every evening the number of times he "cursed," the number of times he "let things slide," how often he was discourteous, what things he ate too much of, and also, item by item, his good works and thoughts. He struck a weekly, monthly, and yearly balance, always striving to better himself. The book he wrote about this system, with the maps he used, show that he improved himself marvelously.</p>
+
+<p>Here is a modern adaptation of the same idea. Harry Newman Tolles, a business expert, worked it out, and it was printed in <hi rend="italic">Business Success and the Business Philosopher</hi>. If you will study it and follow out its six months' course of self-betterment, it may help you a heap.</p>
+
+<p>Most people do not realize what a tremendous influence small things have on individual success. Franklin, who was a wise, wise man, knew. Tolles knows. Every man who stops and gives himself a good once-over every little while will realize it. Concerning the use of his Human Balance Sheet, Tolles says:</p>
+
+<p>"You are somewhere between 1 and 99 per cent on each quality in this list. Man is judged by his weaknesses. All errors are traceable to some deficient quality. It is well to see ourselves as others see us. You make yourself to-day what you will be to-morrow. Estimate yourself to-day. The second month you will approach a more nearly correct estimate. The fourth month you will be better able to look yourself squarely in the face. Your future self is in your own making."</p>
+
+<p>Of course, if you don't pay close attention to your average on each of these qualities between the time you strike your first balance and the time you strike the second balance two months later, it won't be much use for you to take a balance at all.  But if you follow the plan carefully you'll be surprised at the results.</p>
+
+<table>
+<head>HUMAN BALANCE SHEET</head>
+<row>
+<cell>Activity</cell><cell>Observation</cell>
+</row>
+<row>
+<cell>Ambition</cell><cell>Open-mindedness</cell>
+</row>
+<row>
+<cell>Calmness</cell><cell>Optimism</cell>
+</row>
+<row>
+<cell>Carefulness</cell><cell>Originality</cell>
+</row>
+<row>
+<cell>Civility</cell><cell>Order</cell>
+</row>
+<row>
+<cell>Competency</cell><cell>Peace</cell>
+</row>
+<row>
+<cell>Concentration</cell><cell>Perception</cell>
+</row>
+<row>
+<cell>Construc-</cell><cell>Persistence in</cell>
+</row>
+<row>
+<cell>tiveness</cell><cell>Obedience to</cell>
+</row>
+<row>
+<cell>Content</cell><cell>Higher Motive</cell>
+</row>
+<row>
+<cell>Courage</cell><cell>Poise</cell>
+</row>
+<row>
+<cell>Courtesy</cell><cell>Politeness</cell>
+</row>
+<row>
+<cell>Decision</cell><cell>Punctuality</cell>
+</row>
+<row>
+<cell>Desire to serve</cell><cell>Purity</cell>
+</row>
+<row>
+<cell>Despatch</cell><cell>Quick Mental</cell>
+</row>
+<row>
+<cell>Earnestness</cell><cell>Grasp</cell>
+</row>
+<row>
+<cell>Economy</cell><cell>Refinement</cell>
+</row>
+<row>
+<cell>Faith </cell><cell>Reasonableness</cell>
+</row>
+<row>
+<cell>Fidelity</cell><cell>Regularity</cell>
+</row>
+<row>
+<cell>Generosity</cell><cell>Reverence</cell>
+</row>
+<row>
+<cell>Good Judgment</cell><cell>Self-control</cell>
+</row>
+<row>
+<cell>Gracefulness</cell><cell>Self-reliance</cell>
+</row>
+<row>
+<cell>Gratitude</cell><cell>Sense of Humor</cell>
+</row>
+<row>
+<cell>Health</cell><cell>Sincerity</cell>
+</row>
+<row>
+<cell>Honesty</cell><cell>Stability</cell>
+</row>
+<row>
+<cell>Industry</cell><cell>Straight-</cell>
+</row>
+<row>
+<cell>Initiative</cell><cell>forwardness</cell>
+</row>
+<row>
+<cell>Just Commenda-</cell><cell>Strength</cell>
+</row>
+<row>
+<cell>tion</cell><cell>Tact</cell>
+</row>
+<row>
+<cell>Knowledge</cell><cell>Temperance</cell>
+</row>
+<row>
+<cell>Love</cell><cell>Thoroughness</cell>
+</row>			
+<row>
+<cell>Loyalty</cell><cell>Thrift</cell>
+</row>
+<row>
+<cell>Memory</cell><cell>True Humility</cell>
+</row>
+<row>
+<cell>Neatness</cell><cell>Trustfulness</cell>
+</row>		
+<row>
+<cell>Obedience</cell><cell>Truthfulness</cell>
+</row>
+<row>
+<cell>Total</cell><cell>Total</cell>
+</row>
+<row>
+<cell  cols="2">Estimate yourself on the basis of 100 per cent.</cell>
+</row>
+<row>
+<cell cols="2">Average</cell>
+</row>
+<row>
+<cell cols="2">Second month</cell>
+</row>
+<row>
+<cell cols="2">Fourth month</cell>
+</row>
+<row>
+<cell cols="2">Sixth month</cell>
+</row>	 
+</table>
+</body>
+</floatingText>		
+
+</div1>
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19180525.p010" />
+
+<text type="nonfiction" xml:id="without.19180525">
+<body>
+<head type="main">The Things We Learned to Do Without</head>
+
+<figure n="illustration">
+<head></head>
+<p>"We decided to economize on silk socks and stockings."</p>
+<figDesc></figDesc>
+</figure>
+
+<p>WE were married within a month of our commencement, after three years of courtship at a big Middle West university. Looking back, it seems to me that rich, tumultuous college life of ours was wholly pagan. All about us was the free-handed atmosphere of "easy money," and in our "crowd" a tacit implication that a good time was one of the primary necessities of life. Such were our ideas when we married on a salary of one hundred dollars a month. We took letters of introduction to some of the "smart" people in a suburb near Chicago, and they proved so delightfully cordial that we settled down among them without stopping to consider the discrepancies between their ways and our income. We were put up at a small country club&#8212;a simple affair enough, comparatively speaking&#8212;that demanded six weeks' salary in initial dues and much more in actual subsequent expense. "Everybody" went out for Saturday golf and stayed for dinner and dancing.</p>
+
+<p>By fall there was in working operation a dinner club of the "younger married set," as our local column in the city papers called us; an afternoon bridge club; and a small theater club that went into town every fortnight for dinner and a show. Costly little amusements, but hardly more than were due charming young people of our opportunities and tastes. I think that was our attitude, although we did not admit it. In September we rented a "smart" little apartment. We had planned to furnish it by means of several generous checks which were family contributions to our array of wedding gifts. What we did was to buy the furniture on the instalment plan, agreeing to pay twenty dollars a month till the bill was settled, and we put the furniture money into running expenses.</p>
+
+<p>It was the beginning of a custom. They gave most generously, that older generation. Visiting us, Max's mother would slip a bill into my always empty purse when we went shopping; or mine would drop a gold piece into my top bureau drawer for me to find after she had gone. And there were always checks for birth-days.</p>
+
+<p>Everything went into running expenses; yet, in spite of it, our expenses ran quite away. Max said I was "too valuable a woman to put in the kitchen," so we hired a maid, good-humoredly giving her <hi rend="italic">carte blanche</hi> on the grocery and meat market. Our bills, for all our dining out, were enormous. There were clothes, too. Max delighted in silk socks and tailored shirts, and he ordered his monogramed cigarettes by the thousand. My own taste ran to expensive little hats.</p>
+
+<p>It is hardly necessary to recount the details. We had our first tremendous quarrel at the end of six months, when, in spite of our furniture money and our birthday checks, we found ourselves two hundred and fifty dollars in debt. But as we cooled we decided that there was nothing we could do without: we could only be "more careful."</p>
+
+<p>Every month we reached that same conclusion. There was nothing we could do without. At the end of the year on $l.000 salary we were $700 behind; eight months later, after our first baby came, we were over a thousand&#8212;and by that time, it seemed, permanently estranged. I actually was carrying out a threat of separation and stripping the apartment, one morning, when Max came back from town and sat down to discuss matters with me.</p>
+
+<p>A curious labyrinthine discussion it was, winding from recriminations and flat admissions that our marriage was a failure and our love was dead, to the most poignant memories of our engagement
+
+<cb n="2" />
+
+days. But its central point was Max's detached insistence that we make marriage over into a purely utilitarian affair.</p>
+
+<p>"Man needs the decencies of a home," he said over and over. "It doesn't do a fellow any good with a firm like mine to have them know he can't manage his affairs. And my firm is the kind of a firm I want to work for. This next year is important; and if I spend it dragging through a nasty divorce business, and knowing that everybody knows, I'll be about thirty per cent efficient. I'm willing to admit that marriage&#8212;even a frost like ours&#8212;is useful. Will you?"</p>
+
+<p>I had to. My choice rested between going home, where there were two younger sisters, or leaving the baby somewhere and striking out for myself.</p>
+
+<p>"It seems to me," said Max, taking out his pencil, "that if two reasonably clever people can put their best brain power and eight hours a day into a home, it might amount to something sometime. The thing resolves itself into a choice between the things we can do without and the things we can't. We'll list them. We can't do without three meals and a roof; but there must be something."</p>
+
+<p>"You can certainly give up silk socks and cigarettes," I said; and, surprisingly, on this old sore point between us Max agreed.</p>
+
+<p>"You can give up silk stockings, then," he said, and put them down. Silk socks and silk stockings! Out of all possible economies, they were the only things that
+
+<cb n="3" />
+
+we could think of. Finally&#8212;</p>
+
+<p>"We could make baby an excuse," I said, "and never get out to the club till very late&#8212;after dinner&#8212;and stay just for the dancing. And we could get out of the dinner club and the theater bunch. Only, we ought to have some fun."</p>
+
+<p>"You can go to matin&#233;es, and tell me, so we can talk intelligently. We'll say we can't leave the kid nights&#8212;"</p>
+
+<p>"We can buy magazines and read up on plays. We'll talk well enough if we do that, and people won't know we haven't been. Put down: magazines for plays!</p>
+
+<p>He did it quite seriously. Do we seem very amusing to you? So anxious lest we should betray our economies&#8212;so impressed with our social "position" and what people might think! It is funny enough to me, looking back; but it was bitter business then.</p>
+
+<p>I set myself to playing the devoted and absorbed young mother. But it was a long, long time before it became the sweetest of realities. I cried the first time I refused a bridge game to "stay with baby"; and I carried a sore heart those long spring afternoons when I pushed his carriage conspicuously up and down the avenue while the other women motored past me out for tea at the club. Yet those long walks were the best thing that ever happened to me. I had time to think, for one thing; and I gained splendid health, losing the superfluous flesh I was beginning to carry, and the headaches that usually came after days of lunching and bridge and dining.</p>
+
+<p>I fell into the habit, too, of going around by the market, merely to have an objective, and buying the day's supplies. The first month of that habit my bills showed a decrease of $16.47. I shall always remember that sum, because it is certainly the biggest I have ever seen. I began to ask the prices of things; and I made my first faint effort at applying our game of substitution to the food problem, a thing which to me is still one of the most fascinating factors in house-keeping.</p>
+
+<p>One afternoon in late summer, I found
+
+<cb n="4" />
+
+a delightful little bungalow in process of building, on a side street not so very far from the proper avenue. I investigated idly, and found that the rent was thirty dollars less than we were paying. Yet even then I hesitated.</p>
+
+<p>It was Max who had the courage to decide.</p>
+
+<p>"The only thing we are doing without is the address," he said. "And that isn't a loss that looks like $36o to me."</p>
+
+<p>All that fall and winter we kept doggedly at our game of substitution. Max bought a ready-made Tuxedo, and I ripped out the label and sewed in one from a good tailor. I carried half a dozen dresses from the dyer's to a woman who evolved three very decent gowns; and then I toted them home in a box with a marking calculated to impress any chance acquaintance. We were so ashamed of our attempts at thrift that they came hard.</p>
+
+<p>Often enough we quarreled after we had been caught in some sudden temptation that set us back a pretty penny, and we were inevitably bored and cross when we refused some gayety for economy's sake. We resolutely decided to read aloud the evenings the others went to the theater club; and as resolutely we substituted a stiff game of chess for the bridge that we could not afford. But we had to learn to like them both.</p>
+
+<p>Occasionally we entertained at very small, very informal dinners, "on account of the baby"; and definitely discarded the wines that added the "smartness" demanded at formal affairs. People came to those dinners in their second or third best; but they stayed late, and laughed hilariously to the last second of their stay.</p>
+
+<p>In the spring we celebrated Max's second respectable rise in salary by dropping out of the country club. We could do without it by that time. At first we thought it necessary to substitute a determined tramp for the Sunday morning golf game; but we presently gave that up. We were becoming garden enthusiasts. And as a substitution for most of the pleasure cravings of life, gardening is to be highly recommended. Discontent has a curious little trick of flowing out of the earthy end of a hoe.</p>
+
+<p>Later that summer I found that a maid was one of the things I could do without, making the discovery in an interregnum not of my original choosing. A charwoman came in for the heavier work, and I took over the cooking. Almost immediately, in spite of my inexperience, the bills dropped. I could not cook rich pastries and fancy desserts, and fell back on simple salads and fruit instead. I dipped into the household magazines, followed on into technical articles on efficiency, substituted labor-savers wherever I could; and started my first muddled set of accounts.</p>
+
+<p>At the beginning of the new year I tried my prentice hand on a budget; and that was the year that we emerged from debt and began go save.</p>
+
+<p>That was six very short years ago. When, with three babies, the bungalow became a trifle small, we built a little country house and moved farther out. Several people whom we liked best among that first "exclusive younger set" have moved out too, and formed the nucleus of a neighborhood group that has wonderful times on incomes no one of which touches $4000 a year.</p>
+
+<p>Ours is not as much as that yet; but it is enough to leave a wide and comfortable margin all around our wants. Max has given up his pipe for cigarettes (unmonogramed), and patronizes a good tailor for business reasons. But in everything else our substitutions stand: gardening for golf; picnics for road-house dinners; simple food, simple clothing, simple hospitality; books, a fire, and a game of chess on winter nights.</p>
+
+<p>We don't even talk about economies any more. We like them. But&#8212;every Christmas there comes to me via the Christmas tree a box of stockings, and for Max a box of socks&#8212;heavy silk. There never is any card in, either; but I think we'll probably get them till we die. F. B.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="dancer.19180525">
+<body>
+
+<head type="main">The Making of a Dancer</head>
+
+<p>SHE is called Anna Duncan because she is one of the six pupils adopted by Isadora Duncan. Thirteen years ago she had another name, but it has been forgotten. This is her story:</p>
+
+<p>In Austria, near the Italian border, lived a factory foreman who loved beautiful things. He hoped and worked to better his position but didn't make much headway. One day he picked up a paper in the street, and read that Miss Duncan, the dancer, had offered to adopt a certain number of pupils. Anna was then eight years old.</p>
+
+<p>Without saying a word to any one, Anna's father slipped away, taking his daughter with him. To the Austrian factory foreman a trip to Berlin, where Miss Duncan was at the time, was a tremendous venture. It meant sacrificing almost everything he had in the world.</p>
+
+<p>Anna was accepted by the dancer, and Anna's father went away without saying good-by, fearing to disturb the child in her new surroundings.</p>
+
+<p>But, before he left, he had a glimpse of her clad in the picturesque Greek tunic
+
+<figure n="photograph">
+<head></head>
+<p>Anna Duncan (in center). Her mother has never seen her dance.</p>
+<figDesc></figDesc>
+</figure>
+
+which had replaced her cheap cotton dress.</p>
+
+<p>That was thirteen years ago. Since then Anna has danced before the great ones of the earth. She has won much praise, and she is said to be happy. But only once has her father seen her dance; and to her mother, who has never seen Anna the dancer, she is only a memory.</p>
+
+
+
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19180525.p011" />
+
+<text type="photograph" xml:id="exit.19180525">
+<body>
+
+<figure n="photograph">
+<head>EXIT TEMPERAMENT</head>
+<ab type="credit">Photograph by ARNOLD GENTHE</ab>
+
+<p>"MISS MARLOWE, will you have a poster made of yourself as the spirit of the stage woman's war relief?"  "Certainly," replied Julia Marlowe. "You will have it in twenty-four hours."  And she made this costume and sewed on the cross and got her picture taken and everything, all int hose few hours. Temperament? Haven't you heard? When actresses began to call themselves stage women, then it was that temperament hung its head and fled away. And this happened just a year ago, when Miss Rachel Crothers called together all the heroines and villainesses, all the character women and leading ladies, to talk war relief. And in the twinkling of an ingenue's bright blue eye the Stage Woman's War Relief, one of the most efficient of relief organizations, was born. Autograph fiends would find a happy hunting ground at 366 Fifth Avenue, New York, where one finds all the popular stage folk. The stern mother, the angel child, the designing vampire, and the noble, misunderstood heroine they all are there. This relief headquarters is somehow "different." Perhaps it is because, while other women relief workers eagerly deck themselves in the becoming trappings of their new craft, few of the stage women are in costume. Our "play actresses" are seemingly happy to lay aside "make-believe" and do plain work in a plain way.</p>
+
+<p>In the plain, cheerful work-room, typewriters click, sewing-machines buzz, and scissors snip. Garments and surgical dressings are made in u hurry by many well known fingers. Minnie Dupree is queen of the surgical dressings, and doesn't hesitate to tell even Dorothy Donnelly that she is rolling 'em the wrong way. One may, without charge, observe Frances Starr's splendid acting of despair when she is knitting two, purling two, and has just dropped a stitch. Crystal Herne, that lachrymose heroine, dries her bitter tears and manages the canteen. Her greatest tragedy now is tough beef in the sandwiches. Florence Nash says she knows no lines quite so exciting as the subscription sheet which tells that thousands of dollars a week are pouring into the treasury. It was Miss Nash, over at the work-room, who wrenched her eyes with difficulty from the be-yu-ti-ful list of figures and obligingly dropped into stage vernacular: "You see, we all here are rehearsing the first and second acts of this big drama. If we can make them perfect, the third act that big climax that is being staged over in the trenches and on the ships at sea will be the biggest success ever seen in any season!"</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19180525.p012" />
+
+<text type="photograph" xml:id="fighters.19180525">
+<body>
+
+<head type="main">WHAT BECOMES OF PRIZE-FIGHTERS?</head>
+
+<figure n="photograph">
+<head></head>
+<p>THE Provost Marshal General figures that every year 700,000 young huskies come of fighting age: and every year Old Father Time, the only undefeated champion, knocks out a few more fellows who have reached the ripe old age of thirty or twenty-nine. Paul Sikora never tried to come back. He is now a baker, making those reinforced concrete rolls that they serve in restaurants. He figures that they are just as hard as any blow he ever struck and that there are lots more of them.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Photograph and Press Bureau</ab>
+<p>THE first great historical event that  we can remember is the battle between James J. Corbett and Bob Fitzsimmons, when "Gentleman Jim," the idol of every heart, went down before the blows of the man with freckles on his shoulders. Now "Gentleman Jim" is a fixture on the vaudeville circuit, coming on regularly betwen the Dancing Dingoes and the Mignut Musical Family.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IMAGINE 220 pounds of hard, sun-burned muscles, covered with overalls, topped with a slouch hat, and completely surrounded by Holsteins, and you have James J. Jeffries to-day. (No, Maurice; Holsteins is not a great German artist: they are cows.) Jeffries gathered about $300,000 in his ring days, before that fatal slap from Johnson which sent him down bearing the hope of the white race, and much of the white race's money also.</p>
+<ab type="credit">&#169;C. Van Court</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Underwood &amp; Underwood</ab>
+<p>JOHN L. SULLIVAN was still with us when we began work on this splendid page of photographs: but he has passed on. We never saw him fight: we were born too late. But we hung breathless over every word of his autobiography. How well we remember the scene in which he described his meeting with the Prince of Wales! The Prince was somewhat flustered in the presence of so much greatness. "But I spoke to him cordial," said John L., "and put him at his ease." A grand old fighter, and a perfect gentleman.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Underwood &amp; Underwood</ab>
+<p>"BILLY RODENBACH," say some of the wise ones, "would have been the greatest ring star in the history of the game, if he had decided to become a professional." In less than a year he won the light-weight, welter-weight, middle-weight, and heavy-weight amateur championships. In 'Frisco, his heavy-weight opponent, who weighed 195 pounds, laughed when he saw Billy, who weighed only 145. Billy knocked him out in two rounds. The picture shows him in an automobile of the New York Fire Department. As a fire-fighter he's a champion, too.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE "Fighting Cooper" was the title under which Jack Skelly
+rose to fame. His first row was with an Englishman, in the
+days when both men were making barrels: the question was, which
+could put hoops on the most barrels in an hour. By the time the constable arrived on the scene to separate them, Jack was on his way to
+fame as a fighter. He was a suuccessful feather-weight, but a dark
+cloud came across his sky in the person of George Dixon, the colored
+fighter: and Jack Skelly now writes for the Yonkers <hi rend="italic">Herald</hi>.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19180525.p013" />
+
+<figure n="photograph">
+<head></head>
+<p>HARRY FORBES was a top-notcher among the feather-weights and bantam-weights for a number of years. Once he held the championship; but he hardly had time to go home and tell his folks he had it before another fighter came along and took it away from him. Nowadays a fighter gets a fortune for a single bout: in those days he was lucky if there was anything left after he had paid for the court-plaster and iodine. Harry (on the left in the picture) is now instructor in the Detroit Athletic Club. And is there any place more lonely&#8212;as some one remarked&#8212;than the gymnasium of an athletic club?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"KID" LAVIGNE&#8212;there was a fighter.  When he first appeared in England, staid Britishers screwed their monocles into their eyes and murmured, "But I say, old chap, he's only a boy." But the Kid showed them that, young as he was, he carried a powerful punch. He is now employed as one of Henry Ford's $5-a-day men; and, though we do not know the exact nature of his job, we imagine that he is the man who teaches those jitney engines to back-tire.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>LEACH CROSS,  the light-weight, has taken his slippered feet out of the rosined ring. If you are in New York, and the teeth get to aching, you'll find Leach in his office, with the white coat and the guileless
+smile that dentists always assume when they tell you that "this won't hurt."</p>
+<ab type="credit">Photograph by Underwood &amp; Underwood</ab>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>BACK in the good old days when fighters stood up and walloped each other for the pure joy of the walloping; in the good old days when the real fight took place in the ring, and not in the box-office; when no one quarreled about the motion-picture rights because there weren't no motion pictures&#8212;back in those good old days lived and fought Tommy Ryan. He lives still, and occasionally there are murmurings from Syracuse, New York, to the effect that he is going to come back. But Tommy is forty-seven years old, and the boxing school which he presides over is doing well; and&#8212;well, oh, well&#8212;</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>IN his day, "Mysterious Billy" Smith took them as they came; and the bigger they were the harder they fell. Fear and pity were equally unknown to him: he loved the game. But somebody got him, after a while; and he tried vaudeville and bartending and other things, all without success. A little while ago he tried to "come back." It happened in Portland, Oregon, against a man named Jack Root: and Billy's head, thumping hard on the canvas, proved again the wise old truth that "they never come back." Good-by, old prize-fighters. We wonder what becomes of old editors?</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19180525.p014" />
+
+<text type="photograph" xml:id="lines.19180525">
+<body>
+<head type="main">BETWEEN THE LINES</head>
+
+<figure n="photograph">
+<head></head>
+<p>THE person we look at in the glass each morning is a decent sort of fellow. We settle his tie for him and forget all about him. One inspection in the morning, and then we give him fifteen hours to do just what he wants in. By the time
+we are forty he has made what he likes of us.</p>
+<ab type="credit">Paramount</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Paul Thompson</ab>
+<p>ABOVE, between his lawyers, is Mr.Theodore P. Shonts&#8212;"Pres. Interborough Met. Co., New York; pres. N. Y. Rys. Co.; Rapid Transit Subway Constru. Co.; Sub-way Realty Co.; Dir. 5th Ave. Coach Co.; L. I. Electric Ry. Co.; N. Y. L. I. Traction Co.; etc., etc." In other words, when New Yorkers get mad at the street cars and try the subway, and get mad again and resolve to spend ten cents for a 'bus ride, Mr. Shonts never gets mad. Because he gets their nickels, any way they fix it.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>SOME beautiful ladies figure that Turkish baths and cold creams and hot towels will stay the hand of time. Others avoid wrinkles by keeping their faces perfectly immobile, registering nothing whatever but bovine calm. Shucks and fiddlesticks! say we (except possibly of the cold creams advertised in this number). Everybody is a sculptor. His tools are fear and hate, generosity, enthusiasm, pity. And the face he models is his own.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Underwood &amp; Underwood</ab>
+<p>NO peace that can possibly be made can ever take out the lines carved by that master sculptor, War. The smooth cheeks of young wives and sisters he particularly loves to work upon. But there is no material quite so satisfactory as the faces of mothers.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>THE gentleman to the left got his face from running the American League, and the gentleman on the right got his from owning the Cincinnati. As a beautifying pastime we choose puss-in-the-corner.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Press Illustrating Service</ab>
+<p>"CAN I have forgotten anything?" and "Oh, dear, if only I hadn't done that!" are two excellent little chisels for those up-and-down lines between the eyebrows and those bias lines around the mouth. Jokes culled from this magazine, on the contrary, smooth out all worry lines and turn the battle-scarredest curmudgeons into Merry Pickfords.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19180525.p015" />
+
+<text type="nonfiction" xml:id="martin.19180525.jump">
+<body>
+<head type="main">Picking the Right Men for the Tanks</head>
+
+<p rend="jumpline">Concluded from page 5</p>
+
+<p rend="continued">married men with families&#8212;really are their better halves, which I am sorry to say is not true of every soldier's wife. This war has put the old saying to the test. It has shown that for almost every slacker, slicker, or coward in the ranks you will find another in petticoats at home.</p>
+
+<p>"The right man married to the right woman makes the best fighter in the world.  These recruits have the right kind of women&#8212;the kind I would be glad to take along with their husbands, if the situation came to that."</p>
+
+<p>It may be that the law of like to like leads fighting women to pick fighting husbands.  I don't mean quarrelsome women, or nagging women, but women with stamina and courage.  And, according to Captain George, it isn't at all unlikely that these women are first attracted to their future husbands by their eyes.  However that may be, it is a fact that most of the two hundred men of this unit have fighting eyes&#8212;pale, light-blue eyes with a steeply or glassy cast.</p>
+
+<p>To Captain George's mind, that eye spells courage, backbone, brains, and a fighting soul.  The great adventurers, soldiers of fortune, and citizens of the world who have stood out, he says, have all had it.  He believes the force, intelligence, and fearlessness behind America's steel-blue eyes will have as much to do with winning the war as America's steel-blue bullets.</p>
+
+<p>But it makes some difference what kind of a head those eyes are in.</p>
+
+<p>Have you ever noticed that men of peace, as a rule, have long, narrow heads?  There is President Wilson.  A wonderful fighter when driven to it, but his heart is for peace.  He didn't want to fight.  He didn't want to begin this war.  He hates fighting. And as soon as the chance for the right kind of peace comes along, he will grab it.  I do not mean that he is not  a born fighter&#8212;he would do almost anything else before he would double up his fist and hit a man in the jaw.</p>
+
+<p>The broad-headed man loves a fight.  Look at any man who has won his laurels in the prize-ring.  You will find, almost without exception, that he has a broad, heavy head, with a decided bulge just above the ears and forward to behind the eyes.  That, the wise men who study heads tell us, is the seat of the desire to smash things, to hit, to batter, to tear down and destroy viciously.  Most great inventors have this disposition, but refined, so that they wnat to tear things to pieces to find out how they are built, and then put them together again in better fashion.  If you don't believe this, look at the front-view picture of Thomas A. Edison.  All real heart-and-soul fighters have this faculty unrefined.</p>
+
+<p>So that was another thing Captain George looked for in the men he picked.  And I might add that this seemingly peaceful chooser of fighting men has that bulging head himself.  He is his own proof of the case he makes.  He has been tearing down and building up things all his life, as a civil engineer.  He has the head, and the men he has picked out for fellow rank fighters have it too.</p>
+
+<p>But they have more than that.  In addition to their fighting women, their fighting eyes, and their fighting heads, they have fighting records&#8212;records that prove what their physical and moral courage, their brains and their brawn have been in the past and will be when they shut themselves in their engines of war and go forth to fight.</p>
+
+<p>A few of these men were chosen for their moral courage:  the others&#8212;the majority&#8212;on proof of their brains and sheer physical bravery.</p>
+
+<p>One grizzled, weather-breaten, battle-scarred veteren, snug up to the age limit of forty-one, was taken on his eyes, his head, his wife, and his fighting record in six campaigns under six flags.  No question about him.  Another was accepted on the tests and the fact that he had
+
+<cb n="2" />
+
+been shot down from his aeroplane at a height of three thousand feet, landed right side up, and lived. Would a coward come back for more after that?</p>
+
+<p>Most of these men are born battlers with their fists. But there are a few others of a different type, accepted because they passed the physical appearance tests and had moral courage. One of these, not yet thirty-five, is president of a large automobile company, and a very wealthy man. He has a wife and children, a happy home, friends, success, everything to make him smug and self-satisfied and contented.  Why does he want to fight? And in the tanks?</p>
+
+<p>The answer is this: Some years ago he was a sailor wearing the uniform of the United States Navy. He deserted, was caught, served a term in the penitentiary, to their future husbands by their eyes. and was dishonorably discharged from his country's service. He wants to wipe out that old score. He is a moral fighter, determined to prove his physical courage.  And he will.</p>
+
+<p>To Captain George's mind, that eye And so it goes with bravery. One thing makes this man brave; another, that. Some of them, the younger ones, were taken on nothing more than appearance and a good record in sports. Men who excel in sports have grit.</p>
+
+<p>But, on whatever ground he got in, every man jack of them proved in five different ways that he was fit.</p>
+
+<p>So this, then, is the peace formula for bravery. This is the system on which the American Government recruits men of unquestioned courage and refined dare-deviltry for the tanks. And who knows?  Mayhap it will be these men, and men of their kind who come after them,—men five to six feet tall, with steel-blue eyes and bulging heads and fighting wives,&#8212;thousands upon thousands of them, trundling across No-Man's-Land in battalions, brigades, and armies of mammoth steel wagons, who will at last play the greatest part in putting the Rhine forever between civilization and Prussianism, who will crush the Kaiser and his kind forever from the earth.</p>
+
+<p>If you're this kind of a man, come on.</p> 
+
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="wireless.19180525">
+<body>
+<head type="main">The First Sea-Going Wireless Girl</head>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>WHEN the steamship <hi rend="italic">Howard</hi> sailed out of Baltimore last December, she had in charge of her radio the first sea-going woman wireless operator.  Miss Elizabeth Lansdale Du Val says she took up wireless for the same reason that other girls turned to knitting or nursing when we went to war.  Her great-grandfather was one of the first justices of the United States Supreme Court, and she determined to go him one better by being the very first in her line.</p>
+
+<p>She qualified in one half the time usually taken by radio students, and tried to enter the Navy; but, finding no place there, turned to the merchant service.  Ship-owners hesitated to place a woman in a job where the safety of ship and crew might depend upon her courage and skill; but to-day the captain of the Howard boasts that Miss Du Val can hold her own with the best.</p>
+
+</body>
+</text>
+
+
+<text type="advertisement" xml:id="paramount.19180525">
+<body>
+
+<figure n="advertisement">
+<head>A photo-play directed by Cecil B. DeMille always means a theatre full of fascinated people</head>
+<p></p>
+<figDesc>Advertisement for Paramount Artcraft Pictures</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19180525.p016" />
+
+<text type="nonfiction" xml:id="pot.19180525">
+<body>
+
+<head type="main">THE MELTING POT</head>
+
+<head type="sub">In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes of Health, Efficiency, Travel, Biography, and Adventure</head>
+<div1>
+<head type="sub">BESSIE McCOY'S DARKEST HOUR</head>
+
+<p>NO girl is fitted for the stage unless she has the kind of courage that can keep smiling, even when meals are few and far between. Bessie McCoy Davis, who has recently come back to the stage, discovered that early in her career, as she tells in <hi rend="italic">Physical Culture Magazine</hi>:</p>
+
+<p>"I recall one spring when three shows in which I danced were failures and taken off at short notice," she says. "Each had been in rehearsal for weeks. And you must remember that there is no salary paid until a show opens. Then came the summer. No work, no money. The next engagement was just starting rehearsals. I used to dread coming downstairs at my hotel in the morning, for I was always gently or ungently stopped at the desk and asked when I thought I would be able to pay my room rent.</p>
+
+<p>"You've got to be a born optimist to keep up your landlord's courage as well as your own drooping spirits at such a time. I was young and hungry as well as broke, and rehearsing is hard work.</p>
+
+<p>"That particular experience taught me its lesson: If when things are blackest we can just hold on a minute longer, they change. It is this crucial moment when the bottom is touched that most people let go. If they would just hold their grip, they would find themselves rising. During that period of discouragement and despair I held on cheerfully and hungrily, actually as well as figuratively, to the thought of success. I said it must come, and it did.</p>
+</div1>
+
+<div1>
+<head type="sub">THE CHALLENGE</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">From the American Museum Journal</ab>
+<p>White whales, white reindeer, and white wolves inhabit the polar region, as well as white bears. But the polar bear, though he is a strong Hooverite, living mostly on seals, fish, and vegetables, is fiercer and more formidable than anything else that grows in the North. This photograph was taken at Etah, Greenland. We have a feeling that the photographer was on a different ice-floe from the bear.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+<div1>
+<head type="sub">HE WANTED AN AMERICAN FOR HIS SECOND WIFE</head>
+
+<p>ARABS are splendid fighters, and have won the respect of every one by their valor on the western front. But their ways are as strange as their language. A nurse from one of the base hospitals in France tells in the Camp Wadsworth <hi rend="italic">Gas Attack</hi> of her amusing but unruly charges from the desert:</p>
+
+<quote>
+<p>If anything happened to be missing in the ward, in the shape of tooth-brushes, towels, soap, or the like, we would usually find them carefully tucked away in some remote corner, as they had a habit of hiding 'most everything. At one time I found six tooth-brushes under the mattress of an Arabian patient, not one of which had been used, as they did not believe in them.</p>
+
+<p>Their name for us was always "Madmoselle Mees," and one young fellow became so impressed with the efficiency of the Americans that he announced one day that <hi rend="italic">apr&#233;s la guerre</hi> he would cross over to America and buy a "Madmoselle Mees" for himself."</p>
+</quote>
+
+<p>One big, raw-boned Arab named Abdullah was brought to the hospital with a shattered arm. After his operation he woke up in a hospital cot with the sheets tucked, in properly and snugly around the edges. This was a form of restraint he had never met.</p>
+
+<quote>
+<p>With a wild yell, and uttering the most unearthly sounds, he leaped from the cot, pushing aside those in his way, and made a wild dash through the swinging doors. After a lively chase down three flights of stairs, he was finally captured in front of one of the saints stationed in the court. He surrendered; but gone was the trustful look in his eyes. Protestingly he was led back, but not to his bed of linen chains. We were obliged to allow him to sit in a corner of the ward, nursing his splintered arm and his broken faith. He would accept nothing from us.</p>
+
+<p>Later he became more tractable, and one of his chief enjoyments was to follow me around the ward while I changed dressings, his face being an index of the amount of pain inflicted on the patient. If borne well, he gave me a grin of approval, and occasionally a tap on the shoulder with his long forefinger. Often his expression was very savage, but at the time it concerned me very little; later, however, I found out that before enlisting he had murdered his wife!</p>
+</quote>
+</div1>
+
+
+<div1>
+<!-- 
+<figure n="photograph">
+<head></head>
+<p>A new United States minelayer being launched.  In one shipyard two miles of ships are being built.</p>
+<ab type="credit">Underwood &amp; Underwood</ab>
+<figDesc></figDesc>
+</figure>
+-->
+
+<head type="sub">WHAT IS A "FABRICATED SHIP"?</head>
+
+<p>OVER and over the fact has been dinned into our ears that "ships will win the war"; but even now most of us have no conception of the magnitude of the ship-building task. In the years before the war, says Alexander H. Beard in the <hi rend="italic">Outlook</hi>, ship-building has been going on at about this rate:</p>
+
+<p>In the United States, 400,000 tons a year; in England, 2,500,000 tons a year; and, in the whole world, 4,000,000 tons.
+In this country we set out right off the bat to build eight times as many tons of ships as we had ever built before the war. And hardly had that program been put under way when the shipping board announced that, in addition to all the tonnage that had been provided for, it was necessary to construct another 3,000,000 tons—in other words, a total of 6,200,000 tons, or more than fifteen times our annual pre-war output.</p>
+
+<p>It was evident at once that there were not in this country either sufficient ship-yards or sufficient workers to construct the required tonnage on the old basis. So American engineering brains designed the "fabricated ship," which, instead of being built according to individual specifications, will be turned out in huge quantities like automobiles—one factory making this part; another factory another; and all the parts being assembled in the shipyard without shaping or refitting.</p>
+
+<p>The fabricated boat is America's answer to the submarine.</p>
+</div1>
+
+<div1>
+<head type="sub">HOW LINCOLN ANSWERED A LETTER FROM A MOTHER</head>
+
+<p>DURING the Civil War the mother of a young army surgeon wrote to President Lincoln, telling him that she had not heard from her son for a long time and believed he must be dead, and begging for help in tracing his grave. The following conversation from <hi rend="italic">Benefits Forgot</hi> (Frederick Stokes Company) is founded on the actual episode that followed:</p>
+
+<p>Lincoln traced the young man, discovered him alive and uninjured, and had him brought into his presence.</p>
+
+<p>"Have you any relatives?"</p>
+
+<p>"Only my mother is living."</p>
+
+<p>"Well, young man, how is your mother?"</p>
+
+<p>Jason stammered: "Why, I don't know."</p>
+
+<p>"You don't know!" thundered Lincoln. "And why don't you? Is she living or dead?"</p>
+
+<p>"I don't know," said Jason. "To tell the truth, I've neglected to write, and I don't suppose she knows where I am."</p>
+
+<p>There was silence in the room. Mr. Lincoln brought a great fist on his desk, and his eyes scorched Jason.</p>
+
+<p>"I had a letter from her. She supposes you dead and asked me to trace your grave. What was the matter with her? No good? Like most mothers, a poor sort? Eh, answer me, sir."</p>
+
+<p>Jason bristled a little. "The best woman that ever lived, Mr. President."</p>
+
+<p>And breathed Mr. Lincoln:</p>
+
+<p>"How did you get your training to be a surgeon? Who paid for it&#8212;your father?"</p> 
+
+<p>Jason reddened.</p>
+
+<p>"Well, no; father was a poor Methodist preacher. Mother raised the money, though I worked for my board mostly."</p>
+
+<p>"Yes? How did she raise the money?"</p>
+
+<p>Jason's lips were stiff.</p>
+
+<p>"Selling things, Mr. President."</p>
+
+<p>"What did she sell?"</p>
+
+<p>"Father's watch, the old silver teapot, the mahogany hat-box&#8212;old things, mostly beyond use except in museums."</p>
+
+<p>Again silence in the room, while a look of contempt gathered in Lincoln's face.</p>
+
+<p>"You poor worm. Her household treasures, one by one, for you&#8212;useless things fit for museums. Oh, you fool!"</p>
+
+<p>Jason flushed angrily and bit his lips.</p>
+
+<p>Suddenly the President pointed at his desk.</p>
+
+<p>"Come here and sit down and write a letter to your mother. Address it, and give it to me, and I'll see that she gets it. And now, Jason Wilkins, as long as you are in the army, you write your mother once a week. If I have reason to correct you on the matter again I'll have you court-martialed."</p>
+
+</div1>
+
+<div1>
+<!-- 
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Underwood &amp; Underwood</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="sub">GARIBALDI'S SON</head>
+
+<p>GENERAL RICCIOTTI GARIBALDI, the second son of the great Garibaldi, talking with American soldiers. The Garibaldi tradition is still as strong as ever in many parts of Italy. In the first days of August, 1914, an American woman living in Italy sent her servant to market to buy macaroni. The young girl returned, greatly excited. Macaroni had gone up.</p>
+
+<p>"They say there is war," she announced.</p>
+
+<p>"War! What war?" inquired her mistress.</p>
+
+<p>"Oh, I do not know; but it must be Garibaldi's sons," was the answer.</p>
+</div1>
+</body>
+</text>
+
+<text type="fiction" xml:id="muller.19180525.jump">
+<body>
+<head type="main">Morgan's Loyalty</head><p rend="jumpline">&#8212;concluded from page 8</p>
+
+<p rend="continued">had chopped away the cabin-top and was launching themselves on it.</p>
+
+<p>"'Twas one chance in a million for them. They had a quarter-mile to come, and every foot of that quarter-mile thundering water, breaker on breaker. There weren't even one chance that they'd come through conscious. Their single chance for life were in our being able to reach them and drag them in before the under-tow sucked them back, or the surf on the beach beat them to death.</p>
+
+<p>"The raft forged away from the wreck, and got slung back to it. It forged away again, and got clear. Then it swashed back and forth, going, coming, and all the time pounded by water that busted over it in clouds. Me and Dick stood out far as we could stand and not get throwed by the seas. They hit in with smashes that fair bruised.</p>
+
+<p>"THE raft washed in on a great, gray-backed comber, and we could see the men on it plain. They was laying limp in their lashings, tilting back and forth, dead or mighty nigh. The comber broke, and the raft parted in the smoke of it. Dick dove forward, went deep, and come up with a piece as had one man on it. I see a man wash off the other piece, and got him, and got back to shore with him. I managed to drag him up, but then I had to lay down for a minute and be sick, for I had swallowed a sight of salt water.</p>
+
+<p>"When I raised up, I see Dick and his man hauled ashore by Jem, and Dick laying there as limp as the man he saved.</p>
+
+<p>"Then Jem maked a run. Before I could stand up, he were in the sea. There were something adrift beyond the outer breakers. 'Twere the third man. He were rolling around and around, and being carried out.</p>
+
+<p>"Nobody but Jem Morgan could have done it. Jem did. He swum through that sea. And he got that man. And he turned and begun to swim back.</p>
+
+<p>"By that time I was on my feet. I got out just as Jem went under, dead beat. I got him by the hair. I got him up. Somehow, we all got to the beach, me and Jem, and Jem holding fast to his man.</p>
+
+<p>"We crawled up, me and Jem dragging the man. Then Jem fell face down and laid there. I turned him over, and his face were all a bad-looking white.</p>
+
+<p>"My head was swimming, my legs had a queer feel, as if there wasn't any bones in em; and there I were, swaying like a drunk man, with five men all laying around me on the sand, all dead, for what I knowed. I yelled to Dick, but he didn't give a stir; and then I see that the water as was running off him were all red with blood.</p>
+
+<p>The sea and the beach and the scud-ding sky all commenced to spin faster and faster, and the last I remember I were falling as if I was falling a thousand feet. The next thing I was getting shaked, and there were the Whalefish Cove crew.</p>
+
+<p>"I was all right when I got to my feet.</p>
+
+<p>"'Did we get to 'em in time?' says I. And one of the Whalefish men says, 'You did. Them three as you pulled out be coming to, in the house. But,' says he, 'Cap'n Morgan be more dead than alive, and Dick Lawrence be hurt past all use. The doctor's been sent for, but I misdoubt he won't be in time for Dick.'</p>
+
+<p>"''TWAS so. Dick never come to. Something in the surf had hit him, and before the doctor got there he were dead.</p>
+
+<p>"The doctor shaked his head over Jem and says that poor Jem had busted his heart for good. He lifted his arm and stuck a little syringe in. Before long, Jem opened his eyes and looked around, puzzled. Then he seemed to remember. He looked up at the doctor and says: 'I guess I be going.' he couldn't hardly talk, and had to take sharp little breaths betwixt words. 'How long have I got?'</p>
+
+<p>Jem, says the doctor, 'you got pluck,
+
+<cb n="2" />
+
+and I'll tell you the truth. You ain't got long&#8212;but how long or how short I don't know.'</p>
+
+<p>"'I want,' says Jem, clutching at his left breast, 'as you should keep me alive for just a little&#8212;till my daughter comes. I give you license to do anything you want with me, only give me that little time.'</p>
+
+<p>"And the doctor says: 'I'll set by you, Jem, and I won't leave you, and I'll hold you, old friend.'</p>
+
+<p>"At that Jem smiles, and he turns his eyes to me and points outside. I knowed what he wanted. We carried him out and laid him where he could look down the beach.</p>
+
+<p>"After a while Jem half lifted himself. I looked in the direction he was looking, and see something moving along the beach &#8212;so far away I never would have sighted it if Jem hadn't done so first. He turned to me.</p>
+
+<p>"'Cap'n Pearsall,' he says, 'Elise she'll be frightened bad if she comes on me unawares, and sees me flat down. Would you mind going a little way to meet her, and breaking it to her easy that I ain't for long? Put it to her as I ain't suffering none.'</p>
+
+<p>I done so. I met the carriage, and David Larrabee give me a lift back, and I tell't them everything.</p>
+
+<p>"Elise she looked at me, all white and set. To my mind, all her prettiness went away.</p>
+
+<p>"She jumped out of the carriage and run to Jem and throwed herself down by him and put her arms around him and laid her face down next to his. 'Father! Father!' she says, sobbing. 'Brave, good, kind father as loved me so&#8212;me as didn't deserve no love!'</p>
+
+<p>"But Jem put his hand over her lips and answers back:</p>
+
+<p>"'My sweet! My pretty! My little Elise!'</p>
+
+<p>"DAVID LARRABEE tiptoed away, and we all backed off and left them. So it happened that we went into the house, where the three shipwrecked men laid.</p>
+
+<p>"And David Larrabee had no sooner looked in than he jumped as if he was hit, and he run in and went down by the bed of one of them, crying out queer like a woman.</p>
+
+<p>"'Twere the man Jem had saved; and he were nobody else but young David Larrabee!</p>
+
+<p>"He opened his eyes and see his father, and smiled at him. Then he went off in a sleep again.</p>
+
+<p>"And after a little, Mr. Larrabee, with tears running down his cheeks and him not enough ashamed of 'em even to wipe 'em off, steps out, and goes down on his knees alongside of Elise.</p>
+
+<p>"'Morgan,' says he, 'Jem, don't give in! You're better than twenty dead men yet! Jem Morgan! That man as you pulled from the sea, Jem! He was my son&#8212;your son, you brave, true man! And you must stay alive, and stay with us, for many a happy year to come!'</p>
+
+<p>"Jem turned his head, calm and happy-looking.</p>
+
+<p>"'Thank you kindly,' says he. 'And I'm right glad to know as I had such great luck. God been very good to us, he been, this night. Don't you worry about me&#8212;not a mite. I be right contented to go. And I knowed&#8212;I knowed always&#8212;as my Elise were going to come to me.'</p>
+
+<p>"With that he shut his eyes, and he didn't never open them again." Captain Pearsall pushed the tiller over, and the mainsail fluttered.</p>
+
+<p>"And that's how come the place to get its name. Mrs. Larrabee done it, when she come here to see that big white stone put over Jem's grave on the sand-dune behind the house, where they laid him. 'Morgan's Loyalty,' she said it should be called, and so we call it ever since. And here be the evening wind, and Natchogue bar, and Natchogue haven fair in sight."</p>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="rubber.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Double Protection</head>
+<p></p>
+<figDesc>Advertisement for United States Rubber Company</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 18" xml:id="ew.issue.19180525.p018" />
+
+<text type="fiction" xml:id="ford.19180525">
+<body>
+<head type="main">Tag Day at Torchy's</head>
+
+<byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#Brown, Arthur William">Arthur William Brown</persName></byline>
+
+<p>COURSE, in a way, it was our fault, I expect. We never should have let on that there was any hitch about what we was goin' to name the baby. Blessed if I know now just how it got around. I remember Vee and I havin' one or two little talks on the subject, but I don't think we'd tackled the proposition real serious.</p>
+
+<p>You see, at first we were too busy sort of gettin' used to havin' him around and framin' up a line on this parent act we was supposed to put over. Anyway, I was. And for three or four weeks, there, I called him anything that came handy, from Young Sport to Old Snoodlekins. Vee she sticks to Baby. Uh-huh&#8212;just plain Baby. But the way she says it, breathin' it out kind of soft and gentle, sounded perfectly all right to me.</p>
+
+<p>And the youngster didn't seem to have any kick comin'. He was gettin' so he'd look up and coo real intelligent when she speaks to him in that fashion. You couldn't blame him, for it was easy to listen to.</p>
+
+<p>As for the different things I called him&#8212;well, he didn't mind them, either. No matter what it was,&#8212;Old Pink Toes or Wiggle-heels,&#8212;he'd generally pass it off with a smile, providin' he wasn't too busy with his bottle or tryin' to get hold of his foot with both of his hands.</p>
+
+<p>Then one day Auntie, who's been listenin' disapprovin' all the while, just can't hold in any longer.</p>
+
+<p>"Isn't it high time," says she, "that you addressed the child properly by his right name?"</p>
+
+<p>"Eh?" says I, gawpin'. "Which one?"</p>
+
+<p>"You don't mean to say," she goes on, "that you have not yet decided on his baptismal name?"</p>
+
+<p>"I didn't know he was a Baptist," says I feebly.</p>
+
+<p>"We hadn't quite settled what to call him," says Vee.</p>
+
+<p>"Besides," I adds, "I don't see the use bein' in a rush about it. Maybe we're savin' that up."</p>
+
+<p>"Saving!" says Auntie. "For what reason?"</p>
+
+<p>"Oh, general conservation," says I. "Got the habit. We've had heatless Mondays and wheatless Wednesdays and fryless Fridays and sunless Sundays, so why not nameless babies?"</p>
+
+<p>Auntie sniffs and goes off with her nose in the air, as she always does whenever I spring any of my punk persiflage on her.</p>
+
+<p>But then Vee takes it up, and says Auntie is right and that we really ought to decide on a name and begin using it.</p>
+
+<p>"Oh, very well," says I. "I'll be thinking one up."</p>
+
+<p>Seemed simple enough. Course, I'd never named any babies before, but I had an idea I could dig out half a dozen good, servicable monickers between then and dinner-time.</p>
+
+<p>Somehow, though, I couldn't seem to hit on anything that I was willing to wish on to the youngster offhand. When I got right up against the problem, it seemed kind of serious.</p>
+
+<p>WHY, here was something he'd have to live with all his life; us, too. We'd have to say it over maybe a hundred times a day. And if he grew up and amounted to anything, as we was sure he would, it would mean that this front name of his that I had to pick out might be displayed more or less prominent. It would be on his office door, on his letter-heads, on his cards. He'd sign it to checks.</p>
+
+<p>Maybe it would be printed in the newspapers, used in headlines, or painted on campaign banners. Might be displayed on billboards. Who could tell?</p>
+
+<p>And the deeper I got into the thing the more I wabbled about from one name to another, until I wondered how people had the nerve to give their children some of the tags you hear&#8212;Percy, Isadore, Lulu, Reginald, and so on. And do it so casual,
+
+<cb n="2" />
+
+too. Why, I knew of a couple who named their three girls after parlor-cars; and a gink in Brooklyn who called one of his boys Prospect, after the park. Think of loadin' a helpless youngster with anything freaky like that!</p>
+
+<p>Besides, how were you going to know that even the best name you could pick wouldn't turn out to be a misfit? About the only Percy I ever knew in real life was a great two-fisted husk who was foreman of a stereotypin' room; and here in the Corrugated Buildin', if you'll come in some night after five, I can show you a wide built scrub lady, with hair redder'n mine and a voice like a huckster&#8212;her front name is Violet. Yet I expect, when them two was babies, both those names sounded kind of cute. I could see where it would be easy enough for me to make a mistake that it would take a court order to straighten out.</p>
+
+<p>SO, when Vee asks if I've made any choice yet, I had to admit that I'm worse muddled up on the subject than when I started in. All I can do is hand over a list I've copied down on the back of an envelop with every one of 'em checked off as no good.</p>
+
+<p>"Let's see," says Vee, glancin' 'em over curious. "Lester. Why, I'm sure that is rather a nice name for a boy."</p>
+
+<p>"Yes," says I; "but after I put it down I remembered a Lester I knew once. He was a simp that wore pink neckties and used to write love-letters to Mary Pickford."</p>
+
+<p>"What about Earl?" she asks.</p>
+
+<p>"Too flossy," says I. "Sounds like you was tryin' to let on he belonged to the aristocracy."</p>
+
+<p>"Well, Donald, then," says she. "That's a good, sensible name."</p>
+
+<p>"But we ain't Scotch," I objects.</p>
+
+<p>"What's the matter with Philip?" says Vee.</p>
+
+<p>I can never remember whether it has one l and two p's or the other way round."</p>
+
+<figure n="illustration">
+<head></head>
+<p>"'He comes to you,' says Amelia, 'wearing the tints of dawn and trailing clouds of glory.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="3" />
+
+<p>"But you haven't considered any of the common ones," goes on Vee, "such as John or William or Thomas or James or Arthur."</p>
+
+<p>"Because that would mean he'd be called Bill or Tom or Art," says I. "Besides, I kind of thought he ought to have something out of the usual run&#8212;one you wouldn't forget as soon as you heard it."</p>
+
+<p>"If I may suggest," breaks in Auntie, "the custom of giving the eldest son the family name of his mother is rather a good one. Had you considered Hemmingway?"</p>
+
+<p>I just gasps and glances at Vee. What if she should fall for anything like that! Think of smotherin' a baby under most of the alphabet all at one swoop! And imagine a boy strugglin' through school-days and vacations with all that tied to him.</p>
+
+<p>Hemmingway! Why, he'd grow up round-shouldered and knock-kneed, and most likely turn out to be a floor-walker in the white goods department, or the manager of a gift-shop tea-room. Hemmingway!</p>
+
+<p>Just the thought of it made me dizzy; and I begun breathin' easier when I saw Vee shake her head.</p>
+
+<p>"He's such a little fellow, Auntie," says she. "Wouldn't that be&#8212;well, rather top-heavy?"</p>
+
+<p>Which disposes of Auntie. She admits maybe it would. But from then on, as the news seems to spread that we was havin' a kind of deadlock with the namin' process, the volunteers got busy. Old Leon Battou, our butler-cook, hinted that his choice would be Emil.</p>
+
+<p>"For six generations," says he, "Emil has been the name of the first-born son in our family."</p>
+
+<p>"That's stickin' to tradition," says I. "It sounds perfectly swell, too, when you know how to pronounce it. But, you see, we're foundin' a new dynasty."</p>
+
+<p>Mr. Robert don't say so outright, but
+
+<cb n="4" />
+
+he suggests that Ellins Ballard wouldn't be such a had combination.</p>
+
+<p>"True," he adds, "the governor and I deserve no such distinction; but I'm sure we would both be immensely flattered. And there's no telling how reckless we might be when it came to presenting christening cups and that sort of thing."</p>
+
+<p>"That's worth rememberin'," says I. "And I expect you wouldn't mind, in case you had a boy to name later on, callin' him Torchy, eh?"</p>
+
+<p>Mr. Robert grins. "Entry withdrawn," says he.</p>
+
+<p>HOW this Amelia Gaston Leroy got the call to crash in on our little family affair, though, I couldn't quite dope out. We never suspected before that she was such an intimate friend of ours. Course, since we'd been livin' out in the Piping Rock section we had seen more or less of her more, as a rule.  She was built that way.</p>
+
+<p>Oh, yes. Amelia was one of the kind that could bounce in among three or four people in a thirty by forty-five living-room and make the place seem crowded. Mr. Robert's favorite description of her was that one half of Amelia didn't know how the other half lived. To state it plain, Amelia was some whale of a girl. One look at her, and you did no more guessin' as to what caused the food shortage.</p>
+
+<p>I got the shock of my life, too, when they told me she was the one that wrote so much of this mushy magazine poetry you see printed. For all the lady poetesses I'd ever seen had been thin, shingled-chested parties with mud-colored hair and soulful eyes.</p>
+
+<p>There was nothing thin about Amelia. Her eyes might have been soulful enough at times, but mostly I'd seen 'em fixed on a tray of sandwiches or a plate of layer cake.</p>
+
+<p>They'd had her up at the Ellinses' once or twice when they were givin' one of their musical evenin's, and she'd spouted some of her stuff.</p>
+
+<p>Her first call on us, though, was when she blew in last Sunday afternoon and announced that she'd come to see "that dear, darling man child" of ours. And
+
+<pb n="Page 19" xml:id="ew.issue.19180525.p019" />
+
+
+for a girl of her size.  Amelia is some breeze, take it from me.  Honest, for the first ten minutes or so there I felt like our happy little home had been hit by a young tornado.</p>
+
+<p>"Where is he?" she demands.  "Please take me at one into the regal presence of his youthful majesty."</p>
+
+<p>I noticed Vee sizin' her up panicky, and I knew she was thinkin' of what might happen to them spindle-legged white chairs in the nursery.</p>
+
+<p>"How nice of you to want to see him!" says Vee.  "But let me have Baby brought down here.  Just a moment."</p>
+
+<p>And she steers her towards a solid built davenport that we'd been meanin' to have re-upholstered anyway.  Then we was treated to a line of high-brow gush as Amelia inspects the youngster through her shell lorgnette and tries to tell us in impromptu blank verse how wonderful he is.</p>
+
+<p>"Ah, he is one of the sun children, loved of the high gods," says she, rollin' her eyes.  "He comes to you wearing the tints of dawn and trailing clouds of glory.  You remember how Wordsworth put it?"</p>
+
+<p>As she fires this straight at me, I has to say something.</p>
+
+<p>"Does he?" I asks.</p>
+
+<p>"I am always impressed," she gurgles on, "by the calm serenity in the eyes of these little ones.  It is as if they&#8212;"</p>
+
+<p>BUT just then Snoodlekins begins screwin' up his face. He's never been mauled around by a lady poetess before, or maybe it was just because there was so much of her. Anyway, he tears loose with a fine large howl and the serenity stuff is all off. It takes Vee four or five minutes to soothe him.</p>
+
+<p>Meanwhile Miss Leroy gets around to statin' the real reason why we're bein' honored.</p>
+
+<p>"I understand," says she, "that you have not as yet chosen a name for him. So I am going to help you. I adore it. I have always wanted to name a baby, and I've never been allowed. Think of that! My brother has five children, too; but he would not listen to any of my suggestions.</p>
+
+<p>"So I am aunt to a Walter who should have been called Clifford, and a Margaret whom I wanted to name Beryl, and so on. Even my laundress preferred to select names for her twins from some she had seen on a circus poster rather than let me do it for her.</p>
+
+<p>"But I am sure you are rational young people, and recognize that I have some natural talent in that direction. Names! Why, I have made a study of them. I must, you see, in my writing. And this dear little fellow deserves something fitting. Now let me see. Ah, I have it! He shall be Cedric&#8212;after Cedric the Red, you know."</p>
+
+<p>Accordin' to her, it was all settled. She heaves herself up off the davenport, straightens her hat, and prepares to leave, smilin' satisfied, like an expert who's been called in and has finished the job.</p>
+
+<p>"We&#8212;we will consider Cedric," says Vee. "Thank you so much."</p>
+
+<p>"Oh, not at all," says Amelia. "Of course, if I should happen to think of anything better within the next few days I will let you know at once." And out she floats.</p>
+
+<p>VEE gazes after her and sighs.</p>
+
+<p>"I suppose Cedric is rather a good name," says she, "but somehow I don't feel like using one that a stranger has picked out for us. Do you, Torchy?"</p>
+
+<p>"You've said it," says I. "I'd sooner let her buy my neckties, or tell me how I should have my eggs cooked for breakfast."</p>
+
+<p>"And yet," says Vee, "unless we can think of something better&#8212;"</p>
+
+<p>"We will," says I. "I'm goin' through them pages in the back of the big dictionary."</p>
+
+<p>In less'n half an hour there's a knock at the door, and here's a chauffeur come with a note from Amelia. On the way home she's had another hunch.</p>
+
+<p>"After all," she writes, "Cedric seems
+
+<cb n="2" />
+
+rather too harsh, too rough-shod.  So I have decided on Lucian."</p>
+
+<p>"Huh!" says I.  "She's decided, has she?  Say, whose tag day is this, anyway&#8212;ours or hers?"</p>
+
+<p>Vee shrugs her shoulders.</p>
+
+<p>"I'm not sure that we should like calling him Lucian; it's so&#8212;so&#8212;"</p>
+
+<p>"I know," says I, "so perfectly sweet.  Say, can't we block Amelia off somehow?  Suppose I send back word that a rich step-uncle has promised to leave him a ton of coal if we will call the baby Ebenezer after him?"</p>
+
+<p>Vee chuckles.</p>
+
+<p>"Oh, no doubt she'll forget all about it by morning," says she.</p>
+
+<p>Seems we'd just begun hearin' from the outside districts, though, or else they'd been savin' up their ideas for this particular afternoon and evenin'; for between then and nine o'clock no less'n half a dozen different parties dropped in, every last one of 'em with a name to register.  And their contributions ranged all the way from Aaron to Xury.  There were two rooters for Woodrow and one for Pershing.</p>
+
+<p>Some of the neighbors were real serious about it. They told us what a time they'd had namin' some of their children, brought up cases where families had been busted up over such discussions, and showed us where their choice couldn't he beat. One merry bunch from the Country Club thought they was pullin' something mighty humorous when they stopped in to tell us how they'd held a votin' contest on the subject, and that the winnin' combination was Paul Roger.</p>
+
+<p>"After something you read on a cork, eh?" says I. "Much obliged. And hope nobody strained his intellect."</p>
+
+<p>"The idea!" says Vee, after they've rolled off. "Voting on such a thing at a club! Just as if Baby was a battleship, or a&#8212;a new moving-picture place. I think that's perfectly horrid of them."</p>
+
+<p>"It was fresh, all right," says I. "But I expect we got to stand for such guff until we can give out that we've found a name that suits us. Lemme tackle that  list again. Now, how would Russell do? Russell Ballard? No; too many l's and r's. Here's Chester. And I expect the boys would call him Chesty. Then there's Clyde. But there's a steamship line by that name. What about Stanley? Oh, yes; he was an explorer."</p>
+
+<p>I ADMIT I was gettin' desperate about then. I was flounderin' around in a whole ocean of names, long ones and short ones, fancy and plain, yet I couldn't quite make up my mind. I'd mussed my hair, shed my collar, and scribbled over sheets and sheets of paper, without gettin' anywhere at all. And when I gave up and turned in about eleven-thirty, my head was so muddled I wouldn't have had the nerve to have named a pet kitten.</p>
+
+<p>I must have just dozed off to sleep when I hears this bell ringin' somewhere. I couldn't quite make out whether it was a fire alarm, or the z's in the back of the dictionary goin' off, when Vee calls out that it's the 'phone.</p>
+
+<p>I tumbles out and paws around for the extension.</p>
+
+<p>"Wha-what?" says I. "What the blazes! Ye-uh. This is me. Wha-wha's matter?"</p>
+
+<p>And then comes this gurgly voice at the other end of the wire. It's our old friend Amelia.</p>
+
+<p>"Do you know," says she, "I have just thought of the loveliest name for your dear baby."</p>
+
+<p>"Oh, have you?" says I, sort of crisp.</p>
+
+<p>"Yes," says she, "and I simply couldn't wait until morning to tell you. Now listen&#8212;it's Ethelbert."</p>
+
+<p>"Ethel-Bert!" says, I gaspy. "Say, you know he's no mixed foursome."</p>
+
+<p>"No, no," says she. "Ethelbert&#8212;one name, after the old Saxon king. Ethelbert Ballard. Isn't that just perfect? And I am so glad it came to me."</p>
+
+<p>I couldn't agree with her real enthusiastic, so it's lucky she hung up just as she did.</p>
+
+<p>"Huh!" I remarks to Vee. "Why not Maryjim or Daisybill? Say, I think our
+
+<figure n="advertisement">
+<head>See how much soap youget. You can use it all.</head>
+<p></p>
+<figDesc>Advertisement for Colgate's "Handy Grip"</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Banking By Mail At 4% Interest</head>
+<p></p>
+<figDesc>Advertisement for The Citizens Saving &amp; Trust Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>I Earned $2200<hi rend="superscript">00</hi> In Four Months</head>
+<p></p>
+<figDesc>Advertisement for Haywood Tire &amp; Equipment Co.</figDesc>
+</figure>
+<pb n="Page 20" xml:id="ew.issue.19180525.p020" />
+
+<figure n="advertisement">
+<head>The Foundation Library for Young People</head>
+<p></p>
+<figDesc>Advertisement for American Technical Society</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>30 Days Free Trial</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Raise Belgian Hares</head>
+<p></p>
+<figDesc>Advertisement for National Food &amp; Fur Association</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Short-Story Writing</head>
+<p></p>
+<figDesc>Advertisement for the Home Correspondence School</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Invent Something It May Bring Wealth</head>
+<p></p>
+<figDesc>Advertisement for Talbert &amp; Talbert</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for Randolph &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents That Protect and Pay</head>
+<p></p>
+<figDesc>Advertisement for Watson E. Coleman</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Send Us Your Next Photo Films</head>
+<p></p>
+<figDesc>Advertisement for Roanoke Photo Finishing Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Cash for Old False Teeth</head>
+<p></p>
+<figDesc>Advertisement for Mazer's Tooth Specialty</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>pay your bills with our money</head>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+friend Amelia must have gone off her hinge."</p>
+
+<p>But Vee only yawns and advises me to go to sleep and forget it. Well, I tried. You know how it is, though, when you've been jolted out of the feathers just as you're half way through the first reel of the slumber stuff. I couldn't get back, to save me.</p>
+
+<p>I counted sheep jumpin' over a wall, I tried lookin' down a railroad track until I could seen the rails meet, and I spelled Constantinople backwards. Nothing doing in the Morpheus act.</p>
+
+<p>I was wider awake then than a new taxi driver makin' his first trip up Broadway. I could think of swell names for seashore cottages, for new suburban additions, and for other people's babies. I invented an explosive pretzel that would win the war. I thought of bills I ought to pay next week sure, and of what I meant to tell the laundryman if he kept on making hash of my pet shirts.</p>
+
+<p>Then I got to wonderin' about this old-maid poetess. Was she through for the night, or did she work double shifts? If she wasn't any nearer asleep than I was, she might think up half a dozen substitutes for Ethelbert before mornin'. Would she insist on springin' each one on me as they hit her?</p>
+	
+<p>Maybe she was gettin' ready to call me again now. Should I pretend not to hear and let her ring, or would it be better to answer and let on that this was Police Headquarters?</p>
+
+<p>HONEST, I got so fidgety waitin' for that buzzer to go off that I could almost hear the night operator pluggin' in on our wire.</p>
+
+<p>And then a thought struck me that wouldn't let go. So, slippin' out easy and throwin' on a bath-robe, I sneaked down-stairs to the back hall 'phone, turned on the light, and hunted up Miss Leroy's number in the book.</p>
+
+<p>"Give her a good strong ring, please,"
+
+<cb n="3" />
+
+<figure n="illustration">
+<head></head>
+<p>"'Don't!' says Vee. 'You'll spill the coffee.'"</p>
+<figDesc></figDesc>
+</figure>
+
+says I to Exchange, "and keep it up until you rouse somebody."</p>
+
+<p>"Leave it to me," says the operator. And in a minute or so I gets this throaty "Hello!"</p>
+
+<cb n="4" />
+
+<p>"Miss Leroy?" says I.</p>
+
+<p>"Yes," says she. "Who is calling?"</p>
+
+<p>"Ballard," says I. "I'm the fond parent of the nameless baby. And say, do you still stick to Ethelbert?"</p>
+
+<p>"Why," says she, "I&#8212;er&#8212;"</p>
+
+<p>"I just wanted to tell you," I goes on, "that this guessin' contest closes at 3 A. M., and if you want to make any more enries you got only forty minutes to get 'em in. Nighty-night."</p>
+
+<p>And I rings off just as she begins sputterin' indignant.</p>
+
+<p>That seems to help a lot, and inside of five minutes I'm snoozin' peaceful.</p>
+
+<p>IT was next mornin' at breakfast that Vee observes offhand, as though the subject hadn't been mentioned before:</p>
+
+<p>"About naming the baby, now."</p>
+
+<p>"Ye-e-es?" says I, smotherin' a groan.</p>
+
+<p>"Why couldn't we call him after you?" she asks.</p>
+
+<p>"Not&#8212;not Richard Junior?" says I.</p>
+
+<p>"Well, after both of us, then," says she. "Richard Hemmingway. It&#8212;it is what I've wanted to name him all along.</p>
+
+<p>"You have?" says I. "Well, for the love of&#8212;"</p>
+
+<p>"You didn't ask me, that's why," says she.</p>
+
+<p>"Why&#8212;why, so I didn't," says I. "And say, Vee, I don't know who's got a better right. As for my part of the name, I've used it so little it's almost as good as new. Richard Hemmingway Ballard it shall be."</p>
+
+<p>"Oh, I'm so glad," says she. "Of course, I did want you to be the one to pick it out; but if you're satisfied with&#8212;"</p>
+
+<p>"Satisfied!" says I. "Why, I'm tickled to pieces. And here you had that up your sleeve all the while!"</p>
+
+<p>Vee smiles and nods.</p>
+
+<p>"We must have the christening very soon," says she, "so every one will know.</p>
+
+<p>"You bet!" says I. "And I've a good notion to put it on the train bulletin down at the station, too. First off, though, we'd better tell young Richard himself and see how he likes it. I expect, though, unless his next crop of hair comes out a different tint from this one, that he'll have to answer to 'Young "Torchy' for a good many years."</p>
+
+<p>"Oh yes," says Vee; "but I'm sure he won't mind that in the least."</p>
+
+<p>"Good girl!" says I, movin' round where I can express my feelin's better.</p>
+
+<p>"Don't," says Vee. "You'll spill the coffee."</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="week.19180525">
+<body>
+<head type="main">This is His Week</head>
+
+<p>UNLIKE all others, Agassiz drew no lesson for mankind in his discoveries. He allowed mankind to draw their own inferences and formulate their own ideas. "Nature is wonderful, but we must not seek to totally capture her or she will elude us," he declared; and, though he held with the Darwinian theory of evolution twenty years before Darwin made it public, he never advanced his views upon it.</p>
+
+<p>He had a wonderful life, for he wandered away with nature to many cities and many lands; and while his wanderings may have seemed desultory, in reality they were as fixed as the poles. To search and know life, he believed, was the glory of life.</p>
+
+<p>He sought relics and specimens of. past periods, and studied glaciers and natural wonders; and it is through his researches that we know of the various geological ages through which our world has passed. He was first to tell us of the ice age, the cap that crept down from the North Pole to Central Europe, obliterating neolithic man.</p>
+
+<p>Excavating in America and Europe, Agassiz found that these regions at one time had been covered with luxuriant vegetation and inhabited by animals now found only in the torrid zone. -The vast forest that extended to the Arctic Ocean and the great rivers that flowed through them were then the haunts of tropic fish and fowl. When from some unknown cause the cold succeeded the heat, a mantle of ice overtook tree and beast and man, and turned all to ruin and desolation.</p>
+
+<p>He localized the stone age and the - bronze age for us, and, though he never wrote as technically about them as those who followed in his footsteps did, his observations and deductions are held to he of the utmost scientific importance. But Agassiz hated science as such and sought only for the joy of seeking.</p>
+
+<figure n="illustration">
+<head></head>
+<p>His name was Jean Louis Rodolphe Agassiz. But to the Harvard graduate of fifty years ago he was merely "Pop 'Gassiz," beloved for fishes and glaciers and the way of jellyfish&#8212;the jovialist, largest-hearted professor in Cambridge, for all that every one knew he was the greatest naturalist in the world. "Pop 'Gassiz" came to this country from Switzerland, and spent ten long and fulsome years at Harvard. When he died in 1873, back in his native Alps where he was born, May 28, 1807, it was said of him that he had discovered for the world and taught to the world more natural history than all the scientists from Aristotle through his contemporary and student Darwin. It was Darwin who called him "my inspiration."</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 21" xml:id="ew.issue.19180525.p021" />
+
+<text type="advertisement" xml:id="calox.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Calox</head>
+<p></p>
+<figDesc>Advertisement for McKesson &amp; Robbins Incorporated</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Stops Gray Hair</head>
+<p></p>
+<figDesc>Advertisement for Mary T. Goldman</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Cash for Old False Teeth</head>
+<p></p>
+<figDesc>Advertisement for United States Smelting Works</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including Song Poems, Agents, Song Poems, Corporations, Wedding Invitations, Help Wanted Female, Photoplays, Stories, Etc., Female Help Wanted, Business Opportunities, Short Stories Manuscripts Wanted, Salesment, Short Stories Wanted, News Correspondents, and Photoplays</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="givler.19180525">
+<body>
+
+<head type="main">FIVE MINUTES OF SCIENCE</head>
+
+<byline>By <persName type="author" key="#">John Paul Givler</persName></byline>
+
+<div1>
+    
+<!--<figure n="illustration">
+<head></head>
+<p>The three lines running diagonally across this map show the path of the black shadow that will be caused by the total eclipse of the sun on June 8. This shadow will strike its American path in the State of Washington, and run down across the country and off the Florida coast in less than an hour. These States will not be visited by another eclipse for three centuries, the scientists estimate.</p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="sub">An American Eclipse of the Sun</head>
+
+<p>IT is only about once in every 360 years that we Americans get a chance to stand in our own yards and see a total eclipse of the sun. And the 8th of June this year is one of those rare occasions.</p>
+
+<p>Of course, total eclipses are happening somewhere in the world most of the time; but they get all over the world only about once in every three and a half centuries. So it will be well worth your while to watch for this one.</p>
+
+<p>This eclipse, during which the moon will swing in between the earth and the sun, blotting out daylight in many parts of the United States and casting world shadows on others, will begin at sunrise, away over at the little island of Borodino, south of Japan. It will pass quickly across the Pacific, making the trip in about two hours and a quarter, striking the American coast at the Columbia River about I:55 P. m. At this time it will be traveling at the rate of nearly two thousand miles an hour.</p>
+
+<p>This great black shadow will cut a diagonal swath across the United States about sixty miles wide, which will run through parts of Washington, Oregon, Idaho, Wyoming, Colorado, Kansas, Oklahoma, Arkansas, Louisiana, Mississippi, Alabama, and Florida. This swath will be dark with the darkness of total eclipse for about ninety seconds.</p>
+
+<p>Folk on both sides of the black path will get a share of it. They will see, not a total eclipse, but a partial one, on the afternoon of June 8. The farther away they are from the path, the less will be their gloom; but they'll have to be pretty far away. Even as far down as southern California about three quarters of the sun will be covered. Pretty much all of the United States will get a touch of the big event.</p>
+
+<p>The big shadow will sweep across the country at an almost unbelievable rate of speed. The fastest express train, the speediest flying machine, would seem merely to crawl in comparison with it. It will flash from coast to coast in exactly forty-seven minutes. It should reach the Mississippi valley about 4:37 P. M. Central time, jumping off the Florida coast at 5:42 Eastern time.</p>
+
+<p>The coming of this eclipse has turned astronomers topsy-turvy. They are rush-mg around planting mammoth cameras in big observatories to snap the phenomena. They're putting them all along the route of the big show, for fear a small cloud may interfere with cameras here and there. One big earth eye has been fixed at Denver by the Yerkes observatory.</p>
+</div1>
+
+<div1>
+<head type="sub">Why Dust Is Dangerous Stuff</head>
+
+<p>SCIENCE, in studying dust, has discovered that some of it is all right to breathe and some of it isn't. Of course, we've heard that mill workers who breathe quantities of dust get tuberculosis; but that's about all we have known about it. We didn't know there was any breathable dust, so we've condemned all dust. But Dr. H. F. Smith tells us in the Scientific Monthly that soft, soluble dust without any sharp edges, like earth dust, isn't so bad.</p>
+
+<p>Steel, flint, cement, and carpet dust are bad. In some cement factories Dr. Smith visited there was half a ton of harmful dust floating around in the air of the rooms. In from five to ten years a worker collects about a pound of this dust on his lungs. Carpet-mill workers breathe their factory dust, and it weaves little carpets of van-colored designs on their lungs. X-rays also have shown steel and flint scroll-work on steel and flint-workers' lungs.</p>
+
+<p>All in all, it is very wise to be careful about breathing dust habitually, but it is not all harmful unless we inhale so much of it that it chokes us.</p>
+
+<p>The control of dust in the very dusty industries has done a great deal to make thousands of men, women, and children workers healthy and happy. It was found j that these bad dusts got down in the workers' lungs in tiny particles, which were taken up by wandering blood-cells and carried into parts of the lungs that were needed for breathing fresh air. The reduction of dust among these workers is of the greatest importance, and is accomplished by frequent vacuum cleaning, wet sweeping, dust masks, and by confining especially dusty processes to rooms through which pure air is constantly poured.</p>
+
+<note type="copyright" place="margin-bottom">Published weekly by The Crowell Publishing Company at Springfield, Ohio. George D. Buckley, President; Lee W. Maxcell, First Vice President; Thomas H. Beck, Second Vice President; Albert E. Winger, Treasurer. Executive and editorial offices, 381 Fourth Avenue, New York City, New York. All right reserved. Subscription terms in the United States, its dependencies, Mexico and Cuba, $1,00 a year. In Candad, $1.25. Foreign countries, $1.75. Entered as second-class mail matter at the post-office at Springfield, Ohio, under the Act of Congress of March 3, 1879.</note>
+</div1>
+</body>
+</text>
+
+
+<text type="advertisement" xml:id="santogen.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Can worn-out nerves be repaired?</head>
+<p></p>
+<figDesc>Advertisement for Santogen The Food-Tonic Approved By Scientists</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 22" xml:id="ew.issue.19180525.p022" />
+
+<text type="advertisement" xml:id="prest.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Prest-O-Lite</head>
+<p></p>
+<figDesc>Advertisement for The Prest-O-Lite Company, Inc.</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="editor.19180525">
+<body>
+
+<head type="main">THE EDITOR ANSWERS</head>
+
+<div1>
+<head type="sub">Do We Feel Worse Now</head>
+
+<div2>
+<opener>Hello, Mr. Barton:</opener>
+
+<p>Are you feeling jolly to-day? Then read the inclosed poem:</p>
+
+<lg>
+<l>Life is no game of chance, I'll tell you,</l>
+<l>It's system and long thought out.</l>
+<l>Evolution is the law of nature:</l>
+<l>The price to the grander route.</l>
+</lg>
+
+<lg>
+<l>Wars may come and wars may go,</l>
+<l>But right goes on forever;</l>
+<l>Little minds that do not know</l>
+<l>Can not hold out against democracy's banner.</l>
+</lg>
+<closer><signed>R.M., New York.</signed></closer>
+</div2>
+
+<div2>
+<p>We were feeling pretty good, R. M., until your poem arrived. At present our condition is reported as critical.</p>
+</div2>
+</div1>
+<div1>
+<head type="sub">Helping a Mayor</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>I am a young man, and have been elected mayor of our town. Realizing that even in a town of this size it will take much effort and real guidance to administer its affairs properly, I ask that out of your knowledge of human nature you will give me three maxims to guide me.</p>
+<closer><signed>J. E. C., Iowa.</signed></closer>
+</div2>
+
+<div2>
+<p>Well, Mr. Mayor, how would these do?</p>
+
+<p>1. Don't be drawn into controversy: let your work speak for you.</p>
+
+<p>2. Keep your eye on the job you have, and not on the job you hope some day to be elected to.</p>
+
+<p>3. Remember that a great many problems that are hard to decide on the basis of "Is it good policy?" are comparatively simple to settle on the basis of "Is it right?"</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">They Know Beans</head>
+
+<figure n="photograph">
+<head></head>
+<p>Ernest and Virgil in the big been patch. They are letting Ernest's brother, visiting them, hold the reins on the three-horse cultivator.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>DOING your hit doesn't always mean making a sacrifice. Two eighteen-year-old boys&#8212;Ernest Berry and his cousin Virgil Nichol, of Clarinda, Iowa&#8212;proved that last year when they started out to increase the food supply. They decided to specialize on beans, and Ernest's father staked them to a hundred acres of land on a farm he had in Colorado, five hundred miles from home.</p>
+
+<p>They planted the hundred acres with dry-land pinto beans, kept house in a shack by themselves, handled the crop without help in an unusually dry season, and when school-time came around had not only added appreciably to the bean ration, but had cleared about two thousand dollars over expenses.</p>
+
+<p>This year the boys are promised a section of irrigated land, on which they expect to do better. The money they earned went into Liberty Bonds, and Ernest's father writes that the boys "will be on the front row in the thick of the fight if the war is still going on when they become old enough to enlist."</p>
+</div1>
+
+<div1>
+<head type="sub">We've Had Quite a Lot of Letters About That Story</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>I feel that I must tell you that "The Passed Word," by Inez Haynes Irwin, did more for me than the most consoling letter from a best friend could have done. "If God really reserves us for service, He takes our toys away, one by one . . . and that is the only way he has of making us see it."</p>
+
+<p>What a wonderful thought! My thanks to the author&#8212;and to you.</p>
+
+<closer><signed>P. R. B., New York.</signed></closer>
+</div2>
+
+<div2>
+<p>The first requisite of a story is that it should be entertaining. If occasionally we can get hold of one that entertains, and has a good big helpful thought in it too, we're more than glad to print it. And Mrs. Irwin's story was certainly of that sort.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">Why Resist the Good Impulse?</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>Incidentally, I may inform you that I resisted the temptation to subscribe to a point beyond endurance. Wishing you the success, in connection with this publication, which you so richly deserve, I am,</p>
+
+<closer><signed>D. L. H., Chicago.</signed></closer>
+</div2>
+
+<div2>
+<p>"One trouble with resisting our temptations," as my good friend Don Marquis says, "is that they may never return." We trust that about 400,000 people who are successfully resisting the impulse to send us that dollar will be weakened by the example of D. L. H., and in succumbing will put us over the million mark.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">From a Boy in a Shipyard</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+
+<p>I am a youngster of draft age, and while waiting for my call am working in a shipyard. I keep wondering to myself what business or vocation I ought to take up when I return from the war, assuming I do return. Have you any advice to give me?</p>
+<closer><signed>J. S. W., Connecticut.</signed></closer>
+</div2>
+
+<div2>
+<p>Well, J. S. W., if I were starting out again, it seems to me there is no business that would interest me more than the great new business which the war has built up for America&#8212;I mean the business of ship-building and the transportation of goods in ships. It is full of romance. We are in it to stay, and the number of men in the country who know it thoroughly can not be large; for we have had very few ships heretofore.</p>
+
+<p>Why not learn all you can about it, and stick to it permanently?</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">It Also Makes a Splendid Gas-Mask</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>I have found your paper to be worth far more than a nickel; for when I got off the train last night the rain was falling, and there was no trolley near by. I therefore took an Every Week out of my knitting bag (both are my constant companions) and carefully placed it over my best hat, thus saving the hat without in any way injuring the paper.</p>
+<closer><signed>E. S. R., New Jersey.</signed></closer>
+</div2>
+</div1>
+<div1>
+<head type="sub">We're Shy, But We Do Love Companionship</head>
+
+<div2>
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>I'd like to know you fellows personally. When I like people from a distance, I'd like to see them close up. It'll probably help you, in deciding whether you want to meet me or not, to know these facts: I have no manuscript to offer you; I have no favors to ask; I have no books to sell; I have $1.89, so I won't ask for a loan; I haven't any relatives&#8212;no genius in the family that I want you to abdicate in favor of; I don't want a job&#8212;I've got too darn much to do now; I don't want you to write a free article for our house organ&#8212;at least, not as long as I can continue to lift your stuff from EVERY WEEK. If there's anything else that makes you hesitate to meet me, let me know, and I won't do it, whatever it is. Selah.</p>
+<closer><signed>G. F. W., New York.</signed></closer>
+</div2>
+
+<div2>
+<p>Well, G. F. W., you say you have no books to sell. We ought to warn you that we have. One by the editor&#8212;a book of editorials, price $1. One by Mr. Atwood on "Making Your Money Work for You," price 5 cents. One by Dr. Bowers on
+Eating for Health and Efficiency," price also a jitney.</p>
+
+<p>It seems a little unfair to let you come without warning you of these facts. But if you still&#8212;bookless and unprotected&#8212;want to wander into our presence, come on. And we'll show you the very typewriter that we typewrite this stuff on.</p>
+
+<p>And until next week, folks, gook luck!</p>
+</div2>
+</div1>
+</body>
+</text>
+
+<pb n="Page 23" xml:id="ew.issue.19180525.p023" />
+
+<text type="advertisement" xml:id="stock.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Stock Dividend Outlook for Standard Oils</head>
+<p></p>
+<figDesc>Advertisement for R.C. Megargel &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Buy Stocks Now</head>
+<p></p>
+<figDesc>Advertisement for Smith-Martin Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"On Going Into Debt"</head>
+<p></p>
+<figDesc>Advertisement for John Muir &amp; Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="booklets.19180525">
+<body>
+<head type="main">Financial Booklets that Will Help You</head>
+
+<p rend="agate">R.C. Megargel &amp; Company, 27 Pine Street, New York, Members of the New York and Chicago Stock Exchanges, will send you booklets entitled The Part Payment Plan, and "Securities Suggestions." The latter is published semi-monthly, and the current issue contains an interesting article on the Stock Dividend Outlook for the Standard Oils. Write for these booklets. Sent free of charge upon request for A.</p>
+
+<p rend="agate">Known throughout the world as "The Home of Banking by Mail," The Citizens Savings and Trust Company of Cleveland, Ohio, is sending free to all who write for it, booklet "P" which gives details of the bank's service to those living hundreds of miles from Cleveland. The bank pays 4% compound interest on deposits.</p>
+
+<p rend="agate">The <hi rend="italic">Bache Review</hi> (weekly) is issued by J.S. Bache &amp; Co., members of New York Stock Exchange, 42 Broadway, New York City. It is valuable for the information it contains as to the effect of current events on the business situation, and also because of its literary excellence. It has always been vigorously pro-Ally. Copies sent on application.</p>
+
+<p rend="agate">E.M. Fuller &amp; Company, members Consolidated Stock Exchange of New York, have issued a new ten-page booklet describing in full the "ten-payment plan" of buying active securities, and the advantages of this plan to the investor. A copy may be obtained without charge upon request for booklet O-5 to E.M. Fuller &amp; Company, 50 Broad Street, New York.</p>
+
+<p rend="agate">Their booklet, "We're Right on the Ground," outlining in a comprehensive way the advantage of farm mortgages as a safe investment, won for E.J. Lander &amp; Compnay, Grand Forks, North Dakota, third prize in the contest at the recent St. Louis Convention of the Associated Advertising Clubs of the World. Offered free to readers of this magazine.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="cost.19180525">
+<body>
+<head type="main">Your Share of the War Cost</head>
+
+<p>OF course we are putting just as much of our somewhat limited supply of cash in Liberty Bonds as possible, the same as you are; but we have often wondered how much of our income the government figured we ought to turn over to it in this way.</p>
+
+<p>The government never has said. Mr. McAdoo is probably too busy with his railroads and his other jobs to stop and figure it out. But, thanks to some ingenious chap at the Bankers Trust Company in New York, we have been told for the first time what the minimum contribution expected from us is in actual figures. You should deduct your income tax, of course, from the amount contributable.</p>
+
+<p>The table below shows how much should be turned over to the government from family incomes ranging from $850 a year to $10,284,000 a year. It doesn't say how much a family should contribute whose income is $850 or less, but it does say that the 7,288,000 families in this group have a total income of $4,703,217,000, from which they should contribute $102,773,000, and maybe you can figure it out for yourself from that.</p>
+
+<p>It is likely that before this year ends we all will have been called upon to contribute about ten billion dollars as our direct share of the cost of the second year of the war.</p>
+
+<p>The cost may even run up to around twenty billions; but ten is about all we can give directly, according to those who have made a scientific study of our pocket-books.</p>
+
+<p>These figure sharks estimate that, after making allowance for savings that must be invested in increased working capital, and for capital expenditures essential to our health and welfare (a total of about $8,000,000,000), we will still have that $10,000,000,000 for bonds. Corporations should buy about two and three quarter billion dollars' worth of this, and we individuals the remaining seven and a quarter billion dollars' worth. The amount demanded over the ten billion must be raised by taxation, future savings, and bank holdings.</p>
+
+<p>Heaven only knows how long this struggle is going to keep up. And for that reason, with these figures before us, it seems good policy to keep right on figuring these contributions out of our yearly incomes as a regular part of our personal business routine.</p>
+
+<figure n="table">
+<head></head>
+<p></p>
+<figDesc>Table showing Average Family Income, Amount Contributable by Each Family, Number of Families in Group, Total Income of Families and Total Contributable by Families</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="sell.19180525">
+<body>
+
+<head type="main">Don't Sell Your Good Old Stand-bys</head>
+
+<p>EACH new issue of Liberty Bonds may tend to press the market values of seasoned stocks and bonds a little lower. Many owners will become frightened and be tempted to sell. Don't yield to that temptation. Every share of stock you put on the market only makes the situation worse: the government does not want your invested money for its Liberty Loans: it wants your credit and your future savings.</p>
+
+<p>And remember, too, that the men who have made money in this country have made it by believing in their investment even when things looked darkest and the prices were away clown. The Wall Street Journal recently printed this story of John Taylor Johnston:</p>
+
+<p>"Do you know," said a Wall Street man, as he pointed to the Johnston Building. at the corner of Broad Street and Exchange	Place, "I think that is one of the greatest monuments in the Wall Street district. It shows what a man can do to turn defeat into victory.</p>
+
+<p>"Thirty years ago John Taylor Johnston was a heavy holder of Central of New Jersey stock. When it faced receivership the stock broke to 31, and he was a ruined man. As in the case of Pandora's box, hope alone remained. During the reorganization period he became interested in studying the road. He became convinced of its future possibilities. The conviction that the road had a future became an obsession.</p>
+
+<p>"He still owned a magnificent art gallery, which he sold, investing the proceeds in Central stock. He prevailed upon friends to lend him money with which to purchase more. He bought all he could and margined for more.</p>
+
+<p>"'The rest is market history. Central justified his judgment and made him richer than before. With a part of his newly made fortune he erected that great building. There it stands, an enduring monument to that business courage which never knows defeat."</p>
+
+</body>
+</text>
+
+
+<text type="advertisement" xml:id="publishing.19180525">
+<body>
+
+<figure n="advertisement">
+<head>Right is Might</head>
+<p></p>
+<figDesc>Advertisement for The Christian Science Publishing Society</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The Ten Payment Plan</head>
+<p></p>
+<figDesc>Advertisement for E.M. Fuller &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>6% Farm Mortgages</head>
+<p></p>
+<figDesc>Advertisement for E.J. Lander &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>6% Net</head>
+<p></p>
+<figDesc>Advertisement for Perkins &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Deafness Is Misery</head>
+<p></p>
+<figDesc>Advertisement for A.O. Leonard</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<pb n="Page 24" xml:id="ew.issue.19180525.p024" />
+
+<text type="advertisement" xml:id="johnson.19180525">
+<body>
+
+<figure n="advertisement">
+<head>"It Works Wonders on the Car too"</head>
+<p></p>
+<figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
+</figure>
+
+</body>
+</text>
+</group>
+</text>
+    </TEI>

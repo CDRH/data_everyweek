@@ -1,0 +1,2259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.1.3.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180622">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, June 22, 1918</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19180622</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2010</date>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">Pages 1 &amp; 2 are missing from the print edition ecoded for this project.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1918-06-22">June 22, 1918</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-02-10"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2009-09-09"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009-08-28"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+        
+<pb n="Cover" xml:id="ew.issue.19180622.p001" />
+
+<front>
+
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+
+</front>
+
+
+<group>
+
+
+<pb n="Page 2" xml:id="ew.issue.19180622.p002" />
+
+<text type="missing">
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19180622.p003" />
+
+<text type="nonfiction" xml:id="suspend.19180622">
+<body>
+<head type="main">Under the Conditions That the War Has Produced, it Seems to Us Wise to Suspend the Publication of <hi rend="italic">Every Week</hi></head>
+
+<p>Deliberately, and with great reluctance, we have come to the conclusion that this (June 22nd) issue of Every Week must be the last.</p>
+
+<p>To discontinue a publication which in so short a lifetime has impressed its personality upon so large and varied a group of readers, is to us a matter of very deep regret: and we are not unmindful, in making the announcement, of the sense of loss which it will bring to those half million homes where <hi rend="italic">Every Week</hi> has been a visitor of more than ordinary welcome.</p>
+
+<p>For a magazine is more than a mere commercial property. It is, in a large sense, a living, breathing personality&#8212;a thing of soul and spirit which reaches out to grip the souls of its people. In the degree to which a magazine possesses this quality of heart interest it is an editorial success: and <hi rend="italic">Every Week</hi> has possessed it in a pre-eminent degree.</p>
+
+<p>Here and there&#8212;almost spontaneously&#8212;it has gathered its readers to it one by one, until their number has passed, in three years, the half million mark. It has held them in spite of difficulties of production, and delays in distribution: it has sold in competition with much older and larger publications, and sold well. We are proud of its record, and of its hold on its readers: Only conditions of an extraordinary character could have brought us to the decision to give it up.</p>
+
+<p>But the conditions are extraordinary. The world war, which has greatly prospered some forms of business, has laid a heavy hand on the business of manufacturing newspapers and magazines.</p>
+
+<p>France and England, which are three years ahead of us in their experience in the war, have had to sacrifice many of their oldest and best established periodicals. In this country almost every week brings news of some new discontinuance or consolidation. And so far as can be judged, these conditions are likely to grow more onerous rather than less so with the duration of the war.</p>
+
+<p>The war has greatly increased the cost of the raw materials that enter into the publication of magazines.</p>
+
+<p>It has made it difficult, if not actually impossible, to get the new and better mechanical equipment with which we had planned to enhance the physical appearance of the magazine.</p>
+
+<p>It seems to us wise, therefore, to adopt the sterner, if less easy course, and to discontinue <hi rend="italic">Every Week</hi> while it is still strong and in full favor, rather than that it should languish under conditions that promise to grow worse before they can begin to improve.</p>
+
+<p>We have planned that no subscriber shall suffer any loss as a result of this decision. A definite plan of substitution has been formulated and will be described to each subscriber.</p>
+
+<p>So we take leave of what has been to us&#8212;the publishers&#8212;not merely a property, but a real friend, an object of affection and a source of pride. There is nothing in the record of <hi rend="italic">Every Week</hi> to be sorry for. It has been a clean magazine, a magazine of ideals, a magazine of helpfulness and high thinking.</p>
+
+<p>No other editorials have been more widely quoted or have better expressed the spirit of true, clean Americanism. Its picture pages have almost established a new fashion in the treatment of pictures in American periodicals. It has been packed with an amount of fact and helpful information that is astonishing in its variety and interest considering how slender the pages at the disposal of its editors.</p>
+
+<p>If we were to do it again we would not do otherwise: if we were to have another weekly after the war, it would be <hi rend="italic">Every Week</hi>&#8212;not something different.</p>
+
+<p>To those whose loyal enthusiasm, as expressed in thousands of letters, has given <hi rend="italic">Every Week</hi> so wide and fair a name, we send again our whole-hearted appreciation. No magazine was ever blest with better friends or felt more satisfaction in their friendship.</p>
+
+<closer><signed>THE CROWELL PUBLISHING COMPANY</signed></closer>
+</body>
+</text>
+<pb n="Page 4" xml:id="ew.issue.19180622.p004" />
+
+<text type="advertisement" xml:id="dupont.19180622">
+<body>
+
+<figure n="advertisement">
+<head>Du Pont American Industries Paint and Save Money</head>
+<p></p>
+<figDesc>Advertisement for E.I. Du Pont de Nemours &amp; Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19180622.p005" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 6, No. 25<lb/>
+June 22, 1918<lb/>
+
+Every Week<lb/>
+"Every word counts"<lb/>
+
+$1.00 per Year<lb/>
+5 Cents a Copy</p>
+</figure>
+
+<p>Published weekly by the Crowell Publishing Company, 381 Fourth Avenue, New York. Entered at the New York Post Office as Second Class Matter.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="kelly.19180622">
+<body>
+
+<head type="main">WEEDING OUT THE BUSINESS GARDEN</head>
+
+<byline>By <persName type="author" key="#Kelly, Fred C.">FRED C. KELLY</persName></byline>
+
+<div1>
+<p>TO hasten the winning of the war, we are going to stop making left-handed plows.</p>
+
+<p>But what has it got to do with war, one way or the other, whether we plow with an instrument that turns the soil to the left or to the right?</p>
+
+<p>Agriculturally, it is a stand-off whether we use a left-hand or a right-hand plow. More-over, one kind is just as easy to manufacture as another.</p>
+
+<p>Here, though, is the idea. Manufacturing both left-hand, and right-hand plows is one of the needless things that we have been doing for a great many years, for no reason except that we have been doing them and so keep on. I mention the plow simply because it is typical of a long list of items that are manufactured and sold according to wasteful methods that war necessities will probably stop. And, once stopped, there is a fair assumption that they will not he resumed.</p>
+
+<p>Let us look a little closer into the case of the left-handed plow, as an example of how much material and labor and capital may become involved in useless effort&#8212;solely that a precedent may be fulfilled.</p>
+
+<p>Years ago, when farmers had their plows made by the nearest blacksmith, somebody chanced to get one that turned the furrow to the left. While there was no advantage in this shape of plow over the right-hand ones in more general use, yet the man who operated it got so accustomed to it that he would have felt strange with the other kind. When it wore out and he got a new one, he insisted on having another left-hand plow. Likewise, his tenant and his hired man came to prefer that type. The blacksmith who made it turned out a few more. Gradually there sprang up in the community a demand for both shapes of plow. The same thing happened in other communities.</p>
+
+<p>Thus it came about that factories making plows had to be prepared to satisfy the followers of both the right-hand and the left-hand cults. And the little retailers who sold them had to carry both kinds in stock. The village dealer who could otherwise have got along with a stock of only one plow at a time was obliged to carry two, tying up just that much more of his meager capital.</p>
+
+<p>For some reason, the bulk of the farmers who are addicted to left-hand plows reside in Indiana and Ohio. But manufacturers, each one desiring not to be excelled by his competitors, felt they must be prepared to deliver either kind of plow not only in Ohio and Indiana but everywhere else.
+
+<figure n="illustration">
+<head></head>
+<p>Waste</p>
+<figDesc></figDesc>
+</figure>
+
+So manufacturers kept a quantity of left-hand plow material on hand, in case of a possible demand for it.</p>
+
+<p>Naturally, it required not only more capital but more labor to make up an extra line of plows. And all the while there was no need of it. Inasmuch as most farmers used right-hand plows, there was no reason why the minority shouldn't join in and make the demand unanimous.</p>
+
+<p>Now, under war needs and war impetus, that is exactly what farmers are going to have to do. Those who have nourished a marked antipathy toward turning their soil to the right must reconcile themselves to doing that very thing. All the leading manufacturers of agricultural implements in the country got together and pledged their industry to discontinue various useless items of output in order to conserve raw material, capital, and labor, which are needed for direct use in the winning of the war.</p>
+</div1>
+
+<div1>
+<head type="sub">Sixty Unnecessary Styles in Plows</head>
+
+<p>NATURALLY, many of the wise changes that are being made because of the war will endure after the war. There will be no more left-handed plows made, because to do so is both unnecessary and wasteful. And, apart from whether a plow works on the right or the left side, there are numerous designs and sizes, many of which could be omitted without loss to agriculture, and to the great advantage of industry. There are on the market now about sixty different sizes and shapes of plows. This number is to be reduced, I believe, by at least half. Many other farm machines have been made with a choice of dozens of sizes and widths of wheels, or other parts, where three or four different sizes would doubtless answer all actual needs. Farm wagons now being manufactured have all together forty different sizes of wheels. This number probably will be cut down to less than ten.</p>
+
+<p>Thousands of tons of material will be released for war purposes by the farm implement industry alone. And what is true of this industry is true of scores of others. Competition has proved to be not only the life of trade but the parent of lost motion. Parts that add nothing to the distinctiveness or utility or worth of an article must be standardized. Suppose, for the purpose of illustration, that ten manufacturers make ten different kinds of garden rakes. Each rake has a different kind of brace where it is fastened to the handle. There is no appreciable difference, we'll say, in the strength or durability of any one of these braces over another. Each manufacturer has the kind he does have simply because he happened to hit on that kind. Suppose a manufacturer of parts furnishes these braces to all the rake manufacturers. He must have a surplus on hand of each kind of brace to supply his orders promptly. If only one shape of brace were used, the stock he carries to supply each of the ten manufacturers would probably do for all.</p>
+</div1>
+
+<div1>
+<head type="sub">The Competition in Pink Paint</head>
+
+<p>CONSIDER the infinite varieties of paint. It used to be that pink paint was simply pink paint. You could take it or let it alone. To-day, whether you want pink paint or any other color, there are upward of fifty-seven different shades from which to make selection. Scores of these shades of paint have been put on the market because of a false spur of competition. One manufacturer adds a tenth shade of pink paint to his list, because none of his competitors is offering more than nine shades, and he wishes to show by his enterprise that he is entitled to more than ordinary consideration. Then the competitor who had only nine shades of pink adds three more to show that he is at least two shades smarter and more enterprising than the man with ten shades. And so it goes. Carried to its logical or illogical extreme, there would eventually be so many different shades that the buyer might become confused and not buy at all.</p>
+
+<p>Besides a variety of colors and shades, paint manufacturers, because of competition, have put up their goods in a great variety of sizes of cans&#8212;miscellaneous, unstandardized small cans, as many more sizes of big cans, and an assortment of sizes that are neither big nor little.</p>
+
+<p>The consequence of all this is that the dealer who undertakes to carry a full line of all the different paint possibilities on the market not only has his hands full, but must use up a lot of both capital and effort.</p>
+
+<p>Recently the paint manufacturers got together and arranged for a general reduction of needless items in their goods. The man who wishes to paint his house can still find enough variety of shades to meet all common-sense requirements, and if he wants something unusual he can easily mix it up himself. Meanwhile there will be capital, and tons of white lead and linseed oil and tin, released for use where most needed.</p>
+
+<p>Even coal comes in such a variety of sizes and grades as to cause needless complications in handling.</p>
+
+<p>The number of styles in shoes, also, are to be reduced 25 per cent.</p>
+
+<p>This tendency toward needless lavishness and wastefulness in nearly all industries is due partly to the fact that, as a nation, we have been too inclined to feel that conspicuous economy was not far removed from pettiness. In big hotels, for instance, we have always been served with larger portions of food than we ought to have, and left much of it on our plates to go to waste, because the hotels wished to maintain an atmosphere of luxuriance and plenty and richness.</p>
+</div1>
+
+<div1>
+<head type="sub">57,000 Uniforms Saved from "Samples"</head>
+
+<p>SO great has been this habit of wasting our resources that we have done it in various industries without anybody exactly realizing it. Hundreds of thousands of yards of woolen cloth have been wasted by sending out larger sizes of samples than were necessary. Agents in towns and cities who take men's measures and send away their orders for suits of clothes have been provided with samples of noticeably liberal size. A few weeks ago the government arranged with manufacturers who make clothes to order to cut down the size of these samples, and send out nothing larger than four by six inches. This still permits a sample large enough for all practical purposes.</p>
+
+<p>It is estimated by experts that the saving in woolen cloth thus effected will be sufficient to make uniforms for 57,000 soldiers.</p>
+
+<p rend="continued">One big woolen manufacturing concern reported that it was accustomed to make up about 3,000 different patterns, and send out sam-</p>
+
+    <p rend="jumpline"><ref target="kelly.19180622.jump">Concluded on page 18</ref></p>
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+</div1>
+</body>
+</text>
+<pb n="Page 6" xml:id="ew.issue.19180622.p006" />
+
+<text type="nonfiction" xml:id="pot.19180622">
+<body>
+<head type="main">THE MELTING POT</head>
+
+<head type="sub">In Which the New Books and Magazines are Boiled Down to Give You Fifteen Minutes of Health, Efficiency, Travel, Biography, and Adventure</head>
+
+<div1>
+<head type="sub">THE GREAT ASSASSIN</head>
+
+<p>A FEW months ago "the Great Assassin," Abdul Hamid, died. Here in the West people had nearly forgotten him, but in Turkey his reign of thirty terrible years made on his country a mark that will take long generations to fade out. From 1876 to 1908, when the Young Turks put him in prison, Abdul Hamid laid the foundation of Turkey's domination by Germany; he instigated the Armenian massacres; he established a system of deep political and financial corruption.</p>
+
+<p>What was the character of this Sultan whose evil influence still lives? Like all despots, he was timorous and suspicious. He built up a system of espionage unmatched even in old Russia.</p>
+
+<p>Hester Donaldson Jenkins, in Asia, tells how he looked in 1902 at the great semi-annual ceremony at which all the officials of the Empire came to do him homage:</p>
+
+<quote>
+<p>It was a brilliant ceremony, but the whole interest was centered on the silent, dignified figure of Abdul Hamid, the only person in the room who wore neither uniform nor medals. He was dressed in gray trousers, a frock-coat, and a loose black overcoat, with the usual red fez and conspicuous white gloves. But, most significant, he leaned upon a shining curved scimitar. As he stood there, infinitely alone despite the crowds that saluted him, an object of fear and in many cases hatred to his subjects, his back a little bowed under the weight of his cares and anxieties, his small piercing eyes watching for the assassin's knife, his dyed black beard dropping over his chest, his face painted in the at-tempt to appear young, he seemed an inexpressibly pathetic figure.</p>
+</quote>
+
+<p>The spy system radiated from the inclosed grounds of the palace itself:</p>
+
+<quote>
+<p>The palace was a vast low building set in the midst of extensive gardens. High yellow walls surrounded the inclosure, so that only a suggestion of the buildings could be seen from outside, even from the Bosphorus. Yet it hung over the city like a baleful cloud, ready to emit lightning at any moment. Sometimes cries of terror pierced the neighboring streets, and sent the inhabitants, pale and shuddering, to their inner rooms, where they kept in hiding.</p>
+
+<p>Within the guarded palace Abdul Hamid buried himself, leaving it only three times a year; once to adore the mantle of the Prophet in Stamboul, and twice to go to the Palace of Dolma Bagtche for the hand-kissing ceremony. Extraordinary precautions were takers at these times. No one knew whether he would go by land or by water. Both yachts and carriages went forth from Yildiz, but which one he was in no one could tell. Guards and spies were everywhere, and in the streets one might not even raise a lorgnette to gaze after his carriage.</p>
+
+<p>Abdul Hamid was a good shot, and, with a little revolver in his pocket and one on the table of every room in his palace, he was ready for instant action should fright seize him. Many were the victims of his sudden suspicions.</p>
+</quote>
+</div1>
+
+<div1>
+<head type="sub">PROTECT THE PIGEONS</head>
+
+<p>EVERY hunter who shoots a pigeon these days may be crippling the war preparations of the United States, says the <hi rend="italic">Scientific American</hi>. Most States have laws for the protection of pigeons, and now to these laws the Government adds its warning. Thousands of pigeons in training for service overseas are making flights in this country; and often the work of training them has been interfered with by the thoughtlessness and cruelty of hunters.</p>
+
+<p>Protect the pigeons: they are helping to win the war. And if a pigeon with a band about his leg reading "U. S. A.&#8212;18," which indicates that he is being trained for army purposes, should fall into your hands, report that fact at once to the Chief Signal Officer, Land Division, Washington.</p>
+</div1>
+
+<div1>
+<head type="sub">EVEN A BARON CAN SELL BONDS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Paul Thompson</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>HE used to be the Baron Buderus von Carlshausen, in the old days in Lorraine before the war. But his ancestors were French and his heart was French, and when the war came he and his mother and his father escaped to America.</p>
+
+<p>The former Baron is now only sixteen years old, and his name has become plain Buderus&#8212;H. Buderus. "That was our original French name," he says.</p>
+
+<p>H. Buderus lost his job a while ago, but it was an honorable discharge.</p>
+
+<p>"I've been selling Liberty bonds since the campaign for the third loan began," he says. "I invented a way of doing it. I get on trains, especially commuters' trains, and I sell bonds all the way through the cars. I could not always get to my job on time, so I was discharged."</p>
+
+<p>After that H. Buderus gave his whole time without pay to forwarding the third loan. In the first seventeen days of the campaign he sold $99,450 worth of bonds, all on trains. Then he invaded the Curb market, and between eleven and twelve o'clock one clay he sold $10,000 worth. When the drive was over he had got about $200,000 for the government.</p>
+
+<p>"My method is this," says H. Buderus. "When I sell on trains, I first distribute through the car literature about the loan. Then I show a poster. And I tell the people about that poster: not what it says, but what it means to me&#8212;what I feel when I look at that poster. Because, you see, I know. I come from Lorraine.</p>
+
+<p>"My own people are many of them there now, but I fear they are mostly dead.</p>
+
+<p>"I have a little poem I say to them. This is it:</p>
+
+<lg>
+<l>Count that day lost when its descending sun</l>
+<l>Finds in your hand no Liberty Bond or gun.</l>
+</lg>
+
+<p>"It is pretty hard work, selling in trains. You have to talk louder than the train to make people pay attention. As you can hear, my voice is pretty nearly gone. I have to take lemon juice. Often I use a dozen and a half lemons a day.</p>
+
+<p>"I can get on about six trains in one day, and in that time I sell any-where from three to twelve thousand dollars of bonds. People are mostly very generous. Often they yell and applaud.</p>
+
+<p>"You see, I say to diem only what is in my heart. No one told me what to say.</p>
+
+<p>"But sometimes they are not so pleased. One man hit me, and my arm is still bandaged. Then, one day, I was thrown off a train because I did not pay my fare. But soon an ex-press. train came along. I had with me an American flag, so I waved that at the express train, and it stopped. I got on it and sold bonds. A patriotic American paid my fare, and I was allowed to stay.</p>
+
+<p>"People have asked me why I do this. It is not so much for the reasons that are written on the posters. It is because of Lorraine and the suffering of my people under the rule of the Germans."</p>
+
+<p>At present H. Buderus is whiling away the time before the next Liberty loan in selling war saving stamps by another method also quite his own.</p>
+</div1>
+
+<div1>
+<head type="sub">THE RIGHT MOMENT TO ATTACK</head>
+
+<figure n="cartoon">
+<head></head>
+<ab type="credit">From the Gas Attack</ab>
+<p>FATHER: Listen to this, dear. Great Britain is spending thirty-two million dollars a month, and France is spending thirty million, and&#8212;</p>
+<p>SON: Say, Pop, kin I have a nickel?</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+<div1>
+<head type="sub">TREATING WAR WOUNDS</head>
+
+<p>SOME good things have come out of the war, and among them are several antiseptics so powerful and safe that
+they have almost revolutionized surgery.</p>
+
+<p>War surgery is many times more difficult than that of peace. Not only are the wounds hideous, but the chances of infection are multiplied. The soil of France and Belgium is deeply impregnated with germs of all sorts, from hundreds of years of fertilizing and cultivation. All the mud of the trenches is infected. The men are abnormally liable to infection, too, because of their condition of extreme nervous exhaustion.</p>
+
+<p>Dr. W. W. Keen, in <hi rend="italic">The Treatment of War Wounds</hi> (W. B. Saunders Company), says:</p>
+
+<p>"The nervous strain to which the men are subjected in the trenches impairs greatly their ability to withstand the almost malignant infection which invades the great gaping wounds."</p>
+
+<p>When the war started, all existing antiseptics suddenly were discovered to be of no use. Doctors began to say that the whole antiseptic method had broken down. Then came revolutionary discoveries. One of the newest antiseptics is called acriflavine. It is very powerful, and its power is increased five times when it comes into contact with a wound. But it is absolutely harmless to the tissues.</p>
+
+<p>Mercurophon is even more recent. "It is said to be non-irritating, yet to be a far more powerful germicide than corrosive sublimate, carbolic acid, etc. Though so effective a germicide, it is non-poisonous.</p>
+
+<p>But the Dakin-Carrel method, which includes a powerful antiseptic and the whole technique of using it, was discovered first, and has had the widest effect.</p>
+
+<p>The antiseptic is a salt solution, powerful and non-irritating. After a wound is cleansed and gently probed for shell fragments, dirt, pieces of clothing, and such, it is irrigated with the Dakin's solution through tubes reaching to every part of the cavity. The liquid is not simply applied and left, but fresh irrigations are made every couple of hours until the wound is proved sterile. Then it is closed by sutures or adhesive straps, so that healing can take place.</p>
+
+<p>Compound fractures have always been a fertile field for infections. Dr. C. L. Gibson of New York describes the use of the Dakin-Carrel method in cases of this type in a hospital at La Panne, Belgium:</p>
+
+<p>"Dr. Depage greeted me by saying that he had eighty compound fractures all grouped in one ward, and that not one was suppurating. I had an opportunity to see every one of these eighty cases, even to the smallest details. I was able not only to corroborate Dr. Depage's statement that not one of these compound fractures was suppurating, but could affirm, in addition, that I failed to see a single drop of pus in any one of these cases.</p>
+
+<p>"When one remembers that these wounds offer the maximum possibilities&#8212;particularly the shell wounds, with terrific mangling of the tissues, extensive splintering of bone, harboring many forms of projectiles and foreign bodies, necessarily all infected&#8212;the result is something one must know for oneself to appreciate.</p>
+
+<p>These wounds heal in a manner that is simply indescribable. They heal with total absence of reaction, pain, swelling, redness, and even of infiltration [morbid tissue] around the wound edges."</p>
+
+<p>This is a record that has probably never been matched even in civil life.</p>
+</div1>
+
+<pb n="Page 7" xml:id="ew.issue.19180622.p007" />
+
+<div1>
+<head type="sub">THE GREATEST POLE</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Bain News Service</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>PEOPLE who know Paderewski as a musician know him only slightly. No one really knows Paderewski who has not heard him make a speech. He is passionate, eloquent, and his zeal in behalf of the stricken people of his native Poland has done more than anything else to bring them relief.</p>
+
+<p>He was a Polish patriot long before he was a pianist. His father was banished to Siberia by the government of Russia for his independent beliefs; and he brought back from exile a burning love for Poland and a desire for its freedom, which he bred into his son from the beginning.</p>
+
+<p>Paderewski has other interests, also passionate, of a lighter sort. In his home at Morges, on Lake Geneva, he devotes a great deal of earnest attention to his kitchen, and has firm opinions on the science of cookery. Even his wife, who has specialized in collecting valuable recipes, can not excel him in this field.</p>
+
+<p>A. H. C. Finck, writing in the <hi rend="italic">Century Magazine</hi>, says: "Paderewski is as great in gastronomy as in music, and he believes the subject of food is 'the most important question' in our country. Of Americans he says, 'They are rich&#8212;rich enough to spoil French cooking.'"</p>
+
+<p>Paderewski believes in favorites. His favorite animals are dogs and parrots, his favorite fruit sour cherries, his favorite sport mowing the lawn.</p>
+</div1>
+
+<div1>
+<head type="sub">THIS SORT OF THING MAKES US TIRED</head>
+
+<p>THE thing which, above all, we are fighting in this war is that mixture of egotism and stupidity which characterizes the mind of the dominant elements in Germany.</p>
+
+<p>In <hi rend="italic">Long Heads and Round Heads</hi> (A. C. McClurg &amp; Company) Dr. W. S. Sadler quotes a series of statements from the writings of recognized German authorities summing up all that makes Germany a menace to the world:</p>
+
+<cit>
+<quote><p>The German people is always right, because it is the German people.</p></quote><bibl>&#8212;Tannenberg.</bibl>
+</cit>
+
+<cit>
+<quote><p>We must vanquish, because the downfall of Germanism would mean the downfall of humanity.</p></quote><bibl>&#8212;Konig.</bibl>
+</cit>
+
+<cit>
+<quote><p>Germany is precisely&#8212;who would venture to deny it?&#8212;the representative of the highest morality, of the purest humanity, of the most chastened Christianity.</p></quote><bibl>&#8212;Francke.</bibl>
+</cit>
+
+<cit>
+<quote><p>If we are beaten&#8212;which God and our strong arm forbid&#8212;the higher Kultur of our hemisphere, which it was our mission to guard, sinks with us into the grave.</p></quote><bibl>&#8212;Hornack.</bibl>
+</cit>
+
+<cit>
+<quote><p>Our belief is that the salvation of the whole Kultur of Europe depends upon the victory which German "Militarism" is about to achieve.</p></quote><bibl>&#8212;Manifesto signed by 352 Hochschul-lehrer [professors and lecturers].</bibl>
+</cit>
+
+<cit>
+<quote><p>We must win, because if we were defeated no one in the whole world could any longer cherish any remnant of belief in truth and right, in the Good, or indeed in any higher Power which wisely and justly guides the destinies of humanity.</p></quote><bibl>&#8212;Helm.</bibl>
+</cit>
+
+<cit>
+<quote><p>Germany is the future of humanity. If God is for us, who can be against us? It is enough for us to be a part of God. The German soul is the world's soul. God and Germany belong to one another. Germany is the center of God's plan for the world.</p></quote><bibl>&#8212;Lehmann.</bibl>
+</cit>
+
+<cit>
+<quote><p>The whole of European Kultur is brought to a focus on this German soil and in the hearts of the German people. It would be foolish to express oneself on this point with modesty and reserve. We Germans represent the latest and highest achievements of European Kultur.</p></quote><bibl>&#8212;Lasson.</bibl>
+</cit>
+</div1>
+
+<div1>
+<head type="sub">A BARGAIN IN POETS</head>
+
+<p>MOST poets are poets at so much a line&#8212;very careful to arrange for ample royalties on their goods, and quite able to drive a hard bargain with the crustiest of publishers. But in Francis Carlin (whose real name is J. F. C. MacDonnell, and who is a floor-walker in a New York department store) the world has acquired that rarity, a poet to whom the poem is everything and the cash return nothing.</p>
+
+<p>When MacDonnell, having published his poems at his own expense, was hailed as a real artist by the world of books, he was quite shocked when publishers suggested that he republish his book as a money-making venture.</p>
+
+<p>From his little glass office up on the very practical and businesslike "rugs and carpets" floor, MacDonnell has looked back across the sea to the Ireland in which he spent his youth, and, in the scant leisure afforded him by exacting customers and mistake-making sales-folk, has set down such lines as these, selected from his book published by Henry Holt &amp; Company:</p>
+
+<floatingText>
+<body>
+<head>PERFECTION</head>
+
+<lg>
+<l>Who seeks perfection in the art</l>
+<l>Of driving well an ass and cart,</l>
+<l>Or painting mountains in a mist,</l>
+<l>Seeks God, although an Atheist.</l>
+</lg>
+</body>
+</floatingText>
+
+<floatingText>
+<body>
+<head>ALCHEMY</head>
+
+<lg>
+<l>Because of the light of the moon,</l>
+<l>Silver is found on the moor;</l>
+<l>And because of the light of the sun,</l>
+<l>There is gold on the walls of the poor.</l>
+</lg>
+</body>
+</floatingText>
+
+<p>And yet, strangely enough, Carlin the poet is perfectly content to be MacDonnell the floor-walker.</p>
+</div1>
+
+<div1>
+<head type="sub">WHAT WILL BECOME OF ALL THIS WINE?</head>
+
+<figure n="photograph">
+<head></head>
+<p>The Czar is now a teetotaler under the stringent rule of his Bolskevik captors. But it was not always so. This picture shows one small section of his wine cellars at Massandra, near Yalta. The great casks were kept in tunnels that extended under the hills for nearly five miles. Not all of this, fortunately, was consumed by the court. The Czar was the largest wine merchant in Russia, his revenue from this source amounting to a million dollars a year.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+<div1>
+
+<head type="sub">MEATLESS DAYS&#8212;With Apologies to Lewis Carroll</head>
+
+<lg>
+<l>HE thought he saw some venison made into a ragout;</l>
+<l>He looked again and saw it was a vegetable stew.</l>
+<l>"It's all that I could find," she said; "you've got to make it do."</l>
+</lg>
+
+<lg>
+<l>He thought he saw a sirloin steak, with onions thickly spread;</l>
+<l>He looked again and saw it was a loaf of baker's bread.</l>
+<l>"Even this may be a treat before next month," she said.</l>
+</lg>
+
+<lg>
+<l>He thought he saw a steaming dish piled high with pork and beans;</l>
+<l> He looked again and saw it was some dandelion greens.</l>
+<l>"I picked them in the yard," she said; "they're quite within our means."</l>
+</lg>
+
+<ab type="credit">From the London Sphere.</ab>
+</div1>
+
+<div1>
+<head type="sub">IT TAKES THREE MEN AND A WOMAN TO SUPPORT ONE MAN AT THE FRONT</head>
+
+<p>IT takes four men at home to maintain one man at the front." But, as Marie Obenauer, Industrial Chairman of the National League for Woman's Service, has calculated, "just about one 'man' in four is a woman." Therefore, to maintain a million and a half men in France, a million and a half women in America must be working at top speed.</p>
+
+<p>Only about 100,000 of these are doing the more spectacular types of war work&#8212;making and testing gun parts in government arsenals, or in private munitions plants rolling powder pellets, gauging bullets, making fuses, making shell parts and filling shells, making gas masks, aeroplane wings, and war balloon parts. Nor does this include the women who spend their spare time in' knitting and rolling bandages.</p>
+
+<p>The other 1,400,000 women engaged in war work are getting little public, notice. They are not doing anything picturesque or spectacular. They have merely ex-changed the monotony of ordinary factory labor "for the more intensified monotony of war-time work." The spirit of American women will be tested by their willingness to go into these unromantic but essential pursuits.</p>
+
+<p>"The canned-goods provision alone, for that army of a million and a half men
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Central News Photo Service</ab>
+<p>These women are helping solve the nation's labor problem by doing their share on the railroads.  All work is war work.</p>
+<figDesc></figDesc>
+</figure>
+
+that is to be in France by midsummer, is 524,000,000 pounds a year. Which woman can supply this food the better&#8212;the woman who puts up a score of cans of corn a day, say, in her own kitchen, or the trained cannery workers whose woman power produces a thousand cans a day?</p>
+
+<p>"It takes more than 300,000,000 yards of cloth to clothe, bed, and shelter an army of a million and a half men at the front for one year. In the cotton mills, centered so largely in the South and New England, in the woolen and worsted mills of Pennsylvania, Massachusetts, and Rhode Island, there are not far from 275,000 women trained in textile occupations.</p>
+
+<p>"Failure to use this trained woman labor will continue to strip the men we send to the front of the clothing and covering which all the eager war-working women outside the mills can not supply."</p>
+
+<p>Hundreds of thousands of women are working on other sorts of army equipment, from tent-pins to scientific instruments. They are making shoes by the million. They are making rivets for ships, and filling cores in foundries. They are making mosquito bar and gloves.</p>
+
+<p>Every woman among them is as necessary to the country as the man at the front.</p>
+
+
+</div1>
+
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19180622.p008" />
+
+<text type="fiction" xml:id="ernest.19180622">
+<body>
+<head type="main">THE SKY WITCH</head>
+
+<byline>By <persName type="author" key="#Ernest, Joseph">JOSEPH ERNEST</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#Todahl, O.">O. Todahl</persName></byline>
+
+<p>TRUE virtuoso of the air, Martel was amusing himself and edifying his pupils by performing the aviator's most difficult feat&#8212;cutting figures of eight a yard or two above the ground. Looping the loop, as he had explained to us on various occasions, is alphabetically simple in comparison. Just set your teeth and swing on your elevator, and over you go; only, as he was always careful to add, you have to be feeling very well in order to do it safely. Otherwise, you might keep on going over and over until something stops you. The air, according to Martel, is no place for bilious people.</p>
+
+<p>But the exercise in which he was now engaged required other qualities than an efficient liver, including an eye for distances such as few ever acquire, and a hand as delicate as Fritz Kreisler's. Only an old-timer like Martel would have dared to clip the very daisies with the pontoons of a seaplane. Equipped for landing on the water only, the slightest involuntary tremor of a finger or toe would have delivered him over to everlasting smash.</p>
+
+<p>Consequently, until we saw him safely over the waters of Long Island Sound once more, we stood on one foot and watched in a sort of horrid fascination. Even his dog, Diane, followed his every gyration with whimperings. Contrary to appearances, the water is not much more merciful than the land if you hit it at eighty miles an hour; but we shared Diane's obvious relief when Martel put the Sound beneath him.</p>
+
+<p>"That bird keeps you guessing," remarked one of his juvenile pupils, with unconscious figurative precision.</p>
+
+<p>From the cell-like entrance of the hangar, Martel's machine seemed to be a live thing swooping and wheeling in the evening light. When he finally headed for the landing place, his diaphanous wings were touched to a rosy gleam by the setting sun. It was one of those evenings of almost elfin beauty that you see sometimes on the Sound; and around the great waterplane both sky and water were so bathed in exquisite pale color that the very atmosphere appeared to be flecked with floating tints. Martel buzzed up to the water's edge like the fairy rider of a giant dragon-fly.</p>
+
+<p>His dog, a magnificent black Borzoi, leaped to her feet again as the vehement rip of his exhaust drew near. When at last it ceased, and he alighted at the water's edge with a perfection of skill that raised not an unnecessary ripple, she was the first to voice approval.</p>
+
+<p>She seemed to have an uncanny perception of what he was about. At the instant he cut out his motor, she leaped to meet him like an arrow from a bow. Her movements had the effortless swiftness that belongs only to creatures trained for many generations to the hunt. At one moment, it seemed, she was at our side; and before the next had passed she was leaping and fawning at the water's edge in an ecstasy of welcome.</p>
+
+<p>MARTEL left the plane to his mechanics, and approached us, flapping his arms to restore circulation; for he had soared high into the bitter cold that, even in the height of summer, abides always in the upper air. He re-moved his cushioned leather casquette and threw it forward cheerily, his jovial Gascon face bisected by a flashing grin. Diane retrieved the headgear as it touched the grass, and bore it with enthusiasm before him.</p>
+
+<p>"That dog is as much in love with the game as you are yourself," I said. "Did you ever take her up with you?"</p>
+
+<p>Martel lighted a cigarette in the gathering dusk, selected a point of vantage from which he could observe his mechanics, and seated himself gratefully on the warm turf. Diane ranged herself worshipfully at his feet.</p>
+
+<p>"By gracious!" said Martel. "Once I knew a dog&#8212;a long black dog like Diane, a wolf-hound. Two men she accompanied 
+
+<cb n="2" />
+
+as passenger, and what happened to them? <hi rend="italic">Pouf!</hi> No. I like Diane best on the ground, where she belongs!"</p>
+
+<p>Like nearly all the aviators of the heroic days, Martel did not attempt to conceal his superstitions. A jeweled figure "13" dangled from the lapel of his leather jacket, twinkling in the glow of his cigarette. He puffed in silence as the pupils drew expectantly nearer.</p>
+
+<p>"Well, what did happen to them, anyway?" I demanded.</p>
+
+<p>"Ah! As to her master, Gregoreff, I do not know; but I have my theory. Concerning the other, Munoz the Brazilian, I know only too well, because I saw and can not forget. We were flying neck and neck over the clouds, and I saw everything.</p>
+
+<p>"Listen! He was a huge brute, that Russian Gregoreff, but he was a man. By gracious, yes! He was the fifteenth man to loop the loop in all the world. No one knows who was the first. We say P&#233;goud;
+
+<figure n="illustration">
+<head></head>
+<p>"As I was in the act of sinking to sleep, the shutters opened, and in the dim square of the window there appeared the head of the Witch."</p>
+<figDesc></figDesc>
+</figure>
+
+but the Russians claim that it was Capitaine Nesterow of their army. Those who followed were all known, and this Gregoreff was certainly fifteenth, and the first at the flying school at Pau, where we were pupils at that time.</p>
+
+<p>"Those were the days, <hi rend="italic">mes enfants</hi>, when we still took our lives in our hands every time we went up. Sometimes the machines would fall to pieces in the air. It was no game then for boys,"&#8212;Martel smiled at the eager youthful faces of his pupils,&#8212;"but for desperate men, enthusiasts&#8212;seeking conquest or instant wealth.</p>
+
+<p>"But this looping, <hi rend="italic">ma foil</hi> It was a nightmare to some of us. Yes, I was among the number who feared to attempt
+
+<cb n="3" />
+
+it. Nowadays it is the easiest of our tricks. Nothing is required for it but impudence.</p>
+
+<p>"At that time, however, we did not know this. The world was ringing with the fame of P&#233;goud and Chanteloupe. We were professional aviators, and great fortunes were within our grasp as long as reputation lasted. As soon as one of us performed a new feat, the rest were compelled to follow or lose prestige, and prizes, and engagements. So that it was a bomb-shell that P&#233;goud threw into the flying camps.</p>
+
+<p>"We set to work to produce a special machine for the feat, fortified with extra braces; and as we labored on it we would eye each other sideways, nerving ourselves for the ordeal of the first plunge.</p>
+
+<p>"Pretty soon reports came in from the other schools that rivals had succeeded in the feat&#8212;two, four, a dozen. Gregoreff became excited.</p>
+
+<p>"'I will do it also!' he roared in his great voice&#8212;for he was a big, tawny man with a chest like a lion. But one of the instructors claimed the honor of the first attempt, and at the end of much talk we drew lots. Gregoreff, with a bellow of triumph, drew first place, and the little Brazilian Munoz was second. As for the rest&#8212;reflect a little and you will admit that we could not have been cowards: but some of us were relieved. By gracious, yes!</p>
+
+<p>"GREGOREFF had the habit of taking the hound with him on his flights.  Most of us had a mascot of some kind, and she was his charm against misfortune.  A creature of an intelligence invraisemblable, a great black silent dog that knew
+
+<cb n="4" />
+
+more than it seemed reasonable for a brute to know. She would occupy the passenger's seat in a biplane, or snuggle within the canvas-covered fuselage of the little monoplane that Gregoreff more particularly affected. And always she was the first to mount, quivering with eagerness for the flight.</p>
+
+<p>"I think Gregoreff was fond of her, though he was not always kind, and indeed treated her with a species of fierce caprice. Sometimes he would kick her roughly out of his way; sometimes he would lift her by the throat or fore paws, huge animal that she was, and hold her out at arm's length to prove to us that she was too well bred to whimper. And again he would fondle and caress her, crooning to her in Russian.</p>
+
+<p>"'She is a black witch!' he would say. 'She is La Sorciere des Airs!' And Witch of the Sky she became to all of us.</p>
+
+<p>"Her devotion to Gregoreff was pathetic&#8212;a blind worship, shameless and without reason. Her reply to blows and caresses was the same&#8212;to crawl upon her belly on the grass, begging permission to lick his boots. When he was not flying, her delight was to sit in his tiny single-seater and await his pleasure.</p>
+
+<p>"In those days we slept in little bunks at the side of the hangars: for we did most of our own tuning up when a man's life depended often on the tension of a single wire. "Thus, when Gregoreff started to train himself for his attempt, we were all present. He brought out the reinforced looping machine in the quiet dawn next morning, before the sun was hot enough to start the air-pockets, and the Witch took her place beside him in a single cat-like leap.</p>
+
+<p>"In a few minutes he was fifteen hundred feet above us&#8212;what a bagatelle to-day, name of a pipe! He gave himself up at once to the training stunts, sliding giddily sideways on one wing, dropping back on his tail and recovering, descending after each soaring flight in nose-dives that grew steeper and steeper, until they were absolutely perpendicular. Finally he reached the earth in a perfect 'S' dive, having described one of the curves almost upside down. Almost immediately he took the air again; and, after flying in circles for a breathless ten minutes, he launched himself into a beautiful loop.</p>
+
+<p>"We carried him on our shoulders to the hangars. But the Witch had to be dragged from the machine. She appeared to be almost deprived of reason, and cowered in a corner of Gregoreff's cubicle, refusing food. The next day, when he looped the loop not once but several times, the Witch for the first time re-fused to accompany him. She remained on the grounds, scampering aimlessly to and fro as she followed his gyrations, whining and shivering until he descended in safety.</p>
+
+<p>"Gregoreff grinned on dismounting, and said that looping was easier and more pleasant than waltzing.</p>
+
+<p>"'You, Munoz, are next,' he reminded the Brazilian. 'When will you try it&#8212;to-morrow, <hi rend="italic">hein</hi>?'</p>
+
+<p>"'Doubtlessly,' replied Munoz; but he did not do so.</p>
+
+<p>"Day after day went by, and almost daily the list of loopers received an addition from one camp or another all over France. But Munoz, he was always sick, or he had to go to Biarritz to see his girl, or he had failed to tune up the motor of the looping plane to his taste. The others became impatient, and Gregoreff did not allow him a moment's peace.</p>
+
+<p>"At last, one hot afternoon, we were sitting in the shade of the largest hangar, watching the poplars far across the flying ground as they swayed and quivered, and waiting for the flying hour, when the air-waves ceased at sundown.</p>
+
+<p>"Suddenly the voice of Munoz came to us from the interior.</p>
+
+<p>"'You wish to suggest, then,' he said, 'that I am afraid?' His voice was squeaky, like a cornered rat's.</p>
+
+<pb n="Page 9" xml:id="ew.issue.19180622.p009" />
+
+<p>"'The deduction is surely inevitable!' It was the hull voice of Gregoreff that responded. 'Allons! I will myself perform three loops this evening to prove to you that the motor is at the point of perfection!' And he laughed mockingly.</p>
+
+<p>"'I do not need your assurance,' said Munoz. 'Further, I have no words with which to qualify you!'</p>
+
+<p>"And when Gregoreff roared with laughter again,&#8212;but he was an animal, that Russian!&#8212;Munoz cursed him like a cat and left the hangar. We heard his footsteps rounding the corner of the building, and he appeared before us in the sunlight, sickly with passion under his olive skin. Gregoreff followed with heavy tread, jeering.</p>
+
+<p>"When he saw us, Munoz stopped short, with an exclamation. Clearly he had believed there were no witnesses to the Russian's insult. So also, to do him justice, had Gregoreff; for he did not desire any real injury to the little Brazilian. They both stared rather stupidly at us for a moment, patently embarrassed. The Witch fawned at her master's heels, held in a leash.</p>
+
+<p>"Munoz began to breathe hard. His pallor was such that he appeared almost blue under the eyes, and his mouth quivered as he faced us.</p>
+
+<p>"'You have heard,' he said, 'what this individual has just permitted himself to say to me?'</p>
+
+<p>"We could not, of course, deny it.</p>
+
+<p>"'Then be good enough to listen to what I say,' he went on. 'You, Gregoreff, are a swine, foul and without honor. I buffet you on your pig's mouth!'</p>
+
+<p>"And with his gauntlet he aimed a slap at the burly Russian's face. It never landed, because at the same instant the great white fangs of the Witch snapped within an inch of his throat, and the hound fell back to earth, half strangled by the leash that had spoiled her leap.</p>
+
+<p>"We precipitated ourselves upon them, and held them apart before any damage could be done; and in a moment a cold politeness descended and enwrapped the group.</p>
+
+<p>"'Messieurs, I beg that one of you will have the kindness to act for me,' said Munoz quietly. He seemed satisfied to have dealt with the matter so correctly. Oh, he was brave enough on the ground, whatever he may have been in the air. There- are many kinds of courage, mes gars, and I have known gallant aviators who dared not fly over water. For each man there is perhaps his appropriate element. But here was Munoz, who feared to take the first sickening somersault in the air, most infernally anxious to face the pistol of Gregoreff when he had both his feet on the ground.</p>
+
+<p>"But the Russian had not sought a quarrel; he wished only to amuse himself at the expense of the Brazilian; and he brushed the challenge aside with disdain.  'Species of a peddler!' he said. 'Do you think an officer of the Czar may fight with a huckster's son? You are not entitled, as you well know, to satisfaction at arms!'</p>
+
+<p>"We questioned Munoz. It was true, it seemed, as the Russian had said: he was the son of a manufacturer, and had no commission in the Brazilian army. Gregoreff, therefore, if he chose to do so, was within his rights in refusing to fight. This was evidently his position, for he turned to us and expressed the opinion that he should be allowed to kick Munoz for resenting the pleasantries of a gentleman.</p>
+
+<p>"So we bore him off to his hangar, laughing and cursing a little, with the Witch dragging on her leash and snarling her strangled hatred back at Munoz.</p>
+
+<p>"THAT same night a thing happened which I warn you that you will find it difficult to imagine: yet I give you my word I relate nothing but the facts.</p>
+
+<p>"Munoz and I, you know, slept in the same hangar in cubicles, between which was an unglazed window that gave light to a work-bench beneath. This window was closed by shutters. It happened that I slept badly that night, owing to the heat, and I left the shutters slightly ajar in order to catch the night breeze.</p>
+
+<cb n="2" />
+
+<p>"Picture to yourself that as I was in the act of sinking to sleep, the shutters opened wide, and in the dim square of the window there appeared the head of the Witch, her ears cocked and listening intently. As softly as a cat she leaped through, to remain a moment on the work-bench&#8212;again listening.</p>
+
+<p>"I remained perfectly motionless, and by an inspiration maintained the regular breathing of sleep. In the blackness of the hangar the hound's eyes glowed like rose-pink bulbs. Apparently she was satisfied; for, with a double bound of amazing swiftness and silence, she sprang from the bench to the ground, and from the ground into the cubicle of Munoz.</p>
+
+<p>"In a sense, it was ludicrous, for I knew he was not there. He had informed me that he would spend the night in Biarritz&#8212;probably to hide his mortification. I could have laughed aloud at the disappointment of the Witch, vainly worrying the tumbled heap of his bed-clothes.</p>
+
+<p>"Perhaps it is lucky that I did not laugh; for on her return she remained gazing at me for a long moment with those gleaming pink eye-balls, to assure herself that I slept. Then, just as swiftly and silently as she had come, she leaped out of the window. You know how Diane, here, would seem merely to wish herself from one place to another, so swift and clean are her movements? Well, the Witch was a much younger dog.</p>
+
+<p>"But this is the strangest part of the affair. Messieurs may not believe it, but I relate only the facts. After one final listening stare in my direction, standing on her long hind limbs at the window, she carefully closed the shutters behind her, not with her muzzle, but with her paws. By gracious, I recount nothing but exactitudes!</p>
+
+<p>"Another strange circumstance which to my mind is significant of much: Munoz could not have spent the night in Biarritz, for early that morning we were awakened by his cries, and rushed out just in time to rescue him from the Witch. <hi rend="italic">Ma foi!</hi> It was necessary to club her almost into insensibility!</p>
+
+<p>"She had waylaid him returning to the hangar in the dark, and his cheek was badly gashed by her fangs. He said that he had been detained in Pau, and was passing the hangar that housed the looping machine when she attacked him, having evidently lain in wait. It is nevertheless the fact that the road from the town to our hangar did not lie past the hangar of the looping machine.</p>
+
+<p>"BEHOLD now the sequel! I went in search of Gregoreff next day, to inform him of the nocturnal visit of the Witch and suggest that he should keep her under restraint. I found him in the center of a group on the flying field, messieurs&#8212;smashed and crumpled as if he had been shot from a gun, mercifully half hidden by the wreckage of the looping machine.</p>
+
+<p>"He had taken it out, they told me, with the announced intention of shaming Munoz. At the first somersault, two thousand feet in the air, the wings had collapsed like umbrellas in a gale. They asserted that they had heard him scream as he fell to the earth like a stone. Around us the Witch raced and leaped, demented by grief, every moment darting in among us to glance once again at the remains of Gregoreff's giant physique. When they
+
+<cb n="3" />
+
+<figure n="illustration">
+<head></head>
+<p>"High on her hind legs, her back arched like a steel spring, the Witch is upon him. With one hand Munoz steers, with the other vainly seeks to guard his face."</p>
+<figDesc></figDesc>
+</figure>
+
+bore him away, I caught her by the leash she trailed, and tied her up securely.</p>
+
+<p>"For days she was inconsolable. She spent hours at a time sitting in the little single-seat monoplane in which she had been wont to accompany Gregoreff on his flights, and whined interminably. Much to the disgust of Munoz, the director of the camp turned this machine over to him, as it was well adapted to be strengthened for looping. Always, before he could lay a finger upon the machine, the Brazilian was compelled to arm himself with a club and drive the Witch from the pilot's seat with blows. She would stand afar and regard him then, her teeth bared in a snarl. But she did not again attack him; for at night I saw to it that she was tied in my hangar. Munoz cursed me because I did not keep her there in the daytime also. I wished, later, that I had done so."</p>
+
+<p>MARTEL stopped, and reminiscently puffed his cigarette into a glow. The hound at his feet glanced uneasily round the circle of his hearers, whined lightly, and sought to lick his hand.</p>
+
+<p>"Down, my beautiful!" he commanded. "This does not concern thee, my little one. I relate to messieurs a story."</p>
+
+<p>The hound subsided, studying our faces in the dusk.</p>
+
+<p>"It was the day of the flight for the Puy de Dome prize," Martel resumed. "We had to alight on the mountain summit and return to camp&#8212;in those days a considerable feat. Aviators from all France were entered, as well as we of the camp of Pau. Going in the early morning to attend to the tuning of his machine, Munoz, as usual, found the Witch there before him. He drove her forth in frantic anger.</p>
+
+<p>"'If you do not send her away,' he swore, 'I will cut the brute in little pieces.'</p>
+
+<p>"I would have caught her, but she was too swift and wary, and time pressed. While we were at breakfast she disappeared.</p>
+
+<p>"As the light of dawn grew stronger, officials declared the departure. Munoz was third to ascend, and I followed a moment later. He circled a good deal, to avoid the trees fringing the flying-ground, and in consequence I overtook him rapidly. Together we soared into the clouds; and when we emerged above them I was a little behind him and several hundred feet higher, as I had climbed steeply.</p>
+
+<p>"It was a day I shall never forget, <hi rend="italic">messieurs</hi>, with the clean, bright sunlight on those fleecy cloud-waves, the pure bright blue of the sky above, the Pyrenees like alabaster rocks thrusting themselves through the billows far away on the horizon.</p>
+
+<cb n="4" />
+
+<p>"But it was not as a memory of beauty that it fixed itself in the mind; it was because of the thing that almost immediately happened to Munoz.</p>
+
+<p>"I was comparing the hard black shadows of our monoplanes as they raced almost neck and neck across the clouds below, and flattering myself that my motor was more an point than the Brazilian's. Suddenly I see that he swerves, and recovers, and swerves again as if in distress. Craning over my nacelle to watch him, I observe this happen several times. He is twisting and lurching in his seat.</p>
+
+<p>"Then there is a sudden violent commotion&#8212;and from the secret depths of his fuselage, struggling wildly with his right hand at her throat, there emerges the unmistakable lean black figure of the Witch!</p>
+
+<p>"For a second the monoplane, guided by his left hand, is violently agitated. Then, with a huge effort, he thrusts her over the side of his machine, pressing her back inch by inch, in spite of her frantic scrabbling.</p>
+
+<p>"I turn the nose of my machine downward in a sharp dive, though it is plain that I can do nothing to aid him. I cry out with relief as at last he succeeds in thrusting her over the edge of his nacelle. But I rejoice too soon; for she remains, crouching and balancing herself on the broad arched wing, out of his reach.</p>
+
+<p>"AH! If he had known, alas, how to loop the loop! He might have rid himself of her company in a second. But it occurred to him only to do sharp turns and twists, which, as you know, mes enfants, would defeat their object by what is called centrifugal force. The more sharply he banked and turned, the more securely the Witch hugged the upper surface of the great plane. Only once or twice she slipped an inch or so toward the tip of the wing.</p>
+
+<p>"I shout to him to dive, forgetting that in the roar of our motors he can not hear even a gun-shot. The wind of my descent distends my cheeks with tearing force; but still I dive and call vainly to him, and to the Witch. But the Witch, she never takes her eyes from his face.</p>
+
+<p>"And at last, just as I draw level with the other machine&#8212;so near that I can see the hound's lip curled in a snarl—she springs!</p>
+
+<p>"High on her hind legs, her back arched like a steel spring, she is upon him at last&#8212;striking downward with her great fangs as a wolf strikes. With one hand he steers, with the other vainly seeks to guard his face. Flying almost wing to wing with him, shrieking impotent threats at the Witch, I see a great gash open in the forehead and cheek of Munoz, blinding him with blood. As she strikes again he seizes
+
+<pb n="Page 10" xml:id="ew.issue.19180622.p010" />
+
+
+her once more by the throat. But this time he has completely lost his head. For a fatal moment he removes his other hand from the <hi rend="italic">cloche</hi>, and his monoplane strikes an air-hole.</p>
+
+<p>"The machine tips and slides sickeningly down, with man and hound locked and fighting&#8212;down into the white billows of the cloud-sea.</p>
+
+<p>"When I dived through the clouds, in my turn, the machine of Munoz was a fluttering speck far below, seeming no bigger than a handkerchief as it fluttered this way and that in its dizzy fall to earth. A moment, and it lay still on the border of a vineyard."</p>
+
+<p>MARTEL smoked again in silence, and Diane, stretched at his feet, yawned elaborately as if in protest. Her great
+white teeth rang together like a steel trap.</p>
+
+<p>"When it struck the ground," resumed Martel, "the monoplane burst its tank of
+
+<cb n="2" />
+
+essence and took fire. By the time I found a safe landing-place, and reached the spot with a few peasants collected on the way, there was no more any monoplane, no more any Munoz&#8212;only cinders!"</p>
+
+<p>"But the Witch?" we demanded.</p>
+
+<p>"Ah! The peasants came upon her, and brought her to me some hours later. They had found her wandering among the vines, a little singed and trailing a broken fore leg. You see, <hi rend="italic">mes enfants</hi>, she was on the plane when the machine hit the ground. It is so light, the wing! As you know, tissue stretched over a skeleton of elastic wood until the whole has the effect of a cushion. Thus she escaped. In those days, many of us saved ourselves by throwing ourselves out upon the wings in a fall. It is not a bad idea for you to remember now.</p>
+
+<p>"I did not tell you, by the way, that they found in the crank-case of Gregoreff's motor a steel bolt four inches long which did not belong to it. The bolt had worked
+
+<cb n="3" />
+
+into a position where it jammed the motor in mid-career; and a motor stopped dead at sixteen hundred revolutions is more lethal than a dynamite bomb. It was impossible to prove who put it there. But I knew&#8212;and so, <hi rend="italic">messieurs</hi>, did the Witch! By gracious, yes!"</p>
+
+<p>A MACHINIST carrying a lamp approached to consult Martel, who rose and accompanied the man in leisurely fashion to the great waterplane, lazily rocking itself at the water's edge. Diane, convinced in her canine fashion that every movement made by her master must be the prelude to some deed of surpassing interest and importance, leaped up at the same instant, and raced around him in wide enthusiastic circles.</p>
+
+<p>A sudden impulse moved me to lean forward, as she passed me in her gyrations, and to whisper very distinctly: "<hi rend="italic">Viens, la Sorciere!</hi>"</p>
+
+<cb n="4" />
+
+<p>She dropped as if I had shot her, and crawled forward, cringing. I slipped a hand carefully over her collar and passed it down the long fore legs. Just above one of the middle joints was the hard knot of an old fracture.</p>
+
+<p>The hound whimpered a little, backing with deprecatory movements into the interior of the hangar. From the blackness her eyes looked out at me with the pink fire of opals, and the whimper changed to a snarl. I got up and followed Martel. Of course, there was nothing to fear from the dog; I was merely interested in water-planes.</p>
+
+<p>"So you see, <hi rend="italic">mes enfants</hi>," concluded Martel, when we rejoined his pupils at the door of the hangar, "as a matter of sentiment I do not take Diane into the air with me. She is a good dog, a very excellent dog&#8212;but the place for a dog is on the ground. Is it not so?"</p>
+
+<p>I had not the least doubt that it was.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="science.19180622">
+<body>
+<head type="main">FIVE MINUTES OF SCIENCE</head><byline>&#8212;By <persName type="author" key="#Kaempffert, Waldemar">WALDEMAR KAEMPFFERT</persName></byline>
+
+<div1>
+<head type="main">He Carries a Stove in His Pocket</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Underwood &amp; Underwood</ab>
+<p>In his electrically heated clothes, the fighting airman is comfortable even in the intense cold of the upper air. Perhaps some day we may all carry a stove in our pocket.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>TWENTY thousand feet above the earth&#8212;where duelists in swift, wasplike flying machines loop the loop, slip down side-ways, fly upside down, and drop a sickening half mile tail first, in that ceaseless jockeying for position which accompanies every combat in the sky&#8212;it is as cold as Greenland, even in summer. And so the men who vault into the air and court death above the clouds are clad much like the members of a North Pole expedition. But even furs and sheep's wool can not prevent the finger that pulls a machine-gun trigger and the foot that aids in guiding the machine from becoming numb to the marrow. An unidentified Italian genius with an imagination suggested the use of electrically heated clothes.  Electrically toasted, as it were, the air-men of all sides now ride the bitter cold blasts of great heights, and squirt death from machine-guns, feeling about as physically comfortable as if they were seated in a steam-heated library.</p>
+
+<p>The wiring in an aviator's suit, gloves, and shoes is connected with a little dynamo or storage battery. Since there is some possibility of being broiled by over-heated wires even at heights where the temperature is thirty degrees below zero, an automatic heat regulator is provided to cut off the current when a critical point is reached. The regulator is nothing but a thermostat like that used in incubators to prevent the temperature from rising above a safe hatching point.</p>
+
+<p>Doesn't this make you wonder whether all of us may not wear electrically heated clothes some day? Suppose that a very light, compact, cheap battery could be made for the pocket. Why shouldn't you be able to walk around in a howling wintry gale, in a thin, electrically heated summer suit of silk? And the arctic explorer of the future&#8212;why may he not tread the ice and snow that Peary covered in heavy skins, in stout electrically heated boots and tennis flannels?</p>
+</div1>
+
+<div1>
+<head type="sub">Electric Watch-Dogs for Movie Managers</head>
+
+<p>ONE of New York's biggest motion-picture theater managers picks up his telephone and asks to be connected with the operator of the projection machine.</p>
+
+<p>"What's the matter with you? Trying to get home ahead of time? Slow up! You're running too fast."</p>
+
+<p>How did the manager know that the film was racing through the machine at a rate that ruined the dramatic action of a tearful film drama? Simply by reading a meter above his desk&#8212;a modification of an automobile speedometer, connected electrically with the projection machine.</p>
+
+<p>Nor is the leader of the orchestra immune from censure. A loud-speaking telephone&#8212;a dictagraph of the type used by Detective William J. Burns in his work&#8212;enables the manager to project his ears, as it were, into the auditorium. By throwing a switch he can hear how the soloist's rendering of "Darling, I Am Growing Old" is received by the audience, and how the orchestra is dealing with the overture to "William Tell"&#8212;all without leaving his office chair.</p>
+</div1>
+
+<div1>
+<head type="sub">Nailing Down the Slacker</head>
+
+<p>EVEN after he has been drafted and drilled in a training camp, the slacker continues to slack. If he could muster up only a fraction of the courage that he displays in trying to render himself unfit for military service, he would put Godfrey of Bouillon and all other paragons of knightly valor to shame. Consider these facts, reported by examining physicians at the various camps, and then tell us whether or not we are right in thinking that somebody must have thrown a bolt into the slacker's mental machinery:</p>
+
+<p>He has been known to allow a railway car to amputate fingers from his right hand.</p>
+
+<p>He has shot himself with his own rifle in order to secure a discharge.</p>
+
+<p>He will swallow picric acid in order to simulate a case of jaundice and incidentally annihilate his digestion.</p>
+
+<p>He will raise boils by injecting gasoline under his skin.</p>
+
+<p>He will have all his teeth extracted.</p>
+
+<p>He will place castor-oil seeds, lime, even acids, under his eyelids, in order to make the oculists believe that he is suffering from an incurable disease of the eye.</p>
+
+<p>He will produce acute tonsillitis by gargling with an irritating solution.</p>
+</div1>
+
+<div1>
+<head type="sub">When Bad Air is Not Bad</head>
+
+<p>FOR more than four years a staff of scientific investigators under the direction of Mr. George T. Palmer has been finding out, on behalf of the New York State Commission on Ventilation, just what a human being needs in the way of fresh air. They actually paid people regular salaries to stay for days at a time in an experiment chamber that could be heated by steam, or chilled by refrigerating coils, or made humid with moisture-producing apparatus. More than two hundred and fifty different people&#8212;men and women, bookkeepers, typists, truck-drivers, mechanics, firemen, strong boys, and weak girls&#8212;wrote down how they felt as the temperature, the moisture, and the air supply were juggled. Their physical work was carefully measured with exact instruments.</p>
+
+<p>What was the good of all this? Don't we all know that we must have fresh air?</p>
+
+<p>First of all, the investigation showed that we have queer notions on the subject of ventilation. The startling discovery was made that fresh air is not nearly so important a factor as we suppose, provided that the room in which we work is kept cool. It was impossible to note any reduction in quantity or quality of mental work, physical well being, happiness, and comfort even when a strong truck-driver spent six days in a room with tightly closed windows and openings. People did not eat quite so much. under these unfavorable circumstances: that was the only effect observed when the air was exceedingly foul but cool.</p>
+
+<p>This does not mean that the tenement-house owners and factory proprietors are to throw up their hats in joy. Over-heat a room but slightly, which means an increase of temperature from sixty-eight to seventy-five degrees, and ill effects are produced. The experiments prove merely that chemical purity of air is not nearly so important a factor in ventilation as coolness. Indeed, the investigations showed that the finest country air is chemically not much purer than the cool indoor air of winter. When we demand "fresh" air, we mean cool air.</p>
+</div1>
+
+<div1>
+<head type="sub">Talk and It Writes</head>
+
+<p>A HUNDRED years hence a business man will sit down in front of a machine, and say:</p>
+
+<quote>
+<p>Dear Sir: Your favor of the 15th has been received. The goods ordered&#8212;</p>
+</quote>
+
+<p><hi rend="italic">And the machine will write!</hi></p>
+
+<p>Think of it. No stenographer, no typist&#8212;nothing to set the mechanism in operation but the spoken words.</p>
+
+<p>This is no Jules Verne&#8212;H. G. Wells dream, but the conception of a brilliant electrical engineer, Mr. John B. Flowers, whose name ought to be better known than it is. Financed by a great typewriter company, Mr. Flowers has been conducting a series of astonishing investigations, which, if they are continued, will some day culminate in the voice typewriter.</p>
+
+<p>In the first place, he had to study the mechanism of speech. You may think that unnecessary. Don't physiologists, singing teachers, elocutionists, and throat specialists know all about the voice? Flowers discovered that they didn't know how people talk, despite all their pretensions. He had to study the whole complicated process of saying such simple things as "boat," "candy," and "cigar." Remember that he is dealing, not with words as you see them printed on this page, but with spoken words, with sound waves, with invisible pulsations of the air sent from a mouth to your ear.</p>
+
+<p>What did he discover? That a set of natural letter patterns in sound exist&#8212;that you mold air whenever you talk.</p>
+
+<p>This settled, the next process was to write the letter patterns; and that is exactly what Flowers has done. Don't imagine that Flowers's machine writes English according to Webster. It writes a word only as it is spoken, not as it is printed. One can't expect any combination of levers, wires, and links to spell like a dictionary. It drives a foreigner to distraction to discover that "tough" is not spelled "tuff," and that "stuff" is not spelled "stough." All that Flowers's machine does, then, is to record sound patterns. They look like the curls and twists of a stenographer's notes. To Flowers's practised eye they are intelligible at once.</p>
+
+<p>Of course you will say that, because the machine will not spell "Wednesday" in cold type exactly as it is printed, you won't have it in your office. That isn't the point at all. The marvelous thing is that a machine has been invented which actually writes what you say&#8212;a beginning that may ultimately culminate in the realization of the business man one hundred years hence pictured in the opening paragraph.</p>
+</div1>
+
+<div1>
+<head type="sub">Do Moles Have Eyes?</head>
+
+<p>EVERY time a mole is dug up, the argument about whether mols have eyes comes up with them. So Professor Slonaker devoted a number of years to finding out all about it, and he says they have. Not only that, but they can see a little&#8212;just about enough to distinguish between daylight and dark. The professor found the mole's eyes only after pushing aside the fur on its face and dissecting through the flesh. He came upon them&#8212;tiny black dots far down on either side of the little creature's nose, dwarfed and disappearing from disuse.</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19180622.p011" />
+
+<text type="photograph" xml:id="home.19180622">
+<body>
+
+<figure n="illustration">
+<head>HOME</head>
+<ab type="credit">&#8212;Drawn for <hi rend="italic">Every Week</hi> by <persName type="illustrator" key="#Taylor, Walter F.">F. WALTER TAYLOR</persName></ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19180622.p012" />
+
+<text type="photograph" xml:id="suffragists.19180622">
+<body>
+<head type="main">WHAT BECOMES OF SUFFRAGISTS?</head>
+
+<figure n="photograph">
+<head></head>
+<p>IN all the long list of strange things that the Antis said would happen when women got the vote, we fail to find the occupation of plumbing mentioned. But&#8212;here, readers, meet Helen Griffiths, Pluperfect Plumber of the Woman's Overseas Unit. Besides doing suffrage work, Mrs. Griffiths has been a painter, a sculptor, and an actress. "I've never built a house so far," confesses this efficient lady, "but I have a very clear idea how it should be done."</p>
+<ab type="credit">Photograph by Gertrude A. Brugman</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"KIND gentlemen, please give us the vote," is not being said by the decorative young person to the right, who is Mary Newcome, now playing in "Sick-a-Bed" right on Broadway. Not so long ago, in simple blue serge, she was playing one-night suffrage stands up State. "How did you happen to change your career from 'Votes for Women' to acting?" we queried, in the subtle way of interviewers. "Robert Edeson told me I looked like a good stage type, so I decided I'd be one."</p>
+<ab type="credit">Photograph by White Studio</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; International Film Service</ab>
+<p>WE aren't at all sure that Helen Taft has ever graced a soap-box or handed out a single yellow leaflet; but she did something for suffrage by declaring herself for equal rights when her mother, the first lady of the land,&#8212;not to mention her papa, the President,&#8212;was busy giving aid and comfort to the antis. Winters Miss Taft is Dean of Bryn Mawr&#8212;the youngest dean in the country. Summers she is a farmerette out in Westchester County. We wish to assure farmers who are thinking of employing women as laborers for the summer that this picture was taken in the noon hour.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>NO, the young lady is not the stenographer for the gentlemen in the foreground. On the contrary, they and the fifty or so others in the picture receive their weekly wages from her. Not for nothing was Beatrice Brown business manager of a suffrage publication. She is now owner and manager of a multigraphing establishment in New York. It is easy to see that the sheepish gentleman in his shirt-sleeves voted "No" in a recent election.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<pb n="Page 13" xml:id="ew.issue.19180622.p013" />
+
+<figure n="photograph">
+<head></head>
+<p>WE have been led to understand, during the long struggle for equal suffrage, that all womanly charms and tender motives belong solely to the clinging anti-suff. How inconsistent to find that the Woman's Overseas Hospital Unit is being financially backed by the National Woman Suffrage Association. Its doctors, nurses, mechanicians &#8212;all are women and suffragists. Dr. Alice Gregory, one of the chief surgeons of the unit, is a specialist in so many "ics" and "ologies" that it's a pleasure to find that she has such a kind face.</p>
+<ab type="credit">Photograph by Gertrude A. Brugnian</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>HAVING collected enough votes to make sure that the New York State Suffrage Amendment would pass, Jane Thomson stepped from the soap-box to Wall Street and began selling bonds to ladies. There she discovered the deplorable fact that to the female of the species an unsafe 10 per cent investment looks better than a safe and sane 4 1/2 per cent. "Women need financial education," said Miss Thomson, and promptly got on the Liberty Loan Committee and became one of the educational experts.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE complicated statistics that drop lightly from the of Congresswoman Rankin were probably dauntlessly pursued by the young lady shown herewith, one Belle Fligelman, erstwhile of Helena, Montana, and now Miss Rankin's secretary. During the Montana campaign Miss Fligelman was a reporter. "My real work is writing the world's best literature," she modestly announces; "but New York didn't appreciate me&#8212;I once spent four months there looking for a job." Our dear lady, the world series must have been going on the day you came to our office.</p>
+<ab type="credit">&#169;Harris &amp; Ewing</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THIS picture might be entitled "Off for the Matinee" if it were not Miss Helen McCormick on her way to her job, which may be briefly described in seven words: Deputy Assistant District Attorney of Kings County. Miss McCormick used to be a suffrage worker, and in her odd moments became a B. S., also an LL. B. "My work," says the D. A. D. A. of K.C., "is hearing all the complaints and cases concerning women and children." How much interesting data she must be collecting for an essay on "Home&#8212;Woman's Place."</p>
+<ab type="credit">Photograph by International Film Service, Inc.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>AFTER all, Everett P. Wheeler and the New York Times may have been right: "As soon as women get the vote they will run for all the offices." Behold Anne Martin brazenly talking to a politician right on the front porch of the Capitol. And that isn't the half of it. This lady is the first candidate of her sex for the United States Senate. "Governor Anne" she was called in Nevada when she shoved the suffrage amendment right through the opposition of both political parties. She holds medals for tennis, golf, mountain-climbing, and&#8212;hush!&#8212;for picketing the White House and going to jail.</p>
+<ab type="credit">&#169;Harris &amp; Ewing</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>MISS MARIE SMITH, approaching us center foreground, has not been arrested for picketing, as the iron fence might suggest. She did her suffrage campaigning before picketing became a favorite out-door sport. The correct answer to formulate when you see Miss Smith coming to-day is not, "No, madam; I believe politics is a man's job," because her harmless errand is selling insurance. We have it straight that Miss Smith belongs to the Equitable Assurance Century Club, the modest qualification for which is selling $100,000 worth of insurance in a year.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19180622.p014" />
+
+<text type="photograph" xml:id="glass.19180622">
+<body>
+<head type="main">THROUGH THE LOOKING-GLASS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>INTERIOR desecrators tell us that the mirror is the most important furnishing of the home. And the shaving mirror in the bath-room is not sufficient. A large mirror placed thus in the hall will enable sister Mary (without seeming snoopy) to observe that young Lieutenant kissing sister Jane good-by.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Artcraft Pictures; &#169; Hartsook</ab>
+<p>GLASS mirrors were labeled "Made in Venice" in the sixteenth century, and there was such a demand for them that the canny Venetians formed the Mirror Mfg. Co., Inc. As there was no Mr. Sherman to restrain them, it was a great success. If a glass-maker tried to sell the secret of his art in France, he was told to come home or his nearest relatives would be imprisoned. If this did not seem important and he stayed on, he was promptly killed. In these days it's easy enough to get mirrors in any country; but to get an image like this of Miss Geraldine Farrar is another matter.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Goldwyn Picture</ab>
+<p>A KIND friend warned Narcissus that if ever he looked at his own image he would die; and, as mirrors had not then been invented, N. seemed slated for a long and prosperous life. But he saw himself one day in a spring, fell in love with himself, and pined away and died. In spite of this warning, everybody wanted to see themselves, and began polishing up odd bits of brass and bronze.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IT used to be quite respectable to look admiringly in mirrors right before folks. Kings didn't think anything about it&#8212;and no medieval lady would be seen without her carved mirror attached to her girdle. Nowadays it's all a fellow can do to get a look in a shop-window or a slot-machine in the subway. And if he's caught he has to explain that he got something in his eye.</p>
+<ab type="credit">&#169; E. O. Hoppe.</ab>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19180622.p015" />
+
+<text type="fiction" xml:id="colton.19180622">
+<body>
+<head type="main">THE GREAT</head><byline>&#8212;By <persName type="author" key="#Coulton, John">JOHN COULTON</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"'We are all there, Mr. Pettit, Luella, and me, in the upper left-hand box.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<p>ON the night before Christmas, Ruli-Ruli, the prima donna, "cleaning up" on a third farewell concert tour of the hinterlands, found herself in the town of Sauk Center, which is somewhere on the map of Ohio. I doubt that she knew the name of the town. Sauk Center or another place, what difference did it make? Her business was to sing; her manager's to arrange the stops.</p>
+
+<p>The tour was not going so well as that first farewell, half a dozen years before; but that also was a matter of little moment to Ruli-Ruli just then. She had her guaranty; her lawyers had seen to that. If loss there were, it would be her manager's. He was a detestable individual, anyway, that Jew. If he were out of pocket when the tour ended, so much the better. It was no concern of hers. She was falling back upon technique as much as possible these days, anyway. Her peasant shrewdness, a remnant from her early years, told her that she had all but cooked the goose that laid the golden eggs of farewell tours, in any case.</p>
+
+<p>"Zut!" she exclaimed, as she hustled out of her hack and up the alley of the "opera house" to her dressing room.</p>
+
+<p>The next day being Christmas, she would not have to sing; bless <hi rend="italic">le bon Dieu</hi> for that. They were going to "lay over" in this unspeakable town before going on to another unspeakable town. But what of it? As she thought of the morrow, the bold black eyes of Ruli-Ruli softened and she looked quite young.</p>
+
+<p>Her Paul would arrive on the morning train from New York to spend the holiday with her. She had not seen him since September, her gay, delicious, intoxicating, adorable Paul! The thought of her young husband brought to the sallow cheeks of Ruli-Ruli a faint flush.</p>
+
+<p>It was unfortunate, she reflected, that the hotel was so <hi rend="italic">b&#234;te</hi>&#8212;so <hi rend="italic">incroyablement b&#234;te</hi>; but, what with the little oil-stove she had secured and the hamper of delicacies she had ordered by express, she would manage for him with her own hands. What a lark&#8212;"making dinner" for Paul herself, as if she were a <hi rend="italic">Mimi</hi> and he an <hi rend="italic">Alfredo</hi>. A game pie-first, then turtle &#224; la Milan, likewise mushrooms, endive, strawberries, a cream tart, and champagne&#8212;Ruli-Ruli enumerated the items of her menu delightedly on her fingers. Later she would sing to him, those little private songs of hers he loved; and he would tell her that he loved her.</p>
+
+<p>SHE came on the stage a bit wearily, as was her custom, smiling the set, immobile smile of the diva, and cleared her throat for the febrile "Habanera." The flush of dawn has its own beauty; there is also a softened splendor to autumn high noon. This Ruli-Ruli had.</p>
+
+<p>She took in her audience greedily before she sang. This was habit: a swift, exhaustive glance accomplished it. And Immediately she was defensive. It was a
+
+<cb n="2" />
+
+poor, scattered house, and what memories of other nights it conjured up! Laurel leaves and kings and queens; <hi rend="italic">hochgeboren princessen</hi> blowing kisses, serene highnesses crying <hi rend="italic">bravas</hi>; the mist and swim of great audiences. Well, life is life. One must learn to take it as it comes. The business at hand was to get through to-night with the minimum expenditure of labor. To-morrow was Christmas&#8212;Paul's and hers. She began the "Habanera."</p>
+
+<p>I have it on authority that the Sauk Center critics lamented next day that the great Ruli-Ruli voice was beginning to show the jars and jolts of time. Perhaps. For all that, she sang the "Habanera" as no one else has ever sung it. Many of the same sable notes were there that had wound themselves around her famous projection of Carmen two decades ago.</p>
+
+<p>It was this Carmen of Ruli-Ruli's, you will remember, that an excellent British queen forbade her court to hear, that French poets inscribed into poesy galore, that the world went wild over in the gentle early '90's, when she sang first the cigarette girl of wicked fate. She swaggered in the role so impertinently, she sang it so like one possessed that the world rolled over. Stately and sad and wise, Ruli-Ruli now sang Carmen to Sauk Center, and there was applause, but not too much applause.</p>
+
+<p>Ruli-Ruli then went back to change for her second series of numbers, a group of ballads by Gounod, Massenet, and Saint-Saens. She shivered as she walked through the wintry wings. The thought of the morrow warmed her, however, like old wine. For a little while then she would forget the bleakness, the weariness, the dreariness, and worst of all the nauseating, terrifying, corrosive, ghostly loneliness of this interminable peregrination through the Sauk Centers of this mad, strange land, the manners, habits, and customs of which, despite ten visits, she could never accustom herself to. People dwelt in these Sauk Center places; she knew that, for they came to hear her. But she had never met any.</p>
+
+<p>TWO envelops lay on her dressing-table, one a telegram, the other a pink linen inclosure indorsed in what the writer perhaps hoped was a genteel scrawl. The latter smelt of lilies-of-the-valley, and Ruli-Ruli wrinkled her nose in disgust.</p>
+
+<p>She opened the telegram first. Used as she was to telegrams, her fingers trembled a little as she tore the flap. Meanwhile she signified to the gaunt woman who maided her&#8212;an attach&#233; of the local theater whom she would later reward with two dollars&#8212;that she would wear the green frock net. She was traveling light on this "clean-up": no maid, no extras. Her debts were as the Atlantic Ocean, and Paul&#8212;well, Paul the adorable was an expensive luxury.</p>
+
+<p>The telegram was from him, as she instinctively knew it would be&#8212;as she had as instinctively prayed it would not be. Some jolly fellows that he knew had opened up a lodge in the Adirondacks for the holidays. They had invited him. It was going to be a no-end good party. His darling Rosa would not mind, would she, if he did not go 'way out to Sauk Center, wherever the deuce the place was? He would think of her, of course, every moment Christmas day, and every moment, for that matter, until she returned. And, by the way, would she telegraph him a few hundreds? He was a little short.</p>
+
+<p>"It was collect, ma'am," murmured the gaunt one; "I paid it."</p>
+
+<p>Mechanically Ruli-Ruli found her purse; then she sat down a little helplessly. One slow tear rolled out of a painted eye and splashed across the beautiful peachblow tinting of her cheeks. She
+
+<cb n="3" />
+
+looked about her somewhat crazily. Tomorrow&#8212;that long, long day—to-morrow she would be alone. Paul would not be there.</p>
+
+<p>She half rose in impotent panic. Already she saw the clock circle its desolate half hours in that awful hotel room. For weeks&#8212;often when this loneliness had merged into a sort of phantom-haunted terror&#8212;the thought of Christmas and Paul had buoyed her up.</p>
+
+<p>It came over her suddenly that she could not face the morrow. She would run out on to that stage now, and scream to those people that they should go home. She would break her contract; she would tell the Jew manager to go to the devil. To-morrow! No; she could not face it&#8212;she would go mad. But the debts&#8212;and the "few hundreds" to Paul. Ruli-Ruli gave a little moan and fell into harness again as the orchestra started up. She nodded to the gaunt maid to get her frock.</p>
+
+<p>While the woman was hooking her into it, she picked up the pink envelop and sniffed it again in contempt, breaking the seal listlessly. It was from one who signed herself, in all dignity, "A sincere admirer, Mrs. Elam T. Pettit."</p>
+
+<quote>
+
+<p>We have all longed so to know you and tell you how we love you [wrote this Mrs. Elam T. Pettit innocently]. My daughter Luella heard you in New York when she was studying voice culture, and she just can't talk of anything else. Now, Madam Ruli-Ruli, we hear that you are going to spend Christmas in our little city, right in our midst! Luella said, "Oh mama, if she would only come and have dinner with us!" and I said, "Why not? I will write her this minute." So herewith. If you will come, Madam Ruli-Ruli, please signify acceptance by nodding at us a couple of times. We are all there, Mr. Pettit, Luella, and me, in the upper left-hand box.</p>
+
+<p>P. S. We have every phonograph record you ever made. Perhaps you would enjoy hearing them?</p>
+</quote>
+
+<p>Ruli-Ruli flung the note from her into the farther corner of the room. Her laughter was hard and nasty. The impertinence of it&#8212;the outrageous impertinence of it. Whom did those wretches imagine they were writing to? Mrs. Elam T. Pettit, indeed! What a name! What people! What madness! What barbarity! To her&#8212;she who had sat at feasts with kings! She began to sob hoarsely, in nervousness, in disappointment, in anger; in loneliness, in terror.</p>
+
+<p>The gaunt maid watched her inscrutably. She was used to the great. They came and they went. Queer folk!</p>
+
+<p>Ruli-Ruli strode angrily on to the stage for her second group of songs. Shaken by the consciousness that she was singing very badly, she did not regain her voice until the last number in the group, Gounod's "Ave Maria." Already the thought of
+the morrow, the morrow with its monstrous emptiness, had seized her like the fangs of a vicious brute. But to-morrow was only to-morrow. A thousand to-morrows stretched before her, as mocking and empty as this next one. With the last wailing Gounod chord, she averted her eyes from the box in which sat that odious family, waiting to incorporate her in their grisly Christmas feast, and ran from the stage, refusing encores. Oh, that she might lay her head on some one's breast&#8212;any one's (not Paul's, he hated tears)&#8212;and weep and weep and weep!</p>
+
+<p>She dressed hastily for the third and last group, a quaint collection of <hi rend="italic">rondeaux</hi>, <hi rend="italic">madrigales</hi>, and <hi rend="italic">chantants</hi> paysants from the beloved wine country, lovely things, some of them centuries old, which she had been collecting, with infinite discrimination and patience, these many years. Pearls before swine, she thought, bitterly; but, <hi rend="italic">n'importe</hi>, she was paid to do it.</p>
+
+<p>One more song and she could go. Where? She lost a note as the specter of the Palace Hotel, American plan, rose before her.
+
+<cb n="4" />
+
+For a heart-beat her voice broke; then she went on singing.</p>
+
+<p>There was something not ungallant about her as she stood there, erect in her purple and saffron hangings, her strange brunette face with its highly tinted cheek-bones turned away from the view direct, her smoldering, embellished eyes lifted aloft like three-cornered disks done in black, her red lips curved in a crescent smile. Truly there are many stars but few planets, many singers but few artists. The listeners forgot the uncertain pitch, the groping top note of Ruli-Ruli in the sheer pictorial assault of her.</p>
+
+<p>She came back several times in answer to the hand-claps. People were already struggling into their wraps and hailing their neighbors; some had reached the exits. But Ruli-Ruli lingered inexplicably in the warmth of the foot-lights. It was almost as if she were afraid to move away&#8212;as if she clung to the emptying house in human need.</p>
+
+<p>ALL at once she gave a funny little shiver, choked back something like a sob, and began to hack off, bowing mechanically&#8212;her remotely desolate eyes still averted from the Pettits in their box. They were watching her, tremulously, wistfully eager&#8212;Mama Pettit with her
+
+<figure n="illustration">
+<head></head>
+<p>"Ruli-Ruli tried to draw away from the love shining down on her, but she could not do it. She kissed her hand to them."</p>
+<figDesc></figDesc>
+</figure>
+
+snub nose and pince-nez, noon-faced Luella, and Papa Pettit, watch-chained and side-whiskered.</p>
+
+<p>Just before Ruli-Ruli disappeared from view, Luella gave a little low moan of disappointment, and the diva inadvertently met the gaze of Mama Pettit. Desperately Ruli-Ruli tried to draw away from the love and gentleness she saw shining down upon her; but she could not do it. She saw warmth as well as love and gentleness in the eyes of Mama Pettit, and she was famished for all three. So she gave back three little wan nods, and then, as if repenting of her ungraciousness, she kissed her hands to them. After which she trailed back to her dressing-room, half ashamed and a little glad.</p>
+
+<p>She wondered, as the gaunt maid undressed her, why the terror of to-morrow had quite left her.</p>
+
+
+</body>
+</text>
+
+
+
+<pb n="Page 16" xml:id="ew.issue.19180622.p016" />
+
+<text type="nonfiction" xml:id="corcoran.19180622">
+<body>
+
+<head type="main">DROPPING "PINEAPPLES" ON THE GERMANS</head>
+
+<byline>By <persName type="author" key="#Corcoran, A.P.">CAPTAIN A. P. CORCORAN</persName></byline>
+
+<p>IT is a romantic word, "grenadier," savoring vaguely of the sixteenth century. Why have we revived his almost lost art? How does he practise in the business of killing? The answer to the first is that we have revived trench warfare. The answer to the second is not so simple.</p>
+
+<p>Let me tell you how a bomb is thrown.</p>
+
+<p>To begin with, the grenadier is usually aiming at an unseen object. He has to drop bombs out of the sky, so to speak, into the enemy's trench, hoping that some one will be within the danger zone of explosion. Now, suppose he is using a Mills &#8212;a "pineapple," as it is popularly called. His first motion is to stoop, pick the bomb up in the right hand, incidentally drawing out the pin that keeps the lever in place. He allows the bomb to lie in the palm of his hand, the fingers still keeping the lever from making the contact. His body is slightly sidewise. His right arm is stretched out behind. This he swings over his head, releasing the bomb at the top of the swing.</p>
+
+<p>If he drops the bomb short, he is liable to kill his own men. If he throws it too far, it may fall harmlessly outside the Boche trench. He has to drop it exactly right, and he has to drop it incessantly. Thirty-five to the minute is the average of an expert. Try that, putting the speed into it that the base-bailer uses, and accept my sympathy for the condition of your shoulder-blade. I have known men to keep this up for hours, until they almost dropped from exhaustion where they stood.</p>
+
+<p>Bombing directly from a trench, however, is not quite so common as people think. For, to bomb, one has to stand erect and stretch out one's arms; and to do that in broad daylight, in full view of the enemy, is nothing short of <hi rend="italic">felo de se</hi>. The chief use of the bomb is in the raiding parties at night. Their disposition is this:</p>
+
+<p>The parties are divided into squads consisting of eight men, who advance in single file. The first two men carry rifles and bayonets; the third is a bomb-thrower; the fourth an ammunition-carrier; the fifth is leader of the squad. The sixth again is a bomb-thrower, and the seventh an ammunition-carrier. The last man carries rifle and bayonet. Before them have gone scouts, so that their energies may not be wasted.</p>
+
+<p>"Four yards to the left, clean!" calls a scout. And the bombers begin.</p>
+
+<p>"Results!" shouts the scout.</p>
+
+<p>And the men rush forward to see whether the slate&#8212;or sheet, if you like&#8212;has been wiped clean. If they find a dug-out in the trench, in which the enemy have taken refuge, they throw a grenade and depart.</p>
+
+<p>"Divide that between you," said one humorous bomber.</p>
+
+<p>But, as you might imagine, the bomber's art is extremely dangerous. It is disastrously easy for the bomb to become a boomerang. For instance, there was a party once advancing over No Man's Land. One grenadier was carrying his implements in a bag slung on his shoulder. He was hit. He blew to pieces. So did four men near him.</p>
+
+<p>Again, there was a bomber who had been plying his trade for hours. His arm was almost stiff, and when he sent one bomb over, it fell without his seeing it on the edge of his own trench. It was a time-fuse, and after a while it dropped back again near the thrower. He saw it in time. He put his foot on it. It exploded, blew off his foot, and threw him on top of his companions. He got a V. C. and a crutch.</p>
+
+<p>Again, this time-fuse bomb is very
+
+<figure n="illustration">
+<head></head>
+<p>Throwing bombs demands the combined talent of a baseball and a cricket player, with a tremendous amount of endurance added. A man must puck up a bomb, loosen the pin that holds the lever, whirl it over his head and release it at exactly the right second&#8212;and keep it up.</p>
+<figDesc></figDesc>
+</figure>
+
+treacherous to the unwary. The thrower himself has to light the fuse. The bomb is smoking before it leaves his hand. If he swings too soon, it may reach the enemy just in time to enable them to throw it back and kill him. If he throws too late, he will never throw another.</p>
+
+<p>As to the composition of this dangerous little weapon&#8212;it is so simple that many have declared it would be much safer to send the soldiers the explosives and let them make the grenades themselves. It is no more or less, of course, than a miniature high explosive. The body is of steel or cast-iron. The charge is T. N. T., lyddite, or some other explosive. There is then a detonator fired by a fuse, arranged to fire only on impact.</p>
+
+<p>Some bombs are so constructed that they will not explode until they have traveled some distance through the air. The Hale, for example, has to go at least forty feet before it will go of which, of course, obviates the danger of premature explosions. The weight is usually three pounds: which in itself helps to explain the endurance of the men who can keep throwing these things for hours.</p>
+
+<p>Marvelous men are these modern grenadiers&#8212;quick, accurate, endlessly untiring. Every soldier in the line receives the necessary training for the trade, but only the experts come to the top.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="ingredient.19180622">
+<body>
+
+<head type="main">Only One More Ingredient Needed</head>
+
+<figure n="cartoon">
+<head></head>
+<ab type="credit">From Punch</ab>
+<p>OLD LADY (<hi rend="italic">to important resident in the village</hi>). Please, sir, would you kindly sign this yere paper for sugar? I've got two plum-trees and six grand-children and I wants to make 'em into jam.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="machines.19180622">
+<body>
+<head type="main">You Can Not Make French Soldiers into Machines</head>
+
+<p>SLEEPING on sentry duty is a crime in time of war. Always it has been held to be punishable by death. But sometimes humanity gets the better of justice. In <hi rend="italic">Covered with Mud and Glory</hi> (Small, Maynard &amp; Company), Georges Lafond tells of the commander of a French battalion who won the devotion of all his men by his simple willingness to undergo any hardship and face any danger.</p>
+
+<p>In one section of the trench was an exposed passage to the German lines. It was blocked up with sand-bags and barbed wire, and as an extra precaution a sentry was stationed there night and day. He was sleeping deeply when the commander came by. He had to shake him vigorously to wake him up.</p>
+
+<p>"'Say, do you sleep like that when you're sentry?'</p>
+
+<p>"I&#8212;it's true&#8212;I was asleep.'</p>
+
+<p>"'That's not serious. Try hard. If an officer should come along, you'd not get off with advice.'</p>
+
+<p>"'Well, I'm going mad sooner or later.  I haven't slept a wink for three nights. If the Boches are as sleepy as I am they won't come to wake us up.'</p>
+
+<p>"As he talked his voice was drawn out more and more, and his head nodded. He was dead with sleep.</p>
+
+<p>"The commander took his rifle from his hands and said:</p>
+
+<p>"'I'm not sleepy, and besides I shall sleep very well to-morrow. Sleep, little one. We, the old, have lost our habit of sleeping.'</p>
+
+<p>"The sentry did not even acquiesce in this invitation. He had accepted it in advance, for he was asleep already.</p>
+
+<p>"At daybreak, when relief came, the sergeant who accompanied the new sentry was thunderstruck when he recognized the commander mounting guard at the loophole.</p>
+
+<p>"'Here's his rifle. Wake him up when I have gone. Say nothing about it, for he was very sleepy.'"</p>
+
+<p>That day the commander was killed in an attack.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="ribbon.19180622">
+<body>
+<head type="main">What Ribbon Bars Mean</head>
+
+<p>THOSE ribbon bars you see on the breasts of men of the army and navy tell a story, if you know how to read it. They represent medals given for valor or service&#8212;medals that are worn only on dress occasions. A light blue ribbon with white stars shows that the wearer is the possessor the Congressional Medal of Honor, awarded for unusual bravery. It is the highest award in the gift of our government, and is held by very few men.</p>
+
+<p>The other ribbons are for the various campaigns in which the army and navy have taken part. A blue and gray indicates the Civil War Campaign badge; a blue, yellow, and blue ribbon with narrow blue edges is for the War with Spain; red, blue, and red with narrow blue edges, for the Philippine campaign; red with narrow edges of red, white, and blue, for the Cuban Pacification; a yellow ribbon with blue edges, for the China Relief Expedition; and blue, red, and blue with narrow red edges, for the Nicaraguan campaign.</p>
+
+<p>The colors of the Haytian campaign badge have not yet been decided upon. No campaign badge has been awarded for service in the occupation of Vera Cruz.</p>
+
+</body>
+</text>
+
+<text type="photograph" xml:id="camouflage.19180622">
+<body>
+<head type="main">Camouflage Comes Easy to Them</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs Underwood &amp; Underwood</ab>
+<p>THESE young women of the Women's Camouflage Reserve Corps are all practical artists working on standardized costumes for purposes of concealment. There are four general types of costume camouflage: sky, rock, tree, and foliage. Experiments in the first two types are shown in these pictures. The Women's Corps will eventually go abroad to work on actual camouflage problems behind the lines.</p>
+<figDesc>Two photographs</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 17" xml:id="ew.issue.19180622.p017" />
+
+<text type="nonfiction" xml:id="brave.19180622">
+<body>
+<head type="main">It Takes a Lot to Kill a Brave Man</head>
+
+<p>NOTHING in the war is more amazing than the resistance of frail human mechanism to the most terrible wounds that steel and lead can make. An English nurse who saw some hard service in a Belgian field hospital, through which streams of wounded were continually pouring, tells of the remarkable case of Jean Lassoux, a brush-maker of Liege:</p>
+
+<quote>
+<p>He was brought into our ward on a stretcher, with his head enswathed in blood-stained bandages. A bullet had gone through his left eye, damaged part of the brain, and come out by the right ear.</p>
+
+<p>The surgeon said nothing could be done for him at present; he must just lie still and the bandages which had been applied in the trench must not be touched. He was profoundly unconscious and breathed heavily. We thought he was dying.</p>
+
+<p>As he lay there in that pitiful condition, the Colonel of the regiment was announced, with other officers. Opening a little leather case, he took out the highest order of the Belgian Army, the "Premier Order of Leopold," and pinned it on the wounded man's shirt, placing by him a long parchment on which were enrolled the name of his regiment, congratulations on his bravery, and records of a list of brave deeds which won him honor and distinction."</p>
+</quote>
+
+<p>It appeared that Jean Lassoux had twice rescued whole families from burning houses in towns that had been set on fire by shells, and that he had received his head wound while scrambling over the trench to get a wounded comrade. Seizing the man's belt in his teeth, he had crawled along, carrying the man low on the ground, like a dog, to a place of safety, and had then dropped unconscious.</p>
+
+<quote>
+<p>Jean was with us for weeks; his brain was not normal, even when he left us. During the first part of the time we held him in bed. His constant remarks were: "Where are my boots? Where is my gun? I want to kill those damned Boches."</p>
+
+<p>As he became clearer he was told that he never could go back to the trenches, as he had only one eye and was deaf in one ear. But he rejoined: "If I had two eyes, I should shut one to look down my gun and shoot." He was so set on going back that, seeing the circumstances, the King granted him special leave to return.</p>
+
+<p>Since then he has served two years in the front line of trenches, been wounded and in hospital twice, but always returning to shoot "those damned Boches!"</p>
+</quote>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="uboat.19180622">
+<body>
+<head type="main">He Hit a U-Boat Commander</head>
+
+<p>IT is safe to say that not many people in this war have had the supreme privilege of hitting a U-boat commander in the jaw; but, at least, the war will not end without this having happened once.</p>
+
+<p>D. J, McDonald, skipper of the three-masted schooner <hi rend="italic">John G. Walter</hi>, out of Nova Scotia, was on his way to England recently. He "fell in with a submarine," says the news account, and the U-boat commander ordered the crew to take to their boats, and then sank the schooner with bombs.</p>
+
+<p>The skipper was ordered on board the submarine, to be taken home as a trophy.</p>
+
+<p>"I guess you will have to make a visit to Germany," said the commander jovially.</p>
+
+<p>"Captain McDonald did not reply immediately," says the account. "He waited a few seconds, and then his fist shot out and caught the German on the point of the jaw. As the U-boat commander fell stunned, the Nova Scotian turned and went head first over the side.</p>
+
+<p>"'I swam under water as long as I could, and when I came up I was fortunate enough in emerging in such a position that one of the small boats was between me and the submarine.'</p>
+
+<p>"The under-sea boat moved about the small boats, intent on locating the skipper. The search was still on when a destroyer hove into view, and the Germans hastily submerged."</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="colors.19180622">
+<body>
+
+<figure n="illustration">
+<head>Czechoslovaks! Join Our Free Colors!</head>
+<ab type="credit">Courtesy of the Czechoslovak National Council</ab>
+<p>This poster is being used in America for recruiting an independent Bohemian and Slovak army to go across and fight with the Allies for the freedom of Bohemia and the other small nations under Austrian tyranny.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="austria.19180622">
+<body>
+<head type="main">There is Trouble Ahead for Austria</head>
+
+<p>UNLESS everybody, conservatives and radicals alike, have guessed wrong, another revolution is due in a short while. This time it will be in Austria. Probably no country has ever been hated so unanimously by practically all of its inhabitants as this autocracy. In Austria is none of that humility and reverence that has characterized the attitude of the German people toward their government.</p>
+
+<p>The Bohemians or Czechs, the Poles, the Jugoslavs, the Italians&#8212;on all sides Austria is surrounded with subject peoples who hate her. At present there is only one party&#8212;the German group in the Reichstag&#8212;that is supporting the government. Joined with the disaffected nationalist groups are the Socialists, who are daily growing more openly anti-government in their activities, says a writer in the <hi rend="italic">New Europe</hi>:</p>
+
+<p>"No doubt, after a successful revolution, the differences between the Nationalists and the Socialists would make themselves felt; but for the present they are working in the same direction. There are only two dominant forces left in eastern Europe&#8212;German militarism and social revolution; and around these all the others must group themselves. The German workingmen in Austria begin to talk about a dictatorship of the proletariat as the road to peace. The Czechs are all preparing to fight for their freedom. The Jugoslavs are preparing. In Croatia martial law has been proclaimed. Cracow and Lemberg are entirely under police government. According to disclosures made in the Reichsrat on March 7 by a Polish Socialist, everything has been prepared for reintroducing a military regime and courts-martial in Galicia."</p>
+
+<p>The Austrian government is in a hopeless position. It can not yield to the demands of its people without assuring the fall of the Hapsburgs and bringing down on Austria the full wrath of Germany. It dare not stop the agitation that is every day stirring the people more and bringing revolution nearer. Its old trick of encouraging hostility between the different groups in the Empire doesn't work any more.</p>
+
+<p>The Croatians used to be bitterly opposed to Serbia on religious grounds. The Jugoslavs in general hated the Italians. It is interesting to see the change that has come over them. The Italians have buried their old disputes with their Slavic neighbors, and joined the forces against Austria. In Croatia, Serbian cockades are worn.</p>
+
+<p>Says the <hi rend="italic">New Europe</hi>:</p>
+
+<p>"The common action of the Poles, Czecho-Slovaks, Rumanians, Jugoslavs, and Italians is bound to be ultimately crowned with success. The agreement between the subject races of Central Europe means the death warrant of the Dual Monarchy!"</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="limoges.19180622">
+<body>
+<head type="main">It's a Short Way to Limoges</head>
+
+<p>BY this time our soldiers in France have probably grasped the French popular expression, "He's gone to Limoges."</p>
+
+<p>Being sent to Limoges means that kind of censure which takes the form of a promotion to avoid a public disgrace. Since Limoges is famous for the manufacture of fragile porcelain, the number of high military officers and others tucked away on the shelf there tickled the French sense of humor. Hence a grin and a wink usually goes with "He's sent to Limoges."</p>
+
+<p>The last high officer promoted in that way was General Nivelle, as Governor of Limoges. Recently he was reported transferred to Algiers, which looks as if he were being given a chance to come back from Limoges.</p>
+
+<closer><signed>By CAPTAIN MICHAEL WHITE</signed></closer>
+
+</body>
+</text>
+<text type="nonfiction" xml:id="belgian.19180622">
+<body>
+<head type="main">From a Belgian to "Every Week"</head>
+
+<opener><salute>Dear Sir:</salute></opener>
+
+<p>This letter, though written in English, is coming from a Flemish-speaking Belgian soldier.</p>
+
+<p>From the other side of the ocean I've got your very nice <hi rend="smallcaps">Every Week</hi>, and perhaps it will be the first time your editors will have to read something from a youth who is fighting already from the first day of the war against our common foe.</p>
+
+<p>I'm giving answer at the question: What I Think About My Parents. Excuse me: the first February is already gone, but how could I answer so soon? I got your number of 12th January only this week.</p>
+
+<p>The war broke out, and my parents sacrified their own blood, and saw me starting for the great game, the bloody march between "might" and "right." Not a tear they shed when I left them, but encouraged me to go with eyes&#8212;oh, those mother eyes!&#8212;so sweet and infinitely sorry. "My son, Belgium expects you will do your duty!" And I went on.</p>
+
+<p>I was taken a prisoner at Namur, closed up in a fortress, evaded, and came back to home and saw my parents again. I told them of burdened cities, killed women and children, and for a second time they saw me starting, with a broken heart. They gave me a kiss, the last I got within three years.</p>
+
+<p>And, since, my only brother was killed, and buried where he was killed on the battle-field.</p>
+
+<p>My parents had to suffer invasion, our army was beaten back to the Yser, where they held an iron harrier till now.</p>
+
+<p>I am so far from my parents. Guns are killing all around me, hunger and thirst have I to suffer, and not a word may I receive from my father and mother. They are the good stars, the bright hope in; darkness, my "life" in the land of death. Their remembrance refreshes the burden; of life. They are all heart, all love; but I like them best because they are all sorrow, and I'm feeling the deepness of it in this terrible war.</p>
+
+<p>I feel they did all they could to assure me an agreeable, useful life; they taught me to be a man, to have a will and a charming character.</p>
+
+<p>Then the hour struck to sacrifice all the beauties of nature and heart of their son, and they did it with the most noble purpose, I'm sure, to be found on earth!</p>
+
+<closer>
+<signed>VAN KETS OMER,</signed>
+Belgian Army in the Field.<lb/>
+</closer>
+<postscript><p>I hope, dear sir, this letter will reach you!</p></postscript>
+
+<signed>V. K.</signed>
+
+<dateline>Yser, the <date>18th February, 1918</date>.</dateline>
+
+
+</body>
+</text>
+
+<text type="photograph" xml:id="guynemer.19180622">
+<body>
+<head type="main">Guynemer's Successor</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Western Newspaper Union</ab>
+<p>Sub-Lieutenant Nungesser, of the French air service, has been wounded seventeen times in his three years of fighting, but the other day he brought down his thirty-third and thirty-fourth German machines within a few minutes.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+
+<pb n="Page 18" xml:id="ew.issue.19180622.p018" />
+
+<text type="nonfiction" xml:id="kelly.19180622.jump">
+<body>
+
+<head type="main">Weeding Out the Business Garden</head><p rend="jumpline">&#8212;concluded from page 5</p>
+
+<div1>
+<p rend="continued">ples of these; but there were never more than 200 patterns that proved popular enough to justify making them. So that all the material and effort used in making up the samples of the other 2,800 designs went to waste. As a matter of patriotic duty, this concern will now greatly reduce its variety of designs. Possibly, by the time the war is over, they will have found a way to test out which patterns are going to be popular before making them up.</p>
+
+<p>There is a strong probability that before the war is many months older a movement will be under way for the simplification of styles in both men's and women's clothes. Already there has been an agreement among garment manufacturers to omit needless pleats, belts, cuffs on trousers, and other items that use up wool without adding much to the appearance of the garment. It is even possible that one may eventually be able to dress fashionably though inexpensively&#8212;in fact, that downright economy in dress will be the proper thing, and too many changes of style will be taboo.</p>
+</div1>
+
+<div1>
+<head type="sub">Should Women's Clothes be Standardized?</head>
+
+<p>THE reason that styles have kept constantly changing is because vanity has been one of the moving forces of modern existence. Every woman has desired something a little newer than the style her friends were wearing, in order to show her ability to buy it. We have spent millions upon millions solely to give vent to our vanity. Clothes&#8212;especially women's clothes&#8212;have been a convenient symbol of purchasing power and therefore an indication of money or business prowess.</p>
+
+<p>Contrary to popular opinion, manufacturers and merchants dealing in women's garments would welcome fewer changes of style. Heretofore they have been greatly hampered in the preparation of their stocks because of not knowing how well 'a style will take or how long it will last. Except for advanced dressers, always demanding something newer, newer, newer, there would be vastly less stuff remaining on shelves to be sacrificed at marked-down sales.</p>
+
+<p>In the long run, a garment has been fashionable somewhat in proportion to the expensiveness of the material in it. When a certain kind of fur becomes rare and hard to get, it grows more and more fashionable. Platinum jewelry became more fashionable than gold jewelry the moment that platinum began to cost more than gold.</p>
+
+<p>Now we seem to be within sight of a change. There is no reason to expect that
+
+<cb n="2" />
+
+our styles will become too standardized,&#8212;which would be unfortunate, inasmuch as variety in dress adds zest to the whole scheme of things,&#8212;but as dress material of all kinds becomes more scarce there will be a tendency to look with something akin to contempt on anybody who uses up material needlessly, for personal gratification. And, having once got people out of the way of buying things they don't need,&#8212;whether because of vanity or for any other reason,&#8212;we may get into the habit of permanently operating on a more rational basis.</p>
+
+<p>No one knows how much money has been squandered by merchants and manufacturers in making Easter displays. Many merchants have ordered shoes and hats and other articles out of proportion to the trade demand for them, simply to make an effective display. In numerous instances the goods were ordered with the understanding that they could be returned later to the jobbers or manufacturers. Afterward they would have to be disposed of as out-of-date stuff at a big reduction&#8212;all of which, of course, comprised a wasteful kind of procedure.</p>
+
+<p>Under plans now being worked out by the Chamber of Commerce of the United States, such practices are to be abandoned. A merchant will order only what he is going to keep and pay for&#8212;only what his trade outlook justifies.</p>
+
+<p>Likewise there is to spring up a general and impartial enforcement of the rules relating to cash discounts. Theoretically, at the present time two per cent off for cash within ten days means two per cent off for cash within ten days. Actually, however, it does not mean that at all. A big customer in paying his bill deducts two per cent for cash; but instead of settling up within ten days he takes, perhaps, forty days. And the seller says little or nothing in the way of complaint over this violation of business rules, lest he offend his big customer and lose him. He knows that he must not be too captious about the enforcement of the payment within a specified time, because he has competitors who are willing to wink at the violation. So he acquiesces&#8212;in the case of a big customer&#8212;in having his money tied up for forty days or more, instead of only ten days.</p>
+
+<p>With a small, unimportant customer, however, he probably enforces the ten-day rule. So the cash-discount proposition has been in a good deal of a mix-up, administered without either fairness or common sense&#8212;for no reason than that lax methods have gradually grown up. Now, as a by-product of the world war, all that is to be stopped. Business men throughout the country are going to <choice><orig>en-
+
+<cb n="3" />
+
+force</orig><reg>enforce</reg></choice> the cash-discount rules, and thus keep capital moving, as a matter of patriotic duty.</p>
+</div1>
+
+<div1>
+<head type="sub">The Slovenly Habit of Using Freight Cars for Storage Purposes</head>
+
+<p>IT has come to be looked upon as almost disgraceful to ship a freight car not fully loaded. And it will be equally disgraceful to use railroad cars for storage purposes&#8212;as has been a slovenly business practice these many years. When freight cars are unloaded almost immediately upon their arrival, and kept on the move, a vastly greater number of cars can be handled without serious congestion. To use a common illustration, it is just like handling one's daily mail. It is no trouble at all to answer ten letters a day; but if the letters are allowed to accumulate on one's desk until there are fifty, the increase of difficulties greatly exceeds the increase in the number of letters. So it is with freight cars. We can operate our transportation system far more economically for all parties concerned, including the well known "ultimate consumer," when we no longer keep cars standing for storage purposes. It not only isn't fair to the railroads, but it isn't fair to the average citizen who uses the every-day commodities that are shipped over the railroads.</p>
+
+<p>In a multitude of ways we have learned how to be more effective in little things&#8212;important little things. For example, in sending oats abroad we found that we could save much shipping space, of almost priceless value, by baling the oats instead of merely pouring them into a sack. Baling oats! Nobody had ever heard of such a thing, and yet it was found to be perfectly practical. Without crushing the grain itself, when put under pressure the oats would be packed so tightly that three bushels of oats could be stowed away where only two had gone before.</p>
+
+<p>We have been re-baling hay, too. Instead of sending hay in the none too tightly compressed packages put up by country balers, the ordinary bales have been sent to big government hay centers, such as Toledo, Ohio, and there put under heavy pressure. In this way the bulk of hay on ships has been reduced considerably more than half. Even such articles as blankets, underwear, socks, and other articles of clothing have been baled, under high pressure, to conserve space. When the war is over, there will be countless possibilities for saving in transportation expense by utilizing what we are learning about baling.</p>
+
+<p>As an example of the space we have been wasting on freight trains all these years,
+
+<cb n="4" />
+
+consider the item of raw cotton. An average American bale weighs about 22 pounds, an average Egyptian bale 49 pounds, and a Chinese bale 60 pounds. We got into the habit of baling our cotton thus loosely and uneconomically in the days when the railroads were new and, like a country newspaper, needed something to help fill up.</p>
+
+<p>Several of the State universities, co-operating with the army, have opened courses in the scientific keeping of stores and supplies for students who desire to serve in the quartermaster's department. The idea is to have supplies handled with such precision that never again, as in former wars, will a soldier suffer from the lack of blankets, with a blanket near by that the quartermaster doesn't know about. Over in France is a storage area 40 miles square. Somewhere in that area is, let us say, a blanket marked EORGX. If the record shows that a blanket thus marked is in storage, one may instantly go right to it, in the dark even, without other directions than that EORGX. The blanket, is in, say, section E, division O, bin R, row G&#8212;and the X, perhaps, tells how far it is from the bottom. In such cataloging of supplies letters are used rather than numerals, and one main reason for this is that, there being twenty-six letters and only ten numeral characters, an infinitely greater number of combinations are possible with letters than with numerals.</p>
+
+<p>We have had to think about minute little details like that.</p>
+</div1>
+
+<div1>
+<head type="sub">Training that Will he Valuable After the War</head>
+
+<p>SOME day&#8212;when the war is over&#8212;thousands of these young men who have been scientifically trained to precision and exactness in handling stores for the army will be released for ordinary business employment. What a boon to business they ought to be!</p>
+
+<p>And along with all the ways and means for conducting both business and personal affairs more economically, and War Savings Stamps, and Thrift Certificates, and Liberty Bonds, will come a habit of saving which maybe will endure always.</p>
+
+<p>The basically important thing just now is saving. For saving means doing without luxuries; and every time we do without luxury we lessen the demands on industry, which has just that much more time to provide war-winning necessities. All this applies to business enterprises as well as to individuals. Everybody must be wisely economical, omitting not only whatever is wasteful, but everything not downright necessary.</p>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="wheel.19180622">
+<body>
+<head type="main">What One Woman Did with a Spinning-Wheel</head>
+
+<figure n="photograph">
+<head></head>
+<p>Photograph from A. L. Hughes</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>WHEN I went to live with my son and his wife, I took with me my old spinning-wheel. I was attached to it because I had brought it with me from the old country, where I had spun on it most of the material for my son's clothes when he was a little boy.</p>
+
+<p>My daughter-in-law was delighted with the wheel. She wanted to put it in the living-room of the bungalow as an ornament, and I let her. Several years later my son and his wife were taken ill. Their bank balance dropped to the vanishing point and the bills mounted up.</p>
+
+<p>It was my turn to help. And how glad I was that I had kept the old spinning-wheel. It ceased to be merely an ornament, except as anything useful is the best kind of ornament. I got work at once supplying a big store with the hand-made towels and other articles that I knew how to make with the aid of my wheel. Then I suggested that the store give me a window in which to demonstrate my work. They paid me for carrying out the idea, and I advertised myself as well as the store, so that several women came to me for lessons in the spinning-wheel craft.</p>
+
+<p>I was surprised at the way the money came in. I made enough to keep the house-hold going until my son was able to go to work, and I have wiped out the mortgage on the bungalow&#8212;all through that spinning-wheel which had been valued merely as a picturesque ornament.</p>
+
+<closer><signed>Mrs. L. M. BURT.</signed></closer>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="man.19180622">
+<body>
+<head type="main">Young Man! Are You One of the 2,000,000?</head>
+
+<p>THIS boy belongs to the United States Boys' Working Reserve. There were 100,000 of him last year, and that 100,000 played a big part in emergency crop gathering and saved millions of dollars' worth of food for the men at the front. This year the Reserve asks for 1,000,000 members. National Director William E. Hall estimates that there are in the United States 2,000,000 boys between the ages of sixteen and twenty-one who either do no work at all or are employed in what are, in war-time, non-essential industries.  It is to these boys that he looks for recruits for what Mr. Hoover calls the "second line of defense."</p>
+
+<p>If you are one of the 2,000,000 too young to fight, but wanting to do your part to win the war, write to Mr. Hall, Department of Labor, United States Public Service Reserve, Washington. He'll tell you how. It doesn't matter if you never saw a potato outside the grocery store or the home table; for the "city fellers" in the 100,000 made a record last year that kept their country cousins hustling.</p>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19180622.p019" />
+
+<text type="nonfiction" xml:id="kirchwey.19180622.p019">
+<body>
+<head type="main">WILL SHE BE THE FIRST WOMAN SENATOR?</head>
+
+<head type="sub">An Interview with Anne Martin</head>
+
+<byline>By <persName type="author" key="#Kirchwey, Freda">FREDA KIRCHWEY</persName></byline>
+
+<floatingText>
+<body>
+<head type="main">What Miss Martin Has Done</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Harris &amp; Ewing</ab>
+<p>Anne Martin likes dogs and horses and sports almost as much as she likes politics.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>ANNE MARTIN is forty-two years old. She graduated from the University of Nevada, and then won another degree at Leland Stanford. She took post-graduate work in government and politics at Columbia and at Cambridge, England.</p>
+
+<p>For three years she was tennis champion of Nevada.</p>
+
+<p>A mountain pass in her native State is named after her, in recognition of her feat in climbing the peak in the dead of winter.</p>
+
+<p>In England she studied the land problem especially. She fought through a by-election and campaigned for suffrage with Mrs. Pankhurst. When she left she carried off with her several golf medals.</p>
+
+<p>She traveled around Europe, watching the governments at work, and clearing up her own ideas about the job of running a country.</p>
+
+<p>She spent three years as professor of constitutional history in the University of Nevada.</p>
+
+<p>In Nevada she headed the fight for suffrage, and won it against the opposition of both dominant political parties.</p>
+
+<p>Then she tackled the nation at large, and became chairman of the legislative department of the National Woman's party.</p>
+
+<p>When suffrage passed the House, Anne Martin decided that it was time for a woman to run for the Senate.</p>
+
+</body>
+</floatingText>
+
+<div1>
+<p>THERE is nothing distinctively feminine about her. Equally, there is nothing masculine. She is simply a keen, vigorous, warm-hearted, and humorous person, with well defined purposes and the determination to battle for them.</p>
+
+<p>I did not even try to talk to her about herself. There would have been no use. All I know about her I learned from her friends.</p>
+
+<p>Her great-grandfather came to this country from the north of Ireland. From that day on, all her people have lived in the West. Her father was a pioneer in Nevada, and molded much of the destinyof that young State. He was a gold-miner, then a business man, and finally a bank president. For many years he sat in the legislature, and Anne Martin got a fair political education at home before she began her studies and travels. With her brothers and sisters she was brought up near the famous Comstock Lode.</p>
+</div1>
+
+<div1>
+<head type="sub">Her Political Training</head>
+
+<p>WHEN the war started, her two brothers and three brothers-in-law enlisted, and one of her brothers is now in France.</p>
+
+<p>In college and afterward Anne Martin worked hard at the things that interested her, and, without particularly intending it, she has accumulated a training for political life that any man or woman might envy.</p>
+
+<p>She is a good campaigner. Her manner and appearance are alert and vigorous. She is slight but sturdily built, and she looks you straight in the eye. There is something Irish in her face and in her speech, in spite of the three generations that divide her from the old country.</p>
+
+<p>"Why are you running for the Senate?" I asked Miss Martin.</p>
+
+<p>She looked at me in a way that made me sure she would indulge in no vague platitudes.</p>
+</div1>
+
+<div1>
+<head type="sub">She Says Women are Afraid of Themselves</head>
+
+<p>"I WANT to knock the fear out of the hearts of women," she said. "They are still afraid of themselves, most of them. They look at themselves as nothing but women; and they look at women as outside the business of running the world. Maybe women had a sphere of their own once. Certainly they haven't now. Everything is a part of politics. Peace and war. Prices. Wages. Clean food. Land to live on. Education. Liquor.</p>
+
+<p>"People have pretty well swallowed and digested the idea of women voting. Now they can go a little farther. By running for the Senate, even if I should not win, it will never again seem so strange when a woman tries it.</p>
+
+<p>"I'll be running against a Republican and a Democrat&#8212;perhaps a Socialist too. But chiefly I'll be running against traditions and prejudices that have a long it not an honorable history to back them up. It will be a good fight," said Miss Martin.</p>
+
+<p>She doesn't intend to prove that women will make good Senators by telling people so. She intends to prove it by being one. There are a lot of very definite things she wants to do for the people of her State&#8212;men and women.</p>
+
+<p>There are no sex distinctions in her platform. First on the list is the land question.</p>
+
+<p>Miss Martin didn't need to go to England to study economics or to learn that the vast tracts of sage-brush country in Nevada will make some of the best farm land in the United States if they are given a chance. All they need is clearing and irrigation.</p>
+
+<p>"Nevada is more than twice the size of New York State," said Miss Martin, "and its population is a hundred thousand&#8212;about as many as you pack into a few city blocks in New York. But if Nevada were given a chance it would be a State full of farms, fertile and prosperous, providing the food the country needs.</p>
+
+<p>"That ought to have happened long ago. But it hasn't happened, because, instead of opening the State to homesteaders, the land has been grabbed by great land-and-cattle companies that dominate the politics and the life of the State.</p>
+</div1>
+
+<div1>
+<head type="sub">What She Fights For</head>
+
+<p>"MY fight is against those concerns, and against the parties that are controlled by them. The land in Nevada must be developed in the interests of the people, and not in the interests of the men at the head of big companies.</p>
+
+<p>"I'm going to work for the conservation of the water supply. Right now it is being wasted or monopolized by a few corporations, instead of being used to irrigate the whole State. I'm going to fight the discrimination against Nevada in the matter of freight rates, and try to get some protection by Federal agencies of the seasonal farm labor.</p>
+
+<p>"These are some of the things I'm going to do if I get into the Senate."</p>
+
+</div1>
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="singer.19180622">
+<body>
+<head type="main">THE LITTLE SEAMSTRESS AND THE SINGER FORTUNE</head>
+
+<div1>
+<p>ON one side of the equation place the Singer Building, where it towers story on story to the top of that high jagged New York skyline. On the other place a slip of a nineteen-year-old garment-worker with her weekly pay envelop containing its sparse six dollars.</p>
+
+<p>There does not seem to be much in common between them&#8212;and yet, because of one the other was possible.</p>
+
+<p>It is the story of another war, and the pluck and business ability of a girl of seventy-five years ago.</p>
+
+<p>In 1843 the girl lived quietly in Cape Cod much as other girls. Then, one day, she felt the stir of ambition. She did a thing that few girls did in those days: she decided to leave her home and go to Boston to earn her living.</p>
+
+<p>She found a room in a small boarding-house, and searched the city for employment.</p>
+
+<p>Finally she obtained piece work from Andrew Carney, who owned a wholesale men's clothing house. She made men's trousers by hand in her small room in the boarding-house.</p>
+
+<p>By working all day and well into the night she could finish one pair a day, and for these she received one dollar. It was a long, tedious task, but she stuck to it doggedly.</p>
+</div1>
+
+<div1>
+<head type="sub">Nobody Believed in Sewing Machines</head>
+
+<p>SEWING machines were just being invented; but no one believed in them&#8212;they were the target for the comic papers, and the butt of nearly all the newspapers. Sewing by hand was very slow, but it was also sure, and continued to be in vogue in spite of the sewing machines.</p>
+
+<p>A young boarder in the house looked in on the girl one day, and, seeing her sewing feverishly, asked her why she didn't buy one of the new sewing machines.</p>
+
+<p>"I never saw one," she answered; "and anyway, every one says they are a hum-bug."</p>
+
+<p>But the boarder was persistent. He took her to his store in the upper end of Harvard Court, and introduced her to his partner in the block-letter business&#8212;Mr. Singer.</p>
+
+<p>Singer had invented a new "light running" sewing machine, but could not get a prejudiced public to pay any attention to it. He had been obliged, while out of funds, to go into the block-letter business with the boarder, who was a sign painter.</p>
+</div1>
+
+<div1>
+<head type="sub">Her Business Sense</head>
+
+<p>THE girl had a good sense of business.  She talked with Singer, and when they parted he had promised her the use of a room and twelve sewing machines run by steam for six months, if she would teach twelve girls how to operate them, and keep them busy. She promised to do this, and Mr. Singer fixed up the room in part of his factory.</p>
+
+<p>The girl soon became expert with the machines, and went to Mr. Carney of the wholesale clothing house to make a bargain for work.</p>
+
+<p>He had noticed her even stitches, and praised her work it was so much better than the other women were handing in. She asked for a one-horse wagon-load of any garments he would let her have.</p>
+
+<p>With this she taught the twelve girls, and returned it in a startlingly short time. This time she called for a two-horse wagon-load, which was also finished so speedily that it aroused Mr. Carney's curiosity.</p>
+
+<p>The girl would not tell him her secret, however, and the next day he followed the wagon to find out for himself. Men were dumping basket-loads of clothing in the center of the room, and all around was the clicking of the busy machines.</p>
+
+<p>The girl was very angry when she saw Mr. Carney standing in the doorway. She wanted to keep her secret as long as possible. But Carney became much excited, and was as anxious to keep the secret as she.</p>
+
+<p>"You can have all the work you want," he cried, "but make your girls keep it a secret."</p>
+
+<p>Carney had a trump card up his sleeve, so to speak. The Mexican War was <choice><orig>com-
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson</ab>
+<p>A country girl whose name has been forgotten helped to make this building possible.</p>
+<figDesc></figDesc>
+</figure>
+
+ing</orig><reg>coming</reg></choice> on, and the government had advertised for bids on 20,000 military uniforms and clothing for the army and navy.</p>
+
+<p>Carney was quick to see the advantage of the machines. He made a bid that secured him the contract, and astonished all the other bidders.</p>
+
+<p>The work on the uniforms showed what the sewing machines were capable of doing. Of course the secret was soon out. Mr. Singer built an immense factory, and set hundreds of men to work&#8212;he could not turn out sewing machines fast enough to supply the demand for them.</p>
+
+<p>That was the beginning. To-day there is the Singer Building and the millions it stands for.</p>
+
+<p>The girl from Cape Cod, when she packed her little bag and left for Boston that morning in 1843, saw only the possible good fortune that might come to her.</p>
+
+<p>She could not see the Singer Building down the misty years, for all of its great height that reaches into the very skies of our great metropolis.</p>
+
+<closer><signed>M. H. W.</signed></closer>
+</div1>
+</body>
+</text>
+
+
+<pb n="Page 20" xml:id="ew.issue.19180622.p020" />
+
+<text type="advertisement" xml:id="ingram.19180622">
+<body>
+
+<figure n="advertisement">
+<head>Use Ingram's Rouge</head>
+<p></p>
+<figDesc>Advertisement for Frederick F. Ingram Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Deafness is Misery</head>
+<p></p>
+<figDesc>Advertisement for A.O. Leonard</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Raise Belgian Hares</head>
+<p></p>
+<figDesc>Advertisement for National Food &amp; Fur Association</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Cash for Old False Teeth</head>
+<p></p>
+<figDesc>Advertisement for Mazer's Tooth Specialty</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for Randolph &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents That Protect and Pay</head>
+<p></p>
+<figDesc>Advertisement for Watson E. Coleman</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Send Us Your Next Photo Films</head>
+<p></p>
+<figDesc>Advertisement for Roanoke Photo Finishing Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Sell Your Spare Time</head>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="ohara.19180622">
+<body>
+
+<head type="main">What the Silent Stars Talk About</head>
+<byline>By <persName type="author" key="#O'Hara, Frank Hurburt">Frank Hurburt O'Hara</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Plummer, Ethel">Ethel Plummer</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>GOING to Los Angeles and not meeting movie stars is like crossing Killarney and not tipping the boatman. It isn't done. This is a modest way of saying that there was nothing very unusual about me because I met famous film folk in homes, at table, and "on the lot."  They are as omnipresent as California sunshine. The city advertises both&#8212;and produces them.</p>
+
+<p>I went to the Coast with a common idea about the most famous of them all. I knew he was all right in his line, but his line was probably limited. Then I saw him. It was at a restaurant where all the "silent" actors congregate. I had been discussing certain plans in the old Biograph studio (where not so many years ago Mary Pickford used to be an "extra") with a director, a scenario writer, and a company president. The hour was late. When we went to the restaurant the place was filled. But after a while, as I glanced about the big room, my eyes became fixed on a youngish little man in a bright tan suit. "There was something about him that made your eyes fix in his vicinity. It wasn't the suit. It was merely that indefinable magnetic thing we call personality. He was lithe, spontaneous, animated.</p>
+
+<p>"That's an interesting young fellow," I remarked to the scenario man. "Know him?"</p>
+
+<p>"Sure. Don't you?"</p>
+
+<p>I didn't.</p>
+
+<p>"That's Chaplin."</p>
+
+<p>"Charlie Chaplin?" I specified, to make certain.</p>
+
+<p>"And his brother," my friend nodded.</p>
+
+<p>Of course I might have recognized him. But take off the little derby hat, substitute a smart tan suit for the absurd baggy clothes of his pictures, change the ridiculous shoes for oxfords, and you have metamorphosed a clown into a pleasing young man. The eyes and the animation make him almost handsome. But I'm not over-afflicted with staring at notables, so I turned back to my companions.</p>
+
+<p>In the midst of our conversation we were interrupted. A couple had stopped at our table. They were the Chaplins&#8212;Charlie and his businesslike older brother. They were on their way out, but lingered, and presently sat down. We talked for more than an hour. Talking, we filed into the drab quiet of Spring Street. We walked up to the corner of Seventh Street still talking. We halted there, and half an hour later finished our talk. And I have seldom been gladder of the chance to be in on talking; for I have seldom heard such talk.</p>
+
+<cb n="3" />
+
+<p>It was chiefly because of the misapprehension I had had that I was glad. I had expected to hear a clown. And for at least two hours, with the same animation you see in slap-stick screening, Chaplin had conversed eagerly on art, heroism, hooks, sentiment, people, things&#8212;little things&#8212;everything except "shop." His acting he mentioned only once, and then when he was forced into the subject. His comment was brief.</p>
+
+<p>"Work," he declared tersely. "That's what we all have to do. I've always been doing it: working, and working hard. You may have an idea, and if you're lucky a bit of a gift. The rest is all plain, every-day, hard work. We movie people have got big audiences, which mean big responsibilities, which always mean hard work. Don't you think so?"</p>
+
+<p>For the rest of his talk, it was indeed about little things&#8212;human things. Out of them all I recall most pleasantly his story of a little old English servant-woman who had come to the States to settle in Los Angeles. One day her former mistress came to town, and Chaplin took the visitor out to the humble cottage of the old servant.</p>
+
+<p>"And, do you know," exclaimed the comedian rather wistfully, "we simply couldn't persuade her to sit down with us when she served tea, and we couldn't keep her from calling her former mistress 'My Lady' all the time. I don't know whether you see what I mean, but there was something kind of pathetic about the whole affair, and&#8212;and beautiful, don't you see?"</p>
+
+<p>My surmise may not be true, but my guess is that Charlie Chaplin would like better than anything else in the world to play sentimental comedy.</p>
+
+<p>At the Triangle studio, in the rain, my companion and I one day accepted the offer of a ride to town, graciously made by a slip of a girl in a big touring car. She
+
+<figure n="illustration">
+<head></head>
+<p>"Young Miss Gish was bending over the counter, pencling a telegram to her mother."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="4" />
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+looked like a school-girl, but she was Dorothy Gish, and drawing I don't remember how many hundred dollars a week. She isn't a talker, like Chaplin; at least, she wasn't very communicative that rainy afternoon.</p>
+
+<p>However, little Miss Gish was homesick. Her mother had gone East, a few days before, with Dorothy's sister Lillian. The
+one left behind was ingenuously truthful.</p>
+
+<p>"I've just got to talk to mother!" she exclaimed. "She ought to be in New York now. I'm going to call her up."</p>
+
+<p>And I have no doubt she did. Several hours later I dropped into a telegraph office in Spring Street. Young Miss Gish was bending over the counter, penciling a message. Bobby Harron was waiting for her in the offing.</p>
+
+<p>"Have you decided to telegraph instead of telephoning?" I inquired.</p>
+
+<p>"No," she smiled. "I'm just sending mother a straight telegram telling her to be sure to be in at nine to-morrow morning. I'll call her then."</p>
+
+<p>I suppose you can do that sort of thing when you're a movie star.</p>
+
+<p>All in all, one of the most interesting things about these film people in Los Angeles is that they are not what you expect them to be. They are just like other people, and of course most people are "different." The man who sat across from me at H&#8212;'s, and who looked like a prosaic business man, was the wild West hero, William S. Hart. Geraldine Farrar was as keen to please her director as a girlish novice. Mabel Normand was the proverbial spinster when it came to cats and kittens. And none of the movie colony created any emphatic notice except the one who wasn't there.</p>
+
+<p>Of David Griffith&#8212;always "Mr. Griffith" in the profession&#8212;everybody had something to say, or be reminiscent about, or speculate. He was constantly reported as having arrived in Los Angeles, or being somewhere else, or starting a new picture, or abandoning the screen, or being fabulously wealthy, or penniless.</p>
+
+<p>"Mr. Griffith" is a sort of movie tradition. His shadow is everywhere. To him, indirectly, is traced most directorial "temperament." If Griffith wears his hair long, dozens of young directors shun the barber. If Griffith plans a historical picture, history's the thing. If he sings during the "shooting" of a picture, young directors become virtuosos. If he is very late for rehearsals twice in succession, nobody's on time anywhere.</p>
+
+<p>Otherwise, there isn't much "temperament" running around Los Angeles. The movie stars are too busy working.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="letter.19180622">
+<body>
+
+<head type="main">When It Cost $5 to Send a Letter</head>
+
+<p>IF three cents seems too much to pay for a letter now, it may ease your mind to compare that with the charge on the letters Charlie Cliff carried in the beginning of the Civil War. The letters he carried required $5 from the sender. And if you wished to await the coming of the mail man you might have to stand at your front door for several days.</p>
+
+<p>Mr. Cliff was one of the Pony Express riders that carried mail in relays between St. Joseph, Missouri, and San Francisco from April, 1860, to September, 1861.</p>
+
+<p>It required a great deal of courage to invest capital in a project for carrying mail across plains and deserts inhabited principally by Indians and where great herds of buffalo sometimes blocked the trail. It required more courage to mount one of the ponies and ride across one of the unsettled stretches assigned to each of the sixty riders. Mr. Cliff says that he not only was in doubt as to whether there would be a live man with a fresh pony at the next station, but was not at all sure that he would get there to find out. Each man had to ride night and day, making about seventy-five miles. He would turn over his mail to the next man, and "lay in" for a rest until the man from the opposite direction arrived. One of the riders was Buffalo Bill. Once Mr. Cliff had to make two relays without rest. The man ahead of him had been shot.</p>
+
+<p>Mail was not bulky. A New York newspaper printed copies on tissue paper especially for this method of transportation. The "mail bag" was a blanket with pockets at the corners, which were unlocked at the stations. There were ninety-eight of these station, and to maintain speed and to keep the service efficient four hundred and twenty ponies were used.</p>
+
+<p>The length of the route was 1950 miles and ordinarily required 232 hours to make. Once, when one of President Lincoln's messages was carried West, the riders broke the record. They made the entire route in 185 hours.</p>
+
+<p>The pay was not so bad, Mr. Cliff says. Each rider received $400 a year, and had the comforts that the then up-to-date Patee House of St. Joseph afforded. He mentions that, although folks were as anxious as now for mail, they were more patient.</p>
+
+<p>In the fall of 1861 the service went out of business, owing to the establishment of a telegraphic means of communication with the West.</p>
+
+</body>
+</text>
+
+<pb n="Page 21" xml:id="ew.issue.19180622.p021" />
+
+<text type="nonfiction" xml:id="hints.19180622">
+<body>
+<head type="main">Hints for War-Time Savings</head>
+
+<div1>
+<head type="sub">New Collars for Old</head>
+
+<p>WARM weather is due and soft collars are in season. Here's a wrinkle: Clean out that bureau drawer, collect those favorite turn-down starched collars with the worn rough edges, and, instead of throwing them away, do this:</p>
+
+<p>Have them laundered soft without starch, turned inside out. You'll have soft collars to last all summer,&#8212;cool, comfortable, fitting snugly around the neck,&#8212;and you've saved a couple of dollars.</p>
+
+<p>Try it.</p>
+</div1>
+
+<div1>
+<head type="sub">A Substitute for Shoe-Trees</head>
+
+<p>WHEN putting shoes away for any length of time, if regular shoe-trees are not available, roll a newspaper into a tight mass in the form of a shoe-tree and pack it tightly into the shoe.  This will prevent the leather from wrinkling and keep the shoe in perfect shape.  It is especially recommended for damp shoes&#8212;for both drying and shape-forming.</p>
+
+<closer><signed>C. N. L. T.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">Bringing the Mill into the Home</head>
+
+<p>I WAS tired of paying at the rate of $12 a barrel for my flour,&#8212;$15 if I bought in small quantities,&#8212;and so I bought a small mill for grinding cereals. This I operated by hand, and, besides saving about $6 a barrel, have the much more desirable product of whole wheat. I find that pan-cakes and bread made from this unbolted flour are sweeter as well as more healthful than the usual kind.</p>
+
+<p>I buy my wheat for grinding at $2.12 a bushel, and, allowing four bushels to the barrel, the cost is only $8.48 per barrel. I average sixty pounds to the bushel, because I use my flour unbolted. It pleases me to know that I save on an average of forty-eight pounds to the barrel, the amount of shrinkage that takes place when flour is milled and bolted to remove the bran. I can also grind corn, rye, and buckwheat.</p>
+
+<p>My economic little will has proved its worth constantly ever since I purchased it.</p>
+
+<closer><signed>C. G. C.</signed></closer>
+</div1>
+
+<div1>
+<head type="sub">Remember This Next Fall</head>
+
+<p>MY radiator leaked and let steam escape around the stem of the Shut-off valve. With a monkey-wrench I tightened the packing-nut; but after a bit it began to steam and leak again. I went to a plumbing supply house and bought twenty-five cents' worth of candle-wicking.	Then, with no other tools but a wrench and an old knife, I set to work. I unscrewed the packing-nut, so that it slid up the stem of the valve. With the knife I removed the worn packing from the nut. I wound the candle-wicking around the base of the stem up for about three quarters of an inch and two layers thick, taking care to wind from right to left. Then I replaced the packing-nut and screwed it down until the leak stopped, and I have had no trouble since. There is enough candle-wicking left to do another job. Call a plumber or steam-fitter in to fix yours, and you will see for yourself how much I saved.</p>
+
+<closer><signed>L. P.</signed></closer>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="week.19180622">
+<body>
+<head type="sub">This is Her Week</head>
+
+<figure n="photograph">
+<head></head>
+<p>The throne of the Bourbons fell; the guillotine wiped from its blade the blood of the Revolution; the First Empire reared itself. Then came Rivoli, Auslerlitz, Waterloo: and the First Empire, with its glories and triumphs, its crowns and scepters, faded away like a dream and was gone. But before it passed, a woman who came from nothing found herself the most splendid creature in its splendid opulence. The world has no more strange or fantastic story to tell than that of the Creole girl from Martinique, Marie Josephe Rose Tascher de la Pagerie, who became me Josephine, Empress of the French. She was born June 23, 1763; sat on a throne; died a bankrupt in 1814.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>WHEN she was sixteen Mlle. de la Pagerie's drunken old father turned her over to a scandalous female relative, Mme. Renaudin, with the pious admonition, "For God's sake, marry her to something rich&#8212;and quickly." Mme. Renaudin  stipulated for a dot, which the father grumblingly supplied. He was fearful that the girl would make a mesalliance in Martinique. Though she was not yet sixteen, her love affairs were already being talked about on the island.</p>
+
+<p>Mme. Renaudin had entry into Parisian society of a sort. To her salon came dubious countesses, <hi rend="italic">femmes tarr&#233;es</hi>, ladies who had been through the divorce courts, black-legs, gambling younger sons. To this admirable company she introduced her niece Josephine. The girl soon had a dozen admirers. The most eligible was an elderly nobleman of the name of Beauharnais. Josephine became Vicomptesse Beauharnais in 1781, and set up a salon of her own.</p>
+
+<p>Although she was so illiterate that she could scarcely write a letter, Josephine was shrewd, and she had charm. Men of all ranks flocked to her little house to discuss questions of the day. She listened, looking lovely and wise, and was soon the center of a circle of radicals and intellectuals. She had two children by Beauharnais. He was a complaisant husband and let her do pretty much as she wished. When her intimacy with Paul Barras, one of the leaders of the slowly growing- revolutionary movement, became too scandalous, however, he left her.</p>
+
+<p>Among her admirers at this time was the young visionary, Napoleon Bonaparte, to whom Barras had introduced her. That the "Man of Destiny" was fascinated by the Martinique beauty was evident from the beginning. Among the first to go to the guillotine, when the Revolution broke, was poor Beauharnais. A year later Josephine married the rising Bonaparte. A few years later she found herself somewhat surprisingly sitting upon a throne. She took to her exalted position as one to the scepter born. But the Emperor wanted an heir, and this she did not give him.</p>
+
+<p>All Europe waited while the royal divorce pended. The Empress won all hearts by her dignity and despair. But she who had begun life as a dissolute planter's daughter, who for five years had been an Empress, became a citizeness again. She was given a large allowance from the crown, but she died in 1914, having realized to the full that all is vanity.</p>	
+</body>
+</text>
+<text type="advertisement" xml:id="colgate.19180622">
+<body>
+
+<figure n="advertisement">
+<head>Colgate's "Handy Grip"</head>
+<p></p>
+<figDesc>Advertisement for Colgate &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Freckles</head>
+<p></p>
+<figDesc>Advertisement for Stillman Cream Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>A Rut</head>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Banking By Mail at 4% Interest</head>
+<p></p>
+<figDesc>Advertisement for The Citizens Savings &amp; Trust</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including Agents Wanted, Corporations, News Correspondents, Short Stories, Manuscripts Wanted, Salesmen, Song Poems, Female Help Wanted, Business Opportunities, Photoplays, Stories, Etc., and Photoplays</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 22" xml:id="ew.issue.19180622.p022" />
+
+<text type="advertisement" xml:id="goodby.19180622">
+<body>
+
+<figure n="advertisement">
+<head>Come on! Cheer up!</head>
+<p>Gosh! Nobody feels worse about it than I do. It is hard to say good-by to a rollicking good friend like <hi rend="italic">Every Week</hi>.
+With head up, eyes straight ahead, and smiling from cover to cover,
+Goes gran' li'l' of <hi rend="italic">Every Week</hi>
+A martyr to The Cause.
+That's the way with me, too—as secretary of The Cash-In Club.
+Like that. No hard feelings. Everybody bright and happy.
+In fact, I'm going to make more money than ever
+In The Get-Ahead Club—even though I can't be secretary.
+We all are. Every one of us Cash-In Club members.
+We're going to keep on cashing in just the same.
+We have all joined The Get-Ahead Club.
+The Get-Ahead Club is the same as The Cash-In Club—was
+Except that it is backed by The American Magazine
+And has a secretary by the name of Marshall Force
+Marsh is a live wire—even if he is sorta serious compared to me.
+The American Magazine is <hi rend="italic">Every Week</hi>'s big prosperous brother.
+And there's a great family resemblance. If you want to speed up and get ahead—While the getting's good and there's no speed
+limit
+Come on along and join The Get-Ahead Club. Get a copy of The American Magazine. Meet Marshall Force.
+Transfer your affections to him.
+Get good and chummy.
+It'll mean more money for you.
+And—good-by, good folks who liked <hi rend="italic">Every Week</hi>. Jim Pepper</p>
+<figDesc>Message from Every Week Magazine</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="flying.19180622">
+<body>
+
+<head type="main">A Flying-Machine</head>
+
+<p>THE human heart plays strange tricks in flying as well as in love, sometimes; and a flight in an aeroplane is often as heart-breaking as a flight of fancy with Cupid.</p>
+
+<p>When an aviator, jockeying for position against the enemy, backslides, spirals, or nosedives a mile or so like a plummet, his heart, if he isn't in tiptop condition, may go thundering up and down his interior like an express train.</p>
+
+<p>For this reason, Dr. Charles M. Robertson, of Chicago, has invented this little telephone-booth-looking thing, which will give its occupant all the sensations and effects of falling a long distance in the air, and permit the examiner, gazing through the window, to determine what it will do to him.</p>
+
+<p>With this machine Dr. Robertson hopes to eliminate the large number of casual-ties among fliers whose hearts go back on them while they are in the air, by keeping men with defective flying systems out of the service. If a man shows under test the slightest signs of paralysis, nausea, or dizziness, he never gets a chance in a plane.</p>
+
+<p>Men fit for anything on earth may not be fit for anything in the air. Between twenty-five and thirty-three per cent of one hundred men examined with this machine&#8212;men in seemingly perfect physical condition&#8212;failed to meet the test.</p>
+
+<p>First, they were shot a mile and a half skyward, by pumping out the air in the cabinet below that height. Then they were shot down a thousand feet, by pumping that much air in. lip and down, up and down, up and down they were rocketed, and their blood pressure, muscle tone, and sense of equilibrium were tested at every jump or drop automatically.</p>
+
+<p>These tests show, according to Dr. Robertson, that the man with abnormal blood pressure is more desirable as a flier than the man with subnormal blood pressure. The higher the pressure, the better the flier; the lower the pressure, the worse.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Robert H. Moulton</ab>
+<p>An aviation testing-machine, in which you can sit in an office and leap five thousand feet in the air and drop back again without being hurt. If it makes you ill, dizzy, or unconscious, you can't fly.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="labor.19180622">
+<body>
+<head type="main">He Believes in a Six-Hour Day for Labor</head>
+
+<p>FRANK FLOOD always went on the theory that the man who goes down in an elevator at 7 A. M. to work in a mine is just as human and entitled to just as much consideration as the man who goes up in an elevator at 9 A. M. to work in an office. He even figured that the miner was entitled to a little more consideration than the office man, because the miner did harder work in a gloomier place.</p>
+
+<p>Even when Frank was plugging away with pick and shovel for twelve long hours a day in a lead and zinc mine, two hundred feet under the State of Oklahoma&#8212;when he was crawling out at dusk, washing up, changing clothes, walking five miles to his boarding-house and arriving just in time to eat supper and tumble into bed so he could get up at 5 A. M. and get back to work at seven&#8212;even then he believed there was something wrong with the system.</p>
+
+<p>Flood watched the other fellows who were doing the same thing. He discovered that the average life of his kind was about seven years. And he then and there put himself publicly on record as favoring a six-hour day instead of a seven-year life.</p>
+
+<p>"And," said Flood, "if I ever get to be owner and boss of any business, that system goes in." A man, he said, would do more and better work in six hours, with a chance to rest and play and be human a little between-times, than another man working twelve hours, with no time to himself.</p>
+
+<p>Well, here is Flood (the fat one) in his own mine, with one of his own four six-hour shifts of workmen. The workmen live in houses Flood built and furnished for them; they work two hours less a day than any other miners in the district, get a few dollars a week more for it, stop and rest when they're tired, wear good clothes bought at Flood's store at cost, draw full pay when sickness bothers them, get pensions when they're old, know that if anything happens to them their wives and youngsters will be well taken care of&#8212;and produce more lead and zinc for Flood, proportionately, than any other group of miners in the district.</p>
+
+<p>Flood seems to be one of that small and select group of choice souls who can make a lot of money and be happy.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from J. R. Henderson</ab>
+<p>Men on this sort of a job used to last only seven years, before Frank Flood made life livable below ground.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</body>
+</text>
+
+
+<pb n="Page 23" xml:id="ew.issue.19180622.p023" />
+
+<text type="advertisement" xml:id="crowell.19180622">
+<body>
+
+<figure n="advertisement">
+<head>A Business that Grows</head>
+<p></p>
+<figDesc>Advertisement for The Crowell Publishing Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>6% Farm Mortgages</head>
+<p></p>
+<figDesc>Advertisement for E.J. Lander &amp; Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="booklets.19180622">
+<body>
+<head type="main">Financial Booklets that Will Help You</head>
+
+<p rend="agate">R. C. MEGARGEL &amp; COMPANY, 27 Pine Street, New York, members of the New York and Chicago Stock Exchanges, will send you booklets entitled "The Part Payment Plan" and "Securities Suggestions." The latter is published semi-monthly, and the current issue contains a complete of U. S. Steel as well as other steel companies. Sent free of charge upon request for "A."</p>
+
+<p rend="agate">A NEW booklet which is of interest to all people who can only invest through the partial payment plan has been issued by John Muir &amp; Company, members New York Stock Exchange, 61 Broadway, New York. This booklet is entitled "On Going Into Debt," and will be sent free of charge on application to the main office for bulletin 33.</p>
+
+<p rend="agate">BANKING by mail is helping thousands of Americans to cooperate with genuine national economy because it brings banking service to the very door of people who find it difficult to go personally to deposit money in a bank. Write the Citizens Savings and Trust Company of Cleveland, Ohio, for this free booklet
+"P" which explains how you can get 4 per cent interest on your money by mail.</p>
+
+<p rend="agate">A LARGE number of high-class stocks are now selling at low prices. They offer a high interest return to the investor. A recent number of the <hi rend="italic">Bache Review</hi> contains a list of <unclear reason="torn" /> stocks. Copy sent on application to J. S. <unclear reason="torn" /> &amp; Company, members of the New York Exchange, 42 Broadway, New York City.</p>
+
+<p rend="agate"><unclear reason="torn" />LET entitled "The Ten Payment <unclear reason="torn" /> been issued by E. M. Fuller &amp; Plan <unclear reason="torn" /> 50 Broad Street, New York City, <unclear reason="torn" /> Consolidated Stock Exchange of members it describes in full the "ten-pay-<unclear reason="torn" /> of buying active securities. This <unclear reason="torn" /> their Weekly Market Review sent without charge upon request for booklet
+E-6.</p>
+
+<p rend="agate">The problem of when and how to buy is very important to the prospective purchaser of stocks and bonds. "Investment Opportunities," a fortnightly publication issued by Slattery &amp; Company, Inc., 40 Exchange Place, New York City, gives valuable advice along these lines. Details of the "twenty-payment plan," in addition to this publication, will be mailed free of charge to all who write to the head office. Ask for 66-E.</p>
+
+<p rend="agate">The "Financial Indicator," a terse, relaiable booklet giving full reports on listed securities will be furnished free by the Smith-Martin Company, 208 La Salle St., Chicago, Illinois.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="banker.19180622">
+<body>
+<p>ANY banker will tell you that most persons realize the value of saving.</p>
+
+<p>The trouble is that few of us make up our minds to save; and fewer still go about it systematically.</p>
+
+<p>Millions of persons, according to Freeman Putney, Jr., in the Financial World, decide to save, do it haphazard for a time, then drop back into careless money habits. They fail because they follow the wrong system.</p>
+
+<p>The wrong way, Mr. Putney points out, is to pay current expenses first and then save what remains. The right way is to make up your mind how much you can
+
+save weekly, then lay that amount aside first.</p>
+
+<p>Liberty Bonds are teaching this system to Americans. There were only two or three million bond-owners among us at the beginning of the war. The Liberty Loan campaigns have increased that number to twenty million. Most of these twenty million are buying bonds on the instalment plan. It is therefore safe to say that the war is turning us into a nation of systematic savers. That, Mr. Putney believes, would make the loans worth while, even if the government never got a penny of good from the money.</p>
+
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="investor.19180622">
+<body>
+
+<p>SMALL investors who base their judgment of stocks and bonds on earnings, intrinsic values, crops, the money market, and other basic statistics are wrong, in the opinion of Richard M. Wyckoff, writing for the <hi rend="italic">Magazine of Wall Street</hi>.</p>
+
+<p>"I claim," says he, "that one of the primary reasons why the public loses hundreds of millions of dollars in the security markets every year is that they base their operations on the news, the facts, and the fundamental statistics."</p>
+
+<p>To prove his point, the writer cites the fact that several analysts who make a business of forecasting market conditions on this basis are seldom able to agree, and are often very wrong. He continues:</p>
+
+<p>"It is not the news, nor the facts, nor the announcements, nor the statistics that produce fluctuations, but the effect of all these things on the minds of men.
+
+
+<cit>
+<quote>Great minds have purposes; others have wishes.</quote>
+<bibl>WASHINGTON IRVING</bibl>
+</cit>
+
+
+
+Every order that is executed on the Stock Exchange has back of it a reason or a hope or a fear in some person's mind.</p>
+
+<p>"In the final analysis, therefore, we find that the movements of the security markets are governed by the same law that in normal times governs the market for all materials, commodities, and labor the world over&#8212;supply and demand.</p>
+
+<p>This being true, it naturally follows that the only sound way to judge the market and to forecast its future movements is to accurately gauge supply and demand. So we must, if we are to he successful in our investing and trading, learn to judge the market by its own action; for its fluctuations are but the expression of a composite mind: that is, the minds of millions of people whose buying and selling orders are executed on the floor of the Exchange."</p>
+
+</body>
+</text>
+
+
+<text type="nonfiction" xml:id="read.19180622">
+<body>
+<p>THE next time a gloom-ridden young man tells you there is no opportunity for business success and wealth in this country any more, give him these paragraphs to read:</p>
+
+<p>A pamphlet published in New York seventy years ago showed that America then boasted only nineteen men with a million dollars or more. John Jacob Astor was the richest of these, and the only man whose income was $1,000,000 a year. His fortune was estimated at $25,000,000. Stephen Whitney was credited with $10,000,000, won in liquor, cotton, and real estate. William B. Astor, John Jacob's son, was credited with $5,000,000, Peter G. Stuyvesant with $4,000,000, and James Lenox with $3,000,000.</p>
+
+<p>There are now 206 Americans with incomes of more than $i,000,000. Note that this is income, not principal, as was the list of seventy years ago. On this list, the thirty richest have a total annual income of $3,600,000,000. Not one of the thirty has less than $50,000,000. The richest man in the group, John D. Rockefeller, has $1,200,000,000, from which he receives $60,000,000 a year.</p>
+
+<p>So Rockefeller's income is almost two and a half times as great as the greatest individual fortune in America seventy years ago.</p>
+
+<p>Incidentally, we are informed by Forbes' Magazine, in which all these figures appear, there is to-day $5,000,000,000 in cash in circulation in the United States, and our total wealth is estimated to he two hundred and fifty billion dollars. So the millionaires haven't cornered the nation's wealth yet&#8212;not by any manner of means.</p>
+
+<p>Now, remember that seventy years ago John D. Rockefeller didn't have a penny. As a young man he was poor, and had to work hard at almost any kind of a job he could get.</p>
+
+<p>And we venture the assertion that among the young fellows he trained with there were some who remarked every once in a while:</p>
+
+<p>"John, what's the use? There's no opportunity for a young fellow in this country any more."</p>
+
+<p>At that time Andrew Carnegie was three years old. Some years later, a poor immigrant boy from Scotland, he was working in the dark basement of a Pittsburgh harness-maker's shop, sorting hides. Henry Ford wasn't even in existence; and when he was born, it was to poverty and hard times.</p>
+
+<p>In fact, few of the nation's 206 multi-millionaires were even alive then, and those of them who started life with any-thing but the hardest kind of a poverty-stricken struggle can he counted on fewer than half the fingers of one hand.</p>
+
+<p>Still, there is no opportunity for a young man to-day. No, there is not, unless, like the fortune-builders on our latest list of millionaires, the young man thinks things over and makes an opportunity.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="bonds.19180622">
+<body>
+<head type="main">How to Buy Bonds</head>
+
+<p>DO not let the volume of printed matter or written material that you get about a security affect you one whit. The more said, the easier to confuse. It is not the quantity but the quality of the information that should count. And remember that in many cases it is much easier to buy bonds than it is to sell them. The buying is often done when the issue is active. 
+The selling is often attempted when the issue has been pretty well absorbed and it is harder to find takers than when many are trading in it.</p>
+
+<p>This advice, from the <hi rend="italic">Magazine of Wall Street</hi>, applies to all bonds except Liberty Bonds.</p>
+
+<note type="copyright" place="margin-bottom">Published weekly by The Crowell Publishing Company, at Springfield, Ohio, George D. Buckley, President, Lee W. Maxwell, First Vice President; Thomas H. Beck, Second Vice President; Albert E. Winger, Treasurer. Executive and editorial offices, 381 Fourth Avenue, New York City, N.Y. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign countries, $1.75. Entered as second-class matter at the post-office at Springfield, Ohio, under the Act of March 3, 1879.</note>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="publishing.19180622">
+<body>
+
+<figure n="advertisement">
+<head>"It Wears Well"</head>
+<p></p>
+<figDesc>Advertisement for The Christian Science Publishing Society</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The Ten Payment Plan</head>
+<p></p>
+<figDesc>Advertisement for E.M. Fuller &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Buy Stocks Now</head>
+<p></p>
+<figDesc>Advertisement for Smith-Martin Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>6% Net</head>
+<p></p>
+<figDesc>Advertisement for Perkins &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Short-Story Writing</head>
+<p></p>
+<figDesc>Advertisement for The Home Correspondence School</figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 24" xml:id="ew.issue.19180622.p024" />
+
+<text type="advertisement" xml:id="liggett.19180622">
+<body>
+
+<figure n="advertisement">
+<head>Fatima A Sensible Cigarette</head>
+<p></p>
+<figDesc>Advertisement for Liggett &amp; Myers Tobacco Co.</figDesc>
+</figure>
+
+
+</body>
+</text>
+</group>
+</text>
+</TEI>

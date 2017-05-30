@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160306">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 6, 1916</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+<idno>ew.issue.19160306</idno>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>52 East 19th Street, New York</pubPlace>
+<extent>20 pages</extent>
+<date when="1916-03-06">March 6, 1916</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015-06-16"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2012-09-13"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2012"><name>Arman Zeljkovic</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19160306.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">The Big 3 &#162; Worth</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Published Weekly by Every Week Corporation,</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<docDate>March 6, 1916</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head></head>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+<group>
+
+<pb n="Page 2" xml:id="ew.issue.19160306.p002" />
+    
+<text type="advertisement" xml:id="century.19160306">
+<body>
+    
+<figure n="advertisement">
+<head>The Century's Success</head>
+<p></p>
+<figDesc>Advertisement for The Oliver Typewriter Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Japanese Rose Bushes</head>
+<p></p>
+<figDesc>Advertisement for Japan Seed Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Factory to Rider</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Increase your Income $25.00 a Week</head>
+<p></p>
+<figDesc>Advertisement for Pease Mfg. Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Reliable Woman;</head>
+<p></p>
+<figDesc>Advertisement for U. Waverly Brown.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for R. S. &amp; A. B. Lacey.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patentable Ideas Wanted</head>
+<p></p>
+<figDesc>Advertisement for Richard B. Owen.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Mason, Fenwick &amp; Lawrence.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Maloney's Fruit Trees and Ornamentals&#8212;</head>
+<p></p>
+<figDesc>Advertisement for Maloney Bros &amp; Wells Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>"Fairies in Roseland"</head>
+<p></p>
+<figDesc>Advertisement for Maloney Bros &amp; Wells Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Berries, 2c Qt.</head>
+<p></p>
+<figDesc>Advertisement for Arthur J. Collins.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>How to Make a Lawn</head>
+<p></p>
+<figDesc>Advertisement for Iowa Seed Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patent Your Ideas</head>
+<p></p>
+<figDesc>Advertisement for Chandlee &amp; Chandlee.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Watson E. Coleman.</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="barton.19160306">
+<body>
+    
+<head type="main">Do We Dress Our Wives Too Well?</head>
+    
+<cb n="1"/>
+    
+<p>IN the matter of personal adornment, Nature rather left man in the lurch.</p>
+    
+<p>Almost every flower and animal was better treated at her hands.</p>
+    
+<p>Man, as Professor W. I. Thomas has pointed out, no naturally sweet voice, no attractive odor, and no graceful antics."</p>
+    
+<p>But Nature has a habit of compensation in such matters.</p>
+    
+<p>She gave man no adornment, but she gave him hands. And with hands he has "the power of collecting brilliant objects and attaching them to his person, and he thus becomes a rival in radiance of the animals and the flowers."</p>
+    
+<p>And from the beginning of time men have done just that thing.</p>
+
+<p>In the early days of the race men&#8212;not women&#8212;wore the brilliant colors, just as the male birds have the brightest plumage.</p>
+    
+<p>But gradually, as fight and business, rather than love, became the chief interest of the male, he began to robe himself in somber hues, like a battleship. Women took over the interest in personal adornment where men dropped it, and have kept men busy making them clothes and paying the bills ever since.</p>
+    
+<p>Indeed, as Professor Thomas points out:</p>
+
+<cit>
+<quote>
+<p>An inventory of the activities of the world would show that these activities are carried on by man largely as a means of supplying woman with the accessories which she uses to charm him.</p>
+</quote>
+</cit>
+    
+<p>In other words, the average man spends his life in hard work for&#8212;what? Largely to dress his wife and daughters.</p>
+    
+<p>Is this an unwholesome condition? Is too much of the energy of the world used up in making women lovelier?</p>
+    
+<p>Professor Thomas answers, yes.</p>
+    
+<p>If women's fashions did not change so often, he says, if men were not kept eternally busy in providing adornment for their wives, much of their energy could be diverted to other tasks that would make the world happier and better.</p>
+    
+<p>But to what better tasks, we wonder, would men turn?</p>
+    
+<p>In numbering the good things of the world&#8212;the things that make life happier and better&#8212;we must include many things that can not be measured in units of material value.</p>
+    
+<p>Flowers can neither be eaten nor built into furniture; yet we spend millions of every year for them&#8212;gladly.</p>
+    
+<p>The charm of woman does not lower the cost of living, nor raise the wages of factory employees, nor transform bad roads into good.</p>
+
+<p>Yet she can, as Arnold Bennett says, "ravish the senses of a roomful of people by merely walking downstairs, or by merely throwing a shawl over her shoulders. And this gift of grace is...one of the supreme things in the world."</p>
+    
+<p>Every man hates to draw checks for milliners and dressmakers. But every man who is worth while feels a thrill of satisfaction at having his wife so dressed as to make the utmost of her beauty and charm.</p>
+
+<p>That feeling&#8212;like the sense of uplift that a man gets from the contemplation of a lovely landscape or an exquisite flower&#8212;is one of the finer things of life.</p>
+    
+<p>And, like the other finer things of life, it is worth what it costs.</p>
+    
+<closer><signed><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</signed></closer>
+
+</body>
+</text>
+
+
+<pb n="Page 3" xml:id="ew.issue.19160306.p003" />
+
+<text type="advertisement" xml:id="campbell.19160306">
+<body>
+<figure n="advertisement">
+<head>10,000 Cookers At My Bargain Price Before I Have to Meet War Cost of Aluminum</head>
+<figDesc>Advertisement for The William Campbell Co.</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+
+<pb n="Page 4" xml:id="ew.issue.19160306.p004" />
+
+<text type="nonfiction" xml:id="brewster.19160306">
+<body>
+
+<head type="main">Are You Raising Your Boy to Be a Coward?</head>
+
+<byline>By <persName type="author" key="Brewster, Edwin Tenney">EDWIN TENNEY BREWSTER</persName></byline>
+
+<p>THE weak place in a child's nature is its belief. We grown people hold opinions: only we don't commonly let them influence our conduct. But a child believes with all his soul, until believing the wrong thing twists that soul out of all normal balance.</p>
+
+<p>For example (this is from the case book of a government hospital): A lad of twelve is bitten in the leg by a little dog. It is one of the commonest of youthful accidents, and the boy, decently tough-minded, ties his handkerchief round the wound and dismisses the matter from his mind.</p>
+
+<p>But there is a mad dog scare in the city, and the papers are full of nonsense about hydrophobia. Also the boy's mother is a fool. She insists that the dog be killed. When the owner refuses she brings the matter into court. She loses her case and appeals. Naturally the neighborhood gets interested. Naturally also the boy begins to wonder if something very important and very dreadful hasn't happened to him.</p>
+
+<p>When nothing does happen, the mother becomes still more alarmed. She sits by her son's bedside all night. Every morning she examines his leg, having an idea that the hair on it is growing thick and doglike. Also she keeps trying him with dishes of water, to test the first signs of hydrophobia.</p>
+
+<p>Of course the pupils at school hear about all that goes on. They look at their schoolmate with awful eyes. Or they stand about in a jeering ring crying, "He's got hydrophobia! Now he's going to bite you!"</p>
+
+<p>A few weeks of this sort of thing, and the lad comes thoroughly to believe that it's all up with him. With a thorough-going consistency that no adult can <choice><orig>ap-
+
+<cb n="2" />
+
+proach</orig><reg>approach</reg></choice>, he proceeds to fall into convulsions. Worse than that, the attacks continue. He remains in decent health throughout the winter. Then every summer in dog days he takes to throwing fits. By the time he is twenty things have gone so far that he has to be sent to the Government Hospital for the Insane at Washington.</p>
+
+<p>His hospital physician is a hard-hearted curmudgeon who pooh-poohs the whole matter. There isn't anything the matter with the man, as he is now, and there never has been.</p>
+
+<p>Thereupon the man recovers the use of his paralyzed limbs, gets over his fits, and has no more trouble. That is to say, he has no more trouble so long as he keeps out of the way of his mother. When she
+
+<figure n="photograph">
+<p>Here is a boy whose mother didn't raise him to be a coward. When he was fourteen years old she gave him a dollar and told him to go out in the world and get his education. Later he became known to several millions of his fellow beings as S.S. McClure.</p>
+</figure>
+
+is about the old childish belief comes back, and all the old troubles along with it.</p>
+
+<p>Exactly this sort of thing, on a small scale, is going on in thousands of American homes all the time. We put ideas into our children's minds, and they with remorseless logic work them out in their lives. Sometimes it spoils their lives for them. Most commonly it gives them a little handicapping twist.</p>
+
+<p>Remark to an adult that you never can
+
+<cb n="3" />
+
+eat so and so, or never could abide this, that, and the other sort of person, and your adult acquaintance merely thinks you a good deal of a fool, and rejoices that he at least has more sense. But make the same remark to a child, and immediately he becomes convinced that he also can not eat and can not abide whatever it is you do not like. Keep this up for a few years, and the infant who has been swallowing woolly caterpillars to astonish his companions acquires a veritable "phobia" toward a dozen wholesome foodstuffs. People have become incurable and lifelong stutterers, unable to address a stranger or answer a telephone call, for no other reason than that they chanced to pretend a stutter during a period of uncommon credulity, and so took on a "fixed idea."</p>
+
+<p>Now it so happens that most of the ingrained "beliefs" that damage our after lives, or land us in the insane asylum, are connected with morbid fears. The lad in the initial example was afraid that he was doomed to rabies. We dislike persons because we fear that they will do us harm. Foods make us sick because we fear that they will. We are tormented by insomnia because we are afraid that we shall not go to sleep. There are
+
+<figure n="photograph">
+<p>And here is a girl who at thirteen was facing hunger, cold, wolves, and drunken Indians in a log cabin in the Michigan wilderness. She is Anna Shaw, who tells her life in "The Story of a Pioneer" (Harpers).</p>
+</figure>
+
+cases of adults unable to perform some common and simple act because they were forbidden in their youth and were fearful of punishment if they disobeyed.</p>
+
+<cb n="4" />
+
+<p>So it becomes one of our duties as parents to harden our children against fear. A strong-willed, self-reliant, tough-minded boy or girl, so long as he remains in good health, is nearly immune to hurtful suggestions. But a child who is morally soft, or is temporarily under the weather, is always in danger of taking on some fearful and damaging belief.</p>
+
+<p>In general, any sort of pity over anything that one ought to bear like a man does more harm than good. To take a hurt, and go about one's business "as long as one can stand and see," is the way to train for a normal life in this very imperfect world.</p>
+
+<p>There is where the rather hard life of the natural boy makes a man of him. He climbs trees and falls out. He fights his contemporaries, and is licked by his elders. He goes in swimming in March on a "stump." He sleeps out on the ground. In all sorts of ways he toughens his soul against morbidity.</p>
+
+<p>Paradoxically enough, the way to toughen a child toward morbid and blighting fears is to expose him to wholesome little ones, until he gets used to being frightened and does not mind. The small terror of the adventurous boy who has climbed a little higher than he dare, "sassed" the mate whom he doesn't quite venture to fight, wandered where he is not sure of the way back,&#8212;all these and their like work out to a wholesome self-reliance that is the best of all protections ,against the sort of fear that does lasting harm. Above all, the fear of being spanked is the one main protective emotion that Nature has implanted in the infant breast to guard it against worse terrors. Woe to the child to whom this inestimable boon is denied!</p>
+</body>
+</text>
+
+<text type="photograph" xml:id="pictures.19160306">
+<body>
+<head>They Don't Dare Have Their Pictures Published</head>
+
+<figure n="photograph">
+<ab type="credit">Photograph from Charles W. Person.</ab>
+<p>Mary Mallon&#8212;"Typhoid Mary"&#8212;the most famous "carrier" in the annals of medical history, is now the guest of the Board of Health on North Brother Island. She has a hut all to herself, and, strange to say, no one calls on her, though she is world-famous. Mary was discovered by a health officer, and is known to have conveyed typhoid fever, as a cook and kitchen hand, to twenty-six people in eight years. She doesn't dare have her picture published, for if she did she couldn't get a job as a cook again.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph from Charles W. Person.</ab>
+<p>"To please a woman paint her portrait," is good advice, but it does not apply in the case of Mrs. Isabella Goodwin, probably the best known woman detective in the country and a first-grade lieutenant in the New York police department.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph from American Press Association.</ab>
+<p>A good photograph of a Secret Service man is a rarity. Why? Because he doesn't dare have his face "taken" to destroy his identity as a secret operative of the government. The pleasantest duty connected with the office is guarding the Chief Executive. Behind President Wilson, who is on his way to vote in New Jersey, are two Secret Service guards&#8212;Jervis (to the left with a coat over his arm) and Murphy (to the right). Note how carefully they have turned their heads to prevent a full-face picture.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph from Charles W. Person.</ab>
+<p>For eleven months Nathan Cohen was a man without a country, a Wandering Jew of the seas, a human shuttlecock. In that time he traveled 47,740 miles on a $45 steerage ticket, and cost the steamship company $750 in hospital fees, to say nothing of his board and other incidentals. Nathan harbored a particular hatred for photographers, and still does; yet the publication of this photograph, which is a snap-shot, led to his identification. He doesn't dare have his picture taken now, he says, for fear Russia will claim him.</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19160306.p005" />
+
+<text type="flag">
+<body>
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 2, No. 10 March 6, 1916</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="hendrick.19160228">
+<body>
+
+<figure n="illustration">
+</figure>
+
+<head type="main">What is the Matter with the Income Tax?</head>
+
+<byline>By <persName type="author" key="Hendrick, Burton J.">BURTON J. HENDRICK</persName></byline>
+
+<div1>
+<p>IN the last two years the United States has developed an entirely new social class&#8212;an aristocracy of wealth. Foreigners have accused us many times of possessing such a class; now, however, the United States government has definitely card-catalogued its members. The income tax, long the chief article in the creed of a militant democracy, has divided the American people into the "masses" and the "classes." The masses are those who do not pay an income tax; the classes are those who do. Irksome as tax-paying is, the citizen who now sends his annual check to the Collector of Internal Revenue does so with a certain amount of pride. For he represents the successful, the prosperous American.</p>
+
+<p>According to custom-house officials, the income tax has aroused very little hostility. Its victims pay without grumbling&#8212;almost cheerfully. Other nations have had the utmost difficulty in instituting this system; near-riots have assailed the income-tax assessor in some countries. Here, however, with the exception of corporations that dislike "collection at the source," the measure has aroused no popular uprising. Perhaps a queer psychological twist&#8212;the taxpayer's realization that he is one of the nation's fortunates&#8212;explains this attitude.</p>
+</div1>
+
+<div1>
+<head type="sub">Only One in 300 Pays Income Tax</head>
+
+<p>ONE need not be a Rockefeller or a Vanderbilt to belong to this new aristocracy. The terms of admission, indeed, appear quite moderate. If you are an unmarried person, a steady job yielding you $3000 a year, or investments returning the same amount, qualifies you for this exclusive club. If you are married, $4000 a year puts you in the favored class. Probably most Americans receiving incomes of this size do not regard themselves as favorites of fortune. Nearly all who struggle along under such monetary limitations are constantly indulging in self-pity. When I describe such down-at-the-heel citizens as an aristocracy of wealth, however, I use the word advisedly. The figures from the income-tax office prove the case. At the present moment there are not far from 100,000,000 people in the United States. Of these only 357,598 pay an income tax; that is, this is all who have an income of more than $3000 or $4000.</p>
+
+<p>Anybody who has such an income, therefore, is one person in three hundred. Certainly any man, woman, or child who belongs to so small a group can not be reasonably dissatisfied with his lot. If you by your own exertion have reached a position that yields $3000 or $4000 a year, these comforting statistics prove that you have made good; if you accomplish it by inheritance, then you can thank your successful forebears. In either case, you must not grumble about paying a small income tax. It is the penalty you pay for being so rich.</p>
+
+<p>In a way, this revelation is surprising. It shocks somewhat our national complacency. The present law represents a deliberate attempt to tax the rich and let the poor man escape. But it has not <choice><orig>dis-
+
+<cb n="2" />
+
+closed</orig><reg>disclosed</reg></choice> so many victims as its framers counted on. The Committee on Ways and Means estimated that the new personal income tax would produce 425,000 taxpayers, who would pay $70,000,000. The first year it yielded only $28,000,000; the second year, from present appearances, we obtained $41,000,000.</p>
+</div1>
+
+<div1>
+<head type="sub">About 5000 Millionaires in America</head>
+
+<p>FOR many years we have taken great pride in our millionaires, especially our multimillionaires. Again the income tax disappoints us. In numbers our excessively rich men do not live up to their reputation. The crop of mere millionaires is, indeed, pretty large: the first tax report disclosed 5084 who had an income of $50,000 a year&#8212;which, it may be supposed, represents a capitalized fortune of at least a million dollars. When we consider that a hundred years ago there were probably not half a dozen millionaires in this country, this seems quite a sizable contingent. About a thousand individuals have incomes of $100,000 a year, and ninety-one struggle along on half a million.</p>
+
+<p>When we come to the multimillionaires, however, the figures are more
+
+<figure n="illustration">
+</figure>
+
+perplexing. The statesmen who framed the law, most of whom thirsted for the blood of our Carnegies and Rockefellers, estimated that we had about a hundred more or less suspicious characters of this kind. The returns already available reveal only forty-four; their payments, so far as they can be calculated, can not exceed $3,000,000. Who these forty-four are no one knows, of course, except the custodians of the tax rolls, as the law specifically forbids any publicity of the
+
+<cb n="3" />
+
+kind. The list, should it ever be published, would probably contain many surprises. Many familiar names would undoubtedly be missing; many names practically unknown would make an initial appearance. Many well informed people could probably run off a list of more than forty-four multimillionaires; most of us would have declared that Wall Street held as many.</p>
+</div1>
+
+<div1>
+<head type="sub">How Much Do the Very Rich Pay?</head>
+
+<p>WHEN we examine the situation more our surprise is all the greater. These forty-four citizens, each having an income of a million or more, representing fortunes of at least $20,000,000, pay $2,500,000 in taxes.</p>
+
+<p>A moderate estimate of John D. Rockefeller's wealth is $500,000,000, which, at five per cent., would yield an income of $25,000,000. At present rates, this would pay a tax of about $1,500,000. If Mr. Carnegie has a fortune of $300,000,000 his tax would be not far from $900,000. These two men alone, therefore, would pay $2,700,000; but, according to the official report, the forty-four multimillionaires combined pay only about $2,500,000. What, then, becomes of the Schiffs, the Morgans, the Vanderbilts, the Harrimans, the Astors, the Goulds, the Schwabs, the Belmonts, the Fields, and score's of other extremely rich people who readily come to mind? If Mr. Rockefeller and Mr. Carnegie possess anywhere near the fortunes commonly attributed to them, and if they have made honest returns, all their associate millionaires have escaped the tax.</p>
+
+<p>Naturally, the suspicion
+
+<cb n="4" />
+
+arises that these plethoric gentlemen have concealed their mountainous wealth. The fact remains, however, that millionaires have great difficulty, even if they had the inclination, in evading the income tax. The little chap with $3000 or $4000 can conceal his money much more easily than the big fellow with $1,000,000. The multimillionaire is a conspicuous mark. Should Rockefeller file a return saying that he had an income of $50,000, his poverty would immediately become more conspicuous than his wealth has ever been. The tax- gatherers would drag him into court, seize his books, and begin a most distressing inquiry into his private affairs. No; the conclusion seems inevitable that the popular mind has greatly exaggerated the wealth of our extremely rich men. The tax returns show that the United States has not yet produced that portent of the ages&#8212;a billionaire. Such a monstrosity would pay an income tax of $3,000,000 a year&#8212;and the whole forty-four listed in the government records, as already noted, pay only $2,500,000.</p>
+
+<p>The returns, however, reveal one reassuring fact; and that is that our country, as we have suspected all along, is the richest in the world. Our crop of millionaires; small as it appears, is something the like of which no other nation can exhibit.</p>
+
+<p>There are about 29 Englishmen who pay taxes on incomes of $250,000 and more; the first year of operation in the United States gathered in 145. Few Americans realize what a colossal reservoir of taxable wealth the American people have in their fluid incomes. England's income, according to the best authorities, amounts to $12,000,000,000 a year&#8212;an amount that has startled more than one commentator on her economic life. These gentlemen figure the available incomes of Americans at $30,000,000,000. Thus we have a supply of ready money nearly three times as great as England's.</p>
+</div1>
+
+<div1>
+<head type="sub">England Taxes Small Incomes</head>
+
+<p>IMAGINE, for a moment, that we begin taxing this for national purposes on the English plan. England does not wait until the victim receives $3000 or $4000 a year: it levies tribute upon every man, woman, and child who enjoys an income in excess of $800. The rates, even in peace times, are much higher than are ours. The British Empire, in ordinary times, obtains $225,000,000 a year from this source. If we levied on the same plan as England, our income tax would yield annually about $675,000,000. If we used the highest rates and the highest scale of exemption, we could obtain enough money, from the income tax alone, to pay almost the entire cost of the federal government. We could drop nearly all tariff duties, all beer and whisky taxes, and other miscellaneous sources of revenue. In war-time this form of tribute would doubtless provide us a great financial mainstay. The present war rates of Great Britain would give us nearly $1,500,000,000 a year, which would make a large contribution to the cost of war, expensive
+
+
+<pb n="Page 6" xml:id="ew.issue.19160306.p006" />
+
+a luxury as that seems to be. England takes more than half her national income for war, spending between $7,000,000,000 and $8,000,000,000. If we should take half our income for war, we could shovel out about $15,000,000,000 a year in this engaging pastime. Here is an element of "preparedness" that most of its advocates have not properly emphasized.</p>
+</div1>
+
+<div1>
+<head type="sub">Our Most Popular Tax</head>
+
+<p>THESE figures accentuate the really important point: that the income tax promises to change our whole economic life. It has existed for only two years, but it is unquestionably the most popular tax ever imposed in this country. We may thus take one thing for granted: the federal government will never give it up. It is popular because it levies taxes upon the people who are best able to pay them.</p>
+
+<p>Whether we believe in protection or in free trade, we can not dispute the fact that tariff taxes are paid mainly by the poor. Mr. Carnegie and Mr. Rockefeller may consume a little more sugar than the village blacksmith, but not much more&#8212; which means that these great millionaires and the workingman pay about the same taxes upon this particular product. As there are many millions of workingmen to one Mr. Rockefeller, the poor people, under the tariff system, are clearly paying the cost of government. But the income tax not only takes from the rich man, but it takes in proportion to his wealth: he not only pays on a large sum, but he pays at an increasing rate. For these reasons, the years will witness an increasing
+
+<cb n="2" />
+
+dependence upon this source of revenue.</p>
+
+<p>"The income tax," says Lloyd-George, "is the sheet-anchor of the English financial system." A few years hence an American Secretary of the Treasury will probably say the same thing. So far, we have made the merest beginning. In the English and Continental sense, we really have no income tax at all. The coming Congress will probably consider many plans for its extension. We shall have to raise large additional amounts, especially for national defense; the income tax offers the most available means of getting this money. What changes are needed to make this new measure really a powerful support to the federal government? We can get a practically inexhaustible money supply this way; what will be the fairest method of getting it?</p>
+</div1>
+
+<div1>
+<head type="sub">Why Not Assess Rockefeller 20 Per Cent.?</head>
+
+<p>OF course, there are just two ways of adding to our income tax receipts. One is to increase the rate. Instead of assessing Mr. Rockefeller six per cent. on his surplus wealth, why not assess him ten or fifteen or twenty? This plan would limit the payment of the tax to essentially the same classes that pay it now; that is, it would still permit 98M per cent. of our people to escape entirely. The other plan would be to reduce the limit of exemption. Instead of taxing only incomes of more than $3000 or $4000, we should place the limit at $2000 or $1000. The American income tax is the only one that has this high exemption; the average of the fifty-odd
+
+<cb n="3" />
+
+other countries that levy income taxes is about $400. When the Hull bill was under discussion in the House, some tardy spirit put in an amendment that made the exemption $1000. His suggestion received little consideration. "If any such amendment were accepted," one fervid orator declared, "'the people' would rise in their wrath and write the law off the books as promptly as we have written it on." Congress decreed that the exemption must have a "minimum of existence." Its idea was that all people must be exempt who had to exercise great frugality to get the necessities of life.</p>
+</div1>
+
+<div1>
+<head type="sub">America's High Standard of Living</head>
+
+<p>THE fact that the law exempted incomes of $3000 and $4000 apparently indicates that Congress figured on a pretty high standard of living in this country. In all probability, political Congressmen misinterpreted public sentiment in this matter. There are excellent reasons for decreasing the exemption. In the first place, a decrease would greatly add to the revenue, and this without proving extremely burdensome to the smaller people. The rate on these small incomes would probably be made not higher than one-half of one per cent. A man earning $1100 a year, if the exemption were placed at $1000, would thus pay an income tax of only fifty cents. A man with $1500 would pay two dollars and a half. We can not believe that American patriotism burns so dimly that the proletariat would refuse these small contributions.</p>
+
+<p>A small rate upon small incomes,
+
+<cb n="4" />
+
+therefore, would perhaps be a wise reform. After doing this, Congress could more gracefully extend the application at the other end&#8212;that is, increase the percentage that the very prosperous pay. The man who has a yearly income of $10,000, $20,000, $50,000, $100,000, or more can not grumble with decency at paying a large income tax&#8212;much larger than he pays now. England, for war purposes, is taking a third of such incomes, and will take much more; why should not the United States take ten or fifteen per cent.? Imagine yourself making this offer to the average humdrum citizen: If I fix things so that your income will be $100,000, will you give $10,000 of it to the government? How many would refuse this offer? Wouldn't most people gladly pay a tax of $200 if they could have an income of $10,000?</p>
+
+<p>In the coming years we shall also arrange these incomes in two classes&#8212;earned incomes and unearned incomes, placing the larger tax upon the latter. There are many hard-working people&#8212;lawyers, doctors, business men&#8212;who, by constant labor, manage to get together each year $10,000 and $20,000 and even more. But there is a constantly growing class whose industry consists mainly in wielding scissors to cut off coupons. The first are the successful sons of toil; the second are the beneficents of inherited wealth. Gladstone called one the "industrious incomes" and the other the "lazy incomes." England wisely taxes the latter incomes at a higher rate than the former. This is another change we shall make&#8212;and probably at an early day.</p>
+</div1>
+</body>
+</text>
+
+
+<text type="fiction" xml:id="curtiss.19160306">
+<body>
+
+<head type="main">Cather</head>
+
+<byline>By <persName type="author" key="Curtiss, Philip">PHILIP CURTISS</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="Emrich, Harvey">Harvey Emrich</persName></byline>
+
+<p>THE white lights of Langley's motor lit suddenly the hedges of his own front lawn, bringing them into high relief, and giving them, with their stiff, bulging sides, the unreal appearance of stage scenery. Beyond, they picked up the two tall poplars that sentineled the foot-path, and then brought out, ghost-like, the white-painted posts of the carriage drive. Langley himself drove with the somnolence of long habit. His hands, unprompted by his brain, advanced the gas, retarded the spark, and as automatically shoved them back again, while at the same time his foot kicked out the clutch and the engine began the slow grind of low gear.</p>
+
+<p>In the same subconscious way, but in perfect contentment, he drove into the court of the stable-yard, heard the gravel crunch under his tires, rolled back the sliding doors, and drove in. Automatically he felt of the radiator, extinguished the lamps on the car, turned off the stable lights, closed the rumbling doors, and passed into the house.</p>
+
+<p>Stephen Langley was one of the very few men whose account sheet with Fate would show an almost perfect balance. He had asked very little of Fate, and for what he had asked he had paid without grumbling. He was not a man to set worlds on fire; but he fitted his groove and his groove fitted him.</p>
+
+<p>Both men and women liked him. It may have been that some women loved him, in about the way they loved their brothers; for he was that kind of man, and, mostly, he knew that kind of women. He had been in love himself once or twice, but apparently it had left no scar, for it is the man who can hate and be hated who can really love and be
+
+<cb n="2" />
+
+<figure n="illustration">
+<p>"One did not call one's sister 'girl o' mine.'"</p>
+</figure>
+
+loved. He was not selfish; he was fairly unselfish. He had a clean mind, a kind heart, and very good taste. A man to ride a horse, sit at a dinner, amuse a friend, and lend a dollar&#8212;that was Stephen Langley.</p>
+
+<p>IT was rather seldom that Stephen dined at home, at least in the summer-time, and as he walked through his kitchen-garden something made him recall that
+
+<cb n="3" />
+
+he had been out every night for a week. The thing that made him recall it was a light in the library, a sign that Cather was still up. It was rather agreeable, for, like most bachelors, Langley had the instincts of an owl, and a little chat in front of the fire was far better than stumbling around a dark house.</p>
+
+<p>Sure enough, Cather was in his accustomed place by the library table with a big volume across his knees, and forming, with his spectacled eyes, the true picture of a bookworm. On the table beside him were a plate of sandwiches, a siphon, and glasses, all untouched.</p>
+
+<p>Cather looked up and smiled in his rather drawn and rather wistful way.</p>
+
+<p>"Have a good time?"</p>
+
+<p>Langley nodded. "Fair."</p>
+
+<p>Cather always asked the simplest questions in a rather apologetic manner. He had to struggle to make even the next one casual:</p>
+
+<p>"Who was there?"</p>
+
+<p>Langley, however, had mixed himself a highball and had half a sandwich in his mouth before he replied.</p>
+
+<p>"What'd you say?" he asked absently. "Who was there? Oh, the usual bunch&#8212;the Skinners, and a man named Falk, and Ruth Stanley."</p>
+
+<p>"Miss Stanley?" asked Cather. "She was the young lady you told me was at the Hunt Club, wasn't she?"</p>
+
+<p>Langley nodded and ate. He was used to Cather's harmless but rather crude questioning: the man did it with such childlike innocence. But Cather was not through. He hemmed and gulped.</p>
+
+<p>"Isn't Miss Stanley&#8212;isn't she quite a well known society girl?"</p>
+
+<p>The phrase "society girl" grated on
+
+<cb n="4" />
+
+Langley. Cather ought to know better, he thought. But he had long before recognized that Cather had his limitations, and his answer was kind enough.</p>
+
+<p>"I imagine she is," he replied indifferently. But, though Cather was a natural bungler, he was extremely sensitive, and Langley's attempt to hide his distaste had not been wholly successful.</p>
+
+<p>"I saw her picture in Town Life," he explained.</p>
+
+<p>LANGLEY himself did not base his social judgments on the fulsome columns of Town Life, but neither did he base his judgments of Cather on his awkward moments. He picked up another sandwich and looked at it with a grimace.</p>
+
+<p>"Mrs. Dart make these?"</p>
+
+<p>Cather blushed.</p>
+
+<p>"I meant to tell you," he explained. "Mrs. Dart telephoned that she wanted to spend the night with her daughter. I thought it would be all right."</p>
+
+<p>Mrs. Dart was the housekeeper and had left after lunch. Langley became curious.</p>
+
+<p>"Did you make these yourself?"</p>
+
+<p>Cather was almost speechless with embarrassment.</p>
+
+<p>"Why, yes," he stammered. "I knew you were generally hungry when you came in. They aren't very good."</p>
+
+<p>Langley's face softened. As in the case of most people who are very thoughtful of others, few people were thoughtful of him, and it pleased him inordinately.</p>
+
+<p>"They're fine!" he exclaimed. "But you ought not to have taken all that trouble. Who got your dinner?"</p>
+
+<p>Cather stammered again:</p>
+
+<p>"Oh, I sort of&#8212;I sort of got it myself. It was great fun. I like to fool around a kitchen."</p>
+
+<p>Langley knew that the bookworm in a kitchen would be about as helpless as a debutante in a gun factory.</p>
+
+<p>"Look here," he exclaimed. "Did you have anything at all?"</p>
+
+
+<pb n="Page 7" xml:id="ew.issue.19160306.p007" />
+
+<p>"Oh, yes," answered Cather; "I had a glass of milk and some crackers and almost half a pot of jam. It was fine."</p>
+
+<p>Langley could see a picture of poor old Cather fumbling, for hours probably, making those hopeless sandwiches, and then sitting beside them, like a faithful dog, half starved, but waiting for him to come home.</p>
+
+<p>"Heavens and earth, John," he exploded, "that's a shame!" And, being himself handy enough in the kitchen, he rushed from the room, returning with a huge piece of chocolate cake and a glass of milk shaken up with an egg.</p>
+
+<p>Cather protested violently, but finished everything put before him, including the rest of the sandwiches.</p>
+
+<p>"You ought not to have done it, Steve," he ended, rather choking. "You've done enough for me as it is."</p>
+
+<p>"Oh, rot," replied Langley; but he was already half way upstairs.</p>
+
+<p>THE position of John Cather in Langley's household was one which could be explained easily enough, but Langley never had explained it and never would explain it to his friends. If any one asked, he merely said: "Oh, he was a class-mate of mine."</p>
+
+<p>Cather had, in truth, been in Langley's class in college. Not only that, but he had been the head of the class, while Langley had been in the glorious middle. But at college Langley had hardly known Cather at all, for the latter had been one of those hopelessly inefficient creatures who make the word valedictorian almost a term of reproach. He was a pure dreamer.</p>
+
+<p>Cather's five years out of college had been pathetic. A man who could not find a word in a dictionary because he read all the intervening words, active life seemed to have no place for him at all. An instructor's position in a small college he had lost almost immediately because his class-rooms were simply riots. He had taught in a high school with even worse results; and in the end the secretary of his class had found him acting as clerk in a dry-goods store, uncomplaining and, in a way, rather interested in his work.</p>
+
+<p>He had told Langley about it. For all ills Langley had only one remedy.</p>
+
+<p>"John," he had said when he found him, "come up in the country and visit me a while. I've got some books I want you to help me with."</p>
+
+<p>John had protested, but he had come. He had come for two weeks, and he had been there for over eight months. For the first few weeks he had gone religiously through all the motions of going away; but, with less and less effort, Langley had overruled him every time, and now his leaving was not even mentioned. At first there had been some talk of a tutorship or a librarian's position, and Langley had even written one or two letters with those ends in view; but the answers had been vague and dilatory, and the indefinite hope they offered had served only as an excuse for further stay. Cather was there, and that was all. Half the time Langley forgot him, and all the time Cather forgot everything if only he had a book on his knees. In little ways he made himself useful. He added up the slips on the grocer's account, and kept the tobacco jar full. The housekeeper was afraid to sleep alone in the house, and Langley found him convenient as a watchdog. But most of all Langley was by nature patriarchal. The head of his house had always had dependents around him; the strong cared for the weak; and he needed no further argument.</p>
+
+<p>TO-NIGHT, however, he thought of Cather in rather a different light. The man's simple devotion was rather pathetic, and Langley accused himself for not having been more attentive to him. He had never introduced Cather socially. He had known that he would never fit in, and apparently Cather had no desire for society. But no human being likes staying alone in an empty farm-house, and now he felt it had been rather brutal of him to go off night after night. He recalled Cather's awkward questioning about the
+
+<cb n="2" />
+
+people he had met, and wondered whether loneliness had caused it. He even accused himself for having let it annoy him. He must see what he could do about providing Cather with some sort of company.</p>
+
+<p>The matter was recalled to his mind the next morning at breakfast, when Cather suddenly asked him:</p>
+
+<p>"Steve, what's a martingale?"</p>
+
+<p>Langley explained with a rather quizzical smile, which was not lost on Cather, for he added almost in apology:</p>
+
+<p>"I saw the word in a book."</p>
+
+<p>Langley was not deceived.</p>
+
+<p>"John," he said suddenly, "don't you want to learn to ride? It would do you lots of good."</p>
+
+<p>Cather blushed, as he did on the least provocation.</p>
+
+<p>"It would be awfully good of you," he replied; "but I don't know anything about it. I might hurt the horses."</p>
+
+<p>Langley smiled again and did not press the matter; but he tucked the idea away.</p>
+
+<p>A few days later Langley made one of his rare visits to his desk, and in fumbling over his papers came across one that was out of place&#8212;a letter half finished and as if tucked aside awaiting time for completion. It was not in his own writing; a glance told him that it was Cather's, and he crammed it into a pigeon-hole. Then he remembered subconsciously that he had seen the same letter in the same place several times. Perhaps it was a letter that Cather had written for him. He glanced at it; then, gripped with a sudden hot anger, read it from end to end.</p>
+
+<quote>
+<p>Dear Girl [it began]: This letter has been long delayed, but life in the country is not the dull thing that most people imagine it to be. In fact, you would be quite surprised to see your "bookworm" in the midst of one ceaseless round of frivolity.</p>
+
+<p>Dinners, dances, hunts, riding follow one after another, and it is a standing joke between my partner and me that we never see each other at home. When he is not off on some giddy excursion I am; and when one or the other of us comes down to breakfast late but appetiteless, the other simply gives him a look of stern reproach and says, "Score one."</p>
+
+<p>I have told you about our little farm. Of course we are not in it to make money, but if the corn crop does not go back on us we will have a pleasant little balance, thank you.</p>
+
+<p>You would laugh, I say, to see the man who was nothing but a grimy valedictorian in the midst of these butterflies; but, girl o' mine, I have got to make a confession. I like it&#8212;like it just as much as you did in your palmiest days of college proms, and if you could see me now I do not think that you would be ashamed of your bookworm. I rode in the drag hunt Thursday, and finished well up in spite of a broken martingale; and after it went to a dinner that was a joy of joys.</p>
+
+<p>There were several young married people there, and&#8212;now don't be jealous&#8212;a girl whose face you have seen very often in the society sheets, but whom I will call simply "Miss S." She quizzed me about my broken martingale, and I retorted with a quotation from Xenophon On the Horse. She admitted defeat.</p>
+
+<p>And, by the way, I have invented a new cocktail known as the "Bookworm," which, people tell me, is very profound. You take&#8212;</p>
+</quote>
+
+<p>BUT here the letter broke off, and Langley threw it back on the desk. It was so absurd that normally his inclination would have been to roar, but it touched him in his one vulnerable point. To Langley's mind, the sin of sins was a lie. Yet, curiously enough, he told himself, in detecting the lie he had committed the sin that lie regarded as only less sneaking&#8212;he had read another man's letter. Nor did the circumstances make any difference. True, Cather had been his dependent for months, and his own name had been taken in vain; but he did not know that when he began. Langley was honest with himself. By his code, a man could not read his own death-warrant if it were not addressed to him. He had caught Cather in a matter pitifully shameless, but by the very act he had involved himself.</p>
+
+<p>Langley sat down to think it out. As a gentleman there seemed to be only one thing to do. He would go to Cather, hand him the sheet, apologize for having read it, and walk away without saying anything, leaving Cather to accuse himself. But this appealed neither to his chivalry nor to his common sense. Cather would suffer out of all proportion for
+
+<figure n="illustration">
+<p>"'You ought not to have done it, Steve. You've done enough for me as it is.'"</p>
+</figure>
+
+sins that were almost equal. It would be a melodramatic excuse for a cruel deed. He himself would suffer nothing but the temporary humiliation of a confession. Cather would have to live along in the consciousness of what he knew to be a grave offense in Langley's eyes&#8212;either that or he would have to go away. And, now that he faced it, Langley knew what he had not previously taken the trouble to acknowledge&#8212;that he did not want Cather to go away. He was too kindhearted to endure the thought of sending Cather out into a world which he was pitifully unable to face, and, more than that, he had to confess that he would be very lonely without him.</p>
+
+<p>Cather was not the companion he would have chosen, but he was the only companion he had. He never made any trouble. He never talked too much. He was gentle and self-effacing. And Langley had lived too many years all alone not to know the comfort of having some one around for an odd moment's chat. He rather liked to hear Cather fumbling around the library, and enjoyed the picturesqueness of his queer, gaunt figure huddled over a book. But, most of all,&#8212;and this he did not acknowledge,&#8212;it was entirely against his instincts to upset the ruling order of things.</p>
+
+<p>Thus, with a rush of his natural good nature, Langley saw the thing in a milder light. It was really an absurd little peccadillo, after all: Most men would have made a rude joke of it; for the idea of Cather riding to hounds was so ludicrous that, even in this moment, Langley could not avoid smiling. To judge Cather by other men's standards was futile. He just didn't know any better. Langley came of a race which had one code for gentlemen and another for all other men. His father had been a fine old bigot who had patronized everybody except landholders, and Langley himself had faint traces of this in his make-up. Every one
+
+<cb n="4" />
+
+knew Cather for a poor unfortunate, and, after all, what more could one expect? Langley reached for the sheet of paper, tore it to bits, and resolved to forget the whole matter.</p>
+
+<p>SUCH matters, however, do not allow themselves to be so easily forgotten. Cather himself had evidently forgotten the sheet or thought he had lost it. It might have been that he thought he had mailed it.</p>
+
+<p>It was several days before Langley's imagination had encompassed the phases that would have occurred at once to a more analytical man. The day following the discovery the matter of honor began to fade out of sight and the thing became rather laughable; but, after that, slowly grew another aspect&#8212;the pathos of the thing. For that was the side of the case which overwhelmed everything else as soon as the anger faded.</p>
+
+<p>Here was the wistful, pathetic man who had failed&#8212;failed after great promise. Conscious of his failure, he was dependent on one who had stood far below him, one of the undeserving butterflies of their college life. He lived on the outskirts of a gay, dashing life, a life which he saw constantly but in which he had no part. And yet somewhere there was one woman &#8212;it might be his sister or it might be his sweetheart&#8212;to whom he could not confess his failure. She had known him in his moment of promise&#8212;the reference to college days showed that. Langley wondered if she knew what had come between, or with what wild romances Cather had covered up that. But now, at least, in his not uncourageous soul, the man who had failed was drawing for her a wholly imaginary life, copied precariously after that of the man whom he most admired. For Langley had ridden a race&#8212;though not to hounds&#8212;with a broken martingale, and had told Cather about it. And he remembered now all kinds of
+
+<pb n="Page 8" xml:id="ew.issue.19160306.p008" />
+
+questions that Cather had asked him about dogs and farming and dances and dinners. He saw now where they had gone&#8212;to that girl.</p>
+
+<p>And with that thought there arose, naturally, a mild curiosity as to the girl, a curiosity that grew deeper. He could not conceive what kind of girl mild little Cather could hold in interest for all of those years, and ransacked his brain for recollections of Cather's college life. He could remember very few, although he knew that Cather came of good people. His father had been curator of the college museum, and a man much like Cather himself. His sister, however, had been quite a beauty. When Cather senior had died penniless, she had married a man with money whom Langley despised. Perhaps it was she to whom Cather was writing; but that did not sound probable. One did not call one's sister "girl o' mine."</p>
+
+<p>So Langley pondered on Cather's romance until it became to him almost reality. He could actually see the girl; he could see her with a certain reflected affection. Instead of wishing now, as he had wished, to expose Cather's pitiful fabrication, he determined to foster it. If it lay in his power, and he thought that it did, he wished to have Cather continue to be in her eyes the man he had painted himself. He doubted whether he could change Cather himself, but he knew that he could arrange his setting.</p>
+
+<p>BUT about the girl herself his social knowledge was too exact to furnish any illusion. He knew from the start that she could not be of the dashing, fox-hunting type the letter would seem to imply. Langley pictured her, with faultless precision, a little mouse of a girl, an honest, solemn little soul of a girl, the daughter in a professor's numerous family, a teacher, a secretary, or a brave little person struggling for her living. To such as that Cather's letters of outdoor life and horses and hunts and "society girls" would come like the life of a fairy prince. To her they would be as real as they were to Cather himself. It was too golden a story to be rudely broken, and Langley was not the man to break it.</p>
+
+<p>But still the days went on without any interchange of the secret which these two men possessed. Langley went out as usual, and seemingly paid no attention to Cather's mild occupations. Cather apparently spent most of his time over his books, and if he wrote any more letters, he did not leave them in Langley's desk. There was only this difference: that Langley heard Cather's questions now with a new interest, answering them with painstaking minuteness. For, if Cather must fabricate, he was resolved that the fabrication would be a good one. He had a sort of professional pride in making it exact.</p>
+
+<p>"Steve," Cather asked one day, "what is the best cure for spavin?"</p>
+
+<p>To which Langley replied:</p>
+
+<p>"If any one tells you that he has a cure for spavin, tell him he is a liar."</p>
+
+<p>"But," pursued Cather, "if a horse had a spavin, could you tell it right away? Would it fool any one?"</p>
+
+<p>Langley pondered:</p>
+
+<p>"Well," he said, with a laugh, "if a horse had two spavins he wouldn't limp. Some years ago Jake Shuttle had a gray mare&#8212;" and so on through all the gray mare's intimate history.</p>
+
+<p>IF Langley had been a more dramatic man he would have jumped at the secret instead of letting it hang over them.</p>
+
+<p>"John," he would have asked at some unexpected moment, "were you ever in love?"&#8212;and let Cather's telltale face give the story. But broad social experience breeds an extreme diffidence, and a man of Langley's type could never have brought himself to ask a question like that.</p>
+
+<p>Only once did he get a direct clue. Usually Cather took the mail to the post-office every evening. It was one of his
+
+<cb n="2" />
+
+few duties, and he performed it with scrupulous regularity. On one occasion, however, Langley had a letter to go in haste.</p>
+
+<p>"Any letters to post, John?" he asked, and after much fumbling Cather produced a thick envelop of the house stationery.</p>
+
+<p>Langley shoved it into his pocket with feigned carelessness; but, once in the car and down the hill, he took it out and read the address with perfect shamelessness. It was inscribed about as he had thought:</p>
+
+<quote>
+<p>Miss Margaret Hillyer.</p>
+</quote>
+
+<p>The address was the Teachers College.</p>
+
+<p>Langley put the envelop back in his pocket and chuckled. The name was all that he needed and with the address it fitted his picture perfectly.</p>
+
+<p>NO other clues came for a long, long time; but in the meantime he was working with Cather.</p>
+
+<p>"John," he said one day, "could you possibly use this gray suit? I'm sick and tired of it, and if you don't want it I'm going to throw it away."</p>
+
+<figure>
+<p>"Cather would never make a real horseman, but he learned to sit old Ben with tolerable ease. He and Langley took long country rides."</p>
+</figure>
+
+<p>Cather looked at it with wistful eyes.</p>
+
+<p>"That would be fine, Steve," he said simply, "if you don't want it."</p>
+
+<p>As a matter of fact it was a London suit and almost new, and it transformed Cather beyond belief. As clothes often do, it seemed to work inward. It gave Cather an entirely new air when he met the guests who came to the house, and he cared for it with religious tenderness. He had formerly retired to his room when people arrived; now he came modestly into the foreground. He even added a big checked cap of his own volition, and Langley beamed on him with pride.</p>
+
+<p>The riding lessons, moreover, became a fact. Cather would never make a real horseman, but he learned to sit old Ben with tolerable ease. He and Langley took long country rides. Cather began to take on strength and color and an upright carriage. Occasionally they met parties of Langley's friends, and Cather began to establish faint friendships. He never intruded. He was, unconsciously, a flattering listener, and when he could forget his shyness he had an unexpected dry wit. As for Langley, no one can pursue a course of studied kindness for months without some development. He thought of Cather as a man, and Cather actually became a man.</p>
+
+<p>It was not, however, until late in the fall that his plans reached their fulfilment.</p>
+
+<p>"John," he said one morning, with apparent casualness, "I'm going down to New Haven for the Yale-Princeton game, and then I'm going to the city. I'll probably he gone a couple of weeks, and it'll be deuced lonesome for you up here.
+
+<cb n="3" />
+
+Don't you know any one whom you'd like to have up for a week or so to keep you company?"</p>
+
+<p>Cather blushed as he had not blushed for months, and stammered quite in his old manner.</p>
+
+<p>"Oh, I don't think so," he said; "but it's great of you to think of it."</p>
+
+<p>The idea, however, evidently grew within him, and at lunch he approached it timidly.</p>
+
+<p>"Steve," he began, "about what you said&#8212;about having some one up here to visit me, to visit us&#8212;do you suppose that it would be proper for me to have some&#8212;some ladies?"</p>
+
+<p>Langley grinned in spite of himself.</p>
+
+<p>"Why, sure," he replied; "that is, of course, if they are properly chaperoned. "Whom were you thinking of?"</p>
+
+<p>"Well," he said slowly, but with his usual directness, "there is a girl named Margaret Hillyer. She is an instructor in the Teachers College, and I have known her for years. If I could ask them,&#8212;if it would be all right,&#8212;I think she and her mother would love to come."</p>
+
+<p>Langley's enthusiasm was hardly feigned.</p>
+
+<p>"By all means," he replied. "Write them to-day."</p>
+
+<p>"She would like it better than anything in the world," Cather said, "for she is very fond of the country, and almost never gets to it. You see, her family was very well off once. Her father was head of a department at Brunswick when I was teaching there; but he died, and now she has to earn her own living. Even in summer she has charge of a vacation school."</p>
+
+<p>"But could she get off?" asked Langley practically.</p>
+
+<p>"Oh, I know she could," replied Cather. "It would be such a wonderful chance. You see," he explained, "she knows all about this place; I have written about it so much. She calls it my little heaven, and she calls me 'the bookworm.'"</p>
+
+<p>The lines around Langley's mouth tightened a little.</p>
+
+<p>"Write them to-day," he commanded; and Cather did.</p>
+
+<p>The answer came in due time. Miss Hillyer had succeeded in getting a leave of absence to visit the "little heaven." With her mother, she would arrive a day or two after Langley left.</p>
+
+<p>IT had been a long time since there had been a girl in his house, and Langley entered into the preparations with far more zeal than Cather. He had new curtains hung in the guest-rooms, unearthed and polished some quaint brass holders for bedside candles, and gave Mrs. Dart special directions about hot water, which, his experience suggested, women used in unbelievable quantities. He even <choice><orig>con-
+
+<cb n="4" />
+
+sidered</orig><reg>considered</reg></choice> importing a lady's maid. It was not, however, until the morning of his departure that he sprang his coup.</p>
+
+<p>"John," he said, "when your friends are here I want you to play the host. It is up to you to give them the time of their lives, and while I'm away I want you to use the place as your own. The horses are in the stable if you want to use them, and a boy will come up from the garage to drive the car. Mrs. Dart has instructions to take orders from you. It's up to you, old boy."</p>
+
+<p>Cather said nothing, and Langley hurried on.</p>
+
+<p>"Old man," he said, not unkindly, "the great trouble with you has been that you have never had a chance to run things for yourself. You have never been on your own initiative, and I am going to put you on it now. You are to be the master here for a while. If Miss Hillyer and her mother aren't comfortable, it will be your fault."</p>
+
+<p>Langley said it and ran; for Cather showed signs of breaking down.</p>
+
+<p>It was with the utmost difficulty that Langley stayed away for those two weeks. He was growing old, he mused, for he found that it made surprisingly little difference to him whether Yale beat Princeton or Princeton beat Yale; and New York actually wore him out. He longed for his hedges and his poplars, and most of all he wanted to look at Cather's guests. But he knew that, no matter what instructions he might give Mrs. Dart, with the first sight of him Cather would sink back into his air of dependence; so he stuck it out. Cather wrote to him with religious frequency, giving minute reports of the farm. With malice aforethought, Langley had instructed the foreman to go to Cather for orders; and when the garage boy had asked about buying new tires, Cather had written in pitiful frenzy.</p>
+
+<p>"Decide it yourself," had been Langley's laconic reply.</p>
+
+<p>TOWARD the end of the second week Langley received a snap-shot photograph. The operator must have been Mrs. Hillyer, for the picture showed a serious-looking girl in a tweed suit, and beside her Cather wearing a broad grin.</p>
+
+<p>The grin was what most helped his resolution, and it was not until the night after Miss Hillyer's departure that the lights of his car lit up his hedges and poplars. Once again he saw a light in the library, but this time Cather did not stay over his book.</p>
+
+<p>"Steve, you grand old rascal!" he shouted, as he came leaping out into the stable-yard. "How are you? Everything in the world has happened to me."</p>
+
+<p>With Langley, however, the forces of habit were strong. He felt of the radiator and then turned out his lights.</p>
+
+<p>"You didn't burn the place down, I see," he replied. "Did your guests have a good time?"</p>
+
+<p>"Time!" exclaimed Cather. "Just wait till I tell you."</p>
+
+<p>He followed Langley into the house, and there in the library stood a plate of sandwiches, a jug, and a siphon.</p>
+
+<p>"I made these myself," said Cather, holding out the plate. Langley took one.</p>
+
+<p>"You must have taken lessons," he said, looking at it. "Are you going to keep house?"</p>
+
+<p>"I am," said Cather, without a blush. "I knew you'd guess it. Margaret and I are going to be married in three months."</p>
+
+<p>"I'm tickled to death&#8212;tickled to death," replied Langley. Then his practical side came to the front.</p>
+
+<p>"But, John," he said cautiously, "how in the world are you going to live?"</p>
+
+<p>"That's the biggest surprise of all, Steve," replied Cather. "I was keeping it for you. Odd as it may seem, I think I have found my niche."</p>
+
+<p>He reached to the table behind him, picked up a volume, and handed it over.</p>
+
+<p>It was a very new volume bound in green. On it, in big gold letters, was printed:</p>
+
+<p><hi rend="italic">Love Letters of a Bookworm</hi></p>
+
+<p><hi rend="italic">by John Cather</hi>.</p>
+</body>
+</text>
+
+<pb n="Page 9" xml:id="ew.issue.19160306.p009" />
+
+<text type="photograph" xml:id="clothes.19160306">
+<body>
+
+<head type="main">The Clothes I Like to Wear the Best</head>
+
+<byline>Photographs by Paul Thompson</byline>
+
+<figure n="photograph">
+<p>IT'S a feather in the cap for lovers of the modern dances that delightful Lopokawa of the Imperial Russian Ballet loves the fox trot. Here is the little ballerina poised on a windowsill for a moment, like any other bird. She is wearing a the dansant frock of silver cloth, clouded with draperies of black tulle. Observe how adroitly this frock's designer evaded the collar issue. If you want one, here it is, of pleated tulle. If you don't want one, forget it!</p>
+<ab type="credit">Frock by Bonwit Teller</ab>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Frock by John Wannamaker. Hat by Knox.</ab>
+<p>MADGE KENNEDY of "Fair and Warmer" told us that her favorite spring costume consisted of a middy blouse and bloomers, but of course we weren't going to put that down on a fashion page. So she said "a jolly little afternoon dress" like this one. Many a young widow's grief has been tempered by the fact that black and white is effective and may be worked out very soothingly in frock, hat, and parasol. "And why wait to be a widow?" inquires Miss Kennedy.</p>
+</figure>
+
+<figure n="photograph">
+<p>VIVIENNE SEGAL of "The Blue Paradise" took a prize last summer for wearing the most artistic bathing suit in Atlantic City, and if we had a gold watch or something around we'd hand it to her for looking so charming in this one. Twilight blue and black-and-white, with snug breeches underneath, and a strange sun-hat all squares and circles-very, very Bakst.</p>
+<ab type="credit">Suit by John Wanamaker.</ab>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Gown by John Wauamaker.</ab>
+<p>MISS EMILY STEVENS, heroine of "The Unchastened Woman," doesn't care who knows that she loves inexcusably lovely useless tea-gowns like this one, simply to "trail behind her on the floor and trundle after through the door." "It's too dreadful of me," says Miss Stevens. "Look at this gown. The pearl trimming bands are so heavy that after a few wearings I suppose they will tug the delicate chiffon away from its moorings. And imagine the cleaner's bills for all this ivory-colored panne velvet. But I can't help it&#8212;I love things that perish if you touch them&#8212;and so does Brutus."</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Outing Cloches by Franklin Simon.</ab>
+<p>COMFORTABLE out-of-door togs are the winners with Miss Eleanor Painter of "The Princess Pat." It's a pale-rose cr&#234;pe de chine sweater she is wearing, with deep black velvet collar and cuffs. You can pay anything you like for a sweater these spring days, from ten dollars to a hundred.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Habit and Hat by Franklin Simon.</ab>
+<p>HAZEL DAWN never can resist a new riding habit. There is a tang about polo-cut breeches and paddock coat more fascinating than the silken lure of any evening dress, she says. This latest love of Miss Dawn's is of faun-colored covert cloth with plenty of pockets. The leghorn hat has a folded crown and a faun-colored band to match.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Gown by Lucille.</ab>
+<p>ONE would never guess from these languid draperies that Miss Frieda Hempel is the champion skater among all the singers at the Metropolitan Opera House. Such is the case, however, and Miss Hempel likes short skirts and knitted hoods on the ice almost as well as the big pinafore she wears when she concocts her famous potato salad. But, after all, since her art is her life, it is in a magnificent concert gown like this one by Lucille that the young German prima donna is most happy.</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19160306.p010" />
+
+<text type="photograph" xml:id="faces.19160306">
+<body>
+<head type="main">Million Dollar Faces</head>
+
+<figure n="photograph">
+<ab type="credit">Photograph from N. C. Marbourg.</ab>
+<p>IF Venus de Milo were alive and had arms, she would throw them up and acknowledge herself beaten. Each of the Venuses on this page has had more than a million dollars spent in making her face known to the public. Loretta Brady, for instance, is known across the continent for her perfect teeth. Sometimes on your tooth-powder you see her face entire; sometimes only her lips, curved in an entrancing smile around her sparkling ivories. One concern alone has spent $40,000 a year telling you that if you will only brush hard enough and often enough you can look like Miss Brady.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph by Stadl</ab>
+<p>HERE, husbands, is the real culprit&#8212;the real reason for the high cost of millinery. Her name is Mae Burns, and she makes her living by looking so bewitching in new hats that wives all over the country sit right down, when they see her picture, and clip the coupon at the bottom of the advertisement. More than $5,000,000 has been expended in advertisements picturing Miss Burns; and on one day last year she posed for nine different advertisements, each time in a different hat. Back to the mines, men, and dig for your lives. Easter will soon be here.</p>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph from N. C. Marbourg.</ab>
+<p>THE officers of the Panama Exposition have recently announced th<unclear/> many million people were admitted to the exposition grounds last year, <unclear/> eight arrests were made for drunkenness. This is a tribute to the uplift<unclear/> of Miss Audrey Munson of Rochester, New York. A large proportion of <unclear/> and statues around the fair grounds&#8212;all the goddesses, nymphs, seasons <unclear/> Miss Munson in various disguises. She is known as the Panama Girl. <unclear/> any man get drunk with her looking down at him from every corner of eve<unclear/></p>
+</figure>
+
+
+
+<figure n="photograph">
+<p>"BLESSED be the gentle showers," says Miss Maynard of Brooklyn; for if there were no gentle showers there would be no rain-coats, and hence no job for Miss Maynard. You may think that to wear a rain-coat and look charming in it is an easy task; if so, think again. The concern for which Miss Maynard poses looked a long time before they found her; and, having found her, they expend $50,000 a year in picturing her to you dressed in their coats. If Sir Walter Raleigh had met her on a rainy day, there would have been more excuse for that celebrated coat-throwing act of his.</p>
+<ab type="credit">Photograph from N. C. Marbourg.</ab>
+</figure>
+
+
+
+<figure n="photograph">
+                        <ab type="credit">Photograph from N. C. Marbourg</ab>
+                        <p>AND this is Miss Audrey Munson in another pose. Expositions come only
+                            once in a while, and between-times one must eat as usual. Miss Munson
+                            may be said to lead a "hand-to-mouth" existence. Which is to say, she
+                            provides for her mouth by having photographs made of her hands. The
+                            majority of pictures in advertisements in which the hands and arms alone
+                            appear are made from Miss Munson, and it is estimated that $5,000,000
+                            have been spent on that account.</p>
+                    </figure>
+
+<figure n="photograph">
+<ab type="credit"></ab>
+<p>EXPERTS assure us that Miss Justi<unclear/> of Hoboken is worth every penny <unclear/> the employ of a certain large hosier<unclear/> Recently Miss Johnstone won a $5000 <unclear/> offered by a New York newspaper, dist<unclear/> than 20,000 competitors. Among photo<unclear/> is known as "Goldie Gotham," so well <unclear/>tographs become known through the h<unclear/> tisements. Personally we stick to the old <unclear/> kind, but every time we see Miss Johnstone <unclear/> tempted to jump to silk.</p>
+<ab type="credit">Photograph from <unclear/></ab>
+</figure>
+
+
+
+
+<pb n="Page 11" xml:id="ew.issue.19160306.p011" />
+
+<figure n="photograph">
+<p>AT last justice shall be done. We will now remove forever the curse that has hung upon Brooklyn. No more shall the snobbish inhabitant of New York or Keokuk point the finger of scorn. For, behold, the "Fifth Avenue Girl," Miss Evelyn Rey, the girl who has made Fifth Avenue gowns famous by the grace with which she wears them, lives&#8212;where do you think? In Brooklyn. It was news to us, we admit. We must visit that city some day and look it over: there may be other good things there. Who can tell?</p>
+<ab type="credit">Photograph by Apeda.</ab>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">&#169; A. H. Stadler.</ab>
+<p>"SLEEP, baby, sleep; And do not move your bean: For the man is taking your photograph, To run in a magazine." With this song (or something like it) Mrs. Philip O'Dal of Chicago bends over the cradle several times a day while the photographer gets busy with his camera. Mrs. O'Dal is known as the "most popular young-mother type" in the country. The baby used in her pictures is guaranteed absolutely genuine; and is kept happy by being soothed with So-and-So's Talcum Powder or wrapped in So-and-So's undershirts&#8212;according to which advertisement you read.</p>
+</figure>
+
+<figure n="photograph">
+<p>OPEN the first woman's magazine you happen to come to, turn to the "helpful" pages in the back, and you will be rewarded by a picture of Miss Helen Hunter of Chicago, clothed in a shirtwaist that you can make at home according to the following directions: Take two yards of organdy; pass the needle first to the right, then two turns to the left, straight ahead through
+stone watering-trough (18.8), pass brick church to the right to end of road, thence over good macadam, with a double gore around the gusset, and so back to point of original departure.</p>
+<ab type="credit">Photograph by Stadler.</ab>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph from N. C. Marbourg.</ab>
+<p>"THE Girl with the Smile" is Miss Helen Remley of New York City; and her long-distance record, unbeaten by the world, is ninety smile pictures in one day. You ladies who smile, and get nothing for it except a kind word from your husbands or a little better place in the line at the ticket window, may envy Miss Remley, who makes her living so easily. But smiling as a steady job is no easy matter. Miss Remley most be able to hold an "open smile" for at least twenty-five minutes without allowing her expression to become set or the lines of her face hardened.</p>
+</figure>
+
+<figure n="photograph">
+<p>IT was a bit cruel of the artist to cut off half the head of Miss Zona Cass, for her head is well worth looking at. But the really important thing is her hands, which are pictured to you in street-cars and magazines at a cost of several million dollars a year. Think of it, men: a good living just for putting her hands in front of the camera, while we get $1.50 a day for winding our hands around a pick! And yet they talk of woman's rights.</p>
+<ab type="credit">Photograph by White.</ab>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph by Fashion Camera Studios</ab>
+<p>SO we come to the end of the page with the picture of Miss Marie Tremaine, whose distinction is that she can look beautiful when her features are in perfect repose. With Miss Tremaine's help, several manufacturers of lingerie have made success. Time was when a woman could get along with two shirts, like a man&#8212;one on and one in the wash. But now it's "We've got to have a larger apartment, dear: I have no place to put my things." Miss Tremaine has done that.</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 12" xml:id="ew.issue.19160306.p012" />
+
+<text type="photograph" xml:id="jobs.19160306">
+<body>
+
+<head type="main">Men in Women's Jobs</head>
+
+<figure n="photograph">
+<p>YOUNG Benjamin F. Tignor of Columbus, Georgia, makes the most exquisite hand-made lingerie for brides and babies with his own trusty left hand. Designing, embroidering, hemstitching, and "putting together" anything from collar and cuff sets to petticoats has an irresistible appeal for this young man, and the Tignor baby cap is quite the sweetest thing that any one ever saw.</p>
+<ab type="credit">Photograph from Sarah Addington.</ab>
+</figure>
+
+<figure n="photograph">
+<p>THIS is Mr. Ellsworth Udell, a Cincinnati motorman, and if he has a weakness it's for getting home to his crochet work in good season of an evening. Expert bowler and successful gardener though he is it is to his half acre or so of crocheted scarfs and doilies that Mr. Udell points with pride. "Crochet work is easy if you have something to chew while you're at it," says Mr. Udell.</p>
+<ab type="credit">Photograph from J.R Schmidt.</ab>
+</figure>
+
+<figure n="photograph">
+<p>EDWARD FANWORTH, general house-worker, was trained in the best school of neatness in the world&#8212;an ocean liner. "A hook for everything, and everything on its hook," is Fanworth's motto still, though now he does his baking and dusting on terra firma.</p>
+<ab type="credit">Photograph by Gertrude A. Brugman.</ab>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph from J.R. Schmidt</ab>
+<p>WOMEN may do very well as chauffeurs and deputy sheriffs, but it does take the masculine touch for the perfect waffle. And, of all the skilful wafflers, there are few who dare measure irons with Alfred Barsotti, late of Italy, now of a fashionable Fifth Avenue teashop.</p>
+</figure>
+
+<figure n="photograph">
+<p>IF he had had a hair-dresser's training in early youth, that unfortunate boatman mentioned in <hi rend="italic">Die Lorelei</hi> would have got back to his wife and family in time for supper. Fran&#231;ois, here, thinks pretty hair is very nice; but he would never fall out of a boat about it. Many women maintain that only at the hands of a man can a coiffure achieve real distinction.</p>
+<ab type="credit">Photograph by Paul Thompson.</ab></figure>
+
+<figure n="photograph">
+<ab type="credit">Photograph by Paul Thompson.</ab>
+<p>WHEN Harlem mothers go shopping at one of the big 125th Street stores, they check their babies outside; for this tall Englishman, Edward Munday, is an expert tear drier and rattle retriever. He has it all over the blue-and-white-striped nurses on Riverside Drive.</p></figure>
+
+<figure n="photograph">
+<p>THERE is a tradition current among women that any man left to his own devices has just one recipe for dirty dishes: Pile 'em up and wait till mother comes home. There are men, however, who whistle an air while they scour the frying-pan, and figure out their favorite's batting average while they sponge off the coffee-cups. We captured this chap right in the act.</p>
+<ab type="credit">Photograph by Paul Thompson.</ab>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 13" xml:id="ew.issue.19160306.p013" />
+
+<text type="fiction" xml:id="ford.19160306"><body>
+
+<head type="main">What Milo Needed Most</head>
+
+<byline>By <persName type="author" key="Ford, Sewell">SEWELL FORD</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="Wilson, F. Vaux">F. Vaux Wilson</persName></byline>
+
+<p>AS a rule I don't indulge much in private feuds; that is, these serial grouches, the kind that has to be nursed along like a log fire and poked up every now and then. I'm more apt to have it out on the spot, tell 'em what I think right off the reel, get their full opinion of me, and let that end it.</p>
+
+<p>But somehow I couldn't manage that way with this Milo Dixon, and the first thing I knew we'd worked up a first-class case of <hi rend="italic">gr-r-r-r</hi> at each other. Maybe I'm partly to blame, too; for it all starts with my droppin' in casual at his Broadway offices without havin' my secretary make an appointment with his secretary.</p>
+
+<p>How should I guess, though, that Milo was such an important party? Course, I knew he was head of the works that old man Dixon left him a few years ago; also, I understood he'd branched out and was mixed up in half a dozen other schemes&#8212;tractions, submarine contracts, and the like. But mainly these young plutes that have their names sprinkled at the top of the letter-heads are just checkbook presidents, with some one else to do the real work.</p>
+
+<p>Besides, I didn't give a hoot how big a gun he was. As members of the buildin' committee of the Rockhurst Yacht Club we was on an equal footin', except that he was chairman. And he'd been stallin' us off long enough about decidin' on the plans for this new wing we'd voted to build if we could raise the coin. Half a dozen times I'd tackled him on the subject, generally on the train, and he'd always said, "Yes, yes, McCabe; we must get around to that, but&#8212;er&#8212;not just now." And here the annual meetin', when we was due to make a report, was only three weeks off.</p>
+
+<p>So, being over near his buildin' one day, and havin' half an hour to spare, I just naturally blows in, brushes the office-boys one side, and pikes right through where he's sittin' at a big roll-top doin' nothing in the world but tearin' up paper and throwin' it on the rug.</p>
+
+<p>"Come, Dixon," says I, thumpin' him friendly on the shoulder, "let's get some action on those plans."</p>
+
+<p>He winces like I'd jabbed a pin in him.</p>
+
+<p>"Eh?" says he, scowlin' up at me. "Oh, it's you, McCabe."</p>
+
+<p>"Didn't think it was the sheriff, did you?" says I, chucklin' hearty and pullin' up a chair. "Now, about those sketches or the new wing. You got 'em, ain't you?"</p>
+
+<p>He gazes at me vague.</p>
+
+<p>"New wing?" says he. "Oh, for the club-house! Really, McCabe, I&#8212;I can't do anything about that now."</p>
+
+<p>"Ah, come off!" says I. "It won't take ten minutes. And you know we've got to&#8212;"</p>
+
+<p>"No, no," he breaks in pettish. "I tell you, I can't. I&#8212;I won't be bothered with it, that's all."</p>
+
+<p>"Piffle!" says I. "All you got to do is&#8212;"</p>
+
+<p>"Hang it, man, can't you understand plain language?" he snaps. "No, I said. You've no right to come in here, hounding me like this. I&#8212;I'll not stand it!"</p>
+
+<p>I gawped at him.</p>
+
+<p>"Why, you poor prune," says I, "who do you think you are, anyway? Botherin' you, eh? Well, it's all over. I'm through. I wouldn't serve on a garbage committee with you after this."</p>
+
+<p>And with that mild statement of the case I marches out dignified. The president of the club got both our resignations in the mornin' mail, and from then on all me and Milo Dixon exchanged was savage glares.</p>
+
+<p>That awful state of affairs must have been goin' on for near six weeks, with no blood shed on either side, when here the other afternoon, just as I'm closin' the Physical Culture Studio for the day, who should drift in hesitatin' through the front office door but Milo Dixon.</p>
+
+<p>He's a tall, lathy young gent, you know, with deep-set eyes, droopy <choice><orig>shoul-
+
+<cb n="2"/>
+
+ders</orig><reg>shoulders</reg></choice>, and a nervous trick of rubbin' his hand over his chin while he talks. Generally he's rather a spiffy dresser, but now he has a dent in his derby, his tie is skewed, and his fur-lined overcoat is buttoned up wrong. Also his chin is decorated with a cross design of surgeon's tape, and he has both arms full of bundles.</p>
+
+<p>"Huh!" says I, givin' him the once-over.</p>
+
+<p>"Don't! says he, sort of pleadin'. "Please don't, McCabe."</p>
+
+<p>"Eh?" says I. "Don't what?"</p>
+
+<p>"Don't look at me like that," he goes on. "Oh, I know I deserve it. I&#8212;I'm an ass, Shorty."</p>
+
+<p>"Nobody's disputin' you," says I. "What then?"</p>
+
+<p>"About those plans," says he. "I didn't mean to be such a cad. Really! I&#8212;I apologize."</p>
+
+<p>"Oh!" says I. "Well, I expect I went off half cocked that time myself, so we'll call it fifty-fifty, eh?"</p>
+
+<p>"Thanks, old man," says he. "I&#8212;I'm glad that's off my mind."</p>
+
+<p>"Me too," says I. "But sit down. Goin' out on the five-eleven, are you?"</p>
+
+<p>"I suppose I've missed the four-forty," says he. "I should have caught it, too. Oh, dear!"</p>
+
+<p>Such a worried look he works up that I has to laugh. Standin' there with his arms loaded, and one side of his overcoat hiked up, and a wisp of rumpled hair stickin' straight out over his ear, he's almost a caricature of himself.</p>
+
+<p>"YOU know, Shorty," he goes on, "I hadn't the slightest notion of coming up here until I happened to see your name on the windows. Then I just had to. For that silly row of ours has troubled me a lot, and I&#8212;I have so many other worries. Oh, so many!"</p>
+
+<p>"Ye-e-es, you must," says I, smilin' sarcastic. "Is runnin' a local express one of 'em? Tryin' to put the parcels post out of business, are you?"</p>
+
+<p>"Oh, these," says he, sighin'. "No wonder you ask. And I loathe carrying packages."</p>
+
+<p>"Well, you can unload for a minute or two, can't you," says I, "or have you got 'em tied to you? What is all that junk, anyway?"</p>
+
+<p>"Things I've neglected to order," says he, "until too late to have them delivered. This largest bundle, for instance, is an electrolier shade, to replace one that was broken weeks ago."</p>
+
+<p>"Oh, I see," says I, liftin' it off and pilin' it on the desk.</p>
+
+<p>"And here is a pair of evening slippers of Mrs. Dixon's," he goes on. "I was to tell them about changing the buckles, and I forgot until to-day. They match a dress she wants to wear to-night. Then this heavy thing is a Virginia ham which the butler asked me to send out early in the week. And that box of cigars&#8212;well, I hadn't noticed until this morning that the humidor was nearly empty."</p>
+
+<p>"Huh!" says I. "Been havin' a reg'lar shoppin' orgy, eh?"</p>
+
+<p>"I had to," says he. "All these little things have been haunting me for days. I've felt so guilty about them, more so than about really important things that I should have done, too. And when I found I had to go away&#8212;well, I thought I would do what I could first."</p>
+
+<p>"Where you goin'?" says I.</p>
+
+<p>"I don't know&#8212;yet," says he, finally slumpin' into a chair. "The specialist didn't say. It's my nerves, you know. Overwork. He said I must stop at once; go somewhere&#8212;away off; absolute rest; South, I suppose. He&#8212;he wants me to play golf." And Milo groans.</p>
+
+<p>"Oh, come!" says I. "Anybody would think you'd been sentenced to the rock-pile. Most people would jump at an excuse for gettin' in a month of winter golf."</p>
+
+<cb n="3" />
+
+<p>"But I don't see how I can drop everything and go just now. My affairs are in such a frightful mess. I suppose I must, though. He said I was in bad shape."</p>
+
+<p>"'Most anybody could tell that," says I. "You've got the jumps, all right. But I ain't so sure you can run away from 'em by buyin' a railroad ticket."</p>
+
+<p>"Just what occurred to me," says Milo; "only I hadn't the courage to tell him so. It would be running away, wouldn't it? But what else can I do? What would you recommend, McCabe?"</p>
+
+<p>"Me?" says I. "Why, I'm no nerve specialist."</p>
+
+<p>"But you keep yourself from getting into a state like this," he insists, "and you sometimes put men in condition when they're out of sorts. I've heard so. I say, Shorty, why couldn't you fix me up? If you could, without packing me off to some beastly resort for middle-aged golf maniacs, it&#8212;it would be worth thousands of dollars to me."</p>
+
+<p>"Would it?" says I. "And about how many to me?"</p>
+
+<p>He don't even bat an eyelash.</p>
+
+<p>"Five," says he.</p>
+
+<p>I chuckles easy. "You're on," says I.</p>
+
+<figure n="illustration">
+<p>"'Tryin' to put the parcels post out of business?'"</p>
+</figure>
+
+
+<p>Course, I was just tryin' to jolt him out of his trance; but what does the simp do but unlimber a check-book and start in makin' out a pink slip.</p>
+
+<p>"Stow that," says I. "I was only kiddin' you along. I'm no screen bandit. But I shouldn't wonder if I could help you shake some of these hysterics of yours; that is, if you'll do just as I say."</p>
+
+<p>He promises eager that he will.</p>
+
+<p>"Then le's have a sketch of all this overwork you've been doin'," says I. "Gimme the details."</p>
+
+<p>"But&#8212;but I haven't time," he protests, pullin' out his watch. "Heavens! After five now and I should be starting home. We have a dinner party on."</p>
+
+<p>"Mistake number one," says I. "It's
+
+<cb n="4" />
+
+scratched. I'll 'phone out that you won't be there. A hot addition to a dinner party you'd be, wouldn't you?"</p>
+
+<p>"But those slippers," says he. "Bella needs those to&#8212;"</p>
+
+<p>"If they're her only pair," says I, "she can spring a barefoot stunt."</p>
+
+<p>"Oh, to be sure, she has others," says he, "which might do. But there is that electrolier shade and&#8212;and the ham."</p>
+
+<p>"DIXON," says I, tappin' him on the wish-bone, "how much are you rated at&#8212;a couple of millions, eh?"</p>
+
+<p>"Something like that, I suppose."</p>
+
+<p>"Then what's a ham more or less?" I demands.</p>
+
+<p>"Why," says he, gawpin', "I&#8212;I don't understand."</p>
+
+<p>"It's simple enough," says I. "You've mislaid your sense of proportion. Now we'll begin this treatment by gettin' it back. Wait until I open a window. There! That lets on an air-shaft. Now take that ham and chuck it out."</p>
+
+<p>"Wha-a-a-at?" he gasps.</p>
+
+<p>"Chuck it," says I, "or I quit the case right here."</p>
+
+<p>Like he was walkin' in his sleep, Dixon lifts the ham off the desk and drops it gentle out of the window.</p>
+
+<p>"Next the big bundle&#8212;the shade," says I. "And throw it this time&#8212;reckless."</p>
+
+<p>He's a little more energetic; but as the sound of smashin' glass floats up, he shudders.</p>
+
+<p>"Now the slippers," says I, "and the cigars. Show some speed about it, too."</p>
+
+<p>"Oh, I say, McCabe," he protests, "I think this is rather silly, you know."</p>
+
+<p>"A swell judge of what's silly you are, aren't you?" says I. "Take a look at yourself in the glass, there."</p>
+
+<p>"No, thank you, " says he, grabbin' the parcels. "I&#8212;I'll take your word for it."</p>
+
+<p>And with that he feeds more loot down where the janitor will be surprised to find it in the mornin'.</p>
+
+<p>"Now," says I, pushin' him back into the chair, "we'll proceed to sponge off the rest of the slate. What about these awful business complications that's been chasin' you towards a nut factory? State 'em."</p>
+
+<p>Which he does, with full details and dismal groans sprinkled in. Seemed sort of relieved to talk about 'em, too. But the most I could make out of the mess was that he'd simply let a lot of things pile up on him because he couldn't hand out decisions. He'd dodged and sidestepped and dilly-dallied, just as he had about them buildin' plans. He'd got a lot of people sore on him, pulled a couple of damage suits, fired one of his best men, and got so he wa'n't on speakin' terms with another.</p>
+
+<p>"It has been first one thing and then another," says he, "until I broke under the strain. The specialist knew in a moment. Overwork."</p>
+
+<p>"Bunk!" says I.</p>
+
+<p>"I beg pardon?" says he.</p>
+
+<p>"Underwork, more likely," I goes on, "and over-stewin'. That's my dope for it. Maybe it ain't so soothin' to listen
+
+
+<pb n="Page 14" xml:id="ew.issue.19160306.p014" />
+
+to, but it's nearer the truth. Work don't hurt anybody&#8212;real work. That is, so long as you do the drivin'. And what you could get in between nine-thirty and four should have been just play. The trouble with you, Milo, is that you've been lettin' your work drive you. You gave up the whip. Not only your work has been drivin' you, but your play, your home, your club, everything. I don't know how it begun. It don't matter. But here you are, a squirmin', shirkin', panicky wreck, with your nerves all raw and your liver spotted up like a leopard-skin coat. Even lost your shavin' nerve, didn't you?"</p>
+
+<p>He nods and fingers the patches on his chin.</p>
+
+<p>"Couldn't face your butler without that ham under your arm, eh?" says I. "Well, we've fixed that. You're goin' to burn a lot more bridges, too, before you quit. First off, you're goin' to notify Mrs. Dixon that you won't be home for two or three days. Better telegraph. Here's a blank."</p>
+
+<p>"But, McCabe&#8212;" he begins.</p>
+
+<p>"I know," says I. "A dinner party on, week-end guests coming, and maybe you ought to pick out the linin' for a new limousine. Tremendous affairs. You'd half shirk all of 'em. So we'll just cut out the whole lot and see if it brings the world to an end. Come, now! 'To Mrs. Milo Dixon.' That's it. 'Called away on important business' will do."</p>
+
+<p>He moves over to my desk and writes out the message.</p>
+
+<p>"Which ends domestic complications," says I. "Now for things at the office. Who's got the best head down there?"</p>
+
+<p>"Why&#8212;er&#8212;Talbot, I suppose," says Dixon; "but he's the one I haven't spoken to for&#8212;"</p>
+
+<p>"All the better," says I. "Tell Talbot to take full charge for a spell and use his nut. Tell him to clean things up generally, in his own way."</p>
+
+<p>"But we radically disagree," says Dixon, "in the matter of&#8212;"</p>
+
+<p>"What's the odds?" says I. "Wouldn't break you if he was wrong, would it? And ten to one he's right. Anyway, you want to start something&#8212;swing the whip. See?"</p>
+
+<p>It brought the sweat out on Milo's forehead to write that order, but he did it.</p>
+
+<p>"Now for that liver of yours," says I.</p>
+
+<p>Not that I'm much better posted on the human plumbing than the next one, but when I see a party with the whites of his eyes lookin' like hard-boiled eggs with the peel off, I accuse his liver on general principles. It can't furnish any alibi, for one thing, and it listens sort of professional.</p>
+
+<p>"We'll take it out in the country," says I.</p>
+
+<p>"Take what?" says Milo.</p>
+
+<p>"Your liver," says I. "Course, you'll have to come along, too. Let's see, where's that Jersey Central time-table? Huh! Next express at six-twenty-two. That just leaves time for me to call up my house, notify Sadie not to look for me, and throw a few duds into a bag."</p>
+
+<p>"But I have no traveling things with me," objects Milo; "no pajamas, no&#8212;"</p>
+
+<p>"Don't worry," says I. "When you hit the hay to-night you ain't goin' to care whether your shoes are on or off. As a starter you may shuck that mink-lined ulster and pull this sweater over your head."</p>
+
+<p>I EXPECT Milo begun to suspicion this wasn't goin' to be any de luxe excursion I was headin' him at; but he couldn't have guessed the trip I had in mind or I'd never got him past Jersey City. All the dinner I let him have was two cups of hot milk and a few crackers. For dessert he had half a dozen puffs of a cigarette. Then for near an hour and a half I made him doze in a parlor-car chair while we rolled down towards the middle of the State. Below Lakewood there's a junction where the coast branch comes in, but in winter only once in a while a train connects there. I'd figured on that.</p>
+
+<p>"Well, well!" says I. "It's a case of hike. This way, Milo."</p>
+
+<cb n="2" />
+
+<p>"How far do we walk?" asks Milo, gazin' regretful after the train.</p>
+
+<p>"I forget," says I. "All you got to remember is that there's a bed at the other end of this road. Step out, man. Don't drag your heels."</p>
+
+<p>As a matter of fact, that road wasn't intended for fancy pedestrian stunts&#8212;nothing but deep sand. And lonesome! If there were any houses along the line, none of 'em showed a light. All we could see was pines and plum bushes, and half of a moon dodgin' in and out between the clouds. But it was first-class breathin'
+
+<figure n="illustration">
+<p>"Honest, when we got through we could hardly see each other across the shell heap."</p>
+</figure>
+
+air, believe me, that this panicky Dixon party was pumpin' in reg'lar. Course, he didn't know where he was goin' or why, but all that helped him to forget his troubles. I'll admit he did take on a bit along towards the last; but when I threatened to make him carry the bag if he didn't quit beefin', he marched on without another word.</p>
+
+<p>And just as we stumbled into Cedarton I finds my old friend George, the mighty duck-hunter and hotel-keeper, turnin' out the lights in the bar.</p>
+
+<p>"How's the ice in the river, George?" says I.</p>
+
+<p>"Oh, there's a channel open below Kirk's," says he.</p>
+
+<p>"Anybody got a motor-boat in commission?" I asks.</p>
+
+<p>"Guess Pop Applegard's old tub is runnin'," says George. "He was down after geese Wednesday."</p>
+
+<p>"Then send him word he's chartered for to-morrow, will you," says I. "And have a couple of good husky breakfasts ready for us about five o'clock. We'll turn in now."</p>
+
+<p>Milo he hadn't even waited for the word. He'd gone to sleep standin' up. No insomnia for him that night, and next mornin' I had some job draggin' him down to face a platter of ham and eggs. He wanted to know if I thought such a late supper would agree with him. By daylight we were on our way.</p>
+
+<p>Maybe you don't know that twelve-mile stretch of beach that keeps the Atlantic Ocean from sloppin' into Barnegat Bay? Well, it's about the beachiest beach you ever saw. Nothing but beach. Oh, there's three life-saving stations scattered along, tucked in among the sand-dunes, but not another shack from the time you leave Seaside Park until you fetch North Point o' Beach. Twelve miles of hard packed sand, and nobody to it.</p>
+
+<p>The sun was just slippin' up out of the waves, red and gorgeous, when we landed on the bay side and Pop Applegard
+
+<cb n="3" />
+
+went chug-chuggin' off through Fisherman's Slue towards the main channel. Five minutes more and we'd plowed across to the very edge of the big salt water and was headed down the beach, with a tangy little breeze pinkin' up our ears.</p>
+
+<p>Once before I'd taken that jaunt, just to see what it was like, and ever since I'd been wantin' to do it again; but I never planned on towin' a bilious plute along for the sake of his liver. We hadn't been hikin' half an hour, though, when Milo begins to chirk up.</p>
+
+<p>"By George!" says he, throwin' up his chin and swellin' out his chest. "Great, isn't it? Look at that cloud effect. And see that old schooner wallowing along out there. What a surf, too! And we have it all to ourselves, haven't we?"</p>
+
+<p>"No competition at all," says I.</p>
+
+<p>We'd passed the second station before he digs up his first uneasy thought.</p>
+
+<p>"Oh, I say," says he. "What about luncheon?"</p>
+
+<p>"We don't feed until we get to North Point," says I.</p>
+
+<p>"Oh!" says he, and lets out another link in his stride.</p>
+
+<p>I DON'T know what there is about coverin' the ground that way, specially a long, lonesome stretch, that sort of makes you feel like you'd done something worth while. But it does. Bucks you up, clears the bats out of the belfry, and gives you the idea that you're some guy to do all that just on your two legs without the aid of a taxi. Simple, but it's so. Before we was hardly in sight of the Point, Milo begins unloadin' chesty opinions of his performance.</p>
+
+<p>"I say, though, that's a deuce of a ways I've walked," says he. "Isn't it, now? Twelve! Oh, I should say twenty at least. Right along the beach, too. Rather unique, I call it. But hungry!"</p>
+
+<p>"Me too," says I. "Thanks be, Pop Applegard is on the job. See that smoke?"</p>
+
+<p>Also Pop had picked up a bushel of Cedar Creek oysters, and had a lot of 'em spread out on a wire gratin' with their shells gapin'. Ever tackle a bushel of roast oysters with an appetite like that? Honest, when we got through we could hardly see each other across the shell heap between us. Then I let Milo roll up in one of the blankets Pop had brought, light a big cigar, and snuggle down in the sand and sunshine. When he woke up he gazes around placid and asks where Pop Applegard has gone.</p>
+
+<cb n="4" />
+
+<p>"Back home," says I. "I had him leave some grub, though, and an ax. My scheme is to bunk out here for the night."</p>
+
+<p>"Bully!" says Milo. "Can't we build some sort of shelter with this drift-wood?"</p>
+
+<p>"That's what the ax is for," says I. "Go to it."</p>
+
+<p>WELL, it wasn't exactly picnic weather, specially after the sun went down; but we had a shack that was fairly wind-proof on three sides, and a roarin' fire in front. Even if Milo didn't show up for so much of an artist at broilin' steak, he seems proud of the result. The potatoes was a little cindery too, on the outside, but you could eat the middles. Milo got away with six, he claimed. And even after he got to sleep he was eloquent about some thing or other.</p>
+
+<p>Anyway, when Pop Applegard came to take us off, about noon next day Dixon was explainin' to me how he'd like to do that sort of thing for a whole week.</p>
+
+<p>"I could, you know," he insists. "I'm not half so soft as I thought. Really!"</p>
+
+<p>"Maybe," says I. "But you'll be a lot more ornamental with less smut on your face. It's town for you now, and a Turkish bath, and a barber gettin' busy with that stubble."</p>
+
+<p>I stuck with him until he'd gone through the whole process, and with a little clean linen and a quick job of clothes pressin' he looked as good as new.</p>
+
+<p>"Now," says I, "I'm going to turn you loose with your troubles again. You can either chase them or let 'em chase you."</p>
+
+<p>"Shorty," says he, "I can feel the whip in my hand once more. I&#8212;I believe I can do the driving now. Anyway, I'm going to have a try at it."</p>
+
+<p>Well, that was Monday. And Thursday afternoon I had a report from him.</p>
+
+<p>"I say, Shorty," he 'phones in, "you were right about Talbot. He closed a splendid deal for us, and now we're hot after another one. I have a clean desk too. Got things on the jump, as it were."</p>
+
+<p>"Fine!" says I, "so long as the jumps don't get you."</p>
+
+<p>"No danger," says he. "And, by the way, since the cure is complete, I am sending a messenger up with that check I am much obliged, too."</p>
+
+<p>And he leaves me there gawpin' into the receiver. Five thousand, just like that. Say, that's pickin' it off the bushes ain't it? And him wishin' it on me cheerful! But I suspect that Milo's ain't the only case of the kind in this burg, nor him the only one willin' to pay the price. Gee! I must hang out a bigger sign.</p>
+
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19160306.p015" />
+
+<text type="nonfiction" xml:id="lowe.19160306">
+<body>
+
+<figure n="illustration"></figure>
+
+<head type="main">The Greatest Business Woman in America</head>
+
+<byline>By <persName type="author" key="Lowe, Corinne">CORINNE LOWE</persName></byline>
+
+<div1>
+<p>TWENTY-FIVE years ago the women's wear industry in America represented an investment of only about $1,000,000. To-day an investment of perhaps $125,000,000 has created an enormous expansion in the range of opportunities for women. Perhaps no other great industry has opened up so many new professions for women, and to-day we have fashion artists, fashion writers, advertisement writers, high-priced designers, and, above all, the woman buyer of the department-store, who, shuttling between New York and Paris, merchandising every article in her department, and confronted always by the puzzling problem, "What style is going to sell?" is often rewarded by a salary of ten or twelve thousand a year.</p>
+
+<p>Seventy-five years ago these women, patient Amandas and Lucindas, would have been putting tiny stitches in the shirts their men-folks wore. Twenty-five years ago these same women, discontented Roses and Lilys, might have found nothing to do save go back of the counter. At no other time in all history, indeed, have we found so many women carried to fame and fortune by the bright wings of fashion. In no other era could there have been a Mrs. Belle Armstrong Whitney.</p>
+
+<p>Of all the women silhouetted against this great industrial background, Mrs. Whitney stands out most sharply&#8212;broad of vision, quick of judgment, charged to her finger-tips with a kind of electrico-business energy. She owes her success to the fact that every mill that has to do with fashion must work months&#8212;yes, even more than a year&#8212;ahead of the season. Even now, in this spring of 1916, fabrics are being designed and made up for the summer of 1917.</p>
+
+<p>How easy, under these circumstances, to make up the wrong kind of silk, to plunge on Marie Antoinette fashions when the next season may go straight as a homing bird to medieval tunics! A woman, therefore, who can tell manufacturers what the women of North and South America and Europe are going to want a year from date saves thousands of dollars of waste. And this is exactly what Mrs. Whitney does.</p>
+</div1>
+<div1>
+<head type="sub">What Her Job Is</head>
+
+<p>SHE calls it being a consulting fashion expert. She invented the profession herself, and has been so successful at it that her reputed yearly income is $50,000. In this capacity Mrs. Whitney represents an aggregate capital of not less than $40,000,000, if we may accept as indicative the partial list made up by a man who spends his life in close association with these concerns: wool industries, $15,000,000; cotton industries, $10,000,000; silk industries, $5,000,000; corset house, 
+$3,000,000; coat and suit house, $3,000,000; shoe manufactory, $500,000; lace and embroidery, $500,000.</p>
+
+<p>From each of the different <choice><orig>manufactur-
+
+<cb n="2" />
+
+ers</orig><reg>manufacturers</reg></choice> she represents, Mrs. Whitney receives a large retaining fee. In the interests of these clients she maintains all the year round, both in Paris and New York, a full-armored office, manned with secretaries, designers, and fashion-clipping bureaus. She is the only woman in America who does this. Every year of her life she makes seven or eight round trips across the Atlantic.</p>
+
+<p>Yet Mrs. Whitney did not start out to be a captain of industry. The fact is that this descendant of New England professional men rather looked down on business. And her only ambition was to write a psychological novel.</p>
+
+<p>Fate, however, did not long respect Mrs. Whitney's prejudices. Soon after she had left a fashionable boarding-school, a vacancy occurred on the Boston <hi rend="italic">Globe</hi>, and she was given the place. Here, under the pen-name of "Dinah Sturgis,” she did some brilliant reportorial work. And here, also, she attended the course of lectures on a scientific system of garment-cutting which she afterward embodied in a book for the trade.</p>
+</div1>
+<div1>
+<head type="sub">Her Training as Fashion Editor</head>
+
+<p>AFTER her marriage to Dr. Charles Alvano Whitney of New York, Mrs. Whitney left newspaper work and took up the management of the fashion department of a woman's magazine. In this capacity she received letters from women all over the country, and it was to these that she owed her first insight into the needs and limitations of the American woman.</p>
+
+<p>Mrs. Whitney left the woman's magazine to become editor of <hi rend="italic">L' Art de la Mode</hi>, of which a little later she became the owner.</p>
+
+<p>She was now editor, publisher, and business manager of a publication from which radiated a vast commercial web. Of this business background Mrs. Whitney, trained writer as she was, knew absolutely nothing. But she set about to learn; and these are a few of the things that she accomplished:</p>
+
+<p>She worked with lithographers in producing an improvement in the colored fashion-plates. She began an intensive study of fashion sources. She learned about dyeing and weaving and the new machinery that was developing the fabric and women's wear industries in this country. She started the fashion library which has since become the second finest in the world. In order to show groups of foreign models in the salons of her magazine, she attended the semiannual openings of the great French dressmakers. Last of all, she galvanized these exhibits by introducing to America the Paris custom of showing styles on live models.</p>
+
+<p>At these style exhibits in the parlors of her magazine Mrs. Whitney always gave an illuminating talk upon the fashion and economic significance of each gown or suit or wrap. The combination of live talk with live models was so successful that the second year Mrs. Whitney chose as her arena for this <choice><orig>entertain-
+
+<cb n="3" />
+
+ment</orig><reg>entertainment</reg></choice> the Waldorf-Astoria. Subsequently various big department stores took up the idea, and thus Mrs. Whitney may truly be called the parent of the "fashion show" in America. All this time she was really creating her next job. In nothing was this more conspicuous than the close relations that she established with her advertisers. These were mostly manufacturers of fabrics and ready-to-wear products, and they were always asking her how to exploit their goods. In this way she penetrated the special needs of the manufacturer, and very often her suggestions were of the greatest value.</p>
+
+<p>The man who first suggested Mrs. Whitney's profession of consulting fashion expert was a manufacturer of linings. Coming to her one day with some samples for use in a booklet, he was met by Mrs. Whitney's cool "Very nice, if there were only some dresses to go with the linings. But, as dress materials are all light this season and your materials are all heavy&#8212;"</p>
+
+<p>"Why wasn't there some one to tell me all this?" cried the manufacturer, realizing his thousands of dollars' worth of unsalable material.</p>
+
+<p>"From this time on there will be," replied Mrs. Whitney promptly.</p>
+
+<p>This man, her first client, gave Mrs. Whitney a retaining fee for keeping his mills in touch with fashion. Soon after that she sold <hi rend="italic">L' Art de la Mode</hi>, now on a thriving basis, and became an official consulting fashion expert. To this end, she made her headquarters at the National Arts Club, and here in course of time she was sought by some of the leading manufacturers in both America and Europe. Mrs. Whitney makes it a rule to take only one representative of a line in one country.</p>
+</div1>
+<div1>
+<head type="sub">How She Predicts Styles</head>
+
+<p>THE lining manufacturer of whom we have spoken is a lantern held up to the whole industrial condition met by Mrs. Whitney. Like many of his brothers, he burrowed at his own job without ever looking up to see how the other man's work was affecting him. Yet, all through the province of fashion, you find every single article of attire dependent upon every other article. From the character of fabrics&#8212;which, by the way, are the first of the fashion blooms to come out&#8212;we can tell something about the mode of frock. If they are "clinging," skirts will be the same. If rustling, skirts will be bustling. Correspondingly, if bodices have a nip at the waist, corsets can't take up with other modes of conduct; and if skirts are short, boots must be high enough to meet them.</p>
+
+<p>Upon her clear perception of the interrelation of modes Mrs. Whitney has
+
+<cb n="4" />
+
+built her profession. Her whole work is dedicated to placing the manufacturer in the general trend of fashion. And this is the way she goes about it.</p>
+
+<p>Next November, let us say, she will sail to attend the first revelation of style for the spring of 1918. This, as has been said, always comes in the form of fabrics. If, therefore, Mrs. Whitney should find the silks at the first wholesale opening to be stiff and rustling, she will deduce immediately an approaching malady of full skirts and tight bodices. She tells her clients thereupon that an 1860 era is approaching, and reasons out for each&#8212;glove-maker, shoe-maker, suit-maker, silk-maker, and corset-maker&#8212;just how the period is going to react on his product.</p>
+</div1>
+<div1>
+<head type="sub">When One Decision Means $1,000,000</head>
+
+<p>AT times Mrs. Whitney anticipates the decisions of Paris. Some of her most brilliant strokes have played about the problem of when a style is going to break down and turn into another style. And see, if you please, just what this means to the manufacturer. If Mr. Goldinsky can foretell at just what moment curfew is going to ring on splashy lace veils, and if Mr. Moritzky can predict when willowy skirts will expand into billowy, they both plunge on the rebound. The manufacturers make perhaps thousands of dollars on producing the right thing when everybody else is producing the wrong thing.</p>
+
+<p>Summing up Mrs. Whitney's work, we may say that by her frequent trips to Paris, and through her all-the-year maintenance of a Paris office, she is able to keep in constant touch with every current of fashion. By her knowledge of women all over the world and of American women in particular, she is able to tell the manufacturer just exactly how the public is going to take to a certain style. And, above all, through her grasp of the reaction of a general style upon a particular product, she is able to avoid the situation where a shoe manufacturer, for instance, finds himself stocked up with low shoes in a season when the prevailing style of dress exacts high boots.</p>
+
+<p>For this reason, she is a tremendous economic force in America. Thanks to her advice, numerous branches of the ready-to-wear industry are producing that volume of business without which the American manufacturer, hampered as he is by tremendous overhead expenses, can not hope to exist. Because, therefore, she guides enterprises totaling the sum of $40,000,000; because she is planning clothes for women all over the world; because on a single one of her decisions is staked perhaps a million dollars' and the employment of thousands of workers; and because she is one of the few who can scan the horizon without ever losing a stitch, Mrs. Whitney may be considered the greatest American business woman.</p>
+</div1>
+
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19160306.p016" />
+
+<text type="fiction" xml:id="luehrmann.19160306"><body>
+
+<head type="main">Missing&#8212;Roberta Hoyt!</head>
+
+<byline>By <persName type="author" key="Luehrmann, Adele">ADELE LUEHRMANN</persName></byline>
+
+<byline>Illustration by <persName type="illustrator" key="Crosby, R. M.">R. M. Crosby</persName></byline>
+
+<note type="editors">CAUGHT in a block at a Fifth Avenue crossing, Richard Terrill, a young Georgian, finds himself addressed by a beautiful young girl whom he can not recall. After a few moments of verbal sparring, she accepts an invitation to have tea with him. In the tea-room she tells him that her name, Roberta Hoyt, is known to everybody, including the police. That evening he accompanies Sands, a newspaper friend, to Riverton. Driving through Riverton in an automobile, they pass a car that has broken down and from which issue groans. The driver, who is accompanied by a woman, explains that he is taking a sick man to a hospital. Their chauffeur recognizes the driver as the Hand, of Roberta Hoyt, an heiress who has a summer home in Riverton. Returning to town, Sands learns through his newspaper that Roberta Hoyt has been missing from home four days. The girl's disappearance brings out the fact that her grandfather's will contained a clause making Miss Hoyt's inheritance conditional on her marriage before her twenty-first birthday. Terrill and Sands return that night to Riverton. They learn that Higgs, an Englishman formerly employed by Lord Darrow, Farnham's father, is care-taker of the Hoyt estate. Reconnoitering the grounds, they are startled by the appearance out of the woods of two women, one of whom is weeping, and two men, one dragging a pick and spade. The other man is Farnham. After watching Farnham leave in a motor, Terrill and Sands return to New York. Next day Sands explores the woods of the Hoyt estate and finds a new grave. In the window of the house he sees a blond-haired woman, Farnham's companion of the day before. By some clever detective work he learns that she is the companion of a lady living in the Kensington in New York, and that Farnham and Marcus Winter, a broker, are frequent callers there. Meantime, the tea-room waitress calls on Terrill and attempts to blackmail him.</note>
+
+<p>I BOUGHT her silence. I hated doing it, hated myself and her and the whole ugly transaction. But it seemed necessary&#8212;at least, until I could get my bearings and decide on a course of action.</p>
+
+<p>When she was gone I sat down and tried to puzzle things out in the light of her revelation, if revelation it were. That was the worst of it: I did not know whether she had told the truth or not. But if she had&#8212;if that red hair was a wig and the hair under it was blond&#8212;then what? I tried to piece together all Tal had said about Mary Leighton; but, on a new impulse, I started up, resolved on action.</p>
+
+<p>I would go to the Rogers flat and see that photograph for myself. That would settle one question: was the girl I had met Mary Leighton? It was clear that if I meant to help her I must know who she was, where she was, and what sort of help she needed.</p>
+
+<p>Tal was still asleep, and as I approached the bed my eye chanced to fall on his coat hanging over the back of a chair, and I stopped. Almost certainly he had Rogers' address written down somewhere&#8212;he never trusted his memory with numbers.</p>
+
+<p>I found the address, as I expected. It was in a note-book with many others, a meaningless list to any one but himself. A freakish notion seized me to confiscate the book. What I hoped to gain I hardly know, except to prevent Tal from again locating Mulrooney. Certainly I did not dream of the result that followed.</p>
+
+<p>I picked up my hat, and the sight of it made me pause again. A blue serge suit and black fedora are the commonest wear for men; but both Dr. Rice and Mulrooney had noticed mine, and, since there was a chance of my encountering the cabman&#8212; It took but a few minutes to switch to a brown suit and derby.</p>
+
+<p>On my way out of the hotel I left word that if Mulrooney called for me he was to be told I had left town and would not be back for a month.</p>
+
+<p>It must have been about seven o'clock
+
+<cb n="2" />
+
+<figure n="illustration">
+<p>"I should have liked to tackle the pair of them; but my strength and skill were not mine: they were hers."</p>
+</figure>
+
+when I reached the Rogers address, a cheap flat dwelling between Second and Third Avenues. My role was decided upon, one I thought I could carry out convincingly; yet, having no gift either for acting or for sleuthing, I rang the bell of the flat in some trepidation.</p>
+
+<p>Voices had been audible within, but they stopped when the bell rang. That was natural, but the wait that followed seemed needlessly long.</p>
+
+<p>I rang again. Another wait. Then I thought I heard breathing just beyond the door, and I listened, my ear to the crack, until, at the abrupt opening of the door, I jerked my head away. It did not open far, however&#8212;just enough to show a man's face and figure.</p>
+
+<p>"Good evening," I remarked pleasantly. "I'm looking for Mr. John Rogers."</p>
+
+<p>"I'm him."</p>
+
+<p>HE was about thirty, a big chap, and his face, though heavy-jawed and pugnacious in cast, would have been agreeable enough but for the suspicious eyes with which he was sizing me up.</p>
+
+<p>"I came to see you on a small matter of business and&#8212;"</p>
+
+<p>"What is it?"</p>
+
+<p>"Why&#8212;it's about an accident&#8212;an automobile acci&#8212;"</p>
+
+<p>"When?"</p>
+
+<p>I hesitated. I could not afford to be too explicit about that accident until I had had a look at Mary Leighton's picture, and for that I should have to get into the living-room.</p>
+
+<p>"I have all the particulars here," I said, feeling in my pocket for some sort of paper to make a bluff with.</p>
+
+<p>"Are you an insurance agent?"</p>
+
+<p>"Oh, no!"</p>
+
+<p>"It's pretty late for business."</p>
+
+<p>"This is the only time I could be sure of finding you. I expected to catch you at dinner."</p>
+
+<p>"You did."</p>
+
+<p>His meaning was so plain that I longed to give him one biff on that bulldog jaw of his. My hand was groping about in my
+
+<cb n="3" />
+
+pocket, finding only letters, when suddenly I remembered Tal's note-book. The very thing! I took it out.</p>
+
+<p>"Rather dark out here," I said, opening the book. "If you've no objection I'll just step inside a moment."</p>
+
+<p>He wavered, but let me pass, and once in I went straight on to the living-room. It was clear that he distrusted me and would not leave me alone, so I had better get my look at the picture and retire.</p>
+
+<p>The mantel was just across the narrow room, but there was no photograph of any kind upon it. I looked about quickly. None anywhere. They had taken it away!</p>
+
+<p>"Well?" Rogers demanded surlily.</p>
+
+<p>"I have come in the interests of a man who was hurt in an automobile accident. His name&#8212;"</p>
+
+<p>Here he interrupted my pretended reading: "I haven't run down anybody."</p>
+
+<p>"Oh, no; you were merely a witness&#8212;"</p>
+
+<p>"When was it?"</p>
+
+<p>"It was at the corner of&#8212;"</p>
+
+<p>"When, I asked you!"</p>
+
+<p>"About six months ago."</p>
+
+<p>"Where? New York?"</p>
+
+<p>"Yes."</p>
+
+<p>"I wasn't here six months ago. I knew you were lying the minute you opened your mouth&#8212;you dirty sneak."</p>
+
+<p>As he spoke he snatched the note-book from my hand. I grabbed for it, and he gave me a bad upper cut. That was all I wanted. I had been itching to hand him one, and now he got it, square on the jaw. He staggered, and as I followed him up to get the book from him he threw out a leg and tripped me, and we both went down.</p>
+
+<p>FROM the next room came sounds of hurrying feet and a woman's excited voice.</p>
+
+<p>"Give him a kick, Ed," Rogers bawled.</p>
+
+<p>I looked around. In the doorway a woman appeared, and behind her a man. Doing some quick thinking, I saw I should have to beat it. I hated to run; but I did not dare risk anything&#8212;not with the job I had taken on. My strength and skill were not mine to play
+
+<cb n="4" />
+
+with: they were hers. Besides, if Rogers  suspected me of an ulterior motive in coming, he would search me, if he got the chance, to discover my identity, and would find the locket.</p>
+
+<p>I sprang to my feet, caught up my hat from the floor, threw off the newcomer, who had rushed at me, and made a dash for the door. Two minutes later I was in the street. They had not followed me.</p>
+
+<p>Then I remembered the note-book. I wondered if it had Tal's name in it, and hoped not. But, anyhow, it was too late to worry about it. And I had had my trip for nothing. The photograph had been removed. Why? Had Mrs. Rogers seen Tal looking at it? Why was Rogers so suspicious of me? Was his fear the outcome of that secret burial at Riverton? It was he who had returned the limousine to the garage, and he must have known where it had been.</p>
+
+<p>RETURNING to the Cecil, I found that Mulrooney had not yet called. Upstairs Tal was dressing.</p>
+
+<p>"Where in blazes have you been?" he to greeted me indignantly. "I thought you were going to stay here in case that chauffeur came."</p>
+
+<p>"He hasn't shown up," I told him. "I asked downstairs."</p>
+
+<p>"You didn't know he wouldn't when you went off," he grumbled, selecting a fresh collar from my supply. "What have you got on to-night?" he inquired after a moment. "Want to go with me to see Winter?"</p>
+
+<p>"Winter! What for?"</p>
+
+<p>"I think he'll talk. I 'phoned, and he'll see us, anyhow. I told him Mulrooney had identified his photo as the man seen with Miss Hoyt. He denied it, but it worried him. So I asked if he would object to seeing Mulrooney and settling the question, and he said no."</p>
+
+<p>"Oh, so Mulrooney is going with us?"</p>
+
+<p>"Looks like it, doesn't it? Where is he? There's one thing sure: if he didn't turn up with the bait I offered, he's in Farnham's pay."</p>
+
+<p>"But you gave him my name, you said.
+
+<pb n="Page 17" xml:id="ew.issue.19160306.p017" />
+
+Why should Farnham object to his coming to see me?"</p>
+
+<p>"A guilty man distrusts everybody. Think I'll call up Mulrooney's garage."</p>
+
+<p>Tal felt in his pocket for the note-book containing the number, and of course failed to find it. The next few minutes, while he searched his clothes, were not pleasant ones for me.</p>
+
+<p>"Maybe you dropped it outside somewhere," I suggested. "If it has your name and address in it, it may be returned."</p>
+
+<p>"It hasn't. But how the devil could I have dropped it out of an inside pocket? It's a big nuisance losing it. I had Rogers' address in it too, and I had an idea of calling on Mrs. Rogers again."</p>
+
+<p>I said nothing to that remark, but thought it as well for himself that he had lost the book.</p>
+
+<p>"Well, come along," he said. "I told Winter I'd be there at eight sharp."</p>
+
+<p>He decided on our way downstairs that it would be a good idea to leave word for Mulrooney to follow us to Winter's, in case he turned up, and I volunteered to attend to the matter while he got some cigarettes.</p>
+
+<p>I did nothing of the sort, of course, and rejoined him feeling like a sneak. However, I congratulated myself on one thing&#8212;that his name was not in his notebook, and that I had in consequence heard the last of that.</p>
+
+<p>But I had not, as it turned out.</p>
+
+<p>MARCUS WINTER had a fine bachelor apartment, but I disliked him on sight. He was tall and dark, and, except that he was ten years or so older, the description of me in the papers fitted him quite as well. He made no effort to conceal his irritation at our visit.</p>
+
+<p>Tal had decided that it would be wiser for us to pose as detectives than as reporters, as we should command more respect and rouse less fear of publicity.</p>
+
+<p>"We are not at liberty to tell who is employing us, Mr. Winter," he replied affably, but with an aggravating air of mystery, to Winter's sharp questioning. "After all what does it matter? We are here merely to settle beyond the shadow of a doubt that you are not the man seen with Miss Hoyt on Fifth Avenue yesterday afternoon. The cabman who thinks he has identified you was late for his appointment and is to follow us. He may be here at any moment."</p>
+
+<p>"He can't come too soon to suit me," Winter answered curtly. "He saw a picture of me, you say? May I ask what first suggested the wild idea that I was the man seen yesterday?"</p>
+
+<p>"The description given by Mulrooney, the chauffeur, and also by Dr. Rice, happens to fit you perfectly."</p>
+
+<p>"No better than hundreds of other men. It fits your friend here, for instance, as well as it does me&#8212;better, in fact. He's about twenty-four; I'm older."</p>
+
+<p>At this unexpected speech I felt the blood rush to my face, and was thankful that Tal did not look my way.</p>
+
+<p>"My friend has not the honor of Miss Hoyt's acquaintance," he replied, with a bland smile at Winter, who retorted:</p>
+
+<p>"A dozen men know her as well as I."</p>
+
+<p>"Not a dozen who are tall and dark and handsome&#8212;at least, that does not appear to be the general impression."</p>
+
+<p>"Did Hollins Rice tell you I was the man he saw her with?"</p>
+
+<p>"I did not inquire of Dr. Rice."</p>
+
+<p>"Oh, you didn't! Why not?"</p>
+
+<p>"Because I preferred a&#8212;shall we say disinterested opinion? Dr. Rice is, I have discovered, a personal friend of yours.”</p>
+
+<p>Winter coughed out a mirthless laugh.</p>
+
+<p>"Is that so? Well, young man, if you've discovered that you're smarter than you look. I have never discovered it. You're a little mixed, I think. Rice is Mr. Farnham's friend, not mine&#8212;his very warm and by no means disinterested friend. Does that surprise you?"</p>
+
+<p>Tal leaned back and crossed his legs with magnificent nonchalance.</p>
+
+<p>"Nothing you could tell me, Mr. Winter, would surprise me in the least."</p>
+
+<p>Winter gave him a quick, astonished stare; then his face purpled with anger and he jumped up.</p>
+
+<cb n="2" />
+
+<p>"Confound your impudence!" he snorted. "I can't surprise you, can't I, you insufferable shrimp? We'll see about that. Do you think I don't know who sent you here to insult me? It was that damned fortune-hunter, Farnham!"</p>
+
+<p>He glared at Tal and then at me, but there was no question in eyes or tone. He was too sure he was right. Needless to say, we had risen.</p>
+
+<p>"Get out of here, both of you! And you, you impertinent ape,"&#8212;here he concentrated on Tal,&#8212;"go back to that Britisher and tell him this for me: I know what he's up to. He thinks he can divert public attention from himself to me. Well, you tell him to try it, that's all&#8212;just try it! I don't know anything about Miss Hoyt's whereabouts, and he knows that. But if I don't know anything about her, I know a few things about another lovely lady that would make spicy reading."</p>
+
+<p>From the first mention of Farnham, Tal had tried vainly to get in a denial of our connection with him. He did not in tend to implicate any one else in our venture. But at those final words of Winter's temptation assailed him and he fell.</p>
+
+<p>"I dare say Mr. Farnham knows what he's about," Tal said, with a quiet smile</p>
+
+<p>"Oh, you dare say, do you&#8212;you grinning crawfish?" sputtered Winter. "Well I dare say a few things myself. Go back to that damned Englishman who pays you, and tell him for me that if he and Rice try to draw me into the case I'll talk. That's flat. Ask him what he was doing with a certain blond beauty I could name out in Chicago not long ago? Ask him why a telegram from her could take him from his fianc&#233;e at a moment's notice? Ask him what happened last year in Australia and why the lady traveling to England alone was booked as Mrs. Farnham?</p>
+
+<p>"Herbert Farnham has got to realize right now that I'll not stand for being dragged into this business of Miss Hoyt's disappearance," Winter stormed on. "I meant to keep still. I had done what I could. I had warned the little fool he was after her money&#8212;I'd proved it to her, too! And I had succeeded in stopping the marriage, and thought I'd saved her. But if she's been idiot enough to&#8212;to break her heart over the affair, it's no fault of mine."</p>
+
+<p>He paused. His face was no longer flushed; it was pale and drawn, and there was a strained note in his voice.</p>
+
+<p>Suddenly he threw up his head and demanded sharply:</p>
+
+<p>"Where's that taxi-driver?"</p>
+
+<p>Tal jumped. He had forgotten Mulrooney.</p>
+
+<p>"I don't know," he answered lamely. "I thought he'd be here by this time."</p>
+
+<p>"Who is he, anyway? Rice's chauffeur?" Winter jeered. "What's the game, eh?"</p>
+
+<p>Tal stared back silently.</p>
+
+<p>"Don't know yourself, do you?" Winter sneered. "Well, I don't want to know. The less I hear about it the better pleased I'll be. And I'll say nothing as long as I'm let alone. Otherwise I go the limit. Is that clear? Then there's the door. If Farnham has anything more to say to me, tell him to come himself."</p>
+
+<p>THERE were no leave-takings. When we were on the street again, Tal wanted to know what I made of it all, and I said it looked to me as if Winter was afraid Miss Hoyt had killed herself.</p>
+
+<p>Tal nodded.</p>
+
+<p>"He told her things about Farnham, and because of them she broke her engagement, and then&#8212;well, he evidently doesn't know what happened then. But he fears the worst, and is trying to blame it on some one else."</p>
+
+<p>"As he does when he loses at tennis," I agreed. "But I can't see the suicide theory at all."</p>
+
+<p>"Well, Winter knows more of the facts than we do, and he's afraid of it. You see, he must have been after Miss Hoyt himself when she met Farnham. That threw him into the discard, and, being a rotter, he tried to cook Farnham's goose by telling the girl some discreditable story that he had found out or manufactured&#8212;"</p>
+
+<p>"Farnham evidently couldn't disprove the story," I pointed out.</p>
+
+<p>"That's so, and Winter seemed sure of
+
+<figure n="advertisement">
+<head>Big Ben Baby Ben</head>
+<figDesc>Advertisement for Western Clock Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Do You Need More Money?</head>
+<figDesc>Advertisement for World's Star Knitting Co</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Would You</head>
+<figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Merry-Go-Rounds Make Big Money</head>
+<figDesc>Advertisement for Herschell-Spillman Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Deaf?</head>
+<figDesc>Advertisement for General Acoustic Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>10 Cents a Day Pays for This Cornet</head>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+
+
+<pb n="Page 18" xml:id="ew.issue.19160306.p018" />
+
+<figure n="advertisement">
+<head>Only a few drops</head>
+<figDesc>Advertisement for A. S. Hinds</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Djer-Kiss</head>
+<figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<figDesc>Classified Advertising, including Corporations, Agents Wanted, Patents, Female Help Wanted, Music Lessons At Home, and Motion Picture Plays</figDesc>
+</figure>
+
+
+his ground. He said the woman called herself Mrs. Farnham. What do you make of that? His intimation was plain that she has some strong hold on Farnham. A blonde and from Australia," Tal considered frowningly. "Remember that prayer-book&#8212;' Mary, from Winifred, Melbourne'?"</p>
+
+<p>WE walked on in silence for nearly a block; then I risked a question to which I very much wanted an answer.</p>
+
+<p>"By the way, you saw a picture of Mary Leighton at that chauffeur's flat, you said," I began. "What type of girl is she? Look anything like Miss Hoyt?"</p>
+
+<p>"Miss Hoyt? Why&#8212;what idea's got you now?"</p>
+
+<p>"I was just wondering whether Dr. Rice and Mulrooney might not have mistaken some other girl for Miss Hoyt&#8212; some one masquerading, perhaps?"</p>
+
+<p>He gave me a bewildered stare.</p>
+
+<p>"Mary Leighton, you mean?"</p>
+
+<p>"Well, yes. She's an actress&#8212;it would be in her line."</p>
+
+<p>"Masquerading in Miss Hoyt's clothes and a wig? Good Lord, what for?"</p>
+
+<p>"Perhaps to give the impression that Miss Hoyt was in New York when she was not."</p>
+
+<p>"To whom&#8212;Dr. Rice and Mulrooney?" He laughed aloud. "You don't use your imagination often, Dick, but when you do you strain it. Good heavens, what a notion! Either Dr. Rice and Mulrooney saw Miss Hoyt herself or they didn't see anybody&#8212;they're lying. That's what I think; so does Winter."</p>
+
+<p>I knew he was wrong, but I said nothing.</p>
+
+<p>"You know it's possible," he said earnestly, "that she killed herself in some way that looked like murder, and Farnham was afraid to make the facts public and just got rid of the body."</p>
+
+<p>"Speaking of strained imaginations!" I laughed.</p>
+
+<p>"But that's happened loads of times."</p>
+
+<p>"Oh, she didn't kill herself at all," I said. "A girl of her buoyant nature never would."</p>
+
+<p>"Then you're for the murder theory?"</p>
+
+<p>"No! What possible motive was there for murder? Her grandfather's money goes to institutions. Do you think the treasurer of a day nursery or old ladies' home&#8212;"</p>
+
+<p>"The love of money may be the root of all evil, but it isn't the only motive for murder. A jealous woman has been known to kill her rival and afterward weep at the grave."</p>
+
+<p>"Rot!" I said.</p>
+
+<p>But in my ears there sounded again those despairing sobs.</p>
+
+<p>"Rot or not," said Tal, "the key to the mystery lies in that grave. Some one is buried there, some one who did not die a natural death. If not Roberta Hoyt, who is it? I'm going to find out."</p>
+
+<p>"How?"</p>
+
+<p>"With a pick and a shovel."</p>
+
+<p>I gulped. I had been expecting that.</p>
+
+<p>"When?" I asked.</p>
+
+<p>"To-night. We'll get that last train we took before. You'll go along, won't you?"</p>
+
+<p>"Of course," I assented mechanically.</p>
+
+<p>"We can get a couple of spades over on Ninth Avenue&#8212;the stores keep open at night."</p>
+
+<p>"You won't need me for that, will you?" I asked him. "We've three hours, and I think I'll take in a show&#8212;something to get my mind off this affair."</p>
+
+<p>"But you'll meet me at the station?" he questioned anxiously. "I can't manage the job alone, and it wouldn't be wise to take anybody else in. We're the only persons not involved who know about it."</p>
+
+<p>Not involved! I stared silently for a moment at his unsuspecting face, then gave the required promise.</p>
+
+<p>When we separated, I walked round the block and mentally around myself, and I did not like the looks of me. There I was, a reputable member of the Georgia bar, allowing myself to be blackmailed, acting a lie to my friend and about to betray him.</p>
+
+<note type="copyright">Copyright, 1916, Every Week Corporation; John H. Hawley, President; J.F. Bresnahan, Vice President; Bruce Barton, Secretary; R.M. Donaldson, Treasurer; 95 Madison Avenue, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y., under the Act of March 3, 1879.</note>
+
+<cb n="3" />
+
+<p>But, confound it, what business was it of his who was buried in those woods at Riverton? Curiosity and a desire to shine as a detective&#8212;mere personal ambition&#8212;spurred him on. With me it was a nobler impulse, a man's instinct to stand between danger and the woman he loves. For I did love her. I knew it the instant that blackguard Winter began slinging his mud. For if he spoke of her, every foul thing he said or hinted was a lie. I knew that&#8212;knew it; for, thank God, human love and faith are rooted in something more dependable than common sense.</p>
+
+<p>Hurrying out, I hailed a passing taxi. I must not lose a second in reaching Farnham. He should be given a chance to explain, and if he could not then he and Miss Leighton must have time to save themselves.</p>
+
+<p>On the way I scribbled a note on a piece of paper torn from a letter:</p>
+
+<p>"A man who knows what took place at Riverton last night has come to warn you of a matter planned to happen there to-night."</p>
+
+<p>I did not sign it, fearing Farnham had heard my name, and wishing to keep my identity from him, if possible.</p>
+
+<p>ARRIVED at the Fitz-Maurice, I inclosed the note in a hotel envelop and sent it up to him; for, as I had anticipated, he was seeing no one. While waiting for my summons my attention was attracted by the excited whispering of a couple of bell-boys who were craning their necks toward a man in a motor-cap just about to enter an elevator.</p>
+
+<p>"What's the commotion?" I inquired of one of the boys. He informed me eagerly.</p>
+
+<p>"That was the taxi-driver that had Bobbie Hoyt in his car yesterday. Didn't you see about it in the papers? He's here to see Mr. Farnham&#8212;he lives here."</p>
+
+<p>So Mulrooney was calling on Farnham. Why? Were Tal and Winter right about his being in the Englishman's pay? Well, I did not wish to encounter him, so I decided to lie low until he was gone.</p>
+
+<p>Within five minutes they were paging me. "Gentleman for Mr. Farnham!" was shouted all over the place. Once it stopped for a few minutes, but was resumed again. Farnham evidently wanted to see me.</p>
+
+<p>From my hiding-place behind a newspaper I watched the elevator in which Mulrooney had gone up. Car after car descended, but no man with a motor-cap got off. A quarter of an hour went by, then a half. The paging of me had long ago stopped. Suddenly, the idea occurring to me, I inquired and found there were other elevators. Then I looked about for the boy who had pointed Mulrooney out to me, and asked if the cabman had yet left the hotel.</p>
+
+<p>"Long ago," he answered. "He came down the other side. Didn't you see him? Everybody over there was rubbering And say"&#8212;he dropped to a confidential tone&#8212;"Mr. Farnham's gone too. He come down on the freight elevator and went off in a machine without anybody seeing him. And there's been a bunch of reporters laying for him all day. Gee, but us fellers give 'em the laugh!"</p>
+
+<p>So Farnham was gone&#8212;to Riverton, probably. I was sorry I had missed him, because I had hoped he would offer an explanation that would make our trip to Riverton unnecessary. As things stood now, however, I should have to go through with it.</p>
+
+<p>ON my return to my hotel I asked again if Mulrooney had called, and found, to my surprise, that he had.</p>
+
+<p>"I told him you had left town and would not be back for a month&#8212;as you ordered," said the clerk. "And he seemed pretty sore. He said you 'phoned him to come."</p>
+
+<p>"When was he here?" I asked.</p>
+
+<p>"About fifteen minutes ago."</p>
+
+<p>He had come straight from Farnham! What did that mean?</p>
+
+<p>Apprehensive of what my warning might have let us in for, I called Tal at
+
+<figure n="advertisement">
+<head>That Cloudy Feeling</head>
+<figDesc>Advertisement for Dean's Medicine Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Profit With Chickens</head>
+<figDesc>Advertisement for M. M. Johnson Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>70 Egg Incubator Freight Paid $5<hi rend="sup">50</hi></head>
+<figDesc>Advertisement for Reliance Incubator Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Poultry Book Gree</head>
+<figDesc>Advertisement for Geo. H. Lee Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Poultry Paper</head>
+<figDesc>Advertisement for Poultry Advocate</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Greider's Fine Catalogue</head>
+<figDesc>Advertisement for B. H. Greider</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Money In Poultry and Squabs</head>
+<figDesc>Advertisement for Crescent Poultry Farms</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Poultry Book Free</head>
+<figDesc>Advertisement for Syphers Incubator Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Foy's Big Book Free</head>
+<figDesc>Advertisement for Frank Fot</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>We Want Men</head>
+<figDesc>Advertisement for Every Week Corporation</figDesc>
+</figure>
+
+<pb n="Page 19" xml:id="ew.issue.19160306.p019"/>
+    
+<figure n="advertisement">
+<head>Learn Electricity</head>
+<figDesc>Advertisement for Wicks Electrical Institute.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Law Study at Home</head>
+<figDesc>Advertisement for LaSalle Extension University.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Be an Artist</head>
+<figDesc>Advertisement for Associated Art Studios.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Typewriters</head>
+<figDesc>Advertisement for Young Typewriter Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Learn to Write Advertisements</head>
+<figDesc>Advertisement for Page-Davis.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Sexual Knowledge</head>
+<figDesc>Advertisement for American Pub Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Deaf?</head>
+<figDesc>Advertisement for Mears Ear Phone Co., Inc.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Voice Thrower</head>
+<figDesc>Advertisement for Royal Novelty Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head></head>
+<p>All contributions to this magazine should be addressed to The Editor</p>
+<figDesc>Advertisement for Every Week.</figDesc>
+</figure>
+    
+the <hi rend="italic">Record</hi> and suggested his taking a pistol with him to Riverton. He replied that he had no intention of not doing do.</p>
+    
+<p>My own revolver was loaded and in my hip pocket.</p>
+    
+<p>Tal was waiting at the station with a big brown paper parcel. "I got only spades," he told me in a whisper. "We won't need a pick&#8212;the dirt's soft yet."</p>
+    
+<p>I shuddered and went over to a newsstand and bought a magazine. I did not read it, however.</p>
+    
+<p>The talkative boy whose car we had used the night before was not on hand, and we took that of a grouch who refused to open his head except for business; so we picked up no news.</p>
+    
+<p>We followed the same plan as before, of getting out at the Martin gate and, when the car was out of sight, continuing afoot.</p>
+    
+<p>AS soon as we were in the woods, Tal unwrapped the spades and gave me one; and, with it in one hand and my revolver in the other, I started off, resolved to be in front. My reason told me there was no danger to our lives, for Farnham had had three hours in which to remove all evidence of crime, if crime there had been, and to take himself and Miss Leighton out of the way; but, if there were any risks to be run by us, it was my job to run them, not Tal's.</p>
+    
+<p>"Go round that clump of cedars and straight on to the next big clump," he directed. "It's near that."</p>
+    
+<p>At the big clump of evergreens Tal stepped ahead of me and began lashing his torch and kicking leaves aside. In the light I could see bits of yellow earth fly off among them. When the spot was cleared, he dropped his flasher back into his pocket.</p>
+    
+<p>"All right," he said. "Let's dig."</p>
+    
+<p>I did not obey at once, but stood listening. The darkness of the woods seemed deeper still after the light, but the blackness was mute. Then, satisfied, I slipped my pistol back into my pocket, grasped my spade, and&#8212;</p>
+    
+<p>"Hands up!"</p>
+    
+<p>Automatically we wheeled toward the voice, and found ourselves half blinded by a flash of light. We dropped our spades and raised our arms.</p>
+    
+<p>"Who are you and what are you doing here?"</p>
+    
+<p>It was Farnham. I recognized his accent in the longer speech.</p>
+    
+<p>"What right have you to ask that?" Tal questioned gamely.</p>
+    
+<p>"The right of the man with the drop," came back sharply.</p>
+    
+<p>"Is that your only right, Mr. Farnham?</p>
+    
+<p>There was a pause; then Farnham stepped clear of the shrubbery behind which he must have been waiting for us, and advanced, keeping us covered, but lowering the light so that we could see him as distinctly as he saw us.</p>
+
+<p>If I had taken an immediate dislike to Winter, I was as instantly drawn to this man. He was hardly more than twenty-six, and had a lean, clean-cut English face that was most prepossessing. He had a boyish thatch of fair hair showing from under the cap he wore, a fine jaw, and clear gray eyes.</p>
+    
+<p>After one glance from Tal to me and back again, he frowned. "I'm afraid I don't quite understand," he said at last.</p>
+    
+<p>"I'll explain," said Tal, and the way he said it told me at once that Farnham had impressed him just as he had me, and that he meant to speak frankly.</p>
+    
+<p>He began with our first trip to Riverton, and Farnham listened silently, his British immobility of coutenance allowing us to guess nothing of what he thought. It was not until Winter was mentioned that he gave any sign of feeling. But when Tal apologized for allowing Winter to think we had come from him, he at last spoke.</p>
+
+<p>"It's of no consequence to me what Winter thinks," he said.</p>
+    
+<p>"And so," Tal finished, "we naturally thought the explanation of Miss Hoyt's disappearance might be here."</p>
+    
+<p>At that the Englishman's head shot forward and his eyes bulged with the sheer force of astonishment.</p>
+    
+<p>"You think Miss Hoyt is <hi rend="italic">dead</hi> and&#8212;and buried here?" he gasped.</p>
+    
+<p>"If she is not, who is?"</p>
+    
+<p>"My God!"</p>
+
+<p>The hand holding the gun dropped to his side. I think he had forgotten it. I had, I know.</p>
+    
+<p>"Why not tell us whose grave this is?" Tal said.</p>
+    
+<p>"I can't. I can only give you my word of honor that what you saw here last night has nothing to do with Miss Hoyt. I don't know where she is&#8212;I wish to God I did! We were engaged, and she broke the engagement. Winter told you why. What he said was true&#8212;the bare facts were. That was the hideous part of it: I couldn't deny the facts when she came to me from him. But his interpretation of them was wrong, horribly wrong, and I asked her to believe that. But she wanted an explanation, and I could not explain without involving others whose secrets I had no right to betray, even to her. I begged her to trust me, and she refused. Oh, I don't blame <hi rend="italic">her!</hi> Winter had crammed her mind with his beastly lies that looked like truth&#8212;that I cared for some one else, that all I wanted was her money. God, as if she were not, in herself, all any man could dream of!"</p>
+    
+<p>He broke off bitterly.</p>
+    
+<p>"Well, she chucked me. And here I am asking you, strangers, to do what she would not&#8212;trust me."</p>
+    
+<p>"Why not trust us?" said Tal. "We know so much already that you would rather we not. But we have not told it to a soul. And if there was nothing criminal in the affair I promise that you'll never have a come-back form it as far as we're concerned. That's my word of honor."</p>
+    
+<p>"And min," I added.</p>
+    
+<p>Farnham did not reply at once. He gave me a long, searching glance, then looked keenly at Tal.</p>
+    
+<p>"You say you have told no one what you saw last night?" he asked at last.</p>
+    
+<p>"Not a soul," said Tal.</p>
+    
+<p>"Then who warned me that you were coming here tonight?"</p>
+    
+<p>"I did," I answered instantly.</p>
+    
+<p>"You!" Tal cried.</p>
+    
+<p>"Yes; I wrote Mr. Farnham a note. I felt sure that if I should tell him frankly what we knew&#8212;as you've just done&#8212;he would explain."</p>
+    
+<p>"Then why didn't you wait to see me? I thought you were waiting; I had you paged."</p>
+    
+<p>I thought fast. I could not tell him about seeing Mulrooney.</p>
+    
+<p>"I changed y mind," I said. "I felt I had been rash in acting without consulting my friend, and that it would be fairer to him to come here and let you explain to us together."</p>
+    
+<p>It sounded pretty thin to me, but Farnham seemed satisfied. Tal said nothing, but I knew he would converse on the subject later&#8212;at length.</p>
+    
+<p>FOR several moments we stood in silence. Farnham was trying to make up his mind.</p>
+    
+<p>"Before I can say anything I must have the permission of another person," he finally brought out reluctantly. "Will you be good enough to come to the house?"</p>
+    
+<p>We agreed, and silently we walked to the house. He admitted us by the rear door that had been used the night before. In a room on the other side of the house&#8212;a breakfast-room, it seemed to be&#8212;he left us to wait, while he went to consult the "other person." That must be, I thought, the woman in the case&#8212;the blonde of the limousine. But was she the girl I had met?</p>
+    
+<p>Ten minutes passed&#8212;another ten; then we heard Farnham's steps returning, and mingling with them the sound of a lighter tread. Tal and I got on our feet instinctivley and stood waiting, our eyes on the door. What I expected I did not know. My heart hammered against my ribs, there was a lump in my throat.</p>
+    
+<p>The door opened, and Farnham stood aside for her to enter. I head the soft noise of her skirt, caught the gold sheen of her hair, and then I saw her face.</p>
+    
+<p>It was one I had never seen before.</p>
+    
+<p rend="jumpline"><ref target="luehrmann.19160313">To be continued next week</ref></p>
+    
+<figure n="advertisement">
+<head>Given to You Without Expense</head>
+<figDesc>Advertisement for Larkin Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>You Can Earn $250 a Month with this New Machine</head>
+<figDesc>Advertisement for Haywood Tire and Equipment Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Pay as You Wish</head>
+<figDesc>Advertisement for Harold Lachman Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Boats</head>
+<figDesc>Advertisement for Gray Motor Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Learn to Stuff Birds</head>
+<figDesc>Advertisement for N. W. School of Taxidermy.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Unitarianism</head>
+<figDesc>Advertisement for Associate Department A.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Lady Distributors:</head>
+<figDesc>Advertisement for Ward Co.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 20" xml:id="ew.issue.19160306.p020"/>
+    
+<text type="advertisement">
+<body>
+    
+<figure n="advertisement">
+<head>Have You a Boy Problem?</head>
+<figDesc>Advertisement for The Shredded Wheat Company.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+</group>
+</text>
+</TEI>
+

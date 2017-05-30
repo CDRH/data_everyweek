@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19151206">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, December 6, 1915</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2014</date>
+<availability>
+<p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+<idno>ew.issue.191501206</idno>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>52 East 19th Street, New York</pubPlace>
+<extent>20 pages</extent>
+<date when="1915-12-06">December 6, 1915</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2014-11-04"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2011-01-31"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2010-11-18"><name>Arman Zeljkovic</name> Initial Encoding
+</change>
+<change when="2010"><name>Claire Harlan-Orsi</name> OCR
+</change>
+<change when="2009"><name>Dan Gomes</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+        
+<pb n="Cover" xml:id="ew.issue.19151129.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">3&#162;</titlePart>
+</docTitle>
+<docEdition>Vol. 1 No. 32</docEdition>
+<docImprint>
+<publisher>Published Weekly By Every Week Corporation, Copyright, 1915, By Every Week Corporation</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<docDate>December 6, 1915</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head>How Long Can England Hold Out? <lb/><hi rend="italic">Burton J. Hendrick</hi></head>
+<ab type="credit"></ab>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+<group>
+    
+<pb n="Page 2" xml:id="ew.issue.19151206.p002" />
+    
+<text type="nonfiction" xml:id="ourattitude.19151206">
+<body>
+    
+<head type="main">This Should Be <hi rend="underline">Our</hi>Attitude</head>
+    
+<cb n="1"/>
+    
+<p>ON the following page we publish an important article by Mr. Burton J. Hendrick, called "How Long Can England Hold Out?"</p>
+    
+<p>From time to time we shall publish other important articles on the war.</p>
+    
+<p>These will not be pro-Ally articles or pro-German articles; they will be pro-American articles. They will deal with the war in its influence on our own country. That is the aspect in which every true American must be interested most.</p>
+    
+<p>You, as an intelligent human being, must have some opinion on the war: you must sympathize with one side or the other. That is proper.</p>
+
+<p>But the thing that you and I ought not to forget is that some day the war is going to end. Some day the world will settle down into a peaceful neighborhood again. Some day England must begin again to do business with both.</p>
+    
+<p>When that day comes, the nation that has the least hat in its heart will make the most progress.</p>
+    
+<p>Of all human passions, none destroys efficiency like hate: none dies so hard. Grass grows green over battlefields; ruined cities are rebuilt. But hate lives for a generation&#8212;until all the haters are dead.</p>
+    
+<p>While the war still goes on, while our sympathies are
+    
+<cb n="2"/>
+    
+still enlisted on one side or the other, it is a good mental exercise for us to remind ourselves frequently of the good qualities of each of the warring nations&#8212;to remember how much we owe to England and Germany and France.</p>
+    
+<p>England gave us our language and our governmental institutions and ideals.</p>
+    
+<p>France has stimulated our science and art; and to France we owe a debt for her help in the American Revolution that we have never decently acknowledged or repaid.</p>
+    
+<p>To German training and research our universities attribute much of their excellence; our whole business life has been given a fresh impetus by the example of German efficiency.</p>
+    
+<p>While you are remembering Germany's "frightfulness" in Belgium, and England's disregard of our rights on the seas, remember these other things also&#8212;even if it requires an effort.</p>
+    
+<p>By remembering them you keep your mind prepared for the day when we must do business with all the world again. Our prosperity and our opportunity for leadership in the world depend upon the extent to which we can understand these other nations and be of service to them.</p>
+    
+<p>We can neither prosper nor be useful if we hate.</p>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="atwood.19151206">
+<body>
+    
+<head type="main">What Opportunity for a Woman?</head>
+<byline>By <persName type="author" key="#Atwood, Atwood W.">ALBERT W. ATWOOD</persName></byline>
+    
+<cb n="1"/>
+    
+<p>I HAVE noticed your articles, but I fail to see what value they have to women except those who have money to invest. All the men I meet seem to be interested in financial subjects; but why should women be interested, when there is so little opportunity for them? Is there anything a woman can do? &#8212;MRS. C. L. B., Lansing, Michigan.</p>
+    
+<p>THERE <hi rend="italic">are</hi> real, live opportunities for young women in financial work&#8212;opportunities that the public has never heard of.</p>
+    
+<p>For the right sort of women big incomes may be earned in life insurance. Recently a woman was elected to an organization of agents of one of the big companies to which only the most successful are admitted. It was the first time that distinction ever went to a woman. A great effort is being made by several of the large companies to enlist women agents for work among professional women and those who have inherited large means. Miss Marie Little heads an important department of one of the big companies, and is as full of her subject as any man.</p>
+    
+<div1><head type="sub">Why Not Bond Saleswomen?</head>
+    
+<p>IT is quite probable that a field is about to open up in the sale of bonds and other investment securities. One of the largest investment banking concerns in New York recently opened a department for women clients, with one of their own sex in charge. I am quite sure that nay bright young woman who has mastered the rudiments of finance&#8212;which she can accomplish by means of a correspondence course or in a night school&#8212;would not have the slightest difficulty in finding an investment dealer only too glad to pay her a good salary if she showed aptitude in selling bonds.</p>
+    
+<p>Of course, there is always a future for clever stenographers who become real secretaries. It was long a tradition in Wall Street that a certain great financier paid his secretary a salary so fabulous that I 
+
+<cb n="2"/>
+
+am almost afraid to repeat the figure&#8212;$50,000. The amount may be exaggerated; but such business ability did that tall young person show that she was really worth a fortune to the man of millions.</p>
+    
+<p>Perhaps the most highly developed financial occupation open to women, but one hardly known to the public, is that of expert special librarian. Banks, corporations, and brokers are using special libraries more and more. These libraries have become valuable assets to their owners, and the women in charge have in several instances become almost as important as the officers, and of course receive good salaries.</p>
+    
+<p>In the case of the American Telephone &amp; Telegraph Company, the librarian set about to select the fifty books that would be most frequently used and would prove most valuable to the thousands of employees of that concern. To make such a selection requires a high order of ability.</p>
+    
+<p>One of the most remarkable women in this line of work is Miss Marian Glenn, librarian of the American Bankers' Association. The members of this association consist of bankers in all parts of the country, and a request from a member for information on nay phase of money or banking at once brings from Miss Glenn by return mail a thick budget of clippings, articles, and other material covering exactly what is wanted. I suppose Miss Glenn is really responsible for more speeches at dinners and meetings of bankers than any other human being.</p>
+    
+<p>Miss Spencer, librarian of the National City Bank of New York, has built up the largest financial library in this country. She too, supplies detailed information on any business or financial subject.</p>
+    
+<p>There are many other women engaged in similar work. The field is growing rapidly, and the most interesting feature of it is that the work is being recognized as a vital and essential part of successful business enterprises.</p></div1>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="bowers.19151206">
+<body>
+    
+<head type="main">Can Loose Teeth Be Fastened?</head>
+<byline>By <persName type="author" key="#Bowers, Edwin F., M.D">EDWIN F. BOWERS, M.D.</persName></byline>
+    
+<cb n="1"/>
+    
+<p>SOME time ago you wrote a most interesting and helpful article on Rigg's disease. Are there any new facts in this connection.</p>
+
+<p>"SINCE the discovery by Drs. Barrett and Smith that the chief cause of pyorrhœa, (a disease of the gums) is a vegetable organism, and also than an alkaloid derived from ipecac is a specific poison against this parasite, thousands of cases of pyorrhœa have been cured.</p>
+    
+<p>Now, however, if the experiments of Dr. Barton Lisle Wright, surgeon of the United States Navy,&#8212;stationed at Portsmouth, New Hampshire,&#8212;and Dr. Paul G. White, dental surgeon of the United States Navy, are borne out by several thousand additional favorable experiences, and even more radical means of stamping out Rigg's disease has been found.</p>
+    
+<div1><head type="sub">Ten Out of Ten Cures</head>
+    
+<p>IT will be remembered that emetine hydrochloride, the active principle of ipecac, was announced as a specific antidote against the <hi rend="italic">entamœba buccalis</hi>, the little amœba whose pernicious activities are chiefly instrumental in causing gums to bleed, pus to form around the necks of the teeth, and the teeth ultimately to loosen and drop out&#8212;this in addition to producing many grave systematic conditions.</p>
+    
+<p>While emetine killed amœbas, it had no specific action upon the pus-forming germs; so there were a certain number of cases which, in spite of emetine and thorough scaling and cleaning of the teeth, failed materially to improve. The percentage of the cases has been estimated as approximately to out of ten.</p>
+    
+<p>But now it is confidently believed that we can cure ten out of ten, because we have found a drug&#8212;one of the oldest and most respectable in medicine&#8212;that not only kills entamœbas, but also, if properly used, kills all other vegetable organisms. This old drug is mercury.</p>
+    
+<cb n="2"/>
+    
+<p>Dr. Wright selected the succinimide of mercury in his work, as larger doses this can be injected than of any other salt of mercury. Also, it is readily soluble, and does not cause much, if any, tissue change or irritation, when properly injected into the muscles.</p>
+    
+<p>When I talked with Drs. Wright and White, last summer, they has treated twenty-eight consecutive cases of pyorrhœa, every one of which was cured in from four to forty-one days. The largest number of injections required to cure the pyorrhœa was six; the smallest, one; while the average was two and seven tenths.</p>
+    
+<p>Of these cases nine had systemic infection, probably caused by the condition around the teeth. Six of these were chronic rheumatism, one chronic stomach trouble, one chronic facial neuralgia, and one laryngitis. These were all cured of everything that was the matter with them by curing their gums.</p>
+    
+<p>The local treatment, given by Dr. White, consisted in careful removal of deposits and tartar from around the necks of the teeth, extraction of utterly hopeless teeth and roots, polishing of the tooth structure, and the application to the gums of iodine, aconite, and chloroform.</p>
+    
+<p>Dr. Wright's treatment, it is needless to say, must be given by a competent medical man. For disagreeable, painful, or even dangerous results may follow the administration of mercury at the hands of an amateur, and where the kidneys are involved the treatment should not be given at all.</p>
+    
+<p>However, it seems quite certain that another big advance in the preservation of life and health has been made. And not the least satisfactory part of it&#8212;as with the discoverers of the original cure for pyorrhœa&#8212;is that the men credited with it are brother Americans.</p></div1>
+    
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19151206.p003" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Volume 1	Number 32<lb/>
+<lb/>
+
+Every Week<lb/>
+<lb/>
+
+Dec. 6, 1915</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+
+
+
+<text type="nonfiction" xml:id="hendrick.19151206">
+<body>
+
+<head type="main">How Long Can England Hold Out?</head>
+
+<byline>By <persName type="author" key="#Hendrick, Burton J.">BURTON J. HENDRICK</persName></byline>
+
+
+<div1>
+<p>IN March, 1864, a visitor to the Treasury Department in Washington was discussing with Secretary Chase the financial condition of the United States. "What is the war debt now?" he asked.</p>
+
+<p>"It's about $2,500,000,000," Chase answered.</p>
+
+<p>"How much more can the country stand?"</p>
+
+<p>"If we do not suppress the rebellion when it reaches three billions," replied Chase, "we shall have to give up the fight."</p>
+
+<p>However, the debt went beyond the three billion mark, and yet the federal government did not surrender. In fact, the Civil War could have cost five times that amount without seriously disarranging the nation's finances and industry.</p>
+
+<p>To-day millions of Englishmen&#8212;and those as many Americans, especially those who are buying British bonds&#8212;are asking this same question: How long can to England stand it? She has already lent to France and Russia an amount larger than the American Civil War debt in 1864. Her war obligations, so far, have reached $11,000,000,000&#8212;and the struggle has lasted less than two years. Is there any limit to her financial endurance? How long can a nation spend what Reginald McKenna, in his Budget speech of September 22, said that England was spending at that time&#8212;$22,500,000 a day?</p>
+
+<p>History has known nothing comparable to this. In the last two years of her Napoleonic struggle England was spending less than $1,000,000 a day&#8212;at that time an unheard-of sum. In the last three years of the Civil War the United States averaged expenditures of $2,000,000 a day. That held the record as the most expensive war in history until this present cataclysm made it look like a mere backyard skirmish.</p>
+
+<p>How long can England keep it up?</p>
+</div1>
+
+<div1>
+<head type="sub">No Englishman Owns Himself To-day</head>
+
+<p>A NATION fights a war with all her financial and industrial resources. Everything that England has, all the posessions that Englishmen enjoy, constitute the national wealth available for warfare. No Englishman to-day can claim as his own his income, his accumulations, the house in which he lives, or the shirt upon his back. All these things, as well as his living body, are assets of the State. Parliament can seize  all his possessions, as well as his physical tenement, for service in the war. In seeking an answer to the question propounded, therefore, we must examine what this industrial and financial England really is: what is its wealth, its accumulations, its investments in all parts of the world, its income, its savings, and its producing capacity. For purposes of war, however, only what may be called its liquid assets&#8212;the capital that can be mobilized within a reasonable period&#8212;are entitled to consideration. The greatest wealth of any nation is probably its land; but land obviously can play little part in financing a war.</p>
+
+<p>What, then, are the things that the tax-gather can place his hands on, with which to purchase munitions, to feed armies and navies, to pay soldiers and sailors, to keep the military forces in a constant state of efficient action?</p>
+
+<p>Germany, we have been told, was <choice><orig>splen-
+
+<cb n="2" />
+
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>The young Duke of Westminster is probably the richest landholder in England. He has an inccme of about three million dollars a year, and before the war he was paying less than one twentieth of this in taxes. He is now paying one third, and before the end of the war will probably be paying one half. Incidentally, the Duke is a good sport. He joined his regiment at the beginning of the war, and has been fighting in the trenches ever since. Above is his wife, the sister of George Cornwallis-West, who recently married Mrs. Patrick Campbell.</p>
+<figDesc></figDesc>
+</figure>
+
+didly</orig><reg>splendidly</reg></choice> prepared for this war. She had mountains of ammunition, forests of forty-two centimeter guns, and an almost inexhaustible supply of trained soldiers. She had been piling up these resources for thirty years. In another and perhaps more fundamental sense, England was prepared. She had been accumulating supplies, not for thirty but for three hundred years. She had not heaped up much ammunition or many guns; but she had been getting together the greatest storehouse of treasure the world has ever known.</p>
+</div1>
+
+<div1>
+<head type="sub">England the Capitalist of Europe</head>
+
+<p>THE statisticians usually put down the capital value of her wealth at $85,000,000,000&#8212;less than that of the United States, it is true, which amounts to $103,000,000,000, but doing rather well for a little island not much larger than our New England States. Our unexampled wealth is largely agricultural
+
+<cb n="3" />
+
+domain, reaching from the Atlantic to the Pacific; England's is, to a much greater degree, mobilizable capital. John Bull has an annual income of $12,000,000,000 a year&#8212;an income that has doubled in thirty years, and which was gaining at an amazing rate when war suddenly disarranged the financial landscape. Compared with his resources, he had a small debt&#8212;only about $3,500,000,000, or about a quarter of a single year's income. Interest on this debt consumed less than one per cent. of each year's earnings. John owed nothing to his neighbors&#8212;the loan recently floated in New York representing his first foreign borrowings since the days of Charles II. He used less than seven per cent. of his income in paying the annual cost of conducting the world's greatest empire, leaving his people the remaining ninety-three per cent. to spend on themselves, to build up new enterprises, and to make more money.</p>
+
+<p>So firmly had John established his <choice><orig>busi-
+
+<cb n="4" />
+
+ness</orig><reg>business</reg></choice>, so secure from foreign encroachment did he feel, that, alone of all the nations, he made his own ports open to the world's competition. "Come here and beat me at my own game!"&#8212;such was his standing invitation to mankind. With twenty million tons of shipping, he was the world's carrier&#8212;Germany making a poor second with five millions. With all the world paying him commissions, he was the world's banker. And, contrary to general belief, taxation in England was light&#8212;lighter than in any country except our own. England did not tax necessaries, but luxuries. Her ingenious invention, the tax on incomes, naturally hit only those who had incomes to be taxed.</p>
+
+<p>The consternation of the German Chancellor when he heard, contrary to his calculations, that England had entered the war, is thus easily explained. He did not fear, primarily, the English army, nor even the English navy. What he really saw, in the distance, was this huge treasure-house of English wealth&#8212;her $85,000,000,000 of capital, an enormous amount of it liquid, her $20,000,000,000 of foreign investments, her $12,000,000,000 yearly income, and her $2,000,000.000 yearly savings.</p>
+
+<p>With these figures in mind, a few arithmetical calculations would seem to answer the question: How long can England hold out? If the nation is spending $8,000,000,000 a year, and its total wealth is $85,000,000,000, she could, apparently, go on for ten years. Her foreign investments alone would pay the expenses of the war for nearly three years. Sober-minded Englishmen, however, do not figure the problem this way. The sale of foreign investments to pay the cost of a war would simply mean that England was consuming her capital. The attempt to cash in on other even less tangible assets would signify the same thing. Necessity may compel sacrifices of this kind; the day may come when England may pledge her foreign investments in New York as security for American loans. Until that time of necessity arrives, however, there are other more available resources. For the present she must depend upon her earnings&#8212;the products of her factories, shipping, and general trade, and, in addition, the interest upon her foreign investments. These several items aggregate about $14,000,000,000 a year. This is a great annual fund, representing not capital but earnings. The expenditure of this whole sum, or any part of it, would not mean any encroachment on the accumulations of three centuries.</p>
+</div1>
+
+<div1>
+<head type="sub">The Whole Nation Must Save</head>
+
+<p>THE question of financial endurance, therefore, resolves itself into simple terms. The present cost of the war is about $8,000,000,000 a year. England's total income, out of which this cost can be met without permanently injuring the nation, is $14,000,000,000. After paying the piper, therefore, the English people will have $6,000,000,000 left for their daily needs. At the rate of expenditure prevailing before the war, the English people were spending $10,000,000,000 a year in living expenses. War expenses, as already said, will cut this allowance down to $6,000,000,000. That is, if England can economize $4,000,000,000 in the cost of
+
+<pb n="Page 4" xml:id="ew.issue.19151206.p004" />
+
+living, she can apparently continue the war indefinitely, even at the present atrocious rate of expenditure. Therein is England's financial problem in a nutshell. The great task of English statesmanship at the present moment is to enforce economy upon the English people. If England is to win this war, she must win it with the present and past earnings of the English people.</p>
+
+<p>There are three ways in which the government can obtain access to this accumulated treasure. One is by moral suasion. In ante-bellum days the English people invested their earnings largely in foreign enterprises. They laid aside nearly $2,000,000,000 a year in this way. Instead of purchasing foreign investments, they must now use this money in buying war bonds. Little persuasion is needed to induce them to do this; naturally, no English money is now going into foreign business. This two billions of dollars, representing England's normal savings, in itself pays for one fourth the cost of the present military and naval operations. This represents the amount, that is, that England can pay without suffering any inconvenience at all. The income in foreign investments, placed at the disposal of the Empire, gives an additional billion.</p>
+
+<p>But the English people must do better than that. By splitting their normal living expenditures in two, they can furnish $3,000,000,000 more. If the rich will stop buying automobiles, cut down their forces of servants, and stop lavish entertainments&#8212;if the middle classes and the poor will economize in a thousand different ways&#8212;this needed $3,000,000,000 can easily be saved. This amount, with the $3,000,000,000 already accumulated, will give $6,000,000,000 available for war purposes&#8212;almost the amount required.</p>
+
+<p>It is probably a rule of human nature that few people economize unless necessity forces them to do so. A family living on $5000 a year finds it practically impossible to save half that amount. When a domestic cataclysm suddenly cuts the income to $2500, however, it usually succeeds in adjusting the situation to the altered circumstances. And the British Parliament does not have to depend upon voluntary economies; it has means of enforcing them. Taxation is only another
+
+<cb n="2" />
+
+word for forcible saving. England is using this instrument with the utmost freedom.</p>
+
+<p>The fact that the English people stand this taxation with such good nature is a great element of financial and military strength. At present England presents an amazing spectacle: a great, rich people practically begging for taxation. Huge as were the levies made in the recent Budget, the only grumblings they inspired was that they were not large enough!</p>
+</div1>
+<div1>
+<head type="sub">What Astor Will Have to Pay</head>
+
+<p>AMERICANS, who know practically nothing about taxation,&#8212;at least, for federal purposes,&#8212;really do not understand the extent to which it is being practised in England to-day. At present the income tax is taking not far from one third of all incomes. A man who has $5000 a year is paying $1500 to the general treasury; a man who has $25,000 pays nearly $8000. The men who have extraordinarily large incomes must pay large sums. Mr. McKenna, in his recent Budget speech, said that an income of $500,000 a year would pay in taxes about $160,000! This new tax will so weigh upon certain well known American expatriates that it may almost make them yearn for their native land. There is William Waldorf Astor, for example. His income, largely from New York real estate, is not far from $10,000,000 a year. The new tax will take about $3,000,000 of this for war purposes! English makers of war munitions and supplies are also hit hard. The new taxes take just one half of what are popularly known as war profits.</p>
+
+<p>In giving all this cheerful information to British millionaires, Mr. McKenna made another amazing statement. Large as these taxes were, he said, in a few months he would probably propose others still larger. And the British public unanimously applauded the suggestion. There is no limit to which Parliament can apply the income tax. If necessary, it will not take $3,000,000 of Mr. Astor's $10,000,000; it will take it all. Why not, if the salvation of England demands it? It might leave Mr. Astor $5000 or $10,000 a year to supply his daily wants. That would be no particular hardship for him; it would mean merely giving up his <choice><orig>ac-
+
+<cb n="3" />
+
+customed</orig><reg>accustomed</reg></choice> mode of life for two or three years. Ultimately Mr. Astor, the Duke of Westminster, Sir Thomas Lipton, and other British millionaires, would lose nothing. In taking over their incomes on this wholesale scale, the government would give them government bonds in exchange. In the end these gentlemen would find themselves richer than at the beginning.</p>
+
+<p>If necessity compelled England to take over the $20,000,000,000 of foreign securities, it would adopt the same procedure. That is, it would take from English holders Union Pacific stock, New York Central, Canadian Pacific, and thousands of other marketable securities. It would then sell these in foreign markets,&#8212;for the larger part in New York,&#8212;and with the cash realized pay the cost of the war. As already said, this treasure in itself would pay present expenses for nearly three years; and this tremendous hoard England has not yet touched.</p>
+
+<p>The question at the head of this article is now apparently answered. England can apparently stand the present strain indefinitely. Consequently English industry and trade are still flourishing. English commerce, thanks to the efficiency of the English fleet, is still sailing the Seven Seas. The most recent figures show that English commerce and industry have dropped almost twenty-five per cent. as a result of the war. That seems a material loss, but it still leaves England the richest nation in the world, next to the United States. As English wealth has increased greatly in the last five years, the net result is that economic England is just about as busy and successful now as she was in 1910. The comforting part for Englishmen is that her industrial position is growing stronger month by month. In particular, English ship-building yards are experiencing a great boom. The government has taken over hundreds of England's merchant ships for war purposes; English yards are now working day and night to supply ships to take their places. In spite of war and submarines, England is still the world's great carrier.</p>
+
+<p>England is far better equipped to stand the present strain than she was a hundred years ago. Yet she started the last war against Napoleon in 1803 and kept at it until 1815&#8212;twelve years. The country
+
+<cb n="4" />
+
+was less strongly united then than now. A larger portion of the British public opposed the war; her allies deserted her at critical moments; Napoleon made a far more formidable showing in the first few years than has the Kaiser. England great statesman, William Pitt, died in the belief that the English cause was lost. Trafalgar never gave England the complete mastery of the seas that her present fleet of dreadnoughts has won for her. The exchequer had the utmost difficulty in floating loans; it had to give bonuses with each subscription, so that only $100 was actually taken in for every $169 issued in securities.</p>
+</div1>
+
+<div1>
+<head type="sub">No Danger of Financial Exhaustion</head>
+
+<p>AT present England is spending something more than one half her revenue for war purposes: In the last two years of the war with Napoleon she spent almost one fifth. Apparently, the present conflict is a greater strain; but the fact that her present resources are infinitely greater now than they were a hundred years ago makes the comparison fallacious. For even after spending one half, the nation has a much greater per capita wealth left now than in the days of Napoleon. A man who has an income of $1000 a year and contributes one fifth has $800 left. Another who has $25,000 and contributes half has $12,500 left. The first man represents the England of Napoleon's time after spending one fifth of its income in war; the second represents present-day England after spending one half. After paying all the costs of the present war, someone has figured, England's population will still have left an income just about as large as its entire income in Disraeli's day. In other words, the financial power she has accumulated in forty years has given her the financial strength to conduct the present operations. Any idea of real financial exhaustion may, therefore be dismissed. The cost will hurt, and hurt for many years to come; but the aggregate sufferings will be those of an extremely rich man who loses a considerable part of his income. It would hurt Mr. Rockefeller to have an income of 5,000,000 a year instead of $20,000,000; still, he would not be a candidate for the poorhouse.</p>
+</div1>
+</body>
+</text>
+
+<text type="fiction" xml:id="jones.19151206">
+<body>
+<head type="main">Delilah Jane Detective</head>
+
+<byline>By <persName type="author" key="#Jones, Frank Goewey">FRANK GOEWEY JONES</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#Chase, Edward L.">Edward L. Chase</persName></byline>
+
+<p>THE six o'clock whistle blew. From the assembling and inspection departments on the top floor of the Ajax Electric Company factory the evening flood of coil-winders and testers surged into the hall and down the stairs.</p>
+
+<p>Jane Diekema, the young forewoman of the inspectors, put away the last of her shop orders and locked her desk. She perked a saucy blue turban on her blond head, and sauntered out toward the railed-in corner that the foreman of the assemblers jokingly called his private office.</p>
+
+<p>STEKETEE heard her coming. He banged down the roll-top of his desk, grabbed his straw hat, and stalked petulantly to meet Jane. His mouth was set hard in a straight line, and his eyes glittered like polished dark blue marbles.</p>
+
+<p>"I didn't suppose you'd walk home with me to-night!" he blurted.</p>
+
+<p>"Why not?" inquired tantalizing Jane.</p>
+
+<p>"I thought probably you'd prefer Mr. Galland's company. He's hung around you most of the afternoon."</p>
+
+<p>Jane laughed, but she touched her lips with significant fingers. "Wait until we get outside, and I'll tell you something," she whispered mysteriously.</p>
+
+<p>The foreman walked beside her in sulky silence until they were out of doors and across the street. Then he barked:</p>
+
+<p>"Well, what is it?"</p>
+
+<p>"You needn't snap my head off!" the girl retorted.</p>
+
+<cb n="2" />
+
+<p>"No! I'm supposed to act meek as a lamb!" he countered. "You flirt half the afternoon with Galland, and expect me to be deaf, dumb, and blind!"</p>
+
+<p>"But he's the superintendent, Joe! I can't help it if he likes me. I'd certainly be foolish to get him sore. I don't want to be fired until I've saved enough for my trousseau."</p>
+
+<p>"You won't need it very soon!" the foreman growled savagely. "Galland's got it in for me because we're engaged. He's trying to find an excuse to discharge me. He'll get me, in the end. He thinks you'd quit me if I lost my place; and, the way you've been treating him lately, I don't wonder he's got things sized up that way."</p>
+
+<p>The girl's light blue eyes snapped. Just in time Jane bit her lips. She realized that Joe was suffering.</p>
+
+<p>"You ought to know I had a good reason for leading Galland on," she reproached. "I saw through his scheme a long while ago; but I knew he'd fire us both, and quick, if I got huffy with him. We wouldn't dare get married either, Joe, with your job depending on him. He's got to leave the Ajax, or we have. Galland is a crook&#8212;I just know it. But he's so slick nobody ever got the goods on him. If I could find out what he's doing, I'll bet I could put him in jail."</p>
+
+<p>"What do you mean?" cried Steketee.</p>
+
+<cb n="3" />
+
+<p>"There are several things that don't tally up the way they would if he was honest," said Jane. "I never spoke a word to you, because you'd have said I was crazy. I shouldn't tell you now, only I need your help. You know Kargowitz, from Grand Rapids?"</p>
+
+<p>"The junk-man? Yes."</p>
+
+<p>"He buys all the factory scrap metal nowadays, doesn't he?" suggested Jane.</p>
+
+<p>"I hadn't noticed&#8212;I guess he does, though."</p>
+
+<p>"Why?" she developed her point.</p>
+
+<p>"Seems to me I heard the purchasing agent say Kargowitz always made a better price than the other junk-dealers."</p>
+
+<p>"RIGHT," Jane agreed. "That's suspicious. And Galland got him over here the first time. That's suspicious, too, with the other things I've noticed. Kargowitz also takes tons and tons of our scrap steel punchings, which nobody used to buy. That's another funny thing. Then, you remember we saw Kargowitz and Galland chumming up mighty thick the Sunday we went to Reed's Lake in Grand Rapids. And, last, Galland bought a brand new big automobile a month ago. That didn't come out of his salary, you can bet. He was dead broke when he came here in September."</p>
+
+<p>"I believe you're right, Jane. If I thought we could prove Galland's doing
+
+<cb n="4" />
+
+any dirty work, I'd hire a detective to watch him," declared Steketee.</p>
+
+<p>"You don't have to," she rejected plan. "I'm detective enough to catch that crook. I think I know about how he and Kargowitz work their game, and in the morning I'm going to make sure.</p>
+
+<p>"You know, to-morrow is the last of the month. That's the day Kargowitz always comes over. I've kept tabs, and I'm on to just what they do. He and Galland and three or four of the packer boys weigh up the scrap metal. The boys shovel the stuff into barrels and roll them on the scales. The figures are put down on pads by Kargowitz and Galland. One of the boys marks a number on each barrel and the net weight of the metal that is in it. Another nails burlap over the top. After that the barrels are trucked down-stairs and weighed again by the shipping-clerk. Finally, Galland and Kargowitz come down and check up their lists with the shipping-clerk. It looks all square, doesn't it?"</p>
+
+<p>"It certainly does," responded Steketee.</p>
+
+<p>"Well, it isn't," stated Jane positively. "And to-morrow I'm going to find out what the trick is."</p>
+
+<p>"How are you going to find out?"</p>
+
+<p>"You leave that to me," the girl evaded. "You're going to help me. In the morning I'll send a note by you to the superintendent that I'm sick and can't come work. You run my department and yours both to-morrow. And you keep away from the store-room while they're packing up the scrap. I don't want any-
+
+<pb n="Page 5" xml:id="ew.issue.19151206.p005" />
+
+thing to happen that will make them suspicious."</p>
+
+<p>"What do you intend to do?" Steketee demanded. "I won't have you running any risks."</p>
+
+<p>"Pooh!" she derided. "All I'll do is check up some figures."</p>
+
+<p>MAKING her audit, however, was not so simple a process as Jane gave Steketee to understand it would be. The next  morning she got up half an hour earlier than was her habit, and donned her oldest dress and shoes. After a hasty breakfast she left the house at a quarter past six.</p>
+
+<p>She wore neither hat nor jacket. She hurried to the factory by a different route from the one she usually took. She opened the back gate of the factory yard a little after the half hour, and slipped into the big building by a rear door.</p>
+
+<p>Jane had calculated accurately. The old night watchman, after unlocking the gates and doors for the employees due in ten or fifteen minutes, was washing up before going home.</p>
+
+<p>The amateur detective noiselessly walked to the back corner where the scrap metal was kept in bins. Tiers of shelves lined the aisles to the ceiling. Across the fronts of these shelves were nailed boards about a foot wide to prevent the contents of the stock compartments from falling out. Jane agilely climbed to the top shelf nearest the junk-bins.</p>
+
+<p>Fortunately for her purpose, it was used only for the storage of out-of-date coils. The day before, Jane had pretended to look the windings over, and had stacked them at one end of the compartment. There was just room enough now for her to lie prone.</p>
+
+<p>She knew that she was invisible from the aisle. A crack between the floor of the front and the protecting board across the front enabled her to see the scrap metal and the scales clearly.</p>
+
+<p>One element of her stratagem, however, Jane had failed to take into consideration. She had not realized how agonizing it would be to lie flat and motionless on the hard shelf. Even before the siren screeched at seven o'clock, she was cramped. She moved gingerly to ease her position, but the next instant she stopped, breathless. The boards had creaked under her weight; a little cloud of dust puffed through the crack.</p>
+
+<p>The hour that followed seemed endless. Above her head she could hear the scuffle of chairs and the click of the girls' heels in her own department. She recognized the heavier tread of Steketee, and knew he was doing double duty, as she had arranged. From the ground floor came the clatter and hum of machinery. The stock-room employees were busy in the front of their department. Trucks rumbled in the aisles, but nobody came within the range of her vision until after eight o'clock. The girl grew stiff and sore in every muscle.</p>
+
+<p>Jane had just made up her mind to risk turning on her side when she heard Galland's big voice and the answering cackle of Kargowitz. In a moment she was holding herself rigid while the two men approached down the aisle. Behind them came three packers, dragging hand-trucks loaded with empty barrels. A fourth trundled the platform scales.</p>
+
+<p>The little procession stopped directly below Jane's aerie. The excited girl watched the scales swung into position. Galland brusquely ordered the boys to begin filling the four barrels with copper, German silver, brass, and steel punchings respectively. Jane stealthily drew closer to her right hand the memorandum-pad she had brought with her. She had ruled it into four equal divisions. She clutched her pencil expectantly.</p>
+
+<p>The barrels were shoveled full from separate bins. One after another, the weights were taken. When the number of pounds in the first cask was read off, one of the boys marked the numerals on the staves with a brush. He also daubed the number 1 beneath the figure, and inclosed it within a circle. Galland and Kargowitz thereupon called out to each other the weight, and each entered it <choice><orig>op-
+
+<cb n="2" />
+
+posite</orig><reg>opposite</reg></choice> the numeral 1 on their memorandum-pads. These, as Jane perceived, were ruled, like her own, into four divisions, for copper, brass, German silver, and steel. Immediately after making his notation the superintendent ordered one of the helpers to nail burlap over the first barrel and to load it on a truck.</p>
+
+<p>The girl could see every act distinctly, though she was too far away to read the figures on Galland's and Kargowitz's lists. She jotted down her own memorandum of the weight in the column headed "copper.”</p>
+
+<p>The procedure was similar with all the barrels that followed the first on the scales. In no case did Galland or Kargowitz mark the figures on the staves. That was done always by a boy. Invariably the weight was painted, just as the boy called it out after reading the scale-bar. Jane realized that every precaution was apparently being taken to insure an honest check.</p>
+
+<p>GALLAND had won the approval of the president of the Ajax Electric Company by his "driving" methods. He now continually reminded his sweating helpers that Kargowitz's car of junk must be loaded on the side-track before eleven o'clock, so that the switch engine could pick it up for the noon train.</p>
+
+<p>Now that the racket below her was incessant, Jane ventured occasionally to move a little. She watched the packers vigilantly; and the longer she watched, the surer she was that the superintendent harried the four young packers for the express purpose of flustering them. He seemed bent on driving his men so fast that they would not realize what they were doing.</p>
+
+<p>Finally the last barrel was weighed, marked, and trundled away. The tired packers dragged their trucks and the scales up the aisle.</p>
+
+<p>Just below Jane, the superintendent and the junk-dealer paused and compared their lists. Neither spoke, but Galland swiftly indicated with his pencil the numbers of seven barrels. Kargowitz made tiny dots opposite the same numerals on his own pad. The pantomime was over in a dozen seconds. Then the two men, talking loudly about the metal market, followed the trucks.</p>
+
+<p>Although her vigil was over, the detective dared not leave her hiding-place. It was necessary to the success of her stratagem that she should remain undiscovered on the high shelf for nearly two hours yet. As soon as she was sure that Galland and Kargowitz were out of hearing, Jane turned over on her back. The movement tortured her sore muscles, but the ensuing ease was such relief that for several minutes she lay supine in blissful comfort. The constricted blood tingled through her limbs again with delicious pricklings of benumbed nerves. She smiled happily.</p>
+
+<p>After a while she groped for her pad. She had not been able to discern the numbers of the seven barrels Galland had indicated to Kargowitz, and she studied her lists thoughtfully. Then she carefully folded the tabulation and slipped the paper into the waist of her dress. She lay relaxed again, and stared at the ceiling, closing her eyes in order to concentrate her thoughts. Jane had no idea she was getting drowsy, but she fell asleep. She did
+
+<cb n="3" />
+
+not awake until the twelve o'clock blast from the factory whistle ripped asunder a pleasant dream.</p>
+
+<p>The screech of the siren startled Jane so much that she sat up suddenly and bumped her head. For half a minute she was dazed. Then she realized where she was, and lay down again. She had twenty minutes yet to wait. Some of the stock-keepers were accustomed to eat their lunch in the store-room. When making her plans for espionage she had timed the men carefully, and had satisfied herself that they would finish the contents of their dinner-pails within a quarter of an hour, so that they could watch the inter-department ball game, which was played every noon in the factory yard. She knew too that the second floor should be deserted by twenty minutes past twelve.</p>
+
+<figure n="illustration">
+<head></head>
+<p>The superintendent seemed to harry his packers for the express purpose of flustering them."</p>
+<figDesc></figDesc>
+</figure>
+
+<p>At last her watch indicated that Jane might venture forth. She climbed down noiselessly from the shelf. There was not a sound in the store-room. She brushed the dust off her dress and hands, then tiptoed to the back stairs and listened. The machine shop below was silent. From a rear window she could see the workmen in the yard, where the ball game had started. The coast was clear.</p>
+
+<p>JANE abandoned her stealthy manner when she started down the flight of steps. She sauntered through the machine shop and out to the packing-room. As she had anticipated, it was deserted, too. In a moment she had opened the big record book and was comparing the shipping-clerk's entries with her list. Every weight the shipping-clerk had entered agreed with her own notation. All the barrels, too, were put down. But Jane smiled as her pencil point descended the four columns on her memorandum. She paused to make dots opposite seven figures&#8212;the very number that Galland had mutely indicated to Kargowitz after the scrap-bins were emptied. These weights, and the numerals of the barrels to which they <choice><orig>be-
+
+<cb n="4" />
+
+longed</orig><reg>belonged</reg></choice>, the forewoman jotted down on a separate slip of paper she found on the shipping-clerk's desk. She folded her own list again and tucked it carefully inside her waist. The new memorandum she carried in her hand. Then Jane went out to the yard.</p>
+
+<p>The superintendent stood at one corner of the factory, leaning against the wall while he smoked a cigar and watched the ball game from aloof, as comported with the dignity of his position. The forewoman walked straight toward him. He saw her, and straightened from his lounging position, smiling genially.</p>
+
+<p>"Hello, Jane!" he greeted. "I thought you was on the sick list to-day."</p>
+
+<p>"I'm all right now," she answered shortly. "I want to see you a few minutes. Will you come up to my department?"</p>
+
+<p>His eyes widened. "What's the mystery?" He peered at the forewoman's face.</p>
+
+<p>"I've caught a thief," Jane answered. "I want to show you the evidence."</p>
+
+<p>The burly superintendent savagely crunched his teeth. He had detected a pilferer himself only a week before, and had taken ferocious satisfaction in making an example of the boy. Galland sprang to Jane's side now, and strode along with the forewoman toward the back door of the factory.</p>
+
+<p>"Who is it?" he whispered.</p>
+
+<p>"You can tell better than I can," she evaded.</p>
+
+<p>"Do you think it's a girl or one of the men?"</p>
+
+<p>"A man."</p>
+
+<p>"What did he steal?"</p>
+
+<p>"I can't say how much he's got away
+
+<pb n="Page 6" xml:id="ew.issue.19151206.p006" />
+
+with. I've only found a few things. Sh-h!" Jane cautioned. "Wait until we get upstairs."</p>
+
+<p>They came to the inspection department. Excepting themselves there was no one on the third floor. The forewoman waved the superintendent to a seat beside her desk and sat down in her own chair.</p>
+
+<p>"Who d'you suspect?" Galland blurted impatiently.</p>
+
+<p>"You!" Jane shot back. "You and Kargowitz. I don't just suspect, though&#8212;I know!"</p>
+
+<p>THE superintendent stiffened as if his seat had been an electric chair. Then he whirled round and looked behind him. There was nobody near. He twisted back savagely to face the forewoman.</p>
+
+<p>"What do you mean?" he snarled.</p>
+
+<p>"I've got an exact list of all the scrap you and Kargowitz weighed up this morning," Jane replied unflinchingly. "I just compared it with the shipping record." She unfolded the paper in her hand and read from it: "Barrels 19, 34, 57, and 81 were copper; they weighed 1476 pounds. Barrels 28 and 63 were German silver; they weighed 709 pounds. Barrel 77 was brass; it weighed 381 pounds. But they all seven are on the shipping record as steel!"</p>
+
+<p>Galland made a swift lunge and snatched the paper from the forewoman's grasp. His powerful fingers clutched her wrists and held her helpless. Jane, however, did not cry out. He hurt her, but she laughed at him. The man was beside himself.</p>
+
+<p>"Let go my hands, you fool!" Jane demanded in a voice pitched low. "You haven't heard all I've got to say yet. Do you want me to scream it to everybody? If I meant to do that, I wouldn't have brought you up here alone, would I?"</p>
+
+<p>His eyes searched hers. He read something in the self-possessed young woman's look of contempt that lessened his fears a little. He loosed his grip and sagged in his chair like a bundle of old clothes.</p>
+
+<p>"Go ahead!" he choked out.</p>
+
+<p>"You listen, then!" she warned. "If you make another strong-arm play like that, I'll yell."</p>
+
+<p>Galland looked toward the closed door at the other end of the long, empty room. He reverted to Jane hopefully. "What do you want?" he asked her. She perceived that he anticipated blackmail.</p>
+
+<p>"I'll tell you when I come to that," she retorted brusquely. "First, I want to prove to you that I know exactly what I
+
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="2" />
+
+am talking about. That list you grabbed isn't the original. I'm not such a fool as to take long chances with a valuable paper of that sort. It's put away in a safe place. I watched you and Kargowitz all the morning, Galland. I was hiding on the top shelf right across the aisle from the scrap-bins. I wrote down the weight and number of every barrel, and just what was in it. Then I compared my figures with the shipping-clerk's.</p>
+
+<p>"You had a mighty slick scheme, Galland. Just as soon as a barrel was weighed, you ordered one of the boys to nail burlap over the top, so nobody could tell what was in it. You entered the seven barrels on that list in the wrong column. Instead of adding them up with copper and German silver and brass, where they belonged, you marked them in with the scrap steel. Kargowitz pays the company thirty cents a hundred for that, and twelve or fifteen cents a pound for the other metals. He can afford to buy forty-two barrels of absolutely worthless steel punchings at about a dollar to a dollar and a quarter a barrel. You fix it so that he gets over twenty-five hundred pounds of copper and German silver and brass at the same price. There's about three hundred dollars clear velvet for you and him to split."</p>
+
+<p>GALLAND watched her lips as if he were hypnotized.</p>
+
+<p>"You don't take a chance," Jane proceeded. "You rush the packers so fast they can't keep track of what they're doing. You select the busiest part of the morning for the shipping-clerk to load the car, which has to go at eleven o'clock. You know he'll only check the weights and the numbers of the barrels&#8212;he'll never rip the burlap to make sure of what's inside. You're <hi rend="italic">honest</hi>, of course. You've made a great reputation around here, catching thieves. You make it count in great shape when you steal yourself. When the car is all loaded, you and Kargowitz go down and compare weights with the shipping-clerk. One look at his list tells you he hasn't looked under the burlap, but has just checked the numbers and the figures painted on the staves. You tally up with him, and everything
+
+<cb n="3" />
+
+comes out straight. You're so bold about it all that nobody smells a rat."</p>
+
+<p>"You're a devil!" gasped the superintendent. The cry was about equally compounded of anticipation and of amazement at the shrewdness of the forewoman. "How much do you want to keep still?" Again he looked about warily. "Quick! Somebody might come!"</p>
+
+<p>Jane's mobile mouth twisted into a sneer. "You think you'd better buy me off now, do you?"</p>
+
+<p>"I'll split fifty-fifty with you!" Galland offered, in a panic. "I'll give you all my share this time, Jane."</p>
+
+<p>She leaned toward him and hissed venomously in his face:</p>
+
+<p>"How nice! What about a rake-off to your new partner on the months before? You and Kargowitz must have split a couple of thousand dollars since you started last fall."</p>
+
+<p>"Not so much as that!" the man cried. "Not half so much. This was the biggest amount we ever took at once."</p>
+
+<p>"You lie!" the forewoman accused bluntly. "You bought an automobile with your share."</p>
+
+<p>"I paid part of the price of that from my salary," Galland mumbled. His eyes shifted from the direct glare of crimination.</p>
+
+<p>"You'd better tell me the truth," Jane warned. "You can't hold out a dollar on me. Nobody except me knows about all this. I've been doing a little private detective work. If you want me to keep my mouth shut, you've got to show me the figures in black and white."</p>
+
+<p>The superintendent stared at her fixedly. "Are you going to play square with me?" he blurted.</p>
+
+<p>Her look at him was steady and straight. "Galland, you've got to leave that to me."</p>
+
+<p>Still he hesitated. After half a minute he slowly pulled a little note-book from his pocket. He opened it and pointed to a column of figures, but he gripped the book tightly.</p>
+
+<p>"There's what I got," he declared. "I'll pay you half. Only, you've got to wait for the money. I'm broke now."</p>
+
+<p>Jane mentally added the figures and jotted the total on her desk-pad. "I guess
+
+<cb n="4" />
+
+you're telling me the truth this time," she said. "Now I'll give you my terms. First, you write out your resignation as superintendent, to take effect at once. Second, you leave your automobile in the garage out back and skip. Third, take the inter-urban to Grand Rapids and tell Kargowitz, unless he wants to be arrested before night, to send a check to the Ajax Electric Company to pay back every dollar he stole."</p>
+
+<p>"Wha—what?" Galland stuttered, aghast.</p>
+
+<p>"You dirty thief'!" Jane spit at hint. "I had to get you to confess how much you grafted. Now I know."</p>
+
+<p>"You're going to tell?" he gasped.</p>
+
+<p>She nodded emphatically.</p>
+
+<p>Then, in desperation, Galland defied her.</p>
+
+<p>"Squeal, then! I'll deny it. So will Kargowitz. It's your word against ours. The car is half unloaded in Kargowitz's yard by now, and the stuff's mixed with other junk. Maybe you can get old Barker to fire me; but I'll fight you every inch of the way and take my chances. I'll tell the boss you're trying to get my job for that fellow of yours, Steketee. You can't prove anything!"</p>
+
+<p>"Can't I?" Jane drawled sarcastically. "I guess you forgot that in our shop-order system all the scrap that comes up from the machines is put down on the manufacturing cost cards." The forewoman reached into a drawer of her desk and brought out a thick packet of tabulations. "I've been laying for you a long while. Those are the scrap figures on all the shop orders completed this month. Of course, it would have been easy at any time before to check up the actual scrap turned back from the shop with the junk sales of the month; but it wasn't anybody's particular work to do it, and there was a hole in the system. You knew it, of course, and thought you were safe. You'll notice that those totals are within a few pounds of the right figures on to-day's lot of scrap copper, German silver, and brass. Your list is twenty-five hundred pounds under on those items and the same amount over on steel. It will be just as easy to go back and check up other months. You're caught, Galland."</p>
+
+<p>THE superintendent saw that he was trapped; nevertheless he fought desperately.</p>
+
+<p>"You think I'm jackass enough to resign and make Kargowitz come across, without your promising me anything?" he snarled.</p>
+
+<p>"Yes," Jane responded confidently. "But, on second thought, I'll promise you something. I caught you on my own hook. Probably I ought to send you to jail. But I went through the penitentiary once, and I haven't quite got the heart to put even a cur like you in that hole. Nobody knows what you did, or how, except me. I'm going to take the responsibility of keeping still. You resign and skip quick. The automobile is about all you've got left anyway, besides month's pay due you to-day, which you won't draw before you leave. I sha'n't even ask you to bother about seeing Kargowitz. Just hand me that little memorandum-book. I'll find a way to make him contribute to the conscience fund. She pushed a pad of paper toward Galland. "You write your resignation now; you'll just have time to catch the one o'clock interurban if you hurry."</p>
+
+<p>The cornered crook tremblingly passed over his memorandum-book. He picked up a pen. But, before he started to write Jane spoke again:</p>
+
+<p>"You gave me a good idea a minute ago. That's really why I'm letting you so easy. Just put down what I tell you to."</p>
+
+<p>Then the forewoman dictated, while her cowed amanuensis wrote:</p>
+
+<floatingText>
+<body>
+<opener><salute>"Mr. HENRY BARKER,<lb/>
+President Ajax Electric Company,<lb/>
+Kemusgon, Michigan.</salute></opener>
+
+<p>"I hereby resign as superintendent, as I am called out of the city immediately on important personal business. I recommend Mr. Joseph Steketee as a good man for the job."</p>
+</body>
+</floatingText>
+
+<p>Jane smiled. "Now sign it," she commanded. "Much obliged. Good-by, Mr. Galland!"</p>
+
+</body>
+</text>
+
+
+
+<pb n="Page 7" xml:id="ew.issue.19151206.p007" />
+
+<text type="nonfiction" xml:id="women.19151206">
+<body>
+
+<figure n="photograph">
+<head></head>
+<p>Old Henry Winters, at seventy-five, prides himself on his light culinary touch. "We're glad to have any lady visitors," he declares, and hastens to add "&#8212;oncet in a while."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"Enough to eat, a place to sleep. a good pipe, peace, quiet&#8212;that's life," says Al Geffken. "Suits me."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>They point out that twenty men can live, be comfortable and enjoy life, on an island without women.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"Don't talk to me about housework as if it was really work," says John Schmeelk. "We boys consider housework as nothin' at all."</p>
+<figDesc></figDesc>
+</figure>
+
+
+<head type="main">For Women Only</head>
+
+<p>PERHAPS you remember, ladies, that quaint old ballad which ran:</p>
+
+<lg>
+<l>Robinson Crusoe lived alone;</l>
+
+<l>He had no wife to call his own&#8212;</l>
+
+<l>No one to say when he came home,</l>
+
+<l>"Robinson Crusoe, why did you do so?"</l>
+</lg>
+
+<p>You have doubtless had a fleeting sense of sorrow for poor Robinson. You may perhaps have wondered whether his story was really true&#8212;whether any man, deprived of the society of women for a period of ten years or more, would not die of utter loneliness.</p>
+
+<p>If you have had any such thought as that,&#8212;if, in a rash moment, you have considered your sex quite indispensable to the welfare and comfort of man,&#8212;then learn of Ruffle Bar. For on Ruffle Bar live a score of bewhiskered old gentlemen who manage manage to cook, wash, sew, and enjoy the other privileges and delights of a normal human existence, all by themselves. There is not a single woman on Ruffle Bar.</p>
+
+<p>We will now disclose the exact location
+
+<cb n="2" />
+
+of Ruffle Bar. It lies off Canarsie, Long Island, a sedgy and sandy piece of land about a mile and a half long and a mile wide. Following these directions, you may easily arrive there. But if any lady reading this contemplates a trip to the Bar with serious intentions, a word of warning now: Such a trip will be useless.</p>
+
+<p>These men are not woman-haters. Some of them, in fact, have passed through marriage on their way to their present celibate state. But no one of them will ever marry again. Stay at home, fair reader, and save carfare. The inhabitants of Ruffle Bar, like Montaigne, "would not marry again even Wisdom herself." They live alone on their island, and are content.</p>
+
+<p>There are other places in the world with more modern conveniences than Ruffle Bar. It is innocent of stores, electric lights, telephones, or gas. There is not even a water supply; all the water is ferried over in casks from the mainland.</p>
+
+<p>The story goes that, more than a hundred years ago, Adam Carman, an old oyster-man, became fascinated by the little isle, packed up, and squatted on it. To-day his grandson, Hiram Morrison, remains to confirm the tale.</p>
+
+<cb n="3" />
+
+<p>"Sure you heard right," says Hiram, looking up from the smeared old sweater that he is mending. "My grandfather settled the place, as you might say. I've lived here all my life, digging oysters and clams, and hearing the sea songs."</p>
+
+<p>Down the beach a bit, in one of the neatly kept cottages, sits Al Geffken at his table, spreading generous layers of butter on thick slices of bread.</p>
+
+<p>"Breakfast?"</p>
+
+<p>"Heavens, no," answers Al. "This is lunch. Been up since four o'clock, and a man gits pretty hungry about nine. Sunday's my house-cleanin' day, and I like to get at it bright and early.</p>
+
+<p>"I've lived alone here many years now&#8212;ever since my wife died. I've got used to potterin' about, and I can't see why women make so much fuss about keepin' house. It's all a matter of system. If you run on a system, there's no worritin' about anything, no naggin'."</p>
+
+<p>"Do we find it hard keepin' house?" said old John Schmeelk, whom we surprised in the midst of his week's washing. Pshaw! Don't talk to me about housework as if it was really work. You just get out there with an oyster rake on
+
+<cb n="4" />
+
+a good snappin' day and you'll soon learn what we mean by work."</p>
+
+<p>They haven't any ill feeling toward the lovelier sex&#8212;not at all. "We're glad to have lady visitors," as old Henry Winters said, "&#8212;oncet in a while." But they just don't see where women fit in as necessities in the general make-up of their world. Enough to eat, a place to sleep, a few dollars put by for old age, a good pipe, a warm fire in winter, trees and breeze in summer, peace, quiet, good will for your neighbors&#8212;that's life in Ruffle Bar. "Suits me," says Al Geffken, "and suits the other boys as well."</p>
+
+<p>No, they haven't any ill will toward the ladies. They simply point out that twenty men can live, be comfortable and happy and enjoy life, on an island without women. And they ask to be shown any island where twenty women live, are comfortable and happy and at peace&#8212;without men?</p>
+
+<p>And what do the ladies say to that?</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="bernhardt.19151206">
+<body>
+
+<head type="main">The Courage of Bernhardt</head>
+
+<p>"I'm tired of reading about Bernhardt," said a friend&#8212;"tired of being told forever about her eternal youth and her art!"</p>
+
+<p>But, with all that has been told of Bernhardt, one thing remains untold. When I think of Bernhardt, it is not her radiance nor her art that I remember. It is the fact that, among all the women whom I know, she alone seems to be absolutely devoid of fear. There is something still to be said about the courage of Bernhardt.</p>
+
+<p>Some years ago, when Marcus Mayer, the veteran manager, was conducting her on a tour of Mexico and South America, the ship that carried the company ran aground in the Straits of Magellan. It was a perilous time. Before them the jutting rocks, lashed with foam, stood like great angry jaws, ready to lick the vessel up.</p>
+
+<p>Through all the excitement, while the boats were being made ready and men were running frenziedly about, Sarah Bernhardt stood calmly in the bow, her favorite great cloak flapping about her gazing out at the rocks ahead.</p>
+
+<p>"Suddenly a German vessel hove in sight," recalls Mr. Mayer. "The captain, standing near the great actress, prepared to signal for aid. Bernhardt rushed to him, dramatically extended her hands, and cried: 'Non, non! Let us wait for a better fate. Let us not ask aid of our enemies.</p>
+
+<p>"The captain did not signal. Soon a Dutch ship approached. The great actress's face was irradiated with joy. She is of Holland extraction, you know&#8212;she was born of a Dutch mother. She was glad to accept Dutch assistance; but the assistance of her country's enemies&#8212;never. I have recalled that as a splendid characteristic of her," says Mr. Mayer. "She would have gone to her death rather than accept the aid of a hereditary foe."</p>
+
+<p>I remember a day's journey about Niagara Falls, a pleasure expedition for which she chartered a car for her company.</p>
+
+<p>"Many persons come here to die," I said to her as we looked out on the silvery, foam-veiled horseshoe of waters.</p>
+
+<p>There was no speculation on her part as to the motive that brought them there. Instead her greenish-gray eyes widened as looked back at the volume of falling water.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Copyright, Rochlitz Studio.</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>"I can understand that," she rejoined in her habitual quick, direct, yet smiling manner. "It is their sense of the majesty of death that brings them here. There is nothing in life so final and majestic as death. They would frame the end of their lives in a fitting manner. They are right. It is a beautiful death."</p>
+
+<p>It was superb courage that led her to the operating table rather than await the slower cure of six months of idleness, and that caused her to say, as successively she embraced her son, her grandchild, and her great-grandchild, before the operation:</p>
+
+<p>"My legs have walked the boards for more than fifty years. Nevertheless I shall be happier for the loss of one of them. The operation will certainly be successful."</p>
+
+<p>Indifference to danger manifested itself early in her life&#8212;when, in fact, she was but nine years old. At that age she adopted her life motto: <hi rend="italic">Quand me&#234;me</hi> (In spite of all). An older cousin had dared her to jump. She tried and failed. A bruised face and a broken wrist were the marks of her failure. While they were carrying her home, she cried out impatiently to those who said, as they say to one who has tried and failed, "But you should not have done it":</p>
+
+<p>"Yes? I would do it again, <hi rend="italic">quand m&#234;me</hi>, if anybody dared me."</p>
+
+<p>A secret of Bernhardt's heroism is her profound belief that she was destined to live long. She believes that all who are brave, and who order their lives well, will live to the age of one hundred. Another secret is that she thinks it is the mark of the little soul to utter a complaint.</p>
+
+<p>There are a hundred other anecdotes about her: the story of the Quebec mob that hurled its stones at her, while she stood smiling, spreading out her arms to protect her associates; the story of the doctor who attempted to deaden her pain with morphine and had the vial thrown at his head for his trouble&#8212;each is but another bit of testimony to the great fact of her courage. She has lived true to her battle cry:</p>
+
+<p>"I have fought with time and proved myself stronger. I have met illness and subdued it. I have driven death back like an invading army. These things I have done because I have willed them. '<hi rend="italic">Quand meme</hi>.'"</p>
+
+
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19151206.p008" />
+
+<text type="fiction" xml:id="mcfarlane.19151206">
+<body>
+
+<head type="main">Behind the Bolted Door?</head>
+
+<byline>By <persName type="author" key="#McFarlane, Arthur E.">ARTHUR E. McFARLANE</persName></byline>
+
+<byline>Illustration by <persName type="illustrator" key="#Raleigh, Henry">Henry Raleigh</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"'I could see at once that she was an unhappy woman.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<p>ALL I want is to tell you everything. I feel equal to it now. And I feel it's the very least that I can do."</p>
+
+<p>It was Glasbury speaking. He was half sitting, half lying, on the big brown leather couch in Dr. Laneham's library. About him were the Doctor, Judge Bishop, D. Hope and Willings, Jimmy, and Inspector McGloyne, and in the room below was another, in handcuffs, waiting to be brought up to tell his part of the story.</p>
+
+<p>"My only comfort is knowing that I am in no way responsible for the death of Mrs. Fisher. How heavily that of Hooley must rest on me you will judge when I have finished. I have been such a moral coward as I did not believe existed in this world. I know, and Dr. Laneham knows, that a little more and my reason would have broken down. Yet, so far from having any knowledge of Mrs. Fisher's murderer, my own relationship to her was solely that of a man who tried to help her, and who for weeks had been working by her side. We had been writing a play."</p>
+
+<p>"Oh!" cried D. Hope, "was that it?"</p>
+
+<p>"Yes, that was it. I remember you, Miss Hope. You came upon us one evening at the Casa Grande entrance. And, following her first impulse, Mrs. Fisher hurried back to beg you, I think, to say
+
+<cb n="2" />
+
+nothing about it till you, and every one, would understand."</p>
+
+<p>"She did&#8212;she did!" the girl confirmed. "I didn't know then who you were, and she didn't tell me. She only said&#8212;and her eyes were shining so!&#8212;that I would understand sometime&#8212;when she was famous. I promised, and that was what I kept from Dr. Laneham."</p>
+
+<p>"WE were writing a play together," Glasbury went on. "I met her first nearly a year ago at an Arts and Letters dinner. I could see at once that she was an unhappy woman. She had just begun to find herself. And she had been trying to find happiness in the usual things&#8212;old furniture, rare jewelry,&#8212;the azure pearls, for example, that we've heard so much about,&#8212;and your settlement-house work, Miss Hope. That meant a lot to her. But she had never found any real expression for herself. She asked me whether I thought she could ever write a play. There were so many things she wanted to say, she said; and she felt, somehow, that she could say them in a play. And in the end she asked me if I would help her.</p>
+
+<p>"In nine hundred and ninety-nine cases in the thousand, of course, I should have made the usual polite evasion. But even by then I had begun to see that she was big. And very soon I was proposing
+
+<cb n="3" />
+
+that we work out something together.</p>
+
+<p>"It was only then, I think, that she realized what one of her real difficulties was going to be. Judge Bishop, you knew her private affairs; and from the first you've known Fisher. Well, I must say now the thing that he must answer later. With a man like that spying upon her, it was simply impossible that she should act normally and openly.</p>
+
+<p>"I suggested, naturally, that she come to my office to work; but I soon found that out of the question. I went twice to her apartment; and on the second occasion the rotter insulted us there. I took it for granted, myself, that that ended everything. But her very pride and anger apparently made her determined that, come what might, it should not end it. What we had planned should be done in some way. And the way was found.</p>
+
+<p>"We had already discovered that our apartments adjoined, with only a thin, soft-tile partition between. It was just at the time the Electric Protection workman, 'Throaty,' was putting in her wall safe, and I think it was the work he was doing that gave her the idea. One day, at any rate, just as I was leaving for Chicago to put on 'The Butterfly,' she asked me suddenly&#8212;and I can see her face burn yet&#8212;if, in case it could be managed, I should care to dare it. I didn't believe, myself, it could be done. If I had, for her own protection I shouldn't have let her. But it was only our little writing-rooms that adjoined; they could be cut off on both sides from everything else. When I came back the door was there."</p>
+
+<p>"Door!" McGloyne almost shouted it.</p>
+
+<p>"Yes," said Laneham; "there's a door there, though it isn't visible from the Fisher side. But, Glasbury, I'll ask you to leave the details till later. The door was there, and in one of those little writing-rooms you went on with your play?"</p>
+
+<p>"Yes; generally in Mrs. Fisher's. And, when she had closed the door of her library next adjoining it, we worked in a room that was substantially sound-proof."</p>
+
+<p>"But it wasn't! It wasn't!" Jimmy broke in. "I 'eard you! An' so did Maddalina. Doctor, that was the voice I 'eard. We 'eard it, though we never 'eard Mrs. Fisher's. And, when never did h'any gentleman come out,&#8212;as none had h'ever gone in,&#8212;there were times when it fair made my 'air raise!"</p>
+
+<p>"I suppose it would." Even Glasbury smiled a little, though very wanly. "Well,
+
+<cb n="4" />
+
+at any rate, Fisher never heard it. She had to protect herself from him, and she did it. He was practically always out in the afternoons between four and six, an it was in those hours that we worked. It was a bit difficult at first, and a shame-faced business for a time; but it wasn't long before we found ourselves able to joke about it. The play had begun to build itself up. I don't think any one could ever have learned faster than Mrs. Fisher did; her ideas came faster than I could put them down. I used the pen, and sometimes she would dictate a whole long speech at once."</p>
+
+<p>"But you both came with memoranda?' asked Laneham.</p>
+
+<p>"Why, yes. How did you know that?"</p>
+
+<p>"Because I have one of them. But go on."</p>
+
+<p>Glasbury took a sip of water.</p>
+
+<p>"Every day, when we had finished, we used to put everything we'd written into that,"&#8212;he pointed to a big seal-leather secretary case on a side table; "and we'd lock it in her desk. But I can leave that till later, too. I might as well come at once to the day of the murder.</p>
+
+<p>"I believe, now, that I had a feeling of evil, of something impending, from the first. That may have been because, for the first time, she was not there waiting for me. I was late myself, and everything was already growing dark. Yet the secretary case lay on her open desk. And when I had waited for another half hour, I resolved to learn what the matter was for myself.</p>
+
+<p>"I ENTERED the library first. There was no one there. I did not know the arrangement of the apartment; had never before been beyond the little writing-room. Yet I felt that she was there, even if she did not speak. And, as I went from room to room, even at the risk of bringing in the servants, I had to knock."</p>
+
+<p>"Yes," exclaimed Jimmy&#8212;"yes. That was the first time! An' I 'eard that."</p>
+
+<p>"I went on, knocking, from room to room, till I came to the pool. And, gentlemen, by the time I had reached it I half knew what I would find inside." His lips opened and closed. He sipped again from the glass, and continued:</p>
+
+<p>"But I did not find her as she was afterward found."</p>
+ 
+<p>"No!" cried Jimmy. "She was in 'er bath-robe. She'd just stepped into the pool, an' she'd fallen back again over the brim. I was in there just before you, sir; And oh, sir, was it you that rang, an that moved 'er body?"</p>
+
+<p>"It was. Dr. Laneham, I have roughed it enough to know death without any test of heart-beat or watch-crystal. And when first I ran to raise her I knew she had be been dead for probably half an hour."</p>
+
+<p>"Yes," said the Doctor, "and when she fell, she struck the side of her head against one of the faucets. It was that which caused the rounded hole in her temple. There's a fleck of blood on the faucet yet."</p>
+
+<p>"It was that that killed her?" demanded Glasbury.</p>
+
+<p>"Oh, no, not at all."</p>
+
+<p>"But, in heaven's name!" cried Bishop. "Then where does your murder come in?"</p>
+
+<p>"It comes in all right. She was murdered, and most deliberately murdered. But let Glasbury finish first."</p>
+
+<p rend="continued">"I took it for granted," the young play-wright continued, "that she had been murdered. I carried her to the sun-couch and went through the forms of trying to revive her. It was then, in the midst of the horror, that I first came to realize what my own position would be if I were found there&#8212;and the connection were found between our rooms. Believe me too&#8212;oh, believe me!&#8212;I wasn't thinking only</p>
+
+    <p rend="jumpline"><ref target="mcfarlane.19151206.jump">Continued on page 13</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 9" xml:id="ew.issue.19151206.p009" />
+
+
+<text type="photograph" xml:id="ministers.19151206">
+<body>
+
+<head type="main">You Know That Old Saying About Ministers' Sons</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Copyright, Paul Thompson</ab>
+<p>"FATHER," said Otis Skinner to the Rev. Charles A. Skinner, "I want to be an actor." He said it hoping his father would sternly refuse and so give him a chance to run away and go on the stage. Instead his father consented. Ministers' sons make good actors: they're trained to go a long time without food.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Copyright Underwood &amp; Underwood</ab>
+<p>IT'S a long way from singing in the church choir to writing musical comedy; but Reginald de Koven made it in three jumps: first jump, Oxford; second jump, Paris; third jump, Broadway. He and his collaborator wanted to sell "Robin Hood" outright for $2500, but the producer wouldn't take such a long chance and forced a percentage contract on them. It brought them in $200,000.</p>
+<figDesc></figDesc>
+</figure>
+<figure n="photograph">
+<head></head>
+<p>THE Rev. A.C. Jeffries was just the sort of minister to have a heavy-weight champion son. He had preached all around the world, and done everything from baptizing moujiks to daring cannibals to eat him. When Billy Sunday quit baseball he went into preaching: Jeffries, sad to relate, when he quit prize-fighting opened a saloon. Billy got $25,000 for six weeks' work in Philadelphia: Jeffries' saloon doesn't do quite so well.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HENRY VAN DYKE is not sure whether it was his father's example that made a minister of him, or his own admiration for the Apostles, who were all good fishermen. He's all kinds of a minister&#8212;formerly minister of the Brick Church on Fifth Avenue and now Minister to Holland. He is the author of many poems, of which the best known is:</p>
+<floatingText>
+<body>
+<lg>
+<l>"Cares shall be forgotten,</l>
+
+<l>All our sorrows flung away,</l>
+
+<l>While we are marching through Princeton."</l>
+</lg>
+</body>
+</floatingText>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Copyright, Underwood &amp; Underwood</ab>
+<head></head>
+<p>THE gunmen, thinking they had only a minister's son to deal with, did Rosenthal to death. But the minister's son, instead of turning the other cheek or anything of that sort, rounded them all up, and they finished their careers in Sing Sing a few months ago. For which the people of New York made the minister's son, Charles S. Whitman, their Governor. Will he be President? Sh-h&#8212;he's never thought of such a thing.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<ab type="credit">Copyright, Underwood &amp; Underwood</ab>
+<head></head>
+<p>"BLESSED are the poor" may be all right for ministers, but Daniel G. Reid doesn't see any reason why it should apply to the second generation. He has made his success in Wall Street through his ability to get other people to put up money. On one afternoon, during the organization of the Tin Plate Trust, he collected more subscriptions than his father was ever able to lure to the collection plate in a lifetime of preaching.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Copyright, Mishkin</ab>
+<p>IT'S fashionable now to extol the virtues of the home and the old-fashioned mother. Every actress who gives an interview to the newspapers gets off something of that kind. But here's a minister's son&#8212;pardon us, a minister's daughter&#8212;to whom that sort of thing is more than mere talk. She is Mme. Louis' Homer, and she has five reasons for believing in the old-fashioned home. Some day well print their pictures: they're good-looking youngsters.</p>
+<figDesc></figDesc>
+</figure>
+
+<p></p>
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19151206.p010" />
+
+<text type="photograph" xml:id="love.19151206">
+<body>
+
+<head type="main">Would You Do This for the Girl You Love?</head>
+
+<figure n="photograph">
+<head></head>
+<p>THE freckled thing in the corner of the shelf is not a rug; it's a real live puma. The heroine found, when the villain locked her in the old log cabin, that there were two pumas, or puma, or whatever you may call them, already there. But, just in the nick of time, the hero arrives. Incidentally, if he lets the gun go off and shoots that puma, he'll lose his job. ("The Jungle Queen," Universal Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THIS young lady isn't cutting a wisdom tooth. The Indians outnumber the hero two to one; but, as he is Douglas Fairbanks, it is safe to assume that all will yet be well. ("The Lamb," Triangle Plays.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ALL heroes, in addition to having long, curling eye-lashes, should be able to skin the cat, turn a cart-wheel, and do other useful tricks. This heroine had been immured within a damp, mousey house for days. The hero rescued her by swinging upside down from the house next door and catching her when she jumped. ("The Broken Coin," Universal Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE swarthy fellow who looks like a pirate had carried off the heroine on his yacht. When she discovered where she was, she promptly jumped overboard. Her captor was about to jump after her, when he was delayed thus by the hero. The dark speck in the lower left-hand corner is the heroine treading water and watching the struggle. ("The Diamond from the Sky," American Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THIS chap was in wrong with all his friends, and church is a very conspicuous place to go to. Nevertheless he went, and sat in the front row too. The Reason Why, looking very serious about it, may be seen two rows back at the left. ("The Tools of Providence," Broncho Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE hero is here putting the villain through a primitive sort of water cure. Fashions change in love-making as in colors, but it is always good form for a hero to choke a really red-handed villain. ("The Fair God of Sun Island," Universal Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WOULD you wash dishes for the person you love? As Mr. Ibsen would say, "thousands of women have done it" and a picked handful of men. This is Frank Borazge and Margaret Gibson showing how houswork may be made easy. ("His Mother's Portrait," Kay-Bee Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+
+
+<pb n="Page 11" xml:id="ew.issue.19151206.p011" />
+
+
+
+<figure n="photograph">
+<head></head>
+<p>WARREN KERRIGAN, for love of Mary (Ethel Phillips), has pursued and single-handed captured the murderer, Rattlesnake Pete (W. H. Mullen). Then Rattlesnake reveals the fact that the real villain is Dave (Herbert Myles). ("The Troubadour of El Dorado," Universal Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>EMMY was only a mountain girl; but the hero, Benton, forded swollen streams, ran down dens of counterfeiters, and finally rescued Emmy in a hand-to-hand fight. Pretty good work for a city chap. ("Emmy of Stork's Nest," Columbia-Metre Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HERE is an Indian cast for a hero's part, for a change. But it does him little good, for his consciousness of "the blood barrier" is making him voluntarily give up the girl of his heart (Helen Leslie). This is much harder work than walloping a few burly villains. ("Son o' the Stars." Universal Film Company.)</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>UNFORTUNATELY, the picture doesn't show the Oriental eyes that drew the American hero (Francis Bushman) past the scimitars of her father's guards and over the high wall of the Turkish beauty's garden. Perhaps he would look less cheerful if he knew about the capacious vats of oil kept boiling for trespassers in the next courtyard. ("The Slim Princess." V.-L.-S.-E., Inc.)</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>OWING to the dearth of Indians, rattlesnakes, pirates, and so on, the 1915 hero is driven to great straits to prove 
+his love. Marching in suffrage parades and making speeches for the cause are proofs of devotion very much the thing this season. ("The Man from Oregon." New York Motion Picture Company.)</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19151206.p012" />
+
+<text type="photograph" xml:id="sandwiches.19151206">
+<body>
+
+<head type="main">Sandwiches</head>
+
+
+<figure n="photograph">
+<head></head>
+<p>THE human sandwich&#8212;the poor fellow who for fifty cents or a dollar a day is willing to make a signboard of himself: have you ever stopped to wonder what tale of joy or sorrow, of high hope or blasted fortune, he might tell if he would? Behind this chicken dinner sign is a man who claims to have been worth $50,000. Now he can't even buy the dinner he advertises.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>SOMETIMES one becomes a sandwich for conscience' sake, as witness this young man. When the motormen and conductors walked out in Philadelphia, all the union sympathizers determined to walk rather than patronize the scab-driven cars. So this little fellow became a sandwich. Let us hope he didn't fall in love with the job: he looks as if he had the makings of an alderman at least.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MANY sandwich signs are written in Yiddish, but you never see a Yiddish sandwich man. At least, hardly ever. Once in a while a newly landed immigrant may consent to carry a sign for a day or two, just to give himself a chance to look the city over and pick out a good location for his department-store.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE girl who wrote that saying, "Lips that touch liquor shall never touch mine," turned away her chance of ever kissing this chap. Liquor touched his lips about the time that trousers touched his legs, and has been touching them ever since. Think of the pathetic irony of having to carry a sign all day advising people "be sober," in order to get money enough to get drunk at night.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ONE thing must be said in favor of the profession of the sandwich&#8212;it's healthful. It keeps you out in the air and exercises all the muscles except the brain. Remember these things in case you want to raise your boy to be a sandwich. Also, this man says that nothing gives you so good an appetite as carrying a chicken dinner sign all day.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>WHAT do you suppose he thought about when he came to New York sixty years ago? He was fourteen then: he had run away from the little country town because it was "too slow" there, and "all the chances are in the big cities." He had dreams in those days. What happened? Bad habits? Misfortune? A wicked partner? A nagging wife? Did he jump or was he pushed?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HERE, without doubt, is the human limit. Can you imagine any degradation more complete than carrying a sign all day long, proclaiming to the world that you are an idiot and a drunkard? Compared to these fellows, the negro who dodges baseballs at the park has a dignified profession. If fifty cents is enough to get these fellows to carry such signs, how much would they want to wreck a train?</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>IT may seem like an easy life&#8212;fifty cents or a dollar a day just for walking the streets and looking the girls over. But don't let that persuade you to give up your bank presidency, gentle reader. If it rains, you know, you lose a day: not that the boss cares whether you get consumption&#8212;not at all but because there's nobody on the street to see you.</p>
+<figDesc></figDesc>
+</figure>
+
+<p></p>
+</body>
+</text>
+
+
+<pb n="Page 13" xml:id="ew.issue.19151206.p013" />
+
+<text type="fiction" xml:id="mcfarlane.19151206.jump">
+<body>
+
+<head type="main">Behind the Bolted Door?</head>
+
+<p rend="jumpline"><ref target="mcfarlane.19151206">Continued from page 8</ref></p>
+
+<p rend="jump">of myself; I was thinking of her. I told myself it was necessary to protect her in death as I would have in life. And how could I do it save by getting away at once, and leaving no possible trace? It was easy to do, too. Everything we had written was in the secretary case. I had only to pick it up as I ran throngh. And a moment later I was back in my own room, with the door between fast closed. I found that I was still carrying one of her handkerchiefs, a mere sop of blood. As I'll tell you, I returned it later. In the meantime, I had begun to play the coward.</p>
+
+<p>"I knew I ought to telephone a physician, yet I did not dare telephone from my own rooms. But, as soon as I could got back any kind of command over myself, I hurried out and around the corner to Stryker's. I told myself that, when I had done that, I had done all that could be asked of me. Well, once back in my rooms again, I soon found what was really to be asked of me! For those two&#8212;two devils who did the rest were waiting for me there!"</p>
+
+<p>"I've got one of them downstairs," said McGloyne; "an' he's talkin' a-plenty <hi rend="italic">now!</hi> But let's hear your part first."</p>
+
+<p>"THERE'S part of it that I can only guess at. I'll never know how those two knew about the door.
+                        I suppose they learned of the wall safe and the pearls through Maddalina.
+                        One of them was an Italian, you know. And he was the beast that seemed to be
+                        the professional&#8212;I mean the professional safe-breaker. But, the minute
+                        I stepped inside my door, both of them jumped at me. They kept their guns at
+                        my head, and shoved me through to my writing-room; and then they demanded
+                        the key to the door between. I've wished often enough since that I'd let
+                        them kill me then; but even that mightn't have helped much. The mischief had
+                        been done. They knew the way. And, while the American stayed and covered me,
+                        the other went on through.</p>
+
+<p>"And here, again, I can tell only a part of it. The devil that went in must have gone straight to
+                        the wall safe. And then something must have disturbed him."</p>
+
+<p>"You, Willings, most likely," said the Judge.</p>
+
+<p>"No; you and the Doctor, probably," Willings, answered. "You remember I was leaving just when Mr. Glasbury's knocking came&#8212;or his first knocking. You did knock a second time?"</p>
+
+<p>"Oh, yes, yes! I say, something must have disturbed the beast; for he came back to my rooms for a minute, listened there and then, when he thought the coast was clear, he went in again. But then he went right through to the swimming-pool, and found the body. I could see the effect it had on him when he came out again. But, even so, he told the other one that he had taken time to lock all the doors to the corridor. You must have been trying to get in at that minute."</p>
+
+<p>"We heard him turning the bolts," said the Judge. "He was just ahead of me at every door! As I touched each knob the lock turned inside. But you say it was you who, immediately afterward, knocked again. Why did you do that?"</p>
+
+<p>"Doctor," asked Glasbury, "do you think you could get me a little brandy?"</p>
+
+<p>And only after he had taken some did he answer:</p>
+
+<p>"I doubt if I could really tell you intelligibly. I scarcely understand that part of it myself. I only know that when that Italian hound came back, I could see in a moment that he believed I had done the murder. And I know they felt they had me in their power completely. What else could they think? There, on my very desk, was that blood handkerchief. The Italian picked it up and daubed it on my face! "<hi rend="italic">Ecco! Ecco!</hi>" he kept crying. And they told me they'd be back to talk more about it later
+
+<cb n="2" />
+
+on. I knew what they meant&#8212;blackmail.</p>
+
+<p>"I think, for the minutes immediately after they had left me, I was temporarily insane. I know I had some crazy idea of making amends, of making my peace, or something like that. I wanted to be found standing by the body. I felt already that I was the murderer I would be taken for. I was ready to believe, at any rate, that it was through my rooms the murderer had got in. I wanted to approach her again to ask her pardon. And yet, I found myself halting at every door, and knocking as if to ask permission. I believe I cried out, too, to the Creator who alone could know."</p>
+
+<p>"Yes," said the Judge; "we heard you. It was what set us to making every effort to break in."</p>
+
+<p>"And it was the sound of you there, trying to break in," Glasbury answered, "that drove me out again. When the test came, I could not wait and face it. I slipped back like a dog to my own rooms; and that night I slept at the St. Hilaire.</p>
+
+<p>"It did me little good. The newspapers said that the wall safe had not been located. Accordingly, those two friends believed that they had only to come back again to make their haul. And I believe they actually came back twice."</p>
+
+<p>"They did, by gee!" swore McGloyne. "They did! But, Mr. Glasbury, you came back again yourself?"</p>
+
+<p>"Yes," he said simply&#8212;"though I could hardly say so of my own knowledge. Remembering it now is like a remembered dream or nightmare. But one thing I remember almost clearly. It was after Mrs. Fisher's funeral. I could not go to the funeral, but afterward I went to the grave. I took a rose from it. I had been trying to nerve myself to put the bloody handkerchief back in her room. And when I took it back that night I laid the rose beside it as a sort of offering. Those are not the actions of a sane man? Well, I have said that I was not sane. But I must tell you now of the secretary case."</p>
+
+<p>"The secretary case?" asked McGloyne.</p>
+
+<p>Glasbury pointed to it again. "The portfolio we kept our play in. It was mine, so no suspicion could attach to me for keeping it; but I felt that I must get rid of the play. It was every line of it in my writing,&#8212;what memoranda she brought to it day by day she destroyed afterward,&#8212;but it seemed to me that every line of it spoke with her mouth and denounced me. And late one night I went to my offices in the Savoy, and tore it up. I could not burn it&#8212;there was no way; but I tore it into pieces so small that I knew there would never be any betrayal there."</p>
+
+<p>"And there was not," said Laneham. "But next morning your waste-basket was in my rooms; and a few hours later we had the fragments of that blood-smeared blackmail note."</p>
+
+<p>"I know, I know. But there is more to tell of that porfolio. When I opened it I found in it more than the manuscript of a play. Gentlemen, I swear that Mrs. Fisher must have been in the fear of death&#8212;"</p>
+
+<p>"Leave that; leave that," said Laneham. "Simply tell us what you found."</p>
+
+<p>"I found a will. She had written it herself, that morning, and had had it witnessed by the servants."</p>
+
+<p>"Yes, sir," cried Jimmy; "we witnessed it-&#8212;me an' that she-devil, Maddalina!"</p>
+
+<p>Glasbury put his hand into his wallet pocket. "I have it here."</p>
+
+<p>"Exactly," said the Doctor. "Bishop, shall we leave it till later, too?"</p>
+
+<p>BUT the Judge was already looking at it. Next moment, he turned strangely to Willings and D. Hope. "Tell me, had you two youngsters any idea of what there was to be in this?"</p>
+
+<p>"Oh, no; no, indeed!" answered the girl. "Not the littlest thing. But if it's anything for the settlement-house&#8212;"</p>
+
+<p>"There's a great deal for the settlement house&#8212;an endowment that should carry it for all time to come." He was still reading. "So far as I can make out, though it quashes everything before it, she's made it perfectly legal. Ah-h!" And again his eyes turned wonderingly to the two "youngsters." "Ah! I think you had better read this with me. The
+
+<cb n="3" />
+
+poor woman would seem to have provided for your personal welfare as well."</p>
+
+<p>It was McGloyne who, five minntes later, brought them back to the question of the making of that will. "But why should she have made it at all?" he demanded. "That's the question to be settled now!"</p>
+
+<p>"It is," said Glasbury; "it is! It wasn't by chance she made that will. I realize more and more, from things she said&#8212;"</p>
+
+<p>"You're quite right," said the Jndge. "Laneham, do I tell them at once? God knows&#8212;"</p>
+
+<p>"Better not. It'll come out soon enough. Glasbury, if you'll finish your story now, well hear the man below."</p>
+
+<p>So Glasbury finished:</p>
+
+<p>"There's little more to tell. For the death of Hooley I blame myself as if I had done it myself. There is only this to say: The two devils themselves had not really intended murder. Till that last night they believed the pearls were still there within their reach, that they alone knew where they were, and that three minutes at the little safe might turn the trick. It was the Italian who killed Hooley. When the game was up&#8212;when they couldn't get the pearls&#8212;it was he who had the idea of making me pay instead. And had I been anything but the most miserable coward at the beginning&#8212;"</p>
+
+<p>"We can gain little from vain regrets," said Laneham. "McGloyne, shall we have up Horsley?"</p>
+
+<p>"Right away."</p>
+
+<p>THE big Inspector called down from the landing. Next moment Horsley, the jewel thief who had been ready to tell his story, was, with his escort, on the stairs.</p>
+
+<p>They were on the stairs, and they reached the landing. But at the topmost stair he suddenly wheeled. In some way he managed to get one of his hands free. He was a big and powerful man. His bandaged shoulder seemed to trouble him, but little. And with one backward thrust he sent the patrolman on his right headlong down. Then he swung the chain and manacle like a sling, and brought it home across the face of the second policeman, laying him open from lip to ear. And with a terrific lunge he dove straight for the landing window.</p>
+
+<p>The fact that he had to do everything with one hand lost him perhaps two seconds. It was little Jimmy who stopped him. He caught him by his foot as he went through, and was dragged after him; but he still held on. They went down together in the deep snow of Laneham's garden. And there, battered but unspeaking, Jimmy got a better grip on the man. He was still holding on when McGloyne and the others burst in through the gate.</p>
+
+<p>"'S all right, frien's, 's all right!" Horsley greeted them. "That's all I was savin' up. No harm done, any more than I've been hurted myself. An' now, if you want, I'll talk till fare-you-well!"</p>
+
+<p>"There's not a whole lot you can tell us," said Laneham.</p>
+
+<p>"But, by-y gee," said McGloyne, "he's goin' to tell us that!"</p>
+
+<p>"In the first place, to go back to the beginning with <hi rend="italic">you</hi>," the Doctor asked, when they were back in the room, "what part did Maddalina play in it?"</p>
+
+<p>"A good fat part, considerin' she was a skirt an' all. She went to Mrs. Fisher's only because we'd heard about them drops o' milk. Her and Lotufo&#8212;that's my guinea friend&#8212;they always been strong pals; so she was put in to make the inside lay. An' one thing she learned right away, an' that was that there was a chanst for a double lift. She got onto it that Mrs. Fisher was in the habit, the first of every month or so, of havin' one of them big blue envelops full of yellabacks waitin' on the premises for your friend Willin's here. An' when we were fixin' for the pearls there didn't seem to be no good reason why we shouldn't have Maddalina make <hi rend="italic">her</hi> getaway with the money. Only a matter of <hi rend="italic">timin'</hi> the job right."</p>
+
+<p>"Yes," said McGloyne; "you timed it right! But how did you know you could get in through Glasbury's rooms?"</p>
+
+<p>"Maddalina again. If she was keen enough to find where that little safe was
+
+<cb n="4" />
+
+planted, you can bet she wasn't believin' long in any spooks causin' them voices. An' one afternoon Lotufo decided to lay up in Glasbury's dump an' see for himself. He seen, all right. How did he get in first? With a key. An' where did he get it? Sho, what's a key? Any one can fix up for a key! The thing I'm tellin' you is that he found out about that door. An' after that it was only an argyment as to when. That was for Maddalina to tip us to.</p>
+
+<p>"An' she tipped us wrong. She'd got the idea that Mrs. Fisher was goin' to be out that afternoon. She'd heard her 'phonin' Mr. Willin's; an', as Maddalina got it, the money was to be there for him, but she, Mrs. Fisher, would be temp'rily away. That'd mean that Glasbury wouldn't be there, neither. An', as it was Jimmy's day off on top of it, what more would anybody want for an open door?</p>
+
+<p>"All right. Come to the day itself, an' us. But, mind you,&#8212;an' I'm tellin' you straight,&#8212;I wasn't in that part of it no more'n to be adviser. Lotufo, he was the only one of us was ever in them Fisher rooms. It was him went in that day. We'd found signs that Glasbury was at home&#8212;and we'd gone in, as it happened, just about two minutes after Glasbury'd gone out."</p>
+
+<p>"Yes," said Glasbury; "after I'd found the body and gone out to telephone!"</p>
+
+<p>"You know about that, friend; an' maybe this part of it has all been told before. What we didn't know was that frien' Glasbury was going to choose the same day, an' that for croakin' the dame!"</p>
+
+<p>"I see," said Laneham; "and you still believe that Mrs. Fisher was killed by Mr. Glasbury?"</p>
+
+<p>The man stared. "An' who else? Say, where you gettin' now?"</p>
+
+<p>Never mind about that. Go ahead and tell the rest."</p>
+
+<p>"Well, once we was sure of that, an' once we'd learned from the papers that the jewel box was still waitin' too, we made up our minds to come again, an' keep a-comin'. No reason why frien' Glasbury shouldn't have callers every second night. We was both swell dressers, at that. So no need for him to be ashamed of us.</p>
+
+<p>"Only, when it got out that it was a spook job, we decided that we'd have to spook it, too. That explains why Lotufo ghosted himself when he went in the night he got Hooley. No use denyin' he did. When he's had time to think it out, he won't deny it himself. An' what, you'll ask, did he belt him with? Why, there again we thought we'd play Mr. Glasbury into it. Since he'd hit Mrs. Fisher with somethin' leavin' a round, smooth hole about an inch across, that was the weapon to use in case another job'd have to be done in there. An', to make the weapon, all was needed was to do a little bendin' an' hot-forgin' on a pipe end. There you are again. You'll find that little golf-stick up in the dump we had in East a Hundred an' Twenty-ninth. Anything else you want to know about?"</p>
+
+<p>INVOLUNTARILY Laneham turned away from the fellow.</p>
+
+<p>But Judge Bishop was still unsatisfied.</p>
+
+<p>"I don't want to know any more about the later details, Laneham," he said. "But, as I understood it, you were going to tell us about that door?"</p>
+
+<p>"If you care to," the Doctor answered, "in another hour I'll take you up and let you find it for yourself."</p>
+
+<p>"Good," said McGloyne. "But, Doctor, that ain't what's holdin' me. As I understood it, at the start you were goin' to have this story told in its right an' regular order. If so, how was it you've left out the first thing of all? How did the guy get in that really did the job?"</p>
+
+<p>"I'm having the story told in its regular order," Laneham replied. "Mrs. Fisher's murderer was never near her body, nor even near the pool, until hours after she was dead."</p>
+
+<p>"In the name o' Gawd!"</p>
+
+<p>"And I can best begin my explanation of that," the Doctor continued evenly, while they pressed about him, "by reminding you just who the murderer was."</p>
+
+    <p rend="jumpline"><ref target="mcfarlane.19151213">To be concluded next week</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19151206.p014" />
+
+<text type="fiction" xml:id="Daviess.19151206">
+<body>
+
+<head type="main">Both</head>
+
+<byline>By <persName type="author" key="#Daviess, Maria T.">MARIA T. DAVIESS</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#McCaig, Robert">Robert McCaig</persName></byline>
+
+
+<p>NONE of it was my fault. I didn't know William was a theologue. I didn't even know William. I just came innocently and dutifully home from Paris to visit Daddy as long as he could stand to have me before Aunt Hortense was ready for the Adirondacks. Daddy's very eccentric, and he doesn't consider William the tragedy that Aunt Hortense does; but then, he is the dean of Harpeth University, and he's proud of William, except, I think, in his inexplicable conduct about me.</p>
+
+<p>"Daddy, who is that lovely man with red hair and such long pink and white arms and legs?" I asked Daddy at luncheon the day it all happened.</p>
+
+<p>"Pink legs&#8212;pink legs&#8212;er&#8212;let me see," he answered as he swung his mind from some great tragic Greek verb to what he evidently thought was a problem in either biology or anatomy.</p>
+
+<p>"Out on the athletic field," I kindly helped him along. "He ran and ran, and the boys on the benches all shouted, 'Billiken! Billiken!'"</p>
+
+<p>"The gentleman you are asking about," announced the dean, with both dignity and indignation, as he set his cup of tea down with forceful emphasis, "is William Henry Millbrook, of the School of Theology, and the most brilliant student in the university. His mind is as strong sinewed as&#8212;as&#8212;"</p>
+
+<p>"As his legs?" I asked enthusiastically; then hastened to add, as I saw that my finish for his simile was about to pain Daddy severely: "He beat whatever runners there were from the State University by feet and feet, maybe yards, and everybody went mad about him. I did too, and I wanted to tell him&#8212;"</p>
+
+<p>"If you please, Susan my dear, don't waste young Millbrook's time. He takes these athletics as exercise; but his mind and time are&#8212;are fixed on&#8212;on higher&#8212; that is, my daughter, trifles like&#8212;like&#8212;"</p>
+
+<p>"Like me, Daddy?" I finished, as I went around to kiss him.</p>
+
+<p>I didn't want to distress the old dear by telling him that the theological wonder had stopped to pull down a branch of redbud that I was trying to steal from the campus as he came to his room from the field, and then sat down on the stone wall by me for so long that I was afraid he would take cold on account of&#8212;the few clothes he seemed unconscious of the fact that he had on, or rather didn't have on.</p>
+
+<p>It is mighty hard for a girl to tell a red-headed, hazel-eyed man, who is quoting Chaucer on Spring to her, that he'll take cold with his arms and legs all bare, especially if he is a total stranger to her. And right there is where I began to take William seriously instead of enjoying him fully. Why didn't I drink in the Chaucer and forget about the cold rock?</p>
+
+<p>"Well, then, may I come over to the dean's this evening and bring my Chaucer?" he asked after I had delicately reminded him a second time that a stone wall was a cold thing to sit on, especially for people scantily clad.</p>
+
+<p>"Yes, I'll be glad to see you if you are alive," I answered with extremely premature anxiety in my voice.</p>
+
+<p>"I'll be clothed; but maybe not in my right mind," he answered daringly. "Spring has got into my bones, I think&#8212;this last ten minutes."</p>
+
+<p>"If it's not rheumatism," I suggested.</p>
+
+<p>At first Daddy was inclined to take William's visit to himself; but William was firm with him in a wonderful way, and to this day I don't understand how he managed to get us seated on the front top step with only the budding <choice><orig>wis-
+
+<cb n="2" />
+
+
+<figure n="illustration">
+<head></head>
+<p>"'It's so awful for you to be a preacher with somebody like me!' I wailed&#8212;late in the day though it was."</p>
+<figDesc></figDesc>
+</figure>
+
+taria</orig><reg>wistaria</reg></choice> vine for a chaperon, and to seat the dean perfectly happy in the library hunting for the derivative of a Greek root that William had anxiously asked him about.</p>
+
+<p>Then I really don't know what happened in that moon-soaked hour; and if I were to tell I don't believe anybody would believe it of the star of the School of Theology.</p>
+
+<p>"Want to come over to chapel with me in the morning?" William asked, when decided sounds of shutting up the house by Daddy, who had forgotten all about us in his classic hunt, started him back to his room.</p>
+
+<p>"Yes," I answered meekly.</p>
+
+<p>"May I?" This request was finished by the young minister lifting my hand and bending his red head. I came two inches closer and whispered:</p>
+
+<p>"Yes!"</p>
+
+<p>I stood in the shadow of the porch and watched him until he was lost behind a clump of trees.</p>
+
+<p>THE joys of friendship with William were not mine for long.</p>
+
+<p>Two and a half weeks from that night I shivered out all my fears and misgivings and indignation at being hurried that way in William's arms, with his cheek against mine.</p>
+
+<p>"It's so awful for you to be a preacher with somebody like me!" I wailed in doubt&#8212;late in the day though it was.</p>
+
+<p>"Oh, no, it isn't when you get used to it," he answered. "It will be such a long time before I can be either an ordained husband or an ordained preacher that you'll have domesticated both ideas and learned how to conduct sewing circles for me."</p>
+
+<p>"Such a long time&#8212;what do you mean?" I asked, putting his head away so I could look into his eyes.</p>
+
+<p>"Don't you know I told you, sweetest, that I had all the debt of my university course to pay back to my mother, by work on the farm out in the valley, before I could accept a charge? It has been hard for her to put me through, and I must pay off the mortgage for my expenses and make things easy for her before I begin any other life. Then maybe&#8212;oh, sweetest, maybe&#8212;if crops are good I can make enough extra to take you off somewhere for a browse over some of the beautiful places of the earth before we begin to run a parsonage. Pray for that joy for me, loveliest girl!"</p>
+
+<p>It is funny how it doesn't embarrass me at all to have William talk about prayer. And when he asked me to I did pray right then in his arms for that joy trip for him and me; but as I
+
+<cb n="3" />
+
+prayed I decided to help the good Lord to answer quick so that I wouldn't have to wait years for it. Have William put two of his most brilliant years in hoeing potatoes and threshing wheat to make money to go with me to see the world? Not if I knew it!</p>
+
+<p>"We'll get it," I said under my breath. And this is where the real story begins.</p>
+
+<p>A WOMAN who is deeply in love with a man in whose arms she is so safe and happy out under the
+                        moonbeams is apt to forget that it took another woman to get those arms
+                        strong enough to hold her and to help him keep his hands clean and his heart
+                        pure for her happiness. And as I planned I entirely left William's mother
+                        out of my calculations. He says he had been telling me all about her ever
+                        since we sat on the stone wall; but I hadn't taken her in at all even in
+                        connection with the mortgage, and I just went on with my machinations while
+                        William went on winning all the ball games and preparing his commencement
+                        thesis.</p>
+
+<p>I came out of my schemes long enough to congratulate him on being chosen to deliver the class oration, to condone indifferently with him about his mother's not being able to come to see him be graduated, to cry over and kiss his two fingers broken from a hot ball; but most of the time I had to plan and plan to have things go exactly as I wanted them for him and myself.</p>
+
+<p>There were difficulties. I am very rich from my mother's fortune; but William displays the same animosity to my money that Daddy always has. I had to cling to him like a bur, the one time I dared to hint at that way as a short cut to the parsonage, to keep him from putting me behind him forever.</p>
+
+<p>I was in despair, when I finally thought of Uncle Morris. He is my mother's brother, and he made all his fortune and the one she left me, as well as the one Aunt Hortense spends on me. He adores Daddy and the university where mother was so happy, and Daddy has at last allowed him to build a Science Hall in her memory. I decided to go to him and ask him to build a long trip around the world for William and me in the shape of a scholarship to be won by William in fair and square contest with the other members of his class.</p>
+
+<p>"You're a good enough sport, Susan; but suppose some other chap wins all this money you have put up on your William?" he reminded me. </p>
+
+<p>"Away from William?" I questioned.</p>
+
+<p>No, I felt there was no danger of anybody's fulfilling the conditions I laid down
+
+<cb n="4" />
+
+for that scholarship except William. It was made to fit him.</p>
+
+<p>But why is it that when a woman's brain is acting with exceptional force and power it will drop stitches? I forgot all about the mortgage. I pity myself as I think back about it.</p>
+
+<p>The weeks that followed were a jumble of frantic remonstrances from Aunt Hortense, who came all the way to deliver them, and got tenderly put into place by William; dazed but kindly wonderings warnings to William from Daddy; chuckles and intrigue from Uncle Morris; hurried kisses in any old corner at any old fragment of time William and I could seize in the rush of theses, examinations, and all like tortures.</p>
+
+<p>"Just wait, sweetest, until I get you down to mother's spring house this summer, and I'll show you what stolen cream skimmed off a crock with a slab of cold apple pie tastes like," was one of Williams bits of consolation.</p>
+
+<p>UNCLE MORRIS'S plans about the scholarship were all perfected, and nothing remained but to break it to the student body, just after the bestowal of degrees. He smiled down at me as I sat well up to the front of the chapel to be as near William as possible, and I hope nobody noticed the slight contraction of his left eye that I knew to be a wink. We had planned it all so well, we two conspirators—that is, we thought we had.</p>
+
+<p>Father's address to the graduates was just what father would have been expected to make it. It was inspiring an unpractical, and I could see that his boys all loved it and were tucking it back into their minds to be chuckled over in their fight with life.</p>
+
+<p>Then a very great man who had come a thousand miles to deliver the address talked for about thirty-five minutes about things so worldly that father's remarks seemed a translation from the Periclean ages. It was about Success, and I could see the undergraduates just eat it up. It was masterly and moral, as so cold-blooded that my soul shivered.</p>
+
+<p>Then William came forward and delivered the graduate address. I'm not going to write about it&#8212;I can't. For a long minute the whole chapel was silent after he finished; then it was led in an uproar of applause that shook the roof. And it was when the tumult had begun to die down that Uncle Morris rose and proceeded to unfold our scheme.</p>
+
+<p>He announced that a scholarship two years' travel round the globe had been tendered to and accepted by Harpeth University, to be given the student whom
+
+<pb n="Page 15" xml:id="ew.issue.19151206.p015" />
+
+the faculty voted most worthy by all standards of scholarship and manhood. Uncle Morris dearly loves to orate, and he had just got so far when the undergraduate student body rose as one boy and shouted:</p>
+
+<p>"Billiken&#8212;oh you Billiken boy!"</p>
+
+<p>While the chapel rocked with one cheer after another I leaned back in my seat and felt so happy and comfortable that things had come out just as I had planned. It had all been so delightfully easy, just to enlist Uncle Morris, work the unsuspecting faculty, draw a check that my bank account would never feel, and have William for two glorious years all to myself.</p>
+
+<p>And it was at that satisfied moment that life woke me up.</p>
+
+<p>William was on his feet, and in the finest and simplest way possible he was declining the honor done him by the vote of the faculty.</p>
+
+<p>"It is great to have had all of you," and first he bowed to Uncle Morris and then waved his hand delightedly at the seething body of undergraduates, "offer it to me; but for the next two years I have got a contract with an old white plow mule and a garden hoe out in the Harpeth Valley. Send some other fellow down to the Rialto, and pray for August rain and late December frost for my potatoes."</p>
+
+<p>And he sat down amid a riot of remonstrances, while I sat cold and white. I had forgot that farm mortgage and the other woman who had a claim on William. I hated her! A hot rage sent the blood to my cheeks, and I hardly knew what was happening until I felt that something wonderful had quieted that storming, protesting house.</p>
+
+<p>THEN I saw her! She was tall and straight and strong and deep-bosomed, with the most wonderful head set on her broad shoulders. White curls were flying from under her little old bonnet, and a clean, stiff lavender print dress billowed about her in yards and yards of ruffles. She carried a great bunch of lilacs that must have come from her own garden and that made the bouquets of hothouse roses and orchids that were waiting for presentation seem inadequate. But her wonderful, flame-blue eyes and wide, beautiful mouth, that was curved out into one of William's own smiles, were what had seized her audience the minute she rose to her feet. There was no mistaking her identity, and she had to raise her hand, gloved in decorous black lace mitts of thirty years before, to still the uproar of greeting.</p>
+
+<p>"Friends," she said, with a tender flash that took hold of a separate heartstring from every human being in the chapel, that was a mighty fine speech that my son William made you a few minutes ago, and I am right down astonished at his wisdom. The love of God in it I knew he had, for I put that into him myself by a liberal use of the good Book backed up by the rod if necessary; but his learning does astonish me, especially as it leaves him so stupid in the end. No, wait a minute, son! "I'll attend to you later." And she waved William, who had started toward her, back to his place on the platform, while the undergraduate body again roared with appreciation.</p>
+
+<p>"It is true I have had to put in a few years peeling potatoes mighty close, shaking out the meal sack good to pay for all this education that you good gentlemen," with a glance at the astonished and delighted faculty, "have been trying to pound into his thick, country-bumpkin head; but I'm not satisfied with your job if William Henry Millbrook thinks that his mother Sarah Ann Millbrook is going to allow him to hold back from such a chance as you have offered him this day. The whole world there acrost the big waters is a-suffering in a cruel war, and is a-reaching pitiful hands for us to come outen our peaceful and fruitful valleys to help them by food for their starvation by word of God's comfort for their broken hearts.</p>
+
+<p>"I'd go if I could; but I can stay at home and send William on the money you offer him, of which I know he'll not spend a penny on foolish trapesing around, but to help them that needs; and after I
+
+<cb n="2" />
+
+pay the interest on the debt I put on the house. I'll have a barrel of flour and maybe one of potatoes to ship for him to give out for me. My back is still strong enough to carry a seed basket to some purpose. I ask you to excuse me for interrupting this meeting, as I know St. Paul says no woman oughter do; but I can get William's clothes patched up and him ready to go in about two weeks from now, and I want him to take a God's blessing from all of you with him."</p>
+
+<p>And in a silence like that which had followed William's valedictory his mother sat down and placed her bunch of lilacs on her broad lap.</p>
+
+<p>I CAN'T describe the scene that followed. I only heard Uncle Morris subscribe three thousand dollars to the fund for William to take, and the board of directors add two to make it five, while the students emptied their pockets into their hats.</p>
+
+<p>Then my vision came. I had loved William for a few weeks under summer skies and rose-bowered arbors; but this woman had toiled for him and with him through long, hard years in a way that had made him what he is. I could see her trudging down the long furrows after the plow with her seed basket, and then sitting in the twilight with the Book across her knee and the red head against her arm. What right had I in him? Could I ever earn one? Two women, I saw, must make a man's life. Would I ever be worthy to be joined with her even in
+
+<figure n="illustration">
+<head></head>
+<p>"'Oh, I'm not worthy of him! I&#8212;I'm not worthy of you!'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="3" />
+
+love of him? I felt I never could, and my head drooped, and my eyes blinded with tears, so that I failed to realize that the benediction had been asked.</p>
+
+<p>Over by the window behind the rostrum I stood, and was just about to give up William and life in general in one great conflagration of agony, when big, strong, purple-print arms inclosed me, and the rich voice, with a mother note I had not heard since my own mother's voice was stilled, crooned above my head, which was pressed down on the lawn kerchief and into the bunch of lilacs.</p>
+
+<p>"I knew you, honey bunch, from the way you looked at William and from his letters about you which match out so nice. My, I'm mighty glad he'll have such a fine, traveled girl like you to go with him to foreign parts! Country boys are always skittish of boats and languages and things like that, and I know you will take the best of care of him."</p>
+
+<p>"Oh, I'm not worthy of him! I&#8212;I'm not worthy of you!" I gasped, pressing still closer against the soft, wide breast.</p>
+
+<p>"Don't let him know you feel that way, child. All women do; but it isn't good for their men. I felt just that way about his father; but I never told him until William could walk alone; and he never got done joking me about it to the day of his death. Those humble squeams a woman sprouts about not being worthy of the man she loves are about the only life-preservers the poor creatures have got. Dear, dear! but I am glad I put that hay in by the help of all the neighbors and
+
+<cb n="4" />
+
+came to the graduating, when I told William I couldn't! You and William would have been a great loss to the poor Belgians and such if I had stayed at home. I think you had better take charge of getting all the clothing on account of knowing better the sister needs of women and children, and let William parcel out the foodstuffs that the money buys."</p>
+
+<p>"Yes, I will," I answered bravely, as the last even small desire for that selfish bridal saunter around the world with William vanished and left me with my head up and in the blessed state for assuming the vows of a missionary whether I could fulfil them or not. I was prayerful but humble.</p>
+
+<p>"Don't you think it would be better if you went with us?" I asked timidly, still clinging to the strong arm and the lilacs.</p>
+
+<p>"No; I'd better stay at home and till the ground for as many things to send as I can. I will get
+                        two good weeks' plowing out of William before you go, even if you do have to
+                        take along a jar of sweet cream in the ship to doctor up the back of his
+                        neck. My! but we'll have to begin right away to get ready to go
+                        and&#8212;"</p>
+
+<p>"YES, she's going back home with us, isn't she, mother?" William's voice protruded itself into what was beginning to be a council of war. He had finished receiving his ovation and his interview ith the faculty and the directors, and bad come back to hunt for us. "Your Uncle Morris has offered to drive us all tack to Cloverbend in his car. Please, sweetest, please! Mother, make her come home with us for a few days. I must talk with her. I can't go without her, and I&#8212;"</p>
+
+<p>"Dearie me, William, do you think for a minute I would trust you to go without Susan? A man is but a broken kite without his wife to tail along after him for steadying purposes. We settled that long ago. You and her uncle and a few more of your good and kind friends get together and come down in that ottermobile; but as for me, I prefer to jog back behind old White, and I'll take Susan along with me. We have much to talk about. We'll get there by moon-up. I prepared for as much company as I could get to go home with me, as I always do when I go to meetings. And don't you touch one single apple pie till I get there, sir!"</p>
+
+<p>"What did I promise you?" William asked me, as he gave his mother a kiss which somehow slid off on to the back of my neck also, as it was so close on her shoulder.</p>
+
+<p>FATHER, Uncle Morris, one director, two seniors, and a freshman did go home with William&#8212;home to an old farmhouse down in Harpeth Valley that was long and low, with vines over the gables, doves in the vines, and peace and poverty back of its wide threshold.</p>
+
+<p>And the moon was glorious down by the milk-house, and so light that William succeeded in skimming almost a whole layer of cream from one of the crocks with his wedge of pie so skilfully that the remaining portion spread out and concealed the deed.</p>
+
+<p>William was so like ten years as he licked around the corners of the pie to keep it from dripping that I had another awful what his mother calls squeam of fear about him and&#8212;me.</p>
+
+<p>"William," I ventured, clinging desperately to the arm that was not devoted to balancing the pie, "how will you ever&#8212;that is, me too&#8212;do without your mother on&#8212;on this dreadful bridal trip?"</p>
+
+<p>Having finished the steal, William took me in his arms, curled his long fingers about my chin, and tilted my head back so he could let the moonlight down to the very depths of my eyes, in which he could only see himself reflected.</p>
+
+<p>"Dear," he said tenderly in his benediction voice, "God gives every man's life into the keeping of two women, and he couldn't do without either. He must have both. We'll come back to her, and then I'll have the two of you."</p>
+
+<p>"Yes, us both," I answered devoutly.</p>
+
+
+
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19151206.p016" />
+
+<text type="advertisement" xml:id="exercise.19151206">
+<body>
+
+<figure n="advertisement">
+<head>My $3 Exerciser Reduced to $1</head>
+<p></p>
+<figDesc>Advertisement for Prof. Anthony Barker</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Burrowes Billiard and Pool Table</head>
+<p></p>
+<figDesc>Advertisement for E. T. Burrowes Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Sent Free Law Course On Aproval</head>
+<p></p>
+<figDesc>Advertisement for LaSalle Extension University</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Would You?</head>
+<p></p>
+<figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>This Alaska Foot Warmer</head>
+<p></p>
+<figDesc>Advertisement for A.H. Simon Shoe</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Unitarianism</head>
+<p></p>
+<figDesc>Advertisement for Unitarianism</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="ambulance.19151206">
+<body>
+
+<head type="main">This Woman Rides an Ambulance</head>
+
+<figure n="photograph">
+<head></head>
+<p>If a Black Hander blows up your house with a bomb, or the subway caves in where you happen to be strolling, there will be this consolation for you&#8212;Dr. Tjomsland will be on hand to pick up the pieces and put them together.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>THE first woman doctor to mount a hospital ambulance as active riding physician is Doctor Anna Tjomsland of Bellevue, New York. She began by taking up substitute duty, which made her one of the busiest persons in the whole hospital; and, although this new duty threatens to take all of her recreation time and most of her meal hours, she accepted it cheerfully, announcing that the only thing she disliked about it was the notoriety it brought.</p>
+
+<p>"For, you see, there is nothing unusual about me," she said, when seen at Bellevue in one of the brief intervals between her many tasks. "I had to substitute when called upon to do so, and I am doing it. We have six other women doctors in the building besides myself. Any of them could ride an ambulance as well as I. I happened to be the one&#8212;that's all."</p>
+
+<p>It may seem all to Doctor Anna Tjomsland; but those who have been rescued from danger and injury by her quick, competent hands have a different tale to tell. In one day Doctor Tjomsland was summoned to two fires&#8212;one in a stable in East Eighteenth Street, and one in an ink manufacturing plant, the windows of which had been blown out by an explosion, and where four employees were injured. When the battered men were brought out of the building, Doctor Tjomsland was there, ready and waiting to render first aid.</p>
+
+<p>"The first thing an ambulance doctor does," she says, "is to spread out his first-aid kit and hold himself in readiness. Much depends upon your quickness of perception. For instance, if it is a bad fire, and the smoke is thick, I say to myself, 'There will be cases of suffocation,' and I get ready for that. But if the flames rage through the whole building, then I say: 'Get yourself ready for burns and blinded eyes.' And so it goes."</p>
+
+<p>Last January Doctor Tjomsland served as admitting physician at Bellevue&#8212;the first time a woman had been on such a job in forty years. She was on duty from eight-thirty in the evening until eleven, and admitted fifteen patients, most of whom were sent to the alcoholic ward. When riding the ambulance she wears a cap of the same style as the men, and a short white coat over a white skirt. The smallest call the ambulance has ever answered was one sent in for a child who had stumbled against an automobile which was standing perfectly still. The child fell down and got a little muddy, and the ambulance was called. No call is answered unless it is sent in by a police officer, who has to give his name and station. Doctor Tjomsland answers about twenty-five calls a day, as the working day at Bellevue is a twenty-four-hour one, or from nine one morning until nine the next. But she wanted the experience of the ambulance work, and asked to be placed on duty, which she values as a specially accorded privilege.</p>
+
+<p>She is a most modest person. Never a word of her work, never a word of her own
+                        exploits&#8212;only a determined bringing of others into the foreground,
+                        that they may share the praise you offer, and a rigid resolve to accept no
+                        need of praise or distinction that she has not loyally earned.</p>
+
+<p>"I have done nothing," she reiterates "There is no time to think of yourself in a hospital. We are busy every instant of the day. Sometimes I have hardly time to eat my meals. What with fresh cases constantly coming in, the supervision of the old, the clang of the ambulance bell every few minutes; and the thousand and one things to be attended to in the ward, you may realize that I haven't any time to spare. But I love the work, and wouldn't give it up&#8212;riding and all&#8212;for the world."</p>
+
+<p>Doctor Tjomsland lives at Bellevue. She has a suite of rooms in the main building, and here, when she has time, she rests. But between operations, ambulance riding, substitute duty, and calls in all directions, the time for rest is&#8212;well, you may figure it out for yourself. Doctor Tjomsland rode, on regular ambulance duty, all the month of June.</p>
+
+</body>
+</text>
+<text type="nonfiction" xml:id="mason.19151206">
+<body>
+
+<head type="main">And This One Prefers a Jitney</head>
+
+<byline>By <persName type="author" key="#Mason, Walt">WALT MASON</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<p>Boss Nugent of New Jersey "saved the home" by beating woman suffrage. Now the male jitney drivers of the State want him please to go to Mrs. B. O. Cohen and whisper to her that woman's place is in the home. If he doesn't hurry they are afraid that Mrs. Cohen will have jitneys with lady drivers all over the State.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>YOU see her in her jitney bus, in which the male bewhiskered cuss is welcome if he has the price, and if his conduct's truly nice.</p>
+
+<p>'Tis Mrs. Cohen runs the same. She's showing that the modern dame can tackle any scheme or plan that's engineered by Mr. Man. She also runs an antique store, which is a rather fair-sized chore, and has six children, who depend on mother as their warmest friend. It will be seen that Mrs. C. is busy as a bumbling bee.</p>
+
+<p>From Plainfield to Dunellen's mart&#8212;the towns are three fat miles apart&#8212;and back again she goes her way, and makes some thirty trips a day. From 5 A. M. till 10 at night she runs her car with all her might, except on Saturdays, and then she hires a driver for a yen, while she conducts her antique store, and takes in rupees three or four.</p>
+
+<p>'Tis Mrs. Cohen's first design to give her patrons service fine, and so her bus is smoother far, they say, than any rival car.</p>
+
+<p>There's comfort in this jitney cart; the seats are stationed far apart, so there is room between the rims for men's long legs and ladies' limbs. Electric lights are in the roof, to make the darkness keep aloof, and one can read "The Kidnapped Brides" by Laura Libbey as he rides.</p>
+
+<p>Yes, sundry rival cars are there; but Mrs. Cohen needn't care, for people so admire her pluck, they're glad to break a shining buck and ride with her on rubber tires to where Dunellen rears its spires.</p>
+
+<p>"I'm doing well," we hear her speak; "I take in ninety plunks a week. And, though expense is dire to see, the profit looketh good to me. And therefore, ergo, whence, and thus, methinks I'll buy another bus. If one is a pronounced success, then two will be twice that, I guess." </p>
+
+<p>Thus Courage wins, where'er it's found, and Courage makes the wheels go round, and Courage leads the dauntless dame to step right in and win the game.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="largest.19151206">
+<body>
+
+<head type="main">The Largest and the Smallest</head>
+
+<p>HERE are the largest and the smallest elks in the world. The largest member of the B. P. O. E. order is F. H. Judd, night operator at the New York, Ontario &amp; Western station at Fulton, New York. The midget members of the order are the Count and Baron Magri, each of whom weighs less than thirty pounds.</p>
+
+<p>The Magris are on a tour with Mrs. Tom Thumb, and this photograph was taken on the occasion of their visit to Fulton.</p>
+
+<p>Mr. Judd is twenty-eight years of age, is married, and is the father of two girls and two boys. He tips the scales at 472 pounds, and, in his own language, "feels like a boy of 120 pounds. If you think this impossible, just ask any one from Madison or Chenango counties."</p>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 17" xml:id="ew.issue.19151206.p017" />
+
+<text type="nonfiction" xml:id="trail.19151206">
+<body>
+
+<head type="main">He Built the Bright Angel Trail</head>
+
+<figure n="photograph">
+<head></head>
+<p>"We just took the easiest way and marked it," says Mr. Cameron.</p>
+<figDesc></figDesc>
+</figure>
+
+<div1>
+<p>MR. CAMERON, at the age of sixteen, was given six months to live, and the Territory of Arizona to live them in. "That is," he explains, "I went along in the train until we came to Flagstaff, and the air seemed pretty good, so I got off. Then I met an Indian who said there was some fine country around there, and we started off to look it over. The 'fine country' he spoke of was the Grand Ca&#241;on of the Colorado River. I had never heard of it."</p>
+
+<p>That was in 1881, and the Ca&#241;on was practically unknown. Powell had made two expeditions to explore it, and said it was harder than the Alps or the Himalayas to traverse; so no one else had tried.</p>
+
+<p>"The Indian guessed there was a lot of gold in there," continues Mr. Cameron; "so I packed some grub along and went down in, hanging on to the cliffs with my toes and my finger-nails. I stayed at the bottom alone&#8212;except for a man who made one trip to bring supplies&#8212;from May until September; and I never had a better time.</p>
+
+<p>"Do you know that a man who goes after a pot of gold is always partly crazy while he's doing it? He works and digs feverishly all day long; at night he turns in, tired and discouraged. But his vision gets polished up again in his sleep, and there it is again next morning, shining just as bright as ever before his eyes. And not time nor tide nor love nor hunger nor hardship looms so big or shines so bright!</p>
+</div1>
+
+<div1>
+<head type="sub">The Trail that Never Cost a Life</head>
+
+<p>"I NEVER found tho gold, you know," Mr. Cameron confesses. "I found copper. But that's as near
+                            what I went after as a man should expect to get in life, isn't it?" he
+                            adds with a twinkle in his eyes.</p>
+
+<p>The odd thing about it, though, is that the man who went after the pot of gold should be known for the path he made to get there, and the pot of gold forgotten.</p>
+
+<p>"After I'd got together an outfit and started mining in the Ca&#241;on," he tells the story, "we found it next to impossible to pack supplies and tools down in there; so one time, when I was coming out with my partner, I thought it would be a good idea to mark the best trail, so we would always know the easiest way to go.</p>
+
+<p>"We had to rest a lot that trip; and every time we rested we stuck up a stone or made a little mound of earth for a landmark. Later we got busy with our pick-axes and a little dynamite, and built a path."</p>
+
+<p>That path into the Grand Ca&#241;on is the famous Bright Angel Trail, traveled every year by thousands upon thousands of tourists, known all over the world, and holding the proud record of never having cost a human life; although there are places where, if a man should fall off, he probably would be dead before he hit anything! "We took the easiest way and marked it," says Mr. Cameron. "There is no other place where you could make a trail, because there where we built it is the only fault in the geological formation. The strata run perfectly horizontal and impassable for miles on each side."</p>
+</div1>
+<div1>
+<head type="sub">It Was the Doctor Who Died</head>
+
+<p>OF the heartbreaking climb, the terrible, perilous moments when only the timely clutching of his hands kept him from being shattered on rocks three thousand feet below, Mr. Cameron seems to have thought very little. Perhaps that is why the people of Coconino County made him sheriff when the country was full of "bad men" and being sheriff was a two-man job.</p>
+
+<p>Twenty-two years later he made his first trip back East to represent his adopted Territory in Washington. It was largely through his efforts that the Territory became a State; so now they call him "the father of Arizona."</p>
+
+<p>One is reminded, too, that the boy who was a hopeless invalid stayed alive, "and, incidentally, achieved perfect health. Even that was more than he had expected.</p>
+
+<p>"It's true, I did," he remembers. "And when I got back East to tell the doctor, he was the one who was dead, instead of me!"</p>
+</div1>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="home.19151206">
+<body>
+<head type="main">Making a Guest Feel at Home</head>
+
+<p>THE Indians of the Brazilian forests have one most extraordinary custom. When a visitor arrives from another village, they do not welcome him with any "glad hand." No matter how distinguished he may be, he does not get bouquets nor the freedom of the city. He does not even get a cordial smile.</p>
+
+<p>Instead the inhabitants take him into a hut, and make him lie down in a hammock. Then the women of the village stand round him and weep. Meanwhile the visitor, if he knows the proper thing, also puts his hands over his face and acts heartbroken. This goes on for an hour or two. After that visitor and visited behave once more like rational mortals.</p>
+
+<p>The explanation of this strange performance is this: The hosts express their appreciation of the visit by lamenting the perils&#8212;usually quite imaginary&#8212;that the guest has undergone to reach them. The louder the women's lamentations, the more is the caller assumed to be flattered by their appreciation of his unparalleled toil in coming at all. The more "done up" the guest in the hammock pretends to be, the more are the hosts complimented.</p>
+
+<p>Queer doings, of course! But how about us civilized persons who shake hands with our fellow man, by way of proving that we are not holding a stone ax behind us, ready to "hand him one"; and take off our hats when we enter a house, by way of showing our confidence that the owner will not pound us over our unprotected heads? "Why," remarks Chesterton, "if a lady bows to me on the street, do I forthwith remove a portion of my attire?"</p>
+
+<note type="copyright" place="margin_bottom">Copyright, 1915, Every Week Corporation; John H. Hawley, President; J.F. Bresnahan, Vice President; Bruce Barton, Secretary; R.M. Donaldson, Treasurer; 95 Madison Avenue, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada, $1.25. Foreign Countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N.Y., under the Act of March 3, 1879.</note>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="dean.19151206">
+<body>
+
+<figure n="advertisement">
+<head>A Beautiful Dean Calendar Free</head>
+<p></p>
+<figDesc>Advertisement for Dean Medicine Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Living Music Box</head>
+<p></p>
+<figDesc>Advertisement for Max Geisler Bird Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Feeding Secrets of Famous Poultrymen</head>
+<p></p>
+<figDesc>Advertisement for Darling &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Poultry Paper</head>
+<p></p>
+<figDesc>Advertisement for Poultry Advocate</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Lake Alfred Florida</head>
+<p></p>
+<figDesc>Advertisement for Florida Fruitlands Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Learn to Stuff Birds</head>
+<p></p>
+<figDesc>Advertisement for N.W. School of Taxidermy</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Stamp Album</head>
+<p></p>
+<figDesc>Advertisement for Hussman Stamp Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Lame People</head>
+<p></p>
+<figDesc>Advertisement for A.N. Slnn</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Diamonds on Credit</head>
+<p></p>
+<figDesc>Advertisement for L.W. Sweet &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Will You Give One Family A Merry Xmas Dinner?</head>
+<p></p>
+<figDesc>Advertisement for The Salvation Army</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Include this Racing Airship in the Boy's Xmas Box</head>
+<p></p>
+<figDesc>Advertisement for Brazel Novelty Mfg. Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>10 Cents a Day</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+
+
+<p></p>
+</body>
+</text>
+
+<pb n="Page 18" xml:id="ew.issue.19151206.p018" />
+
+<text type="advertisement" xml:id="hinds.19151206">
+<body>
+
+<figure n="advertisement">
+<head>Beautiful Neck and Arms</head>
+<p></p>
+<figDesc>Advertisement for A.S. Hinds</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Free Till Christmas</head>
+<p></p>
+<figDesc>Advertisement for Pall Mall Electric Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Increase Your Income $25 a Week</head>
+<p></p>
+<figDesc>Advertisement for Pease Mfg. Co., Inc.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Learn At Home To Draw&#8212;Paint</head>
+<p></p>
+<figDesc>Advertisement for Fine Arts Institute</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including Help Wanted, Corporations, Patents, Games and Entertainments, Building Material, and Motion Picture Plays</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="rockies.19151206">
+<body>
+<head type="main">Alone in the Rockies</head>
+
+<figure n="photograph">
+<head></head>
+<p>This is undoubtedly how Captain Jack looked when she killed Indian Chief. Observe the revolver firmly grasped in her right hand.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>CAPTAIN JACK is a seventy-three-year-old young woman who lives all alone on the top of the Rocky Mountains. Prospector, mine-owner, author, poet, and merchant, she maintains a small inn where tourists stop to buy, and remain to get acquainted with the redoubtable little Captain behind the counter.</p>
+
+<p>Alert as a canary, she waited on us, talking all the while. I asked her about a long, wicked-looking scar across her cheek.</p>
+
+<p>"Indian Chief tomahawked me in November, 1880, and rubbed poison ivy in the wound. Here!" She scurried through a drawer, and handed me the picture of herself with a revolver in her hand. "With that gun I killed him," she added concusively.</p>
+
+<p>"What did you fight about?" I ventured</p>
+
+<p>"My book will tell you&#8212;one dollar and fifty cents a volume; and let me tell you, lady, there's not one word of 'friction' in that book."</p>
+
+<p>In spite of the tomahawk episode Captain Jack believes in human nature. I bought the picture showing the murderous weapon, but do you think I could get her to look at the money? The Captain's wares are for sale; take what you like and&#8212;leave the change on the counter.</p>
+ 
+<p>"I've been mining now thirty-five years," said the Captain. "I sold Black Queen Mine for $25,000, and in this mine," she added impressively, "I have just struck tant'lum." She explained to us that tantalum is a sister to radium and is worth sixteen dollars an ounce.</p>
+
+<p>The little inn perched high on the side of the mountain is called Buck Horn Park. It is on the driveway built in 1908 by General Palmer, the founder of Colorado Springs, between North Cheyenne Canon and Bear Creek Canon&#8212;the "high drive," in mountain parlance. Buell Horn Park is more than nine thousand feet above the level of the sea.</p>
+
+<p>"The Indian Girl's Prayer" and "The Veteran's Cry," poems, are printed on cards, and constitute a part of the versatile Captain's salable wares. Her book, "The Fated Fairy," is the story of her own actual experiences on the Rocky Mountain range.</p> <closer><signed>Edna Herron.</signed></closer>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="morgan.19151206">
+<body>
+<head type="main">He Used to Drive J. P. Morgan</head>
+
+<p>JOHN ANDERSON, ruddy and hale, with a sailor's eyes, a-squint from being in the open, sighs a bit for the old days when he made as much as thirteen or fourteen dollars a day in fares. Now he considers himself in luck if he takes in as much as three dollars.</p>
+
+<p>"J. Pierpont Morgan was my fare for years," he says. "Sixteen years ago I used to drive him down to Broad Street every morning.</p>
+
+<p>"We cabbies would be waiting at eight o'clock before the fine houses around Fiftieth Street and Fifth Avenue, to take Rockefeller and Morgan and all those big fellows downtown. Then at one o'clock we'd crowd into Broad Street. When they'd come out we'd wheel up and say:</p>
+
+<p>"'Make the 1.20 express at Grand Central for $2.'</p>
+
+<p>"'Never mind the money, John,' Morgan used to say to me, 'but can you make it?'</p>
+
+<figure n="photograph">
+<head></head>
+<p>"Never mind the money, John," Morgan used to say to him.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>"And let me tell you I could make it, in those days, in sixteen minutes. Me and the other fellows used to race up Lafayette Street, where there were no surface cars. I've seen a lot of sparks fly from those stones."</p>
+
+<p>John Anderson never took to taxicabs.</p>
+
+<p>"You see, I was a coachman first, and I got so I seemed to understand horses. Now, a horse&#8212;a horse is a human being; but a machine's always a machine."</p>
+
+<p>John's horse is old and tired now, and his ears, once erect, lie horizontal. He's a blas&#233; old steed bored because he has seen New York&#8212;seen it for nearly twenty years.</p>
+
+<p>There are two classes of people that still like to ride in hansom cabs: genteel elderly ladies of the old school use them for shopping; and then, lovers. Next to summer moonlight on a lake, there has never been anything so perfectly designed for lovers. Young New York, that rides in taxis in the day-time and dances to feverish syncopation in the evening, has still enough romantic temperament and good sense to become engaged in a hansom cab rocking gently through Central Park.</p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="cave.19151206">
+<body>
+
+<head type="main">She Spent Her Honeymoon in a Cave</head>
+
+<p>THE Fifth Avenue bride is motored to church in her limousine; the bridegroom, if he be of a sporting turn, drives over in his racer; and later they are smoothly transferred to Palm Beach or elsewhere in a private car attached to a Pullman express train. The only exertion required on their part is the journey from the church door down the red carpet to the waiting motor; and the only danger attached is from the battery of agile newspaper photographers.</p>
+
+<p>But Frederick A. Henton couldn't leave his mining engineering up in northern Alaska, to come down into civilization to get his Oregon bride. So his fianc&#233;e instructed him not to worry, said good-by to silk stockings and lingerie dresses, and started on her trip&#8212;to the Arctic Circle, the last two hundred miles of which had to be made by dog-sled. After reaching the man in the case, there were sixty more miles to be traveled to the nearest mission for the wedding; but of course this part of the trip was, if anything, too short.</p>
+
+<p>On the way to the new home, a full grown storm came up; and when that happens in those northern parts one doesn't hail a taxi or drop into a neighbor's cozy home to wait. The Hentons crawled into a friendly snow-bank and there remained for the first eighteen hours of their married lives. Then they ventured to more luxurious quarters in a deserted Eskimo snow hut, for the next week depending for their meals upon their luck in hunting ptarmigan, reindeer, and seal.</p>
+
+<p>No moonlight beaches&#8212;not even a wedding cake or a bride's bouquet; yet Mr. and Mrs. Henton insist that theirs was the best wedding and honeymoon ever scheduled anywhere.</p>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19151206.p019"/>
+    
+<text type="advertisement" xml:id="thermos.19151206">
+<body>
+    
+<figure n="advertisement">
+<head>Thermos</head>
+<p></p>
+<figDesc>Advertisement for American Thermos Bottle Company.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Sunshine Lamp Free</head>
+<p></p>
+<figDesc>Advertisement for Sunshine Safety Lamp Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Charlie Chaplin Outfit</head>
+<p></p>
+<figDesc>Advertisement for Nuidea Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Wanted Ideas</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for R. S. &amp; A. B. Lacey.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Patent</head>
+<p></p>
+<figDesc>Advertisement for Franklin H. Hough.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Old Coins Wanted&#8212;</head>
+<p></p>
+<figDesc>Advertisement for Clarke Coin Co.</figDesc>
+</figure>
+    <p></p>
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="acorner.19151206">
+<body>
+
+<head type="main">A Corner in Rattlesnakes</head>
+    
+<cb n="1"/>
+    
+<p>DELL REEVES, the rattlesnake king of Connecticut, has a hobby that nets him a tidy income and relieves the monotony of existence on the farm. When things begin to get a bit dull up there in the hills east of Portland, Dell takes down his trusty oaken stick and starts on a hunt for rattlers. He averages ten or fifteen a day. Once he captured thirty, ranging all the way from three to six feet in length.</p>
+    
+<p>Rattlesnake oil is considered to be a valuable remedy for rheumatism, sprains, etc., and is much in demand among the large foreign population that is rapidly taking over the abandoned farms in New England.</p>
+    
+<div1><head type="sub">The Rattlers' Den</head>
+    
+<p>THE rattlers around Portland hibernate in a cave near the top of a hill. The opening, under a rock, is about twelve inches in diameter. No one has had sufficient curiosity to investigate the interior. It is generally supposed that the recesses of the cavern spread out in many directions, for a tremendous colony lives there in the winter. Toward the end of April they venture forth covered with dust after their long sleep, and scatter over the countryside for a radius of five miles around the hole. In summer they feed on squirrels, birds, and even woodchucks, until frost. Then they return to the cave. Fall and spring are Dell's busiest times, for at these seasons they are mobilizing.</p>
+    
+<p>Reeves has never been bitten by a rattler, and has been attacked only once in all the years he has hunted them. That was when he broke into a scene of quiet domesticity to get a couple of skins for a museum. He killed the female, and thereupon the male attacked him. He quickly laid his assailant low with a blow from the club. He has found, as a rule, that a snake will flee from an intruder, though
+
+<cb n="2"/>
+
+<figure n="photograph">
+<head></head>
+<p>When life on the farm begins to seem dull, he goes out and fills his pockets full of rattlers.</p>
+<figDesc></figDesc>
+</figure>
+
+it betrays itself by the whir of its rattles. The sinewy hunter says he has known of only one human being dying from a rattlesnake bite. This was a laborer who came upon a reptile in a woodpile and didn't realize his danger until too late. His friends' tales of fearful consequences frightened the man to death.</p>
+    
+<p>The farmers round about are never bothered, though the dogs frequently get into trouble. None of these has ever died, so far as Dell knows. The favorite remedy is to chop up an onion and poultice the bit. This draws out the poison. A freshly killed chicken tied over the wound is another remedy.</p></div1>
+    
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="europe.19151206">
+<body>
+   
+<head type="main">Europe Is Watching This Town</head>
+    
+<cb n="1"/>
+    
+<p>THE war has put Eddystone, Pennsylvania, on the map. The Czar of Russia and the King of England would rather own Eddystone right now than a couple of Spains and Portugals put together, with an island of Cuba thrown in. The Kaiser would like to buy it and blow it up.</p>
+    
+<p>Eddystone is the miracle munition city. There is a building at Eddystone for making rifles that is as big as eight or ten Madison Square Gardens put together. It is said to be the biggest building of its kind under roof. And it went up so fast it smashed all building records to pieces. The Baldwin Locomotive Works built it for the Remington Arms Company.</p>
+    
+<p>And the Baldwin Company is building another for the Eddystone Ammunition Company, a Baldwin corporation that will make shrapnel. Counting the heating
+    
+<cb n="2"/>
+    
+plants and the other "feeder" buildings, together the two great structures will have more than eighty acres of floorspace.</p>
+    
+<p>On May 8 the word was given the Baldwin engineers to start. By September 1 part of the Remington building was done and operating; the rest was nearly done. The Eddystone Ammunition building was started July 27. It is going up just as rapidly as the other building. Both are made of tile, steel, and glass. Since the Remington building was started it has rained nearly forty days; yet its building broke all records. In it the Remington Company is turning out rifles, and paying the Baldwin Company a premium on every one. The Baldwin Company will thus own two of the finest factory buildings in America when the war is over; and the war will have paid for them.</p>
+    
+<figure n="photograph">
+<head></head>
+<p>The King of England would rather own this place than the whole of Spain.</p>
+<figDesc></figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>For Your Home Made Xmas Candy</head>
+<p></p>
+<figDesc>Advertisement for Chas. B. Knox Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>Negro Minstrel Wig</head>
+<p></p>
+<figDesc>Advertisement for R. Trademore Co.</figDesc>
+</figure>
+    
+<figure n="advertisement">
+<head>One Man and This Machine Will Earn $50 to $100 Daily Profit</head>
+<p></p>
+<figDesc>Advertisement for W. Z. Long Co.</figDesc>
+</figure>
+    
+</body>
+</text>
+    
+<pb n="Page 20" xml:id="ew.issue.19151206.p020"/>
+    
+<text type='advertisement' xml:id="artbronze.19151206">
+<body>
+    
+<figure n="advertisement">
+<head>"Artbronz" Products</head>
+<p></p>
+<figDesc>Advertisement for Kathodion Bronze Works.</figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+</group>
+</text>
+</TEI>

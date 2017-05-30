@@ -1,0 +1,2314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160522">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, May 22, 1916</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2015</date>
+<availability>
+<p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+<idno>ew.issue.19160522</idno>
+</publicationStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>Every Week Corporation</publisher>
+<pubPlace>52 East 19th Street, New York</pubPlace>
+<extent>20 pages</extent>
+<date when="1916-05-22">May 22, 1916</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2016-06"><name>Laura Weakly</name> Validation
+</change>
+<change when="2015-07-07"><name>Samantha Greenfield</name> Additional Encoding
+</change>
+<change when="2013-09-27"><name>Samantha Greenfield</name> Initial Encoding
+</change>
+<change when="2010"><name>Arman Zeljkovic</name> Initial Encoding
+</change>
+<change when="2010"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name> Scanning
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<pb n="Cover" xml:id="ew.issue.19160522.p001" />
+
+<front>
+
+<titlePage>
+<docTitle>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">The Big 3 &#162; Worth</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Published Weekly by Every Week Corporation,</publisher>
+<pubPlace>95 Madison Avenue, New York</pubPlace>
+<docDate>May 22, 1916</docDate>
+</docImprint>
+
+<figure n="illustration">
+<head>To A Mother Who Does Not Want Her Boy To Be Shot&#8212;By Bruce Barton</head>
+<figDesc></figDesc>
+</figure>
+
+</titlePage>
+</front>
+
+
+<group>
+ 
+<pb n="Page 2" xml:id="ew.issue.19160522.p002" />
+ 
+<text type="advertisement" xml:id="gem.1916060522">
+<body>
+ 
+<figure n="advertisement">
+<head>Gem Damaskeene Razor</head>
+<p></p>
+<figDesc>Advertisement for Gem Cutlery Co. Inc.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Deaf?</head>
+<p></p>
+<figDesc>Advertisement for General Acoustic Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Delivered to You Free</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Old Money Wanted</head>
+<p></p>
+<figDesc>Advertisement for Numismatic Bank.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Test It on Your Own Skin</head>
+<p></p>
+<figDesc>Advertisement for Frederick F. Ingram Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Runs on Alcohol</head>
+<p></p>
+<figDesc>Advertisement for Lake Breeze Motor.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>How to Make Toys</head>
+<p></p>
+<figDesc>Advertisement for Funk &amp; Wagnalls Company.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Agents</head>
+<p></p>
+<figDesc>Advertisement for Thomas Mfg. Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Le Page's Glue 10¢</head>
+<p></p>
+<figDesc>Advertisement for Le Page's Glue.</figDesc>
+</figure>
+ <p></p>
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="barton.19160522">
+<body>
+ 
+<head type="main">Now Will You Stop That Sunday Work?</head>
+ 
+<p>THIS is a "scientific" age.</p>
+ 
+<p>The way to get a man married is not to introduce him to a pretty girl.</p>
+ 
+<p>You must prove to him by statistics that married men are more successful and live longer than single men.</p>
+ 
+<p>Then he goes about it scientifically.</p>
+ 
+<p>It used to be sufficient merely to tell a child, "Remember the Sabbath day, to keep it holy. In it thou shalt not do any work."</p>
+ 
+<p>But the modern child&#8212;and man&#8212;asks, Why?</p>
+ 
+<p>Well, here is one reason why&#8212;a scientific reason.</p>
+ 
+<p>Dr. E. G. Martin, of the Harvard Medical School, selected nine first-year medical students, all in good health, and tested them every day for eight weeks with electric currents.</p>
+ 
+<p>Each day he recorded the smallest shock that they could feel. The smaller the shock they could feel, the higher their sensitiveness. A high sensitiveness means high nervous efficiency.</p>
+ 
+<p>You know that from your own experience.</p>
+ 
+<p>You have been so "dead tired" you could not taste the food you were eating; so tired that you hardly felt a blow or a prick which would otherwise have caused you severe pain. Your sensitiveness was low.</p>
+ 
+<p>And Dr. Martin discovered:</p>
+ 
+<cit>
+<quote>
+<p>There was an unmistakable tendency for the sensitiveness to be at its highest at the beginning of the week and to sink steadily from day to day until the week's end, reaching the lowest point on Saturday. With the return of Monday following the Sunday recess the sensitiveness was back at its former high point.</p>
+</quote>
+</cit>
+ 
+<p>This chart shows the results of the experiment:</p>
+ 
+<figure n="illustration">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+ 
+<p>It shows what happens to your reservoir of nervous energy every week.</p>
+ 
+<p>Monday you are keen, alert, ready for anything.</p>
+ 
+<p>Tuesday you are not quite so fit.</p>
+ 
+<p>Thursday and Friday and Saturday you slump off very fast, and by Saturday night you are dead tired.</p>
+
+<p>Then, if you rest Sunday, you are back to high-water mark again Monday morning. If you don't rest, you go down and down.</p>
+ 
+<cit>
+<quote>
+<p>The results [says Dr. Martin] show that the repose of a single night following a day of toil does not afford complete restoration of the impaired nervous tissues: and furthermore that the longer period furnished by the Sunday recess gives, under ordinary conditions, the longer time needed for the expulsion of the accumulated fatigue products and the recovery of efficiency.</p>
+</quote>
+</cit>
+ 
+<p>Arnold Bennett, in "The Truth About an Author," tells how, after working seven days a week for several years, he learned that a day of complete rest greatly added to his efficiency.</p>
+ 
+<cit>
+<quote>
+<p>The man who carries his work home with him and dwells on it in the time devoted ostensibly to rest [concludes Dr. Martin] is defeating the very purpose he seeks&#8212;increased efficiency.</p>
+</quote>
+</cit>
+
+<p>"Remember the Sabbath day," says modern Science.</p>
+
+<p>But the Bible said it four thousand years ago.</p>
+ 
+<p>Some day, when you have had enough scientific proof, you will begin to believe that there are a great many things in the Bible worth knowing and believing.</p>
+ 
+<closer><signed><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</signed></closer>
+ 
+<note type="editors">One of the chapters in Mr. Atwood's little book is headed. "What Kind of a Life Insurance Policy Shall I Buy?" Send me a 2c stamp for a copy of this booklet: 95 Madison Avenue, New York.</note>
+ 
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19160522.p003" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 2, No. 21 May 22, 1916
+Every Week
+$1.00 per Year 3 Cents a Copy</p>
+</figure>
+<p></p>
+</body>
+</text>
+
+<text type="fiction" xml:id="camp.19160522">
+<body>
+    
+
+<figure n="illustration">
+<head></head>
+<p>BERTRAND WOODFORD, the great actor, was sick. They urged him not to attempt to play his part: yet his jealous nature would not allow any other man to play it. He went on&#8212;and at the climax of the play dropped dead. For forty years Woodford's Theater has been closed. Now, at last, it is to be opened again. Forty years Woodford has been dead, yet the rumor has it that his footfalls arc still heard on the musty stage. A foolish rumor, you say? So thought Arthur McHugh: so thought his cast of actors.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<head type="main">The Mystery at Woodford's</head>
+<byline>By <persName type="author" key="#Camp, Wadsworth">WADSWORTH CAMP</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Keller, Arthur I.">Arthur I. Keller</persName></byline>
+
+<cb n="1" />
+
+<p>UNDER the circumstances, McHugh would certainly have been wiser never to have attempted such a revival. Had he cared to open his ears, he might have heard warnings in plenty; for Woodford's Theater had become a tradition in the profession&#8212;an evil one; a menace, in short, for the superstitious.</p>
+
+<p>It is difficult to trace such beliefs to a reasonable source. Few along Broadway attempted  it. But there lingered, for instance, rumors about the stock company that five years before had opened Woodford's for a winter's campaign. If there was nothing more than gossip behind the theater's reputation, why, people asked, had that company within a week abandoned its lease and forfeited its guaranty? Why had its leading man on the final night rushed from the stage, chattering hysterically, shaken as if by some experience beyond human comprehension?</p>
+
+<p>Such questions remained unanswered, while other stories persisted, gathering about a black cat that had mysteriously made itself felt and heard, fitting disturbingly into the somber history of the place.</p>
+
+<p>So Broadway avoided Woodford's and feared it&#8212;all except Arthur McHugh. He was the logical exception. An aggressive, ambitious Irishman, he had fought his way from the headquarters detective force to a managerial throne from which he wielded a supreme power over many actors and actresses and plays. He went his stubborn and successful way, untrammeled by the gossip of the profession. Therefore, when he conceived the idea of reopening Woodford's with a revival of "Coward's Fare," he remembered only that half a century before the play had placed the crown of dollars on the theater and had made its old director, Bertrand Woodford, famous. It did not bother him that in the end the play had caused Woodford's sudden and mysterious death. </p>
+
+<p>RICHARD QUAILE, chosen by McHugh to make a modern version of the play, paused opposite the theater one fall afternoon and appraised it curiously. Successful as a playwright and with a plentiful income, Quaile was too thoroughly interested in the world about him to bother with abstractions. But he had heard the gossip concerning Woodford's; he wondered at McHugh's courage.</p>
+
+<p>The crumbling façade of the old house turned his mind back forty years. He could see the packed auditorium, and the curtain rising on "Coward's Fare," with Woodford in his greatest, his favorite rôle.</p>
+
+<cb n="2" />
+    
+<p>He saw the actor limp on, ill, but too jealous and vindictive to resign his part to an under-study. He watched the man struggle along with the genius of which his disability could not entirely strip him.</p>
+
+<p>But it was on the last destructive moment that Quaile's mind lingered uncomfortably. He experienced, almost with the tensity of an actual spectator, the clamorous excitement that had filled the house when Woodford, at the height of his most impassioned scene, had toppled to the stage, had lain still, had failed for the first time to respond to his audience.</p>
+
+<p>Details scarcely heard, dimly remembered from the mass of gossip, obtruded themselves. The black cat, he recalled, Woodford's constant companion off stage, had rushed from the wings and curled itself on the motionless body. It had fought and scratched tigerishly when anxious hands had tried to snatch it off. It had remained close to its master until his burial.</p>
+
+<p>Quaile shook his head, turned, and went on to his appointment.</p>
+
+<p>HE found the atmosphere of the manager's office restorative.</p>
+
+<p>He stepped from the elevator into a hallway crowded with the prosperous and the unfortunate, leads, ingénues, character people, comedians&#8212;all seekers, and all forewarned that in this office success would welcome only a few.</p>
+
+<p>He nodded at those he recognized, and passed into the reception-room, whose broader spaces were similarly taxed. He knew it was only ten years since McHugh had left the detective bureau. Now he sat, czar-like, in a secluded office, forbidden to the many, a privilege for the elect.</p>
+
+<p>Quaile noticed a man who elbowed his way through the crowd toward the door. He was slender and tall, so that above the bobbing heads Quaile could see his face, striking, nearly handsome, yet a trifle too pallid. Moreover, it registered at this moment a vague uncertainty.</p>
+
+<p>Quaile nodded pleasantly in that direction, and the man altered his course and approached. Quaile stretched out his hand.</p>
+
+<p>"Hello, Carlton. You're in a hurry."</p>
+
+<p>"I came up to see McHugh," Carlton answered. "Can't find out whether he's in, and I've another appointment. He's offered me a contract for Woodford's part in the revival of 'Coward's Fare.'"</p>
+
+<p>"You'll do it well," Quaile said. "Looks 
+    
+<cb n="3" />    
+    
+like a long winter. Sentiment will draw big audiences."</p>
+
+<p>He watched the uncertainty in the other's face increase.</p>
+
+<p>"You don't look overjoyed."</p>
+
+<p>"I'm glad of the job," Carlton answered. "I'm no fool. But it's curious, Quaile. I ran into a girl only last night who played with that stock company at Woodford's five or six years ago. Actually, she tried to argue me out of accepting the contract. Talked about Woodford's influence persisting and resenting the presence of the living in his theater&#8212;uncomfortable feeling about the dressing- rooms, and all that. A lot of rot, too, about Woodford's black eat. She said Bertrand Woodford had worked himself to death rather than let any man play his part; and that a lot of people felt he never would let any man play it, now that he was dead. You know, she seemed to believe the nonsense. Funny how such stories cling. Give you my word, I thought no manager would take another chance with the place."</p>
+
+<p>Quaile grinned.</p>
+
+<p>"I'd back Arthur McHugh against the meanest dispositioned spook that ever walked."</p>
+
+<p>Carlton's laugh irritated Quaile. It lacked conviction.</p>
+
+<p>"I'm off," the actor said. "I'll see McHugh in the morning. Good luck to the sentimental engagement."</p>
+
+<p>QUAILE turned away, facing the reception-roorn again. He glanced about. Then his perfunctory interest swayed toward a girl who sat near the inner door. Her back was turned, so that he could see little more than the glow of light hair beneath a hat of pronounced simplicity. She was bent forward, as if eager to pass the door, which remained closed.</p>
+
+<p>Quaile watched her. Surely he had seen the graceful figure before. He stepped forward, and turned, with his hand on the door-knob. Now he knew that he had seen her, more than once on the stage, and from time to time casually at dinners or in offices like this. He held out his hand.</p>
+
+<p>"You've not forgotten me, Miss Morgan?"</p>
+
+<p>Her smile was charming.</p>
+
+<p>"I never forget a friend at court. Mr. McHugh sent for me. He said it had something to do with you."</p>
+    
+<cb n="4" />
+
+<p>The announcement reached Quaile pleasantly. Her quiet gray eyes indicated a sensible lack of temperament.</p>
+
+<p>"It's the lead, then, in rather a unique revival. I'm glad you'll be with us. How long have you waited?"</p>
+
+<p>"Since four o'clock. It's inexcusable. Do you think he's ever coming?"</p>
+
+<p>"Probably here now," Quaile laughed. "He has as many entrances and exits as a criminal. I'll tell him how you've suffered."</p>
+
+<p>With his hand still on the knob, he turned hack, glancing at her quizzically.</p>
+
+<p>"By the way&#8212;you're not afraid of ghosts?"</p>
+
+<p>"It isn't 'Hamlet'?" she cried gaily.</p>
+
+<p>STILL smiling, he shook his head and went through into the presence of a small, neat young woman who attended to McHugh's correspondence, and simultaneously did her best for the chewing gum manufacturers.</p>
+
+<p>"Hello, Ethel. Boss here yet? He sent for me."</p>
+
+<p>She nodded at the door through which Quaile had just entered.</p>
+
+<p>"That's what they all say, the poor nuts. And I have to fib until I'm ashamed to go to church on Sundays. Yep. Came in ten minutes ago."</p>
+
+<p>"Busy?"</p>
+
+<p>"Yep. Just took him the evening paper."</p>
+
+<p>"Did you tell him how many were waiting?"</p>
+
+<p>"Yep. Said let 'em wait, and turn 'em over to Morley when he comes in."</p>
+
+<p>"Does he know Miss Morgan's outside?"</p>
+
+<p>"None. Didn't know myself. Say, he's expecting her."</p>
+
+<p>"Bring her in here," Quaile said, "and I'll tell him."</p>
+
+<p>Quaile crossed the room and knocked at a mahogany door. The voice that reached him through the heavy panels was querulous, expressive of an outraged solitude.</p>
+
+<p>"What the devil you want, Ethel?"</p>
+
+<p>"Not Ethel," Quaile answered mildly.</p>
+
+<p>The door was flung open. McHugh stood on the threshold. An unlighted and bitterly used cigar depended from his thin lips. As he motioned Quaile in, his shrewd, narrow eyes fixed him with resentment.</p>
+
+<p>"See here, Quaile. You're five minutes late."</p>
+
+<p>"Indulgence," Quaile begged. "By the way, I've just seen Miss Morgan. She tells me you're an hour late. According to her, you're not here at all yet."</p>
+
+<p>"Too bad. Would rather not see her till to-morrow, anyway."</p>
+
+<p>McHugh raised his voice:</p>
+
+<pb n="Page 4" xml:id="ew.issue.19160522.p004" />
+
+<cb n="1" /> 
+
+<p>"Ethel! Step out and tell Miss Morgan to come back to-morrow."</p>
+
+<p>Barbara Morgan appeared in the doorway. Her manner was unruffled. There was a firmness about her manner that pleased Quaile.</p>
+
+<p>"I am not coming back to-morrow," she said. "An hour already out there! You might at least give us things to read. Even doctors do that."</p>
+
+<p>"Doctors get your money, young woman, while I give you the money to pay 'em. Never mind, now you're here. Script will be read day after to-morrow, provided we arrange a lease. Quaile and I are going to see about that now. If we don't, nothing doing. Met Mr. Quaile, Miss Morgan? He fixed the play up. Thought after you looked her over, Quaile, you'd agree she'll do."</p>
+
+<p>"I've met Miss Morgan," Quaile said.</p>
+
+<p>He smiled at her.</p>
+
+<p>"And I agree she'll do."</p>
+
+<p>McHugh waved the girl away.</p>
+
+<p>"Rushed now. I know your terms. Contract will be ready if the lease goes through. Looks like all winter unless this pen-pusher's hypnotized me into throwing my money down a well. So long, Miss Morgan. Go out this way if you like."</p>
+
+<p>She crossed the room, laughing.</p>
+
+<p>McHugh glanced at his haggard cigar.</p>
+
+<p>"Clever girl, that!"</p>
+
+<p>He thrust the cigar again between his teeth.</p>
+
+<p>"I've seen the agents."</p>
+
+<p>"There's no hitch?" Quaile asked.</p>
+
+<p>"We're up against a queer proposition," McHugh answered. "We've got to deal with that old scoundrel, Josiah Bunce."</p>
+
+<p>Quaile knew the name. Bunce's eccentricities were notorious. He was rich in real estate, to which he clung tenaciously. Report credited him with the disposition of a miser, yet he lived in an old house just off Fifth Avenue, and kept next door an empty lot, probably worth half a million, in order, his neighbors said, that he might take convenient strolls undisturbed by traffic and the populace.</p>
+
+<p>"Owns Woodford's," Mc Hugh explained, "jointly with his brother Robert. You can't tell what quirks an old fossil like him will have. They say he hasn't been off his place for fifteen years. Wish we had Robert to dicker with."</p>
+
+<p>Quaile nodded. The younger brother was a successful broker who had added radically to his share of the estate. Moreover, he had never displayed Josiah's reluctance to amiable spending. For many years he had been a familiar figure in the world and a scourge to ambitious mothers. Like Josiah, he was a bachelor.</p>
+
+<p>"I've made an appointment," McHugh said. "We're to go over there right away."</p>
+
+<p>He raised his voice:</p>
+
+<p>"Ethel! Tell 'em outside I've been called to the country."</p>
+
+<p>He led the way down a rear staircase to his limousine.</p>
+
+<p>WHEN they had alighted before the Bunce house, the manager's attitude borrowed something of the applicant's timidity. With Quaile at his side, he climbed the steps of the rusty brownstone dwelling and rang the bell.</p>
+
+<p>A gray-haired man-servant opened the door. In the dim hall light they could see only the servant's bent figure, clothed in a livery of remote beginnings.</p>
+
+<p>McHugh pushed past.</p>
+
+<p>"Mr. Bunce is expecting me. I am Arthur McHugh."</p>
+
+<p>The servant relaxed his attitude of repelling an assault. He conducted them down the length of the hall, and opened a door. McHugh entered. Quaile paused on the threshold.</p>
+
+<p>Bunce sat hunched forward in an elliptical pose. A shawl was draped across his rounded shoulders. His knees were covered with a rug, from beneath which his feet, in carpet slippers, protruded. But Quaile's attention was held chiefly by the faceunkempt, hairy, intricately wrinkled, out of which infused eyes gleamed with a suspicion equal to the servant's. His voice rose on a whining, nasal note. It carried a perpetual complaint.</p>
+
+<p>"You're not somebody else?"</p>
+
+<p>McHugh advanced fearlessly.</p>
+
+<cb n="2" />
+    
+<p>"Often as I've wanted to," he answered, "I've never been able to make a change. Suppose you're in much the same fix. Mr. Josiah Bunce, I gather."</p>
+
+<p>He tendered a cigar.</p>
+
+<p>"Put some fire to this torch, and we'll get to cases."</p>
+
+<p>Bunce, with a gesture of disgust, repelled the gift.</p>
+
+<p>"No smoking here. I have to keep reminding Robert of that."</p>
+
+<p>His voice sharpened.</p>
+
+<p>"Think he'd learn in the course of fifty years."</p>
+
+<p>He drew the shawl more tightly about his shoulders and coughed.</p>
+
+<p>"You made a draught coming in. So you're McHugh, the show man? People try to get to me on all sorts of pretexts. Agents say you want to rent Woodford's. If it's something else, understand, I haven't any money to throw away in your cheap shows. Sit down."</p>
+
+<p>Quaile and McHugh obeyed the explosive command.</p>
+
+<p>Bunce leaned forward.</p>
+
+<p>"Watson!" he called.</p>
+
+<p>The serving-man opened the door.</p>
+
+<p>"If my brother hasn't left," Bunce directed, "tell him to come down."</p>
+
+<p>When the man had closed the door, a little curiosity slipped into his voice:</p>
+
+<p>"What you want Woodford's for? Robert and I been talking it over. We'd decided there was no income there; nobody's made money in the house since Woodford died."</p>
+
+<p>An angry flush swept across his face.</p>
+
+<p>"Look here! You wasting my time to talk about moving pictures?"</p>
+
+<p>McHugh's jaw protruded.</p>
+
+<p>"Naw! How much time you think I got to throw away! Quaile here's brought 'Coward's Fare' up to date. Maybe you remember that play of Woodford's. I'm getting an expensive cast together&#8212;all the old people I can: Dolly Timken, who played with Woodford, and Mike Brody, his property-man forty years ago&#8212;all the sentimental slush I can think of. I'm going to make the old barn what it was, and with its own play. But I got to get good terms. You understand?"</p>
+
+<p>He placed the cigar he had proffered Bunce in his mouth and bit it savagely.</p>
+
+<p>QUAILE had seen memory stir in the old man's eyes at the mention of the play.</p>
+
+<p>"That's different," Bunce said. "That was a first-class play. I used to have a chair at Woodford's two or three times a week forty years ago."</p>
+
+<p>This crouched and slovenly figure in a theater was an anomaly before which Quaile's imagination halted. Yet, as he watched a real enthusiasm increase in Bunce's manner, he became confident that the threatened difficulties would not materialize. McHugh must have caught the same symptoms; for he let Bunce ramble on, while it became evident that his remembrance of Woodford's was one of his choicest inheritances from youth. He had been proud to own a share of the theater in its brilliant period. He had regretted its decline, beginning with Woodford's death. He had always hoped it might return to its own. He appreciated that McHugh offered fulfilment.</p>
+
+<p>"Might take a seat myself," he grinned.</p>
+
+<p>"What about your brother?" McHugh asked.</p>
+
+<p>"He leaves such things to me. I told you I'd been talking to him. The boy'll do what I say."</p>
+
+<p>The door opened. A new atmosphere, pretentious and incompatible, disturbed the tawdry room. Quaile smiled. The "boy" who stood in the doorway was, at a hazard, sixty-five years old. He wore evening clothes. His handsome face, with a grizzled mustache, was distinguished.</p>
+
+<p>"There's no point," the newcomer said dryly, "in my intruding. Children should be seen and not heard."</p>
+
+<p>The elder Bunce's shawl fell, neglected, to the chair arms.</p>
+
+<p>"You come in, Robert. Your parties can wait a minute. These gentlemen have brought a surprise. They're going to take 'Coward's Fare' hack to Woodford's."</p>
+
+<cb n="3" />
+    
+<p>"Sounds familiar," Robert mused. "Oh, yes; to be sure. Doubtless I should rejoice. Sorry I must limit my enthusiasm. I have an appointment with some other bald-headed boys. Here, Watson, help me with my overcoat."</p>
+
+<p>"It's going to be a fine thing," McHugh put in. "Full of atmosphere. That pulls everybody, if you play it up right."</p>
+
+<p>"Seems promising," Robert answered, buttoning his coat. "If I remember, wasn't there rather too much atmosphere the last time they had it open?"</p>
+
+<p>"What you mean?" McHugh asked.</p>
+
+<p>THE general gossip and Carlton's talk flashed back to Quaile's mind. He saw the elder Bunce stir uncomfortably.</p>
+
+<p>"You mind your own business, Robert. He will have his joke, Mr. McHugh. Don't you fret about that. It was just some talk among the players about Woodford's being a little jealous."</p>
+
+<p>McHugh stared.</p>
+
+<p>"Jealous! He's been dead forty years."</p>
+
+<p>Robert laughed.</p>
+
+<p>"Isn't that atmosphere? No old building complete without it. See that we get our price for that, Josiah."</p>
+
+<p>He smiled at McHugh.</p>
+
+<p>"I'm renting a theater," McHugh grinned. "The air inside comes free."</p>
+
+<p>"Arrange it with elder brother," Robert said. "I'm off."</p>
+
+<p>He nodded and hurried out briskly.</p>
+
+<p>"Don't you worry," Josiah complained. "Lease will be ready in the morning. You can fix details with the agents."</p>
+
+<p>He displayed an eagerness to discuss McHugh's plans. He showed real regret at their departure.</p>
+
+<p>Quaile stopped McHugh as he was entering his limousine.</p>
+
+<p>"Bunce seemed actually frightened at that nonsense," he said. "You've heard superstitious talk about Woodford's?"</p>
+
+<p>"I dare say. Natural enough&#8212;any old place. Nothing to remember."</p>
+
+<p>"I saw Harvey Carlton this afternoon," Quaile said, a little abashed at the necessity of repeating such a conversation. "He spread himself on rumors that Woodford's influence survived down there. Seemed to take it seriously, on the whole. It's worth thinking about. I mean, there's no use getting trouble-makers in the cast. There's a lot of talk about that stock company forfeiting its lease five years ago."</p>
+
+<p>McHugh only laughed. He sprang into the limousine and slammed the door. As he drove off he turned back to Quaile his grinning face, which marvelously retained a pendulous cigar.</p>
+
+<p>NEXT day, nevertheless, the unexpected intruded once or twice, and startled even the matter-of-fact manager.</p>
+
+<p>Quaile spent most of the afternoon in the office, completing with McHugh the casting of the piece. Mike Brody had reported, and gone down to Woodford's with a squad of electricians. He had already sent word that there was little to be done, since the wiring had been modernized five years before. The manager had promised Quaile they would visit the theater and inspect it for themselves as soon as their task was completed.</p>
+
+<p>It was late when Quaile saw Mike enter and go through to the private office.</p>
+
+<p>More than sentiment had urged McHugh to engage the old man. He had worked for McHugh off and on for many years. He understood and fitted easily into the manager's system.</p>
+
+<p>Within five minutes McHugh was roaring for Ethel. She went in, returned, and nodded to Quaile.</p>
+
+<p>"Boss wants you."</p>
+
+<p>Quaile opened the door and stepped in. The manager sat back, facing Mike. The property-man leaned against the wall, unwilling to meet McHugh's tempestuous glance, picking at his cap.</p>
+
+<p>"What do you think, Quaile? The old numskull wants to quit on me. Aren't you ashamed of yourself? 'Cause I'm going to give you away to Mr. Quaile."</p>
+
+<p>Mike made an embarrassed appeal:</p>
+
+<p>"I only told him, sir, that I thought maybe I'd better not take on the job."</p>
+
+<p>"I understood," Quaile said, "that you 
+    
+<cb n="4" />    
+    
+were pleased at the prospect of going back."</p>
+
+<p>"Yes, sir, I was. I had some of the best times of my life when I was a kid at Woodford's; but that's been forty years, and&#8212;" He broke off and returned to the restless fingering of his cap.</p>
+
+<p>"First time anybody ever wanted to resign on me," McHugh said in a hurt tone. "Fall down on your job once, Mike, and you won't have to wait to resign. What do you think's biting him, Quaile?"</p>
+
+<p>"Somebody's offered him more money."</p>
+
+<p>McHugh burst into laughter.</p>
+
+<p>"No. I'm the best pickings in the business. Old fool's afraid of Bertrand Woodford."</p>
+
+<p>Quaile joined in the mirth.</p>
+
+<p>"Do you know how long he's been dead, Mike?"</p>
+
+<p>"When he's got me," gasped McHugh,&#8212;"a real live one, to be scared of, he's afraid of Woodford's spook."</p>
+
+<p>The manager's antidote was powerful. A reluctant grin appeared on Mike's face.</p>
+
+<p>"I didn't say that, Mr. McHugh. Maybe you're right, though. If you want me, I'll stay."</p>
+
+<p>"Go on, Mike," the manager said good-naturedly. "Wait for us downstairs. Mr. Quaile and I will go to Woodford's with you in a minute. We want to see what's been done."</p>
+
+<p>But, when the man had left, McHugh turned a puzzled face to Quaile. With a thoughtful air he drew on his unlighted cigar.</p>
+
+<p>"Guess you had the right dope last night, after all," he admitted. "Got to keep our eyes open and make it cheerful at Woodford's."</p>
+
+<p>"Surely," Quaile said, "Mike isn't such a fool as to think he saw anything?"</p>
+
+<p>"No. But Mike's pretty old. I guess it took him back to go into that barn after forty years. He didn't say anything you could put your finger on. Was just frightened. Said it was dark and cold, and he couldn't help thinking of his old boss&#8212;seemed like he stood by him all the time. Say, I never realized what a disagreeable devil Woodford was. Mike says he used to limp around&#8212;seems he had rheumatism a lot towards the last&#8212;being as nasty to people as he could. Going there today certainly put him on Mike's mind. Got to talking about the night he died. Says Woodford worked himself to death because he was too jealous to let anybody play his part."</p>
+
+<p>"That's about what I hear," Quaile said. "Did Mike mention anything about a cat&#8212;the way it acted the night of Woodford's death?"</p>
+
+<p>McHugh looked up.</p>
+
+<p>"Mean to say Carlton gave you that, too?"</p>
+
+<p>"Yes. Mentioned it&#8212;as he said, it's funny the way these foolish stories cling!"</p>
+
+<p>McHugh arose.</p>
+
+<p>"I've laughed Mike out of it, anyway. I may take a shot at Carlton. You know,  Mike was honestly afraid something might happen to him down there. Come on; let's go."</p>
+
+<p>They joined Mike on the sidewalk, entered McHugh's automobile, and drove to Woodford's.</p>
+
+<p>THE night had descended by the time they arrived at the theater, but the glitter of the street lights was deceptive; it softened the scars of the old building.</p>
+
+<p>"Where's Tommy Ball?" McHugh said. "I told Tommy Ball to meet me here."</p>
+
+<p>A young man, too sedulously clothed, deserted his contemplation of a shop window and stepped forward. Quaile recognized McHugh's assistant stage-manager&#8212;a youth who always amused him by his fervent efforts to copy his employer's eccentricities.</p>
+
+<p>"Been in yet, Tommy?" McHugh asked.</p>
+
+<p>"Not since noon. But I don't guess you'll find a whole lot to do."</p>
+
+<p>Mike thrust his hand in his pocket, producing a heavy, old-fashioned key.</p>
+
+<p>"Stage entrance is this way, Mr. McHugh."</p>
+
+<p>He led them, not very eagerly, into a narrow alley that penetrated the block between the theater and a loft building. The end was blocked by a high board
+
+<pb n="Page 5" xml:id="ew.issue.19160522.p005" />
+
+<figure n="illustration">
+<head></head>
+<p>"'It was just some talk among the players about Woodford's being a little jealous.' McHugh stared. 'Jealous! He's been dead forty years.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="1" />
+
+fence. Mike unlocked an iron door. The creaking of the hinges echoed from a black and cavern-like space. Quaile sniffed. He breathed with distaste, for the alley had filled with a dank, insufferable odor that he could not describe. The air, imprisoned at the last closing of the door, rushed out of Woodford's as if eager to escape.</p>
+
+<p>A match scraped. Its flame flickered on Mike's wrinkled face, which wore for Quaile an expression of disapproval, of positive disinclination. The property-man stooped, fumbled within the door-way, and found a candle, to which he applied the match.</p>
+
+<p>"Better not let the fire department catch you at that," McHugh warned.</p>
+
+<p>Quaile wondered if the manager noticed the shaking of the candle in the knotted hand. </p>
+
+<p>"Get in there," McHugh directed, "and switch on your kitchen border, so we won't break our necks. Place smells like a one-night stand."</p>
+
+<p>Quaile's eyes became a little accustomed to the darkness. He could see that a nebulous reflection from the street entered the alley. It reached him with a sense of companionship.</p>
+
+<p>Then light flashed in the cavern, illuminating vast spaces, and Mike's voice came:</p>
+
+<p>"All right, Mr. McHugh."</p>
+
+<p>And they entered those spaces, and, oppressed by their emptiness, stood for some time, ill at ease, attentive.</p>
+
+<p>THE single row of lights depending from the flies gave scarcely more than a suggestion of form to the auditorium and the two galleries. The seats, shrouded with gray cloths, impressed Quaile with a fancy of standing in a huge improvised mortuary.</p>
+
+<p>The stage was brighter. He could see the dingy walls, the circular staircases mounting to dressing-rooms and fly 
+    
+<cb n="2" />    
+    
+galleries, a small door which almost certainly led to the auditorium.</p>
+
+<p>"Don't build stages like this nowadays," the manager said with admiration. "Could give a three-ring circus here. Tommy, you've got the lists. You and Mike run over to the storehouse in the morning and chase that furniture in. Company's called for four o'clock. Mr. Quaile's going to read the script to 'em right on the stage, just like old Woodford done. This engagement's going to be all-fired artistic."</p>
+
+<p>His sudden blatant laugh set Quaile's nerves on edge. It jeered at the empty spaces, the shrouded seats. It did not belong here. Nor did McHugh persist in it. He found another cigar and inserted it between his lips. His keen glance took in everything.</p>
+
+<p>"Come through here, Quaile. Let's have a peep at the auditorium."</p>
+
+<p>HE walked to the little door which Quaile had noticed, and opened it. Quaile saw Mike and Tommy start toward the stage entrance.</p>
+
+<p>He understood, but McHugh pretended not to.</p>
+
+<p>"Where you and Mike going, Tommy?"</p>
+
+<p>"By the stage door, sir. It's pretty damp in here."</p>
+
+<p>"All right," McHugh said, "but I want you within call."</p>
+
+<p>Quaile followed the manager into the passage. A certain amount of light entered with them, and a little more, diffused from the auditorium, showed at the other end. The passage was surprisingly constricted. It was necessary to walk single file. He gathered from its length&#8212;probably seven or eight paces&#8212;that it ran behind the boxes.</p>
+
+<p>"Wouldn't be much use," he commented, "as an exit by way of the stage in case of fire."</p>
+
+<p>His voice was magnified in the meager space.</p>
+
+<cb n="3" />
+    
+<p>"Building meets the fire laws," McHugh, always practical, answered.</p>
+
+<p>They reached the auditorium, whose boundaries appeared to recede before them. After a glance at the farther shadows, in fact, McHugh contented himself with a casual inspection of the woodwork and the draperies near at hand.</p>
+
+<p>"Agents didn't lie," he said with satisfaction; "and my own men gave me the right dope."</p>
+
+<p>He walked down the aisle, thrust aside one of the gray cloths, and sat in the front row. He looked around.</p>
+
+<p>"Not bad," he grunted.</p>
+
+<p>Quaile joined him.</p>
+
+<p>"FUNNY," McHugh went on, "how a little gold dust thrown in people's eyes will make them see millions. The place was fixed up five years ago. Now a few new hangings and a little tinsel on the box-fronts&#8212;it's a cinch. Why you so talkative, Quaile?"</p>
+
+<p>Quaile glanced at the manager. He saw nothing to be gained by denial. The emptiness and the pervading desolation of Woodford's had affected him profoundly.</p>
+
+<p>He had never seen a theater in this condition before, its machinery hidden or removed. He had a feeling of having invaded the shell of a thing long dead, quite beyond resurrection. The sepulchral dampness gave the final impetus to his bad humor.</p>
+
+<p>"Frankly, McHugh," he said, "I begin to understand how these unwholesome stories start. Such an atmosphere as this has things to say to the ignorant and the superstitious. I hope I'm neither, but it does get on my nerves more or less. I mean, I quite understand why Tommy and Mike prefer the alley entrance."</p>
+
+<p>"They'll have to get over it. Place feels all right to me."</p>
+
+<p>McHugh's voice rose in a gigantic sneer: "Woodford's ghost! A fine chance for a ghost around my theater!"</p>
+
+<cb n="1" />
+    
+<p>To Quaile it was almost as if a challenge had been accepted&#8212;as if the shadows had suddenly gathered strength to smother the row of gleaming lights. Without warning they expired. He could feel the pit-like blackness rush upon him.</p>
+
+<p>McHugh's hand touched his arm, then was snatched back. The manager's voice rose angrily:</p>
+
+<p>"What the devil? Mike! Mike! Get in to the switchboard. Switch something on. Don't bother about your candle."</p>
+
+<p>As if the darkness had opposed a barrier, Tommy's exclamation and Mike's response reached them faintly. They heard the old man start on the stage. What followed seemed to Quaile at the moment inevitable. Through the black and heavy air Mike's cry arose, hoarse, difficult, half strangled by an irrational fear. It gathered itself into three words, almost unintelligible:</p>
+
+<p>"My God! Woodford!"</p>
+
+<p>QUAILE shrank back. Just across the blind footlights, almost within hand's reach, he heard dragging footsteps and a curious, stealthy padding.</p>
+
+<p>He bent forward, staring impotently at the solid wall of blackness. The talk he had heard, the misgivings he had witnessed, threw upon that wall, as upon a screen for his imagination, an unthinkable picture. For the dragging footsteps continued to stray across the stage&#8212;the footsteps of one who limped; and in the interval of their painful progress came a furtive pattering, like the almost noiseless pursuit of a cat.</p>
+
+<p>Quaile remained rigid. He was aware of McHugh's breathless tensity beside him.</p>
+
+<p>Then, as abruptly as they had started, the footsteps ceased; and from the wings, where Mike had cried out his impossible fear, came a low sob, choked and formless.</p>
+
+<p rend="jumpline"><ref target="camp.19160529">To be continued next week</ref></p>
+
+</body>
+</text>
+    
+<pb n="Page 6" xml:id="ew.issue.19160522.p006" />
+
+<text type="nonfiction" xml:id="barton2.19160522">
+<body>
+    
+<head type="main">To a Mother Who Does Not Want Her Boy to Be Shot</head>    
+<byline>By <persName type="author" key="#Barton, Bruce">BRUCE BARTON</persName></byline>
+
+<cb n="1" />
+
+<p>AT seven o'clock on the morning of August 5, 1914, I firmly believed that there would never be another great war in the world.</p>
+
+<p>Little wars&#8212;yes. Wars such as ours in the Philippines; police expeditions to bring order in the less civilized portions of the earth. But never again would one great nation hurl itself against another. They might bluster, but they would not fight. Mankind had progressed beyond that stage. We had read history: we could figure costs. We knew&#8212;we modern men&#8212;that no nation could possibly win advantages from a war sufficient to compensate it for the cost of war in money and blood.</p>
+
+<p>I belonged to peace societies.</p>
+
+<p>I had written scathing editorials denouncing the armor trust magnates who financed the Navy League.</p>
+
+<p>I had written articles showing how many school-houses, and miles of good roads, and widows' pensions could be provided out of the cost of one battle-ship; how many college educations were burned up in smoke every time our fleet in target practice fired a broadside.</p>
+
+<p>One of my boyhood friends had decided to go to West Point. I could not understand it. That any man with red blood in his veins should deliberately choose an outworn and useless career, when there was so much real work to do in the world&#8212;to be a uniformed parasite, a dancing partner at official functions, when the problems of social justice were all crying for solution&#8212;it seemed to me incredible. I told him so: all his arguments were mere nothings in my ears. He talked of fighting with cannon, in an age when the world was almost ready to throw all of its cannon into the sea.</p>
+
+<p>This was my mental attitude about war when, on August 5, 1914, I got into my runabout and drove down to the little New England village where I spend my summers to buy a copy of the Boston <hi rend="italic">Post.</hi></p>
+
+<p>And in the headlines I discovered that the horror which I had believed could never happen had actually come to pass.</p>
+
+<p>In the year and three quarters that has followed T have done a lot of thinking: I have learned a good many truths. I want to set these down, very briefly. And I do it, not as an editor or a writer, but simply as one average young American, the father of a boy.</p>
+
+<p>We shall never settle the great problems that face the United States to-day unless some of us speak out frankly for the rest of us. My excuse for speaking is that there must he 5,000,000 young men in the United States who have gone through the same mental processes as I.</p>
+
+<p>I am still a member of peace societies: but I no longer believe that the world will be argued into peace.</p>
+
+<p>"I am old, cheerful, gouty, good-humored," wrote Frederick the Great in his last years to Voltaire. "For the future I can not vouch. Running over the pages of history, I see that ten years never pass without a war. This intermittent fever may have moments of respite, but cease, never!"</p>
+
+<p>Why?</p>
+
+<p>Pacificists have told us that when nations can be made to realize the terrible costs of war, when by travel and intercourse they can come to know and understand each other, then there will be no more war.</p>
+
+<p>Yet, only a little more than fifty years ago, there was a war between two armies made up of brothers and cousins and fathers and sons. The men in those armies represented the highest civilization the world has produced; they well knew the cost of war. For three hundred years their families had lived together in the same country, speaking the same language, traveling into each other's homes, and intermarrying.</p>
+
+<p>Still, the Civil War was fought.</p>
+
+<p>The time came when, to the men of the North and the men of the South, an <hi rend="italic">ideal</hi> arose which seemed to them more 
+    
+<cb n="2" />   
+    
+important than friendship, or money, or life itself. And one brother went into one army, and another brother, into the other.</p>
+
+<p>I have thought a great deal about the Civil War this past year&#8212;and about other wars. I have come to realize that, whatever may be the <hi rend="italic">occasion</hi> of war, the <hi rend="italic">causes</hi> invariably he deep below the merely logical portion of men's minds. "The strength of the fighter," as F. S. Oliver in his book, "Ordeal by Battle," says, "is the strength of his faith. Each new Gideon who goes out against the Midianites fancies that the sword of the Lord is in his hand. He risks all that he holds dear in order that he may pull down the foul images of Baal and build up an altar to Jehovah, in order that his race may not he shorn of its inheritance, in order that it may hold fast its own laws and institutions, and not pass under the yoke of the Gentiles. This habit of mind is unchanging throughout the ages. When men fight in this spirit, the most lucid exposition of material drawbacks is worse than useless; for the national mood is one of self-sacrifice."</p>
+
+<p>I used to think that by going to church men would learn to live without war: now I believe that <hi rend="italic">as long as men go to church</hi>&#8212;as long as ideals are held sacred&#8212;there will be war. As long as a man will strike out blindly, instinctively, in defense of his wife, instead of calmly telephoning the, police, there will be war.</p>
+
+<div1><head type="sub">Facts Not in the School Histories</head>
+
+<p>WHATEVER may be in the minds of the leaders of armies, the soldier in the ranks is never there for selfishness. It is <hi rend="italic">the best</hi> that is in him which makes him fight; not the worst. The battle-field, for him, is in truth the field of honor.</p>
+
+<p>He has found an ideal so compelling that, if need be, he must die for it. Churches can not preach that spirit out of men. It is the spirit of their Master, who by merely running away into  Galilee might so easily have lived, and who chose rather to die.</p>
+
+<p>In the second place, I have learned a great many things about our own former wars. I have read several military histories of the United States. There are a good many facts in these military histories which the more "patriotic" school histories found it convenient to overlook.</p>
+
+<p>Let me set down a few of them:</p>
+
+<p>The Revolutionary War ought to have been won in a few months, and with little bloodshed. In that war we enlisted 395,858 men: the entire British force, froth first to last, was only about 150,000. Yet the war dragged on for seven years, cost thousands of lives, millions in money, and would have continued even longer but for the timely&#8212;and never fully requited&#8212;assistance of the French.</p>
+
+<p>Why? Because, though 395,858 men came forward bravely to enlist, our preparations were so faulty, our equipment so bad, and our conduct so inefficient that Washington was never able to assemble more than 17,000 of those 395,858 men for effective service at any one time; and at Trenton and Princeton, when the fate of the cause hung in the balance, his effective strength was less than 4000.</p>
+
+<p>We entered the War of 1812 on a wave of righteous anger. England had utterly disregarded our rights on the seas, refused to recognize the validity of American citizenship, and impressed no fewer than 5000 of our men for service on English ships. "On to Canada!" was the cry. We expected immediately to defeat the English forces and "make peace in Quebec."</p>
+
+<p>We ought to have finished the war off in a twinkling. We enlisted for service 527,654 men: the British had a force of somewhere between 20,000 
+
+<cb n="3" />
+   
+and 55,000 regulars and 10,000 Indians. Yet it required three years and the lives of thousands of our men to fight that war; and&#8212;with the exception of Andy Jackson's battle behind the cotton-bales at New Orleans, which came after the conclusion of peace&#8212;we won only one decisive victory: the battle of the Thames, where the force against us was 800 men.</p>
+
+<p>A few thousand English regulars landed on the shores of Chesapeake Bay, marched unhindered to the outskirts of Washington, defeated four times their number of our troops, entered Washington, and burned the Capitol.</p>
+
+<p>It has been said by competent authorities that if the United States had had an organized army of 75,000 men in 1860 there would have been no Civil War. Such a force could have stamped out rebellion before it had time to organize. But Congress, learning nothing from previous wars, had kept our army at a useless minimum and wholly unequipped.</p>
+
+<p>Instead of ending the Civil War quickly, we used 2,673,341 men to fight a Confederate force that was never greater than 1,500,000 and probably nearer 1,000,000. We sacrificed thousands of men, paid $5,371,079,778.28 in money, and have already paid almost that much in pensions.</p>
+
+<p>Napoleon, after some practice, discovered that he could embark 130,000 men in boats with full equipment in three hours. In the Spanish-American War it took us three weeks to land a force of 6000 men in Cuba, and it was two weeks more before we were able to land three days' provisions.</p>
+
+<p>With the further unhappy details of our inefficiency in that war and the Mexican War and our Indian campaigns I am not now concerned. They are all written in such volumes as Huidekoper's "Military Unpreparedness of the United States," and he who seeks them will find enough to make his heart sick. They all point to one conclusion:</p>
+
+<p>Thousands and thousands of American lives have been ruthlessly sacrificed in the past hundred and fifty years&#8212;not by the "militarists," who have demanded adequate preparation for war, but by the "pacificists," who, refusing to take any precautions until the danger was actually upon them, have sent untrained and unequipped men to be fed to the cannon.</p></div1>
+
+<div1><head type="sub">A Preparedness Program for Boys</head>
+
+<p>I HAVE been thinking about writing this article for several months: but yesterday I received a letter from a mother which made me determine to write it at once&#8212;now.</p>
+
+<p>It was a long letter. She asked me to use my influence as an editor against the "mad, un-Christian campaign for a big army and navy that is sweeping the country." And she ended her letter thus:</p>
+
+<p>Are you a father? Would you want your boy to be shot?</p>
+
+<p>I am a father. I have a boy. I would not want him to be shot. As nearly as I can plan it out, this is what I <hi rend="italic">should</hi> like to have happen to him: </p>
+
+<p>As soon as he is old enough to walk alone I should like to have him join the Boy Scouts. First, because I want him to be physically strong, and the Boy Scouts Wain boys to be strong; but also because I want him very early in his life to learn discipline, to learn an ideal of service for others, to realize that there is a nobler standard by which to determine conduct than the merely selfish consideration of his own convenience.</p>
+
+<p>When he goes on through school and college, I should like him to be a member of a military organization of which every other boy was also a member. I should like him to be a private first, so that he 
+    
+<cb n="3" />    
+    
+might learn obedience and the value of team-work; and an officer later, so that he might learn to handle men.</p>
+
+<p>While he is being taught discipline and books, I should like him also to be taught a trade. And, when his schooling was over, I should like to have him&#8212;with every other boy of his age&#8212;spend one year in out-of-door camp life, under discipline. It would mean health to him; it would mean more&#8212;he would finish that year with a broader patriotism, a finer ideal of service.</p>
+
+<p>Is that militarism? Is that undemocratic? Is that "retarding progress by sacrificing one year out of every young man's life"? Is Switzerland militaristic? Is France undemocratic? Has France contributed less to civilization in the years since her young men began to be trained as well as schooled? One eminent English observer who saw the crowds of sallow-cheeked, flat-chested youths marshaled into the ranks a year ago, and saw them again six months later, their cheeks full, their muscles hard, remarked:</p>
+
+<p>"What a pity that any one of them has to be killed! This six months of physical training and discipline has regenerated England."</p></div1>
+
+<div1><head type="sub">What This Program Would Do</head>
+
+<p>OUR boys enter business too young, anyway. I would gladly give owe year of my boy's life if he could enter business, not a boy, but a trained, disciplined, hard-muscled man.</p>
+
+<p>And what I should like for my own boy I should like also for every boy in the land. What would it result in&#8212;a "preparedness program," if you want to term it such, like this?</p>
+
+<p>It would, first of all, banish corner loafers from the United States, Loafers are the untrained, the undisciplined, the economically wasteful, who consume more than they produce. A nation in which every young man was trained would have no loafers.</p>
+
+<p>It would decrease the nation's doctor bills by half.</p>
+
+<p>It would abolish two thirds of our jails. The truest, most profound legal maxim ever uttered is this: "Satan finds some mischief still for idle hands to do." Well men, strong, men, who have a job in life for which they are well trained, do not go to jail.</p>
+
+<p>If one were to compute the cost of such a system of preparedness, and set down against that cost <hi rend="italic">the profit</hi> in moral and physical health, and the increased efficiency and happiness of our people, we should hear no more of the "extravagance of preparedness."</p>
+
+<p>But would such preparedness prevent war? Would it save, the boy of the mother whose letter I have quoted from being shot? Would it save my boy?</p>
+
+<p>No preparedness can be certain of preventing war. No man can say -that the time will never come again when the soul of this nation will be so deeply stirred that even wards preferable to continued dishonor. No 'man can say that the time will never come when we shall be attacked. But if war is forced on us, and there are 12,000,000 trained, disciplined young men <hi rend="italic">ready</hi> and <hi rend="italic">equipped</hi> before the war, it will not be a long war. And, so prepared,. I can not believe any nation would be so foolish as to attack us. If my son is killed, yours will not be. We shall not waste a hundred men&#8212;as in previous wars&#8212;for every one whose sacrifice is needed.</p>
+
+<p>This is the kind of preparedness for peace to which my mind has come back again and again in the past six months. If&#8212;as I believe&#8212;there are a good many million other young men who by similar processes have arrived at somewhat similar conclusions; if, little by little, our thought can take shape in definite national action: it means that we are standing on the threshold of a day that will see a miracle wrought in the physical, mental, and spiritual efficiency of the United States.</p></div1>
+
+</body>
+</text>
+    
+<pb n="Page 7" xml:id="ew.issue.19160522.p007" />
+
+<text type="nonfiction" xml:id="twocentstamps.19160522">
+<body>
+    
+<head type="main">Children Sold for 2-Cent Stamps</head>    
+
+<cb n="1" />
+
+<p>REMEMBER the days when you spent every spare half dollar for postage stamps from the approval sheet of some mail-order company? When your album was a source of envy among other collectors in the neighborhood? And when you waxed wrathful because baby brother snooped around and glued a pictorial two-peso Salvador to the house cat's left ear?</p>
+
+<p>Like other youth of the land, Walter Horton, a sturdy New England lad, became interested in this hobby. When he was thirteen years old he purchased an eighty-page album, three hundred foreign specimens as a 
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from E. B. Perkins.</ab>
+<p>Walter Horton is a missionary who does not preach. He only practises; and it isn't his regular job, either.</p>
+<figDesc></figDesc>
+</figure>   
+    
+nucleus, and some onion-skin stamp hinges. Young Horton proved himself an enthusiast from the very start. For many years he collected all shapes, colors, and varieties,&#8212;foreign and domestic, until he had filled a brace of good-sized albums.</p>
+
+<p>Then, as does the average hobbyist, he laid away his stamps and became engrossed in university life. He attended St. John's College in Montreal, and finished the law course there. Returning East soon afterward, he assumed a position with one of the leading Wall Street legal firms.</p>
+
+<p>Horton continued as a practising attorney, while amateur and professional theatricals gradually developed as his pastime. In this photograph he is shown in ministerial garb as he appeared in a stage production several years ago. During his dramatic activities, he met a Presbyterian young woman who had taught English grammar in a Chinese mission school in Shanghai. She mentioned that various missionaries throughout the celestial kingdom were always anxious to receive canceled stamps from the United States, since this form of post- age could be used to advantage in securing parental permission for children to be educated in the schools.</p>
+
+<div1><head type="sub">An Unusual Idea</head>
+
+<p>RECALLING his stamp-gathering days, Horton hit upon a most unusual idea, which he has since carried out with pronounced results. His achievement has never been recorded in any philatelic or religious magazine. To stamp faddists he is totally unknown. But to scores of mission workers scattered throughout China he is a sort of fairy godfather.</p>
+
+<p>For Horton is again a collector&#8212;on a wholesale basis. He obtains thousands of canceled stamps, generally gratis, from janitors in big office buildings in New York, who cut them off envelops in wastepaper trash and stuff them in small gunny sacks for Mr. Horton to collect. He makes the rounds every few days, gathering the stamps, mostly of the one-, two-, and four-cent denominations. In spare time, at his apartment, he soaks them in a huge basin of warm water to separate them from the envelops and wrapping paper. After they have been dried on blotting pads, he sorts and counts out the stamps in bunches of one hundred.</p>
+
+<p>Mr. Horton sends these stamps, in shipments of five thousand or more, to Shanghai. From Shanghai they are distributed to numerous missionaries, who use them as payment for the release of children from home ties, in order that 
+    
+<cb n="2" />    
+    
+they may be reared and educated amid Christian surroundings. Along the Yangtse-Kiang, five hundred canceled two-centers will secure a parent's consent for a boy or girl to enroll in a mission school.</p>
+
+<p>The natives use the stamps for decorating their houses. In all types of patterns and designs the stamps are pieced and pasted&#8212;upon the walls, on the tableware, to the ceilings, and on furniture.</p></div1>
+
+<div1><head type="sub">Chee Tong's Coat</head>
+
+<p>AN interesting person is Chee Tong, a grizzled shopkeeper of Shanghai, who wears a richly embroidered mandarin jacket, the sleeves of which are silk with an Oriental design of American postage stamps. His son, Su Gow, is studying to be a language professor at one of the schools in the foreign colony.</p>
+
+<p>Mr. Horton receives no salary whatever for his work, and he is not affiliated with any missionary organization. He finds his happiness and reward when letters reach him from across the Pacific. Mission workers thank him over and over again, and mention how various children have been adopted into the wholesome environment of Christianity. Occasionally a post-card written in broken English reaches him from some little Chinese girl or boy who, thanks to his efforts, has been released from an existence of drudgery.</p>
+
+<p>Writes a missionary from Tungchau, an interior post near the Hoang-Ho River: "Your canceled stamps have saved many a helpless child in this territory. The formality of making payment of a few hundred canceled stamps puts the parents in an amiable mood. In their eyes, a strict business transaction has been made. Consequently, a double purpose is accomplished. The parents, quite satisfied, use the stamps for decorative art. The children go into mission homes, and are reared into worth-while womanhood and manhood."</p></div1>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="ragtime.19160522">
+<body>
+    
+<head type="main">They Iron Best in Rag-time</head>    
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from J. R. Schmidt.</ab>
+<p>Music with your meals has nothing on music at your job, say these Ohio workers.</p>
+<figDesc></figDesc>
+</figure> 
+    
+<cb n="1" />
+
+<p>THE reason why so much work has been done in the world is that most people have sung at it. The peasants in the field and at their looms, the fishermen at their nets, have made the folk- music of nations. Stokers working under great strain in the holds of great ships sing long ballads and work in time with it; factory girls sing rag-time and adapt it to the rhythm of their machines when the boss isn't at hand. The housemaid caroling "Silver Threads Among the Gold" while she shakes the duster out of the window is only one small indication of the truth that it's rhythm that makes the world go round; and Mose Strauss is the latest fellow to rediscover it.</p>
+
+<p>Mr. Strauss runs a big dry-cleaning establishment out in Cincinnati, and, as his employees say, he "jollies them along with music." Every time the phonographs throughout the big dry-cleaning 
+    
+<cb n="2" />    
+    
+establishment begin playing lively ragtime music, the whole factory of 300 or more employees takes on new life and there is more "pep" put into work than half a dozen foremen could produce.</p>
+
+<p>Strauss says that if his workers hear the lively music at frequent intervals they are not only happier at their work, but that they can turn out a third again as much. He knows this from experience, having tried both ways, and now conies out strong for the phonographs to play "speed-up" music at frequent intervals all through the working hours.</p>
+
+<p>Only the liveliest music is played on the phonographs. No dreamy waltzes or funeral dirges are allowed to creep in. Strauss finds that it pays to play the right kind of music, and under its influence his business has prospered so much that he now runs the biggest dry-cleaning factory in town.</p>
+
+</body>
+</text>
+    
+<text type="nonfiction" xml:id="odds.19160522">
+<body>
+    
+<head type="main">With All the Odds Against Them</head>
+
+<cb n="1" />
+    
+<p>WHEN Mrs. Caveman would toss her head and declare that her last spring's motor-coat was quite too impossible, Mr. C. used to go out and hide behind a shady boulder. When an imitation fox or something wandered that way, he would brain it with one blow of his trusty club and fix up Mrs. C. in a jiffy. Then came "deadfalls," "twitch-ups," and other methods which killed the quarry almost instantly. But times have continued changing, and not for the benefit of the furry fauna. The highly developed twentieth-century man came along and devised the cruelest of all tortures for the taking of fur-bearers&#8212;the steel trap.</p>
+
+<p>The steel jump trap lies hidden in snow or underbrush, with its exposed bait tempting an inquiring paw. There is no human scent about to give the danger signal, for the trapper of to-day sets his trap wearing buckskin gloves and does not linger long about his snare. Probably morsels have been 
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from F. J. Dickie.</ab>
+<p>The fierce wolf is a coward at heart; he greets his captor with snarling fury.</p>
+<figDesc></figDesc>
+</figure>     
+
+<cb n="2" />
+    
+scattered at the same stop a few days previous to quiet the suspicions of the wily fox, the fellow that has never been known to be fooled twice in the same way.</p>
+
+<p>Along comes the future muff or neck-piece, and releases the deadly spring with his eager little paw. They are wonderful things, those springs, strong 
+    
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from F. J. Dickie.</ab>
+<p>The lynx has little cunning about traps; it struggles till worn out.</p>
+<figDesc></figDesc>
+</figure>     
+    
+enough to prevent the terrified animal from pulling himself loose, yet not so strong as to break the bone. In the latter event, the animal would gnaw himself free and limp to safety on his three remaining feet. It would not do to visit the traps too often, for the human scent would prove disastrous to the trapper's hopes; and, in any case, one man usually tends so many traps that many days necessarily elapse between visits. Thus the 
+
+<cb n="3" />
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from F. J. Dickie.</ab>
+<p>When fate overtakes the clever fox, he is apt to be philosophically resigned.</p>
+<figDesc></figDesc>
+</figure>
+    
+trapped animal usually dies of starvation, fever, or freezing.</p>
+
+<p>The Band of Mercy and other tender-hearted societies have frequently tried to enforce a law compelling trappers to make their round, every twenty-four hours&#8212;unsuccessfully, for obvious reasons. The raw fur trade in the United States exceeds $10,000,000 yearly. It is a hazardous business, and the men engaged in it are not anxious to go out of their way to decrease their income for any such consideration as lessening the suffering of a future collar-and-cuff set.</p>
+
+<p>The lynx blunders into the most carelessly arranged traps, and, while it struggles to the point of exhaustion, its endeavors do not seem guided by common sense.</p>
+
+<p>The wolf is fierce and dangerous, but has little cunning. The trap does not need to be perfect for him. But the advent of the steel trap seemed only to sharpen the wits of the fox. There are tales that he sometimes tips his death-machine over and trots gaily off with the savory bait after the trap is safely sprung.</p>
+
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19160522.p008" />
+    
+<text type="fiction" xml:id="thurston.19160522">
+<body>
+    
+<head type="main">The Order of the Day</head>
+<byline>By <persName type="author" key="#Thurston, Mabel Nelson">MABEL NELSON THURSTON</persName>
+</byline>
+<byline>Illustrations by <persName type="illustrator" key="#Pfeifer, Herman">Herman Pfeifer</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"'I won't ever forget&#8212;not ever, not ever!'"</p>
+<figDesc></figDesc>
+</figure>
+   
+<cb n="1" />
+
+<p>THE girl was small and meager, and her careful brown suit was small and meager-looking also: almost absurd, in fact, with that pitiful absurdity of yesterday's fashions. There were other things less apt to he noticed by a careless observer&#8212;courage, and a glint of laughter in the straightforward brown eyes; firmness in the line of the jaw, delicate though it was; a carriage that was by no means lacking in spirit.</p>
+
+<p>The house sat among its rhododendrons, behind its marvelous hedges and wrought- iron gates, with conscious arrogance. It was perfect of its kind, magnificent, isolated. The girl, catching sight of the number over the gate, gave a small gasp of dismay. She bad not expected anything quite so formidable. For a moment she could not Muster courage to pass through the wrought-iron tracery, and walked rapidly, by. Then she stopped.</p>
+
+<p>"<hi rend="italic">Coward!</hi>" she cried. This was to herself. Her next remark was to the house:</p>
+
+<p>"I'm not asking to governess <hi rend="italic">you!</hi>"</p>
+
+<p>And immediately upon the heels of that remark came a vision of a homely, sunny room strewn with boyish treasures, and three eager boyish faces bending over their play. It was, a shabby room; the servants' quarters of this house would have scorned to recognize it. Strange, the effect it had upon the girl. For, looking at the great insolent building with its windows veiled in laces and brocades, she murmured, "Oh, the poor little fellow!" And went straight up under the porte-cochére (which expressed its scorn of callers on foot all in vain, since she never noticed it at all), pressed the bell, and faced without a tremor the astonished being who opened the door.</p>
+
+<p>"I am Miss Dupré. I called in reply to Mrs. Grosvenor's note in regard to a governess."</p>
+
+<p>That placed her at once, and she was shown&#8212;carelessly&#8212;to a small reception-room in old rose and ivory and gold.
+She sat there for some time&#8212;twenty minutes, half an hour. Then she was summoned upstairs to more roses, this time blooming in French gray and silver.</p>
+    
+<cb n="2" />    
+    
+<p>The great house was very still; there were none of the sounds that every-day houses know so well&#8212;the tinkle of dishes; children's voices and scampering feet; somebody singing with half-spoken words; somebody dropping a pair of scissors, or opening a desk or drawer, or pulling a curtain up or down. The soft, pitying look deepened in the brown eyes.</p>
+
+<p>"Oh, poor house!" she was saying to herself. "Oh, poor, dead house! Why, you aren't living at all. You don't know what living is!"</p>
+
+<p>SHE sprang to her feet with a start at  the sound of a soft stir in the doorway, and stood waiting, her pale face flushed and her eyes darkening. It was a way she had when she saw beautiful things; and the woman in the doorway, in dull blue velvet and wonderful silver fox, was very beautiful at a first glance, and quick to detect the genuineness of admiration. Little Miss Dupré did not guess it, but it was that startled tribute that won her her position. It was not settled, of course, without words.</p>
+
+<p>"You are Miss Dupré? Be seated, please. You do not look old enough to have had much experience."</p>
+
+<p>"Only with my own brothers. There are three of them, so I know boys very well. And I have tutored for a year. I have references."</p>
+
+<p>A shabby little glove, the kid nearly worn through, but beautifully mended, offered the references eagerly. She remembered suddenly how very much she needed the place. A white-gloved hand waved the references away.</p>
+
+<p>"But you don't look <hi rend="italic">French,</hi>" Mrs. Grosvenor objected. "I advertised for a French governess."</p>
+
+<p>"I am American, but my grandparents were French. I always used to speak it with them&#8212;I learned as a child."</p>
+
+<p>A little half-breathless pleading crept into the clear voice; she had not allowed herself to doubt before, but&#8212;it was so very necessary, something to do.</p>
+
+<p>"Herbert is extremely high-strung and sensitive," his mother declared. "I don't know&#8212;"</p>
+   
+<cb n="3" />   
+
+<p>"I am so <hi rend="italic">used</hi> to boys," the clear voice urged. "I always get along with them."</p>
+
+<p>"I suppose," Mrs. Grosvenor said doubtfully, "I could try you for a month and see how Herbert gets along with you&#8212;one has to take chances. Will you ring that bell beside you? Thank you. Felice,"&#8212;to the maid who noiselessly presented herself,&#8212;"take Miss Dupré up to Master Herbert. You will come at ten o'clock to-morrow, Miss Dupré. And you understand that Herbert is not to be forced&#8212;he must be kept interested. I shall expect you to teach him by means of games and such things. You, of course, will understand that, since it is your business."</p>
+
+<p>Miss Dupré did not understand fully. The three noisy, eager little fellows at home had not been taught that way. But she answered promptly:</p>
+
+<p>"Thank you, Mrs. Grosvenor. I will do my very best. I hope I shall please you." And she added, which was not at all businesslike: "You see, I love boys <hi rend="italic">so!</hi>"</p>
+
+<p>Mrs. Grosvenor nodded a careless dismissal, and went down to her car. Miss Dupré, following Felice's pert little back, passed through more beautiful, silent, dead corridors, where the sunlight was shut out by shimmering silken hangings at the windows, and sound was shut out by deep, soft rugs, and life was shut out by&#8212;what? Money? Luxury? Miss Dupré could only guess. It was like a dream.</p>
+
+<p>Finally, up a second flight of stairs and down a third great hall, Felice opened a door. The windows here had no silken lids&#8212;only lace pulled aside to allow a narrow parallelogram of light.</p>
+
+<p>At one of those windows stood a boy, looking idly out. Felice's crisp voice snapped like a whip-lash:</p>
+
+<p>"Master Herbert! Here's your new governess. And Barker will come for you at four."</p>
+
+<p>THE boy at the window turned. Felice, entirely uninterested, vanished. The two left alone took measure of each other.</p>
+
+<p>The boy was thin, with a handsome, sullen, fretful face, and long, nervous, unboyish hands. He looked like some little wild thing, trapped and at bay. It was as if the soul of him realized in some dim way that it was missing its heritage, and was fighting blindly, desperately, for what it did not know. He strode forward and eyed the girl insolently.</p>
+
+<p>"I hate governesses," he declared. "I hate studies. I'm not going to study&#8212;I don't like you."</p>
+
+<p>The girl's brown eyes met his coolly. Inside, the woman-heart of her was aching with pity. She longed to gather him up in her warm, mothering arms&#8212;to turn him out into the sunlight, to get dirty, and race, and fight perhaps, and then at night to hold him close and tell him stories in the firelight, and finally tuck him in bed. But she had told the truth when she said that she knew boys. She looked him over; her eyes narrowed a bit.</p>
+
+<p>"I'm not at all sure that I shall like you, either," she remarked thoughtfully.</p>
+
+<p>The boy stared at her, startled.</p>
+
+<p>"Why, you've got to. You're my governess. You're"&#8212;where did he get that, at eight?&#8212;"you're paid to."</p>
+
+<p>"Oh, no, I'm not," she replied calmly. "That's something money can't buy, you know&#8212;liking people. I'm paid to teach you&#8212;that's all."</p>
+
+<p>"I ain't going to learn," he replied.</p>
+
+<p>"I wonder if you really can't," she said. "That would be too bad, wouldn't it?"</p>
+
+<p>"I could!" he cried in a fury. "I could learn anything if I wanted to. I just don't want to. That's why I won't&#8212;because I don't want to."</p>
+
+<p>She nodded. "I know," she said.</p>
+
+<p>A silence fell. The boy fidgeted, started 
+    
+<cb n="3" />    
+    
+toward the window, turned suddenly back, and planted himself before her.</p>
+
+<p>"You don't know how to!" he flamed.</p>
+
+<p>"How to what?"</p>
+
+<p>"Teach me."</p>
+
+<p>"Why, of course not," she agreed cheerfully. "Nobody can teach you."</p>
+
+<p>It was infuriating: it was like trying to beat water that slipped smoothly beneath one's touch and then flowed unconcernedly back again. The boy's delicate face reddened with rage.</p>
+
+<p>"I <hi rend="italic">hate</hi> you!" he cried. "I hate you, hate you, hate you! You're"&#8212;he sought for a vulnerable place, and stabbed fiercely&#8212;"you're homely&#8212;that's what you are; and your dress is awful!"</p>
+
+<p>The most annoying thing of all happened then. The girl's face changed. Little puckers came about the corners of her eyelids; her lips twitched; lights danced in her eyes. She was laughing.</p>
+
+<p>"That's so funny!" she said&#8212;only she didn't say it; it came out in ripples of laughter. "Oh, that's so funny! You're the funniest boy I ever saw."</p>
+
+<p>Something in him weakened treacherously at that friendly laughter. He never had heard anybody laugh like that before&#8212;not his father or mother or Felice or Barker, or the long trail of attendants and governesses who had, so far, made up his lonely little world. It sounded nice. He longed to laugh with her, but he frowned instead.</p>
+
+<p>"Why am I funny?" he demanded. "I <hi rend="italic">ain't</hi> funny. I'll tell my mother."</p>
+
+<p>He had done it now. A sudden faintness in Miss Dupré's staunch little heart frightened her. If he should&#8212;and she should lose this place! It was only a flicker; then she had control of herself.</p>
+
+<p>"Oh, yes, you are," she returned, with that confident friendliness of hers. "You see, you're' different from any boy I've ever known. Because"&#8212;the brown eyes twinkled again&#8212;"because <hi rend="italic">they all think I'm pretty.</hi> Maybe"&#8212;the audacity of it was almost too much for her&#8212;"maybe it's because you haven't seen me with my hat off. They have. I know," she looked at him pleasantly, "such heaps of boys."</p>
+
+<p>IT was horribly lonely, being left out. He had been so left out of a boys' world all his life. He <hi rend="italic">hated</hi> being different. And, besides, she wasn't homely. He took refuge in a hasty retreat to the second line of attack.</p>
+
+<p>"Anyway, your dress is ugly."</p>
+
+<p>She looked down at it. "Isn't it?" she agreed frankly. "I think so, too. I hate it. But then, you see"&#8212;did she believe it, herself?&#8212;"dress doesn't matter."</p>
+
+<p>"My mother thinks it does," he retorted unexpectedly.</p>
+
+<p>Miss Dupré caught her breath.</p>
+
+<p>"Oh, your mother&#8212;that's different. She goes to places where you need beautiful gowns. I don't. The boys like me better this way. It's better for frolics."</p>
+
+<p>"What frolics?"</p>
+
+<p>"All kinds. Soldiers, hunters, explorers. Louis's too old now. He"&#8212;she watched his face&#8212;"he's captain of the baseball team at school. But Duncan and Jack and their chums want to play."</p>
+
+<p>The boy burned to ask questions, wavered, almost yielded, suddenly hardened.</p>
+
+<p>"You said nobody could teach me."</p>
+
+<p>"Of course. Nobody can, really. You have to do things yourself, just the way you have to do your own walking. <hi rend="italic">I</hi> couldn't walk you."</p>
+
+<p>A stir at the door, and another maid. Barker, it seemed, was waiting to take Master Herbert for his riding lesson.</p>
+
+<p>Master Herbert frowned.</p>
+
+<p>"I won't go," he began. But Miss Dupré, apparently not hearing, broke in:</p>
+
+<p>"You take riding lessons? Jack will be so interested when I tell him. He has</p>
+
+<p rend="jumpline"><ref target="thurston.19160522.jump">Continued on page 13</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 9" xml:id="ew.issue.19160522.p009" />
+
+<text type="photograph" xml:id="arrested.19160522">
+<body>
+<head>You Could Be Arrested for Doing This</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>EVERYBODY knows that some folks break some laws sometimes; but not everybody knows that most folks break some laws most of the time. Out in Kansas, a sheriff wagered a hotel-keeper that he could not live a single day without violating some law. The hotel-keeper, to be safe, went home and went to bed: and toward evening the sheriff arrested him because the sheet on his bed lacked ten inches of being nine feet long. The State of Washington, determined that the ladies shall have a square deal, recently passed a law stipulating that women shall not be employed more than eight hours a day. So now, every time Mr. Business Man rings for his stenographer at two minutes past five and dictates a letter, he is in danger of being haled before the courts. So, for that matter, is she.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>IN New York City, father can't slip away for a spin in his car and a quiet smoke by himself, without running smack up against the law, which says that he mustn't smoke while he drives his automobile. But he does it sometimes, just the same, as this picture proves.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IF a Connecticut policeman should break up a friendly little bridge party, confiscate the $1.98 prize, and place the hostess and her guests under arrest, there would be a great ado. Yet he would be quite within his province, for the law specifically states that no one shall play any game with a consideration of value at stake. These dear ladies don't know they're breaking the law; and, if they do, they don't care&#8212;for they were not consulted about making it.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>THESE two perfectly respectable young men live in Oklahoma. If a conscientious policeman whose tastes never ran to cigarettes should come along, he would doubtless arrest them both. For Oklahoma has decided that no one shall bring into the State, to sell, give away, or otherwise dispose of, any cigarette, paper, or the "makings." Naturally, when you smoke a cigarette you are "otherwise disposing" of it. So, whether you treat your friends or not,&#8212;and some folks find the law a convenient excuse,&#8212;you're likely to fall into the toils.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>MITZI HAJOS, the dashing Cohan star, wouldn't have stood a chance of keeping out of jail had she lived in Massachusetts in the old days. Somewhere on the old statute-books, tucked away under a ten-foot pile of modern legislation, there hides a stern command of Puritanic law-makers. Ladies' dresses, they decreed, must be made long, so as to hide the shoe-buckles. Sleeves must also cover the arms to the wrists. Lucky for every one concerned that Mitzi lives now and not then. She would never have submitted, and the court could never have withstood her charms.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>IN Iowa, the man who slips a porter a quarter for carrying his bags to the taxi is a candidate for the courts. And the porter who slips the quarter into his pocket is in the same predicament. But, for some reason, the officers are conveniently blind to some violations. President Wilson, for instance, was not arrested when he bestowed a gratuity for some service rendered, when he visited the Middle Western State a few months ago.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>ON the statute-books of Maine appears the stern mandate that no one shall "keep open shop, warehouse, or work-house, or do any manner of labor, business, or work on Sunday." The law condones Sunday labor only if it is a work of charity or absolutely necessary to the happiness and well being of mankind. Tony isn't keen on the charity part, but he is quite convinced that it's very important for the man-about-town to have well groomed shoes.</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+    
+<pb n="Page 10" xml:id="ew.issue.19160522.p010" />
+
+<text type="photograph" xml:id="unmakinghistory.19160522">
+<body>
+ 
+<head>Unmaking History</head>
+
+<figure n="photograph">
+<head></head>
+<p>AS the education of the future is to be largely through pictures, we feel that the hoary-headed fakes on this page should not go a moment longer uncorrected. "Columbus he came over here in 1492: New York it was a vacant lot, if history be true"&#8212;runs the poem. But both the poem and the picture are wrong. Columbus landed on Watlings Island, in the West Indies. He may have discovered the bird that barks like a dog down there, but he didn't discover America: that honor belongs to John Cabot. Nor was Columbus greeted by any chorus of Indian maidens, as here shown.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IF we were a more unscrupulous editor we should present this as an exclusive picture of William Tell shooting the apple off his son's head, made on the spot by our exclusive artist for us exclusively. But we are honest though poor. William never did it. The first time in history that any one ever shot an apple off his son's head is in an old Norse saga written in the thirteenth century. Schiller, reading the saga, grabbed the incident land attributed it to William Tell. If Schiller were living to-day he would be a war correspondent.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WE feel sure that good old General Israel Putnam, second in command to Washington, made a great ride for reinforcements and suffered a hot pursuit on a cold February day in 1779. But on his way to Stamford from Greenwich, Connecticut, did he plunge his horse down the famous stone steps? It has been said that he took a cow-path short cut to the bottom of the steps, and there waved his sword derisively at the British, who returned the salute by a bullet through his hat. But the old story is just as good and as authentic as this one, and the General would have ridden down if necessary. So did he? He did.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"HANG a lantern aloft in the belfry arch [said brave Paul Revere], One if by land, and two if by sea; And I on the opposite shore will be, Ready to ride and spread the alarm Through every Middlesex village and farm." As a matter of fact, Paul actually did make his famous ride; but the lanterns were not hung out for him. He knew all the time that the British were coming by sea. The lanterns were hung as a warning to the villagers in case Paul should fail to reach them. So it's not the artist who needs correcting in this case, but the late Mr. Longfellow. Sometimes we think we will never believe any of those poets again.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>KING ALFRED THE GREAT, traveling incognito, put up one night at a farmhouse, and the good lady asked him to tend the cakes while she put the baby to bed. Alf let them burn, and was burned in consequence by her sharp tongue. A good story, children, showing that even a king can do wrong, and that you can't eat your cake and burn it too. The only trouble with this tale is that it was told first about a certain saint who antedates Alfred by several centuries; whereas most of the stories about Alfred did not get into circulation until a hundred years after the good king had gone to kingdom come.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IF James Montgomery Flagg is in the audience, we wish he would step forward and make a few corrections in this picture of the late Mr. Codes at the bridge. Mr. Codes is more familiar to the public under his given name, Horatius. Now, whether Mr. Codes ever held the Etruscan forces back single-handed or not, he certainly didn't look like this when he did it. And it couldn't have occurred in a place like this, where the Etruscans might so easily have slipped a log across the stream a few feet farther downstream, and slipped behind Mr. Codes and stabbed him in the back. Mr. Flagg? Forward, please.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 11" xml:id="ew.issue.19160522.p011" />
+
+<figure n="photograph">
+<head></head>
+<p>SO many little boys and girls have prayed that the Lord would make them truthful, like George Washington, or absolutely pure, like Royal Baking Powder, that we hate to tell about this picture. But the truth must out. There once lived a man named Mason Locke Weems, yclept "Parson" Weems. He was a writer of best sellers, and after his biography of Washington had run through four editions, the parson rewrote it, adding many nice little stories such as the cherry-tree tale; whereupon the book went through seventy editions more. Had the parson lived long enough. Washington would have been a very famous man.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>DOWN the village street rode the Lady Godiva, on a snow-white horse, with no other covering save her flowing hair. Her hard-hearted husband, to whom she appealed for mercy toward the villagers, had commanded the act to test her sincerity. If she made the ride he would lower the tax rate. A wonderful story, proving woman's devotion to an ideal. What a shame to have to break the news to the suffragists that Leofric, Earl of the Mercians, Lady Godiva's husband, was a fine, merciful old gentleman, and that the whole story is a legend. Moreover, the part about Peeping Tom, the only villager who looked, and who was struck blind for his act, was added to the legend a hundred years later.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHEN Ida Tarbell investigated the stories we hear about Lincoln, she found that 60 per cent. of them were invented twenty years after Lincoln died. Washington surprised the Hessians on the Delaware, but did the attack look like this picture? In the first place, the American flag was not made until after June 14, 1777, so Washington could not have carried it. Betsey Ross made it, at the order of Congress, at 239 Arch Street, Philadelphia. The flag Washington carried probably had the stripes and the crosses of St. George and St. Andrew. Both stars and stripes were not used until at least six months later. Of course George did not stand in the boat, either; it is never proper to stand up in a small boat unless there are women and children aboard.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>IT was so brave of Pocahontas to save Captain John Smith when cruel King Powhatan, her father, was about to have his brains beaten out. Captain John was so touched by the act of the little twelve-year-old Princess that he forgot all about it. He told many hair-raising tales in his book, written in 1608, after the occurrence, but never a word about little Pocahont. Sixteen years later, after Pocahontas had married John Rolfe, Captain Smith suddenly remembered, and wrote another book. But by that time people began to hint that perhaps John was destined to be the great-grandfather of Old Doc Cook.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THE tea-kettle hung over the flames in the fireplace, and James Watt sat and watched and dreamed. The lid flew off. Strange. Then said James, "Power&#8212;there is power. I will harness it." Stealing out of the house, he went into the woodshed and invented the steam-engine. This happened just before the American Revolution. On Watt's engine, which is preserved to-day, is an inscription: "Invented by Edward Somerset, Marquis and Earl of Worcester, 1655." Not even Watt himself claimed the invention, for he merely improved the condenser; and how could he invent a machine that had been invented in England a hundred years before?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<note><lg><l>"Shoot if you must this old gray head,</l>
+
+<l>But spare your country's flag!" she said.</l></lg></note>
+
+<p>SO wrote Whittier, and it must be true, because here's a picture of the actual occurrence. But up bobs a nephew of Barbara to state that she was already ninety-six years old, and bedridden, when the troops passed through Frederick, and that they didn't come within three hundred yards of her house, anyway. But the Barbara Frietchie Association refuses to have its ideals shattered: its members go right on raising a fund for a monument to Barbara. Shoot them, if you will, a one-dollar note; And they'll send you a button to wear on your coat.</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+ 
+<pb n="Page 12" xml:id="ew.issue.19160522.p012" />
+
+<text type="photograph" xml:id="youngamericans.19160522">
+<body>
+<head>Young Americans</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>JOSÉ RAOUL CAPABLANCA is a name that sends shivers down the spine of the chess world.  Yet not so many years ago they called him an infant prodigy; that was before he defeated the champion Marshall, score eight to one. José then started in defeating everybody, snitching the kings in rapid succession of Tarrach, the German; Janowski. the Frenchman; Rubenstein, the Russian; Burns, the Englishman; and Morowski, the Hungarian. "Capa," as he is called familiarly, was born in Cuba twenty-five years ago. He's a Columbia graduate, a good billiard and pool player, an athlete, and an auction pinochle addict. Recently he toured the world on a chess clean-up, beating 686 games out of 720 played.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>WHEN Lawrence Sperry began to aviate, he found that the greatest of his trials was the predilection of the aëroplane to topple over in all the directions there are in the three dimensions and several of those in the fourth. So he got to work with his father, Elmer Sperry, and invented a stabilizing device of gyroscopes to remedy this little handicap to happiness in the upper zones. By so doing he hasn't as yet made the aëroplane "foolproof," but he has greatly relieved the aviator; has, in fact, saved him, not from many a tumble, but from that first which is usually his last. Young Sperry received an 80,000-franc prize at Dieppe for his stabilizer, and is now one of the chief mechanicians attached to the British flying corps. "Some kid," is the consensus of opinion of the flying world about 21-year-old Lawrence.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">© Underwood &amp; Underwood.</ab>
+<p>IF you mention 22-year-old Eddie Mahon at Yale you'll run into about the same atmosphere as if, in Petrograd, you should suddenly start chatting about von Hindenburg over the samovars. When Mahon first started playing football at Harvard, there was a good, conscientious chap who tried to interfere for him. The chap found out, however, that it would be easier to try to run ahead of an express train. So he stopped. He'd conserve his energy, he said, for something that would show&#8212;keg parties, maybe, or fussing the college widow. Never in fair Harvard's history has one man won more games for her than has Eddie in the three years he has been at it. There hasn't been anything like his football, sport writers tell us, since the days of De Witt and Tom Shevlin.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers.</ab>
+<p>AT a time when the feeding bottle is usually invoked for family peace, Eddy Brown's parents discovered that the strains of a violin had a much more soothing effect. When he was 10 Eddy heard Ysaye. "That night," relates Eddy's mother, "we heard music coming from Eddy's bedroom. We went in, and there was Eddy in his night-clothes playing Vieuxtemps' Ballade Polonaise.' He was fast asleep." His parents sent him to Hungary to study with the great Halay. At 13 he was ovated in Budapest; at 14 he toured the Continent. He is now 20, and New York has endorsed the verdict of furren parts.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Sarony.</ab>
+<p>LEO ORNSTEIN&#8212;who insists that he is an American, although Russia insists that he is a Russian&#8212;started his musical career under the handicap of being a prodigy. At 21, however, he has bravely lived that down, and is subtitled instead "the piano Bakst; the keyboard Matisse." This is because he is a musical futurist, and. at his concerts leaves his piano gasping and his auditors clinging to the arms of their seats. Musicians differ in their opinions on his playing; but they all agree that he is a genius.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Golling.</ab>
+<p>LITTLE Flossie Macbeth of Mankato, Minnesota, stamped her No. 2's and said she'd be darned if she went abroad to have her voice cultivated. Instead she came to New York and learned all that Yeatman Griffiths could teach her. Then she boldly went over to London and made her début. This was three years ago, when she was only 19. The King and Queen sat in a box, and the little Princess Mary threw her bouquet, which Flossie, who had played baseball with the boys in the vacant lots back home, caught neatly. "Another Patti," is what the critics said, "flawless in tone from lower G to F sharp in alt." Next year she is going with the Metropolitan.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Allema, San Paolo.</ab>
+<p>NOT for a long time has any young musician got such a rise out of the New York critics as Guiomar Novaes, a Brazilian girl of 21, whose marvelous performances as a pianist have called forth reminiscences of the early playing of Clara Schumann, Liszt, and Paderewski. "The manners of a school-girl, the technique, execution and passion of a master," says that blasé and world-worn critic, James Huneker. This means something, coming from James. Guiomar Novacs was one of nineteen children at home in San Paulo, Brazil, being number seventeen. "Large families take the conceit out of one," she declares.</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+ 
+<pb n="Page 13" xml:id="ew.issue.19160522.p013" />
+
+<text type="fiction" xml:id="thurston.19160522.jump">
+<body>
+            
+<head type="main">The Order of the Day</head>
+ <p rend="jumpline"><ref target="thurston.19160522">Continued from page 8</ref></p>
+
+<cb n="1" />
+
+<p>always wanted to ride. Oh, I'll want to hear about it to-morrow."</p>
+
+<p>The change was magical&#8212;instantaneous. The boy was transformed.</p>
+
+<p>"I'll tell you," he cried. "<hi rend="italic">They</hi> can't ride&#8212;can they&#8212;those boys? You tell 'em I <hi rend="italic">can.</hi> And&#8212;and you'll take your hat off to-morrow, won't you?"</p>
+
+<p>Out on the avenue once more, Miss Dupré drew a long breath.</p>
+
+<p>"Oh, the <hi rend="italic">poor</hi> little fellow!" she cried, as she had before she saw him. Then she just saved herself from disgracing the avenue by an impulsive skip. For she had work&#8212;she had work&#8212;she had <hi rend="italic">work!</hi></p>
+
+<p>THE boy was watching for her the next morning.</p>
+
+<p>"Did you tell them that I know how to ride?" he cried. "Take off your hat."</p>
+
+<p>Miss Dupré nodded. "I told them," she replied, taking off her hat. In her soul she knew that she had an unfair advan- tage. She did look prettier without her hat&#8212;any woman would, when the hat had seen two winters' service. But Miss Dupré's hair was in no wise remarkable, and she knew it 'Yet she looked at him with confident expectation. She knew that he would see it through the eyes of all those other boys, so calmly included in her sweeping statement of the day before.</p>
+
+<p>"You do look better without it," he told her. "What did the boys say about <hi rend="italic">me?</hi>"</p>
+
+<p>The boys, it seemed, had said various things, some of them puzzling, but, on the whole, satisfactory. The delicate, fretful face kindled.</p>
+
+<p>"I'd show 'em," he boasted. "They can't any of them ride, can they? <hi rend="italic">I</hi> can."</p>
+
+<p>"Jack thought it would be so splendid for playing St. George and the Dragon."</p>
+
+<p>"Who's St. George?"</p>
+
+<p>"You don't know St. George?"</p>
+
+<p>The boy's brows drew together; it would be long before he could stand any mention of ignorance.</p>
+
+<p>"I could if I wanted to," he declared. "I don't believe he was much."</p>
+
+<p>"He's Jack's hero&#8212;or one of them. All the boys have their heroes." Miss Dupré, learning rapidly, did not ask him who his hero was. Instead, she plunged into a vivid recital of the story of St. George. The boy listened carelessly&#8212;attentively&#8212;finally breathlessly.</p>
+
+<p>"I'd like him too," he cried jealously. "Can I have him too? I'd do just like him. I'd ride and kill dragons."</p>
+
+<p>"Oh, yes, you can have him if you want to. Lots of people do. But maybe you'd like some one else better&#8212;maybe even some one who is living to-day. Suppose we talk about a different one every day for a while, and then you can choose."</p>
+
+<p>"Tell me more <hi rend="italic">now,</hi>" he commanded.</p>
+
+<p>"Only one a day," she replied firmly. "You've got to think them over carefully, you know; because, when you have a hero, you try to live like him, you know. Maybe you wouldn't like to take knocks&#8212;"</p>
+
+<p>"I'd knock 'em back; I'd beat 'em."</p>
+
+<p>"But not at first&#8212;nobody does at first."</p>
+
+<p>This was unpleasant, but he did not think of disputing her knowledge. She evidently <hi rend="italic">knew.</hi> She took advantage of his hesitation to steal a march upon him.</p>
+
+<p>"Are you good at arithmetic? Jack is; but Duncan hates it."</p>
+
+<p>"I can do it," he asserted promptly.</p>
+
+<p>He couldn't&#8212;not very well. But his pride was her ally. He was flushed, tired, but even then obstinate, when lunch-time came and it was time for her to go.</p>
+
+<p>"What are you going to tell them about <hi rend="italic">me?</hi>" he asked anxiously.</p>
+
+<p>She nodded reassuringly. 'Lots of things. Some nice ones." More than that she would not tell him.</p>
+
+<p>The boy went to his afternoon&#8212;lunch, music, riding lesson. He was excitable, impatient, but alive. The music teacher&#8212;tired and discontented, poor soul&#8212;scolded him. The riding master, catching a glimpse of a new spirit, encouraged it. On the whole, the afternoon marked a crisis.</p>
+
+<p>The lessons went on&#8212;a week of them, two weeks, three, four. Miss Dupré artfully made Louis, Jack, and Duncan her teachers&#8212;they and the heroes. She was but a humble mouthpiece and 
+ 
+<cb n="2" /> 
+ 
+interpreter. There were endless discouragements&#8212;storms of anger and rebellion. Yet at the end of the month there was a distinct gain. The boy was <hi rend="italic">alive.</hi></p>
+
+<p>Mrs. Grosvenor expressed herself as tepidly satisfied, and the second month began. There were a thousand things to talk over now, for the boy had begun to live in a whole world. French was easy, of course; arithmetic was not difficult, owing to the elementary nature of it, for evidently the boy's victories were never to be in the field of pure mathematics; spelling proved a mad excitement when fought out as a battle; but casual references&#8212;even the most casual&#8212;began to be fraught with danger to Miss Dupre. She was forced to study the geography of strange countries&#8212;study the construction of airships (for which she had so little talent that he found her out, and she was forced meekly to bear his scorn), to study history for dear life&#8212;Peru perhaps to-day, Greece to-morrow: for the boy was beginning to browse in the big unused library downstairs, and his questions were endless: It was all breathlessly exciting.</p>
+
+<p>AND then&#8212;suddenly&#8212;he found his hero.</p>
+
+<p>They had talked of the war, among other things&#8212;only a little, however, and very carefully, for he was only eight. But one morning the girl came looking strangely paler than usual, but with a light in her eyes like stars. The boy, sensitive and high-strung, felt the strangeness at once.</p>
+
+<p>"What's the matter?" he demanded instantly.</p>
+
+<p>She looked at him with that shining, far-away look.</p>
+
+<p>"It isn't a matter," she answered. "It's the bravest thing I ever heard of. The boys could talk of nothing else last night. They have made a new order of unknown heroes." And then she told him. It was in all the papers: the story of how a regiment of French Zouaves, pressing ahead too far, was surrounded and overwhelmed; of how the enemy, stripping the dead of their uniforms and disguising themselves in them, took the few survivors with them, and crept toward the French line; of how the French, seeing the missing regiment straggling back, were suddenly startled by an agonized cry from its midst: "For God's sake, comrades, <hi rend="italic">fire!</hi>"</p>
+
+<p>A sheet of flame flashed out, and the trench was saved.</p>
+
+<p>"The story," the girl ended, her voice breaking with the magnificence of it, "was read in the Order of the Day, the next morning, to every soldier in the French army. No one knows his name&#8212;the hero who saved his comrades&#8212;but he is living, fighting, in a million lives to-day. No great general is doing more for his country than he. He will live in all the world. Look at our three boys&#8212;they will never forget. If anything tempts them to be cowardly ever, they will hear that unknown Frenchman's voice&#8212;"</p>
+
+<p>The boy's face was dead white and his eyes blazing; his slender, nervous hands were clenched fiercely.</p>
+
+<p>"I won't ever forget," he cried, "not ever&#8212;not ever!" And then suddenly he broke down, sobbing passionately.</p>
+
+<p>She quieted him after a little, and they talked a long, long time. They talked about all the discipline it would need to make one sure of being a hero if the time came. It meant lessons and uninteresting things, and obeying without question.</p>
+
+<p>"Maybe it will be easier," he said, "if I salute before I say my lessons. You're only a girl, but we can play you're a general just for that, and I'm seeing if I can repeat my orders. Can we?"</p>
+
+<p>It was a great idea&#8212;an idea to be carried home to Louis and Jack and Duncan. They began at once. The boy stood, very straight and saluted; then he recited his history. He had a brief word of commendation (it was understood that such events would be rare&#8212;generals seldom commend, because soldiers are expected to do their duty), and then took his orders concerning arithmetic. 
+ 
+<cb n="3" /> 
+ 
+ When she left at one o'clock, he stood at salute.</p>
+
+<p>Miss Dupré had many things to do that day, as it happened. There was some special event on hand with Louis, Jack, and Duncan, involving gingerbread&#8212;three pans of it; for the shabby living- room was overrun by boys that night, After it was all over, and the noisy crowd had poured down the steps, and the boys left behind had been sent up to quarters, and the dishes were washed, and the floor swept (because there wouldn't "be be time in the morning), and the lights put out, Miss Dupré was sufficiently tired to tumble into bed at once. But she didn't. She sat a long time, thinking about a lonely little fellow in a great, silent, indifferent house up in the avenue. Would he hold to it, really? Tired as she was, the girl's heart beat quickly at the memory of the slender figure standing at salute.</p>
+
+<p>The next morning, when she reached the house, it appeared that there were some new developments. Jenness opened the front door as usual, but at the playroom she was halted.</p>
+
+<p>"Friend or foe?" challenged a boy's excited voice from within.</p>
+
+<p>"Friend," she declared.</p>
+
+<p>"Advance, friend, and give the countersign."</p>
+
+<p>The door was open now, just a crack, and dark eyes were searching hers breathlessly. She hazarded&#8212;and won.</p>
+
+<p>"`The Order of the Day.'"</p>
+
+<p>It was easy after that. From out the horror of that flaming hell across the sea, a hero had reached across and kindled a child's tiny torch. She saw it then; she was to know it tragically before long.</p>
+
+<p>It was easy all the week, and the week after. One day of wavering ended in passionate repentance. The hero had put his mantle upon him&#8212;the boy was his own. They were wonderful weeks, those two.</p>
+
+<p>IT was the second day of the third week that Jenness, opening the door, told the girl that Mrs. Grosvenor wished to see her. The girl went with swift steps to the rose-and-silver boudoir. She must have noticed&#8212;Mrs. Grosvenor; she had such wonderful things to tell her! She stood at the door, eager, shining-eyed, waiting for Mrs. Grosvenor to look up from her desk.</p>
+
+<p>She waited several minutes, and a vague perplexity shadowed the shining eyes and set her heart beating; it was foolishness, of course&#8212;it was just rich people's way. Then at last Mrs. Grosvenor looked up.</p>
+
+<p>"I understand, Miss Dupré, that you have been putting notions in Herbert's head. He told his father something about them, and both Mr. Grosvenor and I are greatly displeased. We do not think such ideas suitable at all. Under the circumstances, I think we must cancel your engagement. I am paying you, of course, for the full time."</p>
+
+<p>The girl accepted the envelop mechanically. She must have accepted in any event&#8212;she had no right not to; but in the stunning shock of it she did not think of the money at all&#8212;she thought only of the little solitary figure upstairs.</p>
+
+<p>"May I&#8212;tell him good-by?" she faltered.</p>
+
+<p>"If you will be very brief. I will send Felice to call you."</p>
+
+<p>The girl went out quietly; but in the upper hall she almost ran. The play-room door was open, and the tears came to her eyes at the sight of it. But she could not fail him now. She reached 
+ 
+<cb n="4" /> 
+ 
+ forward and pulled it to; then she knocked. There was no answer. She knocked again, and still again. Then at last came a small shaken voice:</p>
+
+<p>"Who is there? Friend or foe?"</p>
+
+<p>"Friend."</p>
+
+<p>"Advance, friend, and give the countersign."</p>
+
+<p>"'The Order of the Day.'"</p>
+
+<p>And the door was opened.</p>
+
+<p>HE had sobbed nearly all night. His face was white and there were dark circles under his eyes. With a cry of pity, the girl gathered him up close, as she had done to her boys in their little-boy tragedies. He clung to her passionately, but not crying now. In a moment she began to talk&#8212;there was so much to put into ten minutes.</p>
+
+<p>She told him of the great army to which all brave souls the world over belong&#8212;the army of
+      those who care more for honor than for life. She told him of the fights that must come, and
+      how one must never give up, no matter what happened. She promised that all of
+      them&#8212;Louis, Jack, and Duncan&#8212;should count him in and call his name in their
+      roll-call; that she would think of him always and be sure that he was "being brave." It seemed
+      only seconds before they heard Felice's footsteps on the stairs. She loosed her arms and put
+      him down.</p>
+
+<p>"You will never forget?" She cried. "Never?"</p>
+
+<p>"Never," he promised, with quivering lips.</p>
+
+<p>"Salute, comrade."</p>
+
+<p>He obeyed instantly.</p>
+
+<p>"'The Order of the Day.'"</p>
+
+<p>"'The Order of the Day.'"</p>
+
+<p>As Miss Dupré passed out the great doors, Mrs. Grosvenor was telephoning impatiently:</p>
+
+<p>"Oh, utterly impossible! Such ideas she, put into the child's head&#8212;I don't know how long it will take to get rid of them. This governess business is so tiresome. Yes, if you hear of any, please. You will save my life."</p>
+
+<p>Upstairs, the boy stood at the window, watching a little brown figure down the avenue. He was standing at salute. He stood so till she disappeared.</p>
+
+<figure n="illustration">
+<head></head>
+<p>"He stood at the window, watching a little brown figure down the avenue. He was standing at salute."</p>
+<figDesc></figDesc>
+</figure>
+ 
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19160522.p014" />
+
+<text type="nonfiction" xml:id="atwood.19160522">
+<body>
+   
+<head type="main">Mythical Millionaires</head>
+<byline>By <persName type="author" key="#Atwood, Albert W.">ALBERT W. ATWOOD</persName>
+</byline>
+
+<cb n="1" />
+
+<div1><p>HEIRS of the estate of ex-Senator Michael J. Coffey were surprised to learn, yesterday, that the estimate of his fortune, nearly $2,000,000 when he died, had shrunk to $450,000, according to the final accounting filed in the Surrogate's office.</p>
+
+<closer><signed><hi rend="italic">Newspaper item.</hi></signed></closer></div1>
+
+<div1><p>PICK up your newspaper almost any day and you will read of disappointments similar to or worse than that of the heirs of the lamented Mr. Coffey. Why is it that fortunes shrink and dwindle? Is it because they never existed except in popular imagination?</p>
+
+<p>Curiously enough, several real multimillionaires have left behind them sums ranging from $60,000,000 to $80,000,000. There have been the Vanderbilts and Astors, Russell Sage, E. H. Harriman, John S. Kennedy, and in the earlier days Moses Taylor. Perhaps that is the reason the usual estimates of the very, conspicuous fortunes are usually put at about $60,000,000. Singularly few of these estimates have proved correct.</p></div1>
+
+<div1><head type="sub">People Who Are Rich on Paper</head>
+
+<p>OF course there are many millionaires in this country. There are unknown possessors of great riches who are never found out until they die. But their number is tremendously overstated. Exaggeration is the small coin of American conversation, especially exaggeration about other people's money. But when we get down to solid facts it is usually found that, with a few notable exceptions, even the wealthiest people have no more ready cash than they need. Most so, called millionaires are men who earn interest on a million dollars, who are rich on paper, who are rich perhaps for a few days or weeks, or who appear to be modern Cræsuses until the banks call their loans.</p>
+
+<p>I was asked, recently to investigate a broker about hose experience and backing there had been some question. I heard that a certain bank president knew of this broker; and, as I had known the hanker for years, it was natural to go to him for information. This particular banker&#8212;and this is a true story&#8212;was during certain momentous events of an international character, enacted not very long ago, among the three or four most important financial figures in this country. Almost every day he headed committees to raise scores of millions of dollars.</p>
+ 
+<cb n="2" />
+ 
+<p>"I don't know the broker himself," said the banker to me, when I had finally gained admittance to his private office; "but I do know his father, who keeps an account here. The boy hasn't had much experience, but any one is safe to do business with him, because the old man will back up the firm. He is good for any amount. Why, Mr. Blank [naming the father] must be worth $200,000."</p>
+
+<p>It would be a shock to those who like to roll "millionaire" on their tongues as a sweet morsel to find how seldom the word occurs in the reports of the great mercantile agencies or in the even more careful researches of certain confidential reporting agencies. The man who really has a hundred thousand dollars, and often much less, gets a warns reception in banking parlors and other places where allowance is made for the common extravagance of statement regarding wealth.</p>
+
+<p>The income tax returns have shown up a lot of the popular exaggeration that goes with money. But the real showdown is that which comes with death. No matter how much or how little you leave, the State wants to know about it,&#8212;at least a very large majority of the States of the Union do,&#8212;and the State appraisals are public property, open to public inspection.</p></div1>
+
+<div1><head type="sub">Some Fortunes Not Exaggerated</head>
+
+<p>THE most interesting show-down of all will come when the estate of J. P. Morgan, the elder, is appraised. Although he has been dead for more than three years, the State of New York has not yet had time to complete the enormous Work involved in placing values upon Morgan's property. The lowest estimate placed by any newspaper upon his fortune is $100,000,000. Remember this, and see what the actual value is when the figures are published.</p>
+
+<p>Morgan was the greatest, or at least the most powerful, financier this country ever had. But much of his power was due to sheer force of will rather than because of dollars. The delay in appraising his estate is caused in part by the difficulty of estimating fairly the money value of his traditional influence and power&#8212;what might be termed good will in business. These forces really have money value, so much so that in bequeathing 
+ 
+<cb n="3" />
+ 
+ his name to his banking house Morgan probably left what is of actual taxable value.</p>
+
+<p>When John D. Rockefeller dies, the appraisal of his estate, while interesting enough, will not be important, because the oil king has already given away so much to institutions which make public reports that the extent of his fortune is no longer a mystery. Everybody knows that these millions are not mythical. But one of Rockefeller's early business rivals, a man of the name of Merritt, told a Congressional committee that he had lost $700,000,000 by not being able to hold on to some ore lands which Rockefeller took off his hands when Merrittwas unable to raise a million dollars to pay a loan. It is true enough that these ore lands are now worth a huge fortune, but it is probably nearer $100,000,000 than $700,000,000.</p>
+
+<p>Andrew Carnegie is another whose fortune has not been exaggerated, for we have the actual records to prove him a multimillionaire. But even Carnegie has the American longing for big figures, for he told an investigating committee that he might just as well have sold out his company for $520,000,000 instead of $420,000,000.</p>
+
+<p>When E. H. Harriman died, I made a very careful estimate of his fortune, placing it at $100,000,000. Practically all other estimates made at that time put the figure at $150,000,000. The final appraisal showed almost exactly $69.000.000; and a year later time stock market had declined so much that his estate was worth only $57,000,000.</p>
+
+<p>Practically every great fortune has been overestimated, even by the experts. What most of us forget is that rich men operate largely on money they borrow from the banks, and that the real bulk of the country's wealth is not in the hands of any group of individuals, not even the billionaires, but in the banks and insurance companies. It is borrowing money, and then borrowing upon borrowed money, that gets so many supposedly rich men into trouble.</p>
+
+<p>The country has almost forgotten P. Augustus Heinze, who died a few months ago, leaving a fortune of not more than $1,000,000. It was only nine years ago that the young prospector, flushed with success, sold his Montana copper mines 
+ 
+ <cb n="4" />
+ 
+for $15,000,000, mostly in actual cash or readily negotiable securities, and headed for New York, where he tried to wrench control of most of the banks away from their conservative old owners. He was not satisfied to buy what his fortune could easily manage, but as soon as he had acquired a block of bank stock he would foolishly take it to another bank and borrow money to buy into still a third bank. This got him into the power of financiers who did not like his methods, and in less than ten years his fortune melted away. Curiously enough, the copper mines which he sold ten years ago for fifteen millions are said to be worth sixty millions now.</p>
+
+<p>John B. McDonald, who built the subway in New York City, was always supposed to have been worth $5,000,000 until he died, when his fortune was found to be Only $1,250,000.</p></div1>
+
+<div1><head type="sub">Fortunes that Melt</head>
+
+<p>THERE are many cases where great fortunes simply melt away. John B. Walsh was perhaps the most prominent banker in Chicago not so many years ago; at least, none was more talked about: He was generally reputed to be a millionaire at least fifteen times over, and was in direct control of a great chain of banks and railroads. After he died his estate was found to be worth exactly $45,000.</p>
+
+<p>What is perhaps more remarkable than the passing away of huge fortunes through business reverses and stock-market panics is the way men are able to dominate vast financial undertakings and never accumulate large fortunes at all. Every one that knows anything about the financial history of the country remembers what an old-fashioned, dignified, and powerful figure was that of Edward King, dean of the trust company presidents of New York, the only man who dared defy J. P. Morgan in the panic of 1907. He ruled supreme in his field for years, but left what in our extravagant American way of talking was no fortune at all.</p>
+
+<p>No figure has ever bulked larger in the world of trusts and corporations than that of Henry O. Havemeyer, who was president of the American Sugar Refining Company. He was generally credited with a fortune of $60,000,000. His estate was appraised at $14,500,000, no mean figure, but small as compared will, what public imagination had credited him with.</p></div1>
+ 
+</body>
+</text>
+
+<text type="photograph" xml:id="teaching.19160522">
+<body>
+<head>Better Jobs than Teaching</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs from Bertha H. Smith.</ab>
+<p>"AFTER a few years of school work," says Miss Ella Buchanan, "I grew to hate the monotony of it, the grinding routine. I had things I wanted to say, and I couldn't say them. The breaking up of our home left me free to make a new choice, and I began to study sculpture. It meant a lot of sacrifice and the strictest economy, for my income was very small. I kept on studying for more than six years, in the last of them earning a little; and while in that time I've had less of material things than I had with a stated salary, I have been an emancipated human being, and I look back with horror on those other days." The group in the photograph is called "Militarism&#8212;Sowing the Seed"; in which the hand of Evil passes the arrow into the child's hand. In the background is the crucified world.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs from Bertha H. Smith.</ab>
+<p>"I LIKED teaching for the first few years." says Luvena Buchanan of Illinois. "But in teaching your work just so long&#8212;a year or a half year. You do just so much with one batch of children, then you begin and do it all over again with another batch. I always wanted to do something creative; so, when I had a bit of an income from a small property left me, I quit teaching and began to study art. It took me a year to readjust myself, to learn how to learn. Nothing could take me back to the school-room. My work offers endless variety, and a fresh interest with each new subject. So far, my biggest commission has been the mural decoration of the Barbara Worth Hotel in the Imperial Valley; but a single such commission brings one more than a year's teaching."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs from Bertha H. Smith.</ab>
+<p>"JUST because you're a woman is no sign you can be a good teacher," says Anne Stagg of California. "I hated the confinement, the wear and tear on my nerves. Now I am out all day in the fresh air. After only eight months', work with my automobile (bought with my savings), my net income is equal to my teacher's salary. I take women call ing and shopping, and drive sight-seeing parties about the country."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs from Bertha H. Smith.</ab>
+<p>"TEACHERS are born, not made," says Margaret Craig. "I had the artistic impulse, and the grind of grade work became very wearing. One day I decided to make my living out of work that I liked; so I quit teaching, and my ten years of portrait and landscape photography have been the happiest of my life." Miss Craig has taken pictures from New York to California, and has won a name for herself.</p>
+<figDesc></figDesc>
+</figure>
+<p></p>
+</body>
+</text>
+
+<pb n="Page 15" xml:id="ew.issue.19160522.p015" />
+    
+<text type="fiction" xml:id="tilden.19160522">
+<body>
+
+<head type="main">The Man in the Stone House</head>
+<byline>By <persName type="author" key="#Tilden, Freeman">FREEMAN TILDEN</persName>
+</byline>
+<byline>Illustrations by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<cb n="1" />
+
+<p>"IS it all there?" asked Starr, after Eadbrook had made a frantic estimate of the contents of the shoe-box.</p>
+
+<p>"I think it is," replied Eadbrook. "I can't count straight now&#8212;but it seems to be the whole of what was in that cash drawer in the safe. It's certainly most of it."</p>
+
+<p>They had all been so utterly engrossed with the phenomenon that they had failed to observe the approach of the old man they had left standing at the doorway. It was when they heard his feeble, cracked voice cry: "Money&#8212;millions of money!" that they turned and looked at him.</p>
+
+<p>The poor old fellow's eyes were literally bulging. His gaze was riveted upon the extraordinary wealth that had just been displayed before him, and he repeated: "Money&#8212;millions of money!"</p>
+
+<p>"There was something else you had to tell me," Eadbrook said to him. "What was it?"</p>
+
+<p>The old man was in a stupor. Eadbrook took him by the arm and shook him gently.</p>
+
+<p>"What was the rest of the message?" he insisted.</p>
+
+<p>"She said," replied the strange creature, without removing his gaze from the wealth, "if you found it all right, to please come at once. She said, 'Tell him I must see him.'"</p>
+
+<p>"She? She? Who?" asked Eadbrook, though he felt that he knew well enough already.</p>
+
+<p>"She's a purty girl," was the stolid reply. "She's at our house. I'm to take you back with me. And she said, 'Ask him to bring <hi rend="italic">her,</hi> if she'll come.'"</p>
+
+<p>"I understand now," said Eadbrook. "How many miles is it over to your place?"</p>
+
+<p>"It's six," was the reply; "but I guess You'll think it's twelve before you get to the top of the hill."</p>
+
+<p>"You take this," said Eadbrook, handing him a five-dollar bill, which the old fellow grasped eagerly, "and start right back. I'll hire a rig and follow along. Go along now; don't stop to buy anything."</p>
+
+<p>THEY saw him climb into the wagon, wind the long whip around the off ox's head, and amble off. Then Starr said:</p>
+
+<p>"Eadbrook, this is a real mystery. At least, it is to me&#8212;to us. But you seem to know the answer."</p>
+
+<p>"Yes, I do," replied the young man soberly. "That is, I know part of it. You won't ask me to go into details now, will you? By to-night I'll be able to tell you everything. Meanwhile, can you rook out for this money?"</p>
+
+<p>"Certainly," replied Starr. "We'll stand watch over it and defend it with our lives; won't we, Katherine?"</p>
+
+<p>"We will, Jim," replied Katherine.</p>
+
+<p>Fadbrook looked from one to the other, and then Starr's eyes told him the whole story. He shot
+      forth his hands, one to each of them, and murmured: "By George, it's fine&#8212;you
+      two&#8212;it's fine!"</p>
+
+<p>There was a moment of rather embarrassed silence.</p>
+
+<p>Eadbrook broke it by turning to Katherine and saying:</p>
+
+<p>"Miss Burbridge&#8212;I wonder&#8212;"</p>
+
+<p>He hesitated. "Yes," she invited; "yes&#8212;ask me anything."</p>
+
+<p>"Do you suppose Louise would go with me? It's a peculiar thing that's happened. The person I'm going to see wants to see her too. I was wondering if you could&#8212;"</p>
+
+<p>"I can and I will," was the quick reply. "She'll go. We younger folks are doing things on our own hook now, Walter. You hurry and get ready, and I'll answer for Louise. I'll simply fly."</p>
+
+<p>The bearded old messenger-boy had told the simple truth. The six miles to the Ashton place, a once prosperous mountain farm, of which the tumbled-down buildings were occupied by the old 
+ 
+<cb n="2" /> 
+ 
+man and his wife, developed into three hours of rugged travel. There was scarcely a hundred yards of the way that did not wind upward through mile after mile of heavily timbered land, broken now and then by the ghastly sight of deserted dwellings, eyeless, buckled at the roof, and creaking under the winds. In fact, the old man's oxen had proceeded, slow as they were, about as rapidly as the livery horse could draw the carriage.</p>
+
+<p>IT had been, for Eadbrook and Louise, a strange, almost silent, and yet blissful experience. He had told her of the strange recovery of the money. Man-like, he had expected her to reciprocate his own excitement about that, and he was astonished to find that she was not deeply interested in the money itself. She only nestled a little closer to him in the buggy and said she was glad.</p>
+
+<p>Once in a while, when the horse stopped at a "swell" to get its breath, they uttered some commonplaces. But neither Eadbrook nor Louise felt the slightest real desire to talk. Somehow they felt that there had been speech enough. A calm, refreshing mist of friendly silence settled down over them, and they were at peace.</p>
+
+<p>But once Eadbrook said, "Did they say anything at home about&#8212;your coming?"</p>
+
+<figure n="illustration">
+<head></head>
+<p>"The two young women regarded each other curiously. 'I wanted to see you-so much, Miss Searles-and it was fine of you to come.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<p>She did not answer directly. She looked into his face a moment, and then replied:</p>
+
+<p>"When Katherine told me you wanted me to come, Walter, I would have come if it were the very last thing I should ever live to do."</p>
+
+<p>AT last they reached the summit of the  mountain. Along the narrow, rutted track the carriage crept, following behind the ox-wagon, till the road turned abruptly to the left and into a broad door-yard, now overgrown with weeds. They had come to the end of the journey. Indeed, the road went no farther.</p>
+
+<p>As they entered the yard, an old woman, as queer and wild in appearance as her husband, threw open the front door and 
+ 
+<cb n="3" /> 
+ 
+ stepped outside. Eadbrook tied the horse to a tree and approached the house, hat in hand.</p>
+
+<p>"She's upstairs," said the old woman simply. "You and the young lady come in."</p>
+
+<p>THE interior of the house belied its outside appearance. It was wretchedly poor, but spotlessly clean.</p>
+
+<p>"Would you be afraid," whispered Eadbrook to Louise, "to stay down here a few moments while I go upstairs?"</p>
+
+<p>"Afraid?" was the reply. "I'm not afraid of anything now, Walter."</p>
+
+<p>"This way, sir," said the old woman, and she led Eadbrook up the groaning stairs.</p>
+
+<p>There was a room directly facing the head of the flight.</p>
+
+<p>"Oh, you've come! I knew you'd come!" Eadbrook heard a weak voice say, and then he stepped inside. There, on a couch, with a pallor on her face that made his heart sink when he saw it, but with her lips parted in a patient, courageous smile, lay Señorita Catorno. She put out her hand.</p>
+
+<p>"You've been sick?" cried Eadbrook. "Sick&#8212;and up here in this wilderness."</p>
+
+<p>"Did <hi rend="italic">she</hi> come?" was the reply. "No I didn't expect she would. No; that was only a foolish little whim of mine, anyway."</p>
+
+<p>"I knew whom you meant," replied Eadbrook, taking her hand. "She <hi rend="italic">did</hi> come. She's downstairs."</p>
+
+<p>He felt the pressure of her fingers on his hand, but she replied only with a gratified smile. Then, "You found the money?"</p>
+
+<p>"Yes," said Eadbrook; "and I can't understand&#8212;"</p>
+
+<p>"That's what I'm going to tell you. Oh, how I have suffered!" she cried weakly.</p>
+
+<p>She had tried to raise herself on her elbow, and had fallen back helpless again. As she did so the loose sleeves of her kimono fell back, and Eadbrook observed strange red marks upon her arms and throat:</p>
+
+<p>"You've been hurt!" he gasped out.</p>
+ 
+<cb n="4" />
+
+<p>"It isn't anything," she said. "Don't mind about that. That isn't the way I suffered. He beat me&#8212;but he'll never do it again. He was crazy; he went out of his head when he found nothing in the safe."</p>
+
+<p>"Catorno!" breathed Eadbrook. "He did it!"</p>
+
+<p>"Not so loud," continued the girl. "Yes, Catorno. He tried to do it. I couldn't escape. I didn't know what to do. That night&#8212;you remember; it was Saturday, wasn't it?&#8212;I came to your store. It was part of the plan. He found out, somehow, that you had money there. And he sent me&#8212;oh, God!" She broke down, covering her face with her hands.</p>
+
+<p>"Poor girl! Don't let's talk about it. You shouldn't let yourself think about it any more."</p>
+
+<p>SHE braced herself with a great effort.</p>
+
+<p>"I must tell you," she said. "Yes, I came to get the lay of the land. I tried to make myself believe, at first, that you weren't straight with me. That's why I acted&#8212;as I did. But it wasn't any use. I knew you were all right, and I knew only too well how decent you had been to me.</p>
+
+<p>"First I thought of warning you and having you take the money home. I didn't dare to. I was afraid. He's a dangerous man, Mr. Eadbrook&#8212;I didn't know what he might do. And, besides, if you had had him arrested&#8212;well, I couldn't do it. I didn't know what to do. Then there was that row outside the store, you remember&#8212;"</p>
+
+<p>"Yes," whispered Eadbrook; "I remember. A drunken man."</p>
+
+<p>"No; it was Catorno. He started it. It was to give me time to look around. And then I took the money out of the safe and put it in one of the shoe-boxes. It was a crazy thing to do, but I was crazy.  It was a little after one o'clock that he did the job, and then we got out of the village. He had hired a rig in Eastfield. We left it at the cross-roads and began to walk. He was partly drunk, and&#8212;and&#8212;"</p>
+
+<p>The girl could go no farther. She closed her eyes.</p>
+
+<p>"And he did <hi rend="italic">that</hi> to you," hissed Eadbrook, clenching his hands. "If they ever
+
+<note place="bottom-margin">This serial began in our issue for March 27.</note>
+
+<pb n="Page 16" xml:id="ew.issue.19160522.p016" />
+
+<figure n="advertisement">
+<head>As Good As Gold</head>
+<p></p>
+<figDesc>Advertisement for Channell Chemical Co.</figDesc>
+</figure>
+
+<cb n="1" />
+
+lay hands on him, I'll go into court and help put him behind the bars if&#8212;"</p>
+
+<p>"No, no, you mustn't do that," she said, opening her eyes. "You have the money, and it wouldn't do you any good. Don't you see, Mr. Eadbrook, I wanted to do the best for both of you. I would have died rather than put over anything dirty on you; and yet I&#8212;"</p>
+
+<p>"You wanted to save him!" cried Eadbrook incredulously.</p>
+
+<p>A faint smile came upon her lips again.</p>
+
+<p>"Oh, you man," she replied. "You couldn't understand. He was all I had. I&#8212;yes, I cared for him."</p>
+
+<p>In the face of the declaration Eadbrook was dumb. He suddenly felt the power of an invisible presence around them, and he stared hopelessly at the wan face on the couch. She had loved that despicable brute!</p>
+
+<p>While he was pondering the unbelievable thing, the girl whispered to him: "I'd love to see <hi rend="italic">her.</hi>"</p>
+
+<p>Somehow, he was glad of the interruption. He rose with alacrity, saying, "I'll bring her up," and fled down the stairs.</p>
+
+<p>FOR a brief space, when Eadbrook and Louise entered the room together, the two young women regarded each other curiously. Each, with that strange feminine readiness, divined the other's thoughts; and in that second of understanding each dropped the mask of conventionality and greeted the other as if they had known each other for years. There was no competition between them; they felt no possibly rivalry. One of them lay, helplessly outcast, looking upon her who stood upon the threshold of happiness, with the bright conquerable world ahead. And the warm heart of Louise overflowed; she understood.</p>
+
+<p>It was with a brighter smile that the girl on the couch reached out her hand and said:</p>
+
+<p>"It's a long way back to the village, and you can't be here long. I wanted to see you&#8212;so much, Miss Searles&#8212;and it was so fine of you to come. Andit was silly of me, but I wanted to see you&#8212;together."</p>
+
+<p>She closed her eyes again, perhaps from weakness&#8212;perhaps looking back into memory. Yes, rather the latter; for when she broke the silence she said dreamily:</p>
+
+<p>"It wasn't much like Boxton, the place where I grew up. There were factory chimneys, and black smoke settling down on you, and the rattle of heavy wagons going past. There weren't any green fields, and the only trees were those they planted along the street. If you had told me there were places like this, I shouldn't have known what you meant.</p>
+
+<p>"It's queer. I remember, nothing seemed to be real or good. There was a boy I used to play with. We were about twelve years old; and I loved him. You know, Miss Searles, such a wonderful love you feel at that age." She smiled as she recalled it. "He broke my heart, the young rascal. Another boy came to me one day and said, Rosie, you're my girl now. <hi rend="italic">I'm</hi> your feller.'I started to slap his face. But he said, 'Sure you are, Rosie. Didn't I give Jimmie my jackknife an' fifteen cents?, We traded fair&#8212;an' now you're my girl? Wasn't that funny? It was true, too. Jimmie had gone and sold use for a jack-knife and fifteen cents. And it almost broke my poor little heart. Wasn't it a joke, though?</p>
+
+<p>"And yet&#8212;it wasn't so much of a joke," the girl went on. "I didn't know it then, but it was always going to be something like that. I've been a long ways since then, but it's always been about the same.</p>
+
+<p>"Well, I didn't mean to talk about myself. I've been lying here thinking, and I suppose I'm full of memories of things. That one just popped out. Listen; in a few days I'm leaving here. It's all arranged."</p>
+
+<p>"You're going back to Boxton to get some care and attention," said Louise. "This is no place&#8212;"</p>
+
+<p>"Dear girl," interrupted Rose, "I'm not going back to Boxton. In a few days now 
+ 
+<cb n="2" /> 
+ 
+ I'll be gone from here, and that's the end. Don't worry about me. You get pretty tough on the road, and I'm feeling a lot better than I did.</p>
+
+<p>"You're going to be married, and you're going to be happy, you two. I can read the future for you better than a gypsy. You're the sort of people that are cut out for happiness. You won't let anything ever come between you, and you'll always care for each other more and more every year. Mr. Eadbrook, I'm beginning to feel old&#8212;like an old woman running around and making matches. Your sweetheart is just as I thought she'd be. She looks just as I thought she'd look. And you'll never be anything but good to her, I know. And Miss Searles&#8212;"</p>
+
+<p>"Louise," suggested the other girl.</p>
+
+<p>"Louise," repeated Rose softly, "you'll love him tremendously&#8212;and he deserves it all. He doesn't know how to be anything but straight. He's all wool and a yard wide, this man is, and I'm going to tell you how I know."</p>
+
+<p>Then she looked at Eadbrook and said: "And now I want to talk to Louise. I won't keep her long. You understand, Mr. Eadbrook. Good-by, decent fellow!"</p>
+
+<p>Eadbrook took the hand that was extended to him, and astonished himself quite as much as anybody else by raising it to his lips. Then he left the room in precipitate embarrassment.</p>
+
+<p>HALF an hour later Louise came down-stairs. Her eyes were moist, and she said brokenly: "I'm ready, Walter."</p>
+
+<p>They went out, climbed into the carriage, waved a farewell at the two old people, and started for home.</p>
+
+<p>The sun was touching the tops of the tall spruces that flanked and topped the hill behind them. Already there was quiet in the woods, though much of daylight remained. Perhaps it was a little evening chill in the air that made Louise snuggle so closely to the man beside her.</p>
+
+<p>"I feel utterly wicked compared with her," said Louise suddenly. "Think what I have. Everything! And she&#8212;"</p>
+
+<p>"The poor thing!" muttered Eadbrook. "And there's nothing we can do to help her."</p>
+
+<p>"Yes, there is something. Of course it isn't likely they'll ever get that man. but if by any chance they should&#8212;you mustn't do anything to hurt him. She knows where he is. That's where she's going when she leaves the house up there."</p>
+
+<p>"What? Back to that wretch!" exclaimed Eadbrook bitterly.</p>
+
+<p>"That wretch," replied Louise, "is the man she loves, Walter. Do you understand?"</p>
+
+<p>Eadbrook thought a moment, and then nodded slowly.</p>
+
+<p>"Yes; we must do nothing against him," he agreed.</p>
+
+<p>The horse was valiantly bracing himself and crawling down the steep hill.</p>
+
+<p>"Stop him a minute, Walter," said Louise. </p>
+
+<p>"Walter," she said, putting her arms around his neck and her face close to his, "she told me wonderful things! I am going to love you like that. I do already."</p>
+
+<p>Their lips met. Eadbrook's arms held her to him.</p>
+
+<p>"Tighter!" she whispered. "Don't let me go. Don't ever let me go any more."</p>
+
+<p>He felt her heart beating against his. His own heart seemed to be straining at its bounds, in an effort to emerge into a new and wonderful place. He saw, in an instant trick of memory, all the events of the last few months, all the obstacles and pitfalls that had been strewn in their path, and he saw them fade away; and a marvelous serenity settled upon him.</p>
+
+<p>"Louise!" he murmured to her. "For ever and ever my Louise!"</p>
+
+<p>"For ever and ever my sweetheart," she whispered.</p>
+
+<p>UPSTAIRS in his own room in the Commercial Hotel, Clint Weatherbee was perspiring and fuming over the intricate absurdity of a "boiled" shirt. Not since his wedding day had he tampered with one of those symbols of effete civilization. Four times the elusive collar button flew from his big fingers and disappeared.
+
+<figure n="advertisement">
+<head>"Lend Us Your Ear"</head>
+<p></p>
+<figDesc>Advertisement for The Sterling Gum Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"Don't Shout"</head>
+<p></p>
+<figDesc>Advertisement for The Morely Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Add or Subtract&#8212;Quick.</head>
+<p></p>
+<figDesc>Advertisement for J. H. Bassett &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>A Big Job for the Right Boy</head>
+<p></p>
+<figDesc>Advertisement for Every Week Corporation</figDesc>
+</figure>
+
+<pb n="Page 17" xml:id="ew.issue.19160522.p017" />
+
+<cb n="1" />
+ 
+Four times Clint crawled around the floor and recovered the accursed contrivance. Two wilted collars lay on the bed where he had thrown them. They hadn't lasted long enough even for him to get his coat on. Clint suffered horribly&#8212;but not dumbly.</p>
+
+<p>Downstairs in the kitchen of the Commercial Hotel, Mrs. Clint Weatherbee, clad in her very finest raiment, was cautiously tripping around, giving one last survey to the food. Mrs. Clint was flustered, but radiant. She who had so long served unseen, behind the partition whence came those delicious feasts, was this time to be served. Starr had insisted on it. She was to occupy a seat of honor at the festive board.</p>
+
+<p>IT was nearly eight o'clock. A few traveling salesmen lingered over their supper, in spite of the fact that the tables were being moved almost from under their noses. The spacious dining-room was a-glitter. Wild flowers breathed their perfumes from every corner, and the walls were festooned with evergreens.</p>
+
+<p>Starr had said:</p>
+
+<p>"You can depend upon it, I won't sneak out of town with my tail between my legs. I'm going out with music and dancing&#8212;and something to eat."</p>
+
+<p>Already the tardy traveling salesmen heard the tuning up of the violins, and before they rose reluctantly from their places two brawny citizens had flung open the double doors that led to the downstairs parlor, and pushed in the Weather-bee piano.</p>
+
+<p>And the guests began to arrive. Most Boxtonians are accustomed to eat promptly at six o'clock, and they arrived at the hotel with ravenous appetites.</p>
+
+<p>"Make the reception mighty short," Starr had told Clint Weatherbee. "They'll be hungry when they get here, and the quicker they fill up the better humored they'll be."</p>
+
+<p>At eight o'clock promptly the diners sat down. Immediately the orchestra struck up a stirring air. Each pair of eyes swept up and down the long side-tables, and noted with satisfaction that among those present were&#8212;</p>
+
+<p>They were all there: all the boosters and all the anti-boosters. They were all mingling on what the Boxton <hi rend="italic">Banner,</hi> that week, reported as "terms of the utmost cordiality." And at the very head of the central table was Mr. Ezra Mudge. Beside him, looking ten years younger than anybody could remember seeing her look, was Aunt Lyddy Mudge.</p>
+
+<p>Ezra looked out over the gathering now and then, and smiled knowingly. Henry Treadway cast a shy glance in the direction of Joel Tibb and was rewarded with a friendly nod. J. Bradlee Starr, his cheeks painted with honest emotion, rubbed his hands gratefully and cried a greeting to every one.</p>
+
+<p>"Never before," said the <hi rend="italic">Banner,</hi> in that masterful leading paragraph which did so much credit to the editorial ability of Henry Treadway, "never before has good-fellowship reigned absolutely supreme within our midst; never before&#8212;"</p>
+
+<p>And very likely it was all true.</p>
+
+<p>THERE came the supreme moment when Ezra Mudge arose. Everybody felt it an imperative duty to say, "Hush!" to everybody else. The orchestra wheezed into silence at a word.</p>
+
+<p>"My friends," began Ezra, "fellow citizens of Boxton! I am not an orator"</p>
+
+<p>If it had been Henry Treadway who began in this modest manner, there would have been loud cries of "You're right, Henry." But somehow, when Ezra Mudge said, "I am not an orator," nearly all the townsfolk looked at one another and shook their heads, as if to imply that they were not to be deceived&#8212;that Ezra <hi rend="italic">was</hi> an orator, and that no amount of modesty could hide the fact.</p>
+
+<p>"I am not an orator, like our friend Williams yonder," resumed Ezra, looking over at the ex-Senator; "but I've got 
+ 
+<cb n="2" />
+ 
+something important to say, which our friend Williams sometimes hasn't." (Cheers and laughter, accompanied by a pathetically earnest attempt on the part of Mr. Williams to share the enjoyment.)</p>
+
+<p>Ezra stooped down and took up a bundle from beneath his chair. "I've got this, for instance," he said, unfastening the string. "I've brought it down to present it to the man that really ought to have it&#8212;Mr. J. Bradlee Starr!"</p>
+
+<p>The wrapper suddenly fell away from the parcel, and a stifled cry of amazement went through the room. It was the silver loving-cup.</p>
+
+<p>Starr jumped to his feet. "Oh, no!" he cried, bewildered.</p>
+
+<p>"Oh, yes," replied Ezra, unperturbed. "You're the most popular man in Boxton! So it's your cup." He put it down in front of Starr, who fell back helplessly in his chair.</p>
+
+<p>At this point, as reported by the veracious Boxton <hi rend="italic">Banner,</hi> "pandemonium reigned."</p>
+
+<p>EZRA coolly held up his hand.</p>
+
+<p>"There's something else," he announced. He looked down into the upturned face of Aunt Lyddy, and, seeing her eyes fixed upon him, he playfully touched her cheek with his finger-tips. "There's something else. Important, too. Want ye all to listen."</p>
+
+<p>The audience was breathless.</p>
+
+<p>"You know, my friends," began Ezra, "that when this boost business was started here in Boxton I warn't much in favor of it. And I had reasons. I can't go into them. You know what's gone on as well as I do, so we needn't dwell on those things.</p>
+
+<p>"The point is, Mr. Starr and I have been talking things over, and we've come to an agreement. And the agreement is this: that we were both wrong. Mr. Starr was wrong when he thought he could make a Western town out of old Boxton; and I was wrong when I took the stand that we were so good already we couldn't be improved on.</p>
+
+<p>"Now we've kind of got down to bedrock, and we're going to do something for Boxton. We're not going to try to make a bigger place of it, unless it gets bigger because it's more worth while to live in; nor we aren't going to try to make it any busier, unless business justifies our being busier. We're going to make it <hi rend="italic">better.</hi> We're going to do some of the things that ought to have been done long ago. We're going to clean up the town, and We're going to clean up ourselves. <hi rend="italic">We're going to begin on the inside and work out.</hi> Is that the idea, Mr. Starr?"</p>
+
+<p>Starr nodded.</p>
+
+<p>"He says it is. And now, all this is going to take time, and it's going to take money. My friends, if you'll furnish the time and the spirit, here's the money, for a starter. This cheek is made out to J. Bradlee Starr, and he's going to be the engineer."</p>
+
+<p>Ezra passed a check over to Starr, and the latter&#8212;to whom the move was quite unexpected&#8212;took it wonderingly. When he spoke, his voice shook with emotion:</p>
+
+<p>"This check," he said, "is for $25,000!" And then he added, with twinkling eyes: "I dare say it's good."</p>
+
+<p>That sally relieved the tension. Had it not been for something like that, Boxton, as represented by the audience in the Commercial Hotel, might have burst from excess of excitement.</p>
+
+<p>Starr held up his hand.</p>
+
+<p>"Believe me, friends," he said, "this is as big a surprise tome as it is to you. I did talk over things with Mr. Mudge, in a general way. He didn't say anything about <hi rend="italic">this.</hi>" He waved the check. "But the idea is a bully one. I've learned that there's a difference in people, for one thing. And I've got an idea now that the best kind of boosting is the kind that starts on the inside and works out, just as Ezra Mudge says. Well, you want to know what I'm going to do now. I'll tell you. I'm going to stay in Boxton one more week and get this big thing started. I wouldn't miss the chance for the world.
+
+<note place="bottom-margin" type="Copyright">Copyright, 1916, Every Week Corporation: John H. Hawley. President; J. F. Bresnahan, Vice-President; Bruce Barton, Secretary; R. M. Donaldson, Treasurer; 95 Madison Avenue, New York. All rights reserved. Subscription terms in the United States, its dependencies, Mexico, and Cuba, $1.00 a year. In Canada. S1.25. Foreign countries, $1.75. Entered as second-class matter June 14, 1915, at the post-office at New York, N. Y , under the Act of March 3, 1879.</note>
+
+<figure n="advertisement">
+<head>"Oh, for an Hour or Two of Sound, Unbroken Sleep"</head>
+<p></p>
+<figDesc>Advertisement for Pabst Extract Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Big Money in Motion Picture Plots</head>
+<p></p>
+<figDesc>Advertisement for Penn Motion Picture Agency</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The Economical Kiddie-Koop</head>
+<p></p>
+<figDesc>Advertisement for E. M. Trimble MFG. Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Bicycles</head>
+<p></p>
+<figDesc>Advertisement for Montgomery Ward Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Ladies! Select Your Silks at Home</head>
+<p></p>
+<figDesc>Advertisement for Fashion Silk Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Send for this Filter and Cooler</head>
+<p></p>
+<figDesc>Advertisement for Western Stoneware Co.</figDesc>
+</figure> 
+
+<figure n="advertisement">
+<head>Patents Manufacturers Buy</head>
+<p></p>
+<figDesc>Advertisement for R.S. &amp; A.B. Lacey.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for G. P. Kimmel.</figDesc>
+</figure>
+ 
+<pb n="Page 18" xml:id="ew.issue.19160522.p018" />
+ 
+<cb n="1" />
+
+Then I'm going home, out West&#8212;but not alone. There will be four of us in the party. Eadbrook and Miss Searles are coming back to Boxton after a while. But the other Boxtonian is going to stay out West&#8212;with me."</p>
+
+<p>He reached down and shamelessly took Katherine's hand, and added:</p>
+
+<p>"And, of all the good things I've found in Boxton&#8212;"</p>
+
+<p>THAT was as far as he got.</p>
+
+<p>Ezra had gone over to Eadbrook and Louise, and, with a hand on a shoulder of each, had leaned down to whisper to them, when Clint Weatherbee's voice broke out above the buzz of conversation:</p>
+
+<p>"You g' long out o' here, now! You get right out!"</p>
+
+<p>Everybody turned toward the door at the rear of the room. Mr. Tinker's face 
+ 
+<cb n="2" /> 
+ 
+was looking blandly in, his body being outside.</p>
+
+<p>Clint Weatherbee rose and started for the door with a shout.</p>
+
+<p>"Wait!" cried Starr. "Let him come in, Clint. I forgot <hi rend="italic">him</hi> when I said that there were four of us going to California. There'll be <hi rend="italic">five.</hi>"</p>
+
+<p>"<hi rend="italic">Him?</hi>" shouted Clint, and several others at the same time.</p>
+
+<p>"Yes," said Starr. "That air on the Pacific coast has been known to effect some marvelous changes in human nature. I'm going to try it on our friend Mr. Tinker. Who knows but out there in a new country he might&#8212;"</p>
+
+<p>Starr paused and looked at the troubled face of Mr. Tinker, and then at the diners. Then he added, with a smile:</p>
+
+<p>"Even want to go to work."</p>
+
+<p><hi rend="italic">The End</hi></p>
+
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="anidea.19160522">
+<body>
+<head type="main">An Idea Worth $1</head>
+
+<cb n="1" />
+
+<p>I MAKE $150 a year in addition to my regular salary. The plan I have developed myself; but any young man or woman can follow it. As the extra work involved amounts to only three hours a week; I may say that this plan pays me a dollar an hour.</p>
+
+<p>My regular employment is with a large manufacturing concern, where I am constantly in touch with various metals. Two years ago I started making the rounds of the tobacco dealers in my neighborhood on Saturday afternoons, purchasing all the tin-foil they had on hand. This tin-foil is packed between the layers of plug tobacco. Next I added the grocery stores to my itinerary, and secured their accumulation of tin-foil and lead-foil from tea-chests.</p>
+ 
+<cb n="2" />
+
+<p>With a simple little outfit consisting of a small melting ladle and a few ingot molds, I melt the foil and cleanse and cast the liquid metal into ingots. These I sell to a metal broker. All the work is done at my own house, and with practice. I have learned how to do it with almost no effort.</p>
+
+<p>For the lead-foil I pay two cents a pound: the metal broker pays me for the ingots five cents a pound. The tin-foil costs me ten cents a pound, and I sell the ingots at forty cents a pound. Solder I buy at twenty-three cents a pound.</p>
+
+<p>I know of no better way of cashing in on spare time: it is easy work; the merchants with whom I deal are glad to sell to me. And I make an average of a dollar an hour.</p>
+
+<note type="editors">
+<floatingText>
+    <body>
+ <p>EDITOR'S NOTE: I have paid the writer of this $10 for his idea. It is worth $50 to any reader who will put it into practice in his or her home town.</p>
+
+<p>Every week I will pay $10 for an idea that will make $1 or save $1 for the readers of this magazine.</p>
+
+<p>Address your letters to the "$1 Idea Editor." Don't be afraid to send your discovery because it happens to be a little one. Let us. hear how you make extra money in spare time; or how you save money. If the idea is novel enough to printwhether big or little there will be a check for $10 for you in the next mail.</p>
+   </body>
+</floatingText>
+</note>
+ 
+</body>
+</text> 
+
+<text type="nonfiction" xml:id="theyneverleave.19160522">
+<body>
+<head type="main">They Never Leave Their Office</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Robert H. Moulton.</ab>
+<p>These two young men were athletes. Bath received injuries that brought them side by side in a Chicago hospital, and they farmed the firm of De Prez &amp; Smith.</p>
+<figDesc></figDesc>
+</figure>
+ 
+<cb n="1" />
+
+<p>YOU won't find the firm of De Prez &amp; Smith listed in either Dun or Bradstreet; but if you call at Mercy
+Hospital, Chicago, and ask for the members of this concern, you will be directed to room 301, which is their headquarters. They never leave their office, because both are confined to their beds with injuries that have kept them continuously on their hacks, in the case of De Prez since January, 1915, and Smith since October, 1914.</p>
+
+<p>Side by side, in twin beds, these two young men, twenty-four and twenty-five years of age respectively, are conducting a general magazine subscription agency tinder what are probably the most unique and amazing conditions that ever confronted two business partners. They are equipped with telephones and typewriters and stationery and business ideas&#8212;every 
+ 
+<cb n="2" /> 
+ 
+business accessory, in fact, except calling cards, which they don't need.</p>
+
+<p>Each of these two bedridden young fellows who are showing such extraordinary grit and independence has undergone more than a dozen operations. Both were athletes, to which fact is due their remarkable stamina under such nerve-racking conditions. Mr. De Prez is from Indiana, and received serious injuries playing basketball. Mr. Smith is a Canadian, and was hurt while jumping skis. Neither will be able to leave the hospital for at least half a year longer, with the certainty of several more operations before they are discharged.</p>
+
+<p>But "nothing is the matter with our minds," say the firm of De Prez &amp; Smith, "so why shouldn't we conduct business as usual'?"	</p>
+
+<figure n="advertisement">
+<head>14 1/2¢ for Five Magazines Each Month</head>
+<p></p>
+<figDesc>Advertisement for Every Week Corporation.</figDesc>
+</figure>
+ 
+</body>
+</text>
+ 
+<pb n="Page 19" xml:id="ew.issue.19160522.p019"/>
+
+<text type="nonfiction" xml:id="poets.19160522">
+<body>
+ 
+<head type="main">Notice to Poets</head>
+ 
+<cb n="1"/>
+ 
+<p>THE poet who flung roses, roses riotously with the throng should have known Miss Margaret E. Boal of East Glendale, California. For Miss Boal could have supplied all the flora necessary for him and for the throng too. She has 7500 two-year-old Ulrich Bruners and 1200 Cecil Bruners (these are rose plants, you understand, not gentlemen); and she sells and gives away thousands of roses every week, not to mention the rose petals that she sells to perfumers.</p>
+ 
+<p>For seventeen years Miss Boal was a milliner. Then, pretty well fagged out,
+ 
+<figure n="photograph">
+<head></head>
+<ab n="credit">Photograph from Albert Marple.</ab>
+<p>Miss Margaret E. Boal has to clip 8700 rose bushes; but she likes that better than basting bonnets in a millinery factory, which was her first job.</p>
+<figDesc></figDesc>
+</figure>
+ 
+she put the finishing touches to a nervous collapse by studying law. This meant that she had to get out in the open air, and  she sunk her savings in the Glendale Ranch, bought a shovel, a two-hundred-dollar bungalow, and a few rose slips.</p>
+ 
+<p>She hires a man to plow for her, but all the rest of the work&#8212;the raking, cultivating, weeding, and irrigating&#8212;she does herself. She pushes a wheelbarrow over her five acres with then times the gusto that she ever exhibited in stitching hats in the millinery establishment.</p>
+ 
+<p>"If you know of any other poets who are planning a rose campaign, you must get their addresses and I will send them my circulars," says Miss Boal. Of course it is too bad for Miss Boal that pets are inclines to talk more about roses than to use them, and when they order a dozen Cecil Bruners for a riot they are apt to quibble over the price. And where are the good days when Emperor Nero stifled a roomful of guests in a shower of rose-petals?</p>
+ 
+</body>
+</text>
+ 
+<text type="nonfiction" xml:id="evans.19160522">
+<body>
+ 
+<head type="main">Wanted: Men for the Army</head>
+<byline>By <persName type="author" key="#Evans, Captain Frank E.">CAPTAIN FRANK E. EVANS, U.S.M.C. Recruiting Office</persName></byline>
+ 
+<cb n="1"/>
+ 
+<p>ODD files of humanity washing in with the tide that flows into our modern recruiting offices. The recruiter divides them into four classes: the "prospect," the "boot," the "previous service man," and the "repeater."</p>
+ 
+<p>The "prospect" is the man who asks casual questions of the recruiting sergeant. If he passes this conversational stage and passes the preliminary examination, he becomes a boot. Flat feet and poor teeth and eyes thin out the applicants' prospects, so that but one in twelve rises to the dignity of a boot. The previous service man is, of course, the man who reënlists.</p>
+ 
+<div1><head type="sub">"Back to the Army Again, Sergeant"</head>
+ 
+<p>OF the four classes, the repeater is at the same tine the most interesting and the most vexatious to the recruiting officer. Either he has been "scrapped" by Uncle Sam's medical survey as unfit&#8212;handed the "yellow ticket" as undesirable, so called because his discharge is made out on a yellow form instead of on the parchment of the honorably discharged&#8212;or has deserted the colors. He comes back in a surprisingly large number, under a false name, and resorts to every device to reënter the service. If the army sees through his deception, he hikes to the nearest navy or marine corps recruiting office. Rejected by all three, he rides the brake-beams to another city, to go through the same routine.</p>
+ 
+<p>The recruiting service has its own checks on the repeater's ambition. The finger-print system leads all the rest.</p>
+ 
+<p>If a man shows suspicious ear-marks, his finger-prints are "rolled" on an official form, and this is transmitted to Washington with the notation "Special" written across its face in red ink. Within two hours of its receipt a telegram is received from Washington, showing no previous service or giving his name and history.</p>
+ 
+<p>The betrayal of former service by habits of the drill-ground or the slang of barracks or ship argot crop out at times and lighten the weeding out labor. When the man strips for examination and walks across the floor at command, he will almost invariably start off with the left foot and half in the position of a soldier. The examination goes on, and at the
+
+<cb n="2"/>
+
+abrupt order "About face!" he executes the move without hesitation. Or, as he warms up to the flavor of the old atmosphere for which he longs, "When do you ship?" he will innocently ask; or, "How's the chow at the recruit depot?" If he seeks refuge in a stony silence, his reticence is equally suspicious, and a trap is laid for him. A pig on the instep, a Chinese dragon, a Japanese woman, a five-pointed star, sailor-knots, military devices, and patriotic emblems lead the tell-tale list of tattoo marks. In the navy the most popular device is the pig on the instep, the ancient charm of the Chinese against drowning. In the marines or the army  the Chinese dragon would about the arm leads in favor. The dragon came into vogue with the soldiers and marines who took part in the march of the allies to the rescue of the legations at Peking in 1900.</p>
+ 
+<p>The reënlisted man, with his discharge from the service to show his identity, goes through the examination with quiet efficiency. Any recruiting officer can step into a crowded examination room and spot him. When he strips he folds each bit of clothing and lays it on a chair as if making it ready for a clothing locker. He is scrupulously clean in dress and body, and radiates self-respect</p>
+</div1>
+ 
+<div1><head type="sub">Few Thrills in a Recruiter's Day</head>
+ 
+<p>PROSPECTS and boots are apt to be a colorless lot. You may, however, if you are lucky, begin in the morning with a manufacturer of boys' "pants" who has tired of commercial strife, and follow up with a miniature Houdini. His kit of sixty-odd keys, wires, jimmies, odd button-hooks, and nails opens any door, as he demonstrates; but his uncanny skill bars the door to the service. There is no meaner thief than the "sea-bag" or "Clothing-locket" thief. The next boot walks in to his examination with such an exaggerated display of the feet that you find he has been a clown who specialized in the Charlie Chaplin walk. A collegian enlists for a commission, a veteran of the Canadian contingent who was "gassed" at Ypres comes in, followed by a quiet, gray-eyed youngster who has walked thirty miles to enlist. Thus ends a recruiting officer's day's haul of "boots."</p>
+ 
+<figure n="advertisement">
+<head>"Lets the Body Breathe"</head>
+<p></p>
+<figDesc>Advertisement for Chalmers Knitting Company.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Kill Them with Black Flag Insect Powder</head>
+<p></p>
+<figDesc>Advertisement for Gilpin, Langdon &amp; Co.</figDesc>
+</figure>
+ 
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Advertisements for California, Patents, Female Help Wanted, Games and Entertainments, Help Wanted&#8212;Male and Female, Corporations, Agents Wanted, and Advertising.</figDesc>
+</figure>
+ 
+</div1>
+</body>
+</text>
+ 
+<pb n="Page 20" xml:id="ew.issue.19160522.p020"/>
+ 
+<text type="advertisement">
+<body>
+ 
+<figure n="advertisement">
+<head>Genuine "Bull" Durham Smoking Tobacco</head>
+<p></p>
+<figDesc>Advertisement for The American Tobacco Company.</figDesc>
+</figure>
+ <p></p>
+</body>
+</text>
+</group>
+</text>
+</TEI>
+
+ 

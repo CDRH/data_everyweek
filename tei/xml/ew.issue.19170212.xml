@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.1.3.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170212">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, February 12, 1917</title>
+<title level="m" type="sub"/>
+<author/>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2011</date>
+</edition>
+</editionStmt><publicationStmt>
+<idno>ew.issue.19170212</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address></distributor>
+<date>2011</date>
+<availability>
+<p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights
+reserved. Redistribution or republication in any medium, except as allowed
+under the Fair Use provisions of U.S. copyright law, requires express
+written consent from the editors and advance notification of the publisher,
+the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt><notesStmt>
+<note type="project">In the original publication digitized for this project, Pages
+1, 2, 23 and 24 are missing from this issue.</note>
+</notesStmt><sourceDesc>
+<bibl>
+<title level="j">Every Week</title>
+<author/>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1917-02-12">February 12, 1917</date>
+</bibl>
+</sourceDesc></fileDesc>
+<encodingDesc>
+<editorialDecl>
+<p/>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term/>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2011-02-21"><name>Laura Weakly</name> Encoding Enrichment</change>
+<change when="2011-02-14"><name>Arman Zeljkovic</name> Initial Encoding</change>
+<change when="2009-09-11"><name>Katie Heupel</name> OCR</change>
+<change when="2008"><name>Katie Heupel</name>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<group>
+<pb n="Cover"/>
+<text type="missing">
+<body>
+<note>
+<gap reason="See note for this issue of Every Week Magazine"/>
+</note>
+<p/>
+</body>
+</text>
+
+<text type="missing">
+<pb n="Page 2"/>
+<body>
+<note>
+<gap reason="See note for this issue of Every Week Magazine"/>
+</note>
+<p/>
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19170305.p003"/>
+
+<text type="advertisement" xml:id="britannica.19170212">
+<body>
+
+<figure n="advertisement">
+<head>You must act quickly to get a set of the New Encyclopaedia Britannica</head>
+<p></p>
+<figDesc>Advertisement for Sears, Roebuck and Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="flag">
+<body>
+<figure n="flag">
+<figDesc/>
+<p>Vol. 4, No. 7<lb/> February 12, 1917<lb/> Every Week<lb/> $1.00 per Year<lb/> 3 Cents a Copy</p></figure>
+<p></p>
+</body>
+
+</text>
+
+<text type="fiction" xml:id="adams.19170212">
+<body>
+
+<!--
+<figure n="illustration">
+<head></head>
+<p>"'Where are you going?' he demanded. 'I don't know. They've told me nothing except that I must get out of the city.'"</p>
+<figDesc></figDesc>
+</figure>
+-->
+<head type="main">A LETTER TO NOWHERE</head>
+
+<byline>By <persName type="author" key="#Adams, Samuel Hopkins">SAMUEL HOPKINS ADAMS</persName></byline>
+
+<byline>Illustrations by <persName type="illustrator" key="#Wolfe, George E.">George E. Wolfe</persName></byline>
+
+<p>THAT Henry Dale should he romantically in love was proper to his twenty-seven years. He had never been seriously in love before, having been too busy. That Henry Dale should be unromantically hungry was proper to neither his age nor condition. He had never been seriously hungry before, having been too prosperous. Golden, tropical, orchid-festooned, music-filled, revolution-breeding, secretive, joyous, poverty-haunted Caracuna City is a most appropriate place to be in love in. It is a most unfortunate place to be hungry in. Every Caracunan will sympathize with your love affair: not one will care if you starve to death to-morrow. Such is the Spanish-American temperament.</p>
+
+<p>Not that Henry Dale was likely to starve immediately; but there stood between him and the first stages of that untimely fate only an ancient Spanish coin of the value of two dollars, and a shiny new <hi rend="italic">real</hi> of the value of ten cents. Henry Dale prized the silver far above the gold piece. It had been given him by Miss Amy Lessamer, for services rendered.</p>
+
+<p>That had been seven days before, when young Mr. Dale was blessed with a full stomach and a heart at peace. At that time his chief concern in the world was to get away from the island republic of Caracuna, where he had been living in a considerable degree of privacy and boredom for several weeks. His getting away depended upon an expected remittance from
+
+<cb n="2" />
+
+his firm. Therefore, on a blazing February day he walked down to meet the morning train from Valenciana, which might bring some intelligence as to the overdue American mail.</p>
+
+<p>It did. It also brought Miss Lessamer and a hand-bag. Young Mr. Dale met the hand-bag first. It was in the grasp of a huge and ragged peon, who darted around a corner at a suspicious rate of speed and ran full into Dale. Dale, short and spare but solid, had just time to throw a self-protective shoulder forward. The fugitive staggered away from the impact and dropped the bag, which burst open, disgorging a silver-backed hair-brush, an American magazine, a cake of toilet soap, some daintily beribboned negligee, and sundry other items incompatible with a peon's estate. As the runner immediately resumed his gait with every appearance of alarm, Henry Dale justly suspected himself of having become the involuntary recipient of stolen property. Hastily repacking it, he turned into the waiting-room, and saw the owner.</p>
+
+<p>SHE stood in the middle of the wide space, looking about her with an expression of perplexity. She was quite tall; so tall that her eyes were just level with Dale's as he approached her: still, gray
+
+<cb n="3" />
+
+eyes, that looked out upon the world with frank and fearless interest, and at present with a little pucker of annoyance between them. At the sight of Dale and Dale's burden the eyes widened with lovely surprise and relief. Dale then and there committed himself irretrievably to the theory that never before had the sight of man been blessed with a vision so altogether bewitching, enticing, and heart-wrecking. The theory, as applied to Miss Amy Lessamer, was not original with him, but he would have gladly fought the world for the vested right in it.</p>
+
+<p>Miss Lessamer took one step toward him.</p>
+
+<p>"My hand-bag," she said. "How fortunate! Where did you&#8212;get it?"</p>
+
+<p>"From the champion half-miler of the tropics," said Dale, setting it sit down and baking off his hat.</p>
+
+<p>"The champ&#8212;oh, I see," she smiled. "He was running away with it."</p>
+
+<p>"He was. Until he tripped over me."</p>
+
+<p>"And you took it away from him?"</p>
+
+<p>"He dropped it. When I had picked up Monday's wash and started to ask him good morning, had he used Hare's soap, he was making up time on an over-due engagement."</p>
+
+<p>The girl let her thoughtful gaze rest on the bag, then lifted her eyes to his.</p>
+
+<cb n="4" />
+
+<p>"You might at least shake hands," she said, "and say you're glad to see me."</p>
+
+<p>Swallowing his amazement whole, Dale did so, promptly and fervently.</p>
+
+<p>"Glad!" he exclaimed. "I never was so glad to see anybody in my life! Who are you, please?"</p>
+
+<p>It was her turn to look amazed.</p>
+
+<p>"Why, I'm Amy, of course. Amy Lessamer."</p>
+
+<p>"Of course," he assented. "And who am I, please?"</p>
+
+<p>"Why, you're my uncle, aren't you?" she cried.</p>
+
+<p>Young Dale rubbed his clean-shaven chin thoughtfully.</p>
+
+<p>"O my prophetic soul&#8212;her uncle!" he murmured. "What comes next in this happy dream?"</p>
+
+<p>Pink danger signals flamed in her cheeks.</p>
+
+<p>"Aren't you Mr. Thomas Blakeley, the American missionary?" she demanded.</p>
+
+<p>"I am not. In spite of my long white beard, my pious air, and my decrepit gait, I am only Henry Dale, an&#8212;that is, a visitor upon these shores."</p>
+
+<p>"I'm very sorry," she said, with a marked air of withdrawal. "And thank you so much for returning my bag."</p>
+
+<p>"Please," said young Dale humbly. "If I'm venerable enough to be taken for an uncle, surely I can claim the respectability of age. Can't I be of help?"</p>
+
+<p>"He isn't old," said the girl, obviously annoyed. "He married my aunt, who is only four years older than I am. I wired
+
+
+<pb n="Page 5" xml:id="ew.issue.19170212.p005" />
+
+them to meet me; and I was to look out for a small, fair man in white."</p>
+
+<p>"You've found him. And now may I help you find Mr. Blakeley?"</p>
+
+<p>"I won't trouble you any further, thank you," said Miss Lessamer.</p>
+
+<p>There was something in the very decided set of her dimpled chin that told young Mr. Dale&#8212;by no means an unobservant person&#8212;that he was not making the most favorable of impressions.</p>
+
+<p>"What will you do?" he asked, troubled.</p>
+
+<p>"Please don't concern yourself about me. I shall wait quite comfortably here."</p>
+
+<p>FOR fifteen minutes she waited quite comfortably there. For the next fifteen minutes she waited less comfortably, there. Ten minutes later she was exhibiting signs of perturbation. And Mr. Henry Dale, who had ostentatiously marched out of the front entrance, only to march in again much less ostentatiously at the side, could contain himself no longer. He came up to her with a certain boyish and engaging awkwardness.</p>
+
+<p>"Miss Lessamer," he said, "I hope you won't think I'm&#8212;well, fresh. But I can't leave you here alone."</p>
+
+<p>"It doesn't look like a dangerous place."</p>
+
+<p>"No; not exactly. That is&#8212;well, you see," stumbled the young man, "I've got nieces of my own and&#8212;"</p>
+
+<p>He stopped short, reddening. The tall young goddess was laughing at him.</p>
+
+<p>"You're saying that just to reassure me, aren't you?"</p>
+
+<p>"Yes," said Henry Dale anxiously. "Doesn't it?"</p>
+
+<p>"I don't need reassuring. You don't really look dangerous. And, somehow, you don't give the effect of an uncle; not even of a substitute uncle."</p>
+
+<p>"No, I'm not," he confessed. "But won't you let me take you to your real uncle's? I'll tell you," he continued, with an inspiration. "We'll put this on a business basis. How much were you going to give the absconding peon?"</p>
+
+<p>"A <hi rend="italic">real</hi>, I suppose."</p>
+
+<p>"That will be satisfactory," he replied gravely. He picked up the hand-bag. "Where to, se&#241;orita?" he asked.</p>
+
+<p>"I can't remember the Spanish," she said gaily, "but Margaret (that is my young aunt) says that in English they live on the corner of Look-at-the-Sky and Last-Monday streets."</p>
+
+<p>They set out for it. At the corner of Look-at-the-Sky and Last-Monday streets they found a house that looked at no sky nor at anything else, whatever it may have done last Monday, for all its windows were dead and shrouded. A legend on the door explained concisely that the family was gone to the interior for a week. Miss Lessamer returned the house's blank gaze blankly.</p>
+
+<p>"They never got my message," she said.</p>
+
+<p>"Evidently," said Dale. "Whom else do you know here?"</p>
+
+<p>"Not a soul."</p>
+
+<p>"No more do I. That's awkward. Well, there's nothing for it but the Gran Hotel Kast."</p>
+
+<p>She flushed a little, but looked at him unwaveringly.</p>
+
+<p>"Is it expensive?"</p>
+
+<p>"Not very."</p>
+
+<p>"I've just ten dollars left. And the American steamer doesn't sail for a week. Will that see me through?"</p>
+
+<p>"Hardly."</p>
+
+<p>"Then I must find a cheaper place."</p>
+
+<p>Dale's glance unobtrusively took in the simple but trim perfection of her dress, and then passed to the expensive silver- mounted traveling case. Nothing about her fitted well with the idea of a cheap boarding-house or a second-class hotel.</p>
+
+<p>"Miss Lessamer," he said, "you already know my name. I'll ask you to take my word for it that I'm reliable as&#8212;well, as the average American man of decent upbringing. With half a dozen exceptions&#8212;and the less said about them the better&#8212;I believe we are the only Americans in Caracuna City to-day. That being the case, if you were eighty-seven years old and had false teeth, I'd say to you what I'm going to say now. May I lend you a hundred dollars?"</p>
+
+<p>She met his gaze squarely.</p>
+
+<cb n="2" />
+
+<p>"Won't that leave you short?"</p>
+
+<p>"No," he replied, and with the word was stabbed by a horrid misgiving.</p>
+
+<p>"Then I'll take it," she said, "until I can get word to the Blakeleys. I don't know what I should have done but for you."</p>
+
+<p>A cochero, dozing behind a semi-comatose horse, turned the corner. Dale hailed him. As the vehicle swung around, he put a roll of bills into the girl's hand.</p>
+
+<p>"He'll take you to the hotel," said he. "Ask for Madame. Kast and explain the situation to her. She's a good old soul, they say, and will look after you until your people come back."</p>
+
+<p>"I don't know how to thank you," said the girl, "Will you come to see me and let me try?"</p>
+
+<p>"Please don't. But I'll come this evening if I may."</p>
+
+<p>"Of course," she said. "Though I ought to warn you," she added lightly, "that I'm not altogether a safe associate. I'm under suspicion politically, I believe."</p>
+
+<p>"Politically? You?" He looked at her with concern. "Have you been unwise enough to meddle in Caracunan politics?"</p>
+
+<p>"No. But a man came to the plantation where I was visiting up-country, trying to escape. He was wounded and half starved and terribly frightened. They were going to hang him, he said, and he was hardly more than a boy. He staggered out of the chaparral right in front of my horse. What could I do?"</p>
+
+<p>"Well, what did you do?"</p>
+
+<p>"I, gave him money and&#8212;and lent, him my horse, and he got away."</p>
+
+<p>"More kind than wise. Didn't you even find out who he was?"</p>
+
+<p>"His name was Macheco."</p>
+
+<p>Dale fairly leaped. "Pedro Macheco?" She nodded. "The most notorious revolutionist on the island!" he cried.</p>
+
+<p>"So I learned afterward."</p>
+
+<p>"And it's known that you helped him?"</p>
+
+<p>"It's suspected. My friends had to leave for the mainland. And I came down here. An official question-mark in gold braid came to me on the train and put me through an examination in political economy. D'you think they'll arrest me?" </p>
+
+<p>"God forbid. Political prisoners who go into Caracunan jails' disappear. If they ever reappear they're broken and white-haired and sometimes lepers. For woman&#8212;well, she might better be dead."</p>
+
+<p>The girl had turned a little pale.</p>
+
+<p>"But I'd do the same thing again," she declared mutinously. "I'd <hi rend="italic">have</hi> to. He was like a helpless, pleading child. And&#8212;and you're trying to frighten me."</p>
+
+<p>"Only to make you understand that if you are suspected of any interest in
+
+<figure n="illustration">
+<head></head>
+<p>"He thought, when he saw her again, that her eyes were more troubled."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="3" />
+
+Macheco's cause, you ought to get out of this country by the first ship."</p>
+
+<p>"I'm going to; but none sails for a week. What ought I to do? Go to the American Legation?"</p>
+
+<p>"It's closed. Diplomatic relations are withdrawn because of the row over the cable."</p>
+
+<p>"But if they'd been going to arrest me, wouldn't they have done it before I came here?"</p>
+
+<p>His face lightened.</p>
+
+<p>"Probably. Yes; I think you're right. They'll just keep an eye on you and do nothing more. Therefore, the very best thing for you to do is to be living in the publicity of the hotel. That will disarm suspicion. Meantime, make yourself at home in Caracuna City," he added, with an hospitable wave of the hind. Hire a guide and take in the local sights. I can recommend one whose superior qualifications modesty forbids me to dwell upon. Terms reasonable."</p>
+
+<p>"That reminds me," she said.</p>
+
+<p>Taking a real from her purse, she gravely bestowed it upon him.</p>
+
+<p>UNTIL she had turned the corner, he stood uncovered in the splendor of the sunshine, holding the coin delicately, as if it were something precious. Then he put it away in a side-pocket of his purse. From another compartment he drew forth his remaining working capital. Exclusive of the <hi rend="italic">real</hi>, it footed up to exactly twenty-seven dollars and forty cents; and nothing in prospect until the American mail, held up by quarantine in the outer islands for ten days, as he had ascertained at the station, should arrive.</p>
+
+<p>Disturbed, but nothing daunted, young Mr. Dale went forth to the flower market and paid out some five per cent. of his capital for a cluster of imperial orchids still living in the dead wood of their foster-branch, which he sent to the Hotel Kast. When he called that evening, Miss Lessamer was wearing one of the blooms.</p>
+
+<p>Mr. Henry Dale capitalized his emotions and sentiments and became a fiat millionaire on the spot.</p>
+ 
+<p>For six days Henry Dale acted as guide to Paradise and its vicinity; His life during that time was a devastating conflict of sentiment and economics&#8212;a desperate m&#233;lange of the ideal as typified in Amy Lessamer and the actual as exemplified in his dwindling resources. Every day found him deeper in love and shallower in purse. "Dutch treat," the girl had firmly established as the basis of their companionship, and that helped immensely. Nevertheless, the budget was
+
+<cb n="4" />
+
+a recurrent anguish every night when he sat down to figure on his status. What with horseback rides in the early mornings, and picnics on the mountain-side, and tickets to the opera, and boating on the little lake with Indian pole-men for gondoliers, and ices in the park while the band played. Dale couldn't figure the expense of being cicerone to Miss Lessamer at less than three dollars a day, not including his own living.</p>
+
+<p>BY dint of breakfasting on plantains from the market at five-for-a-cent, and lunching on prickly pears from the hillsides at nothing-per-quart, he contrived to keep his personal maintenance down to a minimum. But dine he must, not infrequently with Miss Lessamer at the Kast; and every dinner cut down by so much the duration of that gay and sweet and frank comradeship which had come to mean everything in life to him; for when his money should be gone he must find some pretext and drop out of Amy Lessamer's day. To confess to her that he was bankrupt, when her necessity had reduced him to that condition, would be to inflict upon her an unthinkable mortification.</p>
+
+<p>And still the Blakeleys did not return. As for the political consequences of Miss Lessamer's warm-hearted but ill-advised part in the escape of Macheco, that danger seemed to have dwindled. Two or three times officials had come to the Hotel Kast to make inquiries, but that was all. Dale's uneasiness waned daily.</p>
+
+<p>Meantime he had to hold himself severely in check. One does not make love to a girl alone, unprotected; and living on one's money, in a foreign city. At least, one of Henry Dale's sort doesn't. Yet there were times when he came perilously near to betraying himself. One night the wonderful black-and-tan Caracunan Government Band had finished up with "Butterfly," the strains coming so softly to the two young Americans in their far corner of the sunken plaza that the music seemed borne to them on the golden moonlight that filtered through the trees. Dale rose.</p>
+
+<p>"This is the hour," said he, "when careful and conscientious duennas take their little charges home."</p>
+
+<p>Miss Lessamer kept her seat.</p>
+
+<p>"Little?" she said. "I'm not little. I thought at first that you were. Do you remember, at the station I told you I was to look for a little fair man."</p>
+
+<p>"Yes. That hurt&#8212;rather."</p>
+
+<p>"Did it?" she said wonderingly. "Why?"</p>
+
+<p>"No man likes to have the wom&#8212;a girl think of him as small. Even if it's true."</p>
+
+<p>She rose and faced him, and her sweet, soft eyes, with the tenderness of the music lingering in them, were level with his.</p>
+
+<p>"We're just of a height," she said. "And yet, I'm the one who feels little now&#8212;and helpless."</p>
+
+<p>"Oh, nonsense!" he protested. "I've never seen any one more self-reliant."</p>
+
+<p>"Yes. I've always felt that way about myself until now. I wonder," she mused.</p>
+
+<p>"They're putting the lights out."</p>
+
+<p>"Yes; we must go back," she assented, and they walked together toward the steps. "I suppose," she continued, "it's because I've come to rely on you so completely. Yet you didn't strike me as reliable when we first met. You see, you shouldn't have pretended to be my uncle."</p>
+
+<p>"I didn't," he denied indignantly. "You said that I was your uncle, and before I could deny it&#8212;"</p>
+
+<p>"But you said that you were glad to see me."</p>
+
+<p>"So I was."</p>
+
+<p>"And you were&#8212;well, deceptively emphatic about it."</p>
+
+<p>"You see, I was&#8212;or&#8212;trying to make you feel at home in Caracuna."</p>
+
+<p>"You've been doing that ever since," she returned softly.</p>
+
+<p>They had reached the entrance to the Gran Hotel Kast.</p>
+
+<p>"Good night," she said. "And I'm sorry I called you little."</p>
+
+<p>"It doesn't matter."</p>
+
+<p>"It doesn't," she assented. "Because&#8212;I'll tell you a secret&#8212;because you've grown every day that I've known you. At least a foot! So now you're eleven
+
+
+<pb n="Page 6" xml:id="ew.issue.19170212.p006" />
+
+<figure n="illustration">
+<head></head>
+<p>"I won't go,' said Dale. 'You won't go? You will go! I'll throw you off the boat.'"</p>
+<figDesc></figDesc>
+</figure>
+
+
+feet seven-and-a-half inches tall. Good night, giant!"</p>
+
+<p>On the morrow, when he went to the Kast to keep his daily tacit appointment, she was not there. Miss Lessamer, he learned, had left that morning with a lady. Not until afternoon did a note come to his room, asking him to meet her for a boat ride that afternoon.</p>
+
+<p>HE thought, when he saw her, that she seemed distrait, and that her eyes, though as trustful as ever, were less frank and more troubled when they met his.</p>
+
+<p>"The Blakeleys are back," she said.</p>
+
+<p>"I am glad&#8212;for you."</p>
+
+<p>"Yes. But I&#8212;I can't pay my debt yet. There's a three-day holiday over some saint or other, and the banks are closed, Mr. Blakeley tells me."</p>
+
+<p>"It doesn't matter in the least," he assured her bravely; and the last prickly pear he had eaten for lunch turned over coldly in a great area of hunger.</p>
+
+<p>"I suppose I've got to stay at home with them this evening," she continued, with an open regretfulness that made his heart leap. "But to-morrow perhaps you'll take me to the Blue Grotto for the day."</p>
+
+<p>The Blue Grotto! He'd been fearing that. It was an all-day trip, and his finances simply would not stand it. The time had come when he must drop out until his fortunes should mend.</p>
+
+<p>"I'm awfully sorry to fail in my duties as a chaperon," he said. "But I've got some business that will take me away tomorrow."</p>
+
+<p>"For long?"</p>
+
+<p>"Several days." As he spoke a sudden thought smote him. "The out-bound boat!" he exclaimed. "You'll be gone!"</p>
+
+<p>"No," she said quietly. "I sha'n't be gone. There's some difficulty arisen."</p>
+
+<p>"Not that political matter!"</p>
+
+<p>"I'm afraid so. The boat sails day after to-morrow. My permit to go on her is refused by the government."</p>
+
+<p>"Refused!" said Dale in consternation.</p>
+
+<p>"It isn't very complimentary of you to be so anxious to get rid of me," she returned, speaking with forced lightness. "Everybody seems to want me out of the way. They're holding all-day consultations and plots and stratagems over me at the house&#8212;the Blakeleys and some mysterious American acquaintance and a high local official who is a friend of theirs. That is why I can't ask you to come there this evening."</p>
+
+<p>"Can't you come to the Plaza for the concert, then?" he said quickly.</p>
+
+<p>"I ought not to," she returned.
+
+<cb n="2" />
+
+Then, as she saw the expression of his face, "I will," she amended promptly.</p>
+
+<p>At her wish he did not go home with her after the boat ride. Puzzled and deeply troubled, he returned to town, and strolled idly about the streets bordering the central plaza. There, despite the disquiet of his heart, the claims of his stomach began to assert themselves imperiously. He drew from his pocket the last of his funds, the small and ancient Spanish gold piece of the value of two dollars, and looked at it indecisively. Prudence dictated that it be held as an emergency fund. But prudence only whispers to youth; hunger clamors. Let the coin decide its own fate.</p>
+
+<p>He spun it. It fell against the angle of the curb, darted across the pavement, and bounded down the stone steps. A small beggar materialized from behind a tree and gave chase. Dale, with a gasp of dismay, raced the beggar. The clutching brown hand brushed his boot as he covered the fugitive coin. The beggar fell back, whining. Lifting his foot, Dale consulted the oracle. Heads! Dinner!</p>
+
+<p>AS he entered the Kast he was aware of a curious-looking individual of Anglo-Saxon appearance sitting outside: a gross, round, hard, fat, fair man with a face all made up of muscular shiny curves, who stopped contemplating nothing with a stupid smile long enough to direct a pale, China-blue gaze upon Dale, exhaling his breath, meantime, above a tucked-in lower lip with a faint, steamy, puffing sound. In the satisfaction of really appeasing a six-day cumulative hunger he forgot the gross, shiny man and all else except Amy Lessamer. He was reflecting upon her situation, when a thick, firm hand fell on his shoulder and a voice said:</p>
+
+<p>"How are you, son?"</p>
+
+<p>He turned to find the Anglo-Saxon stranger beside him.</p>
+
+<p>"Ff-ff-ff-ff-ff," steamed the man. "Didn't expect to see me here, did you?" Then, without a movement of his lips and with a startling effect of ventriloquism: "Say 'No.' Old acquaintance&#8212;back me up."</p>
+
+<p>Wondering but obedient, Dale rose and shook hands.</p>
+
+<p>"Glad to see you again," he said readily. "When did you strike town?"</p>
+
+<p>"Thursday. Sailing to-morrow. Ff-ff-ff-ff. Seen the schooner in the harbor?"</p>
+
+<p>"No; I didn't notice her."</p>
+
+<p>"Different old <hi rend="italic">Harkaway</hi> from when you knew her. Changed her rigging a bit and painted her up-to-date. Ff-ff-ff-ff. No frills on her captain, though. Same
+
+<cb n="3" />
+
+old Abner Tidman of Salem, Maine, and New York, and wherever the trade-wind blows."</p>
+
+<p>Thus, in a breath, he had contrived to give Dale his name, calling, and ship.</p>
+
+<p>"Business pretty brisk now, Captain?" asked the young man, playing up.</p>
+
+<p>"Ff-ff-ff-ff-ff! Can't complain. Pick up a charter here and there. Not much competition in the sailing line. Mostly steam. Ff-ff-ff. Canvas for me. Sort of yachting for business."</p>
+
+<p>He rambled puffily on while the tables about them emptied. When the last person within ear-shot had left, Captain Tidman leaned back. In a lifeless voice he inquired abruptly:</p>
+
+<p>"Could you use twenty dollars?"</p>
+
+<p>Dale sat up with a start. "What?"</p>
+
+<p>"Ff-ff-ff-ff. Twenty dollars, gold. I'm asking you if you want to borrow it."</p>
+
+<p>The fat man's manner was distasteful to Dale.</p>
+
+<p>"No, thank you," he said shortly.</p>
+
+<p>"Why not?"</p>
+
+<p>"For one thing, I don't know you."</p>
+
+<p>"Neither do I know you. Strikes me it's my risk. You need it, don't you?"</p>
+
+<p>"That's my business."</p>
+
+<p>"Correct. Some folks hate to borrow. Others have a prejudice against starving. When was your last square meal?"</p>
+
+<p>Amusement and interest overbore annoyance in Dale.</p>
+
+<p>"Are you a mind-reader?" he asked. "Or, rather, a stomach-reader?"</p>
+
+<p>"Ff-ff-ff-ff. I saw your face when that rat nearly pinched your gold piece. Panic! A man don't turn white over two dollars unless he needs it. So I judged a loan might be useful to you. You wouldn't have got it, anyway&#8212;not from me."</p>
+
+<p>Dale's eyes snapped.</p>
+
+<p>"Then your offer was in the way of a joke?"</p>
+
+<p>"Call it an experiment. The tropics are thick with derelict Americans who'd take a loan from anybody. I ain't looking for that species."</p>
+
+<p>"Suppose you tell me what you are looking for&#8212;before your coffee gets cold," suggested the young man pointedly.</p>
+
+<p>A slight flicker of the globular muscles that served Captain Tidman for cheeks testified that the point had not missed. "Ff-ff-ff-ff&#8212;information," he whiffied.</p>
+
+<p>"You've come to the wrong table."</p>
+
+<p>"Maybe so. Maybe not. I've found you won't borrow when you need it. And you're more or less go-to-hellish in your ways and manners. I like that&#8212;in a young fellow I'm going&#8212;ff-ff-ff-ff-ff&#8212;to do business with."</p>
+
+<p>"What makes you think that you're going to do business with me?"</p>
+
+<p>"Well," replied the Captain argumentatively, "there ain't much profit in your present line, I judge."</p>
+
+<p>"What do you think my present line is?" inquired Dale curiously.</p>
+
+<p>"Ff-ff-ff-ff-ff&#8212;figures out about like this: Broke, in a tough country to be broke in. Good clothes. Clean as a whistle. First-class condition. No rum marks. But&#8212;watch hocked, and hungry like a shark. Plain enough. American boat overdue with remittances. Right?"</p>
+
+<p>"Right," assented Dale.</p>
+
+<p>"So far, so good. But why no friends to help out in the pinch? Answer: not been here long. Ff-ff-ff-ff. Why not prove up business connection and get advance? Answer: business of private nature. Ff-ff-ff. Asphalt prospecting?"</p>
+
+<p>Dale, striving to catch his beady little eye and stare him down on the pointblank question, failed to call his attention back from the outer void wherein he pursued his highly personal speculation in a flat, uninterested voice.</p>
+
+<p>"No asphalt, I guess," he observed negligently. "Ff-ff-ff-ff. Copper, maybe?"</p>
+
+<p>"Or gold at the rainbow's end."</p>
+
+<p>"Pearls on the reef&#8212;ff-ff-ff?" he reflected aloud. "No. Dishonest. The man who won't borrow won't steal. Besides, you've been crossing the up-coast mountains."</p>
+
+<p>"How do you arrive at that?" asked Dale, startled.</p>
+
+<p>"Fresh cholla scar. Ff-ff-ff-ff. Cholla only grows up-coast."</p>
+
+<cb n="4" />
+
+<p>He pointed to the young man's wrist, where the malignant-barbed, stem-forsaking cactus had left its shaft. It was borne in upon Dale that this person was considerably less stupid than he looked. Not wholly logically, he abandoned most of his suspicion and took a quick resolve.</p>
+
+<p>"I'll tell you if you are so eager to know," said he. "I'm down here looking over the wreck of the Hector for my company&#8212;Hermance &amp; Snow. It isn't a matter that we want known until the deal goes through. That's why I'm keeping quiet about my business connections. The rest you know."</p>
+
+<p>A prolonged fuffing was Captain Tidman's only immediate commentary. He picked up a fork from the table, drummed idly with it for a moment, fixed his gaze upon the highest light in the glass dome of the Kast, and said quietly:</p>
+
+<p>"References satisfactory. Now we'll talk business. Are you open to a job?"</p>
+
+<p>"Specifications."</p>
+
+<p>"It's simple."</p>
+
+<p>"Yes."</p>
+
+<p>"Quick."</p>
+
+<p>"Good."</p>
+
+<p>"And well paid. Very well paid."</p>
+
+<p>"What are the requirements?"</p>
+
+<p>"Caution. Silence. Ability to swim. Ff-ff-ff-ff. Are you a good swimmer?"</p>
+
+<p>"I've done five miles."</p>
+
+<p>THERE was a slight snapping sound. Captain Tidman's eyes withdrew from immensity to contemplate with an almost infantile dismay the Gran Hotel Kast's fork, which had broken in half. "Oh, Lord!" lie murmured faintly. "Must have been a flaw."</p>
+
+<p>Dale looked at the strong metal, and from that to the stolid face of his vis-a-vis, and marveled at the evidence of nervous strain thus translated into physical expression. "Doubtless," he lied courteously. "What else?"</p>
+
+<p>"Oh! And courage," replied the other carelessly, as if that were to be assumed.</p>
+
+<p>"There's danger?"</p>
+
+<p>"It's no job for a timid man. Ff-ff-ff-ff."</p>
+
+<p>"Where am I to swim?"</p>
+
+<p>"From the schooner to shore. After we've put out."</p>
+
+<p>"With a message?"</p>
+
+<p>"That's it," said Captain Tidman, after a moment's hesitation.</p>
+
+<p>"What kind of trouble shall I be in after the message is delivered?"</p>
+
+<p>"None. You don't have anything to do with its delivery. Just mail it."</p>
+
+<p>"Then the danger is in the swim."</p>
+
+<p>"It will be long. And at night."</p>
+
+<p>"How long?"</p>
+
+<p>"Possibly two miles. Likely to be less."</p>
+
+<p>"Currents?"</p>
+
+<p>"Not to amount to anything."</p>
+
+<p>"Destination?"</p>
+
+<p>"A good sand beach."</p>
+
+<p>"What's on the beach?"</p>
+
+<p>"Nothing."</p>
+
+<p>"Price?"</p>
+
+<p>The Captain hesitated.</p>
+
+<p>"How would three hundred gold strike you?"</p>
+
+<p>Dale leaned forward over the table.</p>
+
+<p>"A message at night, by water, to be landed on a lone beach, and three hundred gold paid? It sounds crazy."</p>
+
+<p>"Ff-ff-ff-ff. So it does. Does that look crazy?"</p>
+
+<p>The fifty-dollar United States gold certificate that he laid on the table before Dale struck that needy man as one of the safest and sanest looking objects he had ever set eyes on. And two hundred and fifty more to follow! That meant enough to keep Dale at Amy Lessamer's side as long as she should stay. Enough&#8212;he thrilled to the thought&#8212;to take him back in the same ship with her when the matter of the permit was adjusted.</p>
+
+<p>But wasn't there something underhanded about this enterprise? Why could not a small boat he sent ashore with the message to that lonely beach? Why should it be intrusted to a swimmer and a stranger? Why not, indeed, set it ashore at Valenciana, the next port or call, where all ships touched? Contrary to his usual habit, Dale temporized.</p>
+
+<p>"How long have I got to decide?</p>
+
+<pb n="Page 7" xml:id="ew.issue.19170212.p007" />
+
+<p>"No hurry," said the Captain genially. "Say five minutes."</p>
+
+<p>Dale scowled. "I don't do business on a hair-trigger basis."</p>
+
+<p>Captain Tidman's little eyes veered from the farthest electric globe to the dim roof-dome beyond it. There was no discernible motion of his gross lips, but there seemed to form and hover in the air the words:</p>
+
+<p>"You'll help another in desperate trouble."</p>
+
+<p>Dale gazed at him in puzzled wonder. The big mariner's breath exhaled with a strained ff-ff-ff-ff-ff. His little stony eyes peered at far-away things. Incredible that the appeal should have come from him&#8212;until Dale's puzzled regard fell again upon the broken fork. It was borne in upon the young man that behind that gross, hard, heavy, animal-like face was a soul racked with anxiety and, Dale was convinced, by an anxiety not selfish.</p>
+
+<p>"It's a bargain," said Dale.</p>
+
+<p>Captain Tidman rose.</p>
+
+<p>"One other thing," he said. "Ff-ff-ff-ff. Do you know anybody in Valenciana?"</p>
+
+<p>"No; never have been there."</p>
+
+<p>"Ff-ff-ff-ff. Meet me at the Puerto del Norte quay at five to-morrow morning. I'll have your permit."</p>
+
+<p>THE band was tuning up when Dale hurried to the Plaza to meet his appointment with Amy Lessamer.</p>
+
+<p>She was not there. Nor did she come. But there was an elderly and quite respectable looking beggar, a most pernicious and persistent beggar, who dogged his nervous and impatient footsteps with supplications for a <hi rend="italic">real</hi>&#8212;just one little silver real. Surely the Se&#241;or America no had one <hi rend="italic">real</hi> about his person? The applicant felt certain, repeatedly certain in a persistent whisper, that there was a spare <hi rend="italic">real</hi> in the Se&#241;or's possession, were it only a luck-piece. And at last all this iteration stuck home to the anxiety-tortured brain of the lover, and he followed the messenger out of the crowded plaza into a side street. There a few quick words passed. The beggar&#8212;he was the Blakeleys' trusted servant&#8212;led Dale through dark streets and up the Avenue Paraiso to the outskirts of the town, where, in an old summer house, Amy Lessamer waited.</p>
+
+<p>She came to him with hands out-stretched.</p>
+
+<p>"Oh, I'm so glad you've come! They would only give me fifteen minutes longer."</p>
+
+<p>"They? Who? For what?"</p>
+
+<p>"The Blakeleys. Before I go. I wouldn't go before I had seen you to bid you good-by."</p>
+
+<p>"Where are you going?"</p>
+
+<p>"I don't know. They've told me nothing except that I must get out of the city for a time."</p>
+
+<p>"What has happened?"</p>
+
+<p>"Haven't you heard? Macheco tried to kill the President this morning."</p>
+
+<p>"Good God!" A wild thought came into his mind. "You weren't&#8212;there's nothing to connect you with it?"</p>
+
+<p>"Oh, no, no, no! But they were going to arrest me to-night. So I'm to be kept out of the way until the excitement dies down and my friends can see the President and explain."</p>
+
+<p>"When I come back shall I see you?"</p>
+
+<p>"Of course. There's the hundred dollars I owe you, you know."</p>
+
+<p>"I wasn't thinking of the hundred dollars."</p>
+
+<p>"I know you weren't," she said softly. "When I've paid that, I'll still be miles deep in debt to you, for being everything that is fine and splendid and and&#8212;well, for being you. And I couldn't go without thanking you. I couldn't and I wouldn't. And so they had to let me," she added, with an adorable obstinacy.</p>
+
+<p>"You're sure," said he, "perfectly sure, that they can fix the Macheco matter up?"</p>
+
+<p>"Perfectly," she replied. "Mr. Blakeley says it will all come out right if I'll just obey directions and not ask any questions. As if that were easy!"</p>
+
+<p>"Then," said he, trying to speak lightly,
+
+<cb n="2" />
+
+"this isn't really good by. I shall see you in a few days."</p>
+
+<p>"I don't know," she said doubtfully.</p>
+
+<p>"They might keep me away from the city some time&#8212;perhaps until after your American mail-boat has come in and you have left."</p>
+
+<p>"Do you think I would leave while you are on Caracunan soil, and in danger?"</p>
+
+<p>She turned and looked at him gravely and sweetly.</p>
+
+<p>"I might have known you would say that," she said. "But you mustn't stay. It&#8212;it wouldn't do any good. And there's no reason why you should he involved if there were danger."</p>
+
+<p>"None," he said quietly, "except that I love you."</p>
+
+<p>"Oh, no!" she protested tremulously.</p>
+
+<p>"Why&#8212;why, we've known each other only&#8212;"</p>
+
+<p>"Yes, I know. Only a week."</p>
+
+<p>"You can't&#8212;people don't&#8212;don't fall in love with each other in a week."</p>
+
+<p>"Don't they? Perhaps not. I've been waiting for you all my life."</p>
+
+<p>"But we don't really know each other," she cried, her eyes trembling away from the longing and passion in his. "You haven't even hinted at&#8212;at anything like this before."</p>
+
+<p>"How could I? You were in my care. Don't think that I expect anything of you." he added gently. "Or ask anything except just to stay within helping distance as long as there's any possibility of serious trouble. Is that too much?"</p>
+
+<p>"No; oh, no," she breathed.</p>
+
+<p>"There's one other thing," he said, speaking with difficulty. "If, by any possibility, I shouldn't be here at call, you'll know it was because I couldn't be. and not for any other reason in the world. You'll know that, won't you?"</p>
+
+<p>Her gaze probed his.</p>
+
+<p>"What does that mean?" she asked, with a little catch of her breath. Then: "It's you who are going into danger!"</p>
+
+<p>"No," he denied.</p>
+
+<p>"Yes," she asserted, with soft vehemence. "That is why you&#8212;you spoke to-night. What is the danger?"</p>
+
+<p>"It's just a business matter, with the ordinary risk," he said soothingly. "Only, in case anything went wrong&#8212;there isn't one chance in a hundred that it will&#8212;"</p>
+
+<p>"Where are you going?" she interrupted.</p>
+
+<p>"I can't tell you that."</p>
+
+<p>"Would you be going if it weren't for me?"</p>
+
+<p>"It has nothing to do with you," he answered, not altogether truthfully. "It's business. And I've given my word."</p>
+
+<p>Her soft, strong hands fell on his shoulders. "Then go," she said, "and God keep you."</p>
+
+<p>He caught her hands. "Amy!"</p>
+
+<p>"No, no!" she denied. "I&#8212;I don't love you."</p>
+
+<p>She drew her hands away. An urgent voice from the darkness called to her.</p>
+
+<p>"Yes, I'm coming," she said, and turned once more to Dale.</p>
+
+<p>"But-oh, come back to me safe!" she cried, and was gone.</p>
+
+<p>CLOSE-HAULED, under a light breeze, the <hi rend="italic">Harkaway</hi> was standing in for the desert shore of Caracuna. Dead ahead an abrupt hill stood forth in the sharp moonlight. Captain Tidman, who was himself at the wheel, pointed to the west of it and ffuffed softly at Dale.</p>
+
+<p>"Anywhere there," he said in a low tone. "Two miles of sand."</p>
+
+<p>It had been a strange day for the <hi rend="italic">Harkaway's</hi> passenger. Coming aboard, he had seen no-body. Officers and men alike had been busy in other parts of the
+
+<cb n="3" />
+
+schooner when the shore boatman had run the Captain and himself up to the companionway. He had been taken at once to the Captain's cabin, and there lie had stayed in complete seclusion until late night, when he had joined Captain Tidman on the wheel-deck, where he was still out of sight of the watch. For any testimony that he could have furnished to the contrary, the Harkaway might have been manned by Patagonian pirates with glass noses. Nor could any one on board, except his temporary employer, have identified him as having ever been on the ship.</p>
+
+<p>Most disturbing of all to a man as straightforward as Dale, he had discovered that he had shipped under the alias of Carl Trevor. But for Amy Lessamer, he could have wished the whole job and the three hundred dollars&#8212;which he was wearing in a waterproof pocket about his waist&#8212;with Davy Jones.</p>
+
+<p>THE blank coast loomed nearer. A touch of the wheel eased the ship's head off a point.</p>
+
+<p>"Better get your clothes off—ff-ff." wheezed Captain Tidman.</p>
+
+<p>Dale looked up in surprise.</p>
+
+<p>"D'you expect me to go prancing through a strange country with nothing on but three hundred dollars cash?"</p>
+
+<p>"Ff-ff-ff-ff-ff! All arranged for. You'll find clothes on the beach. Look for a cairn of rocks."</p>
+
+<p>Dale whistled softly.</p>
+
+<p>"You think of everything, don't you! But see here: suppose somebody should have happened along the beach and annexed 'em?"</p>
+
+<p>"No danger. Beach is haunted. Couldn't drive a native there with a gun at night."</p>
+
+<p>"Haunted, eh? What particular species of ghost, in case I should meet one?"</p>
+
+<figure n="illustration">
+<head></head>
+<p>Aren't you going to read it? It isn't a&#8212;a letter to nowhere.'"</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="4" />
+
+<p>"Sailor ghosts. Crew of the <hi rend="italic">Hector</hi>&#8212;ff-ff-ff-ff&#8212;poor devils! Bodies washed ashore there, the few that came ashore at all. Most of 'em didn't."</p>
+
+<p>"Why not?"</p>
+
+<p>"Shat&#8212;" began the Captain, and cut himself off with a sudden escape of compressed air.</p>
+
+<p>"Sharks!" Dale completed the word with a cold shock of enlightenment. "So that is the danger."</p>
+
+<p>"Well, I told you it was a dangerous mission," retorted the other. "I'm not paying three hundred dollars&#8212;ff-ff&#8212;for a little moonlight pleasure swim."</p>
+
+<p>"You let me believe the danger was in the swim itself. I'll swim anywhere. But&#8212;sharks! That's different."</p>
+
+<p>"Ff-ff&#8212;'fraid?" inquired the Captain His look was a deliberate insult.</p>
+
+<p>"Yes," Dale snapped.</p>
+
+<p>"You have to go just the same. Bargain's a bargain."</p>
+
+<p>The sweet gray eyes of Amy Lessamer rose before Dale, and the soft voice of her plea sounded in his ears. What if he never reached shore? What if she waited, needing him, trusting him?</p>
+
+<p>"I won't go." said Dale. "Take your money and set me ashore at the next port.</p>
+
+<p>"Ff-ff-ff-ff!" breathed the Captain, and there was something venomous in the sound. "You won't go? You will go! I'll throw you over myself." He dropped the wheel.</p>
+
+<p>Dale set himself.</p>
+
+<p rend="continued">"Not single-handed," he retorted coolly. "And I don't think you'll call any one to help you. You haven't kept me so secret for nothing. Try to put me off this old</p>
+
+ <p rend="jumpline"><ref target="adams.19170212.jump">Continued on page 22</ref></p>
+
+
+</body>
+</text>
+
+<pb n="Page 8" xml:id="ew.issue.19170212.p008" />
+
+<text type="nonfiction" xml:id="read.19170212">
+<body>
+
+<head type="main">"I HAVE NO TIME TO READ"</head>
+
+<head type="sub">All Right&#8212;We'll Do Your Reading for You. $300 Worth of New Books and Magazines Are Read Every Week for These Two Pages</head>
+
+<div1>
+<head type="sub">HIS NEW AMERICAN WIFE</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">E.O. Hoppe</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">E.O. Hoppe</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>FOR the second time, Lord Curzon, the man who ruled India for six stormy years, and carried on a historic quarrel with Lord Kitchener, has married an American woman.</p>
+
+<p>Curzon's first wife, the beautiful Mary Leiter, was known on three continents for her graciousness, gentleness, and charm. She was the sister of young Joseph Leiter, whose spectacular attempt to corner the wheat market on the Chicago stock exchange is still talked about as the most picturesque single exploit in American finance. She went as a bride to India, to occupy one of the most difficult social positions in the world. There she became a greater personage than her husband. Curzon was domineering, obstinate, arbitrary. Beautiful Lady Curzon had the dignity and tact of a royal princess. She smoothed out bitter antagonisms, softened public opinion everywhere. In the relentless quarrel between her husband and Lord Kitchener, she never lost the friendship of her husband's enemy.</p>
+
+<p>Kitchener was appointed commander-in-chief of the army in India at Curzon's own request. But the two men had not been long associated before they began to clash. While Curzon was on a visit to England, Kitchener wrote his government that he would withdraw unless he were given more authority. England was alarmed. It believed that Kitchener was necessary for the safety of India, and it yielded to his demands. This meant the supremacy of the military government over the civil government. Curzon would not accept such a decision. He resigned. Then the government compromised. Curzon retracted his resignation, went back to India, and asked for the appointment of a certain general as a member of his council. "Ask Kitchener's advice," the government wired back. This was too much. Curzon resigned in earnest. England was split over the feud between these two strong-willed, unyielding men. While one side maintained that Curzon was the best viceroy India had ever had, the other declared that he was merely a brilliant and ambitious self-seeker.</p>
+
+<p>Curzon's appointment as government leader in the House of Lords, and Lord President of the Council in Lloyd-George's Cabinet was announced on the 10th of December. On the same day was announced his engagement to Mrs. Duggan, whose picture is shown above. Mrs. Duggan was born in Alabama, is the daughter of the late J. Munroe Hinds, minister to Brazil, and the widow of Alfred Duggan, a Tennesseean, who, after amassing a fortune of twenty millions in the Argentine, died a little more than a year ago.</p>
+
+</div1>
+
+<div1>
+
+<head type="sub">FOR LOVE OF FRANCE</head>
+
+<p>A RICH young college graduate who had driven an ambulance at the front in Alsace said of one of the Chasseurs Alpins: "I can't imagine anything that will give me more pleasure than to encounter that man in New York. His name is Fran&#231;ois. He is second cook at the Knickerbocker Hotel, and the finest gentleman I ever knew."</p>
+
+<p>No man can drive at the front and come out unchanged, wrote for the <hi rend="italic">Outlook</hi> A. Piatt Andrew, Inspector-General of the American Ambulance Field Service in France.</p>
+
+<p>"For weeks at a time, night after night, our drivers operate their cars without any lights except such as come from illuminating rockets from the trenches, along encumbered roads, often in the midst of heavy shell fire. Sometimes they run their cars into holes made by shells, and have to wait until passing troops can lift them out. Often when the dawn comes they go to sleep on a bloody stretcher in the back of a dirty ambulance, in sleet and rain. Sometimes they work for forty-eight hours at a stretch, with scarcely a moment's rest of any kind. They live, like the soldiers, on dried vegetables and
+canned meats. They see nothing for months at a time of the outside world, and have nothing enter into their thoughts week after week but the most sordid side of the business of war."</p>
+
+<p>In spite of their hardships and risks, says Mr. Andrew, our men have gained much more than they have given, have taken out more than they have put in.</p>
+
+<p>"It is a privilege even in peace times to live in the gentle country of France, surrounded by all the wonderful architectural heritages of her past, and in contact with her gifted, sensitive, and highly intelligent people. One learns constantly new lessons in courtesy and in consideraation for others, and one inevitably gains a better perspective about the things which make life worth while. To live in France to-day means all this and much more. To see a nation facing mortal danger with the courage, good humor, and tenacity the French people display, giving to their country willingly all that they have or can hope for, smiling in the midst of suffering, and unmindful even of death, means for every American volunteer an inspiration to patriotism such as no other experience in life could ever offer."</p>
+
+</div1>
+
+<div1>
+<head type="sub">BOOKS THAT OUGHT TO BE BURNED</head>
+
+<p>ON the shelves of any library are books that it is an outrage and a scandal to read. Not for moral reasons, however. It is the small type found in these books that causes the tired, strained eyes and the semi-blindness of our age.</p>
+
+<p>"I have seen copies of 'Pilgrim's Progress' and 'The Everlasting Rest' that I should be willing to burn," writes Arthur E. Bostwick in the Yale Review, adding that it is not the authors, but the publisher and printer, with whom he is enraged.</p>
+
+<p>"It is an unfortunate law of nature that injurious acts appear to us in their true light only after the harm is done. The burnt child dreads fire after he has been burned&#8212;not before. So the fact that the middle-aged man can not read small, crooked, or badly grouped type means simply that the harmfulness of these things, which always existed for him, has cumulated throughout a long tale of years."</p>
+
+<p>Curiously enough, when children are taught to read, we give them large, legible type "to save their eyes." But then, as soon as their eyes grow stronger, they are maltreated again by blurred, difficult printing and typography that slowly ruins their eyesight.</p>
+
+<p>Publishers are indifferent: to this most important feature of a book. Their catalogues tell a man that a book has 942 pages, 6 plates, 3 maps, and costs $2.50. There is not a word about the type. "Yet on this depends the ability of the reader to use the book."</p>
+
+<p>Type should be large&#8212;one sixth of an inch high (twelve-point),&#8212;clear, but neither too thick and black nor too delicate. A printed line should be short, as it is easier for the eye to make several jumps than occasional long jumps from one line to the next. Uniformity in length of line is the most important thing, because then the eye performs these leaps subconsciously. Short lines are what makes it possible for us to read newspaper type at all.</p>
+
+<p>The St. Louis Library is collecting a library of books for adults. They are censored according to the size of the type, and up to date only four hundred books have been found. The collection can be divided into the following classes:</p>
+
+<p>1. Books containing so little material that large type, thick paper, and wide margins were necessary to make the volume easy to handle.</p>
+
+<p>2. Books printed in large type for esthetic reasons. These are few, beauty and artistic form being linked with illegibility by many printers.</p>
+
+<p>"Until readers are awake to the dangers of small print and the comfort of large print, publishers won't be pressed into making books for tired eyes. Librarians, teachers, and the press&#8212;all can do their part."</p>
+
+</div1>
+
+<div1>
+<head type="sub">HOW TO HANDLE DIFFICULT CALLERS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Fox Film</ab>
+<p>"What name, please?" may be made to sound like the prettiest of compliments if said in the secretary's best tone of voice.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>IF the duty of a secretary in regard to callers were merely to get rid of them, the office-boy would be valuable. But, as his duty is to keep as many as he can away from his chief and at the same time make them feel how keenly the chief wants to see them, a secretary needs the aplomb of Mrs. Vincent Astor, the diplomacy of President Wilson, and occasionally the muscle of Jess Willard.</p>
+
+<p>A secretary's crowning glory is manner, according to Edward Jones Kilduff in <hi rend="italic">The Private Secretary</hi> (the Century Company). The three ingredients of manner are courtesy, tact, poise. He must be courteous or he will reflect discredit upon his employer. He must be tactful or he can not learn the name and business of reticent callers who are convinced that they should disclose this information to no one but the chief, and that inmediately. He must be poised, for if he is timid, uncertain, and not able to dominate the situation, an aggressive caller may bluff his way through.</p>
+
+<p>If the chief is late for his appointments, a woman can use the training she has had in entertaining her own guests or "making things go" at her own dinner-table. If a caller tries to use physical force in seeing the chief&#8212;well, under ordinary circumstances, it might be better to have a man for a secretary.</p>
+
+<p>It may happen that four or five callers, all of whom the chief would wish to see, arrive at once.</p>
+
+<p>"In such event, the secretary will be hard put to keep a grip on the situation. Each of the callers will have the idea that he is of such importance that he ought to be admitted immediately. It is part of the secretary's duty to exercise such finesse that he can keep them content to wait their turns. The strategy which a secretary is compelled to use sometimes would do credit to a diplomat."</p>
+
+</div1>
+
+<pb n="Page 9" xml:id="ew.issue.19170212.p009" />
+
+
+<div1>
+<!-- 
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Newman Traveltalks and Brown &amp; Dawson.</ab>
+<p>The lawn-mower drummer who rolls into Rio de Janeiro had best start in by throwing away his wrist-watch. The early bird there finds no one up.</p>
+<figDesc></figDesc>
+</figure>
+ -->
+
+<head type="sub">DOING BUSINESS IN SOUTH AMERICA</head>
+
+<p>THE breezy salesman of North America needs to temper his tweezes to the fastidious merchant of South America. He can not "blow in," grasp his prospective customer by the lapel, pour cigars into his hands and inducements into his ears, and rush off to make his train. Selling goods in the tropics is, according to Ernst Filsinger in <hi rend="italic">Exporting to Latin America</hi>. (D. Appleton &amp; Company), a stately affair. The traveler in the small towns does well to make a preliminary call as a kind of appetizer, and gradually lead up to the pi&#232;ce de r&#233;sistance.</p>
+
+<p>The personal touch, moreover, is so important that it is proof even against the lower prices of a vigorous competitor, and the salesman who shows an unusual interest in the personal relations of his customer is the one who will meet unusual success. Birthday cards, not only for the head of the firm but for his family, and little gifts on f&#234;te days, which play so prominent a part in the life of the Latin American, are big factors in business.</p>
+
+<p>The traveling man must avoid such delicate questions as politics, religion, or customs that seem to him strange. He must not try to talk the conservative and formal Southerner into a purchase. He can do much more by courtesy than by argument. If he neglects to lift his hat to a merchant on the street, he may never get a hearing.</p>
+
+<p>The native or foreign merchant of South America has more of a regard for culture and the fine arts than has the average business man of North America. He is as formally polite in his office as in a drawing-room. His love and hate are easily aroused. He is swayed by sentiment, and it behooves the traveler to give careful attention to first orders; for when he once gives his patronage to a firm the South American is so loyal that it is difficult to dislodge him.</p>
+
+</div1>
+
+<div1>
+<head type="sub">THE GREATER THRIFT</head>
+
+<p>IS America a thrifty nation? This is your history, the history of the average American citizen as gathered from statistics by S. W. Straus for the <hi rend="italic">Journal</hi> of the National Education Association:</p>
+
+<p>Take 100 Americans at the age of twenty-five. By the time they are thirty-five, 5 have died, 10 have become independent, 10 are in good circumstances, 40 have moderate resources, and 35 have no more than they had ten years before.</p>
+
+<p>By the time they are forty-five years old, 11 more die; all but 3 of the 60 who had anything at all have lost it; 3 have become wealthy; 63 are self-supporting, with no other resources; 15 have ceased to be self-supporting.</p>
+
+<p>At fifty-five years of age, 4 more have died, 1 more, has become wealthy; 3 are in good circumstances, but 1 who was wealthy at the age of forty-five has lost his fortune.</p>
+
+<p>At sixty-five years of age, 63 of the original 100 have died, 60 of whom left no estates; 2 of the 5 who were rich have lost their fortunes.</p>
+
+<p>At the age of seventy-five, 34 of the men remaining of the original 100 are dependent upon their children, relatives, or society, and 3 are wealthy.</p>
+
+<p>And what of the wives left by men who have died? Court records show that out of 100 men who die, 3 leave estates of $10,000; 15 leave estates of from $2000 to $10,000; 82 leave no income-producing estates at all. Thus, out of every 100 widows, 18 are left in comfort; 47 are obliged to work; 35 are in absolute want.</p>
+
+<p>No; America is not a thrifty nation. Therefore Mr. Straus advocates that, along with political economy, personal economy be taught in the schools. By personal economies he does not mean how to sate, but how to spend. This is what he calls the "greater thrift." If you make $800 a  year and spend $400, you are thrifty. If you make $10,000 and spend $5000, you are thrifty. But if you make $10,000 and spend only $0, you are not thrifty. You are a miser. The difference between thrift and greater thrift is the difference between saving money and spending it wisely. You may save money, but if you injure your health by dissipation, or by working eighteen hours a day, you are not thrifty.</p>
+
+<p>"Money-saving is but one link in the chain of thrift. The greater thrift is liberal thrift. It is the art of living."</p>
+
+</div1>
+
+
+<div1>
+<head type="sub">A WAR NECESSITY</head>
+
+<figure n="cartoon">
+<head></head>
+<ab type="credit">From <hi rend="italic">Punch</hi></ab>
+<p>The Arts and Crafts reversible bed for Zepp nights.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</div1>
+
+<div1>
+<head type="sub">HOW LINCOLN GOT ALONG WITH STANTON</head>
+
+<p>IF Lincoln had been up for reelection last November, he would doubtless have spent Tuesday evening reading Irvin Cobb. When he, with some of his Cabinet officers, was awaiting returns in the telegraph office on the night of November 5, 1864, he was reading aloud from the effusions of Petroleum V. Nasby. Stanton, his stern Secretary of War, was indignant with the President for filling his mind with such trifles when the destiny of the country hang in the balance; but Lincoln had a method in his foolishness. "If it were not for this occasional vent," he said, "I should die."</p>
+
+<p>The contrast between the pleasant, genial President and his haughty, severe Secretary is described by David Homer Bates in <hi rend="italic">Lincoln in the Telegraph Office</hi> (the Century Company). Stanton was brusque and rude to reporters; Lincoln, on the other hand, was so obliging that he sometimes gave out advance information that leaked through to the enemy.</p>
+
+<p>Once a cotton speculator called on Lincoln, begging him to overrule an order of Stanton's. Lincoln refused to do so, but finally gave his caller, who was a prominent man, a card introducing him to Stanton. In a short time the speculator was back at the White House, cursing the Secretary.</p>
+
+<p>"Mr. President," he said, "what do you think Stanton did with your card?"</p>
+
+<p>"I don't know," said Lincoln. "Tell me."</p>
+
+<p>"He tore it up and threw it into the wastebasket. He is not a fit man to be your Secretary of War."</p>
+
+<p>"Did he do that?" replied Lincoln. "Well, that's just like Stanton."</p>
+
+<p>But, although the great War Secretary was not blessed with the delight in fun that brought Lincoln relief from the awful strain, he had his moments of softened kindness, and was even known to forget the burdens of war in a game of mumble-the-peg.</p>
+
+</div1>
+<div1>
+<head type="sub">ON HAVING THE BLUES</head>
+
+<p>EVERY one has experienced ordinary blues, when one feels, "The world is black to-day. Yet, it never was any brighter. Impossible that it ever will be." Also, "I never was of any use. My friends don't like me."</p>
+
+<p>But when these same blues are exaggerated and intensified they become a disease and are named "psychoneurosis." Dr. Richard C. Cabot describes this malady in <hi rend="italic">A Layman's Handbook of Medicine</hi> (Houghton, Mifflin Company).</p>
+
+<p>"Psychoneurosis means oversensitiveness in every sense&#8212;to noise, to smell, to having the feelings hurt, to changes in surroundings, to reproof." Its other characteristic is self-centeredness&#8212;an unfluctuating, abnormal interest in one's self and one's troubles. And as all interest turns inward, the person's unhappiness and depression increases.</p>
+
+<p>"The typical patient is one who is dogged by fears of one kind or another for when mental life is below normal fears break in on one. Added to fears, there is a feeling of personal inefficiency.</p>
+
+<p>"The treatment of this trouble is real life&#8212;in the sense of doing whatever one can to get the person back into normal relations with human beings, with duty, and with God, which keep the whole of us going. No matter how weak the psychoneurotic is, he must use the little power he has to get more. If a person has very little muscle in his legs, he must exercise that little in order to get more. Patients often say, 'I can not read half way down the page before my attention is tired and I forget all.' I always urge such people to go on reading, and lead them to see that this is the only way they can gain power to read the page and then read more. They must do the thing they 'can not do'&#8212;do the thing they are afraid to do&#8212;get where, by contact with other people, they forget themselves and find the normal center of life, which is outside themselves."</p>
+
+<p>Therefore, if you are self-conscious, afraid of people, envious and jealous, force yourself to see them a great deal, and one day you will discover that you are really interested in what they are saying and doing&#8212;that it hasn't occurred to you for months that "nobody likes you."</p>
+
+<figure n="photograph">
+<head></head>
+<p>Don't begin to feel that nobody loves you and you won't ever amount to a row of pins, or some doctor will come along and diagnose "psychoneurosis."</p>
+<figDesc></figDesc>
+</figure>
+
+
+</div1>
+<div1>
+<head type="sub">GERMAN WOMEN, MARRIED AND UNMARRIED</head>
+
+<p>"TO marry and to marry, if possible, an officer, is the ambition of the average German girl as she grows toward womanhood," says Anne Topham in <hi rend="italic">Memories of the Fatherland</hi> (Dodd, Mead &amp; Company). "There is no limit to the length to which wealthy people of obscure birth will go in their efforts to obtain a footing in the class from which they are separated by an insurmountable barrier. Few people realize the difficulty that wealthy people in Germany have when not provided with the magic 'von' which enables them to be considered <hi rend="italic">Hoffahig</hi>&#8212;'Court-capable'&#8212;in gaining an entrance into the impecunious circle of the blue-blooded aristocracy surrounding the throne."</p>
+
+<p>The author goes on to hint at another reason besides social ambition which makes for this ideal. "I remember a young countess, belonging to an old and honored German family, congratulating herself on becoming engaged to a naval officer, because she would not, as might have been the case if she had married a landed proprietor, be required to supervise various household tasks"&#8212;such as the making of seventeen kinds of sausages.</p>
+
+<p>"The German ideal of woman is, as we know, of to being who entwines heavenly roses in the earthly lives of her mankind, and exercises a softening but strictly sub-ordinate role in his existence. But the German daughter of to-day does not conform to the same lines as her mother. Everywhere I was told [this was in 1913, the date of the author's last visit] that household management was becoming a thing of the past; that restaurants and a love of leisure were undermining all the good old German ways: that girls preferred to train as doctors or dentists or even chemists: that they wanted to be factory inspectors rather than cooks and domestic purveyors of home comforts."</p>
+</div1>
+
+</body>
+</text>
+
+<pb n="Page 10" xml:id="ew.issue.19170212.p010" />
+
+<text type="nonfiction" xml:id="hendrick.19170212">
+<body>
+<head type="main">EXIT&#8212;THE GOULDS</head>
+
+<byline>By <persName type="author" key="#Hendrick, Burton J.">BURTON J. HENDRICK</persName></byline>
+
+<note type="editors">DOES the accumulation of huge fortunes in America mean that there is less "chance" than there used to be? Is opportunity to be manacled to the chariots of millionaires? Will the handing down of great fortunes from father to son tend to create a permanent master and a permanent servant class? There are some young men who think so. To such there will be large encouragement in this article. A dynasty whose founder died in 1892 has already ceased to reign.</note>
+
+<figure n="photograph">
+<head></head>
+<p>Mr. and Mrs. George Gould, with two of their children. Mrs. Gould was Miss Edith Kingdon, the actress.</p>
+<figDesc></figDesc>
+</figure>
+
+<div1>
+<p>A FEW months ago the Missouri Pacific Railroad passed out of the control of the Gould family and definitely became the possession of what is usually known as the Kuhn, Loeb-Rockefeller group of capitalists. The general public paid little attention to this event, yet it marked the passing of what, in a sense, was the greatest of the American railroad dynasties.</p>
+
+<p>Jay Gould, the founder of this family, died as recently as 1892. He left his children an inheritance that might have made them one of the greatest financial powers in the world. This inheritance included the Manhattan Elevated Railroad in New York City and the Western Union Telegraph Company. His railroad system comprised the Wabash, the Missouri Pacific, the Texas &amp; Pacific, the International &amp; Great Northern, the Iron Mountain, and many others. All these properties and several others added to the family estate since&#8212;the Western Maryland, the Wabash-Pittsburgh Terminal, the Wheeling &amp; Lake Erie, the Denver &amp; Rio Grande, and the Western Pacific&#8212;have passed out of the family control.</p>
+
+<p>The Interborough took over the Elevated Railroads twelve years ago; the American Telephone Company took the Western Union in 1910; while the Rockefeller-Kuhn, Loeb combination has now fallen heir to the choicest of the railroad possessions. As riches go to-day, the Goulds may he accounted almost poor; there is probably not one whose entire fortune is as large as Henry Ford's income for a single year. "From shirt-sleeves to shirt-sleeves in three generations," is the familiar procedure; it has taken the Gould family just twenty-five years to lose their position as railroad kings.</p>
+
+<p>In many ways this is the most instructive chapter in the financial history of our country. Is there anything permanent, we frequently ask, about American fortunes? Is the United States to develop a group of powerful families, like the great feudal families of Europe, who can maintain a social ascendancy from generation to generation, from century to century?</p>
+</div1>
+
+<div1>
+<head type="sub">No Permanent American Fortunes?</head>
+
+<p>WEALTH is the fundamental basis of all aristocracies. The aristocracy of England has rested immemorially upon what, until the arrival of the industrial era, was the most tangible form of wealth&#8212;that is, the land itself. The Norfolks, the Devonshires, the Bedfords, the Westminsters&#8212;these are the great ducal families of England; and these are also the great, landholders. But our great American families&#8212;the Vanderbilts, the Goulds, the Rockefellers, the Morgans, the Fields, the Armours, the Harrimans&#8212;hold property of quite a different kind. The basis of their family greatness consists of little slips of paper representing ownership in certain railroad and industrial enterprises.</p>
+
+<p>Has the fact that social preeminence in this country hangs upon engraved certificates, while that in Europe has rested upon land, anything to do with the brief existence of American "dynasties" as compared with those of older countries?</p>
+
+<p>None of our great American "magnates" ever took so much trouble as Jay Gould to secure the perpetuity of his estate, and no American railroad system was ever so exclusively a family affair as that of the Goulds. Gould left his fortune, estimated at about $75,000,000, in the hands of trustees, his oldest son, George, outranking the other trustees only in that he had the deciding vote in case of disagreement. The presidencies of the several lines that made up the Gould system were distributed among the several sons, George, Edwin, Howard, and Frank.</p>
+</div1>
+<div1>
+<head type="sub">The Goulds' Opportunity</head>
+
+<p>AT first these young men, especially George and Edwin, showed real enthusiasm for their inheritance. Jay Gould, in his will, praised highly the business capacity of George, and made him a special bequest of $5,000,000 in recognition of his services to the Gould properties. George soon impressed Wall Street as a hard-working, conscientious man. He kept strict business hours, and took trips continually over the "Gould empire," making himself acquainted with the communities that the roads traversed. He became pleasantly known to the newspaper reading public for his romantic marriage to Miss Edith Kingdon, a charming actress.</p>
+
+<p>George Gould was active not only in his own lines, but in other great railway enterprises. He was one of the reorganizers of the Union Pacific Railroad, and was for many years an active member of its board. The 19,000 miles of railroad bequeathed by his father dominated large sections of the richest and most productive territory west of the Mississippi River. In George Gould's hands, more than in the hands of any of her one man, rested the economic control of the United States from the Mississippi to the Pacific coast. He had great rivals, it is true&#8212;the Union Pacific, the Santa F&#233; the Southern Pacific; but nearly all the railroad mileage in this section, when the Goulds came to power, was in receivers' hands. Yet the Gould system was one of the few west of the Mississippi that had gone through the panic of 1893 without a receivership.</p>
+
+<p>Thus George Gould and his brothers had a wonderful opportunity for work and public service. But opportunities of another kind beckoned to them. A life given to railroad work meant a life of unending vigilance and toil. But they already possessed great wealth. "Society," which had refused to take Jay Gould to its bosom, readily accepted the second generation. George Gould and his family began to yearn for the things that a great income purchases.</p>
+
+<p>They built an elaborate country place at Lakewood, New Jersey; they went in for steam yachts and expensive entertainments; they even leased hunting preserves in England. George Gould specialized in horseracing, dogs, and polo. The Sunday newspapers began to print pictures of Mrs. George Gould and her $500,000 pearl necklace; the several daughters, when they reached the appropriate age, had widely advertised coming-out parties. One of them contracted the inevitable European marriage.</p>
+
+<p>The George Goulds, that is, lived after the manner of very rich people, though their personal behavior was exemplary. When we go into the affairs of Howard, Frank, and the Countess de Castellano, the story is much less creditable.</p>
+
+<p>The so-called noble families of England can supply plenty of instances like that of the Goulds. Indeed, our American spendthrifts have never reached the depths of irresponsibility that have usually been the every-day existence of the propertied classes of Europe. These propertied classes have lived immemorially at the expense of their estates. And that is precisely what the Gould properties became. The several members of the family needed large financial supplies to maintain their extravagant mode of living&#8212;supplies which they could obtain only from the coffers of their railroads.</p>
+</div1>
+
+<div1>
+<head type="sub">Dividends or Railroad Upkeep?</head>
+
+<p>IN the early days they manifested a certain ambition to build up their inheritance and serve the public; but, as years went on, this consideration became secondary. In order to get dividends they neglected upkeep and maintenance. In-stead of using income for these indispensable purposes, they diverted it to the pockets of stockholders. The picture presented by the Gould properties thus became a perfect complement to the picture presented by the Goulds' expensive personal tastes. On one side, yachts, castles, Parisian entertainments, divorces, titled marriages; on the other side, railroad receiverships, demoralization, and decay.</p>
+
+<p>In the Manhattan Elevated Railroads in New York the Goulds had the greatest and most profitable transit opportunity in the world. But their management was a metropolitan scandal for years. The crowded cars, the little kerosene lamps, the wheezy locomotives used long after the value of electricity as a motive power had been demonstrated&#8212;all these details emblazoned the ideas that underlay the Gould theory of management.</p>
+
+<p>Their control of the Western Union Telegraph system told the same story. The pressing demand was for dividends: upkeep and service were secondary. This corporation paid the Goulds $1,000,000 a year in profits, and the public had to worry along with such service as it could obtain.</p>
+
+<p>The whole Gould railroad system, stretching from Toledo to Salt Lake City, and from Omaha and New Orleans and El Paso, was a great neglected estate. Thin, used-up rails, rotten ties, inadequate ballast, worn-out locomotives, unsanitary stations, passenger and freight cars in varying stages of ruin&#8212;wherever one found a Gould railroad he found these conditions. For at least eight years the Missouri Pacific Railroad paid 5 per cent. dividends that it had never earned. As a result, it was estimated in 1912 that it would take $1,000,000,000 to put the road in a condition to handle its traffic.</p>
+
+<p>The great European aristocracies of the past have exploited their estates and survived. An American family, as has been shown, has lost its rulership in less than twenty-five years. One endures for centuries: another does not survive a generation. The explanation lies on the surface. Wealth and social prestige in Europe have rested immemorially on the ownership of land. In the United States wealth and "aristocracy" have been based upon railroad and industrial enterprises.</p>
+</div1>
+
+<div1>
+<head type="sub">How English Aristocracy Differs from American</head>
+
+<p>IT is a comparatively easy matter to hold intact, indefinitely a huge landed estate. A nobleman can spend his time cultivating the easy life and leave the management of his ancestral acres to stewards and agents. The details involve merely leasing on long terms, the lessee usually paying all the taxes and making all the improvements. Such ownership does not involve sharp industrial competition. The head of the family is merely a great rent-collector, and he performs even this function by proxy. His holdings can not be attacked by ambitious rivals, and are not subjected to the sharp manipulations of the Stock Exchange.</p>
+
+<p>A great American industrial or railroad property, however, demands of its owners more aggressive qualities. Such men must either lead or perish. They can not delegate the management to others; they must maintain a constant vigilance. Only men of exraordinary ability can meet encroaching competition from a thousand sources, keep constant supervision over changing business conditions, and attend to all the details of management. A great genius&#8212;a Commodore Vanderbilt or a Jay Gould&#8212;can establish these concentrated holdings; but hardly ever does the second or third generation produce a descendant who is capable of carrying on Caesar's work.</p>
+
+<p>In our time only two great millionaires have attempted to carry on the labors of their progenitor. These were William Henry Vanderbilt, son of the Commodore, and Cornelius Vanderbilt, son of William Henry.</p>
+
+<p>"My father and brother both died of apoplexy," once remarked the present William K. Vanderbilt. "I do not propose to end that way."</p>
+
+<p>The forces of American industrialism have simply overwhelmed Jay Gould's children. They have tried to do two incompatible things&#8212;personally manage great enterprises, and at the same time participate in the joys of existence. Consequently certain great powers&#8212;the Harriman-Kuhn, Loeb combination in the West, the Pennsylvania interests in the East, have laid hands upon their railroad "empire" and made it their own. The whole episode indicates that the "dynastic" principle will not wield great influence in the development of the American economic and social system. Our great railroad "dynasties"&#8212;the Vanderbilts, the Goulds, the Garretts, the Huntingtons, even the Harrimans&#8212;are already as extinct as the Stuarts or the Bourbons.</p>
+</div1>
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19170212.p011" />
+
+<text type="photograph" xml:id="large.19170212">
+<body>
+<head type="main">STILL AT LARGE</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Campbell Studio.</ab>
+<p>IN the old days poets had some consideration. They acted like poets, dressed like poets, and never were seen without a rhyming dictionary. But on this page of Free Verse poets what do we find? A professor, a novelist, a banker, a sculptor, a journalist, and a rancher. It may break out anywhere. Jane Burr began properly enough rhyming <hi rend="italic">cab</hi> with <hi rend="italic">dab</hi> and <hi rend="italic">blind</hi> with <hi rend="italic">wind</hi>. But those old shackled days are over. Here is a fragment of her present idea of a poem:</p>
+<floatingText>
+<body>
+<lg>
+<l>The best cook</l>
+<l>And the slickest thief</l>
+<l>In the State of Texas.</l>
+<l>She would have stolen the golden candlesticks</l>
+<l>From the very throne of God,</l>
+<l>To light the way for one she loved—That was Tilly's code.</l>
+<l>Generous, insane, romantic,</l>
+<l>A slave where she loved,</l>
+<l>A viper where she hated&#8212;</l>
+<l>That was Tilly's character.</l>
+</lg>
+
+</body>
+</floatingText>
+<p>(From "City Dust"; Frank Shay, publisher.)</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MARY CAROLYN DAVIES worships brevity. The only title she yearns for is that of champion short stanza writer of the world. Among all her published works, so far, "Six o'Clock" is her favorite:</p>
+
+<floatingText>
+<body>
+<head>SIX O'CLOCK</head>
+<lg>
+<l>Whose passing foot</l>
+<l>Disturbed this ant-hill?</l>
+</lg>
+</body>
+</floatingText>
+
+<p>"There are very few poems shorter than 'Six o'Clock,'" says its author proudly.</p>
+<p>In "Songs of a Girl" this poet makes use of the dash in this wise:</p>
+
+<floatingText>
+<body>
+<lg>
+<l>I was alone with just me the other evening.</l>
+<l>The me that nobody else knows,</l>
+<l>The me that is quite the nicest person I have ever met-</l>
+<l>(Oh, quite the nicest).</l>
+</lg>
+</body>
+</floatingText>
+<p>"Why the dash?" we asked Miss Davies humbly. "Oh, I love the dash," she said; "it is so bitter."</p>
+<p>(From "Others"; Alfred A. Knopf, publisher.)</p>
+
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HELEN HOYT, to the right (she is the professor), does not give this definition of free verse to her pupils, but it is a good one: "Any lines of unequal length moored fast to the port side and swinging free to the starboard." This does not mean that the grocer's monthly statement is free verse. No. Neither is a table of contents in the front of a book free verse. The following, however, is poetry of the new school and by Miss Hoyt:</p>
+
+<floatingText>
+<body>
+<head>COIGNES</head>
+<lg>
+<l>My elbow knuckle</l>
+<l>And the hollows under my knee-caps</l>
+<l>Are curious places;</l>
+<l>My heels are melancholy,</l>
+<l>Dozing and drudging all day.</l>
+<l>My toes have turned sullen</l>
+<l>From never being amused.</l>
+</lg>
+</body>
+</floatingText>
+<p>(From "Others"; Alfred A. Knopf, publisher.)</p>
+
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Elizabeth Buehrinann.</ab>
+
+<p>THE Windy City might still have been struggling along without her poet if it hadn't been for Carl Sandburg. Mr. Sandburg didn't spend his lunch hours and Lincoln's Birthday and everything hunting for a rhyme for Chicago. He just started right in:</p>
+
+<floatingText>
+<body>
+<lg>
+<l>Hog Butcher for the World.</l>
+<l>Player with Railroads and the Nation's Freight Handler;</l>
+<l>Stormy, husky, brawling,</l>
+<l>City of the Big Shoulders&#8212;</l>
+</lg>
+</body>
+</floatingText>
+
+<p>(From "Chicago Poems"; Henry Holt, publisher.)</p>
+
+
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Alfred Stieglitz.</ab>
+<p>BUT Adolf Wolff (the poet who still has his overcoat) just dashes things off. When the feeling comes over him, he glances into his soul, throws the cat out of the window, and begins:</p>
+
+<floatingText>
+<body>
+<head>PRISON WEEDS</head>
+
+<lg>
+<l>I bought twenty-five onions</l>
+<l>from a nigger</l>
+<l>twenty-five onions</l>
+<l>for ten cents</l>
+<l>every night</l>
+<l>before the lights go out</l>
+<l>we eat an onion</l>
+<l>weeping</l>
+<l>we eat an onion.</l>
+</lg>
+</body>
+</floatingText>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ALFRED KREYMBORG'S is a very intrepid soul. After office hours he goes about actually looking for poets, and when he has found some he makes them write some poems at once, and then he publishes the results in a magazine of his own. This poet's verses often lead him into the animal kingdom. Thus:</p>
+
+<floatingText>
+<body>
+<div1>
+<head>PARAQUETS</head>
+<lg>
+<l>If you don't put two in a cage</l>
+<l>Paraquets die;</l>
+<l>Please put two in a cage,</l>
+<l>Whoever you are!</l>
+</lg>
+</div1>
+
+<div1>
+<head>MOUSE</head>
+<lg>
+<l>Little mouse,</l>
+<l>Are you some rat's little child?</l>
+<l>I won't love you if you are.</l>
+</lg>
+</div1>
+</body>
+</floatingText>
+
+<p>(From "Mushrooms"; Alfred A. Knopf, Publisher.)</p>
+
+<figDesc></figDesc>
+</figure>
+
+
+<p>IT is hard for some of the new poets to write, and it is easy for others; but they all write. Says Mary Aldis, for instance:</p>
+
+
+<lg>
+<l>I put the blood of my heart</l>
+<l>And the sweat of my labor</l>
+<l>Into a line....</l>
+<l>I look into my soul.</l>
+<l>[All Free Versists do this.]</l>
+<l>Out of its agony,</l>
+<l>Its ceaseless question,</l>
+<l>Its inevitable ending,</l>
+<l>I fashion a second line.</l>
+</lg>
+
+<p>(From "Songs, Sighs, and Curses"; (Frank Shay, publisher.)</p>
+
+
+
+</body>
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19170212.p012" />
+
+<text type="photograph" xml:id="reasons.19170212">
+<body>
+
+<head type="main">TEN REASONS WHY STOREKEEPERS BUY MORE THAN THEY SHOULD</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Bertha Burns.</ab>
+<p>WHILE keeping your eye on the little birdie, ladies and gentlemen, keep your hands on your check-books and pocket-books, or you are likely to wake up and find that the birdie's owner, Miss Nola E. Minton of Barbourville, Kentucky, has sold you 500,000 golf-sticks. Our grandchildren will probably be surprised when we tell them that we can remember when men used to travel on the road and sell goods. Miss Minton sells lumber products, and recently closed an order for 1,000,000 golf-sticks from a golf-stickery and another order for 2,000,000 wheel spokes from an auto-mobile concern.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from O. R. Geyer.</ab>
+<p>WILL some one kindly page Mr. John D. Rockefeller and inform him that the reason why his business is falling off in and around Omaha is because Miss Mabel Warner is working for an independent oil concern? Miss Warner, who was private secretary to the president of the company, jumped on to the road when one of the salesmen was taken sick, and has held her place ever since&#8212;the only woman oil salesman in the United States.</p>
+<figDesc></figDesc>
+</figure>
+
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Harris &amp; Ewing.</ab>
+<p>FEW salesmen in the world can claim the record of Emma B. Wells. She has done business with more than 40,000 women, and has left every single customer in better shape. Yes, corsets is her line. In the last six years Miss Wells has sold a little more than half a million corsets wholesale in the Southern States, on a commission of ten per cent. Just what her annual profits have been no one need ask, but she is numbered among those who pay an income tax. And 40,000 women sit up a little straighter when she has passed.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit"></ab>
+<p>WHEN trouble broke out in Mexico a while back, five of the eight men who operate a big garage in Carlisle, Pennsylvania, started for Texas to find out whether Mr. Villa's name is pronounced Viya, Vil-la, or Viller. The garage is owned by the brothers of Miss Myra Shearer. "What will happen to the business while we are gone?" they cried. To which Miss Shearer answered promptly: "I will happen to it." And she did, with the result that when the brothers and their employees came marching home again they found half the men of Carlisle driving around in cars that Miss Shearer had sold, while the other half were lined up waiting for a demonstration.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from E. A. Brandeis.</ab>
+<p>YOU know the little old picture-card you always have to send to all the relatives when you take a trip&#8212;the one with "x marks my room" written on it? Well, Miss Gloria Headington&#8212;who is just twenty-four, by the way&#8212;has made a snug little income for several years out of those same little old post-cards and souvenir picture-books. The San Francisco Exposition yielded her $5000: and, not content with working one side of the hemisphere, she promptly set sail for South America, learned Spanish, and is now taking money away from the natives, in their own language.</p>
+<figDesc></figDesc>
+</figure>
+
+<pb n="Page 13" xml:id="ew.issue.19170212.p013" />
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph front O. R. Geyer.</ab>
+<p>MISS CARRIE V. BURGHARDT is known as "The Girl Who Sold a Car-Load of Books." This is not an Indian name like Man-With-an-Ace-Up-His-Sleeve or Girl-With-the-Waterproof-Face. On the contrary, it is a title of awe and respect conferred upon her by the traveling salesmen of the country because, on one bright sunny day, she sold a car-load of books to an Omaha department store. Since then Miss Burghardt has sold advertising specialties and other things. The men who travel her territory for other firms don't wish her any ill luck; in fact, they will actually be happy when the day comes that she has money enough to retire.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from K. L. O'Connor.</ab>
+<p>NOT so many years ago, when the best traveling salesman was the one that could tell the funniest stories and laugh the loudest, there was a very definite prejudice against young women entering the sacred precincts of the profession. Miss Blanche Kelley encountered that prejudice. She has had merchants tell her that she ought to be at home knitting mittens for the soldiers; and other merchants intimate very pointedly that they would rather buy from a man. But she has survived all that: and to-day nobody gets more orders in her line than "B. Kelley, Special Representative."</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit"></ab>
+<p>THE wonderful Fourth of July story that you will read in this magazine some months hence was actually written, not on a warm July day, but in the heart of winter, with the snow on the ground. And the Christmas tree you bought in December was probably sold to the merchant by Miss Alice L. Manning of Carroll, Iowa, some time in August. Not only is Miss Manning the most successful woman salesman of Christmas trees, candles, and Santa Claus whiskers, but her concern actually uses her to break in new territories and to train their men. Is there a Santa Claus? Sure! Miss Manning is him.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from G. W. Wright.</ab>
+<p>ON July, 1908, Mrs. Brown's husband was injured in an accident, and for the first time in eleven years the candy buyers of western New York missed his regular visit. But they did not lose their chance to buy candy. Not much. Mrs. Brown took the <unclear/>tle old grip and set forth. And at the end of 1908 the <unclear/>les sheet showed a total <unclear/>st a little in excess of Mr. Brown's record for the pre-<unclear/>ng year. Since then they have been traveling the territory together. "Sweets from the sweet," say the <unclear/>de merchants jokingly, <unclear/>t "Sign on the dotted line," says Mrs. Brown, <unclear/>ver deigning any other <unclear/>ply.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph front Eva Mahoney</ab>
+<p>"<hi rend="italic">DUX femina facti</hi>," quoth Vergil, which probably means, "a woman plays ducks and drakes with a factory." If that is what it means, then Vergil was mistaken. Miss Mabel Walthers of Omaha has proved it. She is one of the most successful sellers of furnaces in the United States. A woman selling furnaces! Yes; and not only that, but seven strong men and true work under Miss Walthers' instructions, installing the furnaces that she has sold. "Where is father? you ask. Why, ain't you been told? He's delivering the goods That dear mother has sold."</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19170212.p014" />
+
+<text type="photograph" xml:id="kids.19170212">
+<body>
+
+<head type="main">JUST KIDS&#8212;BUT THEY'RE FAMOUS</head>
+<figure n="photograph">
+<head></head>
+<p>WILL ED CURD (that's not a question, but a boy's name) is the only fourteen-year-old boy who is full-fledged partner to a multimillionaire. When W.E.D. Stokes was exhibiting his famous stallion, Peter the Great, in Lexington&#8212;the same stallion that has since sold for $50,000&#8212;Will Ed went up to Mr. Stokes and asked: "Do you want to sell your horse?" "Why do you ask?" said Mr. Stokes. "Because I have $100 saved up and I want to buy him," answered Will Ed. Mr. Stokes explained that Peter was not for sale, but said: "If you want a horse, I have a filly back on my place that I'll go partners on." So was formed the partnership of Curd &amp; Stokes in a filly worth at least $10,000. Our boy has $100 saved up, Mr. Stokes.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>A REGULAR twice-on-Sunday and once-in-the-middle-of-the-week preacher is Eugene Tice, eight years old. Fate tried to hide Eugene by setting him down in Johnson Place, seven miles from the railroad, in Burlington County, New Jersey. But Eugene was not to be hid. He preaches regularly now, and expects, after taking a course in the Theological Seminary, to come back and continue to minister to his own people. "When did you decide to become a minister?" Eugene was asked. And he answered: "I don't remember in terms of years, it was so long ago."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>"LITTLE MARY SUNSHINE," here shown, is the youngest really truly leading lady in the world. What her other name is the Balboa Film Company refuses to divulge, lest rival theatrical managers should begin telegraphing her offers. Mary Sunshine's father and mother are in pictures also, but their combined salaries, compared to hers, are such that it's a wonder she ever speaks to them at all.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>LITTLE John Chrisanto Cavanagh left his home in Mexico City when he was only two weeks old, for a trip to Guadalajara with his parents, and has never been able to get back home since. The trip usually occupies twelve hours, but more than a week was used up in dodging bandits, and, once safe in Guadalajara, John's parents were bundled into a freight-car and sent bumping toward the Pacific Coast. John's journey, which was to have been a matter of twelve hours, extended up the coast on board a U. S. cruiser to San Francisco, back to Los Angeles, and across the continent to Oakhurst, New Jersey. John is the only American refugee who hasn't written a book about what the United States ought to do in Mexico.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>LITTLE Doreen Ashburnham, age ten, and Anthony Farrar, age eight, set off for the pasture one bright day last summer to bring their pony home. On the way back a hungry cougar leaped out of the bushes and attacked the little girl. Plucky Anthony, instead of running home, stood manfully by, beating the great beast with his tiny pony whip, until the animal turned from the girl and attacked him. Did Doreen run? Not much. She noticed that the beast was blind in one eye. With her sharp little finger-nails she gouged at the other eye until the cougar, in pain and fright, gave up the fight and fled. Later in the day he was shot by some hunters. And Anthony and Doreen, on hospital cots, were the Christy Mathewsons of the town.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc>Picture of cougar</figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Felix J. Koch</ab>
+<p>WHEN the Bulgarian brigands captured the American missionary, Miss Stone, they took along with her a Mrs. Tsilka. And not many days thereafter, little Miss Tsilka came into the world. Whether she was born a Turk or a Bulgarian was a question, because the bandits were in the frontier mountains. But a bigger question was what would become of her. Finally, after Americans had raised an indemnity for Miss Stone's release, after Secretary of State John Hay had threatened Turkey with all sorts of punishment, after fleets had been made ready to sail&#8212;back came Miss Stone and Mrs. Tsilka and Baby Tsilka. Probably no other baby in the world to-day has ever been the center of so much international turmoil&#8212;and has it spoiled her? Not a bit.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 15" xml:id="ew.issue.19170212.p015" />
+
+<text type="nonfiction" xml:id="science.19150212">
+<body>
+
+<head type="main">WHAT SCIENCE IS DOING</head>
+
+<head type="sub">To Roll This Old World Along</head>
+
+<div1>
+<head type="sub">BETTER THAN DYNAMITE</head>
+
+<p>THE family automobile has entered new and unique fields and conquered them. J. H. Kimball, a farmer residing in the San Fernando Valley in southern California, owned a piece of ground, about six acres in area, on which nothing more profitable than yucca, cactus, and mesquit would grow. If you are a Californian you know just how unprofitable those plants are. Their chief use is "local color," or backgrounds for hair-raising movie plays.</p>
+
+<p>Most of the weeds could be burned out, but the cactus, yucca, and mesquit
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Albert Marple.</ab>
+<p>This is one way to make an automobile earn its overhead. Spiny cacti are jerked up by means of a lever and a small truck.</p>
+<figDesc></figDesc>
+</figure>
+
+were unassailable. So farmer Kimball put his five-passenger family automobile to work. In conjunction with an ingenious two-wheeled truck, supplemented by a fourteen-foot pole, the car got busy.</p>
+
+<p>A steel claw attached at the lower end of the wooden arm was sunk into the root of the plant to be pulled out; the pole was inclined perpendicularly, and a cable run from a hole in its farthermost end to the rear axle of the impatient family car.</p>
+
+<p>When the signal was given, the car was started, the pole was pulled down to it horizontal position, and the weed came up with a jerk.</p>
+
+<p>At the outset of the land-clearing operation difficulty was experienced by the tires of the car in getting the proper purchase on the sandy soil. This difficulty was overcome when Kimball loaded his entire family in the car. The added weight provided enough traction.</p>
+</div1>
+
+<div1>
+<head type="sub">SHORT AND INTERESTING</head>
+
+<div2>
+<p>THE world's richest county school is the Lincoln County School at Shamrock, Oklahoma. Some wise member of the school board found oil on the grounds and an income of $72,000 a year resulted.</p>
+</div2>
+
+<div2>
+<p>A SAND-BOX for automobiles, similar to the sand-boxes; on locomotives, whose purpose is to prevent skidding, has been invented by James S. Young of Jersey City. Compressed air, generated by pumps on the wheels, throws out the sand in a fine spray, making a grit track broader than the tires.</p>
+
+<closer>Christian Science Monitor.</closer>
+</div2>
+
+<div2>
+<p>DID you know that in ninety-nine cases out of a hundred your left foot is larger than your right? Science explains it in many ways; but we accept the easiest one, which is that we are a world of left-footed loungers. We lean against posts and door-jambs, and we do most of our leaning on the left foot; consequently, through the years it, has grown to support the weight that the lazy right foot doesn't. The next time you buy shoes, have your left foot measured first.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">KINGS ARE STRAINING THE RAILROADS</head>
+
+<p>NEVER in the history of their respective countries have the crowned and uncrowned heads of Europe reposed more regularly on sleeping-car pillows than in the turbulent period that began in August, 1914. For diplomatic purposes, and in order to carry cheer to their men on the fighting line, the national heads of Europe's warring countries are traveling day and night. And of course, in view of their importance, these gentlemen must travel in trains de luxe.</p>
+
+<p>A well used train cushion, no matter how royal, soon becomes frayed. That is what is happening to the cushions and other luxurious upholsterings of the imperial trains of Europe. They are badly frayed. Because of the high cost of war, little upholstering is being done, according to the Railway Age Gazette.</p>
+
+<p>It is likely, should the war last very much longer, that the train of the President of France will have to be rebuilt. It is a war order that some enterprising American builder may keep in mind. This train, while not the most luxurious of the official trains of Europe, has perhaps the most interesting history of them all. It has figured in more important political events than any of the others, and has carried, at some time, nearly all of the great men of the world, including, possibly, France's greatest enemy, the Emperor William himself.</p>
+
+<p>The train was hurriedly built in the fall of 1896 for the immediate purpose of receiving the Czar of all the Russias, whose visit at that time cemented and put the official seal upon the alliance between France and Russia, this being probably the most portentous political affair in the history of modern Europe.</p>
+
+<p>The most palatial of trains was built to carry the Czar from the frontier to Paris. Its four cars were built in thirteen days, at the order of President Felix Faure. So hastily was the private personal car of the four built that it was not recalled until the tenth day that the 
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Brown Brothers</ab>
+<p>When King George returns from in-specting his warriors in France, the train that meets him is drawn by a locomotive bearing his coat of arms.</p>
+<figDesc></figDesc>
+</figure>
+
+Emperor might want to take a bath. So the roof of the car was promptly cut open and a space made large enough to permit the passing of a huge tub into a corner of the car&#8212;not an ordinary bath-tub, but one of solid silver.</p>
+
+<p>The ceremonial train of France differs from the imperial trains, in that it is not armored. It was built before armor was necessary on trains. All of the four cars are elaborately upholstered in red and yellow silk velvet.</p>
+
+<p>In sharp contrast is the Imperial train of Germany, which conveys the Emperor William to his several battle-fronts. All of the seven cars of the train are partially armored, with bomb-proof bottoms and tops.  When the train is run near the front, it is drawn by an armored locomotive.</p>
+
+<p>The special train of the Czar of Russia is the most elaborate of all. It consists of twelve cars, and must often be drawn in two sections. Some of the cars are set aside for the Emperor's suite and guard; in others provision is made for a real Russian bath, a real kitchen, a smoking saloon, and every comfort that the Emperor might find in one of his own palaces. There is also a chapel for religious services.</p>
+
+
+</div1>
+
+<div1>
+<head type="sub">CHINESE FOR FIRE ENGINE</head>
+
+<figure n="photograph">
+<head></head>
+<p>No regulation fire-engine could pass through the cluttered alleys of China's cities. This narrow-gauge model is supplied instead.</p>
+<figDesc></figDesc>
+</figure>
+
+<p>THE Chinese word for fire-engine is something we have not time now to go into, we do take pleasure in presenting herewith the latest improved model fire-engine found at all hours of the day and night in the dusky alleys of Shanghai's Chinatown, quenching the fires caused by charcoal braziers, carelessly tipped over, or by joss-house recklessness, when the incense burns too close to the window curtain.</p>
+
+<p>Some of Shanghai's alleys are so narrow that it is necessary to lift the boiler and engine completely off the chassis and to carry it by hand.</p>
+</div1>
+
+<div1>
+<head type="sub">ALABAMA ROAD "DON'TS"</head>
+
+<p>NEARLY all States now have "good roads days" each year. Alabama, which has a law establishing two such days, has gone a step farther by requiring that the State Highway Department must publish annually a good roads day program or booklet containing the Governor's proclamation and other pertinent matter.</p>
+
+<p>In this publication for the current year is a list of "Don'ts"; and, while the suggestions were written for good roads days, most of them have an every-day value that makes them worth reading. The list follows:</p>
+<quote>
+<p>Don't wait for your neighbor to start something: start it yourself.</p>
+
+<p>Don't wait for the county commissioners to have that hole in the road, about the size of a water-bucket, in front of your gate, filled. Fill it yourself.</p>
+
+<p>Don't kick about the bad roads when you are turning water from natural channels into the public highway. Would you permit the county at will to turn water on your farm?</p>
+
+<p>Don't try to carry water and traffic in the same place. One or the other must seek a new location&#8212;Alabama is dry.</p>
+
+<p>Don't crown a gravel or sand-clay road high, and have littte narrow deep ditches on the side.</p>
+
+<p>Don't put gravel on a soft foundation and not expect it to go down and the mud up. You might as well expect a rock to float when you throw it in a pond.</p>
+
+<p>Don't forget you owe something to the public, and that, to live alone for yourself and family is narrowness, and if followed by all others would destroy the world.</p>
+
+<p>Don't forget that a good road is a road with a tight roof and a dry cellar.</p>
+</quote>
+</div1>
+
+<div1>
+<head type="sub">A STEP-LADDER FOR STEPS</head>
+
+<p>THE next time you are obsessed with the burning desire to climb up the side of your cottage and repair that leak in the eaves-trough, you may be interested in an improved version of the common or garden variety of step-ladder which has been invented by two enterprising young men, Henry Verow and Ferdinand P. Souccie, of Brewer, Maine.</p>
+
+<p>The unique feature of this ladder is an extension foot, by means of which the ladder can be employed with safety on that heretofore forbidden land to stepladders&#8212;the stairway. One foot of the ladder can be made longer than the other, 
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Lester L. Sargent.</ab>
+<p>
+Stairways have no terrors for this step-ladder. One leg can be made longer than the other by pressing a small lever.</p>
+<figDesc></figDesc>
+</figure>
+
+so that the difference between the height of successive steps is justified. The extension may be slipped back, making both legs equal in length, by releasing a spring catch.</p>
+</div1>
+
+<div1>
+<head type="sub">ALLIGATOR, SEWER CLEANER</head>
+
+<p>AFTER $1500 had been spent in an attempt to clean a 600-foot Florida sewer that had become obstructed, a small alligator was called upon to volunteer for the unpleasant job.</p>
+
+<p>The unsuspecting alligator saw the man-hole of the sewer, and, without waiting for further explanation or prompting, he scrambled to his task. A rope was tied around his neck, and he crawled down the pipe to the next man-hole. All those who witnessed this remarkable cleaning operation say that he was perfectly happy as long as he was in the sewer. Every time they dragged him up to the sunlight for a fresh length of rope, he was disgusted. According to the Engineering Record, the pipe was cleaned quickly and satisfactorily.</p>
+
+
+</div1>
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19170212.p016" />
+
+<text type="fiction" xml:id="luehrmann.19170212">
+<body>
+
+<head type="main">The Other Brown</head>
+
+<byline>By <persName type="author" key="#Luehrmann, Adele">ADELE LUEHRMANN</persName></byline>
+
+<byline>Illustration by <persName type="illustrator" key="#Hitchcock, Lucius W.">Lucius W. Hitchcock</persName></byline>
+
+<note type="editors">MR. WELLES-HEWITT is murdered in the library of his New York house. His body is discovered two men who never saw him alive. Scarborough, a member of the government Secret Service, has had the Welles-Hewitt house under observation following a visit to it by Gil, a Mexican resident in New York suspected of a political plot. Hearing a woman's scream, Scarborough enters the house, to meet in the hall his young cousin, Dozy Cullop. Dozy explains hastily that, while getting ready to attend a college dinner, he was warned to leave his house by way of the roof, to avoid sophomores lying in wait to kidnap him. Entering&#8212;as he believes&#8212;a trap-door left open by a neighbor, he finds himself in an apparently empty house. Going down two flights of stairs, at the door of the parlor he runs into a young man whom he at first mistakes for an acquaintance of his and Scarborough's named Brown&#8212;but who does not recognize Dozy. This man rushes past Dozy and up the flights of stairs. Then comes the woman's scream. The entrance of the Secret Service man prevents Dozy from dashing upstairs. Scarborough insists on first examining the parlor floor. They enter the library by way of the front room. and discover the body. <hi rend="italic">Dozy's story to the Secret Service man was perfectly frank, with one exception: he failed to mention the strange young man's resemblance to their acquaintance, Brown.</hi></note>
+
+<p>THE whistle shrilled loudly through the night air, once, twice, and again on a long, sustained note. The boy waited, glancing first toward one, then toward the other end of the block. Presently he heard heavy running steps, and made out the tall form of a hurrying patrolman.</p>
+
+<p>He whistled again to guide the man, and several people passing stopped and stared curiously at him, and at the house. He hardly saw them. He felt as if he were dreaming.</p>
+
+<p>"Well, what's the trouble?" It was the patrolman inquiring.</p>
+
+<p>Dozy led him into the house.</p>
+
+<p>"I'm from Washington, officer&#8212;Secret Service," said Scarborough, checking with a warning glance the man's astonished recognition; for it was the patrolman with whom he had talked only a few minutes ago. "I happened to be passing this house when I heard a scream. I ran up. The door was open. I came in, and found this. I've 'phoned headquarters, and I want you to stay here until somebody comes to take charge. Don't touch anything.  My friend and I are going through the house. When the men come from headquarters, call me."</p>
+
+<p>"Very good, sir," said the policeman, embarrassed as he recalled his late facetiousness toward a member of the Secret Service.</p>
+
+<p>In the hall Scarborough picked up a box of matches from a stand and handed it to Dozy.</p>
+
+<p>"Light up as we go along," he said.</p>
+
+<p>At the foot of the stairs they stopped
+
+<figure n="illustration">
+<head></head>
+<p>"In the doorway, Juana Martinez gave one wild glance at the head of the dead man. 'Is that him?' asked the policeman."</p>
+<figDesc></figDesc>
+</figure>
+
+<cb n="2" />
+
+a moment and looked up into the darkness, listening. Hearing nothing, they ascended deliberately to the second floor. Here Dozy lighted the hall lamp, and those in the rooms, and Scarborough made a rapid search. The two smaller of the four rooms were evidently not used as sleeping quarters, the mattresses being covered with dust sheets; and of the larger rooms the front one seemed to be occupied by some one on the eve of a journey. There were no clothes or toilet articles about, and on the floor
+
+<cb n="3" />
+
+stood a suit-case and beside it a large Gladstone bag.</p>
+
+<p>The larger room at the back was a woman's, and in considerable disorder. Garments lay scattered about on bed and chairs; dresser drawers stood open; and an open trunk stood in the middle of the room, its trays out on chairs near by. In the small room adjoining were three closed trunks.</p>
+
+<p>In silence the two men started for the floor above.</p>
+
+<p>"Up there's where I saw the light
+
+<cb n="4" />
+
+through the key-hole," whispered Dozy. "Look, the door's open!"</p>
+
+<p>And as they turned the bend in the stairs they saw a streak of light from above. They stopped and listened, then went up. And there, across the threshold of the lighted room, lay a stout, elderly woman&#8212;a servant, apparently, in a neat black dress and apron.</p>
+
+<p>"She's alive," Scarborough announced, after an examination; "and she doesn't seem to be hurt&#8212;must have fainted."</p>
+
+<p>He pulled a flask from his pocket, then reconsidered his intention.</p>
+
+<p>"She'll be all right," he said. "We can revive her when we get through, if she hasn't come to by then."</p>
+
+<p>He rose and looked about the lighted room. Here also was a trunk in process of being packed.</p>
+
+<p>One other room on that floor showed signs of occupancy. In a closet hung a night dress and a kimono of blue silk, and there were a few toilet articles on the dresser. But there was no trunk, only a small black leather bag, quite new. On a chair hung a maid's white apron.</p>
+
+<p>On the top floor the rooms were all unoccupied.</p>
+
+<p>"This is where you get to the roof," said Dozy, opening it door and letting light. into the dark closet. "Ah, the trap's unlatched! I thought so. This is where he was making for, all right. This closet door is the one we heard slam."</p>
+
+<p>"Let's go up."</p>
+
+<p>They climbed out on the roof and looked around.</p>
+
+<p>"He knew he had a clear road," said
+
+<pb n="Page 17" xml:id="ew.issue.19170212.p017" />
+
+Scarborough. "Otherwise he'd have gone by the front door, which was right before him, wide open. The question is, through which of these twenty houses did he make his getaway? Oh, no use trying the traps," he declared, as Dozy started off toward the next house, "He locked up after him of course."</p>
+
+<p>They reentered the house, and returned at once to the third floor, to the woman. She had recovered consciousness, and was kneeling, crouched against the open door of her room. She was shaking violently, and her wide black eyes stared heavenward in terrified supplication.</p>
+
+<p>"That's all right&#8212;we're not going to hurt you" Scarborough said soothingly.</p>
+
+<p>She closed her eyes and shuddered away from him with a hoarse scream.</p>
+
+<p>"We're not going to hurt you," he repeated; and now, as if at last his voice had pierced her terror, she looked at him. A swift change came over her face. It was evident that his face was not the one she had expected to see. Vacantly she stared at him, then at Dozy. Then she made an effort to rise, and they helped her up.</p>
+
+<p>"Who are you? What do you want?" she asked. The words were spoken distinctly, but with a foreign accent.</p>
+
+<p>"You'd better sit down a minute," Scarborough said, and, pulling out his flask, he offered it. But she waved it aside.</p>
+
+<p>"Who are you?" she asked again, more firmly. "What are you doing here?"</p>
+
+<p>"We're here to see about what happened downstairs. You know all about it," Scarborough asserted, his eyes upon her.</p>
+
+<p>"Downstairs?" she echoed.</p>
+
+<p>THEN she started violently, and the look of terror returned to her eyes.</p>
+
+<p>"The se&#241;or! Something has happened to the senor!" she cried.</p>
+
+<p>He hesitated a moment, then nodded.</p>
+
+<p>"<hi rend="italic">Madre de Dios!</hi>" she breathed, rapidly crossing herself. "He is&#8212;<hi rend="italic">dead?</hi>"</p>
+
+<p>"Yes."</p>
+
+<p>She gave a smothered scream and would have fallen, had Dozy not caught her. They carried her to a chair, and she sat there trembling. With chattering teeth she tried vainly to pray.</p>
+
+<p>And then with amazing suddenness her agitation ceased. Her gray head sank to her breast, and she murmured dully: "It is the will of God&#8212;it is the will of God."</p>
+
+<p>After a wait to see if she would say anything more, Scarborough spoke.</p>
+
+<p>"Now try to control yourself, he said kindly, "and tell me just what happened here&#8212;to you."</p>
+
+<p>She raised her head and looked at him; her black eyes narrowing curiously.</p>
+
+<p>"Nothing happened to me." she said.</p>
+
+<p>"Oh, yes, there did," he contradicted firmly. "We found you in a dead faint. You'd had a bad scare&#8212;you'd seen a man. Who was it?"</p>
+
+<p>"I saw no one. I saw&#8212;nothing."</p>
+
+<p>"What did happen, then?" he asked.</p>
+
+<p>There was a pause before she replied. Then she faced him squarely and said:</p>
+
+<p>"I was in my room, sitting there in that chair. I don't know&#8212;perhaps I slept. I thought I heard the bell below, but was not sure, and went out to see if it would ring again. There are no servants here," she paused to explain before continuing. "But the bell did not ring again and I turned around to come back to may room, and&#8212;and I felt a pain here in my heart. My heart is often bad like that&#8212;often I faint. Afterwards, when I found myself there on the floor, I was frightened."</p>
+
+<p>"I see," Scarborough said. His gray eyes bored relentlessly into her black ones; but hers did not flinch. "You heard no one running up the steps before you fainted?"</p>
+
+<p>"I heard only the bell. I saw&#8212;nothing."</p>
+
+<p>A low whistle rose from below.</p>
+
+<p>"We'll have to go down&#8212;the police are here. Come. We'll help you."</p>
+
+<p>She rose and allowed them to help her down the three long flights of stairs.</p>
+
+<p>Scarborough was puzzled. That the woman was a servant, seemed clear, but she was not one of the modern sort, hired to-day and dismissed to-morrow. She had probably been associated with the dead man for years, and consequently
+
+<figure n="advertisement">
+<head>The $100,000 man who went to school again</head>
+<p></p>
+<figDesc>Advertisement for Alexander Hamilton Institute</figDesc>
+</figure>
+
+<pb n="Page 18" xml:id="ew.issue.19170212.p018" />
+
+was to he reckoned in this affair as a member of the family.</p>
+
+<p>And she had lied. That was certain. Plausible as her story seemed, it did not square with her behavior before she told it. Nor did it account for her scream. Scarborough felt sure that she must have seen the man who bolted up the stairs and escaped by the roof. Yet she had denied seeing or hearing him. Why?</p>
+
+<p>The men from headquarters&#8212;Inspector Cooley, a grizzled veteran, with small ferret eyes and a pugnacious jaw, followed by two young policemen and the patrolman Dozy had called in, made a formidable-looking group. The old woman caught her breath at sight of them.</p>
+
+<p>SCARBOROUGH introduced himself and Dozy to the Inspector; then, indicating the woman, who had sunk upon one of the lower steps:</p>
+
+<p>"She seems to he the only person in the house. We found her upstairs, unconscious. I don't know who she is."</p>
+
+<p>"What's your name&#8212;and who are you?" asked Cooley gruffly.</p>
+
+<p>"I am the housekeeper&#8212;Jua&#241;a Martinez," the woman answered.</p>
+
+<p>"Mexican?"</p>
+
+<p>"No." She frowned. "I am Spanish."</p>
+
+<p>"Who lives here?"</p>
+
+<p>"Se&#241;or Welles-Hewitt and his daughter."</p>
+
+<p>"Is he Spanish?"</p>
+
+<p>"No; English."</p>
+
+<p>"Is he the dead man?"</p>
+
+<p>"She hasn't seen him yet," said Scarborough. "Better let her have a look."</p>
+
+<p>Cooley nodded.</p>
+
+<p>"Bring her in, Muller," he ordered one of his men, and turning entered the parlor, Scarborough and Dozy joining him.</p>
+
+<p>As they neared the double doorway into the room where the dead man lay, it was plain that the woman was straining every nerve to keep her self-control.</p>
+
+<p>The body had been moved from the floor to a long davenport.</p>
+
+<p>In the doorway Jua&#241;a Martinez stopped, gave one wild glance at the head of the dead man, showing the purple welt on the temple, then shut her eyes and crossed herself shudderingly.</p>
+
+<p>"<hi rend="italic">Ay Dios!</hi>" she moaned.</p>
+
+<p>"Is that him?" Cooley asked, and she bowed her head in assent.</p>
+
+<p>They let her sit down then, out of sight of the body, and Cooley began at once to question her.</p>
+
+<p>She had been for years, she said, housekeeper for her present employer, Se&#241;or Welles-Hewitt, an Englishman with mining interests in Mexico. He was a widower with no family except his daughter, the Se&#241;orita Alba, a young girl of twenty. They had left Mexico about ten days before, and had taken this furnished house with the intention of remaining in New York until conditions in Mexico had improved. But at noon of that very day the se&#241;or had suddenly announced a change of plans. Business called him to Mexico at once for a short stay, and, not wishing to leave his daughter and an old woman alone in the house with only servants, it was arranged that they should spend the time of his absence at a convent in the city, at which the se&#241;orita had been educated.</p>
+
+<p>After an early dinner, which she herself prepared with the help of the housemaid,&#8212;the other servants having been
+dismissed,&#8212;she went to her room to pack. At half-past seven an expressman had called for the trunk of the se&#241;or, and a few minutes later the se&#241;orita went out for a little air, taking the maid with her. Shortly after that&#8212;a quarter of an hour, perhaps&#8212;the front door-bell had rung, and she had started down to answer it; but, hearing the door close, and then the voice of the se&#241;or speaking in English, she had concluded that it was the se&#241;orita and had gone back to her room.</p>
+
+<p>There she had sat down to rest, and must, she thought, have fallen asleep; for she knew nothing after that until she had suddenly started up, thinking that she heard the door-bell ring again. The rest of the story was a repetition of what she had told Scarborough. As for the scream, it must have been when
+
+<cb n="2" />
+
+that sudden sharp pain struck her heart. Closely questioned by Inspector Cooley, she declared that she had no idea whom the senor had admitted to the house. She had caught no words&#8212;she knew only that he spoke English. As to whether any one had been expected to call she could not say.</p>
+
+<p>"Now, look here," said Cooley. "You've been working for this man for years, you say, and, first and last, you must have found out a good deal about his affairs. Who do you think killed him?"</p>
+
+<p>Jua&#241;a Martinez crossed herself.</p>
+
+<p>"I do not know," she said.</p>
+
+<p>"Well, maybe you don't, but you got some suspicion, haven't you?"</p>
+
+<p>"I know nothing"&#8212;in a low tone.</p>
+
+<p>"Did many people come here to see him?"</p>
+
+<p>"No. Gentlemen came sometimes&#8212;for business. I did not know their names."</p>
+
+<p>"What business did they come for?"</p>
+
+<p>The woman seemed to hesitate.</p>
+
+<p>"I do not know," she answered.</p>
+
+<p>"And you've no idea at all who could have done this job? Had he been having trouble with anybody lately? Trouble about business&#8212;or anything else?"</p>
+
+<p>She appeared to consider that carefully, but without result, for she finally replied:</p>
+
+<p>"I know nothing."</p>
+
+<p>"When do you expect his daughter back?"</p>
+
+<p>At this question she started slightly.</p>
+
+<p>"She went only for a short walk," she said. "She must come soon."</p>
+
+<p>Then Cooley turned from her to examine Scarborough; but the latter, with a significant glance, motioned him toward the back room.</p>
+
+<p>"I think you're on the right track, Inspector," he began diplomatically. "She knows more than she will admit. So don't you think: it would be wiser not to ask me or Cullop questions in her hearing? You see, she may not know that Cullop saw the man, so why tell her? Besides, the boy got mixed up in this affair through no fault of his, and I don't want him running risks of a come-back."</p>
+
+<floatingText>
+<body>
+<head type="main">The Only Man Who Knows Where Lincoln's Assassin Lies Buried</head>
+
+<p>THREE men were detailed by Secretary Stanton to dispose of the remains of John Wilkes Booth, the assassin of President Lincoln. The unhappy duty was performed by them under oath that they would never reveal the manner, time, or place of Booth's burial.</p>
+
+<p>Two of the three, General Lafayette C. Baker and Lieutenant L. B. Baker, have passed into eternity, carrying their secret with them. The third is Egbert Ingersoll, formerly of the United States Secret Service, now retired and living in Lansing, Michigan.</p>
+
+<p>Mr. Ingersoll is hale and hearty at the age of ninety-seven. He is a relative of the late Robert G. Ingersoll, and an uncle of Mr. Robert H. Ingersoll, who made the dollar famous.</p>
+</body>
+
+</floatingText>
+
+<p>Cooley looked over at Dozy.</p>
+
+<p>"Just how is he mixed up in it?" he asked; and Scarborough explained.</p>
+
+<p>"It's an odd sort of coincidence," he ended. "But I can vouch for him, and you can test his story by looking up Mrs. Harris. She probably lives next door."</p>
+
+<p>Cooley nodded, and, beckoning Dozy over, demanded his account.</p>
+
+<p>"And you say you came into this room after ringing the bell, because you heard those doors being opened?" he asked, when the boy had reached this point.</p>
+
+<p>"Yes. I thought the servant I had heard in the back room was coming through here instead of through the hall, and I was in a hurry. Of course, I didn't know whether it was a servant or not."</p>
+
+<p>"Never mind that. And when you came in here you saw a man coming out of that room?"</p>
+
+<p>"Oh, no; I didn't see him come out! But I had heard the doors open and close again, and when I came in he was here."</p>
+
+<p>"Where was he when you first saw him?"</p>
+
+<p>"Pretty near the door, I reckon&#8212;we almost ran into each other. And then&#8212;"</p>
+
+<p>Involuntarily Dozy halted. He had
+
+<cb n="3" />
+
+come to the point where he could no longer be absolutely frank.</p>
+
+<p>"Well, go on. What happened then?"</p>
+
+<p>"Why&#8212;nothing. We just looked at each other, both of us surprised, and&#8212;"</p>
+
+<p>"You got a good look at him, then? Describe him."</p>
+
+<p>"Well&#8212;he was young, between twenty and twenty-five, I should say, and he had light hair. He didn't have a hat on, so I noticed his hair. It was curly and sort of mussed up."</p>
+
+<p>"How about his height and weight?"</p>
+
+<p>"I think he was taller than I am&#8212;a little; and he was thin."</p>
+
+<p>"How was he dressed?"</p>
+
+<p>"I didn't notice," Dozy replied truthfully. "You see, I was so surprised&#8212;"</p>
+
+<p>"Surprised? Why?"</p>
+
+<p>"Well, I&#8212;I&#8212;didn't expect to see&#8212;anybody, and&#8212;"</p>
+
+<p>"Didn't expect to <hi rend="italic">see</hi> anybody? Wasn't that what you went into the room for?"</p>
+
+<p>"Why, yes&#8212;of course," stammered Dozy. "But&#8212;I&#8212;I didn't expect to&#8212;to bump right into them."</p>
+
+<p>"And did you bump into the man?"</p>
+
+<p>"Well, not quite; I almost did, though."</p>
+
+<p>"Think you'd know him if you saw him again?"</p>
+
+<p>"I don't know. I couldn't say."</p>
+
+<p>"Did he say anything to you?"</p>
+
+<p>"No, not a word&#8212;,just bolted out of the room and up the&#8212;"</p>
+
+<p>"Didn't you say anything, either?"</p>
+
+<p>IT was the dreaded question&#8212;the question Dozy had been praying would not be asked. But he had made up his mind, if it were asked, to answer it as truthfully as he could without involving anybody else.</p>
+
+<p>"Yes&#8212;I said something," he replied, and instantly he was aware of a movement of surprise from Scarborough. "Oh, it was nothing much. I just said, 'Why, hello&#8212;you live here?'"</p>
+
+<p>The words were hardly out before he realized his folly.</p>
+
+<p>"What's that?" Cooley questioned sharply, and Dozy repeated his words, trying to toss them off jocularly.</p>
+
+<p>"Why did you say it thing like that?"</p>
+
+<p>"Well, I didn't know whether he lived in the house or&#8212;or was just calling."</p>
+
+<p>"Huh! Kind of free and easy way to talk to a strange man in a strange house, wasn't it?"</p>
+
+<p>The boy laughed nervously.</p>
+
+<p>"Well, I'm a kind of free-and-easy person&#8212;Mr. Scarborough will tell you that," he answered.</p>
+
+<p>But he knew without looking that Scarborough's keen gray eyes were on him.</p>
+
+<p>"Huh," grunted Cooley again. "And he didn't answer you?"</p>
+
+<p>"No; just bolted out and up the stairs. Then the woman screamed, and Mr. Scarborough came in. And he can tell you the rest, Inspector, better than I can; so, if you don't mind, I'll go&#8212;I've got a dinner date."</p>
+
+<p>"Sorry." snapped Cooley; "but you'll have to postpone it till we locate that Mrs. Harris and get her story."</p>
+
+<p>"Why not go there now?" Scarborough suggested.</p>
+
+<p>"Waiting for that girl to come back&#8212;and for the coroner."</p>
+
+<p>"Wouldn't it be a good idea to get
+
+<cb n="4" />
+
+this point settled before the coroner comes? It's only next door, you know."</p>
+
+<p>"All right," Cooley agreed grudgingly.</p>
+
+<p>He picked up the wallet from the desk.</p>
+
+<p>"Was he robbed?" asked Scarborough.</p>
+
+<p>"Robbed! Didn't you look at this?"</p>
+
+<p>Cooley opened the wallet, revealing a section tightly packed with money. "There's five hundred dollars there," he said. "And look at here!" He next brought to light a chamois case in which lay several jeweled rings and scarf-pins. "And he'd got a good watch on him. So the guy that done for him wasn't after coin. He must have wanted some of the papers&#8212;looked through 'em all, by the way he left 'em."</p>
+
+<p>Closing the wallet, he placed it carefully in an inside pocket of his coat.</p>
+
+<p>"He was going to Mexico all right," he added. "Had a ticket and a trunk-check in his pocket. Come on."</p>
+
+<p>And after leaving instructions for his subordinates he and Scarborough left the house, accompanied by Dozy.</p>
+
+<p>MRS. HARRIS was out. But a few questions to her butler revealed the fact that it was he that had been sent up to open the scuttle for Dozy.</p>
+
+<p>His story of the telephone call verified Dozy's. Mrs. Harris had sent him up to the roof, and there he had waited for some time until, thinking the young man was not coming after all, he was closing the trap when he heard running steps.</p>
+
+<p>"I thought it must be the gentleman, sir," he told the Inspector, "and was raising the trap for him, when I hears the steps go by. 'He's missing the house,' thinks I. But when I looks he's already going into the next house."</p>
+
+<p>"Which one? That?" Cooley pointed toward the Welles-Hewitt house.</p>
+
+<p>"No, sir&#8212;on the other side, sir. I starts after him to call him back, thinking it might be dangerous for him, going into a strange house where he wasn't expected. Then I remembers as how that is a lodging-house, and as such used to unexpected ins and outs, sir&#8212;in a manner of speaking. So after a bit I locks the door and comes downstairs."</p>
+
+<p>"Could you see him? Would you know him again?" Cooley asked.</p>
+
+<p>"No, sir; it was too dark, sir."</p>
+
+<p>Informing the butler that he might be called upon to repeat what he had just told at the inquest, the Inspector and his companions left, to continue their quest next door. Patrolman Ryan was summoned from the scene of the murder to stand guard outside the house to be visited; and Cooley ascended the stoop and rang the bell.</p>
+
+<p>From within came a lively strain of dance music, and when the door was opened by a colored maid half a dozen couples could be seen dancing in the parlor. From one of these the maid detached a fat little woman, Mrs. Malone.</p>
+
+<p>"Sorry, madam, but we got to make a search," said Cooley shortly. "Just take a look round," he added to Dozy.</p>
+
+<p>"Not there," answered the boy, thankful for the fact. He felt wretchedly uncomfortable.</p>
+
+<p>"How long these people been dancing here?" asked the Inspector.</p>
+
+<p>"Ever since dinner," said Mrs. Malone. Cooley stepped to the parlor door, and at sight of him the dancers stopped short.</p>
+
+<p>"Any of you people notice anybody go out that front door in the last half hour?"</p>
+
+<p>There was a startled hush for a moment; then a woman spoke.</p>
+
+<p>"Why, yes&#8212;I did," she faltered wonderingly. "About ten minutes ago,"</p>
+
+<p>"A man?"</p>
+
+<p>She nodded, and turned to Mrs. Malone, who had followed the Inspector.</p>
+
+<p>"It was that new young man on the top floor&#8212;the one with the light hair," she explained. "I thought&#8212;he must be leaving for good&#8212;he had a suit-case."</p>
+
+<p>This appeared to be news to the landlady&#8212;surprising news.</p>
+
+<p>"Is that so?" she exclaimed.</p>
+
+<p>"Who is the man?" inquired Cooley.</p>
+
+<p>"Why&#8212;I don't know," she replied with a blank look. "He's only been here a week. His name is Brown."</p>
+
+<p>At the words Tim Scarborough flashed
+
+
+<pb n="Page 19" xml:id="ew.issue.19170212.p019" />
+
+a startled glance at Dozy, who stood beside him. But the latter, on his guard, kept his eyes on Mrs. Malone, his face rigid.</p>
+
+<p>"Describe him," the Inspector ordered. "Well, he's quite young and goodlooking&#8212;"</p>
+
+<p>"Why, he's only a kid, Inspector&#8212;twenty-two or -three, at most!" volunteered a man among the dancers.</p>
+
+<p>"I know that," snapped Cooley, his tone implying that be also knew his business. "What's he look like?"</p>
+
+<p>"He's tall, slim, dark complected&#8212;"</p>
+
+<p>"He's sunburned. He's been spending the winter in the South," Mrs. Malone interposed. "He's English, I think."</p>
+
+<p>"English, huh? And just been here a week?"</p>
+
+<p>"A week to-morrow&#8212;paid in advance." she answered. "But he hasn't slept in his room more than once or twice, and has never taken a meal in the house."</p>
+
+<p>Here she broke off with an alarmed glance at her questioner, as if she suddenly realized that these circumstances sounded suspicious.</p>
+
+<p>"But he told me he wouldn't be regular at first," she explained hurriedly. "He said he had business that would take him out of town a good deal&#8212;"</p>
+
+<p>"What kind of business?"</p>
+
+<p>"I didn't ask; I don't pry into my people's affairs," the landlady replied with dignity.</p>
+
+<p>COOLEY turned to the group of boarders. "Any of you know anything more about this man? None of you ever talk to him?"</p>
+
+<p>"I've passed good evening with him on the stairs," said the man who had spoken before. "But just from that I got a most favorable impression, and it's my opin&#8212;"</p>
+
+<p>"Nobody else ever speak to him?"</p>
+
+<p>One or two of the boarders shook their heads, the rest making no response of any kind; whereupon Mrs. Malone began haughtily: "My people are not the sort to&#8212;"</p>
+
+<p>"All right&#8212;all right," Cooley cut her off. "What time did this Brown come in to-night? None of you know?"</p>
+
+<p>As one after another the heads only shook him a negative, he grunted his disgust.</p>
+
+<p>"All right. Now we'll go through the house," he announced.</p>
+
+<p>At this there was a movement of concern among the assembled household, followed by a scurrying toward the stairs. Cooley let them all pass.</p>
+
+<p>"They'll light up and save time," he remarked to Scarborough.</p>
+
+<p>This proved to be the case, and the search proceeded rapidly, the landlady leading the way with offended dignity.</p>
+
+<p>Dozy, on the lookout for a word alone with Tim, at last got the chance to whisper: "It wasn't the man we met on the tr&#8212;"</p>
+
+<p>"Shut up," Scarborough warned under his breath. "And stick to your story&#8212;hear?"</p>
+
+<p>Dozy nodded, astonished but greatly relieved.</p>
+
+<p>On the top floor Mrs. Malone pointed to the closed door of one of the front rooms.</p>
+
+<p>"That's his," she said shortly.</p>
+
+<p>Cooley went in, lighted the gas, and looked around. "Huh! Left in a hurry!" was his comment.</p>
+
+<p>"He only had a suit-case of things," Mrs. Malone protested.</p>
+
+<p>"Well, he took 'em all."</p>
+
+<p>Apparently he had; for, even after a detailed search of the room, no clue to its late occupant came to light except an empty whisky flask found in a bureau drawer. But as his eyes fell upon its label the Inspector's face brightened visibly. He jerked his head around at Mrs. Malone.</p>
+
+<p>"Did he leave this?" he asked her.</p>
+
+<p>She gave him an affronted frown.</p>
+
+<p>"My rooms are always thoroughly cleansed after each guest," she said haughtily.</p>
+
+<p>Slipping the flask into his pocket, Cooley made another attempt to extract additional information from her. But apparently she possessed none.</p>
+
+<cb n="2" />
+
+<p>"Where do you get to the roof?" snapped Cooley, exasperated. "Guess you know that!"</p>
+
+<p>She did, and ungraciously told it.</p>
+
+<p>"I'll take a look around," he growled, and allowed Scarborough to follow him through the scuttle, Dozy remaining below with Mrs. Malone.</p>
+
+<p>A survey of the shadowy housetops yielded nothing new. But Cooley, it appeared, needed no further enlightenment. He had made up his mind about the case.</p>
+
+<p>He got into the house this way, that's plain," he informed Scarborough. It was a premeditated job, if there ever was one. He'd been laying to do it for a week&#8212;ever since he took that room&#8212;and had to do it to-night, account of the old guy going away. And it was planned neat enough&#8212;you got to hand it to him. He'd have got away with it all right, too, if that kid friend of yours hadn't made a mistake and got into the wrong house. And that was an accident the smartest crook on earth wouldn't have looked for to happen."</p>
+
+<p>There was a shade of admiration in the Inspector's voice.</p>
+
+<p>"But if he got into the house by the roof, who was it the man let do you think?" Tim questioned. This was the one point in the Inspector's theory that interested him.</p>
+
+<p>"Nobody," said Cooley. "The old woman was lying to us&#8212;trying to throw us off the scent. He wasn't the kind to answer his door-bell, was he&#8212;used to a lot of servants around?"</p>
+
+<p>"But the servants were all gone," said Tim. "And he may have thought it was his daughter."</p>
+
+<p>The Inspector shook his head.</p>
+
+<p>"Take it from me, he never went near the door, Mr. Scarborough. The woman is lying&#8212;trying to save her skin. It was her that did the inside work. That's why she says she didn't scream and didn't see anybody. But it was her opened the scuttle and got rid of the servants. And it won't surprise me any to find out it was her sent the girl out for a walk with the maid."</p>
+
+<p>"But, if she was in on the thing, why did she scream?"</p>
+
+<p>"Oh, I dope that out this way," the Inspector answered, with ready resource: "The job was to rob, not murder the old guy. You'll see! To-morrow it'll come out that there's important papers missing. They'd planned it for some night when the family was asleep. But they waited too long, and when the old man suddenly decides to go to Mexico, they see they got to act quick. If he's leaving at midnight his daughter's apt to sit up till he goes, and the only chance to get her and the maid out of the house is to send 'em out to walk, and that has to be early in the evening. As soon as they're gone the old woman opens the scuttle and lets the young guy in. Then I guess something went wrong, like it; does sometimes, and he had to croak the old guy. And when he saw the woman upstairs as he was making his getaway, he told her. That's why she screamed."</p>
+
+<p>"I see. You've worked it all out very cleverly, Inspector."</p>
+
+<p>Cooley accepted the compliment with a grunt of satisfaction.</p>
+
+<p>"I always strike a theory right off the bat," he said complacently. "I got imagination. You got to have it in this business."</p>
+
+<p>HE led the way down, leaving Tim to close and bolt the trap. This, however, proved impossible; the bolt had been filed off, so that it would not catch.</p>
+
+<p>"Neat work," applauded Cooley. "He wasn't taking any chances of having it locked on him."</p>
+
+<p>On rejoining Mrs. Malone, the Inspector ordered her to assemble her household, and he issued a curt warning to them not to talk to outsiders about the case.</p>
+
+<p>"And that goes for you too," he told Dozy, as they left the house. "I want to keep details out of the papers for the present, so you cook up another excuse for being late to dinner. Understand?"</p>
+
+<p>Dozy gave his assurance with alacrity,
+
+<figure n="advertisement">
+<head>Why Some Foods Explode in the Stomach</head>
+<p></p>
+<figDesc>Advertisement for Corrective Eating Society</figDesc>
+</figure>
+
+
+
+<pb n="Page 20" xml:id="ew.issue.19170212.p020" />
+
+<figure n="advertisement">
+<head>This Guaranteed Electric Washer</head>
+<p></p>
+<figDesc>Advertisement for Arnold Electric Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Delivered To You Free</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Study Law 30 Days Free</head>
+<p></p>
+<figDesc>Advertisement for Hamilton College of Law</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Learn the Ukulele</head>
+<p></p>
+<figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
+</figure>
+
+and dashed away. He knew an hour of reckoning was coming with Tim; but he was also sure the latter would not betray him to the Inspector.</p>
+
+<p>As to that he was right. Nothing was further from Scarborough's purpose than to tell anybody of the meeting with Brown on the train. For that would have connected him, Scarborough, too closely with the case, and have hindered him in carrying out his instructions from Washington.</p>
+
+<p>Ryan, on guard before the house, now informed them that more men had arrived from headquarters.</p>
+
+<p>"All right," said Cooley. "I'll send some one over to relieve you and you can go back to your beat."</p>
+
+<cb n="3" />
+
+<p>"And the young lady has come back, sor"</p>
+
+<p>This with a side glance at Tim, who caught it and understood. Of course the patrolman was wondering about him. It was only to be hoped that he would content himself with wondering. For to explain to Cooley why he had pumped the man about the Welles-Hewitt house just before the murder would involve Gil in the case, and perhaps block the investigation of the Mexican plot.</p>
+
+<p>"Ah, back, is she?" said Cooley, and started hurriedly off.</p>
+
+<p>Scarborough fell into step beside him. He could not do better, for the present, than to see the thing through.</p>
+
+<p>"I don't suppose you need me any
+
+<cb n="4" />
+
+longer," he remarked, with his ingratiating drawl. "But, if you don't object, I'd rather like to hang round for a while. It's a great pleasure to watch you work, Inspector."</p>
+
+<p>"Oh, hang round all you want," returned Cooley, flattered into graciousness. "But you're free to go when you like. I know where to find you."</p>
+
+<p>"Thanks," said Tim. Then, taking advantage of the favorable moment, he put a direct question:</p>
+
+<p>"Did that whisky flask give you any clue?"</p>
+
+<p>"Sure. The label shows it was bought in Mexico. He's the man we want, all right."</p>
+
+ <p rend="jumpline"><ref target="ew.issue.19170219.p010">To be continued next week</ref></p>
+
+</body>
+</text>
+<text type="fiction" xml:id="ford.19170212">
+<body>
+
+<head type="main">Torchy and Vee on the Way</head>
+
+<byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
+
+<figure n="illustration">
+<head></head>
+<p>"'It's no use. Vee. I'm a rank amateur, We might just as well have rice and confetti all over us.'"</p>
+<figDesc></figDesc>
+</figure>
+
+
+<p>SAY, I thought I'd taken a sportin' chance now and then before; but, I was only kiddin' myself. Believe me, this gettin' married act is the big plunge. Uh-huh! Specially when it's done offhand and casual, the way we went at it.</p>
+
+<p>My first jolt is handed me early in the mornin' as we piles off the mountain express at this little flag stop up in Vermont, and a roly-poly gent in a horse-blanket ulster and a coonskin cap with a badge on it steps up and greets me cheerful.</p>
+
+<p>"Ottasumpsit Inn?" says he.</p>
+
+<p>"Why, I expect so," says I, "if that's the way you call it, Otta&#8212;Otta&#8212; Yep, that listens something like it,"</p>
+
+<p>You see, Mr. Robert had said it only once, when he handed me the tickets, and I hadn't paid much attention.</p>
+
+<p>"Aye gorry!" says the chirky gent, gatherin' up our hand luggage. "Guess you're the ones we're lookin' for. Got yer trunk-checks handy?"</p>
+
+<p>With that I starts fishin' through my pockets panicky. I finds a railroad folder, our marriage certificate, the keys to the studio apartment I'd hired, the box the ring came in, and&#8212;</p>
+
+<p>"Gosh!" says I, sighin' relieved. "Sure I got it."</p>
+
+<p>The driver grins good-natured and stows us into a two-seated sleigh, and off we're whirled, bells jinglin', for half a mile or so through the stinging mornin' air. Next thing I know, I'm bein' towed up to a desk and a hotel register is shoved at me. Just like an old-timer, I dashes off my name&#8212;Richard T. Ballard.</p>
+
+<p>The mild-eyed gent with the close-cropped Vandyke and the gold-rimmed glasses glances over at Vee.</p>
+
+<cb n="3" />
+
+<p>"Ah&#8212;er&#8212;I thought Mrs. Ballard was with you?" says he.</p>
+
+<p>"That's so; she is," says I, grabbin' the pen again and tackin' "Mr. and Mrs." in front of my autograph.</p>
+
+<p>That's why, while we're fixin' up a bit before goin' down to breakfast, I has this little confidential confab with Vee.</p>
+
+<p>"It's no use, Vee," says I. "I'm a rank amateur. We might just as well have rice and confetti all over us. I've made two breaks already, and I'm liable to make more. We can't bluff 'em."</p>
+
+<p>"Who wants to?" says Vee. "I'm not ashamed of being on my honeymoon; are you?"</p>
+
+<p>"Good girl!" says I. "You bet I ain't. I thought the usual line, though, was to pretend you'd&#8212;"</p>
+
+<p>"I know," says Vee. "And I always thought that was perfectly silly. Besides, I don't believe we could fool any one if we tried. It's much simpler not to bother. Let them guess."</p>
+
+<p>"And grin too, eh?" says I. "We'll grin back."</p>
+
+<p>SAY, that's the happy hunch. Leaves you with nothing to worry about. All you got to do is go ahead and enjoy yourself, free and frolicsome. So when this imposin' head waitress with the forty-eight bust and the grand duchess air bears down on us majestic, and inquires dignified, "Two, sir?" I don't let it stagger me.</p>
+
+<p>"Two'll be enough," says I. "But whisper. Seein' as we're only startin' in on the twosome breakfast game, maybe you could find something nice and cheerful by a window. Eh?"</p>
+
+<p>It's some breakfast. M-m-m-m! Cute
+
+<cb n="4" />
+
+little country sausages, buckwheat cakes that would melt in your mouth, with strained honey to go on 'em.</p>
+
+<p>"Have a fourth buckwheat," says I.</p>
+
+<p>"No fair, keeping count!" says she. "I looked the other way when you took your fifth."</p>
+
+<p>Honest, I can't see where we acted much different than we did before. Somehow, we always could find things to giggle over. We sure had a good time takin' our first after-breakfast stroll together down Main Street, Vee in her silver-fox furs and me in my new mink-lined overcoat that Mr. Robert had wished on me casual just before we left.</p>
+
+<p>"Cunnin' little town, eh?" says I. "Looks like a birthday cake."</p>
+
+<p>"Or a Christmas card," says Vee, "Look at this old door with the brass knocker and the green fan-light above. Isn't that Colonial, though?"</p>
+
+<p>"It's an old-timer, all right," says I. "Hello! Here's a place worth rememberin'&#8212;the Woman's Exchange. Now I'll know where to go in case I should want to swap you off."</p>
+
+<p>For which crack I gets shoved into a snow-drift.</p>
+
+<p>It ain't until afternoon that I'm struck with the fact that neither of us knows a soul up here. Course, the landlord nods pleasant to me, and I'd talked to the young room clerk a bit, and the bell-hops had all smiled friendly, specially, them I'd fed quarters to. But by then I was feelin' sort of folksy, so I begun takin' notice of the other guests and plannin' who I should get chummy with first.</p>
+
+<p>I drifts over by the fireplace, where two substantial old boys are toastin' their toes and smokin' their cigars.</p>
+
+
+
+
+<pb n="Page 21" xml:id="ew.issue.19170212.p021" />
+
+<figure n="advertisement">
+<head>After a Hard Day</head>
+<p></p>
+<figDesc>Advertisement for W.F. Young, P.D.F.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Keith's $1 Offer</head>
+<p></p>
+<figDesc>Advertisement for Keith's Magazine</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Let Me Quote You a Special Price On My Rapid Fireless Cooker</head>
+<p></p>
+<figDesc>Advertisement for William Campbell Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Ladies, You Can Earn Big Money Hundreds Are Doing It!</head>
+<p></p>
+<figDesc>Advertisement for Old Colony Textile Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Poultry Book</head>
+<p></p>
+<figDesc>Advertisement for Berry's Poultry Farm</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Greider's Fine Catalogue</head>
+<p></p>
+<figDesc>Advertisement for B.H. Greider</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Egg-o-hatch</head>
+<p></p>
+<figDesc>Advertisement for Geo. H. Lee Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Money In Poultry and Squabs</head>
+<p></p>
+<figDesc>Advertisement for Crescent Poultry Farms</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Neubert's Book Free</head>
+<p></p>
+<figDesc>Advertisement for F.A. Neubert</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>How to Make Poultry Pay</head>
+<p></p>
+<figDesc>Advertisement for Inland Poultry Journal</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Parker's Hair Balsam</head>
+<p></p>
+<figDesc>Advertisement for Parker's Hair Balsam</figDesc>
+</figure>
+
+<p>"Snappy brand of weather they pass on up here, eh?" I throws off, pullin' up a rocker.</p>
+
+<p>They turn, sort of surprised, and give me the once-over deliberate, after which one of them, a gent with juttin' eyebrows clears his throat and remarks, "Quite bracing, indeed."</p>
+
+<p>Then he hitches around until I'm well out of view, and says to the other:</p>
+
+<p>"As I was observing, an immediate readjustment of international trade balances is inevitable. European bankers are preparing for it. We are not. Only last month one of the Barings cabled&#8212;"</p>
+
+<p>I'll admit my next stab at bein' sociable was kind of feeble. In front of the desk is a group of three gents, one of 'em not over fifty or so; but when I edges up close enough to hear what the debate is about, I finds it has something to do with a scheme for revivin' Italian opera in Boston, and I backs off so sudden I almost bumps into a hook-beaked old dame who is waddlin' up to the letter-box.</p>
+
+<p>"Sorry," says I. "I should have honked."</p>
+
+<p>She just glares at me, and if I hadn't side-stepped prompt she might have sunk that parrot bill into my shoulder.</p>
+
+<p>After that I sidles into a corner where I couldn't be hit from behind, and tries to dope out the cause of all this hostility. Did they take me for a German spy or what? Or was this really an old folks' home masqueradin' as a hotel, with Vee and me breakin' in under false pretenses?</p>
+
+<p>SO far as I could see, the inmates was friendly enough with each other. The old girls sat around in the office and parlors, chattin' over their knittin' and crochet. The old boys paired off mostly, though some of them only read or played solitaire. A few people went out wrapped up in expensive furs and was loaded into sleighs. The others waxed good-by to 'em. But I might have been built out of window-glass. They didn't act as though I was visible.</p>
+
+<p>"Huh!" thinks I. "I'll bet they take notice of Vee when she comes down."</p>
+
+<p>If I'd put anything up on that proposition I'd owed myself money. They couldn't see her any more'n they could me. When we went out for another walk nobody even looked after us. I didn't say anything then, but I kept thinkin'. And all that evenin' we sat around amongst 'em without bein' disturbed.</p>
+
+<p>About eight o'clock an orchestra shows up and cuts loose with music in the ball-room, mostly classic stuff like the "Spring Song" and handfuls plucked from "Aida." We slips in and listens. Then the leader gets his eye on us and turns on a fox-trot.</p>
+
+<p>"Looks like they was waitin' for us to start something," says I. "Let's."</p>
+
+<p>We'd gone around three or four times when Vee balks. About twenty-five old ladies, with a sprinklin' of white-whiskered old codgers, had filed in and was watchin' us solemn and critical from the side-lines. Some was squintin' disapprovin' through their lorgnettes, and I noticed a few whisperin' to each other. Vee quits right in the middle of a reverse.</p>
+
+<p>"Do they think we are giving an exhibition?" she pouts.</p>
+
+<p>"Maybe we're breakin' some of the rules and by-laws," says I. "Anyway, I think we ought to beat it before they call in the high sheriff."</p>
+
+<p>Next day it was just the same. We was out part of the time, indulgin' in walks and sleigh rides; but nobody seemed to see us, goin' or comin'. And I begun to get good and sore.</p>
+
+<p>"Nice place, this," says I to Vee, as we trails in to dinner that evenin'. "Almost is sociable as the Grand Central station."</p>
+
+<p>Vee tries to explain that it's always like his in these exclusive little all-the-year-round joints where about the same crowd of people come every season.</p>
+
+<p>"Then you have to be born in the house to be a reg'lar person, I suppose?" says I.</p>
+
+<p>Well, it's about then I notices this classy young couple who are makin' their way across the dinin'-room, bein' hailed right and left. And next thing I know, the young lady gets her eye on Vee, stops
+
+<cb n="2" />
+
+to take another look, then rushes over and gives her the fond clinch from behind.</p>
+
+<p>"Why, you dear old Verona!" says she.</p>
+
+<p>"Judith!" gasps Vee, kind of smothery.</p>
+
+<p>"Whatever are you doing up&#8212;" And then Judith gets wise to me sittin' opposite. "Oh!" says she.</p>
+
+<p>Vee blushes and exhibits her left hand.</p>
+
+<p>"It only happened the other night," says she. "This is Mr. Ballard, Judith. And you?"</p>
+
+<p>"Oh, ages ago&#8212;last spring," says Judith. "Bert, come here."</p>
+
+<p>It's a case of old boardin' school friends who'd lost track of each other. Quite a stunner, young Mrs. Nixon is, too, and
+Bert is a good match for her. The two girls hold quite a reunion, with us men standin' around lookin' foolish.</p>
+
+<p>"We're living in Springfield, you know," goes on Judith, "where Bert is helping to build another munition plant. Just ran up to spend the week-end with auntie. You've met her, of course?"</p>
+
+<p>"We&#8212;we haven't met any one," says Vee.</p>
+
+<p>"Why, how funny!" exclaims Mrs. Nixon. "Please come over right now."</p>
+
+<p>"My dear," says auntie, pattin' Vee chummy on the hand, "we have all been wondering who you two young people were. I knew you must be nice, but&#8212;er&#8212;Come, won't you join us at this table? We'll make just a splendid little family party. Now do!"</p>
+
+<p>Oh, yes, we did. And after dinner I'll be hanged if we ain't introduced to almost everybody in the hotel. It's a reg'lar reception, with folks standin' in line to shake hands with us. The old boy with the eye awnin's turns out to be an ex-Secretary of the Treasury; an antique with a patent ear-'phone has been justice of some State Supreme Court; and so on. Oh, lots of class to 'em. But after I'd been vouched for by some one they knew all gives me the hearty grip, offers me cigars, and hopes I'm enjoyin' my stay.</p>
+
+<p>"And so you are a niece of dear Mrs. Hemmingway?" says old Parrot-Face, when her turn comes. "Think of that. And this is your husband!" And then she says how nice it is that some other young people will be up in the mornin'.</p>
+
+<p>THAT evenin' Judith gets busy plannin' things to do next day.</p>
+
+<p>"You haven't tried the toboggan chute?" says she. "Why, how absurd!"</p>
+
+<p>Yep, it was a big day, Saturday was. Half a dozen more young folks drifted in, includin' a couple of Harvard men that Vee knew, a girl she'd met abroad, and another she'd seen at a, house-party. They was all live wires, too, ready for any sort of fun. And we had all kinds. Maybe we didn't keep that toboggan slide warm. Say, it's some sport, ain't it?</p>
+
+<p>Anyway, our honeymoon was turnin' out a great success. The Nixons concluded to stay over a few days, and three or four of the others found they could too, so we just, went on whooping things up.</p>
+
+<p>Next, I knew we'd been there a week, and was due to make jump to Washington for a few days of sight-seein'.</p>
+
+<p>"I'm afraid that will not be half as nice as this has been," says Vee.</p>
+
+<p>"It couldn't," says I. "It's the reg'lar thing to do, though."</p>
+
+<p>"I hate doing the regular thing," says Vee. "Besides, I'm dying to see our little studio apartment and get settled in it. Why not&#8212;well, just go home?"</p>
+
+<p>"Vee," says I, "you got more good sense than I have red hair. Let's!"</p>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="job.19170212">
+<body>
+
+<figure n="advertisement">
+<head>"You Get The Job"</head>
+<p></p>
+<figDesc>Advertisement for International Correspondence Schools</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Coughing spells eased, throat soothed, voice helped by</head>
+<p></p>
+<figDesc>Advertisement for John L. Brown &amp; Son</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Dingee Roses</head>
+<p></p>
+<figDesc>Advertisement for The Dungee &amp; Conard Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Typewriters</head>
+<p></p>
+<figDesc>Advertisement for Young Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The Happiest People in the World</head>
+<p></p>
+<figDesc>Advertisement for Old Town Canoe Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+
+
+<pb n="Page 22" xml:id="ew.issue.19170212.p022" />
+
+<text type="advertisement" xml:id="ludens.19170212">
+<body>
+
+<figure n="advertisement">
+<head>The Cold That Comes from Being Overheated</head>
+<p></p>
+<figDesc>Advertisement for Wm. H. Luden</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>The Conn Saxophone</head>
+<p></p>
+<figDesc>Advertisement for C.G. Conn. Ltd.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Earn $3000 to $10000 Annually Become An Expert Accountant</head>
+<p></p>
+<figDesc>Advertisement for LaSalle Extension University</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"Heaven and Hell"</head>
+<p></p>
+<figDesc>Advertisement for The American Swedenborg Printing &amp; Publishing Society</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Eradium Wonder Ring 12c Brilliant Eradium Gem</head>
+<p></p>
+<figDesc>Advertisement for Arkenau Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>School Information Free</head>
+<p></p>
+<figDesc>Advertisement for American Schools' &amp; Camps' Association</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including California Farm Lands, Corporations, Games and Entertainments, Help Wanted Male, Female Help Wanted, Agents Wanted, Photoplays, Stories, Etc., and Plays</figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<text type="fiction" xml:id="adams.19170212.jump">
+<body>
+
+
+<head type="main">A Letter to Nowhere</head>
+<p rend="jumpline">&#8212;Continued from page 7</p>
+
+<p rend="jump">hooker anywhere short of Valenciana, and there'll be a devil of a row."</p>
+
+<p>"Sh-sh-sh!" warned the other, looking about him distressfully. Then, once again, the young man experienced the confusing sensation of hearing an appeal without source floating in the air:</p>
+
+<p>"You'll be saving an American woman."</p>
+
+<p>"An American woman? In Caracuna?"</p>
+
+<p>The big head close to his nodded.</p>
+
+<p>"From what?"</p>
+
+<p>"Jail. D'you know what a Spanish-American jail is like? For a white woman?"</p>
+
+<p>"Amy Lessamer!" Dale exclaimed.</p>
+
+<p>Captain Tidman's dull gaze jerked abruptly down from the darkness aloft.</p>
+
+<p>"You know Miss Lessamer?"</p>
+
+<p>"Yes."</p>
+
+<p>"Well,"&#8212;the little eyes bored him,&#8212;"there's the chance of the sharks for you. And the chance of the sharks&#8212;human sharks in Caracuna City&#8212;for her."</p>
+
+<p>Before he had finished, Dale's coat was on the deck.</p>
+
+<p>"Give me the letter," he demanded.</p>
+
+<p>"Letter?" repeated Captain Tidman.</p>
+
+<p>"The message I'm to carry. You didn't put it in the packet, did you?"</p>
+
+<p>"Oh, Lord!" groaned the other. "My poor wits! Take the wheel."</p>
+
+<p>He bolted down the companionway. When the great moonish face rose above the deck again, the young man seized the letter and strapped it into, the packet.</p>
+
+<p>"Where shall I mail it?" he asked.</p>
+
+<p>"Anywhere. Ready?"</p>
+
+<p>"Ready," said Dale firmly.</p>
+
+<p>He set his foot in the bight of a rope that had been prepared.</p>
+
+<p>"Drop when she comes about. And keep well out from her," he heard; and the next moment slipped into the sea.</p>
+
+<p>WHATEVER sharks may have haunted those waters, or ghosts those sands, forbore to beset Dale. He was startled at the briefness of his journey when his foot touched the smooth sand. Not a quarter of a mile from where he beached, the cairn of stones loomed stark and black in the moonlight. He donned the serviceable clothes which he found at its foot, and set out down the beach. At noon he reached a post-office town, where he mailed the letter, first making a note of the address. It was directed to "Dr. Luis Batisto, Calle Pantheon, 147." The late evening train that bore it to Caracuna City carried Dale also. He arrived too late to do anything but go to bed.</p>
+
+<p>As early as a decent consideration for other people's rest permitted, he called next morning at the Blakeleys'. The house on the corner of Look-at-the-Sky and Last-Monday streets was fast closed again. Repeated ringing brought no response. But presently he became aware of a guarded hissing from next door. A tremulous woman's voice begged him to pretend not, to hear, and was he the young North American? He was. Then he was to understand that the missionary family had gone to the country for a week&#8212;maybe more. "And the young lady?" he demanded. The tremulous voice knew nothing of the young lady.</p>
+
+<p>From the tumult of Dale's thoughts and emotions there arose the hope that some clue to Amy Lessamer might be gained through the Captain's letter to Dr. Luis Batisto, Calle Pantheon, 147. He hurried to the street, but not to the number. The Calle Pantheon extended one short block, and comprised numbers
+
+<cb n="3" />
+
+1 to 34 inclusive. Nobody in the vicinity had ever heard of Dr. Luis Batisto.</p>
+
+<p>But at the post-office, in the glass-covered case wherein, by a curious local custom, misdirected mail is displayed, stood the letter. He retrieved it. In ordinary conditions Henry Dale would as soon have bitten off his finger as have opened a letter addressed to another person. This case was not ordinary.</p>
+
+<p>He opened it. With trembling hands he extracted a large sheet of letter paper. He spread it out. It was blank.</p>
+
+<p>FIVE weeks later a haggard young man faced Captain Abner Tidman in the New York office of the Vesper Line.</p>
+
+<p>"Ff-ff-ff-ff-ff" breathed the Captain. "So the sharks didn't catch you. I was mighty glad to get your telephone message this morning. Just came off the Harkaway yesterday."</p>
+
+<p>"Where is she?" Dale demanded fiercely.</p>
+
+<p>"The Harkaway? Ff-ff-ff-ff. Docked in South Brooklyn. Have much difficulty in getting away from Carcuna?"</p>
+
+<p>"Yes. Where is she?"</p>
+
+<p>"Thought you might. Ff-ff-ff-ff&#8212;fussy lot, those port officials. What did they say when they saw you back?"</p>
+
+<p>"Where is she, damn you!"</p>
+
+<p>"No! Did they? Ff-ff-ff-ff! Well, it would have been worth something to them to know where she was. I presume you are referring to Miss Lessamer."</p>
+
+<p>Captain Abner Tidman, being wise in the ways of men, stepped back a pace.</p>
+
+<p>"Don't you hit me, young man. She's safe."</p>
+
+<p>The caller sat down suddenly and limply. "Ff-ff-ff-ff!" exclaimed Abner Tidman in concern. "You ain't well."</p>
+
+<p>"I'm all right. Only I've been living in hell. What did you send me on a fool's errand with a blank letter for?"</p>
+
+<p>The Captain's hard, heavy face darkened. "You opened my letter? What kind of a man do you call yourself?"</p>
+
+<p>"It was posted in the post-office for non-delivery. I opened it. You had told me that its delivery involved Miss Lessamer's safety."</p>
+
+<p>"Ff-ff-ff-ff. No; I don't guess I told you just exactly that."</p>
+
+<p>You certainly used Miss Lessamer's safety as a pretext. Was that a lie?"</p>
+
+<p>"Keep your seat, son. Ff-ff-ff. No. It was true enough. She was in trouble&#8212;big trouble. They were going to arrest her."</p>
+
+<p>"My God! She got away?"</p>
+
+<p>"She got away&#8212;thanks to you."</p>
+
+<p>"What help could a blank letter, undelivered, be? I don't understand."</p>
+
+<p>"Ff-ff-ff-ff! I suppose not. It's the living fact, though, that if you hadn't taken a chance with the sharks Miss Lessamer might be in an under-sea jail for political prisoners to-day."</p>
+
+<p>The young man drew a roll of bills from his pocket.</p>
+
+<p>"There's your three hundred dollars."</p>
+
+<p>Captain Abner Tidman stared at it stupidly. "What for? You've earned it."</p>
+
+<p>"I can't take it. Not for that service. Tell me where I can find Miss Lessamer."</p>
+
+<p>"Why not try her home instead of her office?" asked the Captain.</p>
+
+<p>"Her office? Her office?"</p>
+
+<p>"Well, her father's office. He's vice-president of the Vesper Line. And I think she's somewhere in the off-ff-ff-ff-ing. I notified her you were coming. Thought she might be interested. She's never heard the story of that letter."</p>
+
+<note type="editors">
+<floatingText>
+<body>
+
+<p>Few men have done as many different kinds of writing and done them as well as the author of this story, Samuel Hopkins Adams. His first magazine work to attract national attention was the crusade against patent medicines which he conducted in "Collier's." More recently, in the New York "Tribune," he has campaigned against misrepresentation in department-store advertising with mighty effect.  And between times, in his quiet country home, he finds time to write stories, of which "A Letter to Nowhere" is to our way of thinking, one of the best.</p>
+
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</floatingText>
+
+</note>
+</body>
+</text>
+
+<text type="advertisement" xml:id="empire.19170212">
+<body>
+
+<figure n="advertisement">
+<head>How to Make Big Money</head>
+<p></p>
+<figDesc>Advertisement for Empire Candy Floss Machine Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Japanese Rose Bushes</head>
+<p></p>
+<figDesc>Advertisement for Japan Seed Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Straighten Your Toes Banish That Bunion</head>
+<p></p>
+<figDesc>Advertisement for M. Achfeldt, Foot Specialist</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"Bow Legs and Knock-Knees" Unsightly</head>
+<p></p>
+<figDesc>Advertisement for Perfect Sales Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Mason, Fenwick &amp; Lawrence</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>High-Value Patents</head>
+<p></p>
+<figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventions&#8212;Patenting and Promoting</head>
+<p></p>
+<figDesc>Advertisement for Lancaster &amp; Allwine</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Songwriter's "Key To Success"</head>
+<p></p>
+<figDesc>Advertisement for Knickerbocker Studios</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Pay to the order of bearer $25.00</head>
+<p></p>
+<figDesc>Advertisement for Every Week</figDesc>
+</figure>
+
+</body>
+</text>
+
+<text type="missing">
+<pb n="Page 23"/>
+<body>
+<note>
+<gap reason="See note for this issue of Every Week Magazine"/>
+</note>
+<p/>
+</body>
+</text>
+
+<text type="missing">
+<pb n="Page 24"/>
+<body>
+<note>
+<gap reason="See note for this issue of Every Week Magazine"/>
+</note>
+<p/>
+</body>
+</text>
+
+
+</group>
+</text>
+</TEI>

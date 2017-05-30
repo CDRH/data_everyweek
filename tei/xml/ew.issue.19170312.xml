@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.1.3.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170312">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Every Week, March 12, 1917</title>
+<title level="m" type="sub"></title>
+<author></author>
+<principal>Melissa J. Homestead</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>ew.issue.19170312</idno>
+<authority>Every Week Magazine Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2009</date>
+<availability>
+<p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">In the original publication digitized for this project, Pages 1 and 2 are missing from this issue.</note>
+<note type="project">In the original publication digitized for this project, some of the text on page 22 was incorrectly typeset. This text has been placed in proper sequence according to "The House of Torchy" by Sewell Ford, Toronto, G.J. McLeod, 1918.</note>
+</notesStmt>
+
+<sourceDesc>
+
+<bibl>
+<title level="j">Every Week</title>
+<author></author>
+<publisher>The Crowell Publishing Company</publisher>
+<pubPlace>381 Fourth Avenue, New York</pubPlace>
+<extent>24 pages</extent>
+<date when="1917-03-12">March 12, 1917</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2009-09-23"><name>Laura Weakly</name> Initial Encoding
+</change>
+<change when="2009-09-11"><name>Katie Heupel</name> OCR
+</change>
+<change when="2009"><name>Katie Heupel</name>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<group>
+
+<pb n="Cover" />
+<text type="missing">
+
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p/>
+</body>
+</text>
+
+<text type="missing">
+<pb n="Page 2" />
+<body>
+<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<p />
+</body>
+</text>
+
+<pb n="Page 3" xml:id="ew.issue.19170312.p003" />
+
+<text type="advertisement" xml:id="wanted.19170312">
+<body>
+
+<figure n="advertisement">
+<head>Wanted! $10,000 Men $25,000 Men $50,000 Men</head>
+<p>
+<!-- "EDUCATED BRAIN POWER will be worth more during 1917
+than ever before in the world's history. The large-visioned American,
+with plenty of common sense, will command a record salary."
+-WILLIAM A. LAW, President of the First National Bank of Philadelphia, oldest national bank in the United States, and one of the strong ones.
+
+Wanted!
+$10,000 Men
+$25,000 Men
+$50,000 Men
+READ what the President of the First National Bank of Philadelphia says about the demand for "educated brain power." It is true.
+Every large corporation and important business in the United States is looking for men with "educated brain power"—looking for $10,000, $25,000 and $50,000 men.
+Such men are needed, urgently needed, now as never before, to direct and manage the great industrial enterprises. When war orders cease, "educated brain power" will be needed to adjust business to new conditions without loss. New markets have to be developed, manufacturing methods must be improved, selling and distribution problems have to be handled with maximum economy.
+Then, too, the competition of Europe after the war has to be met. War has taught the European nations how to intensify production. It has developed industrial efficiency.
+The situation here is big with opportunities. Are you equal to it?
+What is "educated brain power?"
+It is knowledge, broad general knowledge; specific facts and information about many things. It is the mental capacity of a man who has not merely business training, but who is well informed; a man who is acquainted with the world and what is going on; a man who reads and studies. 
+The man who owns and uses the new Encyclopaedia Britannica is an "educated-brain-power" man. For the Britannica is the ideal source of knowledge. This masterwork, with its 41,000 separate articles on all subjects, is a complete library of facts and information.
+It discusses manufacture and trade and business with the same thoroughness that it deals with the arts and sciences. It gives you an insight into actual conditions in other countries and makes you cosmopolitan in your thinking. It tells you about the debts and credits of nations, and what they will buy or have to sell. It gives you a wider knowledge of your own country, your state and your county or city, and their diversified interests.
+And because the Britannica does all this (and more), you can be a man of " educated brain power." You can equip yourself for one of the $10,000, $25,000 and $50,000 places that are waiting for the right man now—or will be looking for him in the next few years.
+You can own the new Britannica. You can have its fund of knowledge always available. Do you realize what an hour a day spent in reading the Britannica would mean to you in a few years? Andrew Carnegie once said, "A half hour a day spent on a particular line of study is the best investment any man can make."
+Of the 160,000 sets of this great work already sold, 100,000 sets are owned and used by business men and women, including the acknowledged leaders in every branch of industry and trade. You have access to the same source—are you going to take advantage of this opportunity?
+You can obtain a complete set (the entire 29 volumes) of the Britannica, printed on India paper, for a first payment of only $1. You pay the balance in a limited number of small monthly amounts ($3 to $4.50, according to binding). You can begin immediately to prepare yourself to take a coveted place higher up.
+But you must act quickly. The sets of the Britannica in stock are the last that can be offered in the popular " Handy Volume " form, printed on India paper. Only a few thousand sets remain unsold—they are selling fast. Send the coupon to-day for free book explaining in detail the practical usefulness of the Britannica to the man who wants to succeed who wants to be a factor in the world of business or finance.
+
+	NMI
+SEARS, ROEBUCK AND CO., Chicago, Illinois
+Gentlemen:—Please send me, Name_
+free, your illustrated book, giv-
+ing full information about the
+new Encyclopdia Britannic-,	•
+Also tell me what I will have to pay for one of the remaining sets of the " Handy Volume " Issue of the Britannica printed on the beautiful India paper. NM
+(AO-300)
+I
+I U
+Address_	-->
+</p>
+<figDesc>Advertisement for Sears, Roebuck and Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19170312.p004" />
+
+<text type="photograph" xml:id="love.19170312">
+<body>
+
+<figure n="illustration">
+<head></head>
+<ab type="credit">Painted by Stockton Mulford.</ab>
+<p>"'Love&#8212;the real thing&#8212;is a miracle,' said he huskily.  'I don't know, Gerry,' she exclaimed.  'But I know love is love!'"</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 5" xml:id="ew.issue.19170312.p005" />
+
+<text type="flag">
+<body>
+
+<figure n="flag">
+<figDesc></figDesc>
+<p>Vol. 4, No. 11<lb/>
+March 12, 1917<lb/>
+
+Every Week<lb/>
+
+$1.00 per Year<lb/>
+3 Cents a Copy</p>
+</figure>
+</body>
+</text>
+
+<text type="fiction" xml:id="child.19170312">
+<body>
+
+<head type="main">LOVE IS LOVE</head>
+<byline>By <persName type="author" key="#Child, Richard Washburn">RICHARD WASHBURN CHILD</persName></byline>
+<byline>Illustrations by <persName type="illustrator" key="#Mulford, Stockton">Stockton Mulford</persName></byline>
+
+<p>WHEN the early morning train from Omaha rolled into the Union Station in Chicago, a young man came with the other
+passengers through the gate. He wore a suit of clothes that were conspicuous because of the starchy; new appearance of inexpensive ready-to-wear garments, and because of the bold white stripes on dark blue woolen,, and the new and yellow shoes. The young man wore a cerise necktie, and carried a dress-suit-case.</p>
+
+<p>If the newcomer to the metropolis had gathered about him anything that marked him out from the average, it was against his intention; he may have overshot the mark, but he had aimed to produce the appearance of a student returning from a university.</p>
+
+<p>Yet he suspected that he did not look as much as he had hoped like the product of academic shades. His prominent ears, turned-up nose, many freckles, his uneven walk; and the condition of his hands were such as would have resisted at least the final efforts of beauty doctors. Though he walked either with his head lowered or casting furtive glances at the faces of those persons who had come to meet new arrivals, youth, health, a pair of clear blue eyes, a firm chin, and a habit of expressing much by a quirking smile traveled as the companion of this unknown.</p>
+
+<p>Straight as he could go, he steered his way across the waiting-room to the telephone booths, and began to turn the pages of the directory with the haste of one who, after a long absence, hungers for welcoming voices. Only after he had been thwarted in this purpose, and was twenty cents poorer in pocket, did he sit down on one of the settees and, pulling out a letter, give it his attention.</p>
+
+<p>When no one else looked upon this prodigal returning to the allurements of the great city, two men, ten feet from the end of the long ticket window, still regarded him with interest and whispered about him between themselves.</p>
+
+<p>"If you think there is a chance, telephone over to Bowman's. Applehauser is there, playing dominoes over a shell of beer," said one, rolling a dead cigar from corner to corner of his mouth. "He'll know. He was the one who sweated him at the 
+Harrison Street station after the hotel made the charge. Go to it!"</p>
+
+<p>The second man disappeared into a booth. Five minutes later a third man, who weighed not less than two hundred pounds and carried meaty hands, approached the youth and said sharply:.</p>
+
+<p>"What's new, Gerry Sands?"</p>
+
+<p>The letter fell from the inert hands of the victim of this inquiry; his lower jaw dropped, exposing his even white teeth. He made no attempt to rise; he did not stir: he was frozen with terror.</p>
+
+<p>That mysterious, terrible thumb, the Law, had once more found the atom which called itself Gerry Sands.</p>
+
+<p>"Welcome to our city," said the fat Applehauser.</p>
+
+<p>But young Sands stared at the detective sergeant, seeing only a film of pictures flying in vivid colors across the vision of his memory. He saw himself as he had first come to Chicago, a green orphan of eighteen; he saw himself as he had served on alternate shifts as a bellhop in the gray uniform with "Hotel La Ville" emblazoned in gold over the breast pocket beneath which his heart had thumped when rushing ice water to the numbered doors; he saw the hated guest&#8212;the terrible guest with the terrible name of Mr. Edgar Nobling, from Fargo,
+
+<cb n="2" />
+
+North Dakota&#8212;whose watch was suddenly missing from the bureau in 128. Gerry never had seen the watch. It was found in his locker where he hung his street clothes.</p>
+
+<p>Then suddenly mankind had become his enemy. There, were eyes, eyes, eyes&#8212;accusing eyes. There were sneers, sneers, sneers, oaths, oaths, oaths. And where a friend? Among the boys in the Kedzie Avenue pool-room. He would go to them!</p>
+
+<p>Then came the complaint&#8212;the heavy hand; Applehauser had walked him over to the Harrison Street station! Theft or no theft, he was a criminal now! Even to himself Gerry "looked like" a crook.</p>
+
+<p>"Get up!" Applehauser was saying. "The last time we had a convention&#8212;you and me&#8212;was over in the station. Bluff won't do. If you're a right guy you won't pull any of that stuff. You know me."</p> 
+
+<p>Gerry knew him! Gerry knew Applehauser! The detective and some other man with red hair growing on thick wrists had questioned him for an hour or two. Mr. Nobling of Fargo had lost no ordinary watch: his watch had chimes, and told the day of the month, the day of the week. It was the gift of Mr. Nobling's employees.</p>
+
+<p>GERRY said he had never seen that watch before they found it in his locker. He suggested that one of the other boys had planted it on him. For this suggestion the red fist struck him&#8212;smash!&#8212;in the face. They roared at Gerry, cursed him, slapped his ears until his ears were swollen. They drew from him the confession that he spent his off evenings in the Kedzie Avenue billiard and pool parlor.</p>
+
+<p>Gerry remembered that it had been raining; a cold rain beat against the windows of the torture room, and at last there was water running down his cheeks&#8212;the warm flux of rage, powerlessness, fear, loneliness, and the obliteration of hope. They had broken Gerry Sands.</p>
+
+<p>"Well, you're one swell dummy!" Applehauser now was saying derisively. "You're a nice young guy. Who got Larry Michaels to be bondsman for you? I did. He treated you swell, too: bailed you out and took you out on the South Side and give you a room in his hotel."</p>
+
+<p>For the first time, Gerry Sands spoke.</p>
+
+<p>"He was a big crook," he said. "He wanted to put me wise to a job where I could earn money peddling cocaine."</p>
+
+<p>"That's nothin'! You jumped your bail, didn't you?"</p>
+
+<p>"Sure I did. What chance did I have, with everybody ag'in' me? And I wouldn't peddle snow for any bunch of crooks."</p>
+
+<p>"That was two years ago. If we put
+
+
+
+<cb n="3" />
+
+you through now it would be the penitentiary for yours. Where you been?" The old feeling of being an animal at bay, prodded with red-hot irons, unable to bite at the menace of this system of despair which they called the law, was filling the being of Gerry Sands.</p>
+
+<p>"I went to Omaha," he said. "I worked on a truck farm outside the city. Then I clerked in a grocery."</p>
+
+<p>"You're a fine big piece of Swiss as a liar," replied Applehauser. "Well, what made you come back to Chicago?"</p>
+
+<p>"I don't know."</p>
+
+<p>"Yes, you do. You saved up a wad of money, and you got to dreamin' about the bright lights and the moving picture shows and the click of the pool balls. Is that right?"</p>
+
+<p>Gerry grinned timidly and hopefully, and nodded. In his pocket was ninety-seven dollars. That he wanted to see the gleam of red traffic lights on the black boulevard pavements, feel the lazy sun on Michigan Avenue, smell the odor of dead cigarette smoke in Noonan's Palace for Pool, listen to the dry humor that fell out of the corner of Bill Ackerson's mouth, there was no denying. Gerry nodded a second time. Chicago, lovely with allurement, had called him back!</p>
+
+<p>"It won't do," snarled the big sergeant, pulling his felt hat-brim. "Nix on the old-home-week stuff. Did you think you was goin' to blow into town without our bein' wise to you?"</p>
+
+<p>Gerry said "Yes."</p>
+
+<p>The detective knew very well that mere chance&#8212;the fact that one of the two detectives assigned to the station had been a friend of the former house detective at Hotel La Ville and remembered Sands&#8212;had been responsible for his identification.</p> 
+
+<p>"Listen to me," said Applehauser. "You're a wise kid. You know we have two dicks in every station as well as I do. If you were trying to get by 'em, it was for something more than seeing bright lights. You were going to pull somethin' off!"</p>
+
+<p>"I wanted to see Bill Ackerson. He isn't any crook. He drives a wagon for Barson, Fields &amp; Potts. He's my friend. Look at this letter."</p>
+
+<p>"A plant," sneered the representative of society, waving the letter aside. "Come across with the truth, now. A nice young right guy like you comes to a jurisdiction where you're wanted for bail-jumpin', and tries to tell me them tales. You little shrimp-sized crook&#8212;come across if you're going to do business with me!"</p>
+
+<p>Gerry wanted to leap for the double chin of the detective and bury his fingers in the fat of that bull neck. What distribution of right and wrong was this
+
+<cb n="4" />
+
+which allowed the big man to call him such a shocking name&#8212;a name which made him feel that sickness of the cowed and beaten dog? He realized, as his impotent rage lessened, that Applehauser only wanted information about some supposed project of criminality for which some imagined evil associates had planned. But he had no information to give.</p>
+
+<p>He was dizzy with the nausea of the person who, guilty or innocent, feels the pressure of the great thumb&#8212;the system which society erects for great good, and so often blindly turns over to the distortion made of it by brutish, ignorant, corrupt, and villainous representatives.</p>
+
+<p>"Listen, Mr. Applehauser," said Gerry in a shaking voice; "I'll go back to Omaha."</p>
+
+<p>"You will&#8212;I don't think."</p>
+
+<p>"Are you goin' to put me through?" asked the youth, almost crumpled. "Honest to God, are you goin' to do it?"</p>
+
+<p>Applehauser sneered again. He was thinking of Larry Michaels. Larry had "squealed" to the district attorney when the detective bureau investigation was on. Applehauser should worry about Larry Michaels! Or forfeited bail! Michaels had bribed a court clerk to bury the record and saved his kale, anyway! Applehauser should worry about arresting  young Sands as a bail-jumper. He might do it or he might not. It was all the same to Applehauser.</p>
+
+<p>To Gerry it was the penitentiary.</p>
+
+<p>"For God's sake!" he gasped, heaving breaths as a fish hauled out in a net. "I never did nothin'. There ain't anybody to say nothin' for me nor buy nobody off. Don't keep me waiting, for the love of God. Have I gotter go through?"</p>
+
+<p>"Well, you gotter come through with why you came to Chi," the detective sergeant growled. "Get me? Come across. What brought you here?"</p>
+
+<p>Gerry Sands could not keep his knees straight; each one kept giving away. He did not, and mentally could not, weigh right or wrong, truth or lies. He had left Chicago in blind fear&#8212;fear of a system by which the police turned him over to a bondsman who, to all intents and purposes, ran a school of crime for beginners; and the bondsman threatened to turn him back to the police and so into a penitentiary which, to all intents and purposes, with all its other horrors, was a school of crime too.</p>
+
+<p>AN evil inspiration worked its way up through this blind fear&#8212;fear of the great thumb. The evil inspiration was the last straw at which Gerry could snatch.</p>
+
+<p>"I come to Chicago to get married," he said.</p>
+
+<p>"You ain't got a girl here, you stiff!"</p>
+
+<p>"Sure I have," replied the unfortunate.</p>
+
+<p>"She wouldn't marry you. Say! How long will this take&#8212;this splicing? You mean you're goin' to do it sometime&#8212;next spring?"</p>
+
+<p>"No; we've got it all fixed," panted Gerry.</p>
+
+<p>"For when?"</p>
+
+<p>"To-day."</p>
+
+<p>Applehauser thought a moment, and then pointed to the dress-suit-case packed to bursting. He said, "Bring that along. Come outside."</p>
+
+<p>Gerry followed him into the glare and the tang of the sunlight and air of the cold winter morning. Beyond the line of taxicabs, young Sands could see the familiar low, dingy buildings on Canal Street where the jobless hang about the doorways of the labor agencies.</p>
+
+<note type="editors">
+<floatingText>
+<body>
+<p>JUST to tie this story up in your memory with Mr. Child's last one, which was called "Hard of Head," we're printing his picture again. We are to have two more stories from him shortly&#8212;though just how shortly we can not be quite sure. He's just back from Russia, and away he goes to China.</p>
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+</body>
+</floatingText>
+</note>
+
+<pb n="Page 6" xml:id="ew.issue.19170312.p006" />
+
+<p>"Now, listen to me, Gerry Sands <hi rend="italic">alias</hi> James Corrand," Applehauser said. "Listen to me and get this quick, because I left a hot game of muggins for you. I think you're lyin' to me. But I haven't got time to bother with you. If you're lyin', then there's another reason for your coming to Chicago, and I'll want to know it. In that case you can squeal the truth or go through and get your ten months for grand larceny and three more for beatin' it. Do you get that?"</p>
+
+<p>Gerry blinked.</p>
+
+<p>"Yes."</p>
+
+<p>"I'm goin' to put a shadow on you," he said. "If you try to leave Chicago without this here little wife you talk about, and the license and certificate, it will be all day with you. Get that?"</p>
+
+<p>Gerry's face was almost yellow with terror.</p>
+
+<p>"I'm goin' to have you followed. Don't try to shake my man, now&#8212;and keep away from them old haunts of yours! If you ain't married and out of the city by to-morrow noon, believe me, we'll show you somethin' we've got on file for you up at headquarters. Now beat it!"</p>
+
+<p>SANDS, alone, dimly remembered that somebody at the end of a telephone had told him that his friend Bill Ackerson had been sent away to some unnamed hospital with pneumonia, irretrievably lost when needed most. Gerry picked up his dress-suit-case in one hand and clutched his cerise necktie in the other as he watched Applehauser go across the street and enter Bowman's Caf&#233;.</p>
+
+<p>"Love and marriage in a day!" gasped Gerry. "No chance!"</p>
+
+<p>The pigeons flying over the Chicago River with its ice fringe threw moving shadows on the surface beneath the rising walls of sign-bedecked warehouses. The young victim of fate stopped on the bridge and looked down at the chilly waters; then furtively he glanced back. A man in a shabby derby hat had stopped also, with an intense interest in the blue winter sky above them.</p>
+
+<p>"Applehauser has put a gum-shoe man on my trail," thought Gerry, trembling. "It's all off! That's what comes of lyin'. Not a girl
+
+<cb n="2" />
+
+left in Chicago who knows me, and I'm wearin' a map that's about as popular with ladies as the measles. I wish I was dead!"</p>
+
+<p>AT half past ten the sunlight shone down so that even winter was warmed by it; indeed, its warmth seemed to be the only kind thing in the city. Gerry sat on a bench in Lincoln Park, staring at the sparrows picking about for a meal along the pathway. At the edge of the park a stream of vehicles flowed by, and the growls, snarls, hoots, and gurgles of the horns of motor-cars were to his ears part of a derisive chorus of a city that did not care a snap what became of him.</p>
+
+<p>After he had left Applehauser he had allowed his mind to assume that the case was hopeless. Twenty-four hours for courtship, love, and marriage! Too short for an expert! For Gerry a blank impossibility! But when he thought of the sensation of emptiness which would cause him to feel that his head and shoulders had suddenly been separated from his legs and feet at the moment when a gruff voice would say, "Come along with me," when he thought of the abuse of thick- necked bullies, when he imagined the voice of injustice roaring, "Guilty!" when he pictured himself in the humiliation of the lock-step behind cold, thick gray walls, he told himself that the penitentiary was as unthinkable as matrimony.</p>
+
+<p>Anything but the penitentiary. Even marriage!</p>
+
+<p>If the truth were to be told, Gerry's attitude toward marriage was somewhat crude. It was impersonal. In the absence of positive objections, a girl to marry was any girl who lived with her mother and had long eyelashes and pink
+
+<cb n="3" />
+
+lips, and who asked her "friend" to stop smoking cigarettes&#8212;which was the conventional sign for being "good." The reason Gerry had not considered marriage possible was because the very thought of making advances toward that end made his face turn red and his skin feel like the night after a glaring summer day spent at the beach in a bathing suit. The idea of marriage in which he played one of the leading roles made him feel silly.</p>
+
+<p>But to-day there was the penitentiary, suicide, and matrimony. And now matrimony, thought young Sands, was not so bad as it sometimes had appeared even under more romantic circumstances.</p>
+
+<p>"Any matrimony at all would do," poor Gerry had said to himself. "This ain't a time to be fussy."</p>
+
+<p>So he had made attempts.</p>
+
+<p>THE first he had made when he had gone into an all-night lunch-room to get a cup of coffee. Sitting at a wall table, with a paper napkin in one hand, was a young woman whose hair was fluffy gold. She was round and smooth and soft&#8212;qualities which offended Gerry's taste; but he had shut his jaw and plunged into a seat opposite. He cast a furtive glance at her breakfast—rolled oats and cream, fried hamburger steak, hashed brown, buckwheat cakes, a chocolate &#233;clair, and cocoa. "Some eater," he had said to himself; and then, thinking of the lockstep, he had spoken decisively:</p>
+
+<p>"Better let me pay both checks, huh?"</p>
+
+<p>She had giggled.</p>
+
+<p>"I don't mind. You look like a gentleman. I can tell 'em, mister. He says I know just as soon as I look at 'em."</p>
+
+<p>"Who says so?" he had asked, taking a mouthful of coffee.</p>
+
+<p>"My husband."</p>
+
+<p>Gerry had swallowed, burned his throat, sputtered, and paid the check.</p>
+
+<p>Outside on the curb, he had teetered, staring down at the brown mush that once had been snow. In his eyes was the familiar Monroe Street—moving-picture houses, haberdasheries with bright neckties in the show windows, jewelry shops, the flowing crowd; in his ears was the rumble of the city, the bellows of Lake steamers, the roar of elevated trains; in his nose the passing odors of violet extract, five-cent cigars, and gasolene. All the pleasures of the senses for which he had traveled so far were before him, but to poor Gerry they wore nothing. Love&#8212;ready-to-wear love&#8212;was everything!</p>
+
+<p>He had strolled up to a taxicab driver.</p>
+
+<p>"Listen, feller," he said, making up his mind to invest a few dollars in romance. "How can a guy meet a girl fer a littleride?"</p>
+
+<p>The taxicab driver snorted at Gerry. "For a little bride?" he sneered.</p>
+
+<p>Gerry, in his simple-mindedness, felt relief that the other had made the error.</p>
+
+<p>"Yes, that's the big idea," he said, grinning sheepishly. "I want to get married."</p>
+
+<p>"Roll over; you're on ya back," replied the other. "You got a nightmare, kid."</p>
+
+<p>Gerry had a mind to buffet the other; but he saw a mysterious man in a long rain-coat watching him from across the street, and he knew that an altercation might precipitate his undoing.</p>
+
+<p>NOT until he had reached a fruit, ice-cream, and candy parlor, where he stopped to buy a cocoanut bar, did he try again. A lean, angular, and masculine-looking young woman was shelling pecans at one of the deserted tables.</p>
+
+<p>"She looks strong, anyhow," Gerry had said to himself philosophically.</p>
+
+<p>When she dropped four nickels of change back into his hand, he seized her large fingers.</p>
+
+<p>"Well?" said she slowly. "Why don't you let me go back to work?"</p>
+
+<p>Gerry swallowed hard. He said: "I think I could love you."</p>
+
+<p>She sniffed. "Marriage?" she inquired.</p>
+
+<p>"Sure!" cried young Sands, alive with new joy and hope. "Sure! Marriage!"</p>
+
+<p>"Come over here," she directed. "I want to see clearer. Stand here in the sunlight; turn your face a little to the left."</p>
+
+<p>Gerry, dreaming of good fortune, had done as she commanded.</p>
+
+<p><hi rend="italic">Smack!</hi></p>
+
+<p>With her open palm she had delivered upon his face a stinging blow.</p>
+
+<p>"I'll teach you to come in here and kid me along! Now skedaddle!"</p>
+
+<p>"Love is a risky business," Sands had thought, as he went along the avenue, where the shops constantly became more scattered and the residences presented an increasingly solid front. "Love is for them who knows how to pull it off. For me&#8212;the bulls, the court, the gong-wagon, and maybe Joliet!"</p>
+
+<p>"'What's new, Gerry Sands?' Gerry made no attempt to rise; he was frozen with terror. That mysterious, terrible thumb, the Law, was upon him."</p>
+
+<p>AND now, as he sat on the concrete park bench from which he had brushed the snow, he marveled at the cruel tricks which destiny can play. He wished that he might find the courage to leap into the lake.</p>
+
+<p>"I ain't in the mood fer love, anyhow," he said. "My heart ain't in it."</p>
+
+<p>He looked around. Only two persons were in sight. One was a young girl, thin, pale, and sickly, who strolled slowly, almost painfully, along the unshoveled path. The other was a man who walked around the Lincoln Monument, pretending to stare up at it as if he had come many miles for a critical survey of it. Gerry knew for whom this man worked!</p>
+
+<p>"Applehauser keeps changing 'em off," thought Gerry. "Ain't he like a fiend! He is a&#8212;"</p>
+
+<p>He stopped in the middle of the phrase in his mind. Some one had dropped down on the bench beside him. It was the girl who had been strolling listlessly up the path.</p>
+
+<p>"You needn't jump," said she. "I didn't sit down because you was here. I. sat down because I was dizzy. I've been sick; I was at the hospital."</p>
+
+<p>"Is that so?" Gerry said sympathetically. "What's the complaint?"</p>
+
+<p>She did not answer him at once&#8212;which gave him a chance to observe her: to see her frail body of medium height, her folded hands within woolen mittens, her pointed chin resting on a scarf which bore a strong resemblance to the fur of a cat that bas been out in a cold rain. Her skin, though brushed over with the ashy powder of ill health, was fine and clear; her hair was heavy and of a reddish brown tint; her lips were thin and, in contrast to her skin, highly colored. But the remarkable features of her face were her eyes&#8212;two great, brown, luminous eyes.</p>
+
+<p>"I've had bronchial trouble," she said. "That's all over now, I guess. You're not from Colorado, are you?"</p>
+
+<p>Gerry shook his head.</p>
+
+<p>"Nix. It's a swell country, I hear."</p>
+
+<p>Her smile illumined her face from beneath the ashy powder of ill health upon her skin. She said:</p>
+
+<p>"I'm from Colorado. I was born there. I ought to go back, the doctors say. I got a spot on my lungs."</p>
+
+<p>"Gee!" exclaimed Sands, staring at her with admiration. "I never had nothing the matter with me."</p>
+
+<p>He thought a moment, and then said judicially:</p>
+
+<p>"Well, I think you ought to go."</p>
+
+<p>"If I can get back to work I can earn the money to go," she said. "I ain't pickin' up very fast, they say. Ain't I the awful crape-hanger?"</p>
+
+<p>"Naw!" said he. "Not at all&#8212;not at all. Are your folks dead?"</p>
+
+<p>"Yes, they're dead," she answered. "Life is funny."</p>
+
+<p>He thought of the penitentiary.</p>
+
+<p>"I've had a lot of trouble myself," he asserted. "I could tell you things that would make your hair stand up stiff on your head."</p>
+
+<p>Suddenly ho stopped and looked into her wistful young face suspiciously. "You ain't married, are you?"</p>
+
+<p>"Who? Me?" She was astounded. He nodded.</p>
+
+<p>"No, I'm not married. What an idea! I worked in a shirt and blouse factory ever since I come to Chicago. My aunt sent for me. She's gone to New York now. She's a forewoman of stitchers. I've been living in a boarding-house on Pelgrave Street. There's only girls where I work and girls where I sleep. Of course, when I grow older, if I have time to know
+
+<pb n="Page 7" xml:id="ew.issue.19170312.p007" />
+
+any young gentlemen, I might get married."</p>
+
+<p>She laughed and folded her hands.</p>
+
+<p>"You needn't look worried," she said. "I may not get well. The doctor is an awful nice man. He says I oughter have rest and amusement. He's kind&#8212;the kindest man I know. His name is Johnson. He's the head of the out-patient department, and wears glasses. He says to me: 'Hello! You back again? I thought I told you to go back to Colorado.' And then he got red because he forgot I didn't have any folks to pay my way."</p>
+
+<p>"Say, how old are you?" asked Gerry, casting a nervous glance at the man who still circled the statue.</p>
+
+<p>"I'm twenty-one."</p>
+
+<p>"You don't look it. My name is Gerry Sands."</p>
+
+<p>"Mine's Rose Carey."</p>
+
+<p>"You look a little like a rose," he said gravely. "No; I ain't like the rest of the boys you've known. Honest to goodness! And I meant that, I did."</p>
+
+<p>"I believe you, at that," she answered with sincerity. "Ain't it cold here?"</p>
+
+<p>She pulled her worn shoes up under her shabby brown skirt, and pushed one finger through a hole in her woolen gloves and looked down at its pink tip.</p>
+
+<p>A spirit of desperation seized Gerry. He felt of the fat roll of his savings in his warm trousers pocket, and stood up.</p>
+
+<p>"Listen!" said he. "Let's take a ride in a taxi and so on."</p>
+
+<p>Her disproportionate eyes gleamed.</p>
+
+<p>"I ain't never!" she admitted. "You mustn't take me. Take your lady friend."</p>
+
+<p>"I ain't got any lady friend&#8212;or any other friend," he said. "You're the only lady friend I've got."</p>
+
+<p>"Well, you oughtn't spend money like that."</p>
+
+<p>Poor young Sands scowled, trying to think of a way to overcome her objections.</p>
+
+<p>"I was going to spend the money being bad," he lied awkwardly. "I've been pretty bad sometimes."</p>
+
+<p>She stood up too, and put her hand through his arm.</p>
+
+<p>Gerry shivered.</p>
+
+<p>"Well, I'll go with you," she said. "I trust you. I'd go anywhere with you. You ain't bad! I can tell that."</p>
+
+<p>After they had walked a few steps she spoke again; she said:</p>
+
+<p>"I feel a lot happier than I felt for weeks, but I don't want you to think I'd ride in a taxicab&#8212;just for the ride. I ain't mercenary."</p>
+
+<p>He looked down at the white, thin neck with its coils of luxuriant brown.</p>
+
+<p>"Ferget it. No man of the world would take you for one of them adventuresses."</p>
+
+<p>For a moment his delight in the companionship of this pale and shabby little girl made him forget the penitentiary. Gerry Sands did not know how ghastly are the tricks which destiny may play.</p>
+
+<p>AT four o'clock that afternoon, without their taxi ride, Rose Carey and Gerry Sands came down the steps of the Art Museum, and stopped to admire the lions.</p>
+
+<p>"I like them animals better than pitchurs," he asserted. "There was too many paintings there&#8212;too many trees and moonlights and men with beards. If I was a painter I'd choose torchlight parades and murders and things with pep. Say&#8212;what's the matter?"</p>
+
+<p>She turned away quickly; but he seized her and looked into her face. The great brown eyes were filled with tears.</p>
+
+<p>"What's the idea?" gasped Sands.</p>
+
+<p>"That talk we had in there&#8212;in there, lookin' at the painted china in glass cases."</p>
+
+<p>"I meant it all," Gerry said. "Honest to God, I meant it all. Did you think I didn't mean it, girl? Don't say that."</p>
+
+<p>"You said you loved me," answered Rose. "And oh, Gerry, I never had anybody to say that to me&#8212;no stranger&#8212;nobody like you, Gerry."</p>
+
+<p>Conscious that for some reason a great call to his manhood had come, Gerry shut his teeth and tried to make his jaw square; he tried to talk maturely.</p>
+
+<p>"I said I loved you, and&#8212;well, you said you loved me. It came out natural, it
+
+<cb n="2" />
+
+did. I meant it. I never thought I would say it like that&#8212;meaning it&#8212;for keeps. And I said, 'Let's get married.' I meant that too. And say, when you was willing! Well, we counted the money, didn't we? And it was enough to take us to&#8212;what's that?"</p>
+
+<p>"Colorado."</p>
+
+<p>"Yes, me and you. And I said I'd pick up a job. Certainly&#8212;a man's job is to take care of somebody, ain't it?"</p>
+
+<p>"Oh, I could get a job, too. I will get well I'll get a job," she said eagerly.</p>
+
+<p>"Nix. Leave it all to me," he commanded in a large manner. "I'm good for it all, if there's you to work for. Well, I mean it all, Rose&#8212;every word. It's settled, isn't it?"</p>
+
+<p>She put her hand into his.</p>
+
+<p>The dark was gathering; the lights along the icy water-front of Lake Michigan began to peep out; the engines on the tracks, somewhere between the avenue and the water's edge, whistled.</p>
+
+<p>"Aw, it's no time to cry," he asserted.</p>
+
+<p>"It's happiness. I'm all shook with something&#8212;inside," she said. "To have you love me&#8212;to go away&#8212;to go back to the mountains where there aren't so many people&#8212;to get well for you, Gerry! But most of all to have you love me&#8212;after being all day together. Ain't it like a film! And do it right away! Go to the license bureau and then do it right away! Why&#8212;"</p>
+
+<p>She stopped suddenly and looked up at him with the two great eyes&#8212;searching.</p>
+
+<p>"Gerry, why do we get married in such a hurry?"</p>
+
+<p>Poor Sands swallowed. He ran his finger around inside his collar as if air were difficult to breathe and as if some giant hand suddenly had throttled hint and he must escape its constriction. He knew that he must divert her&#8212;this shabby, pale, adorable person; he knew that he must not meet this issue. Summoning as best he could all the nonchalance displayed by those who are "independently wealthy," Gerry spoke.</p>
+
+<p>"Your nerves is all unstrung," he said. "I'm goin' to call a taxi and we ride&#8212;see! We take one swell long ride."</p>
+
+<p>He will never forget that ride.</p>
+
+<p>They had called a taxicab, entered it, and the machine was over the bridge and humming along through the North Side before Gerry had ended a monologuistic stream invented by one part of his brain for her delighted entertainment, while the other said to him over and over again: "She mustn't ask that question. She mustn't ask it. Ruin lurks there. She mustn't get a chance to ask!"</p>
+
+<p>But suddenly, to his consternation, his chatter gave out. He could not longer continue to think of two things at once. He gasped and fell back against the seat&#8212;and turned his face away, pretending to look out of the window at the lights of shops on the corners of the running blocks of houses.</p>
+
+<p>HE could think of nothing more to say to her. Her hand, he discovered, was in his; but he could only recall the pictures which his imagination had painted&#8212;the picture of a big-eyed girl and a youth with a good-natured smile watching Chicago disappear as a train clicked merrily over the tracks; the picture of a cottage somewhere, with his own hat hanging on his own golden oak hat-rack; the picture of Rose, well and rounded of cheeks, the picture of her clad in clothes he had bought and paid for; the picture of somewhere&#8212;a place where <hi rend="italic">they</hi> lived.</p>
+
+<p>All this <hi rend="italic">must</hi> be, he thought; and yet, something told him it would not be. He
+
+<cb n="3" />
+
+<figure n="illustration">
+<head></head>
+<p>"'You look like a gentleman. I can tell 'em, mister.'"</p>
+<figDesc></figDesc>
+</figure>
+
+
+was Gerry Sands, and for Gerry Sands fate would hold up a forbidding hand and stop the progress&#8212;like a traffic cop. He wondered what was the matter with his soul. It felt sick.</p>
+
+<p>GERRY'S soul felt sick, and all at once the diagnosis of his soul's illness became plain. Love and a lie would not live together&#8212;not for anybody&#8212;not for Gerry Sands. He had not told her&#8212;her whom he loved. He had convinced himself that he loved her better than he loved himself; he had said so to her. It was a fake! He was putting one over on the girl he loved!</p>
+
+<p>He pushed his feet against the floor of the bouncing body of the taxicab; he withdrew his hand from her warm, feverish fingers. He was bracing himself for the last and best token of true love which he could lay at the feet of Rose Carey.</p>
+
+<p>"Listen, Rose," he said fiercely. "I'm down as a crook with the police!"</p>
+
+<p>"Gerry, I&#8212;" </p>
+
+<p>"Don't say a word!" he commanded, seizing her wrists. "You gotter know it all. Now listen!"</p>
+
+<p>He told her in fast, jerky sentences. Sometimes he leaned away from her; sometimes she might have felt the very warmth of his words upon her own burning cheeks.</p>
+
+<p>"You gotter know it all&#8212;all about me!" he exclaimed. "I'd ruther die than tell yer, but you gotter know. Love ain't nothin' unless I tell you, and unless you listen. We gotter go through with it."</p>
+
+<p>And at last Gerry had finished. He had finished it all. His story, his arrest, his release on bail, his flight, his work in Omaha, his talk with Applehauser&#8212;to the last word. Even his adventure with the girl in the fruit, candy, and soda shop&#8212;he told that; and then he buried his face in his hands.</p>
+
+<p>"Gerry," she said softly. He did not answer.</p>
+
+<p>"Gerry," she said, and put her arm around him.</p>
+
+<p>He did not move.</p>
+
+<p>"Gerry!" she exclaimed. "Listen, dear.
+
+<cb n="4" />
+
+That doesn't make any difference to me. Love is love!"</p>
+
+<p>And then suddenly, as if at the moment of a great triumph, at the moment when the soul of Gerry Sands felt itself in a new great warmth and its eyes had seen a new great light, the hand of destiny struck its blow.</p>
+
+<p>Young Sands felt Rose start away from him; her arm was withdrawn. She fell back into the corner, covered her face with her pale hands, and her body shook with sobs.</p>
+
+<p>"What's the matter?"</p>
+
+<p>For answer she leaned forward and rapped on the window.</p>
+
+<p>"Stop. Stop here," she screamed, and tugged at the handle of the door.</p>
+
+<p>"What's the matter?" he asked.</p>
+
+<p>She only flung open the exit and stepped out on to the curbing against which the wheels of the motor-car came to rest.</p>
+
+<p>"I'm on a car line," she said in a shaking voice. "I can get back home. Good-by."</p>
+
+<p>"Good-by!" gasped Gerry.</p>
+
+<p>SHE was so white, so straight, so taut in every muscle, that he was frightened. He wondered if she would topple over. She appeared so alone in the world! He could not speak, but he made a motion with his hands.</p>
+
+<p>"It was to get out of Chicago that you said you loved me. How could you talk like that? You just wanted to use me. Love? Did you say <hi rend="italic">love</hi>?"</p>
+
+<p>She laughed bitterly.</p>
+
+<p>"Here's my car," she added, running out on the crossing.</p>
+
+<p>Gerry followed her. "Listen!" he exclaimed.</p>
+
+<p>"I won't listen. I won't. I won't!"</p>
+
+<p>People were looking at them now. Gerry felt the hot blood in his cheeks. A man had alighted from the street car who wore a shabby derby hat and without doubt, in Gerry's mind, was the same man who had followed him from the station after he had left Applehauser. Gerry could feel the chill of fear in his heart. And he had lost!</p>
+
+    <p rend="jumpline"><ref target="child.19170312.jump">Continued on page 23</ref></p>
+</body>
+</text>
+
+
+<pb n="Page 8" xml:id="ew.issue.19170312.p008" />
+
+<text type="nonfiction" xml:id="bruce.19170312">
+<body>
+
+<head type="main">Dreams We All Have</head>
+<byline>By <persName type="author" key="#Bruce, H. Addington">H. ADDINGTON BRUCE</persName></byline>
+<div1>
+<p>"I WISH you would explain," said a well known New England botanist to me not long ago, "why it is that I so often dream of flying. I take the most remarkable flights when I am asleep, and the dreams are so vivid that I sometimes wake from them with a feeling that I really have been flying.</p>
+
+<p>"As a rule, in these dreams I don't seem to be very high in the air&#8212;merely a few feet above the ground. I fly both indoors and out, at times without visible support, at other times as if in some strange flying-machine.</p>
+
+<p>"For example, only last night I had an extraordinary flying dream. I seemed to be out in a field, where a number of people were seated in chairs, in two long rows, with the chairs in each row a considerable distance apart. On the ground, midway between the two rows, was a short toboggan-like affair. I got into this, and immediately began to glide upward.</p>
+
+<p>"The toboggan, or whatever it was, carried me in and out, winding among the people in the chairs, a few feet over their heads. In this way I flew across the field twice, then gently glided to the ground again, feeling immensely proud of my performance. Always, for that matter, these flying dreams are pleasant to me. But just why do I have them?"</p>
+
+<p>Most people who have such dreams tell me that they greatly enjoy their imaginary flights, and that they seldom seem to be flying far above the ground. But there are exceptions. Thus, a California business man sends me a long account of a dream flight from St. Paul to Pike's Peak.</p>
+
+<p>"I became so cold," he reports, "that I had to come to the ground to get warm."</p>
+
+<p>Other dreamers write that their flying dreams suddenly change to falling dreams.</p>
+</div1>
+
+<div1>
+<head type="sub">The Dream of Flying</head>
+
+<p>MANY people, indeed, dream of falling without any preliminary dream of flying. Common as flying dreams are, falling dreams are of far more frequent occurrence. One psychologist who has made a special study of dreams declares that three times as many people dream of falling as those that dream of flying. Usually the fall is from a great height,&#8212;as from the roof of an office building or from a mountain-top,&#8212;and usually the dreamer wakes before the end of the fall. It is seldom that dreamers have the experience of one lady who, reporting several dreams of falling, writes:</p>
+
+<p>"I have arrived at the bottom with a crash, have broken up into pieces, and then I&#8212;a sort of detached ego&#8212;have picked up the pieces and glued them together again."</p>
+
+<p>Obviously, a dream like this must be extremely disagreeable. But then, all dreams of falling are unpleasant, as the
+
+<cb n="2" />
+
+<note type="editors">THE purpose of this series of articles by Mr. Bruce is to help you to understand your own self better,
+that you may use yourself more efficiently. An article entitled "Do You Use Your Eyes?" is to follow this, and another on "Your Unused Reserves."</note>
+
+
+dreamers of them bear unanimous testimony.</p>
+
+<p>Unpleasantness is likewise characteristic of another common type of dream&#8212;dreams of smothering.</p>
+
+<p>"When I dream of smothering," runs a statement amply descriptive of the usual situation, "I seem, in my dream, to wake up in a box or small compartment quite devoid of air. I try to call for help, to break out of what is confining me&#8212;but all in vain, until suddenly I wake."</p>
+
+<p>Yet another variety of dream dreamed by many people is that of appearing in public in scanty clothing. In this dream the sense of shame may be entirely absent, or it may be keenly experienced. Oddly enough, on the part of the dream spectators of the excursion in undress, there is commonly no sign that they are surprised or affronted. They do not laugh at the scantily clad dreamer, or rebuke him. At most, they look stiffly solemn. As a clergyman who frequently had this dream puts it:
+"When going only half dressed into a room full of people, in my dreams, and keenly conscious of the lapse from decency and good manners, nobody notices it in the least."</p>
+</div1>
+
+<div1>
+<head type="sub">Dreams of Futile Effort</head>
+
+<p>AS a variant of this common dream, we find a dream of inability to dress. For instance, another clergyman testifies that he often dreams he is late for church, is undressed, and unable to get dressed. Everything is missing, or he puts his clothes on inside out and has to make a fresh start. Strictly speaking, this kind of dream shades over into another class of dreams of widespread occurrence&#8212;namely, dreams in which the dreamer can not do things right and suffers from different kinds of trivial inconveniences, as inability to pack for a journey, inability to catch a train, etc. And from these dreams of futile effort and trivial inconvenience it is, again, an easy gradation into that most common of dreams, the nightmare.</p>
+
+<p>In a typical nightmare, inability to escape from some terrible danger is always the central fact. Sometimes the dreamer seems to be lying helpless in the clutch of a horrible monster. Sometimes he is in panic, flight, stumbling, getting
+his feet entangled in all manner of obstacles, falling back when climbing, feet growing leaden, hands too heavy to be moved, and at last sensations of paralysis and a conviction of certain capture by
+
+<cb n="3" />
+
+the pursuer. For what seems an age, the dreamer lies helpless, in agonizing dread. Then, by a supreme effort of the will, he awakens, perhaps trembling in every limb, and always in a most distressed state of mind.</p>
+
+<p>How are these dreams to be explained&#8212;these dreams of flying, falling, smothering, of being inadequately dressed, of futile effort, and of being beset by some monstrous beast or other terror-inspiring apparition?</p>
+
+<p>First, it is important to recognize that in every dream, of whatever kind, two elements are involved, one physical, the other mental. Whenever we dream, it means that we are experiencing in sleep some sensation or sensations rousing our sleeping consciousness to a certain degree of activity. The sensations may come from outside or they may come from within us. They may be, for example, sensations of cold, caused by air blowing from an open window on a bare foot, or sensations of heat from superabundance of bed-clothing. Or they may be sensations due to the cramping of a muscle, pain in a tooth, pressure sensations from indigestion, and so forth.</p>
+
+<p>In any event, no matter how caused, they are sensations of sufficient intensity to be telegraphed, as it were, to the mind, which then asks itself the question, "What is this that I feel?" If the sleeper were awake, he would be able to answer this question without the slightest difficulty. But, being asleep, he is forced to guess at the answer.</p>
+
+<p>This he usually does in a fantastic, irrational way, for several reasons&#8212;one of which is that in sleep the imaginative faculty is likely to be unusually active. Besides which, sensations experienced in sleep&#8212;when the general sensation-mass is greatly lowered by absence of the multitude of sensations connected with waking activity&#8212;tend to be felt in a highly exaggerated degree. A pin-prick in sleep may feel like a knife-stab. Or, to illustrate by reference to an actual dream occurring to the psychologist Havelock Ellis:</p>
+
+<p>"When living in the south of Spain, I woke early one morning and heard a mosquito buzzing. I fell asleep again, and dreamed that a huge insect&#8212;as large as a lobster, but flat like a cockroach, and scarlet in color&#8212;had lighted on my hand.</p>
+
+<p>"The creature had two long horns, and from each of these proceeded very long and delicate filaments, which were inserted into my hand to a considerable depth. I had to cut the creature in half, and draw away the fore part, which was attached to my hand, with great care, lest I should leave portions of the filament in the flesh.</p> 
+
+<p>"On waking, there was irritation of the left wrist, as though the mosquito had bitten me."</p>
+
+<cb n="4" />
+
+<p>Here we have clearly exemplified the part played by every dream as an effort to interpret some physical sensation. But, observe. The form the interpretation takes is by no means wholly determined by the sensation itself. The imaginative power of the dreamer, and, above all, his temperament and the character of the memories and desires latent in his mind, cooperate to give form to his dream. Different dreamers, accordingly, will interpret similar sensations in different ways, exactly as different painters paint similar subjects in different ways.</p>
+
+<p>Now we are in a position to understand the dreams of common occurrence with which we here are specially concerned. When we fly through space&#8212;or see others flying, a frequent variant of this type of dream&#8212;we may be confident that our dream is due to our experiencing in sleep certain sensations of a distinctive sort. Psychologists have pretty definitely localized these sensations in the muscles of the heart and lungs, and the state of the skin.</p>
+
+<p>His position in bed, or possibly a temporary condition of the nervous system, brings with it to the sleeper a heightened consciousness of the rhythmic movement of the heart and respiratory organs. When this occurs, the likelihood of the idea of flying being suggested to the mind is greatly increased by the fact that the usual sensations of pressure in the soles of the feet are absent.</p>
+
+<p>Also, in all probability, as first pointed out by Henri Bergson and Havelock Ellis, there is in sleep some degree of lack of sensation, owing to numbness, in the parts supporting the weight of the body in bed. Let these conditions occur at the same time, and it is easy to see how a dream of flying can result.</p>
+
+<p>But these dreams of flying, as has been said, often change to dreams of falling, and there are many dreams in which falling is the central element throughout. Here, again, skin sensations giving an illusion of lack of bodily support are a dominant factor in shaping the dream. Also there is possibly, as some psychologists think, a special sensation due to a momentary irregularity in the heart's action, conveying to the mind a disagreeable instead of an agreeable impression.</p>
+
+<p>On the other hand, it is conceivable that exactly similar physical processes are responsible both for dreams of flying and for dreams of falling, the state of mind of the sleeper determining whether he shall interpret the sensations he feels in terms of flying or terms of falling.</p>
+
+<p>Personally I believe that this is what happens. Those who have most extensively studied dreams&#8212;the Freudian psycho-analysts&#8212;find that flying dreams occur chiefly to persons who are, at heart or openly, "social rebels," persons who wish "to be free from social restraint, and not bound down by the conventionalities of culture and civilization." They may also occur to persons who, the day before the dream, have experienced something that puts them in an elated mood. On the opposite,, if a person is temperamentally inclined to gloom, or if his mind at the moment is laden with cares and worries connected with the waking life, his interpretation of the sensations experienced from heart, lungs, and skin is likely to be a dream of falling rather than a dream of flying.</p>
+</div1>
+
+<div1>
+<head type="sub">The Smothering Dream</head>
+
+<p>IN the typical dream of smothering no such differentiation seems necessary. Here, as always, the dreams vary in detail according to the mental images previously in each individual dreamer's mind. But the dream is always unpleasant, because it is due to sensations that permit only an unpleasant interpretation by the sleeping consciousness. Sometimes the smothering dream results from internal causes, such as a blocking of the air passages by a heavy cold. More frequently it is caused from without.</p>
+
+<p>"I often dream of smothering," one lady reports, "and always wake up to find the bed-clothes wrapped around my head."</p>
+
+    <p rend="jumpline"><ref target="bruce.19170312.jump">Continued on page 20</ref></p>
+</div1>
+
+</body>
+</text>
+
+
+<pb n="Page 9" xml:id="ew.issue.19170312.p009" />
+
+<text type="fiction" xml:id="luehrmann.19170312">
+<body>
+<head type="main">The Other Brown</head>
+<byline>By <persName type="author" key="#Luehrmann, Adele">ADELE LUEHRMANN</persName></byline>
+<byline>Illustration by <persName type="illustrator" key="#Hitchcock, Lucius W.">Lucius W. Hitchcock</persName></byline>
+
+<p>THE District Attorney's first waking thought next morning was of Valentin Gil; but it rather surprised him that the word to meet his first glance at the morning papers should be the Mexican's name.</p>
+
+<p>It sprang at him as if from ambush, out of the body of a long paragraph; and, startled,&#8212;for he had not expected any mention of it in the reports of the case,&#8212;his eyes flew to the headlines:</p>
+
+<floatingText>
+<body>
+<head type="main">NEW SUSPECT IN MURDER CASE</head>
+
+<head type="sub">THE <hi rend="italic">Trumpet</hi> MAKES AMAZING DISCOVERY</head>
+
+<p>The account opened with stentorian blares from which one gathered that the Trumpet had accomplished what is called in newspaper idiom a "beat." A taxicab starter and a chauffeur from the cabstand of the Pennsylvania Station had been, it appeared, the humble instruments of the achievement.</p>
+
+<p>The starter, asserting that he knew Valentin Gil well by sight, declared that the lawyer had taken a taxicab from his stand at about ten minutes of eight&#8212;just after the arrival of the Washington Flier; and the chauffeur of the cab in question affirmed that he had taken the Mexican directly to the house of the murder, where he had remained some eight or ten minutes, after which he had behaved in an extremely suspicious manner, changing his orders as to his destination three or four times, and finally causing himself to be set down at a Third Avenue elevated station.</p>
+
+<p>The <hi rend="italic">Trumpet</hi> had sent a representative
+
+<note type="editors">"The Other Brown" began in our issue of February 5.</note>
+
+<figure n="illustration">
+<head></head>
+<p>"At the signal the door opened and two policemen appeared. The District Attorney looked at Gil. 'You're under arrest,' he said."</p>
+<figDesc></figDesc>
+</figure>
+
+
+<cb n="2" />
+
+to Gil's home, where the latter had made the following statement:</p>
+
+<floatingText>
+<body>
+<p>"It is true that I called at the Welles-Hewitt house last night about eight o'clock. My reason for not informing the police of the fact was that I knew it could throw no light whatever on the murder, and would necessitate an explanation of my business with Mr. Welles-Hewitt; and I wished to avoid that. It was a private matter, in no possible way connected with his death, as you will see. I had arranged with him to purchase a small mine in Mexico belonging to him and his step-daughter. Everything was settled. When I telephoned him the night before on leaving for Washington, he told me the papers had been drawn up and we could close the deal immediately on my return. It was for that purpose I went to his house. He himself admitted me. He showed me the papers. They were all ready, signed by his daughter and himself. No doubt they are among the papers which the police have. The reason they are not in my possession is that at the last minute a slight dispute over a small point in our agreement arose, and he insisted on having time to consider the matter.</p>
+
+<p>"So I went away. I was much annoyed, I confess, by the delay, and if I changed my orders to my cabman several times it was because I found it hard to decide how to use the time of waiting to advantage, that is all. Where I went when I took the Elevated I decline to say. An hour later I returned to the Welles-Hewitt house, and, to my astonishment, found the police there. Of the cause and circumstances of the murder I know nothing&#8212;nothing whatever."</p>
+</body>
+</floatingText>
+
+</body>
+</floatingText>
+
+
+<p>It was evident that Cooley had more than kept his word. He had taken the public into his confidence, not only as
+
+<cb n="3" />
+
+to what he knew, but what he imagined. It remained now to see what the results would be.</p>
+
+<p>The first appeared with unexpected promptness, calling Redding brusquely from his breakfast to the telephone.</p>
+
+<p>"This is Mexican Mines, Incorporated," announced a very nasal masculine voice, as soon as the District Attorney's identity was declared. "Seen the morning papers, Mr. Redding?"</p>
+
+<p>"I have."</p>
+
+<p>"See what that lawyer Gil says about his buying a mine from that Englishman who was killed the other night? That everything was fixed up for the deal&#8212;papers signed?"</p>
+
+<p>"Yes?"</p>
+
+<p>"Well, that's a lie."</p>
+
+<p>"Who is this speaking?"</p>
+
+<p>"Chief counsel for Mexican Mines Company&#8212;name's Adkins. We bought that mine ourselves, Mr. Redding. And we not only have our papers, but we've a canceled check for the first payment. That's what I wanted to tell you. It's not only that Gil's story is a lie; but all this newspaper talk about the murderer being after papers of some kind is rot. He was after money. We closed our deal with Welles-Hewitt day before yesterday morning&#8212;the day he was killed. And we gave him a check for twenty-five thousand dollars. And he cashed it. The bank 'phoned over to the office to ask if it was all right. The man had
+
+<cb n="4" />
+
+twenty-five thousand dollars on him when he was murdered. That was what I wanted to tell you."</p>
+
+<p>Redding took a moment to recover from his surprise before answering:</p>
+
+<p>"And why didn't you tell me this yesterday?"</p>
+
+<p>"We thought you knew!" came back at once. "The newspaper accounts yesterday showed the police were holding back something, and we thought it was this. We thought Miss Yznaga knew about the money. Besides, we had agreed with Welles-Hewitt not to announce the sale for a couple of weeks. He was going to Mexico to settle up his affairs there, and he said it would be to his advantage not to have the sale of the mine known until afterwards. And it happened to fall in with our plans, too. The reason I'm telling you now is to nail Gil's lie."</p>
+
+<p>Redding questioned further, but elicited no facts of value except the name of the bank at which Welles-Hewitt had cashed the twenty-five thousand dollar check. It was the Pan-American Trust Company, a popular institution with Latin-Americans in New York.</p>
+
+<p>AS soon as he had the wire free for use, Redding called Police Headquarters for confirmation of the Trumpet story. It was true, he was told, that the papers of the murdered man had been carefully examined and none found concerning Gil. Satisfied on that point, he rang off.  He had a just complaint against Cooley for not informing him the night before of the new turn in the Welles-Hewitt case,
+
+
+
+<pb n="Page 10" xml:id="ew.issue.19170312.p010" />
+but he let that go. His election to his office had been on a platform calling for suppression of graft among the police, and he did not look for their hearty support in any direction. That was why he had seized so eagerly on Tim Scarborough's services.</p>
+
+<p>Scarborough was in Spitzen now, on Brown's trail. There, he had felt, lay their best chance of progress, and, remembering him, Redding fervently hoped he might not have the trip in vain. But in the meantime there was the story of the check to be investigated.</p>
+
+<p>THE doors of the Pan-American Trust Company were hardly well opened when the District Attorney passed through them, to be ushered to the private office of the cashier, who chanced to be the highest official visible. But he, it appeared, knew nothing about the check.</p>
+
+<p>His desk telephone put him speedily in touch with the paying tellers, and after several questions he ended his inquiry with the request:</p>
+
+<p>"Just come round here, Baker, will you?"</p>
+
+<p>Baker came at once. He was a young man of twenty-eight or -nine, with an agreeable manner. He had cashed the check for Mr. Welles-Hewitt, who was a customer of the bank, after calling up the Mexican Mines office, he replied to the cashier's questioning. Mr. Welles-Hewitt had said he was going to Mexico that night, and might find so large a check, or any cheek, hard to cash down there. The bills, which were of large denominations, the teller had made into a fairly small package, and this the Englishman had stowed away in an inner pocket. That was all Baker knew.</p>
+
+<p>"You should have told me this yesterday&#8212;when you heard of the murder," snapped the cashier.</p>
+
+<p>"I didn't think it important, sir," replied the teller deferentially. "The newspapers said no money was taken&#8212;only papers of some kind. Was the money stolen, sir?"</p>
+
+<p>The cashier frowned at the question; but Redding answered it:</p>
+
+<p>"We don't know yet."</p>
+
+<p>"That's all, Baker," said the cashier sharply.</p>
+
+<p>The young man turned at once and walked to the door. There, however, he faced about again, and, after a glance at the District Attorney, said hesitantly:</p>
+
+<p>"Perhaps I ought to tell you, sir, that&#8212;Mr. Valentin Gil deposited twenty thousand dollars in cash yesterday morning, just&#8212;"</p>
+
+<p>"What!"</p>
+
+<p>The interruption came like the snap of a trigger, and the scandalized cashier glared furiously at his subordinate. That unfortunate young man, in his anxiety to avoid further sins of omission, had committed a heinous offense. Was he a fool? Didn't he know that a customer's ffairs, if discussed at all, were to be discussed in the bosom of the bank family?  These inquiries, with appropriate expletives, clamored for utterance at the set lips of the cashier. All he permitted himself to say in the presence of the outsider was the sharp question:</p>
+
+<p>"How do you know this?"</p>
+
+<p>Poor Baker swallowed before he answered. Apparently he now realized his mistake.</p>
+
+<p>"I was at the receiving window, sir. It was just after we opened, and Wallace hadn't come up from the vaults."</p>
+
+<p>Here Redding spoke. The teller's indiscretion was grist for his mill, and he meant to use it.</p>
+
+<p>"Is that an unusual deposit for Gil?" he inquired.</p>
+
+<p>"Not at all."</p>
+
+<p>It was the cashier who replied; but, not having put the question to him, Redding continued to look at Baker.</p>
+
+<p>The latter's position was obviously uncomfortable. He had either to contradict an official of the bank or to allow his own imprudent disclosure about Gil to go unjustified. When he answered he achieved, Redding thought, a rather clever compromise.</p>
+
+<p>"No, it isn't unusual, sir&#8212;except for
+
+<cb n="2" />
+
+one thing," he said, with a respectful inclusion of the cashier in his glance. "Mr. Gil often handles quite large sums, but&#8212; but not cash."</p>
+
+<p>"I see. And this twenty thousand was all cash?"</p>
+
+<p>"Yes, sir."</p>
+
+<p>"How about the denominations?"</p>
+
+<p>"They were&#8212;large, sir," Baker replied with frank reluctance.</p>
+
+<p>There was a pause then. The cashier squirmed in his chair, but did not speak. And Redding, watching the teller's troubled face, hesitated to ask the question on his lips.</p>
+
+<p>At last he brought it out:</p>
+
+<p>"I don't suppose you could have&#8212;identified the money&#8212;in a general way?"</p>
+
+<p>"Oh, no, sir," Baker said quickly. Then, after a moment: "It was yesterday morning, you see, and I didn't know then that &#8212;I mean, it wasn't till this morning, when I saw the <hi rend="italic">Trumpet</hi>&#8212;"</p>
+
+<p>Again he stopped as if he shrank, as Redding had, from putting into words the thought in both their minds.</p>
+
+<p>Through his big shell-rimmed lenses the District Attorney once more studied the face of the younger man. He had a sudden notion that, reluctant as the latter had been to disclose the facts about Gil, he had made the revelation purposely and not through a stupid inadvertence, as had at first appeared. In the pupils of the pale-gray eyes there was a look of tension; and on the high forehead, from which the brown hair turned backward in a pompadour, the veins stood out.</p>
+
+<p>The man had done a difficult and
+
+<note type="editors">
+<floatingText>
+<body>
+<head>You Will Forgive Us, Won't You?</head>
+<p>WE'D like to blame the mails or something for the fact that some of you have been receiving the magazine late; but the truth is, we can not blame anything but our own prosperity. When a magazine's circulation has shot up to the half million mark and beyond as quickly as this one's has, it's almost impossible to get mailing machinery or extra help fast enough to handle it.</p>
+
+<p>But we have the machinery now, and the force. In a few weeks we shall be entirely even with the world again. So, if you can possibly restrain that impulse to write us until after April first, do so.</p>
+
+<p>I like nothing better than to get your letters: but when you all write at once there's an awful lot of you.</p><closer><signed>B. B.</signed></closer>
+</body>
+</floatingText>
+</note>
+
+ungrateful task from an impelling sense of duty. He was just the type for that sort of sacrifice. No doubt the whole bank was agog about Gil. And if one could get this chap alone&#8212;or some of the other clerks, perhaps&#8212;one might get hold of valuable information. But to press the inquiry now would probably accomplish nothing.</p>
+
+<p>"Thank you," said Redding finally, with a slight nod of dismissal; and Baker, without waiting for the cashier's word, turned and hurried from the room.</p>
+
+<p>RETURNING to his own office, the District Attorney sent for Gil. The Mexican came promptly, having evidently expected the summons. He took the seat to which he was invited silently, his narrow black eyes fixed on Redding.</p>
+
+<p>"Mr. Gil," began the latter, "to, come at once to the point, how do you explain the fact that no papers can be found showing a transfer of the Rosalba mine to you?"</p>
+
+<p>"Explain it?" There was a belligerent note in the echo. "I don't explain it! I know the agreements had been signed and were on Welles-Hewitt's desk when I was there. I saw them&#8212;had them in my hand. That's all I know. When I returned to the house it was full of policemen&#8212;and there were two men there alone before they came&#8212;the men who found the body. Isn't that so?"</p>
+
+<p>"Are you implying that the papers were <hi rend="italic">stolen</hi>?"</p>
+
+<p>"Stolen! No; why should any one steal them? But with that crowd in the house it isn't surprising, is it, that something should go astray? The papers were there! Have the police made a thorough search?"</p>
+
+<p>"They claim to, both through everything found in the library and on the
+
+<cb n="3" />
+
+body, and also through the dead man's hand baggage in his bedroom."</p>
+
+<p>There was a slight pause; then Gil shrugged his heavy shoulders.</p>
+
+<p>"I've told all I know," he said.</p>
+
+<p>"Not quite, I think," returned Redding quietly. "You told the police that you and Welles-Hewitt had a dispute about something that prevented the sale of the mine from going through then and there. What was it?"</p>
+
+<p>"It was about the&#8212;the terms of payment."</p>
+
+<p>"I see. Well?"</p>
+
+<p>"That's all," said Gil.</p>
+
+<p>"You don't care to be more explicit?"</p>
+
+<p>"No."</p>
+
+<p>"And do you care to tell now where you went when you left your taxi at the elevated station?"</p>
+
+<p>"No."</p>
+
+<p>Redding waited a moment before remarking in the same even, inquiring tone:</p>
+
+<p>"There's one more question I want to ask you, Mr. Gil. Where did you get the twenty thousand dollars in cash that you deposited yesterday morning with the Pan-American Trust Company?"</p>
+
+<p>FOR a startled instant the black eyes of the Mexican widened. Then he recovered himself, laughing shortly.</p>
+
+<p>"Oh&#8212;you know that, do you?" he said. "Then I'll have to tell, I guess. That was what the dispute was about. I had a certified check that I had gone to Washington to get. A client of mine there was financing the deal for me&#8212;I can prove that!"
+He paused to give this assertion due weight.</p>
+
+<p>"But when I offered Welles-Hewitt the check, he refused it&#8212;said he had to have cash&#8212;was going to Mexico at midnight and unless I could get the money by that time the deal was off."</p>
+
+<p>Again Gil stopped, frowning.</p>
+
+<p>"I was indignant&#8212;naturally."</p>
+
+<p>"You quarreled?"</p>
+
+<p>"Well&#8212;we had words. But when I saw that he meant what he said, I went off to get the money. The deal was a good one for me and I was determined to put it through. My first idea was to go to a rich client who, I thought, might manage somehow to get me the cash. Then I realized the hopelessness of that at such an hour, and started back to try to reason with Welles-Hewitt again.</p>
+
+<p>"Then&#8212;then I thought of a business man downtown&#8212;he was once a client of mine&#8212;who lives over his business and&#8212;keeps considerable cash on hand in a safe he's got. So I went to him. There was a chance&#8212;my only chance&#8212;of getting the money there. And I got it. "But, as you know, Welles-Hewitt was dead when I returned to his house. So this morning I took the money to the bank&#8212;naturally."</p>
+
+<p>"And this man that you got it from&#8212;what is his name and business?"</p>
+
+<p>"I can't tell you that, Mr. Redding," said Gil. "It isn't generally known that he keeps large sums of money at his place, and it would be dangerous for him to have it known. I've got to protect him."</p>
+
+<p>"I see," replied Redding, as if he accepted the excuse as adequate. "And may I ask why you left your cab and took the elevated?"</p>
+
+<p>"Because it's about as quick as a taxi, and cheaper."</p>
+
+<p>"I see. And what you have now told
+
+<cb n="4" />
+
+me is all you have to say in explanation of your presence in the Welles-Hewitt house a few minutes before the discovery of his dead body?"</p>
+
+<p>"Yes."</p>
+
+<p>"In that case," the District Attorney said quietly, his gaze intent on the other's face, "I take it you haven't heard that on the morning of the day of his murder Welles-Hewitt sold the Rosalba mine to the Mexican Mines Company, and received from them a check for a first payment of twenty-five thousand dollars."</p>
+
+<p>Before he had got to the end of his speech, Redding knew he had accomplished his purpose to give his hearer a surprise. For an instant the latter's jaw sagged helplessly. Then it snapped up, and the swarthy face became a murkish red from which the temple veins stood out like purple cords. But it was not fear or confusion that spoke from the Indian eyes: it was fury. He sat rigid, staring at Redding until the latter added, still in the same quietly significant way:</p>
+
+<p>"And he cashed the check."</p>
+
+<p>This shot seemed to miss fire. Gil appeared not to hear it, or not to catch its drift; for in replying he ignored it.</p>
+
+<p>"No, I hadn't heard anything about this sale you speak of," he began slowly and constrainedly. "But what I have told you is true&#8212;every word. I was buying the Rosalba mine for Lars Johansen&#8212;he'll tell you so."</p>
+
+<p>"Indeed?" said Redding, as if the announcement were news to him. "Then his name was on the papers you spoke of?"</p>
+
+<p>"No; I was buying it to resell to him."</p>
+
+<p>Gil stopped an instant; then went on, with a more dogged set to his lean jaw:</p>
+
+<p>"Welles-Hewitt didn't know anything about my deal with Johansen. He was willing to sell cheap and Johansen to pay high. It was all right for me to make the difference, wasn't it?"</p>
+
+<p>"Gil, do you expect me to <hi rend="italic">believe</hi> you?" said Redding sharply, suddenly discarding his deliberateness of manner. "Do you expect me to believe that Welles-Hewitt, after selling his mine and taking money for it, was going to sell it again?"</p>
+
+<p>The face of the Mexican was set and hard. The wave of angry blood had ebbed, leaving it gray under its pale copper surface.</p>
+
+<p>"That's exactly what he was going to do," he said harshly. "If you had known him you'd believe it. That was why he wanted cash. Nothing but his death saved my money. But I don't know who killed him or why. Every word I've told you is the truth."</p>
+
+<p>"All right," snapped Redding. "Then tell the truth now. Where did you get the money?"</p>
+
+<p>"I can't give you the man's name," Gil answered doggedly.</p>
+
+<p>"He's a business man, you said. Then the money was in small bills, I suppose?"</p>
+
+<p>Gil hesitated, staring at his questioner.</p>
+
+<p>"Yes, mostly small," he replied finally. "Some hundreds, but mostly twenties."</p>
+
+<p>Instantly Redding's arm shot out and he pressed a button on his desk. At the signal the door opened and two policemen appeared. The District Attorney nodded to them, then looked at Gil.</p>
+
+<p>"You're under arrest," he said.</p>
+
+<p>THE announcement of Gil's arrest appeared in the early editions of the afternoon papers, with details of the events leading up to it. These Redding had supplied, partly to justify a step he had been loath to take, and partly because he considered publicity expedient. One fact alone he withheld&#8212;Baker's name. To publish it, he felt, would be hardly fair. He was indebted to the teller for a service&#8212;rendered obviously against the latter's personal inclination. To direct the eyes of the town upon him would be a thankless return for the performance of a hard duty.</p>
+
+<p>Of the thousands of people in New York who saw that first report of the arrest, probably none read it with keener interest than a certain young man who bought his copy of a paper containing it from a newsboy in the bar of a prominent downtown hotel, about two o'clock.</p>
+
+    <p rend="jumpline"><ref target="luehrmann.19170312.jump">Continued on page 19</ref></p>
+
+</body>
+</text>
+
+<pb n="Page 11" xml:id="ew.issue.19170312.p011" />
+
+<text type="photograph" xml:id="home.19170312">
+<body>
+<head type="main">WOMAN'S PLACE IS IN THE HOME</head>
+
+<figure n="photograph">
+<head></head>
+<p>"TUT!" says Coach Cozette McManigal Brannon when some one of her charges belonging to the second team of the Jonesboro (Arkansas) Agricultural College allows a forward pass to go astray. One "tut" from Coach Brannon is more effective than all the tongue-lashings of rival coaches put together. The second team tie no baby ribbon to their tactics; under their spirited chief's directions, they put up as red-blooded a game as the rules will permit, and they have scored freely this season against the 'varsity&#8212;which is coached, by the way, by Mr. Brannon.</p>
+<ab type="credit">Photograph from Hinton Gilmore.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHEN Robert H. Smith, master plumber, hung up his overalls behind the door and departed to the Mexican border at the head of Company D, First Illinois Infantry, Mrs. Smith took them down and put them on. All during her husband's absence Mrs. Smith has run the business. She figures and estimates on plumbing jobs, and issues orders to several journeymen. Occasionally she jumps in and assists on rush work. Incidentally, she does her own housework and looks after her three children.</p>
+<ab type="credit">Photograph from W.E. Burquest.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from C.W. Perry.</ab>
+<p>ON an old unused racetrack near the hill-top farm in the town of Washington, Massachusetts, Miss Margaret Flynn may be found on good daysdriving "Ragtime," the brown gelding that won her $500 last fall when she drove the fastest mile accomplished there in the pacing class. "It was my first experience driving in a race in which there were eight horses," Miss Flynn says, "and Ragtime and I were the greenest pair on the track. But after the getaway I forgot all about the 22,000 people watching, and just had a good time  driving." For training blue-ribboners Miss Flynn prescribes "common sense, hard work, no dope, keep away from railroads, and don't let any one else lay a hand on your horse."</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head><ab type="credit">Photograph from John L. von Blon.</ab>
+<p>WHEN Mrs. Robert Cox wants a collar and cuff set or a new fur coat, she doesn't write out a check or even have the bill sent to her husband. She merely strolls across her ranch to the rippling trout stream, beloved of many mink and other fur-bearing animals, and helps herself. In other words, she sets her traps with such skill that she always catches what she wants. Mrs. Cox not only captures her muffs and neckpieces, but skins, cases, and cleans the pelts herself. The set she is wearing is made of six perfect mink skins.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from N. R. Perry.</ab>
+<p>"UNCERTAIN, coy, and hard to please," said the poet of woman, when he came upon his book on her library table with the
+leaves still uncut. Which is just the way Carranza's enemies feel about this army. "Woman's place" these days depends entirely upon where she happens to feel like being.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph From Hinton Gilmore.</ab>
+<p>CHICAGO public chauffeurs go blocks out of their way in hopes of hearing Miss Mary Hill say, "Oh, Mr. Taxicab Driver, this way if you please!" Up to the moment when her eyes fell upon a "starter" ad, Miss Hill was a gentle milliner. But then and there she dropped scissors and panne velvet and started for the new job, which she secured over the heads of fifty other applicants.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>SOMETIMES even our institutions of higher education register plain common garden sense. For instance, Yale University has just added its first woman to its faculty in the distinguished biologist, Dr. Rhoda Erdmann. For the last fourteen years
+Dr. Erdmann has specialized in the little trod and intricate byways of zoology, botany, mathematics, embryology, and physics. Talents differ. Some people pay the rent by writing pieces for <hi rend="italic">Farm and Fireside</hi> or the <hi rend="italic">Smart Set</hi>. When the muse overtakes Dr. Erdmann, she dashes off a critical abstract for the <hi rend="italic">Archiv f&#252;r Entwicklungsmechanik</hi>.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+<pb n="Page 12" xml:id="ew.issue.19170312.p012" />
+
+<text type="photograph" xml:id="salesmen.19170312">
+<body>
+<head type="main">SUPERSALESMEN</head>
+<byline>Photographs by <persName type="illustrator" key="#Thompson. Paul">Paul Thompson</persName></byline>
+
+<figure n="photograph">
+<head></head>
+<p>BEFORE the war Adolph E. Borie was the man responsible for most of those "Pass at Your Own Risk: Steam Roller at Work" signs. He was one of the largest sellers of road machinery in the world. Not content with that, he became president of the Driggs Seabury Ordnance Company, and it is said that when his little sales-slips are figured up at the end of the day the grand total is something like $40,000,000 of munitions sold to the Allies. Among other little novelties that Mr. Rorie introduced to the British is the Lewis machine-gun.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>MR. GEORGE E. R. ROWE, of the Travelers' Insurance Company, is known as New York's fastest working insurance solicitor. For three years in succession he has written more than $1,000,000 in life insurance policies each year. To hang up an average like that without social pull or a staff of assistants means being the human dynamo type, a sort of twin six salesman. He has no secret, no formula. He just jumps in, and then he'll rowe, rowe, rowe.</p>
+<figDesc></figDesc>
+</figure>
+
+
+<figure n="photograph">
+<head></head>
+<p>WITH each of these gentlemen working one side of the street, the man who gets away without buying something may as well make up his mind that there is something the matter with his credit. One of them is Charles M. Schwab, who not so long ago was driving stakes at $1.25 a day, and since the war broke out has sold millions of dollars' worth of stuff to the Allies. The other, James Farrell, president of the Steel Trust, slips over to China or Russia once in a while and sells a gross of assorted steel bridges, a few trainloads of steel rails, and a couple of million dollars' worth of other steel products, just to keep his hand in and his young men on their toes.</p>
+<ab type="credit">Paul Thompson.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>JUST before a World's Fair is to close, the officials, as a last act, pin a couple more medals on Dr. George F. Kunz of Tiffany &amp; Company. Dr. Kunz is the foremost authority on precious stones in America, and thinks no more of selling a $300,000 string of pearls than Mr. Woolworth does of wrapping up a package of tacks. The picture shows Dr. Kunz as a member of the Mayor's Fourth of July Committee, and to our unpractised eye it looks as if the Doctor's speech were pasted in the top of his hat.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHEN the war broke out, three young men met in Cleveland 
+and formed a company with $5000 capital. A year later
+they had done more than <unclear>000,000</unclear> of business and made
+$1,000,000. George A. Gasto <unclear>as,</unclear> and is, president. It was he 
+who went to London when <unclear>t</unclear> city was full of "war-brokers,"
+brushed aside official red tape and sold the British government
+hundreds of automobiles and motor-trucks. He cabled home,
+had them loaded on a boat and shipped with a full crew of
+mechanics, who put them together on the way over. While the
+British official was still was <unclear>g</unclear> the ink off his fingers from
+signing the order, his telephone rang. and Mr. Gaston informed
+him that the cars were standing outside his door.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>BEFORE starting a revolution in South America, it is well to
+consult Charles R. Flint to be sure that he has a couple of
+extra navies on the shelves to <unclear></unclear> you have at short notice. Mr.
+Flint once bought a fleet of battle-ships for Brazil; during the
+Chinese-Japanese War he <unclear>ht</unclear> the cruiser Esmeralda from
+Chile, refitted her, and sold to Japan; and he was the con-
+fidential agent for this government in the Spanish War,. His
+official title is head of the American Trading Company; and
+he'll trade you pretty nearly everything you want for whatever
+you may happen to have.</p>  
+<figDesc></figDesc>
+</figure>
+
+
+<pb n="Page 13" xml:id="ew.issue.19170312.p013" />
+
+<figure n="photograph">
+<head></head>
+<p>TO the names of famous sons of preachers, including Harriman, President Wilson, Governor Hughes, and ourself, must be added J. Leonard Replogle. J. Leonard started to work at eleven years of age. He had worked his way up almost to the top of the Cambria Steel Company when the war broke out. One day J. Leonard dropped in on W. E. Corey, head of the Midvale Steel Company, and when he left the office Mr. Corey had Cambria and J. Leonard had $72,000,000.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>WHEN a railroad or public service corporation wants to sell a few million dollars' worth of bonds, it employs a good printer with a nice shade of green ink, has the bonds printed, and then calls John Hanway on the telephone: and John Hanway&#8212;who has the record of selling millions of dollars' worth of bonds without ever causing an investor to lose a cent&#8212;does the rest. We are thinking of putting out a bond issue on ourselves, the proceeds to support us in luxury while we write the great American novel. Will you handle such an issue, John? Would you buy a bond on us, gentle reader?</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>THERE is just one mark of real success in New York. It is to have the papers announce, a couple of days after your death: "The art collection of the late John Jones will be sold at public auction." If you achieve that kind of fame, your collection is likely to pass through the hands of Thomas E. Kirby, the "man with the million-dollar voice." Mr. Kirby has sold more than $50,000,000 worth of paintings, rugs, sculpture, furniture. etc. He appraised the books, manuscripts, and prints of the Morgan collection, and disposed of the famous Yerkes collection for $2,207,866.10. His individual profits on this sale put his voice one scale higher than Caruso's as a money-maker.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#162; Paul Thompson</ab>
+<p>AFTER his first trip to South America as a salesman, Herman Sielken came back with so many contracts that he forced his people to take him into partnership. At that time things in Brazil were in bad shape. Coffee.was being sold to the world at a loss. Sielken went to the Brazilian government, and they appointed him coffee dictator. He used the government's credit to buy coffee crop after coffee crop, holding every single bean, waiting for the rise in price that he knew must come. When Wall Street refused to lend any more money, Herman turned to London and Paris, holding on, matching the Brazilian government's credit against the thirst of the world. Finally the thirst conquered, and the world paid Herman's price.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 14" xml:id="ew.issue.19170312.p014" />
+
+<text type="photograph" xml:id="heroes.19170312">
+<body>
+<head type="main">OUR BOYHOOD HEROES</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from Carl H. Butman.</ab>
+<p>AT the age of seven we took a solemn vow that if we should ever reach the age of manhood (fourteen), we would go forth and avenge General Custer. Custer was a born soldier. He distinguished himself in the Civil War, was a brigadier-general at twenty-three, and a major-general at twenty-five. Then he went West to fight the Indians: and in 1876 the treacherous red men ambushed Custer and his 477 men, and slew them all. We meant to avenge him. But alas for youthful idealism!</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>AND good old Buffalo Bill! We used to think he was a sort of god. Now we know that he was just a poor boy thrown on
+the frontier, and that he acted as a scout against the Indians, and then started his show, and salted away his money in good
+Western land. We couldn't help envying him. Think of it&#8212;he traveled with a circus all his life, and got paid for it besides.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>ON freight-cars, railway bridges, and station platforms all over the country you have seen his mark&#8212;"A No. 1." For thirty years he was never more than twenty-four hours in one place: he traveled over 500,000 miles, with a total expenditure for railway fare of $7.61. What little money he needed he made by carving funny faces on potatoes and selling them on street corners. But time brings an end to all things. A few years ago A No. 1 quit wandering, married, and settled down in Erie, Pennsylvania.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<p>HEAVEN used to be a place where Buffalo Bill, Pawnee Bill, and ourself, each mounted on a fiery-eyed buffalo, would spend a blest eternity in shooting Indians, who would promptly come to life to be shot all over again. And to think that Pawnee Bill is getting a little stout, as the picture proves. Pawnee Bill is the regularly elected white chief of the Pawnee Indians, who regard him as their adviser and often come to his $100,000 home in Oklahoma, in the midst of his spacious acres, over which roam the largest herd of buffalo now in existence.</p>
+<ab type="credit">Photograph by Robert H. Moulton.</ab>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">International Film Service, Inc.</ab>
+<p>WE were a little young to worship Cap Anson, captain of the greatest ball team the world has ever seen: but we think our father would still sneak an hour away from his work to have a look at him. Cap was in big-league baseball for twenty-two years, and maintained a batting average of .337 for the whole period&#8212;a record that has never been equaled. Cap discovered Billy Sunday. Billy went into religion and has made a fortune, while Cap stuck to baseball and politics and didn't: which proves that it pays to be good.</p>
+<figDesc></figDesc>
+</figure>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph Bertha H. Smith.</ab>
+<p>AND Deadwood Dick&#8212;lion-hearted Deadwood Dick, who sat on the driver's seat, his trusty rifle in hand, waiting for the first red-skin or bandit to show himself from behind the bushes. What of Deadwood Dick? Our hand trembles as we write it. Deadwood Dick is on the honor roll of three express companies: he has retired to a quiet spot in California, just like any common man, and raises flowers and vegetables. Deadwood Dick raising flowers and vegetables; A No. 1 married; Pawnee Bill growing stout&#8212;woe to us, that we should ever live to such a day.</p>
+<figDesc></figDesc>
+</figure>
+
+</body>
+</text>
+
+
+
+<pb n="Page 15" xml:id="ew.issue.19170312.p015" />
+
+<text type="nonfiction" xml:id="science.19170312">
+<body>
+<head type="main">WHAT SCIENCE IS DOING</head>
+<head type="sub">To Roll This Old World Along</head>
+
+<div1>
+<head type="sub">A MACHINE THAT JUDGES BEAUTY</head>
+<p>THE beauty secret of Wellesley has been discovered! The thoracimeter picks them. The thoracimeter is a machine which for the past two college years has picked and proved Wellesley's most beautiful daughters.</p>
+
+<p>It is the invention of Henry H. Austin, superintendent of the Wellesley College plant. It is an improvement on an old machine and an old system, made in accordance with suggestions from Miss Amy Morris Homans, director of the Department of Hygiene at Wellesley. Among other things, it has done away with the daubing of ink spots on each and every vertebra in every Wellesley girl's spinal column. This used to be done so that a strip of paper could be pressed down the spine to record the position of each vertebra.</p>
+
+<p>The machine consists of a platform with a broad standard at the back, forming a base for a wide strip of ruled paper which is drawn from a roll. Two record-
+
+<figure n="photograph">
+<head></head>
+<p>Wellesley students are charted on paper records by means of an ingenious mechanism. When the charts are compared the prize beauty is found scientifically.</p>
+<figDesc></figDesc>
+</figure>
+
+ing arms reach out over the platform from the two sides of this paper strip. As one branch of a recording arm is passed down the subject's backbone the other registers its exact life-size contour and length on the paper chart.</p>
+</div1>
+
+<div1>
+<head type="main">Doctoring Pineapple</head>
+
+<p>A DISCOVERY that will greatly increase the output of pineapples is announced by M. O. Johnson, chemist of the United States Experiment Station at Honolulu.</p>
+
+<p>It was noted that on certain soils impregnated with manganese the pines grew well for a season, but as harvest-time approached they dropped their leaves and turned yellow. The fruit was of a poor flavor, as no sugar formed and the juices were of a peculiar acidity.</p>
+
+<p>Fertilizers were tried without success. A chemical analysis revealed the fact that the fruit was dying for lack of iron. The soil in which it grew revealed from twenty to thirty per cent. of iron, but it was securely locked in by the manganese.</p>
+
+<p>The case was parallel to that of the Ancient Mariner, who saw "water, water everywhere, but not a drop to drink."</p>
+
+<p>The expedient of injecting a hypodermic needleful of iron sulphate into a yellow and discouraged-looking pineapple resulted in its promptly turning green and fresh.</p>
+
+<p>By spraying the sick pines with a copperas solution, enough iron was absorbed through their leaves to supply their needs.</p>
+</div1>
+
+<div1>
+<head type="sub">A WONDERFUL ENGINEERING FEAT</head>
+
+<p>A REMARKABLE engineering feat was accomplished within the space of four and a half hours, when the old Union Pacific bridge at Omaha, Nebraska, was replaced with a new steel structure weighing twice as much, with little or no actual disturbance to railroad traffic at the busiest crossing on the Missouri River.</p>
+
+<p>The actual moving of approximately 18,000,000 pounds of steel required only fifteen minutes, which is likely to stand as a record for a performance of this kind for some time to come.</p>
+
+<p>At 11:10 o'clock on the morning of December 23 the last train passed over the old bridge connecting Omaha and Council Bluffs. Fifteen minutes later it had been disconnected from the shore approaches and was being moved to its temporary location on false-work, immediately adjoining the bridge site.</p>
+
+<p>This operation was completed in four and one half minutes, although the snapping of a rope delayed operations thirty minutes until repairs could be made. This was the only accident of any kind in the entire operation, which indicates the painstaking care with which every detail of the big task had been planned out beforehand.</p>
+
+<p>Five donkey engines, which were stationed on top of the new bridge, and 200 workmen, provided the entire motive power.
+An hour later the tackle had been at-
+
+<figure n="photograph">
+<head></head>
+<p>The old bridge to the left was moved while the new bridge at the right was thrust into its place.</p>
+<figDesc></figDesc>
+</figure>
+
+tached to the four spans of the new bridge, which weighs 11,200,000 pounds, and ten and one half minutes later it was resting in its proper place on the old bridge piers.</p>
+
+<p>At 3:40 o'clock in the afternoon the bridge was ready for use, as if nothing had occurred to disturb the steady stream of railroad trains which passes over the river.</p>
+
+<p>The moving of the two bridges intact represents one of the biggest undertakings ever attempted in the United States, and it was done so quickly and quietly that there was little or no disturbance of the great volume of traffic crossing the Missouri.</p>
+
+<p>Seven great railroad systems make use of this bridge, sending more than 300 trains over it every twenty-four hours, which gives some idea of the rapidity with
+
+which the whole operation was carried out, in order not to make serious delays in train schedules.</p>
+
+<p>The volume of traffic had grown so large in recent years that the old bridge was not strong enough to bear the present-day loads hauled by the great engines. For this reason the construction of the new bridge, which is 1722 feet long, was begun last May and rushed to completion. It is capable of supporting the greatest loads that can be pulled by the mogul engines, and will have the good effect of relieving the congestion of traffic, which has grown to such proportions as to become
+a serious problem to the local railroad officials.</p>
+
+<p>Not a single shout nor the blast of a whistle disturbed the workmen in their entire "bridge-rolling" operation. Signalmen with red flags directed the entire moving operation.</p>
+</div1>
+
+<div1>
+<head type="sub">THE QUEER SIGNALS OF WAR</head>
+<p>THE report recently brought to this country that at the battle of Ishtib a Bulgarian cowherd signaled news to
+his military countrymen relative to the position of the Serbian battalions by moving five cows about in various ways on the top of a hill, recalls similar signaling feats in war.</p>
+
+<p>The Basutos, for example, says <hi rend="italic">Tit-Bits</hi> (London), practically anticipated "wireless telegraphy" in a crude fashion. That is, by striking heavily on a huge drum of goat-skin which is placed on a special spot, another Basuto at a distance can gather the purport of the message by placing his ear close to the ground to catch the vibrations; and then he, in turn, passes the message on. So quickly can this be done, owing to the peculiar configuration of Basutoland, that in the South African War the Basutos were said to know all about big battles long before people living in Cape Town.</p>
+
+<p>Of course, given suitable climatic conditions, the military heliograph can transmit messages over enormous tracts of country. The record for such message-sending is probably held by Captain Sadler, of the 6th Dragoon Guards, who by this means succeeded in South Africa in sending a message direct a distance of 130 miles.</p>
+</div1>
+
+<div1>
+<head type="sub">PAINLESS DENTISTRY IS NOT FOR TIGERS</head>
+
+<p>IT took eleven men just two hours and fifteen minutes to pull Lucy's tooth. Lucy did not want to have it pulled.
+That's the reason.</p>
+
+<p>Lucy is a tigress in the Cincinnati Zoological Gardens. She had been ailing with the toothache for a week or more, and made so much noise about it at nights that she kept all other animals in the same building awake. Superintendent Sol Stephan decided that Lucy's tooth must be extracted for the good of herself and the other animals losing much sleep. Two veterinary surgeons, eight helpers, and Sol Stephan finally succeeded.</p>
+
+<p>To render
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph from J. R. Schmidt.</ab>
+<p>The dentist is pulling the tooth, while eleven men hold the tigress.	She resents the attention.</p>
+<figDesc></figDesc>
+</figure>
+
+Lucy helpless, a wooden partition was constructed; numerous holes were bored, and through each hole at the corners a one-inch hemp line was fastened. The partition was then shoved back to the far end of a narrow cage, into which Lucy was forced. The partition was then drawn forward by the eleven men, so that Lucy was squeezed tight up against the front bars of the cage.
+She kicked, scratched, clawed, bit, and squirmed. Her tooth could not be extracted with this agitation, so the holes were bored into the partition. With one-inch iron bars the helpers rendered her helpless. </p>
+</div1>
+
+<div1>
+<head type="sub">FIRST AID TO ASTRONOMY</head>
+
+<p>DESPITE the remarkable performance in the present war of the motor-truck, it has remained for the most peaceful and dignified of exhibitions to bring out the qualities of this machine.</p>
+
+<p>Recently, when a new telescope&#8212;the largest in the world&#8212;was in course of construction upon the crest of Mount Wilson, it was necessary to carry the gigantic structural steel base up the mountain-side intact. The frame weighed nearly ten tons, and after a few hasty calculations the engineer in charge of the job decided that only a motor-truck could drag the mammoth load to its place.</p>
+
+<p>J. A. Stoner, manager of a motor-truck agency in Los Angeles, came to the rescue with a truck that he thought could do the
+
+<figure n="photograph">
+<head></head>
+<p>Once the truck nearly tumbled down a precipice. It was dragged back on the road, and the climb up the mountain continued.</p>
+<figDesc></figDesc>
+</figure>
+
+work. The truck he presented for the test had a maximum carrying capacity of one third of the frame's weight. The scientists looked at the truck, then at the framework, and shook their heads. But the 20,185 pounds of solidly riveted steel was loaded on the truck, and the climb began.</p>
+
+<p>When the truck was within a short distance of the upper toll gate, it nearly tumbled down the precipice. In attempting to avoid an overhanging rock, the rear wheel rolled too near the edge of the road, and slid over until the hub alone rested on the earths.</p>
+
+<p>The brakes were quickly set, a block and tackle was rigged up, and after several hours of strenuous work the truck was dragged back to safety.</p>
+
+<p>The Mount Wilson telescope will be equipped with a 100-inch mirror, making it the most powerful telescope in existence.</p>
+</div1>
+
+</body>
+</text>
+
+<pb n="Page 16" xml:id="ew.issue.19170312.p016" />
+
+<text type="nonfiction" xml:id="read.19170312">
+<body>
+<head type="main">"I HAVE NO TIME TO READ"</head>
+<head type="sub">All Right&#8212;We'll Do Your Reading for You. $300 Worth of New Books and Magazines Are Read Every Week for These Two Pages</head>
+
+<div1>
+<head type="sub">SERBIA'S GREAT GENIUS</head>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">&#169; Hoppe</ab>
+<p></p>
+<figDesc></figDesc>
+</figure>
+
+<p>HIS name is Ivan Me&#353;trovi&#263; (pronounced Me&#353;trovi&#263;h); he is thirty-three years old, a Serb, and one of
+the greatest sculptors of the century&#8212;some people say the greatest. His work has lately been on exhibition in London. Sixty tons of it&#8212;one hundred pieces in marble, wood, and plaster&#8212;are now on their way to this country. They will reach New York the latter part of March, and from there will go for exhibition across America.</p>
+
+<p>Me&#353;trovi&#263; was born in a wild and desolate part of Dalmatia, all rocky mountains and stony, treeless valleys. His father was a small peasant farmer. As a boy Me&#353;trovi&#263; tended sheep in the mountains, and whiled away the long days at wood-carving.</p>
+
+<p>All the Serbs carve wood a little; but this boy carved so much better than any one else that all the peasant women came to him to get him to carve their spinning-wheels, and all the men wanted him to decorate their walking-sticks.</p>
+
+<p>At twelve Me&#353;trovi&#263; could read and write a little, but most of his education consisted in knowing the Serbian ballads.</p>
+
+<p>These ballads are practically the whole of Serbian literature and history. They tell the lives of every hero and saint and martyr, all the great deeds and events in Serbia's history. Every Serb child knows them. They are handed down from father to son, carried from place to place by wandering minstrels.</p>
+
+<p>Me&#353;trovi&#263;, as his skill at wood-carving grew, began to make figures from his favorite legends: Milosh, who killed the Sultan before the great battle of Kosovo, where in 1389 the Turks conquered the Serbs; Marko, the wonderful hero, with his wonderful horse&#8212;who, they say, has never died, but is hiding in a cave in the mountains, whence he will come at the right moment and lead his people to victory.</p>
+
+<p>The district priest became interested in the boy's talent, and got him apprenticed to a marble-worker in one of the coast towns. Here he displayed such marked ability that the Town Council raised a small fund to send him to Vienna to study. At thirty-three Me&#353;trovi&#263; has exhibited in nearly all the great European capitals.</p>
+
+<p>His work, for the most part, consists of figures of heroic size, representing Serbian life and character&#8212;the bravery of the men, the patience and heroism of the women, the suffering and glory of Serbia's past.</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Reproduced by permission of the Kensington Museum, London.</ab>
+<p>Here is Ivan Me&#353;trovi&#263;'s statue of his mother, a Serbian peasant woman whose head he carved in wood many times before he knew there were such things as clay and marble.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</div1>
+
+<div1>
+<head type="sub">WILL THE PANAMA CANAL PAY?</head>
+
+<p>As a citizen of the United States you have about $4 of your hard earned cash invested in the Panama Canal. The question is, what chance do you stand of getting interest on your investment?</p>
+
+<p>The toll rate for vessels passing through the Canal was fixed at $1.20 a ton, because that is the rate charged by the Suez Canal, says Professor Emory R. Johnson in <hi rend="italic">The Panama Canal and Commerce</hi> (Appleton).</p>
+
+<p>The cost of operating the Canal is about as follows:</p>
+
+<table>
+<row><cell>Expense for operation, main-<lb/>
+tenance, etc.</cell><cell>$5,000,000</cell></row>
+	 
+<row><cell>Annuity payable to the Re-<lb/>
+public of Panama</cell><cell>250,000</cell></row>
+	 
+<row><cell>Interest at 3 per cent. on<lb/>
+$400,000,000</cell><cell>12,000,000</cell></row>
+	 
+<row><cell>Total </cell><cell>$17,250,000</cell></row>
+
+</table>
+
+<p>"A careful preliminary study of the traffic that would use the Panama Canal indicated that the net tonnage passing through would amount to about 10,500,000 tons annually during the first years of operation, and that there would be an annual traffic of 17,000,000 tons net by 1925.</p>
+
+<p>"An annual traffic of 10,500,000 tons net, the amount predicted for the early years of the Canal's operation, would yield a yearly revenue of $12,000,000, leaving a deficit of $5,250,000 annually. A traffic of 17,000,000 tons annually, predicted for 1925, would yield revenues of about $20,000,000&#8212;more than enough to pay expenses."</p>
+
+<p>How have the actual earnings squared with the predictions thus far? For the first thirteen months of the life of the Canal the income was a little less than six million dollars, instead of the estimated ten million; and then came the slides, and traffic and revenue ceased altogether.</p>
+
+<p>Undoubtedly, when the slides are all cleaned up and shipping has returned to normal, after the war, the Canal will some day pay. But you need not expect to find any little dividend check in your stocking from your $4 investment right away&#8212;not for ten years at least.</p>
+
+</div1>
+
+<div1>
+<head type="sub">HOW PASTEUR CURED HYDROPHOBIA</head>
+
+<p>WHEN the old Romans suffered from hydrophobia, their wise men prescribed as a cure a diet of cray-eyes or the liver of the dog that had bitten them.</p>
+
+<p>Pasteur, the great French scientist of the nineteenth century, thought he could find a real cure. How he bent his genius to it is described by Keim and Lumet in <hi rend="italic">Louis Pasteur</hi> (translated by F. T. Cooper for Frederick A. Stokes Company).</p>
+
+<p>Dogs and rabbits, which he inoculated with the cranial marrow of rabid dogs, developed hydrophobia after a greater or less period of time; but the process of watching the subjects was so long and complicated that he decided to inject the matter containing the germs directly into the dogs' skulls. Yet he shrank from the thought of perforating a dog's skull until, one day in his absence, Dr. Roux, who worked with him, did it himself.</p>
+
+<p>"When I reported to him that the intercranial inoculation offered no difficulties, he fell to pitying the dog:</p>
+
+<p>"'Poor beast! Its brain is no doubt ruptured; it must be paralyzed.'</p>
+
+<p>"Without reply, I descended to the basement to get the animal, and brought it back with me to the laboratory. When he saw the dog, full of spirits, he exhibited the keenest satisfaction and began to lavish terms of endearment upon it."</p>
+
+<p>After he proved that the principal seat of the malady was in the nervous center, Pasteur became ambitious to know whether he could make dogs and men immune to hydrophobia with vaccine made from the virus, as he had made cattle and sheep immune to anthrax.</p>
+
+<p>His experiments on dogs were successful, but he hesitated about applying the virulent vaccines to men. Once he wrote to the Emperor of Brazil. suggesting that condemned men be given a choice between execution and a preventive inoculation of hydrophobia. If the experiment succeeded the man's life was to be spared; but, for the protection of society, he should have life imprisonment. He concluded:</p>
+
+<p>"Every condemned man would accept. For the only thing a condemned man fears is death."</p>
+
+<p>Evidently he was not invited to experiment on Brazilian criminals, and he had almost decided to inoculate himself, when he had a chance to try his cure on a boy who had been bitten fourteen times. The boy stood the vaccine well, and never developed a trace of hydrophobia. Out of the 2682 persons treated in the first year, only 31 succumbed.</p>
+</div1>
+
+<div1>
+<head type="sub">BOOKLETS WORTH SENDING FOR</head>
+
+<p>DID you know that the United States government has one of the greatest book-shops in the world? And that
+these books and pamphlets are being published for your benefit? Each week we are going to publish a list of the most important new books issued, and we advise our readers to make liberal use of the vast resources placed at their disposal. Any of the documents listed may be secured by sending a money order to the Superintendent of Public Documents, Washington, D. C.</p>
+
+<div2>
+<bibl><title>Roses for the Home</title>. (Department of Agriculture, Farmers' Bulletin 750.) Price 5 cents.</bibl>
+
+<p>Tells how to raise roses for lawn and border, arbor and trellis.</p>
+</div2>
+
+<div2>
+<bibl><title>Common Birds of the Southeastern United States in Relation to Agriculture</title>. (Department of Agriculture, Farmers' Bulletin 755.) Price, 5 cents.</bibl>
+
+<p>Interesting and useful information about twenty-three species of birds common in the Southeast.</p>
+</div2>
+
+<div2>
+<bibl><title>How to Attract Birds in the Northwestern United States</title>. (Department of Agriculture, Farmers' Bulletin 760.) Price, 5 cents.</bibl>
+
+<p>Explains how to increase the number of wild birds about your home, and thereby check the ravages of insects. Similar publications have been issued for other sections of the country.</p>
+</div2>
+
+<div2>
+<bibl><title>Directions for Restoring the Apparently Drowned</title>. (United States Coast Guard publication.) Price, 5 Cents.</bibl>
+
+<p>Includes short rules for rescuing drowning people from the water and directions for treating frost-bite, as practised by the Coast Guard (formerly the Life Saving Service).</p>
+</div2>
+
+<div2>
+<bibl><title>Game Laws for 1916</title>. (Department of Agriculture, Farmers' Bulletin 774.) Price, 5 cents.</bibl>
+
+<p>A digest of the latest legislation on this subject.</p>
+</div2>
+
+<div2>
+<bibl><title>Study of the Electrolytic Method of Silver Cleaning</title>. (Department of Agriculture, Bulletin 449.) Price, 5 cents.</bibl>
+
+<p>Tells all about this new and popular method of cleaning silverware in the home.</p>
+</div2>
+
+<div2>
+<bibl><title>Electric Units and Standards</title>. (Bureau of Standards, Circular 60.) Price, 15 cents.</bibl>
+
+<p>The electrician will find herein a comprehensive history of the various systems of electrical measurement, and extracts from the laws of various countries defining the electrical units.</p>
+</div2>
+</div1>
+
+<div1>
+<byline>Drawn by <persName type="illustrator" key="#Fisher, G.P.G.">G. P. G. Fisher</persName>.</byline>
+<head type="sub">ONLY HUMAN</head>
+<byline>From <hi rend="italic">London Opinion</hi>.</byline>
+<figure n="cartoon">
+<head></head>
+<p>Officer: You are charged with being drunk and disorderly, using abusive language too, and striking an officer, refusing to obey an order, and breaking six panes of glass in the guard-room. Have you anything to say?</p>
+<p>Defaulter: Well, sir, it was my birthday, and all of us are liable to be only human at sich times, sir.</p>
+<figDesc></figDesc>
+</figure>
+</div1>
+
+
+<pb n="Page 17" xml:id="ew.issue.19170312.p017" />
+    <div1>
+<head type="sub">DON'T MAKE LIFE TOO EASY FOR YOUR BOY</head>
+
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photographs by Paul Thompson.</ab>
+<p>Be sorry for the rich child who doesn't even lift a foot to have her shoes put on. But don't worry about Cinderella with her ash-pail. It is often the poor child who discovers hidden powers and becomes self-reliant.</p>
+<figDesc>Two photographs</figDesc>
+</figure>
+
+<p>YOU had a hard youth and an easy manhood. You want your boy to have an easy youth, but you don't realize that it will give him a hard manhood. You yourself never had money enough to take a girl to the county fair, so you determine that your boy shall never want for money. And when he spends all your money and his time on the girls, you wonder bitterly at his ingratitude, and think how strange that your wood-chopper's son, whose father never did anything for him, has turned out so much better.</p>
+
+<p>Not at all strange, says Professor Edwin G. Conklin in <hi rend="italic">Heredity and Environment</hi> (Princeton University Press):</p>
+
+<p>"What is needed in education more than anything else is some means or system which will train the powers of self-discovery and self-control. Easy lives and so-called good environment will not arouse the dormant powers. It usually takes the stress and strain of hard necessity to make us acquainted with our hidden selves, to rouse the sleeping giant within us. How often it is said that the worthless sons of worthy parents are mysteries. With the best of heredity and environment they amount to nothing; whereas the sons of poor and ignorant farmers, blacksmiths, tanners, and backwoodsmen, with few opportunities and with many hardships and disadvantages, become world figures. Probably the inheritance in these last-named cases was no better than in the former, but the environment was better.</p>
+
+<p>"'Good environment' usually means easy, pleasant, refined surroundings&#8212;' all the opportunities that money can buy,' but little responsibility and none of that self-discipline which reveals the hidden powers and which alone should be counted good environment."</p>
+</div1>
+
+<div1>
+<head type="sub">HOW WRITERS GET IDEAS</head>
+<p>NEARLY all novelists get their ideas under different circumstances. "H. G. Wells," says <hi rend="italic">Tit-Bits</hi>, "is one of those fortunate men who brim with ideas. His collection of plots is so great that no pen could clothe them with stories in a life-time. He gets his ideas at night, and then brings them down to breakfast in the morning, where he dictates them to his secretary.</p>
+<p>F. Marion Crawford got his ideas on foot. To think out a novel he would often walk forty miles. The imagination of Stanley Weyman gets warm and lubricated to the sound of running water. Therefore he does his writing in a house-boat; while Robert Hichens' thoughts do not begin to flow until he has his pen in his hand."</p>
+</div1>
+
+<div1>
+<head type="sub">THE WAY TO WRITE A SUCCESSFUL PLAY</head>
+<p>SINCE every philosophical young man in the country is secretly writing the Great American Drama, he might as
+well know Charles Frohman's formula for a successful play.</p>
+
+<p>"You can't find any better theme for play-building," he is quoted in <hi rend="italic">Play Production in America</hi> (Henry Holt &amp; Co.), by Arthur Edwin Krows, "than the old nursery tales. Monsieur Beaucaire, Cyrano de Bergerac, and all such plays, in which youth is triumphant, are only amplifications of the tale of Prince Charming. The popularity of 'Peg o' My Heart' and similar successes can be accounted for because the public, like so many children, loves nothing so much as to hear the story of Cinderella. Plays like 'Within the Law' almost never fail, because they contain the formula of the woman triumphant. Americans love to see women triumph over men."</p>
+
+<p>Stage costuming has undergone a great change since the days when a red dress was the sign of a dangerous woman, and black signified any kind of distress, from widowhood to poverty. Although the stage does not intend to set new modes, "at an early performance fully two thirds of the audience on the orchestra floor are dressmakers in search of ideas." Caroline Bayley, leading woman in "A Pair of Silk Stockings," wrote to her husband: "It strikes you pink to see you always walking ahead of yourself on the avenue!"</p>
+
+<p>It has become the duty of the artist to design the costumes of his production as well as the scenery.</p>
+
+<p>Robert Jones, a young American who conceived the setting and costumes of "The Man Who Married a Dumb Wife," was his own dressmaker. With his mouth full of pins and some one to stand by with the scissors, he hung lengths of the material on the actual person who was to wear it. Here is his working plan:</p>
+
+<p>"Wherever I needed a pin, I put a pin. I used hundreds of pins in each dress. Wherever there was a place to be covered up, I just covered it up.</p>
+
+<p>"I just leave a large fold somewhere on each costume. Then I cut away, and out the person slips, and all I have to do to complete the costume is to put a stitch in place of each pin."</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Photograph by Paul Thompson.</ab>
+<p>The abusive stage director is almost extinct. In his place have come gentlemen and scholars who know all about literature and art and the psychology of audiences. B. Iden Payne, in staging "Justice," did much to make it a great play.</p>
+<figDesc></figDesc>
+</figure>
+
+
+</div1>
+
+<div1>
+<head type="sub">WILL A WOMAN EVER BE PRESIDENT ?</head>
+<p>WILL there ever be a woman President?" Robert T. Morris, M.D., in <hi rend="italic">A Surgeon's Philosophy</hi> (Doubleday, Page &amp; Company), doesn't know, but he has a few thoughts on the subject. "If for any reason at some future time the country finds any one woman particularly fitted to be President, there is no reason why she should not rule, as queens have ruled. . . . The wife of William Penn assumed the management of colonial affairs after his death, executing the task with tact and business capacity. Watson says, 'She became in fact our governor, ruling us by her deputies or lieutenant-governors during all the term of her children's minority.' If a woman were to govern the world's affairs in place of man, it would no doubt be done well, only in a different way from man's way. Nature would never allow public affairs to be mismanaged for a long time, anyway.</p>
+
+<p>"The suffragette who said to her friend, 'Trust in God and She will help you,' was not wrong. The greatest honors are given to woman, after all, in nature, because woman is recognized as the one to extend the race. According to the former
+custom of the Sioux Indians, a young girl was allowed to run, climb trees, and engage in all activities engaged in by boys until she became twelve years of age. She was then separated from the boys and allowed to develop her feminine nature. Her voice was always to be low like the murmur of the brook beneath the trees. She learned that motherhood was the noblest accomplishment, and while she did not vote, she was practically the ruler in the tribe. All men honored her. They acceded to her wishes, and she held a sway quite as influential as that of any man in the tribe, because of the fundamental plan of nature to give all honor to the one most immediately in the position to carry out nature's plan for extension of tribal power.</p>
+
+<p>"There are great changes to be made in favor of women. There are great advantages to come from women having power and voice in affairs of the town, State, and nation; but it is the ones who prove themselves to be the substantial women, the women of homes, who are to constitute the feminine public behind such affairs when advanced politics of the movement has become established."</p>
+</div1>
+
+<div1>
+<head type="sub">S. S. McCLURE ON DOCTORS</head>
+
+<p>AN undertaker was once asked by a stranger what profession he followed. He answered, "I follow the medical profession."</p>
+
+<p>That the doctor does pave the way for the undertaker seems to be somewhat the opinion of S. S. McClure. When the editor of the <hi rend="italic">Medical Review of Reviews</hi> asked sixty-six famous men and women, "What's the matter with the doctor?" for a symposium on the medical profession, he received many tributes. But S. S. McClure replied:</p>
+
+<p>"To my mind, there are six great doctors which, if properly used, will keep a man well. They are: exercise, rest, food, sleep, sun, and work.</p>
+
+<p>"Now, it is my impression that the medical profession is more and more coming to realize the principle involved in this statement I just made. I think it is true, however, of the medical profession, as it is of the legal profession and half of the other professions I know, including farming, that the majority of people are more or less incompetent the way God made them. Take the matter of surgeons and dentists&#8212;what a small percentage would one be willing to employ for serious operations."</p>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit">Triangle-Keystone.</ab>
+<p>This two-fisted girl is having a long consultation with the most competent physician in the world&#8212;the sun. Only five other doctors are any good, says S.S. McClure&#8212;rest, food, excercise, work and sleep.</p>
+<figDesc></figDesc>
+</figure>
+
+</div1>
+
+<div1>
+<head type="sub">FEED YOUR HUSBAND WELL AND HE WON'T DRINK</head>
+<p>FIFTEEN years ago the Finns were considered the most intemperate people in Europe, says Edith Sellers in the London <hi rend="italic">Fortnightly Review</hi>. A little band of unimportant men and women, fervently patriotic, were so troubled by the discredit brought upon their country that they organized a temperance crusade. Everywhere they preached that br&#228;nnvin means degeneracy, mental, moral, and physical, and that a degenerate race in this day is doomed. They not only appealed thus to the patriotism of their countrymen, but they taught in the schools that inebriety is a dangerous disease, to be guarded against as carefully as smallpox or plague.</p>
+
+<p>But the big fact that most temperance reformers refuse to see they recognized: that intemperance is usually a result of underfeeding. They made it their business to see that not only nourishing and appetizing food, but recreation as well, was put within reach of the poorest wage-earner.</p>
+
+<p>How did they do it? They made every Finnish woman, as far as was in their power, a good cook. In towns and large villages they organized cookery classes, and in the country they sent traveling teachers, who showed how to cook and what to cook to get the most value from the smallest amount of money. Before long local officers and Parliament joined the temperance movement by helping make every Finnish girl, before she left school, a skilful cook.</p>
+
+<p>"I once saw a dinner for six persons which some Finnish school-girls had prepared and for which they had done the marketing," says the writer. "It consisted of soup &#224; la julienne, fish with sauce piquante, and fried potatoes. Everything was daintily flavored, cooked to a nicety, and there was enough of everything for a good square meal. Yet the cost of its ingredients was only one penny per head."</p>
+
+<p>At the present time no one is allowed to buy alcohol at retail in Finland, excepting in certain expensive hotels, unless he buys food at the same time; and even then he may buy only one glass of br&#228;nnvin with each meal.</p>
+</div1>
+
+
+</body>
+</text>
+
+<pb n="Page 18" xml:id="ew.issue.19170312.p018" />
+<text type="nonfiction" xml:id="worts.19170312">
+<body>
+<head type="main">Men Whom Presidents Dare Not Fire</head>
+<byline>By <persName type="author" key="#Worts, George F.">GEORGE F WORTS</persName></byline>
+
+<p>CERTAIN powerful political usage lives and thrives in this country, the name of which is Presidential Privilege. When a man is elected President of the United States, he leaves behind him a well dotted trail of obligations. He owes countless men favors. They have helped him attain his goal, and he must reciprocate.</p>
+
+<p>As soon as he is comfortably disposed in the presidential chair, the lucky candidate "accepts" the resignation of scores of important encumbents, and all of his friends that he can accommodate are offered positions to which are attached great prestige if not attractive salaries.</p>
+
+<p>For instance, old Jim Hickson, out in Goshville, Indiana, may have indirectly persuaded many thousands of men to vote the "right way" because he owned a certain powerful little newspaper whose influence was felt strongly throughout the State. 
+Accordingly&#8212;and quite naturally&#8212;old Jim Hickson buys a cutaway coat, calls at Washington, and is given his passports to Rome as Ambassador to Italy, his complete equipment of Italian being Pietro, the name of Goshville's most prominent banana vender.</p>
+
+<p>That illustration is a trifle exaggerated, but it illustrates the point. The President is trailed by a veritable pack of Cerberuses to whom he must throw succulent sops.</p>
+
+<p>On the other hand, there are men whom the President dares not fire, no matter what their political leanings may be. Either they are highly specialized professional men, such as our leading ichthyologist, or men after the fashion of Alvey A. Adee.</p>
+
+<p>Not long ago, to a certain visitor in Washington was pointed out a venerable gentleman astride a speeding bicycle.</p>
+
+<p>"That man," said the visitor's Washington friend, "is the Second Assistant Secretary of State. His name is Alvey A. Adee."</p>
+
+<p>"How long has he been on the job?" inquired the visitor.</p>
+
+<p>"Oh, a thousand years, more or less."</p>
+
+<p>In terms of presidential privilege&#8212;the span of which is precisely four years or
+
+<cb n="2" />
+
+eight years, according to the number of times he is elected&#8212;the guide's answer was not greatly exaggerated. Alvey A. Adee has been in the diplomatic service of the United States Government for nearly fifty years. He has been Second Assistant Secretary of State for thirty years, and a President of the United States would have a hard time getting along without him.</p>
+
+<p>Mr. Adee, to use a phrase which polite diplomats never use, has the "inside dope." He knows every little twist and turn of the diplomatic game. He knows precisely how many yards of official red tape are necessary to decorate any international controversy.</p>
+
+<p>When the President rushes in and says, "Alvey, I want to tell the King of Siam to stop throwing cocoanuts at our consul's
+back window," Mr. Adee calmly reaches for pink slip No. 386J-493V-Siam (or whatever the correct number may be), and the
+President is relieved of just that much worry.</p>
+
+<p>The office of Second Assistant Secretary of State might be a delectable plum for one of any President's friends; but, somehow or other, the long arm of presidential privilege has not reached out for that $4500-a-year job for thirty years.
+Another plum for one of the successful nominee's office-seeking friends might be that which is held by Thorvald Solberg. But Register of Copyrights Solberg has defied all comers to that $4500-a-year job since before the Spanish-American War. The ways of copyrighting are many and complicated, and Mr. Solberg knows them all.</p>
+
+<p>A nice $6000-a-year job might be turned over to some Jim Hickson by a
+
+<cb n="3" />
+
+lucky presidential candidate if Dr. Rupert Blue had a less pretentious record to point to. Dr. Blue is Surgeon-General of the Public Health Service, and he fills that imposing title unto its tiniest crevice and corner.</p>
+
+<p>He is the man who twice stamped out the bubonic plague in San Francisco, once in 1903-4, and again in 1907-8. He also chased the malevolent yellow fever microbe out of New Orleans in 1905; and in 1907 he put the Exposition of Jamestown sanitarily on the map.</p>
+
+<p>A few paragraphs back, the dreadful word ichthyologist may have perplexed the reader. If you should call a man that name without smiling, he would probably thrash you, without giving you the benefit of the doubt. Yet Hugh M. Smith shoulders the title, at $6000 a year.</p>
+
+<p>Mr. Smith is chief of our Bureau of Fisheries. He was Deputy Commissioner for ten years, from 1903 to 1913, and then the President called him the biggest ichthyologist in the country. He knows more about fish than any other man in the United States. That is why his job is safe.</p>
+
+<p>Another Mr. Smith for whom the blue envelop has no terrors is George Otis, Director of the Geological Survey. Before 1907, George Otis Smith was Assistant Director of Geology for eleven years. Then he became chief of the department. Another $6000- a-year job lost to the sinecure-hunters!</p>
+
+<p>Perhaps some day this land will have an executive head who can pick out a man who knows more about the transplanting of foreign seeds and roots in the United States soil than David Fairchild. Deserving job-hunters have steered clear of
+
+<cb n="4" />
+
+that $4000-a-year berth for good reasons. Ask any man if the lotus of the Nile will grow in the Hudson River, and he will probably say no. Ask David Fairchild, and he will tell you the reason. That is only one of eight or ten thousand reasons why Jim Hickson, of Goshville, Indiana, would shy if the directorship of the Seed and Plant Introduction Bureau was tendered him.</p>
+
+<p>Henry S. Graves, our National Forester, knows every species of tree in the United States, and quite a few outside, by their Latin names. That accomplishment alone ought to be worth his $5000 salary.</p>
+
+<p>Leland Ossian Howard gets $4500 a year for knowing a lot about insects. Having held the job for twenty-three years, the comings and goings of Presidents, whether they be volcanic, plump, or academic, cause Entomologist Howard to lose very little repose.</p>
+
+<p>When Dr. Wiley left the United States Bureau of Chemistry for the more lucrative field of journalism, presidential good sense, not presidential privilege, picked out Carl L. Alsberg as his logical successor. Behind Dr. Alsberg was a staggering record of chemical achievement. Coupled with the achievement was the superior knowledge of the nation's chemical needs. That is why Carl L. Alsberg landed that $5000-a-year job instead of Jim Hickson. Carl, for instance, knows what's the matter with synthetic gasolene; Jim wouldn't recognize the stuff if a beakerful were placed under his nose.</p>
+
+<p>If a prize should be offered for the correct pronunciation of one or two of Charles D. Walcott's treatises upon natural rock formations, the winners would be limited to a mere handful of very learned college professors. Charles D. Walcott is at the head of the Smithsonian Institution, and he has been at the head for nearly ten years. The prestige which that position carries might tempt Jim Hickson; but there again Jim's vocabulary is too limited.</p>
+
+<p>I have named only a few of the men whose jobs a President's friends might have, but never will, because they are beyond the pale of Presidential privilege.</p>
+</body>
+</text>
+
+<text type="nonfiction" xml:id="kelly.19170312">
+<body>
+<head type="main">Boomer's Boom&#8212;and Why</head>
+<byline>By <persName type="author" key="#Kelly, Fred C.">FRED C. KELLY</persName></byline>
+
+<p>LUCIUS M. BOOMER is the manager of two prosperous Broadway hotels in New York&#8212;one of them the largest hotel in the world&#8212;and also of a big downtown restaurant. He is regarded as one of the wizards of the hotel business. And how does he do it? Why is he able to manage the largest hotel in the world, and two other big enterprises, while some other intelligent man somewhere finds it is all he can do to manage a hotel of twenty-five rooms?</p>
+
+<p>If you were to ask Boomer himself, he might tell you that he owes his success partly to the fact that when a young man he was an atrociously poor stenographer.</p>
+
+<p>Boomer's first job was looking after the model of the proposed Nicaraguan canal at the Chicago World's Fair back in 1893, and his pay consisted of a pass into the fair grounds.</p>
+
+<p>Then he studied shorthand.</p>
+
+<p>A little later he obtained a job as secretary to the manager of one of the Flagler hotels in Florida. It was there that he realized how parsimonious had been his stenographic education. He tried to jot down what his boss dictated, in the little sign language used by shorthand operators and Chinese laundrymen: but it was no go. He knew how to take the "Dear Sir" all right, but from there on all became a horrible blur. He bore about the same relation to shorthand that a sign-painter does to spelling.</p>
+
+<p>Boomer was determined, however, to bluff it through or die. When he took dictation, he wrote down as much as he could in a mixture of shorthand and longhand, and had to memorize the rest. Then he rushed to the nearest typewriter to get the stuff down before he forgot.</p>
+
+<p>He found that he did not dare to trust to his memory unless he caught the spirit of what the boss was dictating as well as the mere phraseology. On that basis, he was obliged to acquire a good inside view of hotel management. And, naturally, he developed a wonderful memory. Because of this memory Boomer soon outgrew his shorthand job. He remembered everything he heard, and came to know all the details of hotel management. In a little while he became a sort of traveling supervisor of the Flagler hotels along the Florida coast.</p>
+
+<p>When he took charge of the largest hotel in the world, there was some question about the ability of any management to fulfil the wants of so many guests all under one roof. It was feared that the service might be too machine-like. Boomer's answer was that the more machine-like a system is, the more efficient it should be.</p>
+
+<p>For instance, you go to a small hotel and ask the telephone girl to connect you with Mr. McCray. The girl knows from memory that Mr. McCray has been occupying room 72. She does not know that he has just moved to 56. So when there is no answer to 72 she reports that he is out.</p>
+
+<p>In the bigger hotel nobody trusts to his memory. It is all a matter of system. Before making the connection, the telephone girl would definitely ascertain from the chart just where Mr. McCray is.</p>
+
+<p>After he had made the largest hotel a success, Boomer was asked to take charge also of another hotel, which happened to be at one of the most advantageous locations in New York, but which had never paid.</p>
+
+<p>"I've never been in the place," remarked Boomer, "but I'll venture to say that I can guess what must be the trouble. The location is so good that the management thinks people will simply have to stop there, no matter how they are treated. So they try to let a mere item of geography take the place of courtesy. It won't work."</p>
+
+<p>Boomer had hit the nail on the head; and in a few months he had the place on a paying basis.</p>
+
+<p>A while ago one of Boomer's assistants received an offer to manage a big hotel in another city. It was a good opportunity, but the man was a trifle dubious about his ability to fill the position.</p>
+
+<p>Here was the clever though simple way in which Boomer enabled that man to make good. He wrote a letter to the man's new employer, stating that if for any reason the man did not prove satisfactory, he would like to take him back at his old salary. The result of this was&#8212;as Boomer had expected&#8212;that the man in the new job was treated with great consideration. His employer gave him a free rein in the management.</p>
+
+<p>"No manager&#8212;of a hotel or anything else&#8212;can succeed," says Boomer, "unless he really is the manager."</p>
+
+<note>
+<floatingText>
+<body>
+<figure n="photograph">
+<head></head>
+<p></p>
+<figDesc></figDesc>
+</figure>
+<p>FROM  a stenographer's job this man has come up to
+the very top of the hotel business in a remarkably
+Short time. What are the three secrets of his success?
+Answer : Service ; good service ; and more service.
+</p>
+</body>
+</floatingText>
+</note>
+
+</body>
+</text>
+
+<pb n="Page 19" xml:id="ew.issue.19170312.p019" />
+<text type="fiction" xml:id="luehrmann.19170312.jump">
+<body>
+
+<head type="main">The Other Brown</head>
+
+<p rend="jumpline">Continued from page 10</p>
+
+<p>As his glance fell on the headlines of the account, this young man gave a perceptible start, after which his blue eyes settled on the printed column below and perused it with the closest attention. That done; he let the paper drop to the bar at which he stood, and, as he continued for a time to stare vacantly before him, one hand rose involuntarily and removed his hat from his head, while with the fingers of the other he began nervously combing his mop of wavy blond hair.</p>
+
+<p>Suddenly, an accidental jostle by a new arrival recalling him from his abstraction, he hastily replaced his hat and pulled it well down over his very sunburned forehead. After a quick look around he went out to the street, frowning heavily as he advanced with quick, nervous strides.</p>
+
+<p>His face still wore a frown when he arrived a little later at the Pan-American Trust Company. There, pausing, he gave an odd upward jerk of one shoulder, whereby he seemed to bring himself to order. His countenance was serene enough when he presently showed it at the window of the paying teller.</p>
+
+<p>"Will you change that, please?" he requested courteously, and with a marked English intonation, as he passed in a hundred-dollar bill.</p>
+
+<p>The teller, Baker, took the money with a mechanical glance of inquiry.</p>
+
+<p>"How do you want it?" he asked.</p>
+
+<p>"Oh, any way at all," replied the other indifferently; and as indifferently put a question a moment later.</p>
+
+<p>"This is the bank where that Mexican deposited the twenty thousand dollars, isn't it?" he inquired.</p>
+
+<p>At the words the muscles of Baker's high, pale forehead contracted a little, and he inclined his head slightly.</p>
+
+<p>The young man at the window leaned nearer.</p>
+
+<p>"Which of you men was it that told?" Then, as if Baker's expression were answer enough: "Oh&#8212;it was you!" And after another silence:</p>
+
+<p>"How could you do it&#8212;put a man in such a hole?"</p>
+
+<p>The teller flushed.</p>
+
+<p>"It was my duty, wasn't it?" he returned, with a touch of resentment.</p>
+
+<p>"Duty?" the stranger repeated in surprise&#8212;pronouncing the word "jooty," after the English fashion. "Why? You don't know that he is guilty, do you?"</p>
+
+<p>Baker's response was to shove his inquisitor's change brusquely out to him.</p>
+
+<p>The latter ignored it. He bent his head still nearer the grilled window-guard, and his eyes fixed the teller's sternly. An angry red darkened his face. He clenched the hand that lay on the marble ledge. Then, drawing back, he took up his money and deliberately counted it. And as he was putting it in his pocket he contented himself with saying in his former careless manner:</p>
+
+<p>"It's my opinion that you made a mistake."</p>
+
+<p>With which he walked away.</p>
+
+<p>Looking after him, the teller's face suddenly underwent an extraordinary change. His eyes, which were gazing rather sullenly at the rough fringe of blond hair beneath the stranger's hat, popped open in a wild stare. His face grew white and he clutched dizzily at his desk. So he stood for several seconds, until the voice of a new arrival at his window brought him back to his duties.</p>
+
+<p>IT was past six that evening when the day's work released him from the bank. Hurrying to the subway, he sank into a corner seat and hid his pale, worried face behind a newspaper, quite unconscious that the man with whom his alarmed thoughts were busy stood at that moment on the crowded platform of the car, not five feet away. Equally ignorant was he of a girl across the aisle, whose soft eyes peered cautiously now and then over the screen of her evening paper.</p>
+
+<p>At Baker's station she rose, picked up the small black traveling bag at her feet,
+
+<figure n="advertisement">
+<head>Why the Average American Dies at Forty-three</head>
+<p>
+<!-- 
+
+Why the Average American Dies
+at Forty-three	
+'He Feeds His Stomach with Tasty Junk" says E. E. Rittenhouse of Equitable Life
+By R. W. LOCKWOOD
+President of the Corrective Eating Society
+HE presidents of life insurance companies with perhaps twenty billion dollars insurance on the lives of Americans, recently met in convention at the Hotel Astor in New York, and in their discussion brought out some of the reasons why the average American dies at about forty-three years of age.
+According to the press reports, Mr. E. E. Rittenhouse, Commissioner of Public Service and Conservation of the Equitable Life Assurance Society, said: "The average American would not think of mixing bricks or scrap iron or gravel with the fuel for his furnace, yet he feeds his stomach with all sorts of tasty junk, much of which cannot be fully digested . . . he is seriously over-straining his heart, arteries, kidneys, nerves and digestion, as the rapidly increasing death rate shows."
+This statement from such an authoritative source—from a man who makes it his business to study both vital statistics and the causes behind them—sounds a warning which should be heeded by every man and woman.
+Indeed, there is no longer a doubt among intelligent people that many of the foods and combinations of foods which we are most accustomed to eat are the direct cause of much sickness.
+Yet how few of us heed the early warnings of illness, such as acid- stomach, fermentation, or constipation. I venture to say that nine out of ten persons suffer to a greater or less extent from one or more of these three symptoms, which are in many cases the forerunners of more serious sickness.
+Stomach medicines and laxatives are plentiful, but of what avail are they? The only thing that a stomach medicine can do is to temporarily neutralize the extra amount of acid in the stomach, because it is stronger than the acid. And this injures the stomach, usually bringing the acid back worse than it was before. A laxative is just as bad, if not a little worse; not only is its effect temporary, but all laxatives are habit- forming and are required in ever- increasing doses.
+If neglected, a simple case of acid- stomach may lead in a short time to fermentation, with gas, and constipation. The fermenting food forms poisons which are absorbed into the blood, causing auto-intoxication, nervousness, mental depression, and a host of other unpleasant symptoms.
+Is it any wonder that the officers of large insurance companies sound a warning against the evils of wrong
+eating? * * * * * *
+But just as wrong eating is the cause of 90 per cent. of common illnesses, so will correct eating create and maintain both bodily vigor and mental energy. And by right eating I do not mean freak foods—I mean just good every-day foods properly combined. In fact, to eat correctly, or follow a course of Corrective Eating it is not at all necessary to upset your table.
+Eugene Christian, the well-known food specialist, has proved the efficacy of Corrective Eating in thousands of cases. Entirely without the use of drugs or medicines, men and women suffering from almost every conceivable non-organic ailment have been returned to health and vigor by following his simple directions in regard to their eating.
+* * * * * *
+In a recent talk with Eugene Christian he told me of several interesting cases which had recently come under his care. One was a woman prominent in Woman Suffrage work in New York City. She had come to him with stomach and intestinal fermentation and gas, auto-intoxication, mental depression and anemia, vertigo, and threatened heart failure. She was very much overweight when she commenced, but reduced her weight thirty- seven pounds during the treatment. He showed me a letter she had written him afterward, in which she said:
+"I am sure you will be gratified to hear that I continue to improve—it seems sometimes that I must have been made over, and it is difficult to remember that less than eight months ago I was a feeble old woman depending upon daily doses of strychnia for what little strength I had. When I came under your treatment, I weighed one hundred and ninety-seven pounds, was hardly able to walk, and was subject to most seri-
+ous heart attacks upon the slightest exertion. And now I am so well, so strong, that my family and friends maintain that it is a miracle which has restored me to strength and vigor of life—certainly in my case the cure is most remarkable because of
+my sixty-seven years." 
+Another was a well-known minister who had been out of his pulpit for twenty-two months, unable to preach or conduct the Simplest service. He was about twenty-five pounds under-weight, anemic, nervous, had superacidity, and could not assimilate his food; and his heart action was very irregular. He had gradually declined for two years although treated by one of New York's
+Name	
+City	 Local Address	
+State	
+Merely clip out and mail the following form instead of writing a letter, as this is a copy of the official blank adopted by the society and will be honored at once.
+CORRECTIVE EATING SOCIETY, Inc., Dept. 793, 460 Fourth Ave., New York City You may mail me the "Lessons in Corrective Eating" for examination. Five days
+after I receive them, I, will either send you $3 (full payment) or remail them to you
+leading physicians. Three months after he placed himself under Eugene Christian's care, he preached the first sermon he had been able to preach in nearly two years. This was over three years ago.
+He has gained about twenty-five pounds in weight and since has not missed a day from his arduous clerical work. He has steadily gained in strength and vitality and is to-day healthy and athletic.
+* * * * * *
+But Eugene Christian's own case is perhaps the most interesting of all, for it shows how he discovered the beginnings of the methods which he has since pursued so successfully with others—methods of selecting and proportioning one's meals so as to overcome conditions brought - about by wrong eating.
+Twenty years ago he was at death's door; for several years previously he had suffered all the agonies of acute stomach and intestinal troubles, until his doctors—among them some of the most noted specialists in the country—gave him up to die. As a last resort, he commenced to study the food question himself. As a result of what he learned, he succeeded in literally eating his way back to health without drugs or medicines of any kind and in a remarkably short space of time.
+Eugene Christian is to-day nearly sixty years old—or shall I say young? For he has more vitality, more ginger, more physical endurance than most youngsters in their teens. During the past fifteen years he has not had even so much as a cold. 
+* * * * * *
+Since the remarkable success of Eugene Christian has become known, people have sought his advice in such rapidly increasing numbers that he has found it necessary to put his methods in printed form. He has written a series of 24 Little Lessons which tell you exactly what to eat for health, strength and efficiency.
+These lessons contain actual menus for breakfast, luncheon, and dinner, including corrective menus for almost every condition of health and sickness from infancy to old age, for all occupations, climates, and seasons.
+With these lessons at hand it is just as though you were in personal contact with this great food specialist, because every point is so thoroughly covered and so clearly  explained that you can scarcely think of a question which isn't answered. You can start eating the very things that will help to produce the increased physical and mental energy which you are seeking the day you receive the lessons. And you are quite likely to feel some results after your very first balanced meal.
+If you would like to examine these "24 Little Lessons in Corrective Eating," simply write the Corrective Eating Society, Inc., Dept. 793, 460 Fourth Avenue, New York City. It is not necessary to enclose any money with your request. Merely ask to have the lessons mailed for five days' trial with the understanding that you will either send the' small price asked, $3, or remail the books.
+-->
+
+</p>
+<figDesc>Advertisement for Corrective Eating Society</figDesc>
+</figure>
+
+<pb n="Page 20" xml:id="ew.issue.19170312.p020" />
+
+<figure n="advertisement">
+<head>Yankee Tools</head>
+<p></p>
+<figDesc>Advertisement for North Bros. Mfg. Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Diamonds on Credit</head>
+<p></p>
+<figDesc>Advertisement for Loftis Bros. &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Brings me $50 a week</head>
+<p></p>
+<figDesc>Advertisement for The Ten-Pinnet Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Edwards Steel Buildings</head>
+<p></p>
+<figDesc>Advertisement for The Edwards Manufacturing Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Study Law 30 Days Free</head>
+<p></p>
+<figDesc>Advertisement for Hamilton College of Law</figDesc>
+</figure>
+
+and fell in quickly behind hint as he left the train. The man on the platform followed her&#8212;at a distance.</p>
+
+<p>Eastward the teller turned, then down Third Avenue; and the girl, who was rather short in stature, found it hard to keep up with his brisk gait. But at last he stopped and entered a pawn-shop, whereupon she slackened her pace a little. The man behind her halted.</p>
+
+<p>At the pawnbroker's window the girl loitered, idly examining some jewelry displayed there. Beyond in the shop she could see the teller, and when she suddenly made out the nature of his business her shoulders came together in a startled jerk. 
+Involuntarily she drew away from the window and looked back at the other man. Her pretty dimpled face had grown pale.
+A minute later Baker swung by her unseeingly. Westward he went now, the girl following again.</p>
+
+<p>THE house to which she finally saw the teller admit himself stood in a neighborhood that had known better days. All the houses in the block, once handsome private dwellings, had been converted by steady encroachment into places of business&#8212;shops, dressmaking establishments, and boarding-houses.</p>
+
+<p>Carefully noting the house into which Baker had disappeared, the girl at once turned and retraced her steps. The man behind her turned also. Just around the corner, in the doorway of a closed-up store, she found him waiting.</p>
+
+<p>"You must have frightened him," she announced. "He bought a pistol!"</p>
+
+<p>"Is that so?" The man looked down into her troubled eyes, his own anxious.</p>
+
+<p>"It's a boarding-house. That makes it easier," she remarked thoughtfully.</p>
+
+<p>But he shook his head, and one shoulder lifted sharply.</p>
+
+<p>"I'm not going to let you do it," he said. "It's too dangerous."</p>
+
+<p>"Not for me," she answered quickly. "Besides, it's the only way. We've got to go through with it now."</p>
+
+<p>"Not you! I'll never forgive myself for letting you go into the other. I'll do this job alone."</p>
+
+<p>"You can't&#8212;you can't! You know that! He's seen you!" expostulated the girl.</p>
+
+<p>Then, noticing that her excited tones had attracted to them the curious gaze of a passer-by, she added in a low voice and with an apprehensive glance about:</p>
+
+<p>"We mustn't stand here like this. I'm going now."</p>
+
+<p>"Give me the papers, then," he said.</p>
+
+<p>"No, no! I'll keep them. It's better."</p>
+
+<p>"No. Give them to me. I mean that!"</p>
+
+<p>She yielded then to the note of finality in his demand. With her back to the street, she quickly unbuttoned the coat of her neat suit, and drew from her bodice some folded papers, which he transferred at once to his own person. Her coat rebuttoned, she turned again.</p>
+
+<p>"There's a house near this corner that has rooms&#8212;did you notice?" she asked.</p>
+
+<p>He nodded. Then, with a quick breath, he caught her hand.</p>
+
+<p>"If there were any other way I'd never let you do this&#8212;you know that, don't you?" he demanded earnestly.</p>
+
+<p>"Of course&#8212;of course!"</p>
+
+<p>A long moment he looked into her eyes; then: "God help us, dear," he said.</p>
+
+<p>"God help us, Fred," she answered simply, and left him.</p>
+
+<p>Baker's landlady proved to be an elderly, corpulent person who terminated her waddle from the dining-room, where dinner was in progress, at the first available parlor chair.</p>
+
+<p>"What kind of room do you want?" she asked, when the approach had been effected. Then, while her ears listened to the reply to her question, her practised eyes appraised the applicant's inconspicuous clothes, orderly hair, and untinted cheeks.
+Yes, there was a room&#8212;just what was required, she thought. For how long would it be wanted?</p>
+
+<p>The applicant was not sure. She had come to New York to take a course in stenography and typewriting at a <choice><orig>busi-
+
+<cb n="3" />
+
+ness</orig><reg>business</reg></choice> college, and hoped later to secure a position, and of course that was a little uncertain.; one never could tell&#8212;</p>
+
+<p>"Stenography?" murmured the landlady with perfunctory interest. "Well, they're all taking it up nowadays, seems like. It used to be the stage. Now it's business. How did you happen to come to me? Anybody send you?"</p>
+
+<p>Indeed, some one had sent the applicant. Such a nice girl&#8212;down at the Young Women's Christian Association. No, she didn't know whether the girl had ever stayed here herself&#8212;perhaps not; but she had known about it, and she had said such nice things&#8212;</p>
+
+<p>The woman inclined her gray head in dignified acceptance of the compliments. Then, turning slightly to aim her voice straight at its target, she called: "Sigrid!"</p>
+
+<p>In the dining-room beyond there was a momentary hush in the talk and clatter, and presently came the hurrying steps of a maid.</p>
+
+<p>"Sigrid, show this young lady the room on the top floor."</p>
+
+<p>The maid's curly brown head gave a quick bob, and she started for the stairs. But the applicant lingered.</p>
+
+<p>"If the room is satisfactory I wish to take it at once," she said. "So I may as well take my bag upstairs now."</p>
+
+<p>The landlady nodded. "Sigrid, carry the bag," she ordered.</p>
+
+<p>Bag in hand., the maid now scurried ahead, prodigal of the energy she had recently brought with her from the Finnish farm that had also grown her tight red cheeks. Arrived at the top-floor
+
+<cb n="4" />
+
+room, she lighted the gas, and turned to the newcomer expectantly.</p>
+
+<p>"You like?" she inquired.</p>
+
+<p>"Yes, it is very nice; I'll take it," was the answer.</p>
+
+<p>The speaker looked at the maid, then, with an inviting smile. There were several questions she wished to ask her&#8212;very casually.</p>
+
+<p>But Sigrid, aware that her energy was badly needed in the dining-room, was not disposed to tarry.</p>
+
+<p>"I go. Excuse, please?" she said, and departed, pausing a moment in her downward flight to call back hospitably: "Dinner ready!"</p>
+
+<p>LEFT alone, the girl in the room walked to the door and stood listening. No sounds came from the neighboring rooms, nor from anywhere nearer than the dining-room, as far as she could determine. She seemed to be alone up there&#8212;a thing not likely to occur again that night. Taking no chances, however, she made the round of the closed doors, listening at each in turn, then knocking. No one answered.</p>
+
+<p>Then, taking a pocket flash from her wrist-bag, she opened one of the doors and peered into the darkness of the closet into which it led her. Finding what she sought&#8212;the roof egress&#8212;she closed the door behind her, mounted the steps, and unbolted the scuttle. She lifted it an inch or two, to satisfy herself that it opened readily, then lowered it again, and, leaving it unlocked, returned to her room.</p>
+
+    <p rend="jumpline"><ref target="luehrmann.19170319">To be continued next week</ref></p>
+
+</body>
+</text>
+
+<text type="nonfiction" xml:id="college.19170312">
+<body>
+<head type="main">The President of a Western College</head>
+<p>THE President of a Western college has instructed that the editorials in this magazine be read aloud to the members of the English classes.</p>
+
+<p>Next week we teach the young idea how to shoot with an editorial entitled "Thoughts on Lying on My Back and Reading a Seed Catalog."</p>
+
+<p>We fear this editorial will not be read aloud in the college: it extols the virtue of loafing in a flower garden.</p>
+</body>
+</text>
+
+
+
+<text type="nonfiction" xml:id="bruce.19170312.jump">
+<body>
+<head type="main">Dreams We All Have</head>
+
+<p rend="jumpline">Continued from page 8</p>
+
+<div1>
+<p>Lack of ventilation in the sleeping-room is a common cause of the smothering dream.</p>
+
+<p>Here the connection between physical canditions and a particular type of dream is obvious. It is by no means so obvious in the case of the typical dream of appearing in public insufficiently or inappropriately clothed. In fact, psychologists hopelessly differ as to the physiological sensations that give rise to this kind of dream. The likelihood is that any one of numerous sensations may occasion it. The one thing relating to it that seems definitely established is the interesting circumstance that the dream of insufficient clothing usually represents a revival of memories of childhood, when clothing was a less important matter than it is in adult life. Thus this dream may be&#8212;and perhaps is always&#8212;a dream of protest against the cares, responsibilities, and requirements of the adult existence.</p>
+</div1>
+
+<div1>
+<head type="sub">One Dream Explained</head>
+<p>CONSCIOUSNESS of adult strains and stresses also finds expression in another, and altogether different, type of dream&#8212;the dream of futile effort.</p>
+
+<p>This dream may spring from almost any physical condition, internal or external, causing a slightly oppressive sensation. As usual, there is an attempt to interpret this sensation; and, also as usual, the form of the interpretation is governed by the ideas dominant in the sleeper's mind. If, before he fell asleep, he were perplexed by some problem, some course of action by himself or another person, the outcome of which was doubtful and might affect him adversely, then his interpretation of the sensations he feels is likely to take the form of a dream of trivial inconveniences, of futile effort, symbolizing the uncertainty in which he is. This kind of dream, in short, is a mild anxiety dream.</p>
+
+<p>In like manner, the typical nightmare is an extreme form of anxiety dream. Here we come to a point I wish specially to emphasize.</p>
+</div1>
+
+<div1>
+<head type="sub">The Terrible Nightmare</head>
+<p>THE popular notion that nightmare is caused by indigestion is undoubtedly correct&#8212;as far as it goes. But it does not go far enough. For the fact is that many people who have indigestion do not have nightmares. They may have unpleasant dreams of one kind or another, but not the genuine, horror-inspiring, paralysis-causing nightmare. Psychological investigation leaves no doubt that there is an excellent reason for this, and that the reason is to be found in the psychic make-up of nightmare's victims. They react more violently than dc; other people to the pressure sensations of indigestion simply because their mind is, consciously or unconsciously, burdened in its waking moments by abnormal fears.</p>
+
+<p>A few psychologists&#8212;the Freudians&#8212;insist that when a person repeatedly suffers from nightmare, this always means that he is suffering from a special form of anxiety due to some repressed sexual craving. Such an interpretation seems to me too narrow. It may be correct in many cases, but it is hardly applicable in all. My own observation, and the observations of other investigators, go to show that any emotional state of a profoundly distressing character may manifest itself in nightmare.</p>
+
+<p>From this it follows that the proper treatment of nightmare is two-fold. There should be medical treatment to cope with the indigestion, and psychological treatment to ascertain the mental cause of anxiety and dislodge it from the mind.</p>
+</div1>
+
+</body>
+</text>
+
+
+<pb n="Page 21" xml:id="ew.issue.19170312.p021" />
+
+<text type="fiction" xml:id="ford.19170312">
+<body>
+<head type="main">Vee With Variations</head>
+<byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
+
+
+<p>"BUT&#8212;but look here, Vee," says I, after I'd got my breath back, "you can't do a thing like that, you know."</p>
+
+<p>"But I have, Torchy," says she; "and, what is more, I mean to keep on doing it."</p>
+
+<p>She don't say it messy, understand&#8212;just states it quiet and pleasant.</p>
+
+<p>And there we are, hardly at the end of our first month, with the rocks loomin' ahead.</p>
+
+<p>Say, where did I collect all this bunk about gettin' married, anyway? I had an idea that after the honeymoon was
+over, you just settled down and lived happy, or otherwise, ever after. But, believe me, there's nothing to it. It ain't
+all over, not by a long shot. As a matter of fact, you've just begun to live, and you got to learn how.</p>
+
+<p>Here I am, discoverin' a new Vee every day or so, and almost dizzy tryin' to get acquainted
+
+
+<figure n="illustration">
+<head></head>
+<p>"'Well, what does it look like?' demands Vee.' 'Hm-m-m,' says I starin' at what she's done to a perfectly good piece of canvas."</p>
+<figDesc></figDesc>
+</figure>
+
+with all of 'em. Do I show up that way to her? I doubt it. Now and then, though, I catch her watchin' me sort of puzzled.</p>
+
+<p>So there's nothing steady goin' or settled about us yet, thanks be. Home ain't a place to yawn in. Not ours. We don't get all our excitement out of changin' the furniture round, either. Oh, sure, we do that, too. You know, we're startin' in with a ready-made home&#8212;a studio apartment that Mr. Robert picked up for me at a bargain, all furnished.</p>
+
+<p>He was a near-artist; if you remember, this Waddy Crane party, who'd had a bale of coupon-bearin' certificates willed to him, and what was a van-load of furniture more or less to him? Course, I'm no judge of such junk, but Vee seems to think we've got something swell.</p>
+
+<p>"Just look at this noble old davenport, will you!" says she. "Isn't it a beauty? And that high-boy! Real old San Domingo mahogany that is, with perfectly lovely crotch veneer in the panels. See?"</p>
+
+<p>"Uh-huh," says I.</p>
+
+<p>"<unclear>And</unclear> this four-poster with the pineapple tops and the canopy," she goes on. "Pure Colonial, a hundred years old."</p>
+
+<p>"Eh?" says I, gazin' at it doubtful. "Course, I was lookin' for second-hand stuff, but I don't think he ought to work off anything that ancient on me, do you?"</p>
+
+<p>"Silly!" says Vee. "It's a gem, and the older the better."</p>
+
+<cb n="2" />
+
+<p>"We'll need some new rugs, won't we," says I, "in place of some of these faded things?"</p>
+
+<p>"Faded!" says Vee. "Why, those are Bokharas. I will say for Mr. Crane that he has good taste. This is furnished so much better than most studios&#8212;nothing useless, no mixing of periods."</p>
+
+<p>"Oh, when I go out after a home," says I, "I'm some grand little shopper."</p>
+
+<p>"Pooh!" says Vee. "Who couldn't do it the way you did? Why, the place looks as if he'd just taken his hat and walked out. There are even cigars in the humidor. And his easel and paints and brushes! Do you know what I'm going to do, Torchy?"</p>
+
+<p>"Put pink and green stripes around the cigars, I expect," says I.</p>
+
+<p>"Smarty!" says she. "I'm going to paint pictures."</p>
+
+<p>"Why not?" says I. "There's no law against it, and here you got all the tools."</p>
+
+<p>"You know I used to try it a little," says she. "I took quite a lot of lessons."</p>
+
+<p>"Then go to it," says I. "I'll get a yearly rate from a pressing club to keep the spots off me. I'll bet you could do swell pictures."</p>
+
+<p>"I know!" says Vee, clappin' her hands&#8212;"Ill begin with a portrait of you. Let me try sketching in your head now."</p>
+
+<p>That's the way Vee generally goes at things&#8212;with a rush. Say, she had me sittin' with my chin up and my arms draped in one position until I had a neckache that ran clear to my heels.</p>
+
+<p>"Hal-lup!" says I, when both feet was sound asleep and my spine felt ossified. "Couldn't I put on a sub while I drew a long breath?"</p>
+
+<p>AT that she lets me off, and after a fifth-innin' stretch I'm called round to pass on the result.</p>
+
+<p>"Hm-m-m!"  says I, starin' at what she's done to a perfectly good piece of stretched canvas.</p>
+
+<p>"Well, what does it look like?" demands Vee.</p>
+
+<p>"Why," says I, "I should call it sort of a cross between the Kaiser and Billy Sunday."</p>
+
+<p>"Torchy I" says Vee. "I&#8212;I think you're just horrid!"</p>
+
+<p>For a whole week she sticks to it industrious, jottin' down studies of various parts of my map while I'm eatin' breakfast, and workin' over 'em until I come back from the office in the afternoon. Did I throw out any more comic cracks? Never a one&#8212;not even when the picture showed that my eyes toed in. All I did was pat her on the back and say she was a
+
+<figure n="advertisement">
+<head>Turn them over</head>
+<p></p>
+<figDesc>Advertisement for United States Rubber Company Sole and Heel Dept.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>New Service Bicycle</head>
+<p></p>
+<figDesc>Advertisement for Montgomery Ward Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Typewriters</head>
+<p></p>
+<figDesc>Advertisement for Young Typewriter Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>S.C. Buff Orpingtons</head>
+<p></p>
+<figDesc>Advertisement for Will Schadt. Goshen, Indiana</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>$3,000.00 in One Year</head>
+<p></p>
+<figDesc>Advertisement for Haywood Tire and Equipment Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Unitarianism</head>
+<p></p>
+<figDesc>Advertisement for Unitarianism Free Literature</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Classified Advertising</head>
+<p></p>
+<figDesc>Classified Advertising, including Personal, California Farm Lands, Help Wanted Male, Corporations, Help Wanted Female, Agents Wanted, News Correspondents, and Photoplays, Stories, Etc.</figDesc>
+</figure>
+
+
+<pb n="Page 22" xml:id="ew.issue.19170312.p022" />
+
+<figure n="advertisement">
+<head>Make FlavoFlour With This Mill</head>
+<p></p>
+<figDesc>Advertisement for Anglo-American Mill Company, Inc.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Rapid Dish Washer and Kitchen Table Combined</head>
+<p></p>
+<figDesc>Advertisement for Wm. Campbell Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Learn to Play Piano Well</head>
+<p></p>
+<figDesc>Advertisement for Apollo Institute of Music.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Camp Information Free</head>
+<p></p>
+<figDesc>Advertisement for American Schools' &amp; Camps' Association</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Agents A Big Seller Screen Door Check</head>
+<p></p>
+<figDesc>Advertisement for Thomas Check Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Eradium Wonder Ring 12c Brilliant Eradium Gem</head>
+<p></p>
+<figDesc>Advertisement for Arkenau Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Exora Face Powder Stays On</head>
+<p></p>
+<figDesc>Advertisement for Chas. Meyer</figDesc>
+</figure>
+
+wonder. But say, I got so I dreaded to look at the thing.</p>
+
+<p>"You know your hair isn't really red," says Vee; "it&#8212;it's such an odd shade."</p>
+
+<p>"Sort of triple pink, eh?" says I.</p>
+
+<p>She squeezes out some more paints, stirs 'em vigorous, and makes another stab. This time she gets a bilious lavender with streaks of fire-box red in it.</p>
+
+<p>"Bother!" says she, chuckin' away the brushes. "What's the use pretending I'm an artist when I'm not? Look at that hideous mess! It's too awful for words. Take away that fire-screen, will you, Torchy?"</p>
+
+<p>And, with the help of a few matches and a sportin' extra, we made quite a cheerful little blaze in the coal grate.</p>
+
+<p>"There!" says Vee, as we watches the bonfire. "So that's over. And it's rather a relief to find out that I haven't got to be a lady artist, after all. What is more, I am positive I couldn't write a book. I'm afraid, Torchy, that I am a most every-day sort of person."</p>
+
+<p>"Maybe," says I, "you're one of the scarce ones that believes in home and hubby."</p>
+
+<p>"We-e-e-ell," says Vee, lockin' her fingers and restin' her chin on 'em thoughtful, "not precisely that type, either. My mind may not be particularly advanced, but the modified harem existence for women doesn't appeal to me. And I must confess that, with kitchenette breakfasts, dinners out, and one maid, I can't get wildly excited over a wholly domestic career. Torchy, I simply must have something to do."</p>
+
+<p>Me, I just sits there gawpin' at her. "Why," says I, "I thought that when a girl got married she&#8212;she&#8212;"</p>
+
+<p>"I know," says she. "You think you thought. So did I. But you really didn't think about it at all, and I'm only beginning to. Of course, you have your work. I suppose it's interesting, too. Isn't it?"</p>
+
+<p>"It's a great game," says I. "Specially these days, when doin' any kind of business is about as substantial as jugglin' six china plates while you're balanced on top of two chairs and a kitchen table. Honest, we got deals enough in the air to make you dizzy followin' 'em. If they all go through we'll stand to cut a melon that would pay off the national debt. If they should all go wrong—well, it would be some smash, believe me."</p>
+
+<p>Vee's gray eyes light up sudden.</p>
+
+<p>"Why couldn't you tell me all about some of these deals," she says, "so that I could be in it too? Why couldn't I help?"</p>
+
+<p>"Maybe you could," says I, "if you understood all the fine points."</p>
+
+<p>"Couldn't I learn?" demands Vee.</p>
+
+<p>"Well," says I, "I've been right in the thick of it for quite some years. If you could pick up in a week or so what it's taken me years to&#8212;"</p>
+
+<p>"I see," cuts in Vee. "I suppose you're right, too. But I'm sure that I should like to be in business. It must be fascinating, all that planning and scheming. It must make life so interesting."</p>
+
+<p>I nods. "It does," says I.</p>
+
+<p>"Then why shouldn't I try something of the kind, all my very own?" she asks. "Oh, in a small way, at first?"</p>
+
+<p>More gasps from me. This was gettin' serious.</p>
+
+<p>"YOU don't mean margin dabblin' at one of them parlor bucket-shops, do you?" I demands.</p>
+
+<p>"No fear," says Vee. "I think gambling is just plain stupid. I mean some sort of legitimate business&#8212;buying and selling things."</p>
+
+<p>"Oh!" says I. "Like real estate, or imported hats, or somebody's homemade candy? Or maybe you mean
+
+<cb n="3" />
+
+<choice xml:id="sic1" corresp="#corr1">
+    <sic>And that's when, as I was tellin' you, I rises up majestic and announces flat that she simply can't do a thing like that. Also she comes back at me just as prompt by sayin' that she can and will. It's the first time we've met head-on goin' different ways, and I had just sense enough to throw in my emergency before the crash came.
+
+        "Now let's get this straight," says I.
+</sic>
+<corr/>
+</choice>
+
+<figure n="illustration">
+<head></head>
+<ab type="credit">Arthur William Brown</ab>
+<p>"'Now, Mister Business Man, what do you think of that?'"</p>
+<figDesc></figDesc>
+</figure>
+
+startin' one of them Blue Goose novelty shops down in Greenwich Village. I'll tell you. Why not manufacture left-handed collar buttons for the south-paw trade? There's a field."</p>
+
+<p>Vee don't say any more. In fact, three or four days goes by without her mentionin' anything about havin' nothing to do, and I'd 'most forgot this batty talk of ours.</p>
+
+<p>And then, one afternoon when I comes home after a busy day at doin' nothing much and tryin' to look important over it, she greets me with a flyin' tackle and drags me over to a big wing-chair by the window.</p>
+
+<p>"What do you think, Torchy?" says she. "I've found something!"</p>
+
+<p>"That trunk key you've been lookin' for?" says I.</p>
+
+<p>"No," says she. "A business opening."</p>
+
+<p>"A slot-machine to sell fudge?" says I.</p>
+
+<p>"You'd never guess," says she.</p>
+
+<p>"Then shoot it," says I.</p>
+
+<p>"I'm going to open a shoe-shinery," she announces.</p>
+
+<p>"Wha-a-a-at!" says I.</p>
+
+<p>"Only I'm not going to call it that," she goes on. "It isn't to be a 'parlor,' either, nor a 'shine shop.' It's to be just a 'Boots.' Right here in the building. I've leased part of the basement. See?" And she waves a paper at me.</p>
+
+<p>"Quit your kiddin'," says I.</p>
+
+<p>But she insists that it's so. Sure enough, that's the way the lease reads.</p>
+
+<p>
+<choice xml:id="corr1" corresp="sic1">
+<sic />
+<corr>And that's when, as I was tellin' you, I rises up majestic and announces flat that she simply can't do a thing like that. Also she comes back at me just as prompt by sayin' that she can and will. It's the first time we've met head-on goin' different ways, and I had just sense enough to throw in my emergency before the crash came.
+
+"Now let's get this straight," says I.</corr>
+</choice>
+</p>
+    
+<p>>"I don't suppose you're plannin' to do shoe-shinin' yourself?"</p>
+
+<p>Vee smiles and shakes her head.</p>
+
+<p>"Or 'tend the cash register and sell shoelaces and gum to gentlemen customers?"</p>
+
+<p>"Oh, it's not to be that sort of place," says she. "It's to be an English 'boots,' on a large scale. You know what I mean."</p>
+
+<p>"No," says I.</p>
+
+<p>So she sketches out the enterprise for me. Instead of a reg'lar Tony joint with a row of chairs and a squad of blueshirted Greeks jabberin' about the war, this is to be a chairless, spittoonless shine factory, where the customer only steps in to sign a monthly contract or register a kick. All the work is to be collected and delivered, same as laundry.</p>
+
+<cb n="4" />
+
+<p>"I would never have thought of it," explains Vee, "if it hadn't been for Tarkins. He's that pasty-faced, sharp-nosed young fellow who's been helping the janitor recently. A cousin, I believe. He's a war wreck, too. Just think, Torchy: he was in the trenches for more than a year, and has only been out of a base hospital two months. They wouldn't let him enlist again; so he came over here to his relatives.</p>
+
+<p>"IT was while he was up trying to stop that radiator leak the other day that I asked him if he would take out a pair of my boots and find some place where they could be cleaned. He brought them back inside of half an hour, beautifully done. And when I insisted on being told where he'd taken them, so that I might send them to the same place again, he admitted that he had done the work himself. 'My old job, ma'am,' says he. 'I was boots at the Argyle Club, ma'am, before I went out to strafe the 'Uns. Seven years, ma'am. But they got a girl doin' it now, a flapper. Wouldn't take me back.' Just fancy! And Tarkins a trench hero! So I got to thinking."</p>
+
+<p>"I see," says I. "You're going to set Tarkins up, eh?"</p>
+
+<p>"I'm going to make him my manager," says Vee. "He will have charge of the shop and solicit orders. We are going to start with only two polishers; one for day work, the other for the night shift. And Tarkins will always be on the job. They're installing a 'phone now, and he will sleep on a cot in the back office. We will work this block first, something like four hundred apartments. Later on&#8212;well, we'll see."</p>
+
+<p>"I don't want to croak," says I, "but do you think folks will send out their footwear that way? You know, New Yorkers ain't used to gettin' their shines except on the hoof."</p>
+
+<p>"I mean to educate them to my boots' system," says Vee. "I'm getting up a circular now. I shall show them how much time they can save, how many tips they can avoid. You see, each customer will have a delivery box, with his name and address on it. No chance for mistakes.</p>
+
+<pb n="Page 23" xml:id="ew.issue.19170312.p023" />
+
+<figure n="advertisement">
+<head>Ludens Cough Drops</head>
+<p></p>
+<figDesc>Advertisement for Wm. H. Luden</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Japanese Rose Bushes Five for 10cts.</head>
+<p></p>
+<figDesc>Advertisement for Japan Seed Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Straighten Your Toes Banish That Bunion</head>
+<p></p>
+<figDesc>Advertisement for M. Achfeldt, Foot Specialist</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Cripples and Deformed</head>
+<p></p>
+<figDesc>Advertisement for Prof. Adolph Lorenz</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Parker's Hair Balsam</head>
+<p></p>
+<figDesc>Advertisement for Parker's Hair Balsam</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"Bow Legs and Knock-Knees" Unsightly</head>
+<p></p>
+<figDesc>Advertisement for Perfect Sales Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Mason, Fenwick &amp; Lawrence</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents</head>
+<p></p>
+<figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventions &#8212; Patenting and Promoting</head>
+<p></p>
+<figDesc>Advertisement for Lancaster &amp; Allwine</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>High-Value Patents</head>
+<p></p>
+<figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Patents Secured or Fee Returned</head>
+<p></p>
+<figDesc>Advertisement for G.P. Kimmel</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Inventors</head>
+<p></p>
+<figDesc>Advertisement for Randolph &amp; Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Money in Patents</head>
+<p></p>
+<figDesc>Advertisement for P.H. Pattison &amp; Co.</figDesc>
+</figure>
+
+<p>The boxes can be set outside the apartment doors. We will have four collections, perhaps; two in the daytime, two at night. And when they see the kind of work we do&#8212; Well, you wait."</p>
+
+<p>"I'll admit it don't listen so worse," says I. "The scheme has its good points. But when you come to teachin' New York people new tricks, like sendin' out their shoes, you're goin' to be up against it."</p>
+
+<p>"Then you think I can't make 'boots' pay a profit?" asks Vee.</p>
+
+<p>"That would be my guess," says I. "If it was a question of 'underwritin' a stock issue for the scheme I'd have to turn it down."</p>
+
+<p>"Good!" says Vee. "Now I shall work all the harder. Tarkins will be around early in the morning to get you as our first customer."</p>
+
+<p>Say, for the next few days she certainly was a busy party&#8212;plannin' out her block campaign, look-in' over supply bills, and checkin' up Tarkins's reports.</p>
+
+<p>I don't know when I'd ever seen her so interested in anything, or so chirky. Her cheeks were pink all the time and her eyes dancin'. And somehow we had such a lot to talk about.</p>
+
+<p>Course, though, I don't expect it to last. You wouldn't look for a girl like Vee, who'd never had any trainin' for that sort of thing, to start a new line and make a go of it right off the bat. But,
+
+<cb n="3" />
+
+so long as she wasn't investin' very heavy, it didn't matter.</p>
+
+<p>And then, here last night, after she'd been workin' over her account-books for an hour or so, she comes at me with a whoop, and waves a sheet of paper under my nose excited.</p>
+
+<p>"Now, Mister Business Man," says she, "what do you think of that?"</p>
+
+<p>"Eh?" says I, starin' at the figures.</p>
+
+<p>"One hundred and seventeen regular customers the first week," says she, "and a net profit of $23.45. Now how about underwriting that stock issue?"</p>
+
+<p>Well, it was a case of backin' up. She had it all figured out plain. She'd made good from the start. And, just to prove that it's real money that she's made all by herself, she insists on invitin' one out to a celebration dinner. It's a swell one, too, take it from me.</p>
+
+<p>And afterwards we sits up until long past midnight while Vee plans a chain of "boots" all over the city.</p>
+
+<p>"Gee!" says I. "Maybe you'll be gettin' yourself written up as 'The Shine Queen of New York' or something like that. Lucky Auntie's in Jamaica. Think what a jolt it would give her."</p>
+
+<p>"I don't care," says Vee. "I've found a job."</p>
+
+<p>"Guess you have," says I. "And, as I've remarked once or twice before, you're some girl."</p>
+
+</body>
+</text>
+
+<text type="fiction" xml:id="child.19170312.jump">
+<body>
+<head type="main">Love Is Love</head>
+
+<p rend="jumpline">Continued from page 7</p>
+
+<p>A second was left before the car came to a stop, and in this second Gerry wondered who would ever take her to Colorado now. Who would protect and love and cherish Rose Carey? Gerry made a pretense of helping her on the car. He felt the rough cloth of her coat; and that contact he remembered for many weeks, because, as his fingers touched the coat, he managed to find the side pocket in it. And into this side pocket he dropped his wad&#8212;his wad of bills.</p>
+
+<p>"Rose Carey," his own voice was saying softly to himself&#8212;"Rose Carey. Good-by, Rose Carey."</p>
+
+<p>"Well?" said the taxi-driver.</p>
+
+<p>"What's on the meter now?" asked Gerry.</p>
+
+<p>"Two-ten."</p>
+
+<p>"Drive back to Monroe Street. I got a five, anyhow. I'm a good sport."</p>
+
+<p>But he entered the cab and buried his face in the lap-robe, which smelled of stale cigar smoke.</p>
+
+<p>IT was to be the penitentiary!</p>
+
+<p>The penitentiary, however, had lost its horrors. Others went to the penitentiary, and he could go. But who had known love like this before? Who else had known the sweetness of Rose Carey? Something had been given to Gerry Sands, and something had been taken away! He would never see her again.</p>
+
+<p>He would never see her again. He stopped in front of the illuminated window of a department store on State Street, with all the early evening noise and bustle of the city going on around him, and clenched his hand till the knuckles cracked. He wanted to die.</p>
+
+<p>Time went by as he wandered listlessly, empty of stomach, in a daze of grief which after his emotional day never grew sharp enough to make him exclaim, but kept on with its terrible ache and its accompanying sense of emptiness, of bewilderment, of being stupefied. There was nothing to do&#8212;no word to say, no place to go.</p>
+
+<p>"I gotter, get away from the faces," said he aloud. "All these faces. I couldn't sleep. It's only nine o'clock yet. I wish I was alone&#8212;all alone."</p>
+
+<p>Then suddenly, as if the idea had popped into his head on the end of an elastic band of memory, he thought of Lincoln Park. There he could he alone&#8212;almost alone. There he could find the solace of expression of all the woe which now, lacking an outlet, distended his sore spirit.</p>
+
+<cb n="3" />
+
+<p>"I wish I was dead," said he. "I wish I could melt into the fog."</p>
+
+<p>The night had brought a rise of temperature; a thaw had followed the snowfall of the morning, and now a great bed of steaming vapor rose from the bosom of the city. Thickly it covered the open spaces of the park into the deserted path ways of which Gerry, alighting from a car, had wandered. One could see nothing behind or before, and in this there was infinite comfort to him.</p>
+
+<p>To himself he pictured the moment when he would arrive at the concrete seat. She had sat there&#8212;Rose Carey! He would drop on his knees&#8212;</p>
+
+<p>There was the bench now. But some one had preempted it. This was Gerry's luck! He stopped.</p>
+
+<p>"You came!" she cried. "I prayed you'd come! Gerry! You came! We'd lost each other, Gerry. I had no place to find you. I been here since seven. I found the money, and then I knew it wasn't&#8212; well, it was proof. I been here. I prayed you'd come!"</p>
+
+<p>Gerry went up to her and put his arms around her.</p>
+
+<p>"Love&#8212;the real thing&#8212;is a miracle," said he huskily.</p>
+
+<p>But she gave a glad cry.</p>
+
+<p>"I don't know, Gerry," she exclaimed. "But I know love is love!"</p>
+
+<p>APPLEHAUSER was at the desk in the inspector's room at Station B. The messenger from the City Hall came in and threw down a pile of mimeographed lists from the clerk's office.</p>
+
+<p>"Lot of pneumonia," he said. "Slant that death list."</p>
+
+<p>"I see pneumonia hasn't stopped the marriages," replied Applehauser, fingering the sheets.</p>
+
+<p>The door closed.</p>
+
+<p>The clock ticked.</p>
+
+<p>"What the&#8212;" said the big detective sergeant. "The son-of-a-gun! 'Gerry M. Sands, age twenty-one, and Rose Carey&#8212;'"</p>
+
+<p>"What's that?" asked the newly promoted patrolman, coming out of a daydream.</p>
+
+<p>"The poor boob was telling the truth," mused Applehauser. "It was a guy I picked up at the Union Station, and I gave him a song and dance about having him followed and so on. I suppose he thought we had time to fool with him? He got married."</p>
+
+<p>The other rose, stretched, and yawned.</p>
+
+<p>"Maybe he'll do something with it," he said. "Love is love."</p>
+
+</body>
+</text>
+
+<text type="advertisement" xml:id="deafness.19170312">
+<body>
+
+<figure n="advertisement">
+<head>Triumph over Deafness</head>
+<p></p>
+<figDesc>Advertisement for Anderson Electric Corporation</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Try Before You Buy</head>
+<p></p>
+<figDesc>Advertisement for Mead Cycle Company</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Pigeons Pay</head>
+<p></p>
+<figDesc>Advertisement for Majestic Squab Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Big Money Quick</head>
+<p></p>
+<figDesc>Advertisement for Bureau of Mushroom Industry</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Poultry Book</head>
+<p></p>
+<figDesc>Advertisement for Berry's Poultry Farm</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Egg Incubator and Chick Brooder</head>
+<p></p>
+<figDesc>Advertisement for Ironclad Incubator Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>"The Profits in Poultry Keeping"</head>
+<p></p>
+<figDesc>Advertisement for Cyphers Incubator Co.</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>How to Make Poultry Pay</head>
+<p></p>
+<figDesc>Advertisement for Inland Poultry Journal</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Day-Old Chicks</head>
+<p></p>
+<figDesc>Advertisement for Goshen Poultry Farms</figDesc>
+</figure>
+
+<figure n="advertisement">
+<head>Egg-o-hatch</head>
+<p></p>
+<figDesc>Advertisement for Geo. H. Lee Co.</figDesc>
+</figure>
+
+</body>
+</text>
+
+<pb n="Page 24" xml:id="ew.issue.19170312.p024" />
+
+
+<text type="advertisement" xml:id="bayer.19170312">
+<body>
+
+<figure n="advertisement">
+<head>Bayer Tablets and Capsules of Aspirin</head>
+<p></p>
+<figDesc>Advertisement for Bayer</figDesc>
+</figure>
+
+</body>
+</text>
+</group>
+</text>
+    </TEI>
