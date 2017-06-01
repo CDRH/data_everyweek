@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180615">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180615</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180615</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -110,7 +111,7 @@
 <p></p>
 <figDesc>Advertisement for The Clicquot Club Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -152,7 +153,7 @@
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 <pb n="Page 5" xml:id="ew.issue.19180615.p005" />
@@ -592,7 +593,7 @@ back of you.</l>
 <p>A military order has been issued in France forbidding any soldier to swear at an army mule. This soldier is apparently carrying out the order whole-heartedly by training his mule to perform diverting tricks.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1226,7 +1227,7 @@ when I saw him last, but otherwise how natural he looks!"</p>
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1278,7 +1279,7 @@ when I saw him last, but otherwise how natural he looks!"</p>
 <ab type="credit">Photograph from Betty Shannon</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1921,7 +1922,7 @@ room that recently had become shadowed and cheerless for her, Matilda patiently 
 <p></p>
 <figDesc>Advertisement for United States Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2155,7 +2156,7 @@ helping.</p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2175,7 +2176,7 @@ helping.</p>
 <p></p>
 <figDesc>Avertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2286,7 +2287,7 @@ helping.</p>
 <p></p>
 <figDesc>Classified Advertising, including Personal, Michigan Farm Lands For Sale, Military Watches, Song Poems, Corporations, Help Wanted&#8212;Female, Female Help Wanted, Photoplays, Stories, Etc., News Correspondents, Photoplays, Short Stories, Manuscripts Wanted</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2464,7 +2465,7 @@ helping.</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2478,7 +2479,7 @@ helping.</p>
 <p></p>
 <figDesc>Advertisement for Woodbury's Facial Soap</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

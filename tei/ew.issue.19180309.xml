@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180309">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180309</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180309</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,11 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.</note>
-<note>&#8212;A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5 Cts.</titlePart>
+<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.</note>
+<note>&#8212;A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -278,7 +280,7 @@ providing for the defense of the colony, he said: "I know not what course others
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1348,7 +1350,7 @@ knew that Will Grant was drinking, and there was a "Well-I-knew-something-would-
 <p>HIS contemporary Ben Jonson said that "Shakspeer wanted arte," and also scornfully that "Shakspeer, in a play, brought in a number of men saying they had suffered shipwreck in Bohemia, wher ther is no sea neer by some hundred miles." Thomas Rymer, writing in 1693 on 'Julius Caesar' (here given for the 12,893d time), pointed out that when Shakespeare turns to tragedy, "he raves and rambles without coherence." Shakespeare, shake with Geo. M. Cohan, fellow sufferer from critics.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1423,7 +1425,7 @@ knew that Will Grant was drinking, and there was a "Well-I-knew-something-would-
 <p>IT is not the early bird which the early worms of Bear Island (Lake Timagami), northern Ontario, fear, but this daughter of the north with her capacious worm bucket. For a long time before the fishing season opens she is out searching for her crawly quarry. When the season opens and the fishermen appear, she appears too, and turns many an honest penny with her juicy worms at $2 the hundred.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1475,7 +1477,7 @@ knew that Will Grant was drinking, and there was a "Well-I-knew-something-would-
 <p>FIFTY-TWO years it is that Captain J. C. Norton has followed the sea. The Captain is a veteran of the Civil War, and his ship, the <hi rend="italic">Pompey</hi>, was on hand in '98 when the Spanish fleet came out of Havana harbor on a certain memorable morning. Now, as librarian at Sailors' Snug Harbor, the Captain faces no worse crises than the delinquencies of various old salts who keep out their Jules Verne overtime.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2319,7 +2321,7 @@ He had shot a man&#8212;which was very wrong. But he had only wounded him. He lo
 <p></p>
 <figDesc>Advertisement for Sanatogen</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2355,14 +2357,14 @@ He had shot a man&#8212;which was very wrong. But he had only wounded him. He lo
 <p></p>
 <figDesc>Advertisements for Automobiles, Personal, Corporations, Help Wanted, Help Wanted&#8212;Female, Song Writers Wanted, Female Help Wanted, News Correspondents, Short Stories, Manuscripts Wanted, Photoplays, Photoplays, Stories, Etc., Music Publishing, and Inventions</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="nonfiction" xml:id="hendrick.19180309.jump">
 <body>
 
-<p rend="jumpline"><ref target="hendrick.19180309">Leaving School at Fourteen&#8212;Concluded from page 5</ref></p>
+<head type="main">Leaving School at Fourteen&#8212;</head><p rend="jumpline"><ref target="hendrick.19180309">Concluded from page 5</ref></p>
 
 <cb n="1"/>
 
@@ -2514,7 +2516,7 @@ hope to do. It is not in one man's power. Furthermore, it is my belief that your
 <p></p>
 <figDesc>Advertisement for Larkin Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2540,7 +2542,7 @@ hope to do. It is not in one man's power. Furthermore, it is my belief that your
 <text type="fiction" xml:id="dwyer.19180309.jump">
 <body>
 
-<p rend="jumpline"><ref target="dwyer.19180309">Camera JoeContinued from page 10</ref></p>
+<head type="main">Camera Joe</head><p rend="jumpline"><ref target="dwyer.19180309">Continued from page 10</ref></p>
 
 <cb n="1"/>
 
@@ -2738,7 +2740,7 @@ forgotten me, and I stood and looked at Camera Joe.</p>
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2936,7 +2938,7 @@ since you raise the point, that a dollar will bring one of those copies post-pai
 <p></p>
 <figDesc>Advertisement for the Pro-phy-lac-tic Tooth Brush</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2951,7 +2953,7 @@ since you raise the point, that a dollar will bring one of those copies post-pai
 <p></p>
 <figDesc>Advertisement for Bayer Aspirin</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

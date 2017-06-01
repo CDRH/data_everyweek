@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171001">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171001</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171001</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -1357,7 +1358,7 @@ And you have consistently turned your backs."</p>
 <p>WE conclude this brilliant and instructive page with the pictures of two college boys working through their summer vacations—one taking tickets on the upper deck of the steamer at $8 per, and the other hustling freight below at three times as much. But we would not conclude without a word of seriousness—<hi rend="italic">viz.</hi>, that, after all, the main thing is this: Have you got a useful job in the world, and one you like? For, whether you wear a white collar or no collar, whether you make a hundred a year or a million, you won't be happy if you can't respect and love your work.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1439,7 +1440,7 @@ And you have consistently turned your backs."</p>
 <p>IT is rather awful when a crook decides to talk frankly and fully, as one did to Will Irwin in the "Confessions of a Con Man" (B. W. Huebsch, publisher). "There's no hunting in the world like hunting men," he says. Marked cards, phoney pool-rooms, side-show faking, gold bricks, and the confidence game—the Con Man knows them all. Why did he cut it out? It just came over him. "There was Soapy Smith dead on the wharf at Skaguay, and Old Man Stallings in the penitentiary, and there was Slippery Sills touching me for a five. The rest had died drunk and hoboes, opium fiends or convicts." The Con Man took a train home, and will never graft again. But sometimes, he says, the old feeling rises up under his vest, and makes the straight and narrow path look very gray indeed.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1450,48 +1451,48 @@ And you have consistently turned your backs."</p>
 
 <head type="main">ADOPTED MILLIONAIRES</head>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit">© International Film Service, Inc.</ab>
 <p>FATE tried to hide John Winbush by painting him black and dropping him into a little smoke-charred cottage. But fate was fooled. The bright eyes of Vinson Walsh McLean saw John, and the lordly lips of Vinson demanded him for a playmate. Behold John, then, started on his long, hard lifework of helping Vinson spend two of the biggest fortunes in the world. And our face is white, and we always washed it when young, and brushed our teeth and everything, and the only rich looking man that ever spoke to us said: "If you do that again, kid, I'll kill you."</p>
 <figDesc></figDesc>
 </figure>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit">© International Film Service, Inc.</ab>
 <p>AT midnight on September 17, 1914, a youngster three years old was found asleep in the shadow of the main doorway of St. Patrick's Cathedral, on Fifth Avenue, New York. A little more than a year later this same youngster—John Doe No. 104—became the legal son of Helen Gould Shepard and her husband, Finley J. Where is the mother who left him on the church steps that September night? What are her feelings when she sees his picture in all the newspapers? It's an interesting thing to think about, isn't it?</p>
 <figDesc></figDesc>
 </figure>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit">Photograph from J. R. Henderson.</ab>
 <p>THERE was a wreck on the railroad. Scores were killed and wounded. Suddenly, in the midst of the smoking ruins, a cry was heard, and the rescuers pulled out from the wreckage a trembling five-year-old boy. He said his name was Bobbie Hoyt. Both of his parents lay dead in the wreck. He was a pathetic little figure. Mr. and Mrs. George Burton Tibbans, travelers on the train, undertook to look after him. Later they adopted him. It is not every boy who, losing one set of parents, can find another set on the same train. Bobbie did—and with them the prospects of a fortune some day.</p>
 <figDesc></figDesc>
 </figure>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit"></ab>
 <p>THERE are folks in Kokomo who still remember little Mado Minty. She left "our pleasant city" at the age of nine, and went to Paris to study music. At a private concert she attracted the attention of the great Jean de Reszke, who took her under his tutelage. At Jean's home she met all kinds of interesting people, among them Count Scipio de Monvelle, the wealthy pottery manufacturer. The Count had no children: Mado had no parents. So the little girl from Kokomo became the daughter of the Parisian Count—for all the world like the paperbacked novels we used to buy on the train.</p>
 <figDesc></figDesc>
 </figure>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit"></ab>
 <p>TO give a touch of age and dignity to the page, here is the Lumber King of Renfrew. Like Finley J. Shepard, Jr., he too was abandoned by his parents one dark and stormy night. But, unlike Finley J., he was picked up by a poor couple who could give him only food and clothes and a godly home. He was adopted, and is a millionaire, but he wasn't an adopted millionaire: his million he made for himself.</p>
 <figDesc></figDesc>
 </figure>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit">© International Film Service, Inc.</ab>
 <p>WILLIAM ZIEGLER, Jr., could not spend his money as fast as it accumulates, even if he should want to. His foster-father, the "Baking Powder King," left something like $14,000,000. On William's twenty-first birthday he was paid the accumulated interest, which amounted to $5,000,000. On his twenty-fifth birthday he received $3,485,000. There is still remaining $10,000,000, to be paid him in three instalments at thirty, thirty-five, and forty years. But, meantime, the trustees hold the accumulating interest, which piles up at the rate of more than half a million dollars a year. The foster-son of the baking powder king is a rising young man.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2303,7 +2304,7 @@ against the cushions with a sigh of relief; then, suddenly, he became aware that
 <p></p>
 <figDesc>Advertisement for Cat's Paw Cushion Rubber Heels</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2584,7 +2585,7 @@ the ground. Finishing one, he ran to another. The Turks were busy "potting" him 
 <p></p>
 <figDesc>Advertisement for Hawkins Electrical Guides</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 </div1>
@@ -2741,7 +2742,7 @@ sometimes one, sometimes another, of my afflictions. In those four years I think
 <p></p>
 <figDesc>Advertisements for Personal, Corporations, Miscellaneous, Help Wanted&#8212;Female, Salesmen, Wedding Invitations, News Correspondents, Short Stories, Manuscripts Wanted, Photoplays, Stories, Etc., and Photoplays.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2955,7 +2956,7 @@ standard securities. Sample copies will be sent on application to the offices of
 <p></p>
 <figDesc>Advertisement for Auto-Kintter Hosiery Co., Inc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2970,7 +2971,7 @@ standard securities. Sample copies will be sent on application to the offices of
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

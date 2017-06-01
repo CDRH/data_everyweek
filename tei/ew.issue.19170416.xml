@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170416">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170416</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170416</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -169,7 +170,7 @@
 <p></p>
 <figDesc>Advertisement for Lee Complete Poultry Library.</figDesc>
 </figure> 
-    
+<p/>
 </body>
 </text>
     
@@ -268,19 +269,20 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="curwood.19170416">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p>For ten years he had made that trip twice a year with the mails. There was not a cabin he did not know. . . .</p>
 <p>. . . Now, propped against a tree, he took a last look at life. He knew that he was dying."</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">THE FIDDLING MAM</head>
 <byline>By <persName type="author" key="#Curwood, James Oliver">JAMES OLIVER CURWOOD</persName></byline>
 <byline>Illustrations by <persName type="illustrator" key="#Howland, Hawthorne">Hawthorne Howland</persName></byline>
@@ -551,7 +553,7 @@ cheeks flushing hotly in the darkness&#8212;how he had hated to go, and held her
 <p>He saw the shudder that passed through her slim shoulders.</p>
 
 
-<pb n="Page 6" xml:id="ew.issue.19170409.p006" />
+<pb n="Page 6" xml:id="ew.issue.19170416.p006" />
 
 <p>"They had a fight&#8212;here&#8212;in this cabin&#8212;three days ago," she confessed. "It must have been&#8212;the day&#8212;he was killed."</p>
 
@@ -637,7 +639,7 @@ bling</orig><reg>trembling</reg></choice> with the thrill of his monstrous trium
 
 <text type="fiction" xml:id="ford.19170416">
 <body>
-<!-- Text of this story ran across colums on 2nd page. Please proofread carefully -->
+<!-- Text of this story ran across columns on 2nd page. Please proofread carefully -->
 <head type="main">Where Herm Belonged to Be</head>
 <byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
 
@@ -1286,7 +1288,7 @@ of this strange enthusiasm which the older woman couldn't understand.</p>
 <p>AT Sarah Bernhardt's first appearance in America a very skeptical audience broke into hurrahs of praise at the first sound of her famous voice. On her way to a matinee she found the road blocked with women who made her write her name on their cuffs and forced gifts of jewelry upon her. Once, exhausted by curtain calls, she made her sister wear her hat and pass through the crowds outside as the great actress. Her jewelry was once exhibited in the windows of a St. Louis shop, the proprietor contributing to the collection a gold pipe and a toothpick studded with sapphires.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1366,7 +1368,7 @@ of this strange enthusiasm which the older woman couldn't understand.</p>
 <p>THERE are very few ball-players who can say, "I was never released." But Charley Bennett can say that. In 1880 he was one of the best catchers in the game: and he led all the catchers in batting for more than half the time until 1894. Then the accident occurred: Charley was mixed up with a railroad train, and lost both his legs. To-day he paints china in Detroit, and is still happy in spite of everything. Most of the ball-players of Charley's time drank and wasted their pay. Charley didn't. Which is one reason for the smile in the photograph.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1417,7 +1419,7 @@ of this strange enthusiasm which the older woman couldn't understand.</p>
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1756,7 +1758,7 @@ Address
 </p>
 <figDesc>Advertisement for Pelton Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2223,7 +2225,7 @@ at the windows. There was no sign of life.</p>
 <figDesc>Advertisement for Crowell Publishing Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2295,7 +2297,7 @@ at the windows. There was no sign of life.</p>
 <p></p>
 <figDesc>Advertisement for The Bauer Chemical Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2387,7 +2389,7 @@ at the windows. There was no sign of life.</p>
 <p></p>
 <figDesc>Classified Advertising, including California Farm Lands, Wedding Invitations, Games and Entertainments, Stamps and Coins, News Correspondents, Photoplays, Stories, Etc., Corporations, Business Opportunities, Salesment Wanted, Agents Wanted, Help Wanted Male, and Help Wanted Female</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2566,7 +2568,7 @@ at the windows. There was no sign of life.</p>
 <figure n="advertisement">
 <head>Moore Push-Pins</head>
 <p></p>
-<figDesc>Advertisement for Moore Push-Pin CO.</figDesc>
+<figDesc>Advertisement for Moore Push-Pin Co.</figDesc>
 </figure>
 
 <figure n="advertisement">
@@ -2581,7 +2583,7 @@ at the windows. There was no sign of life.</p>
 <figDesc>Advertisement for E.J. Lander &amp; Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2596,7 +2598,7 @@ at the windows. There was no sign of life.</p>
 <figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 

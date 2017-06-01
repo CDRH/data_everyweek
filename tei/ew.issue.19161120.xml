@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161120">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161120</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161120</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 21</biblScope>
+<biblScope n="volume">Vol. 3</biblScope>
+<biblScope n="number">No. 21</biblScope>
 <extent>24 pages</extent>
 <date when="1916-11-20">November 20, 1916</date>
 </bibl>
@@ -167,7 +168,7 @@
 <p></p>
 <figDesc>Advertisement for N. W. School of Taxidermy.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
     
@@ -244,13 +245,14 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
     
 <text type="nonfiction" xml:id="lyman.19161120">
 <body>
 
-<!--figure n="illustration"></figure-->
+<figure n="illustration"></figure>
 <head type="main">When Is a Man Too Old?</head>
 <byline>By <persName type="author" key="Lyman, Olin L.">OLIN L. LYMAN</persName></byline>
     
@@ -1433,7 +1435,7 @@ beauty, too&#8212;hundred and sixty-three pounds&#8212;and it took me just two h
 <p>LAST, the gayest spot on earth, the Jockey Club at Buenos Ayres. This is a club to which all should belong. Those wishing to join may send their checks for $4000 initiation fee to the treasurer; following that with $1500 apiece for the first year's dues. The Club is said to have a surplus of $14,000,000, which it doesn't know how to spend.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1506,7 +1508,7 @@ beauty, too&#8212;hundred and sixty-three pounds&#8212;and it took me just two h
 <p>HOW blasé grandma really is forms the moral of "Hush" (at the Little Theater). Grandson, we learn, loves an "advanced woman" whose chief concern is the danger of reticence. Just to prove how unreticent and all-revealing she can be, she writes a play about a baby with a mole on its abdomen, the climax being reached with the shocking disclosure that the father of the child has one too. Well. Mr. Summer and the Vice Committee may grow pale at this appalling lack of modesty; but does Grandma? Hardly. What's a mole, or even two moles, in Grandma's life?</p>
 <figDesc></figDesc>
 </figure>  
-    
+   <p/> 
 </body>
 </text>
     
@@ -1565,7 +1567,7 @@ beauty, too&#8212;hundred and sixty-three pounds&#8212;and it took me just two h
 <p>IT'S not hard to watch a good movie in a cool theater with Mary Jane beside you and&#8212;and everything. But Mr. Frank Hammond has to see the same pictures dozens of times a week through an eight-by-ten peek-hole from a high stool in a little crow's-nest of a room tacked to the ceiling of a big theater. The temperature loiters among the later nineties, the operator can't let his attention wander a moment, and he has no one to talk to five hours at a stretch. The little knob just below Mr. Hammond's hand regulates the speed of the picture. For instance, he helps the heroine get away from the villain with it.</p>
 <figDesc></figDesc>
 </figure> 
-
+<p/>
 </body>
 </text>
 
@@ -2499,7 +2501,7 @@ fortunately, at this stage in the development two Pullman cars, discarded by the
 <p></p>
 <figDesc>Advertisement for Missouri Farm Lands, Corporations, Help Wanted Male, Female Help Wanted, Agents Wanted, Games and Entertainments, Patents.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2676,7 +2678,7 @@ fortunately, at this stage in the development two Pullman cars, discarded by the
 </body>
 </text>
     
-<pb n="Page 23" xml:id="ew.issue.19161029.p023"/>
+<pb n="Page 23" xml:id="ew.issue.19161120.p023"/>
     
 <text type="advertisement" xml:id="lachman.19161029">
 <body>
@@ -2686,7 +2688,7 @@ fortunately, at this stage in the development two Pullman cars, discarded by the
 <p></p>
 <figDesc>Advertisement for Harold Lachman Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -2700,7 +2702,7 @@ fortunately, at this stage in the development two Pullman cars, discarded by the
 <p></p>
 <figDesc>Advertisement for The Morely Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     

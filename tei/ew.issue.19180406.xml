@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180406">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180406</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180406</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,11 +81,11 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER</note>
-<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5 Cents</titlePart>
-</docTitle>
+<note>NOTICE TO READER</note>
+<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note></docTitle>
 <docEdition></docEdition>
 <docImprint>
 <publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
@@ -122,7 +123,7 @@
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -197,7 +198,7 @@
 <p></p>
 <figDesc>Advertisement for Atterbury Motor Car Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -752,7 +753,7 @@ where the German officer was impaled, and proceeded to release him.</p>
 <p>When these men get to France they will know all about the hardships of war. They were sent with the expeditionary force in chase of Villa, and this picture was taken at early morning near Lake Tascata, Mexico, at the start of a long march.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1581,7 +1582,7 @@ his company retire past him to their own trench before a hail of bullets. He lay
 <p>QUITE a number of gentlemen in America have made themselves millionaires. Andy not only got his: he made forty-three other millionaires on the side. Which we think is doing pretty well, and we wish we'd met him earlier. Andy has been giving it away at the rate of $50,000 a day for the last fifteen years: yet those who claim to know about such things say that he still has a good little sum&#8212;enough to let him mingle with the other gentlemen on these pages. He has said that he wanted to die poor, but we doubt whether he really means it. He has never started a magazine.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1626,7 +1627,7 @@ his company retire past him to their own trench before a hail of bullets. He lay
 <p>MISS THERESA VALERIO, of "Jack o' Lantern," is a perfect nursemaid&#8212;the kind that make children wish mama were a suffragette or a bridge fiend. But then, she has had a singularly happy training for the part. She has a five-year-old boy of her own; for several years she traveled with a circus; and thirdly, last year she was a Teddy Bear in "Chin Chin." Her husband is the leader of the hilarious "Brown Brothers."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1855,7 +1856,7 @@ he was glad to get back&#8212;that his home in England hadn't looked nearly so g
 
 <cb n="1"/>
 
-<figure n="portrait">
+<figure n="photograph">
 <head></head>
 <ab n="credit">From <hi rend="italic">Martin Luther, the Man and His Work</hi></ab>
 <p>After Martin Luther had helped Katharine von Bora to escape from the convent where she was a nun, he found that there is such a thing as letting well enough alone. Katharine refused all the husbands whom he urged upon her, and at last he was forced to the expedient of marrying her himself.</p>
@@ -2225,7 +2226,7 @@ thousand to close our little deal, right now."</p>
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2234,7 +2235,7 @@ thousand to close our little deal, right now."</p>
 <text type="nonfiction" xml:id="ohara.19180406.jump">
 <body>
 
-<p rend="jumpline"><ref target="ohara.19180406">Henry Ford&#8212;<hi rend="italic">Concluded from page 5</hi></ref></p>
+<head type="main">Henry Ford&#8212;</head><p rend="jumpline"><ref target="ohara.19180406"><hi rend="italic">Concluded from page 5</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2365,7 +2366,7 @@ established there the plant for his tractors, which are playing a part in the bi
 <p></p>
 <figDesc>Advertisement for G. &amp; C. Merriam Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2525,7 +2526,7 @@ another asked where she could send us a dozen tomato plants.</p>
 <p></p>
 <figDesc>Advertisements for California Farm Lands, Personal, Corporations, Song Poems, Help Wanted, Help Wanted&#8212;Female, Games and Entertainments, Female Help Wanted, Song Poems, Song Writers Wanted, Farms For Sale, Help Wanted&#8212;Male, Help Wanted, Inventions, Photoplays, News Correspondents, Short Stories, Manuscripts Wanted, and Photoplays, Stories, Etc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2596,14 +2597,14 @@ another asked where she could send us a dozen tomato plants.</p>
 <p></p>
 <figDesc>Advertisement for Channell Chemical Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="lee.19180406.jump">
 <body>
 
-<p rend="jumpline"><ref target="lee.19180406">Jim Eagan's Draft&#8212;Continued from page 9</ref></p>
+<head type="main">Jim Eagan's Draft&#8212;</head><p rend="jumpline"><ref target="lee.19180406">Continued from page 9</ref></p>
 
 <cb n="1"/>
 
@@ -2890,7 +2891,7 @@ water gurgling in the channel. After a time the moon rose and shone into the roo
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2931,7 +2932,7 @@ was a born leader. He became one of the most eloquent lawyers of the day. It is 
 <head type="main">BUY YOUR FLY-PAPER EARLY</head>
 
 <figure n="cartoon"></figure>
-
+<p/>
 </body>
 </text>
 
@@ -3007,7 +3008,7 @@ was a born leader. He became one of the most eloquent lawyers of the day. It is 
 <p></p>
 <figDesc>Advertisement for Larkin Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -3022,7 +3023,7 @@ was a born leader. He became one of the most eloquent lawyers of the day. It is 
 <p></p>
 <figDesc>Advertisement for Fatima</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

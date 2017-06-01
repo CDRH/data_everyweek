@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171231">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171231</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171231</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,10 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READERS: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READERS: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -115,7 +116,7 @@
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1218,7 +1219,7 @@ trying to tell <hi rend="italic">him</hi> what it meant, and, pointing to Bram a
 <p>YES, this is a bathing suit and not a costume for the Midnight Frolic, because (1) the young lady hasn't any heels on her shoes and (2) in her bag (on the stick) there is knitting for a sailor. Would a man appear on the beach in "a baby blue bodice laced with Nile green velvet, a bustle effect in the Cleopatra drape, worn with pink silk socks and slippers"? No, sir. What with the draft and everything, men are too popular as it is.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1300,7 +1301,7 @@ trying to tell <hi rend="italic">him</hi> what it meant, and, pointing to Bram a
 <p>THE last thing that Peter Hanson saw was a flash of lightning twenty years ago, an old injury to his eyes resulting in the loss of his sight. Two years later, however, he moved into his completed house&#8212;which he has never seen, though the shingling and much of the other work was done by him with his own hands. In the winter he rises at 4:40 and takes care of a dozen furnaces before breakfast: in the summer he is a gardener, and a good one. Incidentally, he is one of the best read men in his section. Now, for goodness sake, read this page again, quit kicking, and do something.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1352,7 +1353,7 @@ trying to tell <hi rend="italic">him</hi> what it meant, and, pointing to Bram a
 <p>MISS MARGARET ROBINSON is one of Los Angeles' most successful probation officers, and incidentally a very able politician. She has, they tell you out there, tact, humor, and infinite patience with human frailty. "I like politics," she says frankly, "because it's the one place where they can't Jim Crow you."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1539,7 +1540,7 @@ eyes were on it as he took the tress from her fingers. Was it conceivable that t
 
 <cb n="1"/>
 
-<figure type="photograph"></figure>
+<figure n="photograph"></figure>
 
 <p>NEXT time you hear some one sighing for the lost opportunities of youth, tell them about this man. He is William S. Hooser of Los Angeles, and after starting in on the alphabet at seventy-five, he is now, at eighty-one, taking private 
 
@@ -2074,7 +2075,7 @@ consideration the same problem. The solution, I feel, does not only mean the app
 <text type="nonfiction" xml:id="bruce.19171231.jump">
 <body>
 
-<p rend="jumpline"><ref target="bruce.19171231">What Makes Men Brave?&#8212;<hi rend="italic">Continued from page 3</hi></ref></p>
+<head type="main">What Makes Men Brave?&#8212;</head><p rend="jumpline"><ref target="bruce.19171231"><hi rend="italic">Continued from page 3</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2197,7 +2198,7 @@ factory. The mothers of the very young ones have ten minutes every three hours i
 <text type="fiction" xml:id="child.19171231.jump">
 <body>
 
-<p rend="jumpline"><ref target="child.19171231">Faith&#8212;<hi rend="italic">Continued from page 7</hi></ref></p>
+<head type="main">Faith&#8212;</head><p rend="jumpline"><ref target="child.19171231"><hi rend="italic">Continued from page 7</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2386,7 +2387,7 @@ said comfortably. "You will go at once from here to her house, and ask for her. 
 <p></p>
 <figDesc>Advertisement for Exora Face Powder</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2422,7 +2423,7 @@ said comfortably. "You will go at once from here to her house, and ask for her. 
 <p></p>
 <figDesc>Advertisement for Arizona Farm Lands, Business Chances, Personal, Agents Wanted, Female Help, Corporations, Help Wanted&#8212;Female, Rosicrucian Brotherhood, Jewelry, Female Help Wanted, News Correspondents, Photoplays, Short Stories, Manuscripts Wanted, Photoplays, Stories, Etc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2530,7 +2531,7 @@ husbands;	and there Elizabeth Fry listened to many a debate on prison reform. A 
 <p>"Did you hear? Der Red Cross iss grafting? Ain'd it too bad dey should sell sweaters dot iss meant to giff avay?"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2684,7 +2685,7 @@ a storage battery should under no circumstances be allowed to stand for any leng
 <p></p>
 <figDesc>Advertisement</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2699,7 +2700,7 @@ a storage battery should under no circumstances be allowed to stand for any leng
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

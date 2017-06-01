@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180302">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180302</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180302</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -81,10 +82,10 @@
 <titlePage>
 <docTitle>
 <note>NOTICE TO READER:</note>
-<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5 Cts.</titlePart>
-</docTitle>
+<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note></docTitle>
 <docEdition></docEdition>
 <docImprint>
 <publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
@@ -109,69 +110,69 @@
 <text>
 <body>
 
-<figure>
+<figure n="advertisement">
 <head>It's the Blade that Does the Work</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Gem Damaskeene Razor Blades</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>Deafness is Misery</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for A. O. Leonard</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>Wanted&#8212;Your Idea</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Richard B. Owen, Patent Lawyer</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>Patents That Protect and Pay</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Watson E. Coleman, Patent Lawyer</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>One Man Bought 40 Copies</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Every Week&#8212;Book Department</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>O-Cedar Polish</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Channell Chemical Co.</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>"Old Town Canoes"</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Old Town Canoe Co.</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>Protect Your Walls</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Moore Push-Pin Co.</figDesc>
 </figure>
 
-<figure>
+<figure n="advertisement">
 <head>Clear Your Throat with Zymole Trokeys</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Frederick Stearns &amp; Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -246,13 +247,13 @@
 <text>
 <body>
 
-<figure>
+<figure n="advertisement">
 <head>HEBE</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for The Hebe Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -261,13 +262,13 @@
 <text>
 <body>
 
-<figure>
+<figure n="advertisement">
 <head>15,000,00 Lucky Strike Cigarettes a Day&#8212;and Growing!</head>
 <ab n="credit"></ab>
 <p></p>
 <figDesc>Advertisement for Lucky Strike Cigarettes</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -531,7 +532,7 @@ looked wise for a while, and then replied: "Well, your protest is placed on file
 
 <p>Don't write any unnecessary letters, nor put anything on paper that you are not perfectly willing should come back to you. Don't write anything unofficially that should be not written officially.</p>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit">© Harris &amp; Ewing</ab>
 <p>Admiral McGowan is as young and firm around the jaw as he looks. He runs an office the way he runs a ship&#8212;decks cleared for action and every man on his job.</p>
@@ -641,7 +642,7 @@ numbers of the various kinds of injuries per 1000 wounded men:</p>
 <p>AMERICAN APPLICANT FOR ENLISTMENT: Rejected, am I? Physically unfit, am I?</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1070,7 +1071,7 @@ course. No one is supposed to know that they are going to sail soon, but every o
 <p></p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1152,7 +1153,7 @@ course. No one is supposed to know that they are going to sail soon, but every o
 <p>DICK HOBLITZELL is a sure-enough dentist in Cincinnati. Dick used to play with the Reds, but they released him and he caught on in Boston. Any reader desiring to make himself immune from the draft is advised to try the following method. Seat yourself firmly in Doctor Hoblitzell's chair and say sweetly, "Dick, why did the Reds tie the can to you?" When the reader wakes up he will not have enough teeth in his mouth to chew the army brand of condensed milk.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1204,7 +1205,7 @@ course. No one is supposed to know that they are going to sail soon, but every o
 <p>CAPTAIN WILLIAM BANNING and his three brothers made a slight mistake one afternoon. They carelessly sold 150 lots on Catalina Island to some folks. The Captain has regretted it ever since, but it's too late. He and his brothers have lost those lots forever. They must worry along with the ownership of the rest of the island, and the hotel, and the summer camp, and the band, and the bandstand, and the boats that take folks to and from. If the Captain hadn't sold those lots, he could have Catalina secede from the United States and crown himself king.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1845,7 +1846,7 @@ married ones seem slight to me. There is but one trouble for which there is no c
 <p>Your store will not stand empty if with the goods you mix a reasonable proportion of old-fashioned brains. A Los Angeles dealer in electric fixtures wanted to draw folks in for his bargained day. He displayed the bargains in his window, and ran a red ribbon from each one to the window glass. On the outside of the window red paint of the color of the ribbons was carried down to the sidewalk, and over the sidewalk to the curb. The stripes of paint caught the customers' eyes, carried them to the window, and into the store.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1907,7 +1908,7 @@ married ones seem slight to me. There is but one trouble for which there is no c
 <p></p>
 <figDesc>Advertisement for Lacey &amp; Lacey</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2038,7 +2039,7 @@ Cabinet officer of more surplus worries than any bureau chief or major-general t
 <p></p>
 <figDesc>Advertisement for California Farm Lands, Farm Lands, Agents Wanted, Corporations, Agents Wanted, Song Poems, Help Wanted, Short Stories Wanted, Female Help Wanted, Michigan Farm Lands for Sale, Help Wanted&#8212;Female, Song Poems, Short Stories, Manuscripts Wanted, Photoplays, Photoplays, Stories, Etc., News Correspondents, and Salesmen</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2088,7 +2089,7 @@ Cabinet officer of more surplus worries than any bureau chief or major-general t
 <p></p>
 <figDesc>Advertisement for G. &amp; C. Merriam Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2230,7 +2231,7 @@ was not that she loved him more than the others, but that he came in her old age
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2418,7 +2419,7 @@ particular business. Moreover, the businesses in which they are employed are mak
 <p></p>
 <figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2433,7 +2434,7 @@ particular business. Moreover, the businesses in which they are employed are mak
 <p></p>
 <figDesc>Advertisement for Columbia Graphophone Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

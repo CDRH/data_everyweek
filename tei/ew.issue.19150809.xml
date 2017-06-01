@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19150809">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19150809</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19150809</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -261,7 +262,7 @@ Every Week<lb/>
 
 Aug. 9, 1915</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -427,7 +428,7 @@ must not escape my eye, for by them I judge a girl. They must be small, but not 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -477,7 +478,7 @@ on the journey down the coast, petting and feeding them.</p>
 <p>Because this hotel is in Yuma, Arizona, no one has ever been able to take advantage of the sign, "Free Board Every Day the Sun Doesn't Shine." It always has.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1207,7 +1208,7 @@ capacity has no business where sick or wounded are." Thereupon she went to Presi
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1241,7 +1242,7 @@ capacity has no business where sick or wounded are." Thereupon she went to Presi
 <p>Mrs. E. H. Harriman is the widow of one of the hardest worked men that America has ever known.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1272,7 +1273,7 @@ capacity has no business where sick or wounded are." Thereupon she went to Presi
 <p>These young ladies, the Pavlowas and Maud Allans of the future, are getting their training in toe-dancing and pirouetting in an old ball-room in the back of a house on East Sixteenth Street. Madame Elizabetta Menzeli, their instructor, was a famous ballerina herself, and was the premiere danseuse in many of the royal theaters of Europe. She is the biggest authority on the ballet in this country, and in this old school of hers she has trained Gertrude Hoffman, Ruth St. Denis, Maud Allan, La Belle Dazie, and many others.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1742,7 +1743,7 @@ dollars for three lectures at the same meeting. Out of these fees she paid her o
 <figDesc>Advertisement for Page-Davis</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2054,7 +2055,7 @@ hurt&#8212;and Mr. Hahn. Now, she was only a poor little woman, but if we would 
 <p></p>
 <figDesc>Advertisement for Corporations.</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  
@@ -2247,7 +2248,7 @@ theological education, he became minister of one of the largest churches in Bost
 </figure>
 
 
-
+<p/>
 </body>
 </text>
 
@@ -2340,7 +2341,7 @@ SEND NO MONEY NOW
 <figDesc>Advertisement for The Mentor Association</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 </group>

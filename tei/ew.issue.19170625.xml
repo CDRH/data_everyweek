@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170625">
 <teiHeader>
 <fileDesc>
@@ -15,7 +15,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170625</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -31,6 +31,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170625</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -154,7 +155,7 @@
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Co.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
     
@@ -193,6 +194,20 @@ Find It Afterward</head>
 </text>
 
 <pb n="Page 3" xml:id="ew.issue.19170625.p003" />
+
+<text type="advertisement" xml:id="bdv.19170625">
+<body>
+
+<figure n="advertisement">
+<head>Every Day's A Holiday in Cool B.V.D</head>
+<p></p>
+<figDesc>Advertisement for The B.V.D Company</figDesc>
+</figure>
+<p/>
+</body>
+</text>
+
+<pb n="Page 4" xml:id="ew.issue.19170625.p004" />
 
 <text type="flag">
 <body>
@@ -332,7 +347,8 @@ because he was a Texas negro, and did not suspect that any one ever really used 
 <p>This irked him somewhat; but he was
 
 <pb n="Page 6" xml:id="ew.issue.19170625.p006" />
-<figure>
+
+<figure n="illustration">
 <p>"It was a sidewise, glancing blow, and it only upset Mr. Mosher's balance and knocked off his stylish hat."</p>
 </figure>
 
@@ -834,7 +850,7 @@ from my hiding-place, the preparations for departure, pride and timorousness had
 <p>ONE morning Julius Lewis closed down his desk and went to the beach. There he was introduced to Miss Anna Rabinowitz. A few days later the young lady was employed as stenographer in the office where Lewis worked. At 11:50 A. M. Lewis proposed to her: at 12 M. they were on their way to City Hall in a taxicab. This concludes our page, which we published at the request of a young woman reader in Derby, Connecticut, who wrote us that a young man in that town had been wasting the electric light in her parlor for four years without getting anywhere. Our policy is to help our readers: we trust, Marian, that this works.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -917,7 +933,7 @@ from my hiding-place, the preparations for departure, pride and timorousness had
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -965,7 +981,7 @@ will be depositor Number l: and we think we can bring at least fifty other men e
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1613,7 +1629,7 @@ one who has heard it ever forgets the low, moving melody. When she was playing i
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2201,7 +2217,7 @@ First farm mortgages and real estate bonds are not subject to fluctuations in va
 <p></p>
 <figDesc>Advertisement for Crowell Publishing Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2215,7 +2231,7 @@ First farm mortgages and real estate bonds are not subject to fluctuations in va
 <p></p>
 <figDesc>Advertisement for The Coca-Cola Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171105">
 <teiHeader>
@@ -16,7 +16,6 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171105</idno>
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +31,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171105</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -83,6 +83,7 @@
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READER: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -170,7 +171,7 @@
 <p></p>
 <figDesc>Advertisement for U. S. Leather Goods Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -240,7 +241,7 @@
 </body>
 </text>
 
-<pb n="Page 3" xml:id="ew.issuse.19171105.p003"/>
+<pb n="Page 3" xml:id="ew.issue.19171105.p003"/>
 
 <text>
 <body>
@@ -251,7 +252,7 @@
 <p></p>
 <figDesc>Advertisement for Harold Lachman Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1137,11 +1138,11 @@ He had never seen a woman cry so before. Did girls always act this way when they
 <p>YOU have heard the military phrase over the top." We present above the first authentic picture showing how this military man&#339;uver is executed. Also, at the left, ladies and gentlemen, the greatest recruiting poster ever conceived. It is entitled "Hurrah for Annexations and Freedom of the Seize."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
-<pb n="Page 12" xml:id="ew.issue19171105.p012"/>
+<pb n="Page 12" xml:id="ew.issue.19171105.p012"/>
 
 <text type="photograph" xml:id="kings.19171105">
 <body>
@@ -1212,7 +1213,7 @@ He had never seen a woman cry so before. Did girls always act this way when they
 <p>GLADSTONE called the Sultan Abdul Humid II of Turkey the "Great Assassin," and nobody ever sued the English statesman for libel on this account. Knowing no rule but his own greed, Abdul Hamid instigated the Armenian massacres, and, on his part, lived in such fear of his life that every light in the palace had to burn all night. One man at least must have rejoiced when the Young Turk party finally deposed him. That was the Official Taster, who had to try all of his Majesty's dishes to find out whether they bad been poisoned?</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1264,7 +1265,7 @@ He had never seen a woman cry so before. Did girls always act this way when they
 <p>MISS ANTOINETTE DONNELLY, alias Doris Blake, of the Chicago <hi rend="italic">Tribune</hi>, is the high priestess of Chicago's love secrets. Does Mary, age sixteen and three months, want to know whether boys are likely to fall in love with curly locks and brown eyes? She writes to Doris Blake about it. Does a lonely bachelor want recipes for making ladies love a fat man? Doris has them ready to slip into the stamped envelop. Nearly all the lonely men in the Middle West have written to her: and, now that her picture has been printed, we have an idea she'll hear from the rest.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1382,7 +1383,7 @@ He had never seen a woman cry so before. Did girls always act this way when they
 <p></p>
 <figDesc>Advertisement for Chesterfield Cigarettes</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1568,7 +1569,7 @@ in the house that was peculiarly his own was called by him his office.</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1699,7 +1700,7 @@ in the house that was peculiarly his own was called by him his office.</p>
 <p></p>
 <figDesc>Advertisement for Alexander Hamilton Institute</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1763,7 +1764,7 @@ in the house that was peculiarly his own was called by him his office.</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1888,7 +1889,7 @@ statistical tables in substantiation of its case. A few examples will make the w
 <p></p>
 <figDesc>Advertisement for Pelton Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2041,7 +2042,7 @@ cause actual sickness, enfeeble constitutions, particularly of the older men, an
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2122,7 +2123,7 @@ eliminating the margin for initiative. "What is the use?" he may ask himself at 
 <p></p>
 <figDesc>Advertisement for Lucky Strike</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2151,14 +2152,14 @@ eliminating the margin for initiative. "What is the use?" he may ask himself at 
 <p></p>
 <figDesc>Advertisements for Corporations, Song Poems, Agents Wanted, Agents, Help Wanted&#8212;Female, Help Wanted&#8212;Male, News Correspondents, Photoplays, Personal, Business Opportunities, Song Poems, Female Help Wanted, Salesmen, Photoplays, Stories, Etc., and Short Stories, Manuscripts Wanted</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="brown.19171105.jump">
 <body>
 
-<p rend="jumpline"><ref target="brown.19171105">The Last of the Line&#8212;Continued from page 7</ref></p>
+<head type="main">The Last of the Line&#8212;</head><p rend="jumpline"><ref target="brown.19171105">Continued from page 7</ref></p>
 
 <cb n="1"/>
 
@@ -2385,7 +2386,7 @@ have thought of nothing but your letter. When I first got it I wanted to shout w
 <p></p>
 <figDesc>Advertisement for The Century Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2400,11 +2401,10 @@ have thought of nothing but your letter. When I first got it I wanted to shout w
 <p></p>
 <figDesc>Advertisement for Woodbury's Facial Soap</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 </group>
 </text>
 </TEI>
-

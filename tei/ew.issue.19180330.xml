@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180330">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180330</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180330</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,11 +81,11 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER</note>
-<note>Place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5 Cents</titlePart>
-</docTitle>
+<note>NOTICE TO READER</note>
+<note>Place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note></docTitle>
 <docEdition></docEdition>
 <docImprint>
 <publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
@@ -130,7 +131,7 @@
 <p></p>
 <figDesc>Advetisement for The Crowell Publishing Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -207,7 +208,7 @@
 <p></p>
 <figDesc>Advertisement for The Oliver Typewriter Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -560,7 +561,7 @@ all day in the bushes and undergrowth. It's lucky for me that I grew up in the c
 <p></p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1150,7 +1151,7 @@ receiving the fruit from the drivers, checking it, piling it on the platform, an
 <p>NOT long since, a manufacturing concern turned out four thousand pairs of women's overalls as a war-time garb. And, having done it, the manufacturers discovered that the women wouldn't: that you can lead a woman to overalls, but you can't make her put them on. Then up popped Miss Lillian Cullen, who applied for a job and got it. She put on a pair of overalls, wore them in her calls on prospective customers, wore them on Pullmans and in hotels. "She has her nerve," said the ladies in unison: but the four thousand pairs were sold long ago, just the same.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1239,7 +1240,7 @@ receiving the fruit from the drivers, checking it, piling it on the platform, an
 <p>AND now, after all these centuries of ladies' evolution and revolutions, what a shock it is to find that, given a moon and the right man, she is (see Mary Roberts Rinehart's "Bab" on the left) very much the same young lady, after all!</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1291,7 +1292,7 @@ receiving the fruit from the drivers, checking it, piling it on the platform, an
 <p>WE do not use profanity in this publication: therefore, the nearest we can approach to the title of this picture is "The Public Be Annoyed." It is a powerful, gripping, magnificent, stupendous exposé of the traffic in foodstuffs. How grateful we should be to this picture. How the prices of potatoes, sugar, coal, and sliced pineapple have tumbled since its appearance. (Sarcasm).</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1717,7 +1718,7 @@ Philippines and had ridden out on punitive expeditions against the Moros in the 
 <p>FEW Americans have ever heard of W. T. Dannat; but the imaginative panels and Spanish studies of the former New Yorker are already hoarded treasures in the Paris galleries. Dannat won his first medal in 1883 in the Paris Salon, and has successively won the Paris Exposition medal; the rank of chevalier, officer, and finally commander of the French Academy; and, finally, the Legion of Honor. Has he forgotten America? Never! And some day America will remember him.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1799,7 +1800,7 @@ Philippines and had ridden out on punitive expeditions against the Moros in the 
 <p>FAR too many cats abound, in both city and country, who yield no allegiance to man and obtain their food by foraging. Such feckless tabbies are inexcusable. They carry disease, and are an all-round nuisance, and by their looks one can not imagine that they ever have known a happy day. Slack pound laws and irresponsible owners who desert their pets are to blame for this homeless brood for which all respectable felines blush.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1851,7 +1852,7 @@ Philippines and had ridden out on punitive expeditions against the Moros in the 
 <p>WHY should we have to put up with bad weather, asked Mr. and Mrs. Robins, when the feathered members of the same family live in sunshine all the year round? Hence this truck-home. Inside, a complete job printing outfit, with which the Robinses make expenses; also a bed, a water-tank, a kitchenette, electric lights, a book-case, a phonograph with records, and even a few growing plants. As the final efficient touch, note the gloved hands at right and left of the hood, so that the Robinses can signal their turnings without getting their fingers cold.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2222,7 +2223,7 @@ having no trades work on the farm or in shops where skilled labor is not require
 <div1>
 <head type="sub">A LITTLE HOUSE IN MESOPOTAMIA</head>
 
-<figure n="photographs">
+<figure n="photograph">
 <head></head>
 <ab n="credit"></ab>
 
@@ -2308,7 +2309,7 @@ health was the presence of these coffins in Yenping. The magistrate had a census
 <p></p>
 <figDesc>Advertisement for Swift's Premium Ham</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2317,7 +2318,7 @@ health was the presence of these coffins in Yenping. The magistrate had a census
 <text type="nonfiction" xml:id="harrington.19180330.jump">
 <body>
 
-<p rend="jumpline"><ref target="harrington.19180330">SPIES!&#8212;<hi rend="italic">Concluded from page 5</hi></ref></p>
+<head type="main">SPIES!&#8212;</head><p rend="jumpline"><ref target="harrington.19180330"><hi rend="italic">Concluded from page 5</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2416,7 +2417,7 @@ time decided&#8212;but by blood and iron."</p>
 <p></p>
 <figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2487,7 +2488,7 @@ time decided&#8212;but by blood and iron."</p>
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2718,7 +2719,7 @@ New York, live quietly, and trouble nobody. Perhaps I shall evolve from my own e
 <p></p>
 <figDesc>Advertisement for Montgomery Ward &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2733,7 +2734,7 @@ New York, live quietly, and trouble nobody. Perhaps I shall evolve from my own e
 <p></p>
 <figDesc>Advertisement for Columbia Graphophone Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

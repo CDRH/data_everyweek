@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180202">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180202</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180202</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,11 +81,12 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER:</note>
-<note>Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READER:</note>
+<note>Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -96,7 +98,7 @@
 <figure n="illustration">
 <head type="main"></head>
 <p></p>
-<ab type="credit">INTOM OTTO FISCHER 17</ab>
+<ab type="credit">ANTON OTTO FISCHER 17</ab>
 <figDesc></figDesc>
 </figure>
                 
@@ -1476,7 +1478,7 @@ her eyes no shadow of joy was reflected.</p>
 <p>JOHN JOHNSON'S crock of gold was a home of his own. He was a skilled carpenter, and after buying a lot on the instalment plan he built his house evenings, sometimes exchanging labor with neighbors who were masons and plumbers when it came to the parts of the job outside his line. It took him three years; but now he has his crock in the shape of a house and lot worth more than $2500.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1528,7 +1530,7 @@ her eyes no shadow of joy was reflected.</p>
 <p>WE know it's an unpleasant picture, but it's hard to find pleasant pictures with which to illustrate the unpleasant subject of drink. And the most unpleasant feature of all is that the heaviest burden is visited on the innocent&#8212;the children that alcoholic parents bring into the world. 52,000,000 bushels of barley, 42,000,000 bushels of corn, and 12,000,000 bushels of rice used every year in the manufacture of alcoholic liquors occupy 3,000,000 acres that ought to go for food.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2295,7 +2297,7 @@ to go on; and an equal number from folks who are sure I know nothing to lend spi
 <p></p>
 <figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2304,7 +2306,7 @@ to go on; and an equal number from folks who are sure I know nothing to lend spi
 <text type="fiction" xml:id="balmer.19180202.jump">
 <body>
 
-<p rend="jumpline"><ref target="balmer.19180202">Helpmates&#8212;Concluded from page 8</ref></p>
+<head type="main">Helpmates&#8212;</head><p rend="jumpline"><ref target="balmer.19180202">Concluded from page 8</ref></p>
 
 <cb n="1"/>
 
@@ -2518,7 +2520,7 @@ heart of a guinea-pig, and, linking it with the coronary circulation of a live a
 <p></p>
 <figDesc>Advertisement for Harold Lachman Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2661,7 +2663,7 @@ about not feeling well. He told me that he thought sleeping under a tent for sev
 <p></p>
 <figDesc>Advertisement for Sanatogen</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2676,7 +2678,7 @@ about not feeling well. He told me that he thought sleeping under a tent for sev
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2921,7 +2923,7 @@ timber and ore is alone sufficient to pay off your bonds at par. Of course, that
 <p></p>
 <figDesc>Advertisement for Watson E. Coleman</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2936,7 +2938,7 @@ timber and ore is alone sufficient to pay off your bonds at par. Of course, that
 <p></p>
 <figDesc>Advertisement for Peter Henderson &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

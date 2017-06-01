@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171203">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171203</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171203</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,11 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READER: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -122,14 +124,14 @@
 <p></p>
 <figDesc>Advertisement for The Lionel Mfg. Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="nonfiction" xml:id="barton.19171203">
 <body>
 
-<head>Be Good to Yourself, This Christmas, by Being Good to Some One Else</head>
+<head type="main">Be Good to Yourself, This Christmas, by Being Good to Some One Else</head>
 
 <p>A CERTAIN man whom I know set out many years ago to become rich.</p>
 
@@ -1751,7 +1753,7 @@ been especial bitterness toward myself. I have no defense of myself to make. It 
 <p>"THESE pictures," says the producing company, "show the final word in patience and ingenuity in the animation of dolls before the camera." And some worthy gentleman tried to explain to us how it originally took the miller's son in "Puss in Boots" three hours to kiss the Princess' hand. Stuff and nonsense! say we. The miller's son wasn't that kind of a fellow; Puss would never have picked him for the Princess if he had been as slow as all that. Producing companies have their uses, but they know very little about human nature.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1833,7 +1835,7 @@ been especial bitterness toward myself. I have no defense of myself to make. It 
 <p>MISS HALLIE M. DAGGETT, of California, is the only woman forest fire lookout in the United States. On a lonely peak, six thousand feet above the sea, Miss Daggett sits watching for the first bit of smoke that may mean possible destruction to thousands of dollars' worth of timber. It is a lonely job, and the government hesitated to give it to a woman on that account. But Miss Daggett has done it so well that it is proposed to appoint other women to similar jobs, and we have two names to suggest, which we will do privately to the government if we are assured that they will be kept just as lonely, or more so.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1885,7 +1887,7 @@ been especial bitterness toward myself. I have no defense of myself to make. It 
 <p>EVER since Dorothy Revere was married two years ago, she has put in most of her time worrying about her husband. Frank, at the time, was earning the family bread and butter by going up in balloons at county fairs and jumping off. Later he went to France, and, finding the war too safe and quiet, became a Swiss mountain guide. At present he drives automobiles across chasms for the delight of motion-picture enthusiasts.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1900,7 +1902,7 @@ been especial bitterness toward myself. I have no defense of myself to make. It 
 <p></p>
 <figDesc>Advertisement for L. C. Chase &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2046,7 +2048,7 @@ reported that the American housewife still baked plenty of bread. But with small
 <p></p>
 <figDesc>Advertisement for Chas. Meyer</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2061,7 +2063,7 @@ reported that the American housewife still baked plenty of bread. But with small
 <p></p>
 <figDesc>Advertisement for Parker Pen Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2125,7 +2127,7 @@ reported that the American housewife still baked plenty of bread. But with small
 <p></p>
 <figDesc>Advertisement for Lancaster &amp; Allwine</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2297,7 +2299,7 @@ yet he insisted on flying anyway and would not take a rest. Since the war he nev
 <p></p>
 <figDesc>Advertisement for Liggett &amp; Myers Tobacco Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2404,7 +2406,7 @@ but hope to be in Paris in a couple of days</p>
 <p></p>
 <figDesc>Advertisement for Apollo Institute of Music</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2419,7 +2421,7 @@ but hope to be in Paris in a couple of days</p>
 <p></p>
 <figDesc>Advertisement for Smith Brothers' S.B. Cough Drops</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2603,7 +2605,7 @@ turn to the right or the left, as you saw fit.</p>
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2618,7 +2620,7 @@ turn to the right or the left, as you saw fit.</p>
 <p></p>
 <figDesc>Advertisement for Eastman Kodak Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2633,7 +2635,7 @@ turn to the right or the left, as you saw fit.</p>
 <p></p>
 <figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

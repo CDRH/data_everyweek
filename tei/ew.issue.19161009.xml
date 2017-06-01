@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161009">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161009</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161009</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 15</biblScope>
+<biblScope n="volume">Vol. 3</biblScope>
+<biblScope n="number">No. 15</biblScope>
 <extent>24 pages</extent>
 <date when="1916-10-09">October 9, 1916</date>
 </bibl>
@@ -134,7 +135,7 @@
 <p></p>
 <figDesc>Advertisement for Seaboard Air Line Railway Company.</figDesc>
 </figure>   
-    
+<p/>
 </body>
 </text>
     
@@ -211,7 +212,9 @@
 <p></p>
 <figDesc>Advertisement for Hartman Furniture &amp; Carpet Co.</figDesc>
 </figure>
+<p/>
 </body>
+
 </text>
 
 <pb n="Page 4" xml:id="ew.issue.19161009.p004" />
@@ -248,7 +251,7 @@
 <p>SAID an Englishman: "The huddled beauty of these buildings and the still, silver expanse of the water seemed unreal. Then I looked down at the water immediately beneath me and knew that New York was a real city. All kinds of refuse went floating by." It's the city where some of its five million citizens go on strike for three months to get a 25-cent raise, and others pay $100,000 for an opera box.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
  
@@ -1078,7 +1081,7 @@ natural for one to smile over a matter as serious as that. After all, even if Te
 <p>THIS is "Sam" Jordan, of Pettis County, Missouri, county farm advisor. On the table before him is a handful of oats. "Sam" Jordan believed that the reason men growl at their stenographers in the morning is because their breakfast food does not digest well. He induced the farmers or the Middle West to raise a better and purer brand of oats, which brand is now being used by many of the breakfast food companies. Hence the kind words from the boss, Nellie, instead of the old "Take note Jones. Write quick. Two carbons."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1160,7 +1163,7 @@ natural for one to smile over a matter as serious as that. After all, even if Te
 <p>"I thought a husband would be an awful, wonderful, beautifully disturbing creature, who would bring adventure, color, romance into my life!" exclaims one Mrs. Billy Bartlett down-heartedly, for the 400th consecutive time to-night in "Fair and Warmer." Whereupon Madge Kennedy enters in this frock and makes the Fair and Warmer cocktail, which thickens the plot all up.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1219,7 +1222,7 @@ natural for one to smile over a matter as serious as that. After all, even if Te
 <p>MME. ALONZO raised d'Artagnan from a cub, side by side with the dog Don, and both animals are now eight years old. Will Mme. Alonzo's beloved d'Artagnan "go bad," as lions are apt to, when he reaches the "dangerous age" of ten? It is told that one trainer had his head literally in his lion's mouth (it was his specialty), when the sixth sense which all trainers have told him that his beast had "gone bad." He drew out his head slowly, and got away with all of it except a small piece of chin. But that animal could never be put through his act again. No animal can who has once "gone bad."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2337,7 +2340,7 @@ the table. "What do you mean?" she snarled.</p>
 <figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
 </figure>
     
-<pb n="Page 23" />
+<pb n="Page 23" xml:id="ew.issue.19161009.p023" />
     
 <cb n="1"/>
 
@@ -2526,7 +2529,7 @@ briefly, turning from the telephone. "Please sit down, Miss Carroll."</p>
 <p></p>
 <figDesc>Advertisement for S. C. Johnson &amp; Son.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 </group>

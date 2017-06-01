@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180105">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180105</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180105</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -272,7 +273,7 @@ is never seen to stagger is likely, in the long run, to be even more poisoned th
 <p></p>
 <figDesc>Advertisement for The Oliver Typewriter Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1121,7 +1122,7 @@ No. 2, and a plate of No. 17." And a few minutes later the waiter appears with i
 <byline>By <persName type="author" key="#Ford, Sewell">SEWELL FORD</persName></byline>
 <byline>Illustrations by <persName type="illustrator" key="#Brown, Arthur William">Arthur William Brown</persName></byline>
 
-<figure type="illustration">
+<figure n="illustration">
 <head></head>
 <ab n="credit">ARTHUR WILLIAM BROWN</ab>
 <p>"'Who ever heard,' says I, 'of a goulash poet in a braid-bound cutaway and spats? Say, it's a wonder they let you live south of the Arch.'"</p>
@@ -1360,7 +1361,7 @@ scenery as has Washington in Rock Creek Park and the many woods that stretch alo
 <p><hi rend="italic">GRRRR</hi>&#8212;flying fur, and a Gates Ajar done in carnations. This is what we thought happened when one big human lion met another same. From these two lions&#8212;being in the same line of business and everything&#8212;you might expect a little temperament. But no, it's evident that Mr. Wilson and Mr. Taft are as chatty as you and I.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1412,7 +1413,7 @@ scenery as has Washington in Rock Creek Park and the many woods that stretch alo
 <p>"IT takes sand to sell sand," declares Miss Nell Vinick; and she ought to know, because for a number of years it has been her job, as sales manageress, to get rid of about 3,000 tons of sand a day; and as credit manageress, to collect the money for same. Having been sales and credit manager for some one else, Miss Vinick could see no reason why she shouldn't do the same little things for herself: hence she is about to launch into business as the manufacturer and distributor of a new shoe-cleaning product. We ask you, Miss Vinick, was it you who sold the sand to the spinach-makers?</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1988,7 +1989,7 @@ and before the amazed hooded creature could dart either to one side or the other
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2003,7 +2004,7 @@ and before the amazed hooded creature could dart either to one side or the other
 <p></p>
 <figDesc>Advertisement for Straus &amp; Schram [Inc.]</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2196,7 +2197,7 @@ and before the amazed hooded creature could dart either to one side or the other
 <p></p>
 <figDesc>Advertisement for Iowa Seed Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2211,14 +2212,14 @@ and before the amazed hooded creature could dart either to one side or the other
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="hall.19180105.jump">
 <body>
 
-<p rend="jumpline"><ref target="hall.19180105">The Snob&#8212;Continued from page 8</ref></p>
+<head type="main">The Snob&#8212;</head><p rend="jumpline"><ref target="hall.19180105">Continued from page 8</ref></p>
 
 <cb n="1"/>
 
@@ -2448,7 +2449,7 @@ publication with honesty and ability in which you could have confidence? The <hi
 <p></p>
 <figDesc>Advertisement for E. J. Lander &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2463,7 +2464,7 @@ publication with honesty and ability in which you could have confidence? The <hi
 <p></p>
 <figDesc>Advertisement for The Pompeian Mfg. Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

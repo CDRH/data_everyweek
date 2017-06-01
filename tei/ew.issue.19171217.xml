@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171217">
 <teiHeader>
@@ -16,7 +16,6 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171217</idno>
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +31,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171217</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +80,10 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READERS: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READERS: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -1399,7 +1399,7 @@ through the ice-glazed park, where so often she had loitered to look down at the
 <p>WHEN Arthuro Giovannitti, the labor poet spent seven months in Salem jail, in 1912, he got a nice little volume of poetry off his chest&#8212;"Arrows in the Gale." Arthuro's weak point is strikes. At the most critical point in a sonnet, if he hears of a strike, off he goes to assist&#8212;and ends up in jail. Just as we were sending this page to press, he went and did it again; so we feel safe in announcing the appearance of Opus II in the early spring.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1474,7 +1474,7 @@ through the ice-glazed park, where so often she had loitered to look down at the
 <p>AS to getting taught French by Lillian Russell, nothing like this was ever wafted our way in the dark days of our struggle with "The prunes of my aunt are red, but the jacket of my uncle is pink." The so very <hi rend="italic">jeune</hi> and <hi rend="italic">belle</hi> Miss Lillian is assisted in the French lesson by the so very <hi rend="italic">chic</hi> and <hi rend="italic">jolie</hi> Miss Dorothy, her daughter. For our first lesson to-day we will have: "Here is the daughter of the mother; there is the mother of the daughter. Which is the daughter of the mother? Which is the mother of the daughter?"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1526,7 +1526,7 @@ through the ice-glazed park, where so often she had loitered to look down at the
 <p>WHILE Dr. Ramon E. Ozias, on the other hand, is expected to analyze and appraise the metals brought into the United States, to determine what rate of duty they ought to pay. He is especially on the lookout for the presence or absence of vanadium in steel &#8212;vanadium being extensively used just now in the manufacture of big guns. What can we learn from this page of pictures? This very sound lesson&#8212;that if you can do some one thing better than any one else&#8212;whether it's writing poems or blacking boots&#8212;if you're the best in the business there's always a job for you, and a good one.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2089,7 +2089,7 @@ peace. She had not suffered. She had lain in a lethargy that held away sharp sor
 <p></p>
 <figDesc>Advertisement for B. L. Hamner, Gen. Dev. Agt. Seaboard Air Line Railway Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2166,7 +2166,7 @@ refused to budge with such unparalleled pertinacity that he found it necessary t
 <text type="fiction" xml:id="kelland.19171217.jump">
 <body>
 
-<p rend="jumpline"><ref target="kelland.19171217">Youth Challenges&#8212;<hi rend="italic">Continued from page 17</hi></ref></p>
+<head type="main">Youth Challenges&#8212;</head><p rend="jumpline"><ref target="kelland.19171217"><hi rend="italic">Continued from page 17</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2436,7 +2436,7 @@ him, and he sagged downward, so that his body rested on the desk.</p>
 <p></p>
 <figDesc>Advertisements for Farm Hands, California Farm Lands, Help Wanted&#8212;Male, Help Wanted&#8212;Female, News Correspondents, Photoplays, Stories, Etc., Short Stories, Manuscripts Wanted, Personal, Agents Wanted, Female Help, Song Poems, Corporations, Female Help Wanted, and Photoplays.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2451,7 +2451,7 @@ him, and he sagged downward, so that his body rested on the desk.</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2606,14 +2606,14 @@ on January 30, 1847, after living the cottage less than a year.</p>
 <p></p>
 <figDesc>Advertisement for Scout Helps</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="curwood.19171217.jump">
 <body>
 
-<p rend="jumpline"><ref target="curwood.19171217">The Golden Snare&#8212;Continued from page 4</ref></p>
+<head type="main">The Golden Snare&#8212;</head><p rend="jumpline"><ref target="curwood.19171217">Continued from page 4</ref></p>
 
 <cb n="1"/>
 
@@ -2664,7 +2664,7 @@ made his camp in the forest near Pierre Breault's cabin. In that event it might 
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2849,7 +2849,7 @@ steady course into the north. In the gray gloom, without a stone or a tree to ma
 <p></p>
 <figDesc>Advertisement for Lancaster &amp; Allwine</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2864,7 +2864,7 @@ steady course into the north. In the gray gloom, without a stone or a tree to ma
 <p></p>
 <figDesc>Advertisement for Dromedary Golden Dates</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

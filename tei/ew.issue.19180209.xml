@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180209">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180209</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180209</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -118,19 +119,19 @@
 <p></p>
 <figDesc>Advertisement for Shredded Wheat</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="nonfiction" xml:id="barton.19180209">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p></p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">Why Not Run Our Governments the Way We Run Our Jobs?</head>
 
 <p>PROBABLY each of us has his own pet reform which he hopes to see realized in that blessed period "after this war."</p>
@@ -200,7 +201,7 @@
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -214,7 +215,7 @@
 <p></p>
 <figDesc>Advertisement for Liggett &amp; Myers Tobacco Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -236,6 +237,7 @@ $1.00 per Year<lb/>
 5 Cents a Copy</p>
 </figure>
 <note>Published weekly by The Crowell Publishing Company, at Springfield, Ohio. Entered at the Post Office at Springfield, Ohio, as Second Class Matter.</note>
+<p/>
 </body>
 </text>
 
@@ -572,7 +574,7 @@ though not by French or British. We saw the traces as we passed. Which leads me 
 <p>Girl soldiers from Botchkareva's Battalion of Death, at their wrestling exercises.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1059,7 +1061,7 @@ and tried to pull it to where it would brain Salvatore as he passed with his bar
 <p>"That government of the people, by the people, for the people, shall not perish from the earth."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1133,7 +1135,7 @@ and tried to pull it to where it would brain Salvatore as he passed with his bar
 <p>WHO was in the crowd of cut-ups, fifty years ago, that took Mme. Patti's horses out of their shafts, and drew the diva two miles to her hotel? Ask granddaddy; he knows. So numerous were the presents of jewels received by Mme. Patti her first winter in New York that years later many of them were still sewed to their satin cases.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 <pb n="Page 14" xml:id="ew.issue.19180209.p014" />
@@ -1195,7 +1197,7 @@ and tried to pull it to where it would brain Salvatore as he passed with his bar
 <p>WHEN they asked Lincoln how he felt when the returns came in showing his defeat in his race for the Senate, he told them: "Much like the stripling who stubs his toe&#8212;too bad to laugh and too big to cry."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2266,7 +2268,7 @@ bill sent to this office will bring a copy. The address is 385 Fourth Avenue, Ne
 <p>"THE most American thing in America"&#8212;that's what Colonel Roosevelt called Chautauqua. It was on the banks of the lake of that name in New York State that Bishop John H. Vincent, of the Methodist Church, and Lewis Miller, an Ohio capitalist, founded the great popular educational movement in 1878. From a summer camp-meeting in the woods, Chautauqua has grown into a world institution with more than $3,000,000 assessed valuation. It is the mother of countless other Chautauquas in all parts of the world.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2389,7 +2391,7 @@ bill sent to this office will bring a copy. The address is 385 Fourth Avenue, Ne
 <p></p>
 <figDesc>Advertisement for Knickerbocker Studios</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2403,7 +2405,7 @@ bill sent to this office will bring a copy. The address is 385 Fourth Avenue, Ne
 <p></p>
 <figDesc>Advertisement for Florence Manufacturing Co., Florence, Mass.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

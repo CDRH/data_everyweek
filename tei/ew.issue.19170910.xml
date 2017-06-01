@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170910">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170910</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170910</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -1455,7 +1456,7 @@ the shape of a problem of formidable proportions.</p>
 <p>JOHN W. KRAFFT does jokes like the following. "<hi rend="italic">Jack:</hi> Who's that fine-looking girl you just bowed to? <hi rend="italic">Tom</hi> (gloomily): Oh, that's my sister. <hi rend="italic">Jack:</hi> Why, I didn't know you had a sister. <hi rend="italic">Tom:</hi> I was not aware of it myself until last night." Mr. Krafft does a column every day for the Indianapolis <hi rend="italic">Star</hi>, writing it at night after working all day for the Pennsylvania Railroad. We can tell him confidentially the name of a better railroad to work for—one that will give him inspiration- for hundreds of jokes. Its time-table is one of the funniest joke-books we have ever read.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1537,7 +1538,7 @@ the shape of a problem of formidable proportions.</p>
 <p>SUCH was the scientific care advocated by eighteenth-century physicians for the treatment of the insane. They were chained to posts by rusted iron fetters which bit into the flesh, or they were immured in cells. In 1792, when Dr. Pinel entered the hospital of Salpetriere, and suggested that, just as an experiment, the chains be removed from the patients, his fellow physicians thought the introduction of wild-cats as house pets for children was just as sensible.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1596,7 +1597,7 @@ the shape of a problem of formidable proportions.</p>
 <p>OLD Franz Josef demanded two things at dinner—the "Blue Danube" played by skilled musicians, and an imperial omelette concocted by Charles Lehner. Before the Emperor discovered his genius and attached him to his staff as chef, Lehner served in the 84th Richmond Regiment of Austria. Lehner found the Emperor less difficult to satisfy than many Americans. He ate the simplest food and drank only Tokay made from Hungarian grapes. He never allowed any foreign wines to be poured at his table (except French champagne at banquets), just as he never permitted music by any foreign composers to be played at his court.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1683,7 +1684,7 @@ movements for a short while, and then running in a variation on it. For instance
 <p></p>
 <figDesc>Advertisement for Chesterfield Cigarettes</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1693,8 +1694,8 @@ movements for a short while, and then running in a variation on it. For instance
 <body>
 
 <head type="main">The Abandoned Room</head>
-<byline>By <persName type="author" key="#Camp, Wadsworth"></persName></byline>
-<byline>Illustration by <persName type="illustrator" key="#McCaig, Robert"></persName></byline>
+<byline>By <persName type="author" key="#Camp, Wadsworth">Wadsworth Camp</persName></byline>
+<byline>Illustration by <persName type="illustrator" key="#McCaig, Robert">Robert McCaig</persName></byline>
 
 <cb n="1"/>
 
@@ -1894,7 +1895,7 @@ for the present in the mournful, tragic house. He would make it practically impo
 <p></p>
 <figDesc>Advertisement for Hartman Furniture &amp; Carpet Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2399,7 +2400,7 @@ woman was flesh and blood, for she did not glide away, and the snow made pale sp
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2566,7 +2567,7 @@ ordinary acceptation of the term; but their presence is made known by points of 
 <p></p>
 <figDesc>Advertisement for Lucky Strike</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2726,7 +2727,7 @@ of them out of the longer words. "He writes like a cat scratching holes in a she
 <p>Drawn for <hi rend="italic">Every Week</hi> by W. K. Starrett.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2831,7 +2832,7 @@ highly organized type of animal than itself. Then, having taken possession of it
 <p></p>
 <figDesc>Advertisement for Parker's Hair Balsam</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2846,7 +2847,7 @@ highly organized type of animal than itself. Then, having taken possession of it
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

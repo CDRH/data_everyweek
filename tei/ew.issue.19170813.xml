@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170813">
 <teiHeader>
@@ -16,7 +16,6 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170813</idno>
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +31,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170813</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -1382,7 +1382,7 @@ borried from a friend of mine; a member of the Internal Order of Red Men. I'm go
 <p>THE Rev. J. M. Dunlavy of Kansas City, Kansas, is the world's only preacher-policeman. He is regularly commissioned by the city, much to the disgust of proprietors of dance-halls, boot-leggers, and sidewalk mashers. It reminds one of the story of the English duke, who got up and stamped out of church in the middle of the sermon, exclaiming: "Things have come to a pretty pass, when religion tries to interfere with a man's private life!"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1464,7 +1464,7 @@ borried from a friend of mine; a member of the Internal Order of Red Men. I'm go
 <p>MOST of the terrible things that were going to happen to the country if President Wilson were reëlected have not happened at all. But the terrible thing that was going to happen to Teddy Valentine of Cincinnati came to pass immediately. He had to mount his porch and fish for six hours in a bath-tub so placed that every one within a radius of several blocks could see it. Which teaches us that we should make our election predictions the way the newspapers do: "Mr. Wilson may win; on the other hand, Mr. Hughes appears to be very strong." Then we can always say, "I told you so."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1515,7 +1515,7 @@ school-book trust out of commission, certain irritated gentlemen were heard to r
 <ab n="credit"></ab>
 <p>IT was in battling with the treacherous highest common divisors and lowest common multiples that Ina Shepard laid the foundation of her future greatness. Miss Shepard just always did love figures. And she had plenty of them in her life when she became a stenographer in the Clearing House Association of Birmingham, Alabama. After a while Miss Shepard was just naturally elected to the job of manager. And she has been reëlected at every annual election since. There are from six to eight banks in the Association, and the figures that Miss Shepard handles daily are of gigantic proportions; but she has the confidence of every banker in the city. And what we like about this Southern girl is that she can ride and swim and play tennis just as fast as she can add.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2602,6 +2602,8 @@ He forced himself to approach the bed. The flame flickered a little in the breez
 <text type="fiction" xml:id="glaspell.19170813.jump">
 <body>
 
+<head type="main">Everything You Want to Plant</head>
+
 <cb n="1"/>
 
 <p rend="jumpline"><ref target="glaspell.19170813">&#8212;Continued from page 7</ref></p>
@@ -2827,7 +2829,7 @@ was going to be in charge of the business end of things there.</p>
 <p></p>
 <figDesc>Advertisement for Lucky Strike</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2849,7 +2851,7 @@ was going to be in charge of the business end of things there.</p>
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -3122,7 +3124,7 @@ they visited Ukraine in 1645, and America at the close of the Civil War; a vast 
 <p></p>
 <figDesc>Advertisement for Knickerbocker Studios</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -3137,7 +3139,7 @@ they visited Ukraine in 1645, and America at the close of the Civil War; a vast 
 <p></p>
 <figDesc>Advertisement for Chesterfield Cigarettes</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

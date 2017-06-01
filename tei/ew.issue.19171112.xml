@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171112">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171112</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171112</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,10 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READER: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -115,7 +116,7 @@
 <p></p>
 <figDesc>Advertisement from United States Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -190,7 +191,7 @@
 <p></p>
 <figDesc>Advertisement for The Oliver Typewriter Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -819,7 +820,7 @@ warmly wrapped from the cold, he should lie for hours together, with every muscl
 <div1>
 <head type="sub">WHERE NO MEANS YES</head>
 
-<figure type="photograph">
+<figure n="photograph">
 <head></head>
 <ab n="credit">Photograph by Paul Thompson</ab>
 <p>Why does a drover in the West follow his sheep and a herdsman in the East walk in front of them?</p>
@@ -1050,7 +1051,7 @@ with a boy's understanding and a boy's pride, he was piqued, and himself drew ba
 <p>IN ante-bellum days Miss Ethel Harriman and Mrs. Warren D. Robbins were to be discovered, on the Avenue and elsewhere, in the unbelievable perishable ahead-of-the-mode costumes that have made economists rage and modistes beam ever since there was an Avenue. But more sensible than the Campfire Girl, more hygienic than the "drugless healer," more durable than a policeman's rainy-day outfit, are the war-time garments of the Pauline Reveres of American smart sets to-day.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1139,7 +1140,7 @@ with a boy's understanding and a boy's pride, he was piqued, and himself drew ba
 <p>TOWARD nightfall, as the light fades from the studios, a Moving Picture Child sometimes strays in with a little picture of himself, in case we need something artistic for the magazine. He will tell us of the long years of toil spent in maintaining his aged mother in luxury, and winds up with the modest prediction that in him we see the future Henry Irving of the U. S. A.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1191,7 +1192,7 @@ with a boy's understanding and a boy's pride, he was piqued, and himself drew ba
 <p>ALL the members of Edouard Gautier's family are circus acrobats&#8212;and Edouard himself used to be. Then one day his foot slipped, and when he waked up they were walking around him on tiptoe and saying, "Don't he look natural?" The fall made it impossible for him to do trapeze work any longer, so he took up clowning, and as "Fontaine" made a world-wide reputation, and a fortune besides. His folks, who never let their feet slip, are still doing their work far above him&#8212;and living far below him.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1298,7 +1299,7 @@ White House, and who were sentenced to sixty days' imprisonment in the workhouse
 <p></p>
 <figDesc>Advertisement for National Food &amp; Fur Association</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1351,7 +1352,7 @@ eye, but she is not discouraged. She wears her few gray hairs in curl-papers all
 <text type="fiction" xml:id="kelland.19171112.jump">
 <body>
 
-<p rend="jumpline"><ref target="kelland.19171112">Youth Challenges&#8212;Continued from page 10</ref></p>
+<head type="main">Youth Challenges&#8212;</head><p rend="jumpline"><ref target="kelland.19171112">Continued from page 10</ref></p>
 
 <cb n="1"/>
 
@@ -1583,7 +1584,7 @@ They found a tiny flat to be had for a fourth of their income. Ruth said that wa
 <p></p>
 <figDesc>Advertisement for L. W. Sweet &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1837,7 +1838,7 @@ and transfer the equipment to Pennsylvania or somewhere else. Unless"&#8212;here
 <p></p>
 <figDesc>Advertisements for Patents, California Farm Lands, Corporations, Help Wanted&#8212;Male, Games and Entertainments, Song Poems, Photoplays, Stories, Etc., Photoplays, Personal, Female Help, Agents Wanted, Help Wanted, Female Help Wanted, Help Wanted&#8212;Female, News Correspondents, and Short Stories, Manuscripts Wanted.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2181,7 +2182,7 @@ again that she'd like to forget&#8212;awful things. And she was makin' those thr
 <p></p>
 <figDesc>Advertisement for Cat's Paw Cushion Rubber Heels</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2190,7 +2191,7 @@ again that she'd like to forget&#8212;awful things. And she was makin' those thr
 <text type="fiction" xml:id="mason.19171112.jump">
 <body>
 
-<p rend="jumpline"><ref target="mason.19171112">The Potato Soldier&#8212;Continued from page 7</ref></p>
+<head type="main">The Potato Soldier&#8212;</head><p rend="jumpline"><ref target="mason.19171112">Continued from page 7</ref></p>
 
 <cb n="1"/>
 
@@ -2388,7 +2389,7 @@ brown, hard-muscled, alert, in a blue flannel shirt and an orange tie&#8212;some
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2575,7 +2576,7 @@ standard securities. Sample copies will be sent on application to the offices of
 <p></p>
 <figDesc>Advertisement for Baird-North Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2590,7 +2591,7 @@ standard securities. Sample copies will be sent on application to the offices of
 <p></p>
 <figDesc>Advertisement for Jiffy-Jell</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

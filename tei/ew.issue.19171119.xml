@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171119">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171119</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171119</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -105,7 +106,7 @@
 <p></p>
 <figDesc>Advertisement for B + B Blue-jay Corn Plasters</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1026,7 +1027,7 @@ of them had visited as many as half a dozen factories. The majority knew only th
 <p></p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1108,7 +1109,7 @@ of them had visited as many as half a dozen factories. The majority knew only th
 <p>MARJORIE WILLARD LAMBERT wanted a farm so badly that, after she was graduated from the Massachusetts Agricultural College, she taught horticulture until she had money enough to buy a place down in New Hampshire. It was terribly run down, and by the time she had repaired the house, set out the orchard, and prepared the ground for her first crop she had spent so much money that she went into the woodshed and cried all afternoon. Then the crop was successful.  With the war came a demand for farmers with a scientific knowledge concerning the moulting of hens, the swarming of bees, double-cropping, and supplementary fertilizing, and Miss Lambert became an ag. prof.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1160,7 +1161,7 @@ of them had visited as many as half a dozen factories. The majority knew only th
 <p>"WHEREVER you are is the place from which to start toward something higher," is one pearl from the Experts. "You can't pick daisies and plow for destiny at the same time," is another. But the greatest thing of all is concentration. These young men figure that if they look sufficiently absorbed in their game of Old Maid the conductor will think he took their tickets.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1514,16 +1515,17 @@ for it. No use askin' Quigley. You might as well go home."</p>
 <text type="fiction" xml:id="kelland.19171119">
 <body>
 
-<head type="main">YOUTH CHALLENGES</head>
-<byline>By <persName type="author" key="#Kelland, Clarence Budington">CLARENCE BUDINGTON KELLAND</persName></byline>
-<byline>Illustration by <persName type="illustrator" key="Hitchcock, Lucius W.">Lucius W. Hitchcock</persName></byline>
-
-<figure type="illustration">
+<figure n="illustration">
 <head></head>
 <ab n="credit"></ab>
 <p>"'You don't understand?' snarled Dulac. 'Then I'll tell you. I'm after your wife. She's going away with me.'"</p>
 <figDesc></figDesc>
 </figure>
+
+<head type="main">YOUTH CHALLENGES</head>
+<byline>By <persName type="author" key="#Kelland, Clarence Budington">CLARENCE BUDINGTON KELLAND</persName></byline>
+<byline>Illustration by <persName type="illustrator" key="Hitchcock, Lucius W.">Lucius W. Hitchcock</persName></byline>
+
 
 <cb n="1"/>
 
@@ -1921,7 +1923,7 @@ with the whistle, an axle poised to slide down to the assembling car below. He w
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2027,7 +2029,7 @@ when there was a chance. But there hain't no chance. 'Tain't human to ask any mo
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2224,7 +2226,7 @@ even for your money. She married you because her heart was with the men your kin
 <p></p>
 <figDesc>Advertisement for International Correspondence Schools</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2384,7 +2386,7 @@ found us on the road.</p>
 <p></p>
 <figDesc>Advertisement for The Century Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2575,7 +2577,7 @@ found us on the road.</p>
 <p></p>
 <figDesc>Advertisement for Richard B. Owen</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2590,7 +2592,7 @@ found us on the road.</p>
 <p></p>
 <figDesc>Advertisement for Victrola</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

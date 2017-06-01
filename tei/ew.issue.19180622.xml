@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180622">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180622</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180622</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -147,7 +148,7 @@
 <p></p>
 <figDesc>Advertisement for E.I. Du Pont de Nemours &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -909,7 +910,7 @@ into a position where it jammed the motor in mid-career; and a motor stopped dea
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -993,7 +994,7 @@ into a position where it jammed the motor in mid-career; and a motor stopped dea
 <p>MISS MARIE SMITH, approaching us center foreground, has not been arrested for picketing, as the iron fence might suggest. She did her suffrage campaigning before picketing became a favorite out-door sport. The correct answer to formulate when you see Miss Smith coming to-day is not, "No, madam; I believe politics is a man's job," because her harmless errand is selling insurance. We have it straight that Miss Smith belongs to the Equitable Assurance Century Club, the modest qualification for which is selling $100,000 worth of insurance in a year.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1030,7 +1031,7 @@ into a position where it jammed the motor in mid-career; and a motor stopped dea
 <ab type="credit">&#169; E. O. Hoppe.</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1201,7 +1202,7 @@ treacherous to the unwary. The thrower himself has to light the fuse. The bomb i
 <p>OLD LADY (<hi rend="italic">to important resident in the village</hi>). Please, sir, would you kindly sign this yere paper for sugar? I've got two plum-trees and six grand-children and I wants to make 'em into jam.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1260,7 +1261,7 @@ treacherous to the unwary. The thrower himself has to light the fuse. The bomb i
 <p>THESE young women of the Women's Camouflage Reserve Corps are all practical artists working on standardized costumes for purposes of concealment. There are four general types of costume camouflage: sky, rock, tree, and foliage. Experiments in the first two types are shown in these pictures. The Women's Corps will eventually go abroad to work on actual camouflage problems behind the lines.</p>
 <figDesc>Two photographs</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1321,7 +1322,7 @@ treacherous to the unwary. The thrower himself has to light the fuse. The bomb i
 <p>This poster is being used in America for recruiting an independent Bohemian and Slovak army to go across and fight with the Allies for the freedom of Bohemia and the other small nations under Austrian tyranny.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1410,7 +1411,7 @@ Belgian Army in the Field.<lb/>
 <p>Sub-Lieutenant Nungesser, of the French air service, has been wounded seventeen times in his three years of fighting, but the other day he brought down his thirty-third and thirty-fourth German machines within a few minutes.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1764,7 +1765,7 @@ ing</orig><reg>coming</reg></choice> on, and the government had advertised for b
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1976,7 +1977,7 @@ one left behind was ingenuously truthful.</p>
 <p></p>
 <figDesc>Classified Advertising, including Agents Wanted, Corporations, News Correspondents, Short Stories, Manuscripts Wanted, Salesmen, Song Poems, Female Help Wanted, Business Opportunities, Photoplays, Stories, Etc., and Photoplays</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2012,7 +2013,7 @@ It'll mean more money for you.
 And—good-by, good folks who liked <hi rend="italic">Every Week</hi>. Jim Pepper</p>
 <figDesc>Message from Every Week Magazine</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2089,7 +2090,7 @@ And—good-by, good folks who liked <hi rend="italic">Every Week</hi>. Jim Peppe
 <p></p>
 <figDesc>Advertisement for E.J. Lander &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2235,7 +2236,7 @@ The selling is often attempted when the issue has been pretty well absorbed and 
 <p></p>
 <figDesc>Advertisement for The Home Correspondence School</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2251,7 +2252,7 @@ The selling is often attempted when the issue has been pretty well absorbed and 
 <figDesc>Advertisement for Liggett &amp; Myers Tobacco Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 </group>

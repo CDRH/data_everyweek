@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180316">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180316</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180316</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,11 +81,11 @@
             
 <titlePage>
 <docTitle>
-<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.</note>
-<note>&#8212;A. S. Burleson, Postmaster General.</note>
+
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5 Cts.</titlePart>
-</docTitle>
+<note>When you finish reading this copy of Every Week place a once-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.</note>
+<note>&#8212;A. S. Burleson, Postmaster General.</note></docTitle>
 <docEdition></docEdition>
 <docImprint>
 <publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
@@ -338,7 +339,7 @@ heard them <hi rend="italic">say</hi> things indicating that they know us to be 
 <p></p>
 <figDesc>Advertisement for Woodbury's Facial Soap</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -656,7 +657,7 @@ streak of light. The face of a little boy is defined in it. We entice him like a
 <p>They all mean the same thing, but the language is different. A French salute is shown on the left; an English next; a Scotch next; and the American on the right.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -794,7 +795,7 @@ little short of suicide. And yet, Bill started, water-can in hand.</p>
 <p>"I've nothing for you. Go away!"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1252,7 +1253,7 @@ merchants are very strict with their families. One grocer in particular, who doe
 <p>AND last of all, Henri, the "aseptic barber" of the famous old Brevoort Hotel on lower Fifth Avenue. It was at the Brevoort that the Prince of Wales (afterward King Edward) stopped. But that was before Henri's day. However&#8212;and it is this that will light Henri's declining years with sunshine&#8212;the great Marshal Joffre stopped there on his recent visit, and was caressed by Henri's velvet fingertips. Henri, while advising the smooth chin to his patrons, persists in the verdant chin-whisker: even as our barber, who recommends hair tonic to us so vigorously, is himself entirely bald.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1334,7 +1335,7 @@ merchants are very strict with their families. One grocer in particular, who doe
 <p>FRANCES MARION is one of the youngest scenario writers in the country, and one of the highest paid. Many of the sweet little plays in which you see sweet little Mary Pickford acting so sweetly are written by Miss Marion. A few years ago she was a book illustrator, and when she walked up to the movie people and asked for $200 a week they were taken aback. To-day she is said to receive $20,000 a year.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1386,7 +1387,7 @@ merchants are very strict with their families. One grocer in particular, who doe
 <p>THEIR names? Mrs. and Mr. Skookum Potlach, which in the Chinook language means "good giver." We print them to show how much more sensibly the Indians arrange these matters. Skookum, being nearly ninety, and unable to see well any longer, desired a wife. He approached the parents of Alayek and proffered two canoes and three fish-nets, and the parents were delighted to call him their loving son. How delightfully primitive.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1775,7 +1776,7 @@ it's swellin' and widenin' out, like one of these freaky toy balloons you blow u
 <p></p>
 <figDesc>Advertisement for Pelton Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1953,7 +1954,7 @@ claim only half a million, the actual circulation is quite a bit larger.</p>
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2057,7 +2058,7 @@ we have some facts to start on. For one thing, we know that instinct is not alwa
 <p></p>
 <figDesc>Advertisement for International Correspondence Schools</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2213,7 +2214,7 @@ could do anything that any actress could do, she said. Then she vibrated, stretc
 <p></p>
 <figDesc>Advertisement for Corporations, Short Stories Wanted, Games and Entertainments, Female Help Wanted, Michigan Farm Lands for Sale, Song Poems, Short Stories, Manuscripts Wanted, Help Wanted&#8212;Female, News Correspondents, Salesmen, Photoplays, Stories, Etc., Photoplays, and Agents Wanted</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2622,7 +2623,7 @@ could do anything that any actress could do, she said. Then she vibrated, stretc
 <p></p>
 <figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2769,7 +2770,7 @@ good looks is minus the essential quality of optimism and good nature that makes
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2938,7 +2939,7 @@ offered in large blocks, and they are delivered to the two rich men in blocks of
 <p></p>
 <figDesc>Advertisement for Junior Salesmen's Department, Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2953,7 +2954,7 @@ offered in large blocks, and they are delivered to the two rich men in blocks of
 <p></p>
 <figDesc>Advertisement for Djer-Kiss</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

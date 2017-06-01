@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171029">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171029</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171029</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -1377,7 +1378,7 @@ he lurched by, only turning a brief, wavering glance upon the other machine to a
 
 <head type="main">THE SO-CALLED GENTLE SEX</head>
 
-<figure n="photographs">
+<figure n="photograph">
 <head></head>
 <ab n="credit">© International Film Service, Inc.</ab>
 <ab n="credit">Photograph by Central News Photo Service.</ab>
@@ -1415,7 +1416,7 @@ Pennsylvania "detected as being a female" (as the record puts it) and honorably 
 <p>MME DAISY MAZZUCHI, wife of the former Italian consul at Rheims, works behind the lines; but she wears a bracelet made from an Austrian bullet which just missed her heart last year. At the Ospedale Di Reserva Latisana, she works in the operating room from four in the morning until two-thirty. Once every twenty-four hours she drives her ambulance herself forty miles away, and brings in the wounded.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1491,7 +1492,7 @@ Pennsylvania "detected as being a female" (as the record puts it) and honorably 
 <p>OFTEN, after we have been to the play, we think what a beautiful thing is life. In life&#8212;comfortable, sensible real life&#8212;no husband would ever catch his death peering down staircases in his peignoir at 5 A. M. just because his wife wasn't in her room. He would know that she had stayed over at her mother's. But in "Daybreak" somebody had to shoot Mr. B to get it through his head that Mrs. B was in the Bronx, staying up with a sick child, a thought that we had grasped in Act I clear from Q 15.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1557,7 +1558,7 @@ Pennsylvania "detected as being a female" (as the record puts it) and honorably 
 <p>BILLY EASTMAN saw a chance to take some easy money away from its proper owner when he was sixteen, was arrested, and served time. During the next fifteen years it was a pretty safe plan to address Billy care of some prison or other. When Billy went to McNeil's Island in Washington State, he met a warden who took off Billy's stripes, gave him a blue serge suit, and put him in full charge of the tug that plied between the island and Tacoma. Soon afterward he announced that he had been "born again"; and now he is one of the most successful evangelists in the South.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1960,7 +1961,7 @@ The Indian children were diseased, especially with trachoma, and I was afraid my
 <p></p>
 <figDesc>Advertisement for Hanes Underwear</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2147,7 +2148,7 @@ of every penny spent. Upon the receipt of my salary each month, we put away twen
 <text type="fiction" xml:id="curtiss.19171029.jump">
 <body>
 
-<p rend="jumpline"><ref target="curtiss.19171029">The Gods and Little Fishes&#8212;Continued from page 7</ref></p>
+<head type="main">The Gods and Little Fishes&#8212;</head><p rend="jumpline"><ref target="curtiss.19171029">Continued from page 7</ref></p>
 
 <cb n="1"/>
 
@@ -2272,7 +2273,7 @@ stood beside Madame Norveldt and Harcourt.</p>
 <p></p>
 <figDesc>Advertisement for International Correspondence Schools</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2524,7 +2525,7 @@ old-fashioned gentleman in the city who does not like innovations on established
 <p></p>
 <figDesc>Advertisement for More Power to You</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2866,7 +2867,7 @@ Broadway, New York, members of New York Stock Exchange.</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2881,7 +2882,7 @@ Broadway, New York, members of New York Stock Exchange.</p>
 <p></p>
 <figDesc>Advertisement for The Palmolive Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

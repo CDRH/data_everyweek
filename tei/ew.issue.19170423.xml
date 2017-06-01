@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170423">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170423</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170423</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -144,7 +145,7 @@
 <p></p>
 <figDesc>Advertisement for Spring-Step Red Plug Cushion Heel</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -225,18 +226,19 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="wilson.19170423">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p>"'What's the experiment?' I asked them. 'Tom will lie to you,' said the girl. 'He's still a mere man. He will go away, and I'll tell you.'"</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">THE PAIN OF YOUTH</head>
 
 <byline>By <persName type="author" key="#Wilson, John Fleming">JOHN FLEMING WILSON</persName></byline>
@@ -535,7 +537,7 @@ her that, as she doesn't meet with any good chap and I'm rather inclined to like
 
 <p>"Hang it!" Tom said gloomily. "We
 
-<pb n="Page 5" xml:id="ew.issue.19170416.p005" />
+<pb n="Page 5" xml:id="ew.issue.19170423.p005" />
 
 <figure n="illustration">
 <head></head>
@@ -1286,6 +1288,7 @@ could easily patch up. So I called in Mr. Rouss and submitted the demands to him
 <figDesc></figDesc>
 </figure>
 
+<p/>
 </body>
 </text>
 
@@ -1365,7 +1368,7 @@ could easily patch up. So I called in Mr. Rouss and submitted the demands to him
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1416,7 +1419,7 @@ could easily patch up. So I called in Mr. Rouss and submitted the demands to him
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2284,6 +2287,7 @@ York City, conducted by the American Society for the Prevention of Cruelty to An
 <figDesc>Advertisement for Chas Meyer</figDesc>
 </figure>
 
+<p/>
 </body>
 </text>
 
@@ -2456,7 +2460,7 @@ is one of the easiest things for a Trust to get these days."</p>
 <p></p>
 <figDesc>Advertisements for Personal, Patents, Corporations, Male Help Wanted, Miscellaneous Farms For Sale, Typewriters, Business Opportunities, News Correspondents, Photoplays, Stories, Etc.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
     
@@ -2586,6 +2590,7 @@ ring and also the whole assembly of rings are as they should be; and in such cir
 <figDesc>Advertisement for The Alabastine Company.</figDesc>
 </figure>
 
+<p/>
 </body>
 </text>
     

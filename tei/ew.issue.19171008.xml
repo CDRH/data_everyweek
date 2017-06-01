@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171008">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171008</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171008</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -109,7 +110,7 @@
 <p></p>
 <figDesc>Advertisement for Liggett &amp; Myers Tobacco Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -157,7 +158,7 @@
 <p>Trying to be awfully clever in the guest book at short notice, while the family watch expectantly.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -932,7 +933,7 @@ chance to be in love with is Miss Cleveland's father. We shall never forgive Mr.
 <p>AND, finally, we have the secretary of the treasury of the Secretary of the Treasury&#8212;Mrs. McAdoo, n&#233;e Eleanor Wilson. The tango was in full bloom when she entered the White House, and Secretary McAdoo&#8212;who is built somewhat along the lines of Vernon Castle&#8212;soon became the center of all eyes when the rugs were rolled back in the Blue Room. Mrs. McAdoo made a personal sneaking trip through the country in behalf of the Liberty Loan, and it was after hearing her that we subscribed, feeling sure that none of our money would go for household expenses.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1027,7 +1028,7 @@ chance to be in love with is Miss Cleveland's father. We shall never forgive Mr.
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1079,7 +1080,7 @@ chance to be in love with is Miss Cleveland's father. We shall never forgive Mr.
 <p>MRS. VERNON CASTLE and Milton Sills cling to each other at the top of a mast. It is the eighth episode of "Patria." A three-masted schooner was touched off for the occasion. The flames climb up the mast after them, and for a moment there is real danger that they will be burned before the mast falls. It's messy work, but will our heroine hire a substitute? Never. Proud Patria stands pat.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2014,7 +2015,7 @@ lay below, stared at the bodies. For what he saw he would be held responsible by
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2046,7 +2047,7 @@ lay below, stared at the bodies. For what he saw he would be held responsible by
 <p></p>
 <figDesc>Classified Advertising, including Personal, Help Wanted, Corporations, Photoplays, Stories, etc., Help Wanted&#8212;Female, Song Poems, Salesmen, News Correspondents, Short Stories, Manuscripts Wanted, and Photoplays</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2231,7 +2232,7 @@ man swept away all precedent, and declared that he would wed whom he chose&#8212
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2334,7 +2335,7 @@ be used on the chassis to advantage; but it should not be directed against the w
 <figDesc>Advertisement for Western Newspaper Association</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2348,7 +2349,7 @@ be used on the chassis to advantage; but it should not be directed against the w
 <p></p>
 <figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180427">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180427</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180427</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -121,7 +122,7 @@
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -202,7 +203,7 @@
 <p></p>
 <figDesc>Advertisement for Frederick F. Ingram Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -217,7 +218,7 @@
 <p></p>
 <figDesc>Advertisement for Du Pont Fabrikoid Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -400,7 +401,7 @@ some camphorated oil and cotton wool.</p>
 <p>She looks like a witch mother with her demon child; but she is only a sturdy Flemish peasant woman, who prefers to sit at her own hearth, even in a gas-mask, than risk herself among strangers.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -413,7 +414,7 @@ some camphorated oil and cotton wool.</p>
 <p>PRIVATE SMITH (<hi rend="italic">late assistant to palmist, etc., Bond Street</hi>). Who'd have thought it? They seem to know me.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -522,7 +523,7 @@ close by. Once again he lost consciousness, and awoke to find his leg shot off. 
 <p>"THE nurse is a welcome sight to both officers and men," says A. A. Martin, M. D., in "A Surgeon in Khaki," "and no man nurse can adequately take the place of a trained woman. The presence of nursing sisters in a hospital is good and wholesome, and where they are the hospital work is carried on infinitely better and the patient is well looked after."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1109,7 +1110,7 @@ anything. My nice coffee-urn! Why, it's the finest thing we had in the whole hou
 <p>HERE is the man who "fought it out all summer" with rare courage, a set of reddish brown whiskers, and the blackest, longest cigars ever seen in battle. When the Prohibitionists complained to Lincoln that Grant drank whisky, Lincoln replied: "<hi rend="italic">Gents:</hi> Yours received. Please find out what kind General Grant drinks. I want to send a keg to each of my other generals." It wasn't the red whisky that won the battles, though: it was the red whiskers.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1191,7 +1192,7 @@ anything. My nice coffee-urn! Why, it's the finest thing we had in the whole hou
 <p>CHARLES WENCK'S saloon was mostly patronized by railroad men, who are paid once a month. So on pay-day Charles often took in $1500 or $2000 in settlement for the month's charge ccounts. On the final pay-day, before local option was to take effect, he took in $4000. Half of it he had put in the bank, and he was busy counting the other half, when two robbers arrived and took it. Charles went to work as a brakeman. The first bums he caught robbing a freight-car were the two who had held up his saloon: Charles got his money and the robbers got three years.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1243,7 +1244,7 @@ anything. My nice coffee-urn! Why, it's the finest thing we had in the whole hou
 <p>WHEN Harry Kellar, the dean of American magicians, worked his last public magic at the New York Hippodrome last November, six thousand people roared like a child that has lost its candy. For Kellar's magic has long been dearest and best: the magic that fooled our parents is good enough for most of us. Royalty and children, magicians say, are hard to fool. But people of brains are very easy marks. Kellar the Great has done his famous string trick for us personally twice and very, very slowly. And it was painfully evident that we have too much brains.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1675,7 +1676,7 @@ not share even such a mother's interest in its welfare. The ease with which the 
 <p></p>
 <figDesc>Advertisement for United States Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1702,7 +1703,7 @@ called her people her children and by her royal clemency had substituted the wor
 
 <p>She was a born organizer, however, and desired to shine in Europe as an 
 
-<figure n="portrait"></figure>
+<figure n="photograph"></figure>
 
 enlightened ruler. So she reformed institutions, established hospitals, encouraged internal betterment, founded schools and colleges, and erected arsenals and factories. She doubled the resources and revenues of her country by making war on Turkey and throwing open the Mediterranean, and more than once averted disaster by quick judgments and crafty intrigue.</p>
 
@@ -1718,7 +1719,7 @@ enlightened ruler. So she reformed institutions, established hospitals, encourag
 <text type="fiction" xml:id="curtiss.19180427.jump">
 <body>
 
-<p rend="jumpline"><ref target="curtiss.19180427">The Son of One-Horse Jack&#8212;<hi rend="italic">Continued from page 8</hi></ref></p>
+<head>The Son of One-Horse Jack&#8212;</head><p rend="jumpline"><ref target="curtiss.19180427"><hi rend="italic">Continued from page 8</hi></ref></p>
 
 <cb n="1"/>
 
@@ -1900,7 +1901,7 @@ heavy harness class you probably couldn't get better than red. Your horses are m
 <p></p>
 <figDesc>Advertisement for Junior Salesmen's Department Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1964,7 +1965,7 @@ heavy harness class you probably couldn't get better than red. Your horses are m
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2130,7 +2131,7 @@ time it rose to a scream, for the long gray shape went hurtling over the bar wit
 <p></p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2185,7 +2186,7 @@ time it rose to a scream, for the long gray shape went hurtling over the bar wit
 <p></p>
 <figDesc>Advertisements for Song Poems, Games and Entertainments, Wedding Invitations, Song Poems, Agents, Female Help Wanted, Schools and Colleges, Corporations, Business Opportunities, Photoplays, Stories, Etc., Salesmen, Help Wanted&#8212;Female, Short Stories, Manuscripts Wanted, Photoplays, Short Stories Wanted, and News Correspondents</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2200,7 +2201,7 @@ time it rose to a scream, for the long gray shape went hurtling over the bar wit
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2457,7 +2458,7 @@ fruit, berries, peas, and beans, and "silking" corn.</p>
 <p></p>
 <figDesc>Advertisement for Foster Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2472,7 +2473,7 @@ fruit, berries, peas, and beans, and "silking" corn.</p>
 <p></p>
 <figDesc>Advertisement for Luxite Textiles</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171015">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171015</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171015</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -115,7 +116,7 @@
 <p></p>
 <figDesc>Advertisement for United States Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -180,7 +181,7 @@
 <p></p>
 <figDesc>Advertisement for The Oliver Typewriter Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -195,7 +196,7 @@
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1053,7 +1054,7 @@ wealth is more concentrated in one company, and he can actually put the money ba
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1131,7 +1132,7 @@ wealth is more concentrated in one company, and he can actually put the money ba
 <p>LAFAYETTE had just turned twenty when he printed "Why not?" on a flag, nailed it to the mast, and sailed across the sea to help the American colonies win their freedom. At the same age, Clara Ruth Mozzer waved the same query at Denver University and the Colorado Law School, and sailed through both on the money she earned reporting outside hours on the Denver papers. When she appeared to plead her first case, she looked so young that the judge refused to believe she was a lawyer; but now that she is twenty-three, the Attorney-General has shattered all precedent, both as to age and sex, and appointed her his first assistant, "pursuant to the united request of the Democratic women of the State."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1177,7 +1178,7 @@ wealth is more concentrated in one company, and he can actually put the money ba
 <p>THE good old "every eve I bring thee roses" type of song seems to have passed into temporary eclipse&#8212;soft-petaled, as it were. Yet Mrs. A. J. Van Der Vies of Virginia reports no slackening in the demand for her crops. Last year she sold more than ten thousand two-year-old rose bushes from her garden, which seven years ago was nothing but a plowed field. So well have the roses done that Mrs. Van Der Vies has added lilies as a side line.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1191,7 +1192,7 @@ wealth is more concentrated in one company, and he can actually put the money ba
 <p></p>
 <figDesc>Advertisement for Du Pont Fabrikoid Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2072,7 +2073,7 @@ man hate him? Why should others hate him? Why should the class he belonged to be
 <p></p>
 <figDesc>Advertisement for Baird-North Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2263,7 +2264,7 @@ Houghton Mifflin Company.)</p>
 <figDesc>Advertisement for F.W. Little</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 <text type="nonfiction" xml:id="brown.19171015">
@@ -2372,7 +2373,7 @@ Houghton Mifflin Company.)</p>
 <figDesc>Advertisement for Larkin Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2386,7 +2387,7 @@ Houghton Mifflin Company.)</p>
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180126">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180126</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180126</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,11 +81,11 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER</note>
-<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READER</note>
+<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -402,7 +403,7 @@ thrown out when I led the Progressives. Some of our hyphenated friends took reve
 </body>
 </text>
 
-<pb n="Page 4" xml:id="ew.issue.19190126.p004"/>
+<pb n="Page 4" xml:id="ew.issue.19180126.p004"/>
 
 <text type="nonfiction" xml:id="butters.19180126">
 <body>
@@ -617,7 +618,7 @@ spirit, which became less and less frequent as the time for his own end drew nea
 <p>Lieutenant Warwick Brooke won his D. C. M. in active service with a rifle and bayonet before he won his laurels as one of the most daring and brilliant British official photographers on the western front.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -898,7 +899,7 @@ An instance is given in Alonzo Rothschild's <hi rend="italic">Honest Abe</hi> (H
 
 <head type="main">He's a Whole Crew in Himself</head>
 
-<figure type="photograph">
+<figure n="photograph">
 <head></head>
 <ab n="credit">Photograph from R. G. Thackwell</ab>
 <p></p>
@@ -1026,7 +1027,7 @@ Stack 'em from the green, green cloth to the blue, blue sky."</p>
 
 <p>At ten o'clock he had about three hundred dollars in chips before him; and Caspar Berg, while one of the other men was dealing, called across the room to 
 
-<pb n="Page 8" xml:id="ew.issue.19160126.p008"/>
+<pb n="Page 8" xml:id="ew.issue.19180126.p008"/>
 
 <cb n="1"/>
 
@@ -1478,7 +1479,7 @@ have an idea, Shorty, that between us we can supply the necessary psychic urge."
 <p>WHO kidnapped little Arthur Whitman? What was the motive for the crime? And why, at the end of a year, did he (or she) return him to his parents again? It was just a year after Arthur's disappearance that the doorbell rang, and Mrs. Whitman found the boy on the step, clasping a kitten in his arms. He showed signs of good treatment, but could give no information except that "a lady bought him candies and was kind to him&#8212;a tall lady." There the clue ended; nor has any further evidence turned up in the three years that have since passed.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1553,7 +1554,7 @@ have an idea, Shorty, that between us we can supply the necessary psychic urge."
 <p>JIMMY CRAIG is one of the few Michigan men to be recognized as an All-American player by Walter Camp. It's a long way from New Haven to Ann Arbor, and in looking over the field for his selections Mr. Camp's eyes often got tired before they reached Chicago. But Jimmy shone out too bright to be overlooked. Since graduation he has been in the contracting business in Detroit. And they do say that he has tucked his job under his arm and gritted his teeth and made the same kind of long gains on the pay-roll that he used to make around the ends.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1605,7 +1606,7 @@ have an idea, Shorty, that between us we can supply the necessary psychic urge."
 <p>A YEAR ago Jimmy Tucker was blacking boots in Charleston, when the cry of "mad dog" reached him. A little girl running around the corner tripped and fell. Just behind her rushed a huge mastiff. Jimmy held the little girl aloft in one arm and beat off the mastiff with the other. The little girl's grandfather thought Jimmy well worth a course in Tuskegee.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2216,14 +2217,14 @@ pleasure of his life was developing young men.</p>
 <p></p>
 <figDesc>Advertisement for Smith Brothers S. B. Cough Drops</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="davis.19180126.jump">
 <body>
 
-<p rend="jumpline"><ref target="davis.19180126">The Luck of Cingalo&#8212;<hi rend="italic">continued from page 9</hi></ref></p>
+<head type="main">The Luck of Cingalo&#8212;</head><p rend="jumpline"><ref target="davis.19180126"><hi rend="italic">continued from page 9</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2510,7 +2511,7 @@ town up. His name&#8212;now what was his name? His name was MacCamish.</p>
 <p></p>
 <figDesc>Advertisement for R. S. &amp; A. B. Lacey</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2637,7 +2638,7 @@ town up. His name&#8212;now what was his name? His name was MacCamish.</p>
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2652,7 +2653,7 @@ town up. His name&#8212;now what was his name? His name was MacCamish.</p>
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2888,7 +2889,7 @@ pea. He found that when he crossed a tall race of peas with a dwarf race the off
 <p></p>
 <figDesc>Advertisement for Randolph &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2903,7 +2904,7 @@ pea. He found that when he crossed a tall race of peas with a dwarf race the off
 <p></p>
 <figDesc>Advertisement for Bayer Aspirin</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180608">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180608</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180608</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -106,7 +107,7 @@
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -710,7 +711,7 @@ reliable. Slaughter lists, in fact, began to grow shorter with the lengthening o
 <p>This German prisoner looks more like an armadillo than any kind of a human animal. The Germans have revived many ancient military devices, and prisoners captured in recent battles often wear almost complete suits of armor.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -763,7 +764,7 @@ reliable. Slaughter lists, in fact, began to grow shorter with the lengthening o
 <p>This hero pigeon was carrying a message when a German bullet broke its leg and drove the metal message-carrier into its body. But the bird flew on and brought the message safely to headquarters, then fell dead.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 <text type="nonfiction" xml:id="deserter.19180608">
@@ -795,7 +796,7 @@ reliable. Slaughter lists, in fact, began to grow shorter with the lengthening o
 <p>The Kaiser's rule in German East Africa is no pleasanter than in Belgium and northern France. His subjects in the jungle have to be chained together to insure their loyalty to the Fatherland.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1047,7 +1048,7 @@ their high interest.</p>
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1101,7 +1102,7 @@ their high interest.</p>
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1856,7 +1857,7 @@ and I searched all night among the dead for my mother and sister. I had no hope,
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

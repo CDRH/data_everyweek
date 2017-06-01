@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171210">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171210</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171210</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,10 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. &#8212;A. S. Burleson, Postmaster General.</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READER: Place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. &#8212;A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -254,7 +255,7 @@ as the operator ordered. Then a torpedo darted from the bow tube and sped on its
 <p></p>
 <figDesc>Advertisement for The Oliver Typewriter Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1264,21 +1265,21 @@ piece they had, and it had been weighed up for her, but still she wasn't satisfi
 <figDesc></figDesc>
 </figure>
 
-<figure n="photographer">
+<figure n="photograph">
 <head></head>
 <ab n="credit"></ab>
 <p>CLARA WIECK, the accomplished pianist, made a big mistake, according to her father's idea, when she married Robert Schumann, the obscure German composer. But Clara thought otherwise. "I have been composing since I got your letter. I can not contain myself for music," he wrote to her. "You have made it spring for me."</p>
 <figDesc></figDesc>
 </figure>
 
-<figure n="photographer">
+<figure n="photograph">
 <head></head>
 <ab n="credit"></ab>
 <p>IN addition to managing the estate at Hawarden, caring for her eight children, and directing half a dozen charities. Mrs. Gladstone had her desk in the prime minister's office on Downing Street, and worked by her husband's side in his job of governing England. She was indispensable to him in political meetings, because she remembered faces so much better: and he never made an important move without planning it all out with her first. All this kept her so busy that she often had to wear the same clothes all day, like a man, instead of changing them at nine, twelve, three, and six.</p>
 <figDesc></figDesc>
 </figure>
 
-<figure n="photographer">
+<figure n="photograph">
 <head></head>
 <ab n="credit">Photograph from Brown Brothers.</ab>
 <p>TOLSTOY proposed by letter, and also sent his beloved an unexpurgated edition of his youthful diary. She wept over it for twenty-four hours, and promptly married him; and thereafter managed his farm and the eleven children as they arrived. It was her prudent care that kept the outflow of rubles from exceeding the intake: and she copied seven different times his "War and Peace." If the number of words that she wrote in the process were laid end to end, they would reach three times from Painted Post, New York, to Polo, Illinois.</p>
@@ -1291,7 +1292,7 @@ piece they had, and it had been weighed up for her, but still she wasn't satisfi
 <p>"THEY were in the fullest sense everything to each other&#8212;sole comforters, chief tormenters," wrote a friend of Thomas and Jane Carlyle. But Jane's comment was: "When one has married a man of genius, one must take the consequences." She left a pleasant home to live on a barren Scotch farm as the wife and servant of Carlyle. "Let us not, dear Jeannie, complain of solitude;" her husband admonished. "I still have you, with a priceless talent for silence." And the one thing Jane really enjoyed was sprightly conversation! She did everything for him except read proof; and this he would not permit, because he insisted that she knew no grammar.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1374,7 +1375,7 @@ piece they had, and it had been weighed up for her, but still she wasn't satisfi
 <p>LAST but not least, Edward Payson Weston, the grand old man of pedestrianism. When did he begin to hike? Back in the days when his city editor sent him to find out why Susy Snyder, the sausage king's daughter, jilted the brewer's son at the altar; and who killed Johnny Jones.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1427,7 +1428,7 @@ piece they had, and it had been weighed up for her, but still she wasn't satisfi
 <p>"KID" KENNARD isn't a kid any longer; but the name still sticks. It was given to him because his elder brother was also a famous clown&#8212;now retired. Whenever the "Kid" wants to think up a new laugh-producer, he lays his dog "Useless" on a trunk, and solemnly plays a game of solitaire. The harder and more serious the game, the funnier the trick that comes out of it. The trick of hitting a policeman in the stomach with a slap-stick was evolved from playing a game lasting fourteen hours and sixteen minutes.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1895,7 +1896,7 @@ and collect the empty tin cans scattered about more fore-handed folks' doors, an
 <p></p>
 <figDesc>Advertisement for P. H. Hanes Knitting Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2019,14 +2020,14 @@ effect. If you want to share in it, you can do so, every one of you."</p>
 <p></p>
 <figDesc>Advertisements for Patents, Personal, Corporations, Help Wanted&#8212;Male, Insurance Information, Rosicrucian Brotherhood, Female Help Wanted, Help Wanted&#8212;Female, Male Help Wanted, Photoplays, Short Stories, Manuscripts Wanted, Photoplays, Stories, Etc., and News Correpondents.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="readers.19171210.jump">
 <body>
 
-<p rend="jumpline"><ref target="readers.19171210">What the War Means to Me&#8212;<hi rend="italic">Continued from page 6</hi></ref></p>
+<head type="main">What the War Means to Me&#8212;</head><p rend="jumpline"><ref target="readers.19171210"><hi rend="italic">Continued from page 6</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2087,7 +2088,7 @@ seems very close. Over the tree-tops the American flag floats, and beneath it kh
 
 <head type="main">A Chance for You After the War</head>
 
-<figure type="photograph">
+<figure n="photograph">
 <head></head>
 <ab n="credit">Photograph by Paul Thompson</ab>
 <p>This four-master managed to make shallow water after the torpedo hit her. She'll be easy to raise; but other wrecks in which there are fortunes will offer harder problems.</p>
@@ -2145,7 +2146,7 @@ cargo may net the companies enough to pay them for their operations. Besides thi
 <p></p>
 <figDesc>Advertisement for Frank E. Davis Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2223,7 +2224,7 @@ cargo may net the companies enough to pay them for their operations. Besides thi
 <p></p>
 <figDesc>Advertisement for Crowell Scholarship Bureau</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2440,7 +2441,7 @@ been called upon to do would fill a book. I have two patrons for whom I do all t
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2455,7 +2456,7 @@ been called upon to do would fill a book. I have two patrons for whom I do all t
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2694,7 +2695,7 @@ statistical information concerning stocks and bonds, have you ever wanted a ters
 <p></p>
 <figDesc>Advertisement for A. M. Buck &amp; Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2709,7 +2710,7 @@ statistical information concerning stocks and bonds, have you ever wanted a ters
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

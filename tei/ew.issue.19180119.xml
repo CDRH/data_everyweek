@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180119">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180119</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180119</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,10 @@
             
 <titlePage>
 <docTitle>
-<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. &#8212;A. S. Burleson, Postmaster General.</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">5&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. &#8212;A. S. Burleson, Postmaster General.</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -270,7 +271,7 @@ We should begin in middle life the cultivation of hobbies that we shall be able 
 <p></p>
 <figDesc>Advertisement for the Alexander Hamilton Institute</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -285,7 +286,7 @@ We should begin in middle life the cultivation of hobbies that we shall be able 
 <p></p>
 <figDesc>Advertisement for The Andrew Jergens Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -585,7 +586,7 @@ friendly-like, would you wave back? Or would you turn and try to smash him?</p>
 </body>
 </text>
 
-<pb n="Page 7" xml:id="ew.issue.19180112.p007"/>
+<pb n="Page 7" xml:id="ew.issue.19180119.p007"/>
 
 <text type="nonfiction" xml:id="shortstories.19180112">
 <body>
@@ -1013,7 +1014,7 @@ Uncle Lee Passin, who was very rich, would see him through.</p>
 
 <p>"Oh, Davy, I <hi rend="italic">do</hi> care for you," she said plaintively, and I <hi rend="italic">will</hi> wait for you! But I can't be mean to other folks, can I? I do like to ride with Clif&#8212;it's such a darling, lovely car. But I don't like him one bit&#8212;you know I don't, Davy!"</p>
 
-<pb n="Page 10" xml:id="ew.issue.19180119.010"/>
+<pb n="Page 10" xml:id="ew.issue.19180119.p010"/>
 
 <figure n="illustration">
 <head></head>
@@ -1197,7 +1198,7 @@ David, coming home from work, found a marked copy of the <hi rend="italic">Signa
 <p>"GOOD MORNING, Viscountess; there's a little dust on the table; don't let me have to speak to you about that again." Strange words these to address to a Viscountess! Ay, but the war has made many strange things common. The Viscountess de la Chappelle is now parlor-maid at the Australian Officers' Club in London, where she no doubt hears many words unfamiliar to noble ears.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1265,7 +1266,7 @@ David, coming home from work, found a marked copy of the <hi rend="italic">Signa
 <p>THE fate of aviator Brown's machine is tragically usual. It snapped lengthwise, just as it buried its nose in the ground. To avoid just such accidents the first machine an aviation student drives is called a "taxi," because it does not lift from the ground. The second one hops a daring five feet. With his third one he rises perhaps twenty-five feet, and graduates making figure eights over his home town.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1317,7 +1318,7 @@ David, coming home from work, found a marked copy of the <hi rend="italic">Signa
 <p>AND so we come to the last chair which we would ever hope to sit in. We are known to our friends as a live wire, but 15,000 volts is too much even for us. This particular picture, we hasten to explain, represents not a real electrocution but a scene from a motion-picture play. The reader would probably have surmised this for himself: the gentlemen seated on the side, representing newspaper reporters and other members of our business, are far too well dressed, of course.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2016,7 +2017,7 @@ love her. If we get out of this she's going to be my wife. She's promised me tha
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2236,7 +2237,7 @@ its plans by getting stuck in the ice for the winter up in Coronation Gulf. Afte
 <p></p>
 <figDesc>Advertisement for Farmer Burns</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2390,7 +2391,7 @@ FARM AND FIRESIDE</byline>
 <p></p>
 <figDesc>Advertisement for Moore Push-Pin Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2405,7 +2406,7 @@ FARM AND FIRESIDE</byline>
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2633,7 +2634,7 @@ know, I didn't know whether I ought to come down and see <hi rend="italic">you</
 <p></p>
 <figDesc>Advertisement for Taps Pharmacal Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2765,7 +2766,7 @@ For every $82.40 paid in this year the government will hand back a $100 bill on 
 <p></p>
 <figDesc>Advertisement for Fatima Turkish Blend Cigarettes</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

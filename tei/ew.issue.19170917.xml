@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170917">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170917</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170917</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -114,7 +115,7 @@
 <p></p>
 <figDesc>Advertisement for Rinex Soles</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -185,7 +186,7 @@
 <p></p>
 <figDesc>Advertisement for Du Pont Fabrikoid Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1028,7 +1029,7 @@ it is always undergoing repairs. Nature is continually at work pulling part of i
 <p>FOR six months in the year Death Valley, California, is the most healthful spot in the country; but during the rest of the time intolerable cold gives way in summer to heat so great one must wrap sacking about his boots because of the scalding sand. So-called "White Arabs" have learned to live there, feasting on the chuckwalla lizard, roasted between hot stones, using an Indian ointment for the bites of sidewinder rattlers and scorpions.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1110,7 +1111,7 @@ it is always undergoing repairs. Nature is continually at work pulling part of i
 <p>ONE little Ruddy—two little Ruddies—now there are five. Soon the city will need another half dozen swimming-pools to accommodate them. For Joseph Ruddy, captain of the New York Athletic Club water-polo team (champions for 1917), has taught his children that, though the path of glory leads only to the grave, it passes on the way through a number of baths, best undertaken in a good swimming-tank. They are such good swimmers that now even the one-legged man who used to make circles around us will have to work to beat them.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1162,7 +1163,7 @@ it is always undergoing repairs. Nature is continually at work pulling part of i
 <p>YOU remember the old sticky fly-paper, don't you? (We remember spreading it very carefully on the stairs in college, turning out the lights, and then starting a racket so the landlady would start rushing upstairs. The rush was stopped, as the war bulletins say, in the first line of trenches.) However, we must hurry ahead. This is Mr. S. J. Crumbine, Secretary of the Kansas State Board of Health, inventor of the phrase, "Swat the Fly"—the last of the well known men and women to be pictured on this page. Now read it all over again carefully, and see that you have mastered it. We may give you an examination on these pages almost any time.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1177,7 +1178,7 @@ it is always undergoing repairs. Nature is continually at work pulling part of i
 <p></p>
 <figDesc>Advertisement for Blue-jay.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1458,7 +1459,7 @@ I seem to remember leaving the bed all right, but I don't seem to remember walki
 <p></p>
 <figDesc>Advertisement for "Power of Will"</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1662,7 +1663,7 @@ approached the figure at the fireplace. Then Bobby saw, and he heard Katherine's
 <p></p>
 <figDesc>Advertisement for Straus &amp; Schram, Inc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1851,7 +1852,7 @@ and seemed to place the solution beyond the district attorney's trivial reach.</
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2016,7 +2017,7 @@ darkness descended upon them quickly.</p>
 <p></p>
 <figDesc>Advertisement for Krementz &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2025,9 +2026,10 @@ darkness descended upon them quickly.</p>
 <text type="nonfiction" xml:id="abott.19170917.jump">
 <body>
 
-<cb n="1"/>
-
+<head type="main">How to be Young at Four-Score</head>
 <p rend="jumpline"><ref target="abbott.19170917">&#8212;Continued from page 10</ref></p>
+
+<cb n="1"/>
 
 <p>come when we should out fly the birds, as we then could outrun the deer and outswim the fish.</p>
 
@@ -2148,7 +2150,7 @@ the same reason, the morning hours have always been my working hours. For many y
 <p></p>
 <figDesc>Advertisements for Personal, Corporations, Song Poems, Photoplays, Stories, Etc., Help Wanted Female, Salesmen, Photoplays, Short Stories Manuscripts Wanted, and News Correspondents.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2305,7 +2307,7 @@ mailed free on application to J. S. Bache &amp; Co., members of the New York Sto
 <p></p>
 <figDesc>Advertisement for Hump Hair Pins</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2320,7 +2322,7 @@ mailed free on application to J. S. Bache &amp; Co., members of the New York Sto
 <p></p>
 <figDesc>Advertisement for Djer-Kiss Face Powder</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

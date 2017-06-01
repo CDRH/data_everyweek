@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170924">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170924</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170924</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -238,7 +239,7 @@
 <p></p>
 <figDesc>Advertisement for Frederick F. Ingram Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -999,6 +1000,8 @@ in two checks—one to him and one to his wife.</p>
 <text type="photograph" xml:id="words.19170924">
 <body>
 
+<head type="main">Their Last Words</head>
+
 <figure n="illustration">
 <head></head>
 <ab n="credit"></ab>
@@ -1040,7 +1043,7 @@ in two checks—one to him and one to his wife.</p>
 <p>SIR WALTER RALEIGH'S death was as spirited as his life. On Raleigh's way to the scaffold he was asked how he enjoyed the cup of sack he had just finished. "It is a good drink," he replied, "if a man might tarry by it." Sir Walter admitted his faults candidly: "I have been a soldier, a sailor, and a courtier, which are courses of wickedness and vice." With a smile he fingered the sheriff's knife. "This is a sharp medicine," he observed, "but a cure for all diseases." So died one of the world's great benefactors, to whom we owe the solace of our trusty pipe.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1115,7 +1118,7 @@ in two checks—one to him and one to his wife.</p>
 <p>CLARENCE ROWLAND made such a good record as manager of the Three I League team in Peoria that Comiskey heard of him and brought him to Chicago to manage the White Sox. So Mrs. Rowland and Beulah transferred themselves from the little grand-stand and the little crowds to the big grand-stand and the howling multitudes. It was a hard blow to Peoria: three inhabitants gone at one stroke. And then what does Congress do but come along and put the distilleries out of business. The ball-players are going to war: the breweries are out of business: it costs five times as much to live as in the days of Nebuchadnezzar: and, as the feller said, it ain't worth it.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1165,7 +1168,7 @@ in two checks—one to him and one to his wife.</p>
 <p>THEN, again, you take this cheerful family group. We feel honestly compassionate, you will go so far astray on this puzzle. Absolutely, the young man is not the vice-president of his father's munitions plant, even though the picture was made in Newport. It is Nijinski, fleetest-footed of all the Allies, Nijinski, chief of all the Russian dancers, and Madame Nijinsky, and their own war baby, Kijra.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1534,7 +1537,7 @@ was plain that something was wrong with him. In the first place, he seemed unwil
 <p></p>
 <figDesc>Advertisement for La Salle Extension University</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1685,7 +1688,7 @@ who criticized his work, encouraged him, and lent him canvases.</p>
 <p></p>
 <figDesc>Advertisement for Lucky Strike</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1822,7 +1825,7 @@ was in place, lay a plaster cast of a foot-mark. Near by was the rumpled handker
 <p></p>
 <figDesc>Advertisement for Alexander Hamilton Institute</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -1872,7 +1875,7 @@ was in place, lay a plaster cast of a foot-mark. Near by was the rumpled handker
 <p></p>
 <figDesc>Advertisement for Randolph &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2189,7 +2192,7 @@ He knew in advance exactly what apprenticeship he must serve in the business; th
 <p></p>
 <figDesc>Advertisement for National Salesmen's Tr. Assn.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2267,7 +2270,7 @@ He knew in advance exactly what apprenticeship he must serve in the business; th
 <p></p>
 <figDesc>Advertisement for Hiram Barton</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2573,7 +2576,7 @@ will power. One of the methods by which I achieved good results was to write a s
 <p></p>
 <figDesc>Advertisements for Help Wanted&#8212;Female, Miscellaneous Farms for Sale, Photoplays, Stories, Etc., Photoplays, News Correspondents, Personal, Corporations, Salesmen, and Short Stories, Manuscripts Wanted.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2588,7 +2591,7 @@ will power. One of the methods by which I achieved good results was to write a s
 <p></p>
 <figDesc>Advertisement for Life Savers</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

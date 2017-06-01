@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180420">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180420</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2017 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180420</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -259,7 +260,7 @@ other people, except that they were accustomed to eat a superabundance of bread.
 <p></p>
 <figDesc>Advertisement for Three-In-One Oil Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -274,7 +275,7 @@ other people, except that they were accustomed to eat a superabundance of bread.
 <p></p>
 <figDesc>Advertisement for The Andrew Jergens Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1161,7 +1162,7 @@ Well, congratulations, Torchy. You have frequently surprised me by rising to the
 <p>IN a season when every one else is wearing furs, Gaby Deslys may be picked out in the crowd by her cape of feathers. Gaby is not one of those estimable ladies who are always able to make last year's shirtwaist dress do. She is not one to spend the long evenings shirring fresh organdie on last winter's suit.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1243,7 +1244,7 @@ Well, congratulations, Torchy. You have frequently surprised me by rising to the
 <p>THIS is Mr. John R. Young, of Pelham, New York, "caught," as the saying goes, on his way to a banquet. Poor Mr. Young has to attend a luncheon or a banquet every single day of his life. He is manager of the Convention Bureau of the New York Merchants Association, which accounts for his regular absences from home at meal-time. He has a wonderful gift for laughing at the same jokes banquet after banquet, and is affectionately known as We-have-with-us-to-night Young.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1295,7 +1296,7 @@ Well, congratulations, Torchy. You have frequently surprised me by rising to the
 <p>LOOKING at the $30 a month that the government pays, and at the amount that will be left in his bank account after the income-tax collector passes by, Vincent Astor decided that there was no doubt as to where his duty lay. He is an ensign in the Aëro Department of the Navy, and frequently flies over the farm which his great-grandfather bought&#8212;the present home of 5,000,000 souls and Mayor Hylan.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1710,7 +1711,7 @@ cajolery, Napoleon had no difficulty in outwitting Alexander. He told him tales 
 <p></p>
 <figDesc>Advertisement for Pelton Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1925,14 +1926,14 @@ when Mr. Kinsley, who had overheard it from his private office, came out and ask
 <p></p>
 <figDesc>Advertisement for Federal School of Applied Cartooning</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="terhune.19180420.jump.001">
 <body>
 
-<p rend="jumpline"><ref target="terhune.19180420">Cashing In&#8212;<hi rend="italic">Continued from page 7</hi></ref></p>
+<head type="main">Cashing In&#8212;</head><p rend="jumpline"><ref target="terhune.19180420"><hi rend="italic">Continued from page 7</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2025,7 +2026,7 @@ when Mr. Kinsley, who had overheard it from his private office, came out and ask
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2067,7 +2068,7 @@ with the production of food supplies could be studied.</p>
 <text type="fiction" xml:id="terhune.19180420.jump.002">
 <body>
 
-<p rend="jumpline"><ref target="terhune.19180420.jump.001"><hi rend="italic">"Cashing In"&#8212;Continued from page 19</hi></ref></p>
+<head type="main">"Cashing In"&#8212;</head><p rend="jumpline"><ref target="terhune.19180420.jump.001"><hi rend="italic">Continued from page 19</hi></ref></p>
 
 <cb n="1"/>
 
@@ -2222,7 +2223,7 @@ couldn't perform. But it was going to make an exception now. He realizes Miss Hu
 <p></p>
 <figDesc>Advertisement for Foster Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2299,7 +2300,7 @@ disgusted me, so the second time I put in a very large charge.</p>
 <p></p>
 <figDesc>Advertisements for Personal, Michigan Farm Lands for Sale, Corporations, Song Poems, Help Wanted&#8212;Female, Female Help Wanted, Agents Wanted, Help Wanted&#8212;Male, Photoplays, Stories, Etc., Help Wanted, Song Poems, News Correspondents, Photoplays, and Short Stories, Manuscripts Wanted.</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2578,7 +2579,7 @@ would rather not live any longer. I am ready."</p>
 <p></p>
 <figDesc>Advertisement for The Colson Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2593,7 +2594,7 @@ would rather not live any longer. I am ready."</p>
 <p></p>
 <figDesc>Advertisement for Gruen Verithin Watch</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

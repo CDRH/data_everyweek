@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170604">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170604</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170604</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -108,7 +109,7 @@
 
 <group>
 
-<pb n="Page 2" xml:id="ew.issue.19170423.p002" />
+<pb n="Page 2" xml:id="ew.issue.19170604.p002" />
 
 <text type="advertisement" xml:id="gem.19170604">
 <body>
@@ -124,7 +125,7 @@
 <p></p>
 <figDesc>Advertisement for United States Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1651,7 +1652,7 @@ That night after the performance she went to Chapin's for supper with Ted and Tu
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1705,6 +1706,7 @@ That night after the performance she went to Chapin's for supper with Ted and Tu
 <figDesc></figDesc>
 </figure>
 
+<p/>
 </body>
 </text>
 
@@ -1828,7 +1830,7 @@ booklet. Also let me express my appreciation of the way you make your authors pe
 <p></p>
 <figDesc>Advertisement for "Bull" Durham</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1836,13 +1838,13 @@ booklet. Also let me express my appreciation of the way you make your authors pe
 
 <text type="fiction" xml:id="jordan.19170604">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p>"Was he being impertinent, or was he making talk? She wished she knew."</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">The Mollycoddle</head>
 <byline>By <persName type="author" key="#Jordan, Elizabeth">ELIZABETH JORDAN</persName></byline>
 <byline>Illustrations by <persName type="illustrator" key="#Booth, Hanson">Hanson Booth</persName></byline>
@@ -3142,7 +3144,7 @@ eat." Lydie spoke very low. "I've had some coffee&#8212;it's all I want."</p>
 <figDesc>Advertisement for Wizard Foot Appliance Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -3156,7 +3158,7 @@ eat." Lydie spoke very low. "I've had some coffee&#8212;it's all I want."</p>
 <p></p>
 <figDesc>Advertisement for The Shredded Wheat Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

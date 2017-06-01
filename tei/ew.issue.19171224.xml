@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19171224">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19171224</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19171224</idno>
 </publicationStmt>
             
 <notesStmt>
@@ -80,10 +81,10 @@
             
 <titlePage>
 <docTitle>
-<note>NOTICE TO READERS: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General</note>
 <titlePart type="main">Every Week</titlePart>
 <titlePart type="price">3&#162;</titlePart>
 <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+<note>NOTICE TO READERS: When you finish reading this copy of Every Week place a one-cent stamp on this notice, hand same to any postal employee and it will be placed in the hands of our soldiers and sailors at the front. No wrapping, no address.&#8212;A. S. Burleson, Postmaster General</note>
 </docTitle>
 <docEdition></docEdition>
 <docImprint>
@@ -702,7 +703,7 @@ every week during the season; heard scores of free concerts; spent days and days
 
 <p>On this second morning Sargent compelled himself to dictate a dozen letters simply for the sake of moral effect; and Miss Hastings, now that she was nerved to the occasion, missed hardly a pothook. Thereafter she sparred zealously at her typewriter; and Sargent, from the safety zone behind her, found many opportunities to neglect his work and to 
 
-<cb n="Page 6" xml:id="ew.issue.18171224.p006"/>
+<pb n="Page 6" xml:id="ew.issue.18171224.p006"/>
 
 <cb n="1"/>
 
@@ -1564,7 +1565,7 @@ Philip's rifle braced it across his knee, and with a single effort snapped the s
 <p>ONE gets one's first disillusionment about Christmas at the age Mary Pickford looks in this picture when the bump in the stocking that looked like a baseball turns out to be an orange, and what looked like a ring box turns out to have a thimble in it. After that follow the long, lean years of wash rag cases, hair receivers and plates for the plate rail or decorated suspenders, redecorated slippers, fancy shaving sets and pipe racks. Couldn't, we inquire in all sincerity, Christmas and the Christmas spirit be sort of broken up and distributed round the rest of the year?</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1641,7 +1642,7 @@ surprised but pleased, promptly got. And her work was so good that they kept her
 <p>IN Hungary, a simple father, discovering that his girls, age eight, were acting in a theatre, promptly bundled them off to a convent. Later he came to America, and the girls, the minute the age limit was reached, began to dance and have danced ever since as "The Dolly Sisters." In 1915 Rozsika Dolly decided to become Mlle. Rozsika, and she was christened with elaborate ceremonies on the stage of the Winter Garden. It couldn't have been done better if she had been a battleship. She was surrounded with roses, and a bottle of champagne, provided by Diamond Jim Brady, was poured over one foot.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1693,7 +1694,7 @@ surprised but pleased, promptly got. And her work was so good that they kept her
 <p>LOOKING over the college students of the country to find one to include on this page of muchest's and mostest's, the judges agreed finally on Mrs. Louis Prang of Syracuse, New York. In June Mrs. Prang received a degree from Radcliffe, her record having been made a part of historical annals of the college; and this Fall finds her working "way at another college, seeking  further honors. She is 81 this year, and when she has finished with all that the colleges can teach her, plans to become a regular reader of this magazine and learn the rest.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2089,7 +2090,7 @@ many victims as do the enemy's bullets.</p>
 
 <p>On the basis of the 5,000,000 horses killed since the beginning of the conflict, about 140,000 are lost every month, so that the purchasing commission for the Allies is forced to keep up the supply of new animals at this rate or as close to it as possible. About 5% of the horse population of the United States have been fed to the war god and nearly 7% of the mules.</p>
 
-<figure>
+<figure n="photograph">
 <head></head>
 <ab n="credit"></ab>
 <p>Without them there could have been no charge of the Light Brigade.</p>
@@ -2361,7 +2362,7 @@ successful one. My old horror of poverty had disappeared with my growing income,
 <p></p>
 <figDesc>Advertisement for The Cash-In Club</figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2594,7 +2595,7 @@ it to be. Our one extravagance is books and magazines. We have a few good friend
 <p></p>
 <figDesc>Advertisements for Patents, Corporations, Games and Entertainments, Help Wanted&#8212;Male, Short Stories, Manuscripts Wanted, Photoplays, Stories, Etc., Personal, Female Help Wanted, Schools and Colleges, Help Wanted&#8212;Female, News Correspondents, and Photoplays</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2609,7 +2610,7 @@ it to be. Our one extravagance is books and magazines. We have a few good friend
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2896,7 +2897,7 @@ Savings and Trust Company, Cleveland, Ohio, for free booklet "P."</p>
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2911,7 +2912,7 @@ Savings and Trust Company, Cleveland, Ohio, for free booklet "P."</p>
 <p></p>
 <figDesc>Advertisement for Victor Talking Machine Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

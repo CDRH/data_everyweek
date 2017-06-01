@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19180525">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19180525</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19180525</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -124,7 +125,7 @@
 <p></p>
 <figDesc>Advertisement for The L. &amp; M. Rubber Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -201,7 +202,7 @@
 <p></p>
 <figDesc>Advertisement for Waterman's Ideal Fountain Pen</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1085,7 +1086,7 @@ which had replaced her cheap cotton dress.</p>
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1177,7 +1178,7 @@ smile that dentists always assume when they tell you that "this won't hurt."</p>
 <p>IN his day, "Mysterious Billy" Smith took them as they came; and the bigger they were the harder they fell. Fear and pity were equally unknown to him: he loved the game. But somebody got him, after a while; and he tried vaudeville and bartending and other things, all without success. A little while ago he tried to "come back." It happened in Portland, Oregon, against a man named Jack Root: and Billy's head, thumping hard on the canvas, proved again the wise old truth that "they never come back." Good-by, old prize-fighters. We wonder what becomes of old editors?</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1229,7 +1230,7 @@ we are forty he has made what he likes of us.</p>
 <p>"CAN I have forgotten anything?" and "Oh, dear, if only I hadn't done that!" are two excellent little chisels for those up-and-down lines between the eyebrows and those bias lines around the mouth. Jokes culled from this magazine, on the contrary, smooth out all worry lines and turn the battle-scarredest curmudgeons into Merry Pickfords.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1309,7 +1310,7 @@ been shot down from his aeroplane at a height of three thousand feet, landed rig
 <p></p>
 <figDesc>Advertisement for Paramount Artcraft Pictures</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1556,7 +1557,7 @@ and I'll tell you the truth. You ain't got long&#8212;but how long or how short 
 <p></p>
 <figDesc>Advertisement for United States Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2010,7 +2011,7 @@ says I to Exchange, "and keep it up until you rouse somebody."</p>
 <figDesc>Classified Advertising, including Song Poems, Agents, Song Poems, Corporations, Wedding Invitations, Help Wanted Female, Photoplays, Stories, Etc., Female Help Wanted, Business Opportunities, Short Stories Manuscripts Wanted, Salesment, Short Stories Wanted, News Correspondents, and Photoplays</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2023,12 +2024,12 @@ says I to Exchange, "and keep it up until you rouse somebody."</p>
 
 <div1>
     
-<!--<figure n="illustration">
+<figure n="illustration">
 <head></head>
 <p>The three lines running diagonally across this map show the path of the black shadow that will be caused by the total eclipse of the sun on June 8. This shadow will strike its American path in the State of Washington, and run down across the country and off the Florida coast in less than an hour. These States will not be visited by another eclipse for three centuries, the scientists estimate.</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="sub">An American Eclipse of the Sun</head>
 
 <p>IT is only about once in every 360 years that we Americans get a chance to stand in our own yards and see a total eclipse of the sun. And the 8th of June this year is one of those rare occasions.</p>
@@ -2071,7 +2072,7 @@ says I to Exchange, "and keep it up until you rouse somebody."</p>
 <p></p>
 <figDesc>Advertisement for Santogen The Food-Tonic Approved By Scientists</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2086,7 +2087,7 @@ says I to Exchange, "and keep it up until you rouse somebody."</p>
 <figDesc>Advertisement for The Prest-O-Lite Company, Inc.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2266,7 +2267,7 @@ Eating for Health and Efficiency," price also a jitney.</p>
 <p></p>
 <figDesc>Advertisement for John Muir &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2367,7 +2368,7 @@ Eating for Health and Efficiency," price also a jitney.</p>
 <figDesc>Advertisement for A.O. Leonard</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2381,7 +2382,7 @@ Eating for Health and Efficiency," price also a jitney.</p>
 <p></p>
 <figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>
