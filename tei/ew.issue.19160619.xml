@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160619">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160619</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160619</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -147,7 +148,7 @@
 <p></p>
 <figDesc>Advertisement for Le Page's Glue.</figDesc>
 </figure>
-                        
+<p/>             
 </body>
 </text>
                         
@@ -234,18 +235,20 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
+
 </text>
 
 <text type="nonfiction" xml:id="bruce.19160619">
 <body>
     
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <figDesc></figDesc>
 </figure>
--->
+
     
 <head type="main">Why Are Tramps?</head>
 <byline>By <persName type="author" key="#Bruce, H. Addington">H. ADDINGTON BRUCE</persName></byline>
@@ -1036,7 +1039,7 @@ Methodist Church, that might possibly do as well.</p>
 <p>WHY must a lady be compelled to sweep a room twice&#8212;once with a broom and once with a heavy skirt? Why, indeed. "Trousers are so much more convenient and sanitary," argues Mrs. A. C. McKinnon, and we second the motion.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1102,7 +1105,7 @@ Methodist Church, that might possibly do as well.</p>
 <p>NOW that even Harry Thaw finds our divorce laws altogether too lenient, Miss Gladys Hanson thinks somebody ought to look into them. Miss Hanson would have done it herself, only she is so beautiful that she had to go on the stage. Whenever she gets a chance she goes to court&#8212;she just yearned to be a lawyer&#8212;and has come to the conclusion that lawyers and actresses are very much alike. She doesn't carry her point, however, so far as to say that any good lawyer would make a good chorus girl.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2344,7 +2347,7 @@ him. Silence, however, pervaded the place.</p>
 <p></p>
 <figDesc>Advertisement for Sterling Peppermint Gum.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

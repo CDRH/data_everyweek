@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160221">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160221</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160221</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -158,7 +159,7 @@
 <head>Old Coins Wanted</head>
 <figDesc>Advertisement for Numismatic Bank.</figDesc>
 </figure>
-      
+<p/>
 </body>
 </text>
       
@@ -258,7 +259,7 @@
 <head>Patent Your Ideas</head>
 <figDesc>Advertisement for Chandlee &amp; Chandlee.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -270,6 +271,7 @@
 <figDesc></figDesc>
 <p>Vol. 2, No. 8 February 21, 1916</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1142,7 +1144,7 @@ we were following one of those age-old bush paths, so we knew that that must be 
 <ab type="credit">Photograph by Brown Brothers.</ab>
 <p>REDECORATE the Blue Room? Why bother with amateurs, when this lady is available, who has redecorated it twice already? The Colonel has had more publicity than any other living American&#8212;or dead one either, for that matter. But Mrs. Roosevelt has never granted an interview. Quietly, simply, she has kept herself in the background, caring for her children and performing the difficult functions of a President's wife with perfect tact and charm. Anything that the Colonel does is right, and anything he wants&#8212;even a third cup of coffee.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1192,7 +1194,7 @@ we were following one of those age-old bush paths, so we knew that that must be 
 <figure n="photograph">
 <ab type="credit">Photograph from Charles L. Ritzmann.</ab>
 <p>DUSE will not be interviewed; she will not be chums with the world. Did her heart really break because D'Annunzio published a book about their love? What we imagine about her does not interest Duse, who goes on her way brilliant and apart.</p></figure>
-
+<p/>
 </body>
 </text>
 
@@ -1232,7 +1234,7 @@ we were following one of those age-old bush paths, so we knew that that must be 
 <figure n="photograph">
 <head>AT REST AT LAST</head>
 <p>SO the day, which began at 3 A. M., concludes about an hour before midnight. At last comes sleep&#8212;but even while he sleeps Lawrence&#8212;the hardest working man&#8212;still works. For, instead of a downy couch in his own home-sweet-home, Lawrence lays himself out in an undertaker's parlor, and is paid by the undertaker for being on the job at night, in case of hurry calls. O death, where is thy sting?</p></figure>
-
+<p/>
 </body>
 </text>
 
@@ -1364,7 +1366,7 @@ calling his name: just 'Hawke&#8212;Hawke&#8212;' over and over again, with a do
 <figure n="photograph">
 <p>Try to imagine the comment of the bleachers if the above "strong men and true" emerged from the picture above and trotted out upon New York's Polo Grounds to take the wind out of the Phillies or the White Sox. But they played good baseball, those boys, once upon a time, in spite of their funny pants and the hirsute adornment on their chins.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1878,7 +1880,7 @@ cheeks grew rosy and a great happiness thrilled her. So&#8212;until they reached
 <head>Books One Cent Each</head>
 <figDesc>Advertisement for Star Book Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1911,7 +1913,7 @@ cheeks grew rosy and a great happiness thrilled her. So&#8212;until they reached
 <head>Classified Advertising</head>
 <figDesc>Classified Advertising, including Patents, Salesmen Wanted, Agents Wanted, Motion Picture Plays, Business Opportunities, Music Lessons at Home, and Corporations</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2144,7 +2146,7 @@ regular intervals or steps on the way up. One man would become excited and think
 <head>Every Day wear Phoenix Silk Hose</head>
 <figDesc>Advertisement for Phoenix Knitting Works.</figDesc>
 </figure>
-      
+      <p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160828">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160828</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2013 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160828</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -45,8 +46,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 9</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 9</biblScope>
 <extent>20 pages</extent>
 <date when="1916-08-28">August 28, 1916</date>
 </bibl>
@@ -117,7 +118,7 @@
 <p></p>
 <figDesc>Advertisement for Straus &amp; Schram Inc.</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
 
@@ -172,7 +173,7 @@
 <ab n="credit">Photograph from Verne Dyson.</ab>
 <p>MR. GEORGE HARRIS, of Los Angeles, is an architect who believes in going back to nature for his designs and plans. In fact, he never goes anywhere else for them. This barrel he is sitting on is one of his own designing. "A barrel is the most natural seat in the world," he declares, "for man." Straight rows of trees, regular paths, clipped lawns he abhors. "Did you ever see a deer path through the woods," he asks, "that was not pleasing in its lines?"</p>
 </figure>
-
+<p/>
 </body>
 </text>
  
@@ -187,6 +188,7 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
  
@@ -770,7 +772,7 @@ of your salary?"</p>
 <p>BEFORE the war grandmother could always be found in her corner by the fire, with willing hands ready for a thousand and one homely household tasks. As for gadding about the city or the countryside&#8212;it wasn't done. But now, with their world turned upside down by war, the chimney corner is the very last place to look for grandmothers. They are harvesting the crops, working in the factories, helping with the traffic on tram-cars and taxicabs. The hard work they have done for sixty years seems child's play to them now.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
  
@@ -849,7 +851,7 @@ of your salary?"</p>
 <p>SOME said that she fell in love with him when they were both imprisoned in the Tower, and that they were married, and that Lord Bacon was the son of their marriage. And some said that they weren't married, but were going to be. But, anyway, Robert Dudley, Earl of Leicester, managed to keep his influence strong over the great Queen Elizabeth as long as he lived. He kept his wife in the country; and when she fell downstairs and cracked her neck, he was accused of easing her along to a quick death. All of which got him nowhere; for most historians believe that Elizabeth was "wedded only to her country."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -907,7 +909,7 @@ of your salary?"</p>
 <p>EVERYBODY knew of J. Pierpont Morgan, but very few people know of Mrs. J. Pierpont Morgan, although they had been married forty-eight years when Mr. Morgan died. Daughter Anne may come out frankly since her father's death and say, "I have not yet met a man whose wife I'd rather be than the daughter of J. Pierpont Morgan." But Mrs. Morgan does not express her views. Besides a trust fund of a million dollars, Mrs. Morgan has an annual income of $100,000 and the life use of two estates.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1190,7 +1192,7 @@ in whom the wanderlust is so compelling and overpowering that, though they may s
 <p>A GOOD motto for ambitious young women is, "If you can't have a jitney, be one." "No practical advantage" in a college education, Mawruss? It doesn't equip you for life? Why, a college graduate can fill any position. We know one who can do an imitation of an elephant's hind legs that is positively convincing. Another can both compose and lead cheers in Greek. And any one of them can wear sport shirts and coats without the faintest trace of self-consciousness.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1243,7 +1245,7 @@ Photograph from Marjorie D Tooke.</ab>
 <p>JEROME PINGRAY (left) and Thomas Strain, of Bloomington, Illinois, collect rags, rubbers, and papers and sell them.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     

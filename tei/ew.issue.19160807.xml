@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160807">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160807</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2013 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160807</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -45,8 +46,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 6</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 6</biblScope>
 <extent>20 pages</extent>
 <date when="1916-08-07">August 7, 1916</date>
 </bibl>
@@ -118,6 +119,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -851,7 +853,7 @@ myself in a general way with the automobile business. When a telegram was dictat
 <p>REAL plays are given in your senior year&#8212;a new one every week. And sometimes professional managers stroll in and watch your work; and perhaps one of them will become so impressed with your Ophelia that he will let you walk across his stage in his next country-club scene.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -944,7 +946,7 @@ myself in a general way with the automobile business. When a telegram was dictat
 <p>THREE times a week little Mrs. Rebecca A.D. Stope, aged seventy-one, climbs the wooden stairway of No. 175 Broadway to a musty office with battered desks and chairs and well worn linoleum on the floor. From this center is administered the $25,000,000 Wendel estate for the sole benefit of four old ladies&#8212;all in charge of sister Rebecca. The real estate rules of the office are as follows: 1. Never mortgage anything. 2. No property for sale. 3. Remember, Broadway moves north ten blocks a decade. 4. Tenants must make their own repairs. Mrs. Stope is a landlady willing to lose money for a principle. Thousands of dollars in rentals she has sacrificed because the Wendels won't lease to saloons or restaurants; nor will they allow electric signs on their property.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1003,7 +1005,7 @@ myself in a general way with the automobile business. When a telegram was dictat
 <p>IF Miss Belle de Costa Green happens to see this picture of her in our fast growing little magazine, we desire to inform her that if she ever writes the life of her employer, the late J. P. Morgan, we should like to publish it as a serial. Few people knew Mr. Morgan so well or were trusted so largely by him. Miss Green still holds her position as librarian of the Morgan Library, and still spends thousands every year for rare old books. Not every book is valuable that smells musty: one has to have much scientific knowledge in such matters.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

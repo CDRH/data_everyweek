@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170205">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170205</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170205</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -153,7 +154,7 @@
 <figDesc>Advertisement for Evans University</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -223,7 +224,7 @@
 <p></p>
 <figDesc>Advertisement for Straus &amp; Schram (Inc.)</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -231,14 +232,14 @@
 
 <text type="fiction" xml:id="tynan.19170205">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <ab type="credit">Painted for Every Week by Wladyslaw T. Benda.</ab>
 <p></p>
 <figDesc></figDesc>
 </figure>
- -->
+
 
 <head type="main">THE GARDENER</head>
 <byline>By <persName type="author" key="#Tynan, Katharine">KATHARINE TYNAN</persName></byline> 
@@ -303,18 +304,19 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="luehrmann.19170205">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p>"Immediately, from force of habit, he began mentally to size up his companion, point by point, as if for future reference: Age, twenty-three; height, five-eleven; wiry, athletic build. Hair, blond, thick, wavy. Complexion too dark for a blond.</p>
 <figDesc></figDesc>
 </figure>
- -->
+
 <head type="main">THE OTHER BROWN</head>
 
 <byline>By <persName type="author" key="#Luehrmann, Adele">ADELE LUEHRMANN</persName><lb/>
@@ -1176,7 +1178,7 @@ much more than a lane that her disquietude suddenly shaped itself into a terribl
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1228,7 +1230,7 @@ much more than a lane that her disquietude suddenly shaped itself into a terribl
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1876,7 +1878,7 @@ the track, had been reinstated and&#8212;come back. I, ruled off the track, had 
 <p></p>
 <figDesc>Advertisement for Stowell &amp; Co. Mfrs.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2189,7 +2191,7 @@ But, of course, in such a <hi rend="italic">little</hi> village&#8212;Heavens! i
 <p>Next week we publish an article by him which we have called "Exit&#8212;the Goulds." It is a fascinating story of the rise of the Goulds to power, their decline, and final elimination as important factors in the railway world.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </floatingText>
 
@@ -2518,7 +2520,7 @@ lips to call out instead; then changed his mind about that too. Knocking on door
 <p></p>
 <figDesc>Advertisement for Wm. J. Dick</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2632,6 +2634,7 @@ lips to call out instead; then changed his mind about that too. Knocking on door
 <p></p>
 <figDesc>Advertisement for L. R. Latrobe &amp; Co.</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -2645,7 +2648,7 @@ lips to call out instead; then changed his mind about that too. Knocking on door
 <p></p>
 <figDesc>Advertisement for Peter Henderson &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

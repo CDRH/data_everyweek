@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160703">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160703</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160703</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 1</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 1</biblScope>
 <extent>20 pages</extent>
 <date when="1916-07-03">July 3, 1916</date>
 </bibl>
@@ -257,6 +258,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1249,7 +1251,7 @@ carry heavy weight. And he had planned and worked and striven to that single end
 <p>IN the afternoon, just before he was scheduled to conduct an evening performance at the Metropolitan Opera House, Dr. Leopold Damrosch died. His son Walter, only twenty years old, took his place. "It can't be done," said the wise ones; "no youngster of twenty can lead at the Metropolitan." But Walter did it. He and his father had worked together in Breslau before. Later on he built up the New York Symphony Orchestra, which means keeping in good humor seventy-five of the longest-haired musicians in the country.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1306,7 +1308,7 @@ carry heavy weight. And he had planned and worked and striven to that single end
 <p>"I BELIEVE that the United States should enlarge her army moderately&#8212;both training an extra number of officers as well as filling in the ranks," says Dr. Eliot in a letter to <hi rend="italic">Every Week.</hi> "I think that she should establish closer relations between the State militias and the national government, and encourage Congress to maintain effective militias. In my opinion, the navy should be perfected, in the light of naval experience during the present war, this perfecting to include the complete manning of the present navy and a moderate building program of the most serviceable types of vessels."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2220,6 +2222,7 @@ develops that Myra is still human. From that to allowin' a hair-dresser to be ca
 <p></p>
 <figDesc>Advertisement for Every Week Corporation.</figDesc>
 </figure>
+<p/>
 </body>
 
 </text>
@@ -2552,7 +2555,7 @@ Bresnahan, Vice-President; Bruce Barton, Secretary; R. M. Donaldson, Treasurer; 
 <p></p>
 <figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 </group>

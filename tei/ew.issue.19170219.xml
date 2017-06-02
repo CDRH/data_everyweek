@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170219">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170219</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170219</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -159,7 +160,7 @@
 <p></p>
 <figDesc>Advertisement for Auto-Knitter Hosiery Co., Inc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -230,7 +231,7 @@
 <p></p>
 <figDesc>Advertisement for Universal Mail Order Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -238,14 +239,14 @@
 
 <text type="photograph" xml:id="convalescent.19170219">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <ab type="credit">From the original painting by Howard E. Smith.</ab>
 <p></p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">THE CONVALESCENT</head>
 
 <p>PERHAPS because suffering in children is so hard for grown-ups to bear, men have turned all the forces of Science to battle against it.  One of the most inspiring of human victories is charted in the descending curve that marks the death rate of infants.  In every civilized nation the chance of a baby to grow up to manhood or womanhood is twice or three times&#8212;sometimes even ten times&#8212;as good as it once was.</p>
@@ -275,19 +276,19 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <text type="nonfiction" xml:id="shepherd.19170219">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p></p>
 <figDesc></figDesc>
 </figure>
- -->
+
 <head type="main">THERE ARE WORSE THINGS THAN SLAUGHTER</head>
 
 <byline>By <persName type="author" key="#Sheperd, William G.">WILLIAM G. SHEPHERD</persName></byline>
@@ -1115,7 +1116,7 @@ than a temporary alias, probably confined to Mrs. Malone's boarding-house. But, 
 <p>LAST but not least, the Colonel. The newspapers owe him a lot. In the good old days when paper was cheap they could always count on him for a couple of front-page columns at least. Now, when paper is expensive, he kindly subsides and saves the newspapers millions. But he will not subside for long. We can positively promise that the Colonel will come back: we can, in fact, name the day on which he will do it. It will be on a Monday morning, when news is scarcer and the front page more available.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1199,7 +1200,7 @@ than a temporary alias, probably confined to Mrs. Malone's boarding-house. But, 
 <p>"WONDER if she has been buying any cigars?" speculates the story-teller as his eye falls on the busy matron saying, "Home, James," on the Avenue. "Easiest thing in the world, you know. Heard of one the other day who stepped into a cigar store. 'Good afternoon,' she says blithely. "Here is a remnant of one of my husband's best cigars. Have you anything to match it?'"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1248,7 +1249,7 @@ than a temporary alias, probably confined to Mrs. Malone's boarding-house. But, 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1848,7 +1849,7 @@ Address...............................	</p>
 <figDesc>Advertisement for Pelton Publishing Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2556,7 +2557,7 @@ Elinor? Money. That's what. All we need and more. Whoop!"</p>
 <p></p>
 <figDesc>Advertisement for Randolph &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2840,7 +2841,7 @@ district of the prosperous Northwest&#8212;Montana, the great wheat State. This 
 <p></p>
 <figDesc>Advertisement for International Mill &amp; Timber Company.</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  

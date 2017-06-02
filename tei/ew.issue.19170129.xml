@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170129">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170129</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170129</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -269,7 +270,7 @@ vide</orig><reg>provide</reg></choice> the light in "working" hours, and a two-c
 <p></p>
 <figDesc>Advertisement for Hartman Furniture &amp; Carpet Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -277,14 +278,14 @@ vide</orig><reg>provide</reg></choice> the light in "working" hours, and a two-c
 
 <text type="nonfiction" xml:id="france.19170129">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <ab type="credit">Painted for Every Week by Ralph P. Coleman.</ab>
 <p></p>
 <figDesc></figDesc>
 </figure>
- -->
+
 <head type="main">SOMEWHERE IN FRANCE</head>
 
 <p>"EVERY man has two countries&#8212;his own and France." In no other country in the world has the burden of the war fallen so heavily on the individual as in France. In Germany and England it has cost one half the average income, but the Frenchman has paid fully three fifths. Last year France spent $8,000,000 a day&#8212;now it is $18,000,000.  In the first year and a half of fighting, out of her army of two million men more than eight hundred thousand fell. Now there are two million men on the line and sixteen hundred thousand in the depots. Every village for thirty miles back of the trenches is stuffed with reserves: France has spent herself unsparingly, yet her resources are still hardly scratched.</p>
@@ -313,7 +314,9 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
+
 </text>
 
 <text type="nonfiction" xml:id="shepherd.19170129">
@@ -1097,7 +1100,7 @@ of sawmill manners that would have had a blanket Indian lookin' like John Drew.<
 <p>THE oldest post-office in America began to be constructed 2000 years ago. This is a long time even for a government job: but the contractor in this case was Mother Nature. When done the tree-office was twelve feet across and quite a bit taller than it was broad. Then it died, and became hollow. The settlers round about chopped off the top, put a roof over the trunk, and set their R. F. D. mail-boxes inside. The R. F. D. man drives up, leaves the mail, knocks on wood, and drives away.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1194,7 +1197,7 @@ right leg in two places. On June 14, 1916, he fell off his tricycle, breaking th
 <ab type="credit">Photograph from Florence Sierer</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1240,7 +1243,7 @@ right leg in two places. On June 14, 1916, he fell off his tricycle, breaking th
 <ab type="credit">Photograph by Gertrude Brugman</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
  
@@ -2422,7 +2425,7 @@ Walt Whitman makes the best Mother Goose for very young children. The majestic o
 <p></p>
 <figDesc>Classified Advertising for Every Week and The Associated Magazines, including Corporations, Female Help Wanter, Agents Wanted, Post Cards, Patents</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
 
@@ -2630,7 +2633,7 @@ Walt Whitman makes the best Mother Goose for very young children. The majestic o
 <p></p>
 <figDesc>Advertisement for The Bayer Company, Inc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

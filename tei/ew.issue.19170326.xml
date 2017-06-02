@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170326">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170326</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170326</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -150,7 +151,7 @@
 <p></p>
 <figDesc>Advertisement for Old Town Canoe Co.</figDesc>
 </figure>
-    
+<p/> 
 </body>
 </text>
     
@@ -226,6 +227,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1481,7 +1483,7 @@ on it, a narrow, tight-lipped little mouth, and sea-green eyes. Besides, she's g
 <ab type="credit">Mutual Film Corporation</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1554,7 +1556,7 @@ on it, a narrow, tight-lipped little mouth, and sea-green eyes. Besides, she's g
 <unclear></unclear> was most rampant. In trying to keep the peace between landlords and <unclear></unclear> Forster became the butt of both factions. In heated debate, once upon <unclear></unclear> he said that buckshot would be good for the Irish Constabulary; so a <unclear></unclear> was so tender-hearted that he could not bear to shoot a bird has come <unclear></unclear> us as "Buckshot Forster"&#8212;but his mother called him "Sweet Willy."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1609,7 +1611,7 @@ on it, a narrow, tight-lipped little mouth, and sea-green eyes. Besides, she's g
 <ab type="credit">Photograph from Charles McC. Stewart</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2310,7 +2312,7 @@ Kochia, Stocks, and Verbenas. The Ricinus and the vines mentioned can also be st
 <figDesc>Advertisement for White Frost Santiary Refrigerator</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2343,7 +2345,7 @@ Kochia, Stocks, and Verbenas. The Ricinus and the vines mentioned can also be st
 <figDesc>Advertisement for Hamilton College of Law</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 <text type="fiction" xml:id="luehrmann.19170326.jump">
@@ -2859,7 +2861,7 @@ woman, still gazing at space. "He is dead, and soon I shall be dead."</p>
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -3098,7 +3100,7 @@ woman, still gazing at space. "He is dead, and soon I shall be dead."</p>
 <figDesc>Advertisement for G.P. Kimmel</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -3112,7 +3114,7 @@ woman, still gazing at space. "He is dead, and soon I shall be dead."</p>
 <p></p>
 <figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19151011">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19151011</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19151011</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -165,7 +166,7 @@
 <p></p>
 <figDesc>Advertisement for D. Swift &amp; Co.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
     
@@ -227,7 +228,7 @@ Every Week<lb/>
 
 Oct. 11, 1915</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1183,7 +1184,7 @@ party, clutchin' the slim one desperate. "Maggie! Maggie!"</p>
 <p>IT'S the same sunshine that falls on the children of the far South and of the North, but it's a very different rain. In the torrid zone, where this picture was supposed to be taken, people live very comfortably in their adobe houses; but up near Rye, New York, where masons have not as yet mastered the art of adobe house-building, the rain dissolved this edifice three times before "The Woman Next Door" could be successfully pulled through her troubles.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1310,7 +1311,7 @@ party, clutchin' the slim one desperate. "Maggie! Maggie!"</p>
 <p>KATHLEEN HOWARD, the prima donna, says that if home is woman's sphere, the railroads ought to charge her for excess luggage, for she carries hers around with her. "Home, to me," says the singer, "consists of three trunks and a coffee-machine." Miss Howard takes a little flyer into suffrage work whenever she finds herself in the thick of the fight. She has sung suffrage songs from her motor-car many times in London and New York.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2372,7 +2373,7 @@ with Edyth La Grange if I wanted to. Me 'n' her's split indefinite. An'&#8212;an
 <p></p>
 <figDesc>Advertisement for Every Week Corporation</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2454,7 +2455,7 @@ with Edyth La Grange if I wanted to. Me 'n' her's split indefinite. An'&#8212;an
 <p></p>
 <figDesc>Advertisement for Pompeian Olive Oil</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2468,7 +2469,7 @@ with Edyth La Grange if I wanted to. Me 'n' her's split indefinite. An'&#8212;an
 <p></p>
 <figDesc>Advertisement for The Mentor Association</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

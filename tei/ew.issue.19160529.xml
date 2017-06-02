@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160529">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160529</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160529</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -287,6 +288,7 @@ what I could do to make money out of such an asset. I had always read the papers
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -880,7 +882,7 @@ the aid of vanadium steel. He had similar experiences with other manufacturers.<
 <p>CARL SCHOLZ is the Florence Nightingale of hogs. In some peculiarities of the shale in a coal mine that was just about to be abandoned he discovered a cure for hog cholera. And he has found another advantage to be gained from this shale. After American laboratories had declared his idea impossible, a German chemist bore him out in the theory that an excellent paint pigment can be made from it. Mr. Scholz estimates the profits at $20,000,000. We trust he will not forget the hogs in these other possibilities.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1092,7 +1094,7 @@ gave a holler, and then I ran out. It was just like he had come out of his dress
 <p>THIS is probably the way the Roman matrons ate breakfast just before the fall of their home town. Served 'em right, too. Us for the young wife who may be heard up caroling over her hot muffins at 7 A. M. Before even considering any of your proposals this year, gentlemen, insist upon a photograph taken early in the morn, and look carefully for the smile and the crisp pink gingham frock.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1193,7 +1195,7 @@ other to her; but, in spite of them, she is still happily unmarried.</p>
 <p>Once a crass American reporter asked him if he was a woman-hater. "No," he answered; "I have never married, because I believe that a man can not be a good soldier and a good husband at the same time."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1249,7 +1251,7 @@ other to her; but, in spite of them, she is still happily unmarried.</p>
 <ab type="credit">Photograph by White.</ab>
 <p>MISS VIOLET MERSEREAU hasn't proposed to any one yet, but she's going to. The Universal Film Company wants another handsome hero for its film dramas, and Miss Mersereau is a very loyal member of the company. So she said that if they went ahead and held a handsomest man contest she would offer her heart and hand to the prize-winner. The Universal has just engaged another dozen stenographers to take care of the entrant lists.</p>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -2411,7 +2413,7 @@ estimate they and importers of cocoa beans have been robbed of about $25,000 wor
 <p></p>
 <figDesc>Advertisement for California Farm Lands, Corporations, Pictures, Post Cards, Pennants, Business Opportunities, Patents, Female Help Wanted.</figDesc>
 </figure>    
-        
+      <p/>  
 </body>
 </text>
     
@@ -2525,7 +2527,7 @@ machinery, for which there is sure to be a demand from Europe after the war. The
 <p></p>
 <figDesc>Advertisement for The Odorono Company.</figDesc>
 </figure>
-    
+ <p/>   
 </body>
 </text>
 </group>

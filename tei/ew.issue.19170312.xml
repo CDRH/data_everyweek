@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170312">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170312</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170312</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -149,7 +150,7 @@
 <head>Songwriter's "Key To Success"</head>
 <figDesc>Advertisement for Knickerbocker Studios.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -269,7 +270,7 @@ Address_	-->
 </p>
 <figDesc>Advertisement for Sears, Roebuck and Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -284,7 +285,7 @@ Address_	-->
 <p>"'Love&#8212;the real thing&#8212;is a miracle,' said he huskily.  'I don't know, Gerry,' she exclaimed.  'But I know love is love!'"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -303,6 +304,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1254,7 +1256,7 @@ leaves still uncut. Which is just the way Carranza's enemies feel about this dé
 Dr. Erdmann has specialized in the little trod and intricate byways of zoölogy, botany, mathematics, embryology, and physics. Talents differ. Some people pay the rent by writing pieces for <hi rend="italic">Farm and Fireside</hi> or the <hi rend="italic">Smart Set</hi>. When the muse overtakes Dr. Erdmann, she dashes off a critical abstract for the <hi rend="italic">Archiv f&#252;r Entwicklungsmechanik</hi>.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1332,7 +1334,7 @@ Chinese-Japanese War he <unclear>ht</unclear> the cruiser <hi rend="italic">Esme
 <p>AFTER his first trip to South America as a salesman, Herman Sielken came back with so many contracts that he forced his people to take him into partnership. At that time things in Brazil were in bad shape. Coffee was being sold to the world at a loss. Sielken went to the Brazilian government, and they appointed him coffee dictator. He used the government's credit to buy coffee crop after coffee crop, holding every single bean, waiting for the rise in price that he knew must come. When Wall Street refused to lend any more money, Herman turned to London and Paris, holding on, matching the Brazilian government's credit against the thirst of the world. Finally the thirst conquered, and the world paid Herman's price.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1381,7 +1383,7 @@ Chinese-Japanese War he <unclear>ht</unclear> the cruiser <hi rend="italic">Esme
 <p>AND Deadwood Dick&#8212;lion-hearted Deadwood Dick, who sat on the driver's seat, his trusty rifle in hand, waiting for the first red-skin or bandit to show himself from behind the bushes. What of Deadwood Dick? Our hand trembles as we write it. Deadwood Dick is on the honor roll of three express companies: he has retired to a quiet spot in California, just like any common man, and raises flowers and vegetables. Deadwood Dick raising flowers and vegetables; A No. 1 married; Pawnee Bill growing stout&#8212;woe to us, that we should ever live to such a day.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2744,7 +2746,7 @@ so long as she wasn't investin' very heavy, it didn't matter.</p>
 <p></p>
 <figDesc>Advertisement for Geo. H. Lee Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2759,7 +2761,7 @@ so long as she wasn't investin' very heavy, it didn't matter.</p>
 <p></p>
 <figDesc>Advertisement for Bayer</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

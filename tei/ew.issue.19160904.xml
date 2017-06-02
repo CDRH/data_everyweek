@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160904">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160904</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2013 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160904</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -45,8 +46,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 10</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 10</biblScope>
 <extent>20 pages</extent>
 <date when="1916-09-04">September 4, 1916</date>
 </bibl>
@@ -118,6 +119,7 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1035,7 +1037,7 @@ in sight of a group of white buildin's with black trim I begun to suspect that L
 <p>IT was a blow to the painters and sculptors when Kay Laurell left the model-stand for the strenuous life of the Ziegfeld Follies. Her measurements are exactly those of the Venus de Milo. Miss Laurell makes the seventh flawless young lady on this page; and hereafter let every old crab who fusses about there being nothing perfect in this vale of tears keep absolutely quiet.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1120,7 +1122,7 @@ in sight of a group of white buildin's with black trim I begun to suspect that L
 <p>A GOOD old cow-boy trick, this. You had to have some kind of amusement in those days. Bar Y and Star D and Circle Arrow cow-boys never talked much. You can't have much conversation when it's such bad form to say, "Beg pardon, old man, I didn't catch the name," that you may get shot. And the only kind of joke that gets a laugh is when the Chinese cook gets chased by a steer or a veteran horse-breaker is thrown by a new pony.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1178,7 +1180,7 @@ in sight of a group of white buildin's with black trim I begun to suspect that L
 <p>JOHN CLARK of Kingston, New Hampshire, had a good home, a fat bank account, and could sit under his own roof-tree with the assurance of three squares a day, whether he turned his hand over or not. But John wanted to get pleasure out of life in his own way. So he fitted up a tin peddler's cart, with all the shiny things that farmers' wives and children love but can't always afford. When asked how his business goes, John replies, "Oh, I guess I break about even"; but there are plenty of tales in the hill country about how luxuries find their way into homes that have known too few luxuries.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 

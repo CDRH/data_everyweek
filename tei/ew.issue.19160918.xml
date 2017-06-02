@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160918">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160918</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160918</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 12</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 12</biblScope>
 <extent>20 pages</extent>
 <date when="1916-09-18">September 18, 1916</date>
 </bibl>
@@ -264,6 +265,7 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1045,7 +1047,7 @@ my sweetheart and her mother time to make their escape before we got to pounding
 <p>REPORTERS are fond of beginning their accident stories, "A woman screamed&#8212;" A woman screams only when she has a grasshopper down her neck. Della Evans, for instance, wasted no time in screaming when she got the news of Villa's raid. She was the first one to jump on a horse and ride some twenty miles to warn the next neighbors. Della was born in Mexico, and knows every inch of the border country.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1099,7 +1101,7 @@ my sweetheart and her mother time to make their escape before we got to pounding
 <p>"MY only regret is that I have but one life to give for my country," said Nathan Hale. He had tried to creep through the British lines with information for Washington, and the British caught him and executed him as a spy. In these pacifist days, there are many people who think that all the statues of Nathan Hale and Betsy Ross should be torn down, and statues of Henry Ford and Jane Addams put up instead. One of those who disagree is Mr. Lewis M. Wells, who posed for this statue. It's no cinch standing all day with no exercise but winking your eyelids, says Mr. Wells, and now that his statue is up, he wants it to stay there.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1140,7 +1142,7 @@ my sweetheart and her mother time to make their escape before we got to pounding
 <p>THE activities of a sort of leonine Lord and Lady Macbeth nearly stopped the building of the Uganda Railway in British East Africa. The relentless beasts made nightly visits to the camp, until twenty-eight coolies had been carried off and devoured, two at a time. They were finally laid low by Colonel Patterson, the engineer in charge. The king of beasts' idea of comfort is to sleep all day, after a full meal and an elaborate bath, in a cool cave near water; and his guiding principle is to kill anything that he doesn't fully understand.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -2015,7 +2017,7 @@ thick gloom of forest again&#8212;in and out of starlight and darkness, followin
 <p></p>
 <figDesc>Advertisement for Every Week Corporation and The Associated Magazines.</figDesc>
 </figure>
-    
+  <p/>  
 </body>
 </text>
     
@@ -2137,7 +2139,7 @@ towns where the two women live that sell them.</p>
 <p></p>
 <figDesc>Advertisement for Standard Oil Company.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 </group>

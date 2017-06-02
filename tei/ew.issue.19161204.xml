@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161204">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161204</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161204</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 23</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 23</biblScope>
 <extent>24 pages</extent>
 <date when="1916-12-04">December 4, 1916</date>
 </bibl>
@@ -147,7 +148,7 @@
 <p></p>
 <figDesc>Advertisement for J. A. White Lumber Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -230,6 +231,7 @@
 Every Week<lb/>
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
     
@@ -1566,7 +1568,7 @@ sight of him she felt as lost as a child in a forest. She had nothing to lean up
 <p>SHE is the daughter of an Irish knight of Kerry, the granddaughter of a Jewish banker of Vienna, and the widow of Lord Richard Wellesley, whose ancestor Wellington accomplished so much for England at the battle of Waterloo. Lord Richard, wearing both the Queen's medal and the King's medal, was killed at the beginning of the war somewhere in South Africa. He left this young war widow spending her grandfather's Austrian money for England.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1648,7 +1650,7 @@ sight of him she felt as lost as a child in a forest. She had nothing to lean up
 <p>IF one pearl of twelve grains, perfect in color and beauty, is worth three thousand dollars, how many necklaces can Rockefeller buy with $378,353, if each necklace contains as many pearls as Mrs. George Gould is wearing in this picture? Count the pearls first, dear reader, and then figure it our for yourself. And when you have the answer, you can tell to a nicety just how many mollusks were made uncomfortable in order to produce those pearls. For pearls are lustrous concentrations consisting essentially of carbonate of lime, formed when a grain of sand or some foreign substance enters the oyster's shell, much against the oyster's wishes.</p>
 <figDesc></figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 
@@ -1699,7 +1701,7 @@ sight of him she felt as lost as a child in a forest. She had nothing to lean up
 <p>NO forty more winks for these chaps when their alarm goes off. The moment's delay of an overturned boot might cost a child's life. Twice in three days, on an average, the scramble for the brass pole begins. In New York City, for five days out of six, every hour of the twenty-four, these men are at the service of the other fellow&#8212;his life and property.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -2926,7 +2928,7 @@ seven of us. We are poor and do need all he can make; but the children and I wou
 <p></p>
 <figDesc>Advertisement for The Mentor Association.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 
@@ -2941,7 +2943,7 @@ seven of us. We are poor and do need all he can make; but the children and I wou
 <p></p>
 <figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
 </figure>
-    
+ <p/>
 </body>
 </text>
 </group>

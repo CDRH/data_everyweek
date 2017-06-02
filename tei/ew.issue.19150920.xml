@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19150920">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19150920</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19150920</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -246,7 +247,7 @@ Every Week<lb/>
 
 September 20, 1915</p>
 </figure>
-
+<p/>
 </body>
 </text>
  	
@@ -1298,7 +1299,7 @@ pieces; so she studied, was admitted to the bar, and practised. Later, her son. 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1379,6 +1380,7 @@ brink of the canon, fell, slid, scrambled, and at last sprawled on his back at t
 <p>The builders of the Tower of Babel reached a height of 680 feet before they all got mixed in their tongues; but the Woolworth Building rises to 692 feet (60 stories) and houses a working family of 11,000 people. From its top can be seen, "on a clear day." Princeton to the south and West Point to the north, both forty miles away. This picture was taken from the roof' of the Municipal Building, with an exposure of twelve minutes.</p>  
 <figDesc></figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -2057,7 +2059,7 @@ all the talking. It's a shame the way they all throw a director down.</p>
 <figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2097,7 +2099,7 @@ all the talking. It's a shame the way they all throw a director down.</p>
 <figDesc>Advertisement for Mark-Goldsmith Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2280,7 +2282,7 @@ Cañon City, Colorado, and Phœnix and Yuma, Arizona, and will return along the 
 <p></p>
 <figDesc>Advertisement for Florence Mfg. Co.</figDesc>
 </figure>
-
+<p/>
 </body>    
 </text>
 </group>

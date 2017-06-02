@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19150816">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19150816</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19150816</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -245,6 +246,7 @@ blood supply that is so necessary to <unclear reason="torn"/> digestion.</p>
 Every Week<lb/>
 Aug. 16, 1915</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -423,6 +425,7 @@ ment</orig><reg>instrument</reg></choice> to notify all subscribers whenever a p
 <figDesc></figDesc>
 <p>The "movies" do not demand sunshine any more. Huge electric lights make it possible for the cameras to click on at a rate of sixteen pictures a second. Screens focus the light on the subject. This picture is from "The Silent Command."</p>
 </figure>
+<p/>
 </body>
 </text>
     
@@ -1002,7 +1005,7 @@ forgets her words for her? Why did she not coquet, ever so little?</p>
 <figDesc></figDesc>
 <p>"THE Daredevil of the Movies" is a common name for Marie Walcamp, who is with the Universal Company, because she has shown such courage in her scenes with animals. This act with two leopards almost cost her her life, but she ran an even greater danger in another picture, where she entered a cage with a lion that had been starved for two days.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1060,6 +1063,7 @@ forgets her words for her? Why did she not coquet, ever so little?</p>
 <head>The Sun-God and the Python</head>
 <p>This striking bronze, the work of Anna Coleman Ladd, stands beside the Fine Arts Palace in the San Francisco Exposition grounds.</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -2012,6 +2016,7 @@ star sprang up. I saw nothing of what I had dreaded &#8212;no husband waiting fo
 </figure>
 
 <note type="editors">All contributions to this magazine should be addressed to the Editor Every Week Ninety five Madison Avenue New York City</note>
+<p/>
 </body>
 </text>
 
@@ -2097,7 +2102,7 @@ star sprang up. I saw nothing of what I had dreaded &#8212;no husband waiting fo
 <figDesc>Classified advertisement for Stoddard Incorporating Company, Phoenix, Arizona</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2112,6 +2117,7 @@ star sprang up. I saw nothing of what I had dreaded &#8212;no husband waiting fo
 <p>Give youngsters Shredded Wheat for breakfast, with milk or cream; give them Shredded Wheat for lunch or supper, with berries or other fresh fruits. The combination fortifies them against the distressing digestive disorders that are the bane of childhood.</p>
 <p>Made only by The Shredded Wheat Company, Niagara Falls, New York</p>
 </figure>
+<p/>
 </body>
 </text>
 </group>

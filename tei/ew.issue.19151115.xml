@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19151115">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19151115</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19151115</idno>
 </publicationStmt>
 <notesStmt>
 <note type="project">Page 20 missing from University of Wisconsin issue; not provided by NYPL.</note>
@@ -269,7 +270,7 @@ Every Week<lb/>
 
 Nov. 15, 1915</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1190,7 +1191,7 @@ through the wall of the swimming-pool after they were inside. Didn't they see ev
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1235,7 +1236,7 @@ through the wall of the swimming-pool after they were inside. Didn't they see ev
 <p>ON the right is Maude Adams in "Quality Street"; on the left a star and starress of to-day in "Twin Beds," a clean and harmless little farce of last season. No pictures could show more clearly the changes that fifteen or twenty years have wrought in the stage. And the stage is only the mirror of real life. Modesty may not have suffered in the greater freedom of present-day life, but reticence and reserve certainly have. And we wonder whether, in tossing aside the constraint and stiffness of former days, modern lovers have not lost something of the old chivalric spirit that ought not to have been lost?</p>
 <figDesc>Two photographs</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1310,7 +1311,7 @@ through the wall of the swimming-pool after they were inside. Didn't they see ev
 <p>WHEN Charles Hanson Towne was just escaping from long division into percentage, he and another chap started a magazine called the <hi rend="italic">Unique Weekly</hi>, with "personals" in it and ads and everything. He has never got over the habit, as the <hi rend="italic">Smart Set</hi>, the<hi rend="italic"> Designer</hi>, and now <hi rend="italic">McClure's</hi> testify. He looks down-hearted here, but that is because outside of hours he is a humorist and a poet.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2140,7 +2141,7 @@ Owls, eh? What is that&#8212;one of these insurance schemes?"</p>
 <p></p>
 <figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2208,7 +2209,7 @@ Owls, eh? What is that&#8212;one of these insurance schemes?"</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>	
 
@@ -2296,7 +2297,7 @@ She Writes a Play</head>
 <p></p>
 <figDesc>Advertisements for Miscellaneous, Corporations, Business Opportunities, Games and Entertainments, Coins and Stamps, and Building Material.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     

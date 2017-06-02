@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160605">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160605</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160605</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -147,7 +148,7 @@
 <p></p>
 <figDesc>Advertisement for Pease Mfg. Co. Inc.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -236,6 +237,7 @@
 Every Week<lb/>
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -807,7 +809,7 @@ throwing himself down in a chair and twisting his mustache in nervous excitement
 <p>FROM break of day until setting sun George Shellehamer of Carlisle, Pennsylvania, is teamster for a coal company and dresses simply and quietly, like this. When the city lights are turned on, George becomes a theater cop, and appears in the lobby of the largest theater, looking very elegant in his uniform.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -917,7 +919,7 @@ course.</p>
 <p>AND finally, completing your palatetial education, you should drop in on this happy family and have a little of the fin and tail of a shark, a delicate portion of lizard. a steak of monkey, a salad of rare snakes, and an entrée made of ants' eggs, together with fried locusts. If you prove an exemplary guest, your hosts may give you a cocoanut cup filled with akmy,a red liquor, very soothing. But if you should forget yourself, you may be present at the next day's dinner, very brunette, very tender, very fragrant, but not very observing.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1011,7 +1013,7 @@ course.</p>
 <head></head>    
 <p>AND Wagner. Job the Uzzite was no more tried than the composer of "Tristan and Isolde" back there in the sixties, when his operas were the favorite text for the comic weekhes. The great composer was then also suffering from terrible boils, so that he "could neither he down, nor sit up, nor yet move." So it is little wonder that in 1861, after Paris had hooted at "Lohengrin," he wrote to his wife, the woman who "could not understand": "Ah, Minna, try to be kinder. My poor pluck is below nothing. I would end all this, &#8212;indeed, I am now thinking of it with longing, &#8212;but the picture of you left alone rises up before me. I must not desert you. Thy care-laden husband who is strictly all homeless and wretched."</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1069,7 +1071,7 @@ course.</p>
 entitled "Petals from a Rose Jar."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1833,6 +1835,7 @@ kept decently clean, and manage a charity for German widows and children.</p>
 <p></p>
 <figDesc>Advertisement for Every Week Corporation.</figDesc>
 </figure>
+<p/>
 </body>
 </text>
     
@@ -2037,7 +2040,7 @@ that "an apple a day keeps the doctor away." yet it can not be denied that it ma
 <p></p>
 <figDesc>Advertisement for The Shredded Wheat Company.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     

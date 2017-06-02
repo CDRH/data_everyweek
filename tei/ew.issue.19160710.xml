@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160710">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160710</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2013 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160710</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 2</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 2</biblScope>
 <extent>20 pages</extent>
 <date when="1916-07-10">July 10, 1916</date>
 </bibl>
@@ -148,7 +149,7 @@
 <p></p>
 <figDesc>Advertisement for G. P. Kimmel.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -243,6 +244,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1162,7 +1164,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 <p>"YOU shall not press down upon labor's brow this crown of thorns; you shall not crucify the peepul on a cross of gold," thundered W. J. Bryan in 1896; and, immediately after, a convention that had hardly heard his name twenty-four hours before chose him as its nominee for President. Later he became Secretary of State and spent most of his time signing peace treaties and temperance pledges. His favorite drink is grape juice. He and Henry Ford are suspected of joining on a platform of "Peace, pop, and prosperity."</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -1223,7 +1225,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 <p>ONCE upon a time, down in Hobart, Georgia, the Episcopal Church had a very charming soloist named Louise Vale. Here she is. But even a choir rail is no protection against movieitis. It got to the point where Miss Vale really couldn't enjoy a picture, for thinking of how it would feel to be the lovely lady whom the wicked man in the small dark mustache simply wouldn't let alone. Now she is a sure 'nuff actress, and has pearls in her hair and round her neck and everything.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1288,7 +1290,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 <p>IF you're going to be a sky-pilot, why not go at it right? The Rev. Joel H. Metcalf of Winchester, Massachusetts, preaches every Sunday, and between times looks at the stars through his big telescope and across fifty million miles of space. He has discovered three comets, which have been named in his honor "Metcalf comets," and fifty new asteroids. His research work has brought him medals from various astronomical societies and a fellowship in the American Academy.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1297,11 +1299,11 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 <text type="fiction" xml:id="derieux.19160710">
 <body>
  
-<!--figure n="illustration">
+<figure n="illustration">
 <head></head>
 <p></p>
 <figDesc></figDesc>
-</figure-->
+</figure>
     
 <head type="main">Her Sammy</head>
 <byline>By <persName type="author" key="#Derieux, Samuel A.">SAMUEL A. DERIEUX</persName></byline>
@@ -2577,7 +2579,7 @@ is a test as to whether the bond is salable, and you don't want to buy a bond th
 <p></p>
 <figDesc>Advertisement for The Shredded Wheat Company.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 </group>

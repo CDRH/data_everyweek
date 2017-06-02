@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170122">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170122</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170122</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -136,7 +137,7 @@
 <head>Unitarianism</head>
 <figDesc>Advertisement for Associate Department C.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 
@@ -258,7 +259,7 @@
 <head>Telbax Playing Cards</head>
 <figDesc>Advertisement for The Telbax Company</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -297,12 +298,12 @@
 <ab type="credit">Underwood &#38; Underwood</ab>
 <p>HENRY FORD, still healthy and strong enough to ride in his own automobile, left the farm at sixteen to become a machine apprentice in Detroit. A few years later, when he married, he accepted the gift of an eighty-acre farm from his father, and tried to interest himself in agriculture. But it was no use. He was back in Detroit after a few months, working twelve hours a day as an engineer for $45 a month. In 1898 he organized the Auto Company, and received a salary of $100 a month as engineer; and in 1903 he was able to start the Ford Company, and to increase his salary to $2400 a year. But always he saved&#8212;and the Ford Company is one of the few great industries in the country that have been built entirely out of their own savings, without the aid of borrowed money.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
 <pb n="Page 5" xml:id="ew.issue.19170122.p005" />
-<!-- KJH stopped here 2.11.15 -->
+
 <text type="flag">
 <body>
 <figure n="flag">
@@ -318,17 +319,19 @@ $1.00 per Year<lb/>
 3 Cents a Copy<lb/> 
 </p>
 </figure>
+<p/>
 </body>
+
 </text>
 
 <text type="fiction" xml:id="child.19170122">
 <body>
     
-<!--<figure n="illustration">
+<figure n="illustration">
 <head></head>
 <p>"'Want to Hear?' 'No,' said the older man. 'Don't tell me. Well&#8212;of course&#8212;" 'Yes, of course,' the son repeated. Her name is Vanessa Cherrill'"</p>
 <figDesc></figDesc>
-</figure>-->
+</figure>
     
 <head type="main">HARD OF HEAD</head>
 <byline>By <persName type="author" key="Child, Richard Washburn">RICHARD WASHBURN CHILD</persName></byline>
@@ -1202,7 +1205,7 @@ know that she can give away ten pounds to the best horse in the race and breeze 
 <p>"HALF a yard of chiffon, Any kind of jewel, Makes a ballet costume, Chic and very cool." Something might be said in favor of the present craze for nothingness if thrift were served thereby. But no such luck. The two and a half yards of flimsy stuff that makes a present-day costume is billed to husband at about four times what his father had to pay for a real dress. Good-by, economy; good-by, modesty; good-by, reticence. The theater, the fashion magazines, and the shop windows are all in league to destroy the old-fashioned virtues. This magazine alone stands firm. Give us back the old long skirt that could have an inch a year cut off and be handed down to each girl in the family.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1279,7 +1282,7 @@ know that she can give away ten pounds to the best horse in the race and breeze 
 <p>Only, that isn't the way they act. "Muriel," says her mother, when the weeping bride climbs over the back fence and starts spearing round for a little sympathy, "this is my busy day. When you married Jack I told him he was too good for you. With your ungovernable temper, you are fortunate to have as kind a husband as you have."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1327,7 +1330,7 @@ know that she can give away ten pounds to the best horse in the race and breeze 
 <p>ON the side of a hill lives Henry L. Shaug, and rejoices in the title of the most independent man. An artesian well behind his house gives him all the water he needs, and enough to sell to the neighbors below; a gas well, also in the back yard, gives him light and fuel. He has no rent, no water, gas, or electric light bills, and almost no food bills, thanks to his bountiful garden. Where is this happy man? you ask. Ladies, we promised not to tell. As we said, he rejoices in his independence.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1849,7 +1852,7 @@ like eye-glasses. It may be that you need a spun brass diaphragm because you can
 <head>Men Wanted</head>
 <figDesc>Advertisement for Practical Auto School</figDesc>
 </figure>
-    
+ <p/>
 </body>
 </text>
 
@@ -2324,7 +2327,7 @@ up with extended hands, and took both the girl's hands.</p>
 <head>10c a Day</head>
 <figDesc>Advertisement for The Rudolph Wurlitzer Company</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 
@@ -2670,7 +2673,7 @@ her words were unintelligible.</p>
 <head>Write for Samples of these Two Creams</head>
 <figDesc>Advertisement for Ponds Extract Co.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170319">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170319</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170319</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -123,7 +124,7 @@
 <figDesc>Advertisement for Du Pont Fabrikoid Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 <text type="nonfiction" xml:id="barton.19170319">
@@ -199,7 +200,7 @@
 <p></p>
 <figDesc>Advertisement for William Campbell Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -240,6 +241,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -966,7 +968,7 @@ soon. But how could I explain that to strangers? I told you, because I trusted y
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1038,7 +1040,7 @@ soon. But how could I explain that to strangers? I told you, because I trusted y
 <p>SO we come to the end of the page; and as we look back over our work we modestly pronounce it good. The world will henceforth be relieved; magazine editors will have to go to work for their salaries instead of lecturing before women's clubs; and the United States mails will be much lighter. We believe we have disposed of all the worst offenders among the picture pages. Did we say all? Stop. What is this? One more candidate, jailer, before the iron doors swing shut. Into the cage with our old oaken friend, the picture page headed "Among the Social Workers."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1092,7 +1094,7 @@ soon. But how could I explain that to strangers? I told you, because I trusted y
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1435,7 +1437,7 @@ ordinary supply wagon. The sides of the body are designed to open, providing a p
 <p></p>
 <figDesc>Advertisement for Harper &amp; Brothers</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2273,7 +2275,7 @@ with the sense of his helplessness. She had meant what she said, and would not b
 <p></p>
 <figDesc>Classified Advertising, including California Farm Lands, Agents Wanted, Corporations, Help Wanted Female, Help Wanted Male, Stocks and Bonds, Stamps and Coins, Photoplays, Stories, Etc., Patents and News Correspondents</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2335,7 +2337,7 @@ with the sense of his helplessness. She had meant what she said, and would not b
 <p></p>
 <figDesc>Advertisement for Randolph &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2463,7 +2465,7 @@ with the sense of his helplessness. She had meant what she said, and would not b
 <p></p>
 <figDesc>Advertisement for G.P. Kimmel</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -2477,7 +2479,7 @@ with the sense of his helplessness. She had meant what she said, and would not b
 <p></p>
 <figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170409">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170409</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170409</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -121,7 +122,7 @@
 <p></p>
 <figDesc>Advertisement for United States Rubber Company.</figDesc>
 </figure>  
-      
+<p/>  
 </body>
 </text>
     
@@ -208,6 +209,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1313,7 +1315,7 @@ room there was no sound except the brushing of Mrs. Martinez's trembling hand ag
 <ab type="credit">Triangle Griffith.</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1397,7 +1399,7 @@ cheaper brands of cigarettes. It was in the blood. Even at that tender age she l
 <ab type="credit">Triangle.</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1443,7 +1445,7 @@ cheaper brands of cigarettes. It was in the blood. Even at that tender age she l
 <p>JOHN EDWARD O'SULLIVAN ADDICKS, the master millionaire for a day, after living at the Waldorf, after casually checking $100,000 in the coat-room and presenting a cabby with a sealskin overcoat, was finally found in a Hoboken flat, with an unpaid gas bill for $14.84. "Let in on" the invention of water gas, he sold it to the Standard Oil for $300,000. With this for a starter he began a spectacular manipulation of gas companies, clearing $7,000,000 in one trip to Boston. In 1914 came his downfall&#8212;with one charge against him of $4,000,000.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1873,7 +1875,7 @@ another track altogether. I had been to several places where my father had been 
 <p></p>
 <figDesc>Advertisement for The Baroda Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2016,10 +2018,11 @@ You may send me prepaid a copy of Corrective Eating in 24 Lessons. I will either
 Name	 City	
 Address	State	-->
 </p>
+<p/>
 <figDesc>Advertisement for Corrective Eating Society, Inc.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2052,19 +2055,19 @@ Address	State	-->
 <figDesc>Advertisement for Woodstock Typewriter Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
 <text type="nonfiction" xml:id="love.19170409">
 <body>
-    <!-- 
+
 <figure n="illustration">
 <head></head>
 <p></p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head>They Love Us&#8212;They Love Us Not</head>
 <figure n="illustration">
 <head></head>
@@ -2379,7 +2382,7 @@ because of the principle involved: the fine-tempered steel sort of man and the a
 <figDesc>Advertisement for Knickerbocker Studios</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2418,7 +2421,7 @@ because of the principle involved: the fine-tempered steel sort of man and the a
 <figDesc>Advertisement for Parker's Hair Balsam</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 <text type="nonfiction" xml:id="science.19170409">
@@ -2652,7 +2655,7 @@ health of workers in the peaceful factories of the United States. Various disinf
 <figDesc>Advertisement for Theo. Audel &amp; Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2667,7 +2670,7 @@ health of workers in the peaceful factories of the United States. Various disinf
 <figDesc>Advertisement for Standard Oil Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 </group>

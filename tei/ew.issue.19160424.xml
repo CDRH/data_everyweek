@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160424">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160424</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160424</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -45,8 +46,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 2</biblScope>
-<biblScope type="number">No. 17</biblScope>
+<biblScope unit="volume">Vol. 2</biblScope>
+<biblScope unit="number">No. 17</biblScope>
 <extent>20 pages</extent>
 <date when="1916-04-24">April 24, 1916</date>
 </bibl>
@@ -135,6 +136,7 @@
 <p></p>
 <figDesc>Advertisement for Japan Seed Co.</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -311,7 +313,7 @@
 <figDesc>Classified advertisement for Goodrich Drug Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -324,8 +326,9 @@
 <figDesc></figDesc>
 <p>Vol. 2, No. 17 April 24, 1916</p>
 <p>$1.00 per Year 3 Cents a Copy</p>
-</figure>
+</figure><p/>
 </body>
+
 </text>
 
 <text type="nonfiction" xml:id="diplomat.19160424">
@@ -1212,7 +1215,7 @@ part of which was covered with a scrubby growth of oak, which was not of much us
 <p>BAD tea can not be bought in the United States, because George E. Mitchell and his staff do not allow it. Each working day last year, Mr. Mitchell tasted an average of five cups of tea&#8212;each a different kind. If you have never learned to use your government, begin now. There is almost no problem of home-making or business on which it is not prepared and glad to be of help.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1282,6 +1285,7 @@ part of which was covered with a scrubby growth of oak, which was not of much us
 <p>HARRY DE MAR earns his living by entertaining&#8212;namely, by biting in two eight-inch steel spikes three quarters of an inch thick. He makes six dollars for a half hour's entertainment, and he says he is good for seven performances a day. If spike-biting wearies, he has other hardy ways of entertaining. For instance, he will lie on his back with a 250-pound stone on his chest, which is then shattered by a man wielding a sledge-hammer. But his claim to distinction is nail-biting, and, in his case at least, it isn't just a bad habit.</p>
 <figDesc></figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1371,7 +1375,7 @@ addition to the things they simply had to do, such as bandages for the Belgians 
 <figDesc></figDesc>
 </figure>
  
-
+<p/>
 </body>
 </text>
 
@@ -1422,7 +1426,7 @@ his actress fiancee is resting, he mistakes her for her mother. A lesson to you,
 <p>AND why the frenzied look on this lady's face? Her trouble is only a little one,&#8212;7 1/2 pounds, to be exact,&#8212;but the trouble is, it's black. Come to find out, her husband is one sixteenth negro. The play is "The Pride of Race." If actors and actresses were only more truthful with each other they wouldn't have these terrible scenes. We have told our wife frankly that we are 2-38ths Irish, and proud of it: she needn't be a bit surprised if our boy turns out to be a cop.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2503,7 +2507,7 @@ will relieve strain and bring rest to weakened eyes.</p>
 <figDesc>Advertisement for Every Week and The Associated Magazines</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2516,7 +2520,7 @@ will relieve strain and bring rest to weakened eyes.</p>
 <p></p>
 <figDesc>Advertisement for O-Cedar Polish</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

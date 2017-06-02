@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170108">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170108</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170108</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -144,7 +145,7 @@
 <head>$100.00 Earned By Young Artist in 2 Days</head>
 <figDesc>Advertisement for Federal School of Commercial Designing Inc.</figDesc>
 </figure>
-    
+ <p/>
 </body>
 </text>
 
@@ -217,7 +218,7 @@
 <head>45c 4-Piece Library Set</head>
 <figDesc>Advertisement for Straus &amp; Schram Inc.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -268,7 +269,7 @@
 <p>BUT, from Constantine's time on, the position of women in society, and with it the position of children, has constantly improved. The child-labor law, recently passed, is only one evidence that the world has at last begun to realize that it can move forward only as fast as it is able to raise up better, happier children. A pretty certain method to measure the civilization of any age in history or of any nation is to ask: "How does it treat its children?"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -289,6 +290,7 @@ $1.00 per Year<lb/>
 3 Cents a Copy<lb/> 
 </p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1092,7 +1094,7 @@ and raced some of the finest horses that ever came out of the Blue Grass, was co
 <ab type="credit">Photograph by Central News Photo Service</ab>
 <p>ENGLISH dairy-maids won't dairy any more, either. They prefer to wear overalls and puttees and run the thresher, lead the bulls around, and drive the herds to slaughter. There are 1200 such girl workers in Warwickshire; 2000 in Lincolnshire, 10,000 in Devonshire. Two girls brought three pens of sheep and lambs six miles by road from Lillingston to Buckingham without mishap; not one of them will turn the churn or feed the chickens.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1155,7 +1157,7 @@ and raced some of the finest horses that ever came out of the Blue Grass, was co
 <ab type="credit">Photograph by Underwood &#38; Underwood</ab>
 <p>IT used to require a whole prehistoric working day of nine hours to dock a big ship, until, in the mind of a Swede mechanic in a Maryland ship-yard, the idea came of a floating dock raised and submerged by independent end pontoons. He whittled his model out of wood and presented it to the Bureau of Yards and Docks. The idea was accepted, and in less than a year Chief Engineer Leonard M. Cox of the United States Navy presented the government with a $1,250,000 dock that in speed and precision of action has tried the ingenuity of the doughty builders of London and Liverpool to keep their ends up. The <hi rend="italic">Dewey</hi> can take in a 20,000-ton sea rover and have it high and dry in fifty-four minutes. Henrik Hansson, the designer, gave his idea free. When the work was finished he migrated on. The picture here shown is the only record the government has of the man who dreamed the <hi rend="italic">Dewey</hi>.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1192,7 +1194,7 @@ and raced some of the finest horses that ever came out of the Blue Grass, was co
 <ab type="credit">Photograph by Paul Thompson</ab>
 <p>FROM his 8⅟₄ miles on the Riviera the Prince of Monaco draws $1,000,000 a year, besides all State expenses. The roulette wheels at Monte Carlo make it all. It is by far the best paying and most delectable little kingdom in the world: only, the sea about the place has a haunted singsong to it that keeps repeating something about five suicides a day, two thousand a year. The prince is justice, lawmaker, executive, all in one. His 22,000 subjects pay no taxes; but neither must they go near the gaming-tables. The vices of the place are strictly for foreigners. Albert was the first to make an American girl a reigning queen when he married Alice Heine of New Orleans. He is also the only ostracized monarch in the royal families on the Continent. Russia and Rome draw their skirts away from the owner of Monte Carlo and refuse to receive him.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1562,7 +1564,7 @@ and raced some of the finest horses that ever came out of the Blue Grass, was co
 <head>$2.50 A MONTH BUYS A Visibile Writing</head>
 <figDesc>Advertisement for Harry A. Smith</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1852,7 +1854,7 @@ something that'll be more permanent than mention in a society column! And you're
 <head>Parker's Hair Balsam</head>
 <figDesc>Advertisement for Parker's Hair Balsam</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -2229,7 +2231,7 @@ But&#8212;I can't stay; I'm through; I've resigned as Miss Leland's trainer."</p
 <head>South American Railway Issues</head>
 <figDesc>Advertisement for C.W. Pope &#38; Company</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -2411,7 +2413,7 @@ But&#8212;I can't stay; I'm through; I've resigned as Miss Leland's trainer."</p
 <head>For the Crippled and Deformed</head>
 <figDesc>Advertisement for Roth Orthopedic Institute</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -2527,7 +2529,7 @@ contradictions, don't they, Ikey?" I asked. "No; I'm not leaving."</p>
 <head>Pompeian NIGHT Cream</head>
 <figDesc>Advertisement for The Pompeian Mfg. Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 

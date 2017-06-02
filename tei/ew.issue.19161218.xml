@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161218">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161218</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161218</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 25</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 25</biblScope>
 <extent>24 pages</extent>
 <date when="1916-12-18">December 18, 1916</date>
 </bibl>
@@ -153,7 +154,7 @@
 <p></p>
 <figDesc>Advertisement for Bureau of Mushroom Industry.</figDesc>
 </figure>
-   
+   <p/>
 </body>
 </text>
     
@@ -232,6 +233,7 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
     
@@ -1402,7 +1404,7 @@ she was not with her chaperon, and as it was getting dark, I told Jerry not to w
 <p>CHAIRS for Charlotte would be about as relevant as ballet slippers for Buffalo Bill. Charlotte rides in her own blue-and-gold racing car with solid gold mountings because she is perhaps the best skater in the world. Back in Germany (Charlotte's last name is Oelschlaeger) somebody gave her some skates for Christmas, and the gift transformed a rather delicate little girl into "the little ice queen" whose fame reached America and sent the manager of the Hippodrome abroad to fetch her to Broadway.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1483,7 +1485,7 @@ she was not with her chaperon, and as it was getting dark, I told Jerry not to w
 <p>IF there were no shipwrecks there would be no jobs for these men. The salvage-man gets fortunes in fees for recovering lost property, and he risks his life every time he does it. This bullion, in bars of solid silver, was recovered from the wrecked <hi rend="italic">Empress of Ireland</hi>. At two o'clock on the morning of May 29, 1914, the steamer was rammed in a fog on the St. Lawrence, with the loss of nearly a thousand lives. A bitter, bitter tragedy, which any one of these men would have given anything to prevent. But they couldn't prevent it: they could only profit by it. It was just an ill wind&#8212;that was all.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1534,7 +1536,7 @@ she was not with her chaperon, and as it was getting dark, I told Jerry not to w
 <p>WE hesitated to tell of Edwin Markham, lest other poets be encouraged. But the truth must out. Edwin worked in a blacksmith shop, and herded sheep on rocky hillsides, and punched cattle out West&#8212;and all the time he was dreaming dreams. He labored for nearly fifty years, and no one raved about the things he wrote. Then came "The Man With the Hoe." It was served to readers of the San Francisco <hi rend="italic">Examiner</hi> with their breakfast. Within a week it had been copied all over the United States. Markham jumped to fame at a single bound.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -2979,7 +2981,7 @@ extends eastward into Utah, Nevada, Texas, Colorado, and parts of other States. 
 <p></p>
 <figDesc>Advertisement for The Mentor Association.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
 </group>

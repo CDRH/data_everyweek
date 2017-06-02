@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161127">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161127</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161127</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -146,7 +147,7 @@
 <p></p>
 <figDesc>Advertisement for A. Landa &amp; Sons Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -221,6 +222,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1177,7 +1179,7 @@ Bow-wows, attention! The French Red Cross Division is in great need of your serv
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1330,7 +1332,7 @@ the help of a hammer and a screw-driver. I found five dollars and six bits, and 
 </figure>
 
 
-
+<p/>
 </body>
 </text>
 
@@ -1410,7 +1412,7 @@ the help of a hammer and a screw-driver. I found five dollars and six bits, and 
 <p>SOMBER eyes under melancholy eyebrows, an intense profile&#8212;fortune-tellers go out of their way to warn girls against this type of man. "He will hint vaguely of suicide, and constantly remind his wife that no woman has ever understood him," they say. Yet they needn't have bothered. No girl would be in when he called. She would be out pushmobiling with some freckled retroussé-nosed rival. Yet Crane Wilbur is a practical, unassuming young man, fond of Kipling and Bret Harte, and never forgetting his young niece's birthday.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1466,7 +1468,7 @@ the help of a hammer and a screw-driver. I found five dollars and six bits, and 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2213,7 +2215,7 @@ says the author suddenly.</p>
 <p></p>
 <figDesc>Advertisement for The Ardee Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2745,7 +2747,7 @@ Investor's Guide (270 pages), or Weekly Market Letter. This firm will mail you a
 <figDesc>Advertisement for Sheldon-Morgan &amp; Company</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2758,7 +2760,7 @@ Investor's Guide (270 pages), or Weekly Market Letter. This firm will mail you a
 <figDesc>Advertisement for Life Savers</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 </group>

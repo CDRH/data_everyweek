@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170305">
 <teiHeader>
@@ -15,7 +15,7 @@
 <date>2015</date>
 </edition>
 </editionStmt><publicationStmt>
-<idno>ew.issue.19170305</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -30,6 +30,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170305</idno>
 </publicationStmt>
 <sourceDesc>
 
@@ -140,7 +141,7 @@
 <p></p>
 <figDesc>Advertisement for G. &amp; C. Merriam Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -219,7 +220,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1312,6 +1313,7 @@ spot where two thousand Serbians were killed or wounded when my troops took the 
 <p>SINCE young men have always burst into song on catching sight of any young lady leaning over a railing, it follows that balcony architecture is more often found in grand opera than anywhere else. In "L'Oracolo" the tenor drifts tenderly toward the footlights, singing, thus giving Ah-Loe, the most beautiful girl in Hatchet Row, the cue for cautiously opening her casement. He reaches his hands toward her. She is agitated, and hides her face in her hands. She must not listen&#8212;it is sin! "But no," warbles the tenor. "Your innocent heart can't sin. And, anyway, the bunch is going." So Ah-Loe leaves her balcony, which the stage-hands fold up carefully behind the Florentine sunset.</p>
 <figDesc/>
 </figure>
+<p/>
 </body>
 </text>
             
@@ -1386,6 +1388,7 @@ spot where two thousand Serbians were killed or wounded when my troops took the 
 <p>IN Denver, Colorado, lives the lad pictured above. In the contest given by the Colorado Osteopathic Association he not only carried off first prize, but was judged a 100 per cent. perfect baby. His last name is Wilson. And what do you suppose his first name may be? We offer no prize for the correct answer. Incidentally, we can imagine a certain party of the same name who will read this caption enviously. "Oh, that some one would vote me 100 per cent. perfect!" he will say to himself.</p>
 <figDesc/>
 </figure>
+<p/>
 </body>
 </text>
             
@@ -1443,6 +1446,7 @@ spot where two thousand Serbians were killed or wounded when my troops took the 
 <ab type="credit">Photograph by Brown Brothers.</ab>
 <figDesc/>
 </figure>
+<p/>
 </body>
 </text>
             
@@ -1530,6 +1534,7 @@ of British Columbia timber, and will enter the lumber-carrying trade. In the con
 <figure n="advertisement"><head>5&#162; A Day Buys A Gibson</head><p/>
 <figDesc>Advertisement for Gibson Mandolin Guitar Co.</figDesc>
 </figure>
+<p/>
 </body>
 </text>
             
@@ -1537,13 +1542,13 @@ of British Columbia timber, and will enter the lumber-carrying trade. In the con
  <text type="fiction" xml:id="luehrmann.19170305">
 <body>
 
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p>"'And where is he now?' 'I&#8212;don't know. Oh, señora, I realize how it looks! But he will explain. He is innocent of my step-father's death.'"</p>
 <figDesc></figDesc>
 </figure>
--->
+
 
 <head type="main">The Other Brown</head>
 <byline>By <persName type="author" key="#Luehrmann, Adele">ADELE LUEHRMANN</persName></byline>
@@ -2221,7 +2226,9 @@ had finally given up hope, when suddenly Gil appears with his offer. I accept it
 <head>"Don't Shout"</head><p/>
 <figDesc>Advertisement for The Morley Co.</figDesc>
 </figure>
+<p/>
 </body>
+
 </text>
             
 <text type="nonfiction" xml:id="words.19170305">
@@ -2538,7 +2545,9 @@ herself had spoken, and it found in Mrs. Peters something she did not know as he
 <head>Classified Advertising</head><p/>
 <figDesc>Classified Advertising, including Agents Wanted, Help Wanted Female, Help Wanted Male, Corporations, Games and Entertainments, Song Poems, Typewriters, Photoplays, Stories, Etc., And Patents</figDesc>
 </figure>
+<p/>
 </body>
+
 </text>
  
 <pb n="Page 23" xml:id="ew.issue.19170305.p023"/>
@@ -2585,7 +2594,7 @@ herself had spoken, and it found in Mrs. Peters something she did not know as he
 <head>Patents</head>
 <figDesc>Advertisement for Victor J. Evans.</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  
@@ -2692,7 +2701,7 @@ large dividends. Steel and Inspiration are almost sure to pay big dividends for 
 <head>The Workers of the World</head>
 <figDesc>Advertisement for The Shredded What Company.</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  

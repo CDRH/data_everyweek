@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.191213">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19151213</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19151213</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -155,7 +156,7 @@ Scan/OCR</change>
 <p></p>
 <figDesc>Advertisement for Knickerbocker Studios</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -216,6 +217,7 @@ Scan/OCR</change>
 <figDesc></figDesc>
 <p>Vol. 1 No. 33 Every Week Dec. 13, 1915</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1015,7 +1017,7 @@ got to be three thousand dollars. Then he said he'd go no further. He'd let the 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1108,7 +1110,7 @@ got to be three thousand dollars. Then he said he'd go no further. He'd let the 
 <p>SOME people don't even know what a dolmen is. A dolmen is the sort of structure you see in this picture, and belongs to the period when husbands used to club their wives over the head instead of simply giving them the vote. This one was made of sixteen enormous vertical stones, with four other slabs of tremendous weight laid on top for a roof. No one knows how the prehistoric person who built the dolmen got them up there without the aid of machinery.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1166,7 +1168,7 @@ got to be three thousand dollars. Then he said he'd go no further. He'd let the 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1712,7 +1714,7 @@ hands of the judges. Announcement of the prize winner or prize winners will appe
 <p></p>
 <figDesc>Advertisement for The Pierce Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1756,7 +1758,7 @@ hands of the judges. Announcement of the prize winner or prize winners will appe
 <p></p>
 <figDesc>Classified Advertising, including Corporations, Patents, Agents Wanted, and Building Material</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 <text type="nonfiction" xml:id="save.19151213">
@@ -1908,7 +1910,7 @@ of the canoe, which kept slipping from their grasp. We got one of the girls just
 <p></p>
 <figDesc>Advertisement for A. R. Stan.</figDesc>
 </figure>
-                        
+     <p/>                   
 </body>
 </text>
                         
@@ -2011,7 +2013,7 @@ take it to the camp, he tackled the problem himself.</p>
 <p></p>
 <figDesc>Advertisement for L. E. Waterman Company.</figDesc>
 </figure>
-                        
+         <p/>               
 </body>
 </text>
 </group>

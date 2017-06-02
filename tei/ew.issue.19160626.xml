@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160626">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160626</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160626</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 2</biblScope>
-<biblScope type="number">No. 26</biblScope>
+<biblScope unit="volume">Vol. 2</biblScope>
+<biblScope unit="number">No. 26</biblScope>
 <extent>20 pages</extent>
 <date when="1916-06-26">June 26, 1916</date>
 </bibl>
@@ -119,7 +120,7 @@
 <p></p>
 <figDesc>Advertisement for Bauer &amp; Black.</figDesc>
 </figure>
-    
+<p/>
 </body>
 </text>
   
@@ -208,16 +209,17 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
-<!--
+
 <figure n="illustration">
 <head></head>
 <p>"'I remember saying to him I believed he could kill a man with his bare hands; and he grew suddenly sober, and startled me by answering, "I did, last year."'"</p>
 <figDesc></figDesc>
 </figure>
--->
+
  
 <text type="fiction" xml:id="eaton.19160626">
 <body>
@@ -881,7 +883,7 @@ Jersey. No ships float on its broad bosom, but $38,000 has been spent by the gov
 <p>"DO you smoke cigars too?" the little boy asked the lady who had an office instead of a home and whom people called doctor. For Dr. Rosalie S. Morton lectures at the Polyclinic Hospital and New York University. She is the first woman that the American Medical Association has allowed to preside over one of its meetings, and she was the first chairman of the Public Health Education Committee. The only way to cure homesickness, she prescribes, is to work hard and forget it.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -972,7 +974,7 @@ Jersey. No ships float on its broad bosom, but $38,000 has been spent by the gov
 <p>THE first play Winthrop Ames ever saw as a youngster is said to have frightened him so that he hid behind the seats. Then he grew up, and went to Harvard. After which he gravitated to New York and began building a theater of his own&#8212;not a big, regular theater, but a little one where highbrow plays are seen by the select few. Sometimes, when the cast is small, Winthrop can crowd enough people into his theater to break almost even. Other times he charges the deficit up to uplifting the stage&#8212;which is perhaps as good a way to spend part of your million as any.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1036,7 +1038,7 @@ Jersey. No ships float on its broad bosom, but $38,000 has been spent by the gov
 <p>POLICE COMMISSIONER ARTHUR WOODS is one of those philosophical essayists whose advice it is always wise to heed. All that he writes is penned with a view to being an aid or protection to some one. When he published "School Street, Drive Slowly," and 'Congested District, Drive with Care," he had a vision of hundreds of little children darting across the street in front of speeding automobiles. "Safety Zone" and "Look Before Crossing" are also his works.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2379,7 +2381,7 @@ issued for distribution to investors by Ebert, Michaelis &amp; Co., Dept. E. W.,
 <p></p>
 <figDesc>Advertisement for The Coca-Cola Co.</figDesc>
 </figure>
-    
+   <p/> 
 </body>
 </text>
 </group>

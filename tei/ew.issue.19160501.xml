@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160501">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160501</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160501</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -116,7 +117,7 @@
 <p></p>
 <figDesc>Advertisement for The Coca-Cola Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -207,6 +208,7 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -931,7 +933,7 @@ around in the corners. In Washington 4500 tons of rubbish were carted away to th
 <p>There is at least one wise hatter in New York City. He has a store in the first floor of the Woolworth Building, right where more hats are lost every year than anywhere else in the world. One out of every 125 men who pass a cigar store buy, but a bigger percentage buy hats here every windy day. The highest office building has created a draught, with the aid of the Post Office, that would make a carton gale in Arizona whistle in rage and envy. So, when you pass Park Place and Broadway this spring, and the wind is trying to make you buy a new hat, let go or hang on, as you please: it depends on whether you believe in spring clean-ups or not. Let it go, say we.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1109,7 +1111,7 @@ hemmed them in, reaching out the tentacles of his power in all directions.</p>
 <ab type="credit">Metro.</ab>
 <p>BAD enough to know that you are to be tipped over into the rapids any minute, but worse to hear the loud, uncouth laughter of the camera men. Here is Rene petting about to suffer this double agony. Good night, Rene; good night, Syd; good night, Helen Gibson. We've enjoyed the show, but now we are going home to take off our overcoat&#8212;on which we have only $7 more to pay&#8212;and turn into our little bed. You get large salaries, but you earn them: we get only $8; but at least we can roll over in bed without having to call for liniment&#8212;and that's something.</p>
 </figure>
-
+<p/>
 </body>
 </text>
  
@@ -1184,7 +1186,7 @@ hemmed them in, reaching out the tentacles of his power in all directions.</p>
 <ab type="credit">Photograph from Mary H Northend.</ab>
 <p>A LETTER was once received in the office of the New York Tribune addressed simply "H. G., N. Y." It reached Horace Greeley safely. In sending him his annual piece of mail Sears Roebuck &amp; Company doesn't try any such tricks on Horace Greeley, whose job is to make himself useful around a summer inn in New Hampshire. They spell his name out in full, and it is typewritten, whereas many of the original Horace's letters were only hand-written. The world do move.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1249,7 +1251,7 @@ hemmed them in, reaching out the tentacles of his power in all directions.</p>
 <p>SHE'S back. Whose back? Kitty Gordon's back. When she was playing as Sam Bernard's leading lady in "The Girl from Kay's," a critic discovered that Kitty Gordon had the most "divine" back and pair of shoulders on the stage. Since then several million amateur critics have had opportunity to verify the criticism, and Kitty's back has become so valuable an asset that she has insured it for $75,000.</p>
 <figDesc></figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  
@@ -2217,7 +2219,7 @@ look never left me. I fancied he was grinning.</p>
 <p></p>
 <figDesc>Advertisements for Corporations, Agents Wanted, Games and Entertainments, and Female Help Wanted.</figDesc>
 </figure> 
-    
+    <p/>
 </body>
 </text>
     
@@ -2319,7 +2321,7 @@ suitable to realize upon if the date of maturity is close at hand. In other word
 <p></p>
 <figDesc>Advertisement for Haywood Tire and Equipment Company.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2335,7 +2337,7 @@ suitable to realize upon if the date of maturity is close at hand. In other word
 <p></p>
 <figDesc>Advertisement for The Frantz Premier Company.</figDesc>
 </figure>
-        
+<p/>
 </body>
 </text>
 </group>

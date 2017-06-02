@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170226">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170226</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2011 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170226</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -158,7 +159,7 @@
 </figure>
 
 
-
+<p/>
 </body>
 </text>
 
@@ -229,7 +230,7 @@
 <p></p>
 <figDesc>Advertisement for Hump Hair Pin Mfg. Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -248,7 +249,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1138,7 +1139,7 @@ wing for convalescents, more hooks for the libr'y, a small pipe organ maybe for 
 <p>FANNY HATTON is one of the Happy Hattons&#8212;so called because when they open their morning mail money rolls out on the breakfast cloth. The other member of the combination is Frederick, formerly dramatic critic of the Chicago Post. After seeing many plays on Frederick's pass, they decided they could write one that couldn't be worse, and might be better. They wrote three, "Years of Discretion," "Upstairs and Down," and "The Happy Lover"; as a result of which Frederick gave up dramatic criticism. He looks out at the world these bright mornings and sees nothing to criticize.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1226,7 +1227,7 @@ wing for convalescents, more hooks for the libr'y, a small pipe organ maybe for 
 <ab type="credit">Photograph from Charles A. Harbaugh.</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1277,7 +1278,7 @@ wing for convalescents, more hooks for the libr'y, a small pipe organ maybe for 
 <ab type="credit">Photograph from F. G. Menke.</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2373,6 +2374,7 @@ to the police to be perfectly frank, and that it's awfully hard to appear frank 
 <p></p>
 <figDesc>Advertisement for P.H. Pattison &amp; Co.</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -2399,7 +2401,7 @@ to the police to be perfectly frank, and that it's awfully hard to appear frank 
 <figDesc>Advertisement for The Riverside Publishing Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2561,7 +2563,7 @@ to the police to be perfectly frank, and that it's awfully hard to appear frank 
 <figDesc>Advertisement for Young Typewriter Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2605,7 +2607,7 @@ to the police to be perfectly frank, and that it's awfully hard to appear frank 
 <p></p>
 <figDesc>Classified Advertising, including Agents Wanted, Corporations, Help Wanted Female, Help Wanted Male, Help Wanted and Photoplays, Stories, Etc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2735,7 +2737,7 @@ to the police to be perfectly frank, and that it's awfully hard to appear frank 
 <p></p>
 <figDesc>Advertisement for Chas. Meyer</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2749,7 +2751,7 @@ to the police to be perfectly frank, and that it's awfully hard to appear frank 
 <p></p>
 <figDesc>Advertisement for The Andrew Jergens Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170115">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170115</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170115</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -188,7 +189,7 @@
 <figDesc>Advertisement for The Rudolph Wurlitzer Co.</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -257,7 +258,7 @@
 <p></p>
 <figDesc>Advertisement for Harold Lachman Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -265,14 +266,14 @@
 
 <text type="fiction" xml:id="harte.19170115">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <ab type="credit"></ab>
 <p>Painted for Every Week by W. Herbert</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">RELIEVING GUARD</head>
 <byline>&#8212;BY <persName type="author" key="#Harte, Bret">BRET HARTE</persName></byline>
 
@@ -308,18 +309,20 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
+
 </text>
 
 <text type="fiction" xml:id="ford.19170115">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head>At Last!&#8212;Torchy Takes the Fatal Step</head>
 <p>"I've never been quite sure before that I was much more to her than sort of an amusin' pal. But when she grips me around the neck and cuts loose for a good cry&#8212;say, then I knew!"</p>
 <figDesc></figDesc>
 </figure>
--->
+
 
 <head type="main">And Wilt Thou, Torchy?</head>
 
@@ -1068,7 +1071,7 @@ people. And they seem to use up all the efficiency there is. Maybe they're busin
 <p>MR. WALTER GILLAM knows how it feels to have the crack shot of Montana gunning for him. It was in the early days. He was representing some Eastern interests, and Dougherty, the crack shot, imagined himself injured. They met on the main street of town. "I decided to face him," says Gillam. "We both carried guns. I walked straight ahead, looking him in the eyes, expecting every minute a shower of lead. I bid the world good-by. Instead, watching each other like cats, we met, talked, and parted, our dispute settled. But I learned in those fifty yards what it means to die."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1149,7 +1152,7 @@ people. And they seem to use up all the efficiency there is. Maybe they're busin
 <p>WE have always had a kindly feeling for Mr. Bryan. Each year we have put off voting for him, saying to ourselves: "Oh, well, we can vote for him any time." And now it looks as if we had put it off too long. Perhaps not: perhaps he will yet bob up on a platform of "Peace and Pink Pop." If so, Colonel William Hanley of Burns, Oregon, will be on hand to help him.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1206,7 +1209,7 @@ people. And they seem to use up all the efficiency there is. Maybe they're busin
 <p>BORN a slave, Henry Washington Reynolds has for years been sole proprietor and motive force of a parcel delivery system. Until last year Henry had a monopoly, and then&#8212;bitter thought&#8212;a rival entered the field with a better cart than Henry's and with education. Was Henry downcast? No. 1000 X no. Undaunted, he has entered a night school, and means in a year to have enough education to put his rival out of business.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2354,7 +2357,7 @@ others. You're&#8212;too efficient. You'd choke me, somehow. I couldn't&#8212;"<
 <p></p>
 <figDesc>Classified Advertising including California Farm Lands, Help Wanted, Business Opportunities, Female Help Wanted, Corporations, Patents, Help Wanted Male</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 <text type="nonfiction" xml:id="stephens.19170115">
@@ -2452,7 +2455,7 @@ To-day the semi-elliptic type is the most popular, and is closely followed by th
 <p></p>
 <figDesc>Advertisement for G.P. Kimmel</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2464,7 +2467,7 @@ To-day the semi-elliptic type is the most popular, and is closely followed by th
 <p></p>
 <figDesc>Advertisement for Standard Oil Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

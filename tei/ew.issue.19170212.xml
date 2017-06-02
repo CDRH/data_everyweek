@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170212">
 <teiHeader>
@@ -15,7 +15,7 @@
 <date>2015</date>
 </edition>
 </editionStmt><publicationStmt>
-<idno>ew.issue.19170212</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -34,6 +34,7 @@ under the Fair Use provisions of U.S. copyright law, requires express
 written consent from the editors and advance notification of the publisher,
 the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170212</idno>
 </publicationStmt>
 <sourceDesc>
 <bibl>
@@ -129,7 +130,7 @@ the University of Nebraska&#8211;Lincoln.</p>
 <p></p>
 <figDesc>Advertisement for Wicks Electrical Institute.</figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  
@@ -215,7 +216,7 @@ the University of Nebraska&#8211;Lincoln.</p>
 <p></p>
 <figDesc>Advertisement for Sears, Roebuck and Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -232,13 +233,13 @@ the University of Nebraska&#8211;Lincoln.</p>
 <text type="fiction" xml:id="adams.19170212">
 <body>
 
-<!--
+
 <figure n="illustration">
 <head></head>
 <p>"'Where are you going?' he demanded. 'I don't know. They've told me nothing except that I must get out of the city.'"</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">A LETTER TO NOWHERE</head>
 
 <byline>By <persName type="author" key="#Adams, Samuel Hopkins">SAMUEL HOPKINS ADAMS</persName></byline>
@@ -1530,7 +1531,7 @@ emblazoned the ideas that underlay the Gould theory of management.</p>
 <p>"<hi rend="italic">DUX femina facti</hi>," quoth Vergil, which probably means, "a woman plays ducks and drakes with a factory." If that is what it means, then Vergil was mistaken. Miss Mabel Walthers of Omaha has proved it. She is one of the most successful sellers of furnaces in the United States. A woman selling furnaces! Yes; and not only that, but seven strong men and true work under Miss Walthers' instructions, installing the furnaces that she has sold. "Where is father? you ask. Why, ain't you been told? He's delivering the goods That dear mother has sold."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1582,7 +1583,7 @@ emblazoned the ideas that underlay the Gould theory of management.</p>
 <p>WHEN the Bulgarian brigands captured the American missionary, Miss Stone, they took along with her a Mrs. Tsilka. And not many days thereafter, little Miss Tsilka came into the world. Whether she was born a Turk or a Bulgarian was a question, because the bandits were in the frontier mountains. But a bigger question was what would become of her. Finally, after Americans had raised an indemnity for Miss Stone's release, after Secretary of State John Hay had threatened Turkey with all sorts of punishment, after fleets had been made ready to sail&#8212;back came Miss Stone and Mrs. Tsilka and Baby Tsilka. Probably no other baby in the world to-day has ever been the center of so much international turmoil&#8212;and has it spoiled her? Not a bit.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2620,7 +2621,7 @@ Bert is a good match for her. The two girls hold quite a reunion, with us men st
 <p></p>
 <figDesc>Advertisement for Old Town Canoe Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2672,7 +2673,7 @@ Bert is a good match for her. The two girls hold quite a reunion, with us men st
 <p></p>
 <figDesc>Classified Advertising, including California Farm Lands, Corporations, Games and Entertainments, Help Wanted Male, Female Help Wanted, Agents Wanted, Photoplays, Stories, Etc., and Plays</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -3055,13 +3056,10 @@ Bert is a good match for her. The two girls hold quite a reunion, with us men st
 <p></p>
 <figDesc>Advertisement for Pears' Soap.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>
  
 </text>
 </TEI>
-
-              
-

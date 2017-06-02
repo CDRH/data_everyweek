@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19160103">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19160103</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2014 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19160103</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -118,7 +119,7 @@ Every Week<lb/>
 
 January 3, 1916</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -934,6 +935,7 @@ the faces of people in the audience. Then the singing stopped, and a group of Ja
 <figure n="photograph">
 <p>DR. J. WILBUR CHAPMAN is proof of the fact that it is possible to be an evangelist and still use good grammar. He has held meetings in every country of the world, and, while he neither uses slang nor turns somersaults in the pulpit, he seems to get there just the same. He is more fortunate than most of his fellow workers, inasmuch as his work has been endowed by a number of rich Presbyterians, and he doesn't have to put so much pressure on to make the "free-will" offering flow freely.</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1016,7 +1018,7 @@ the faces of people in the audience. Then the singing stopped, and a group of Ja
 <ab type="credit">Triangle Film Company.</ab>
 <p>OBSERVE your small daughter very closely on next Fourth of July. If she doesn't jump when the "penny-each" ones go off, she will probably grow up to be a cowgirl heroine like the dauntless Olga Gray.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1056,7 +1058,7 @@ Singer by the sound of the exhaust; and she can take them apart and put them tog
 <p>THE Roman senators had long white beards. Senator Helen Ring Robinson of Colorado intends to have that fact eliminated from the histories as being prejudicial to the upward and onward movement of her sex. She is one of the women invited by Henry Ford to get the Kaiser and the Czar together and say to them: "Why, Willie and Nick! aren't you ashamed of yourselves&#8212;shooting off these naughty cannon?"</p>
 <ab type="credit">Copyright, Underwood &amp; Underwood.</ab>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1717,6 +1719,7 @@ Friday we are to go to the Moores'. Evelyn's debutante dance, you know."</p>
 <head>Classified Advertising</head>
 <p></p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1831,6 +1834,7 @@ Friday we are to go to the Moores'. Evelyn's debutante dance, you know."</p>
 <p></p>
 <figDesc>Advertisement for Hussman Stamp Co.</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 <pb n="Page 18" xml:id="ew.issue.19160103.p018" />
@@ -1897,7 +1901,7 @@ Friday we are to go to the Moores'. Evelyn's debutante dance, you know."</p>
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2087,7 +2091,7 @@ until recently, when workmen digging the foundation for a public building in the
 <p></p>
 <figDesc>Advertisement for The Pompeian Mfg. Co.</figDesc>
 </figure>
-    
+   <p/>
 </body>
 </text>
 </group>
