@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170716">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170108</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170108</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -153,7 +154,7 @@
 <p></p>
 <figDesc>Advertisement for R. S. &amp; A. B. Lacey.</figDesc>
 </figure>
-    
+   <p/> 
 </body>
 </text>
 
@@ -1074,7 +1075,7 @@ drawback. The clothes had not brought back the boy he had been, but they had sho
 <figure n="photograph">
 <p>CHARLES FORD is janitor in a local newspaper office in Madison, Wisconsin, and he janits from choice. If Charles Ford were to invest all his money in autos, and set them parading down Main Street, they would be seventy-two hours in passing a given point (assuming they ran all the time—which, as any auto owner knows, is some assumption). Charles loves the editorial sanctum. And, when we consider all the bright things that we ourselves write and then have to throw in the waste-basket, where only the janitor's eyes ever-see them, we don't wonder that Charles would rather janit than loaf.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1132,7 +1133,7 @@ drawback. The clothes had not brought back the boy he had been, but they had sho
 <p>THE story of <hi rend="italic">The Lion's Bride</hi> runs like this: A beautiful girl, with her tender charm and exquisite tact, tamed a roaring lion. She alone would he permit to enter the cage and run her fingers through his mane. Finally, friendship flowered into love&#8212;on the lion's part, that is. But, the girl becoming betrothed to a young man, the lion was filled with inordinate jealousy. He could hardly contain himself. It was on her wedding day. With a song on her lips and joy in her heart, she came to bid farewell to her old playmate. Unable to bear it longer, he killed her. Aren't her ear-rings and the gleam of the lion's eyes just as natural?</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1168,7 +1169,7 @@ drawback. The clothes had not brought back the boy he had been, but they had sho
 <figure n="photograph">
 <p>AMELIA WAINWRIGHT doesn't believe in the unluckiness of thirteen. She was the thirteenth of thirteen children. The other twelve are still down in Tennessee, picking cotton; but Amelia was adopted by Miss Catherine Cocke, head of the music department in a school in Los Angeles. Amelia is having her voice trained, and can sing nearly every song except "Try to picture me 'way down in Tennessee." Trusting that this page has been instructive, and that you will now adopt a few children of various colors, and thanking you for your kind attention, we will pass on to the next page.</p>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1829,7 +1830,7 @@ have started a phonograph, she begged to be excused. 1 went with her to her cabi
 <p></p>
 <figDesc>Advertisement for The Crowell Publishing Company.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -1929,7 +1930,7 @@ no case to compare with that of Hodder, who has also been honored by his King.</
 <p></p>
 <figDesc>Advertisement for The American Tobacco Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
   
@@ -2380,7 +2381,7 @@ need to be altered. There are no hard and fast rules for the distance,&#8212;man
 <p></p>
 <figDesc>Advertisement for Lyman Bros. &amp; Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     

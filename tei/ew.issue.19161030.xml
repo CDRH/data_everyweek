@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161030">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161030</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161030</idno>
 </publicationStmt>
     
 <notesStmt>
@@ -45,8 +46,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 18</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 18</biblScope>
 <extent>24 pages</extent>
 <date when="1916-10-30">October 30, 1916</date>
 </bibl>
@@ -184,6 +185,8 @@
 <p></p>
 <figDesc>Advertisement for G. P. Kimmel.</figDesc>
 </figure>
+
+<p/>
 </body>
 </text>
 
@@ -260,6 +263,7 @@
 Every Week
 $1.00 per Year 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
     
@@ -1551,7 +1555,7 @@ bunch. Young Humbert is an enthusiastic Boy Scout. What more practical idea than
 <p>"I LOVE your girl more than you do, and I know that she loves me," quoth James F. Curtis to Theron E. Catlin, Missouri Congressman. "I will leave that to her," Catlin answered gallantly&#8212;and confidently, too. Who, think you, won? Years before Miss Merriam, the girl in the case, had had her fortune told by a gypsy. "You will be twice engaged and once married," the gypsy said. One can not battle against the decrees of the fates. The picture shows Mrs. Curtis playing saleswoman for charity.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1624,7 +1628,7 @@ bunch. Young Humbert is an enthusiastic Boy Scout. What more practical idea than
 <p>THE majority of Benvenuto Cellini's murders took place in a casual way like this: "Pompeo, I had just been told, boasted of the insult which he fancied he had put upon me; but, be that as it may, it was to his misfortune. I drew a little dagger and laid my hands on his breast so quickly and coolly that none of his defenders were able to prevent me. Fright made him turn his head around and I stabbed him just beneath the ear. He fell stone dead at the second blow. I had not meant to kill him, but, as the saying goes, knocks are not dealt by measure." Another time this naïve artist was angered by a model "who prated loud of her husband. I seized her by the hair and dragged her up and down my room, kicking her until I was tired. I perceived later I had acted very wrongly, for when I saw her body all torn and swollen I reflected that I should have to put her under medical treatment before I could make drawings of her again."</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -1676,7 +1680,7 @@ bunch. Young Humbert is an enthusiastic Boy Scout. What more practical idea than
 <p>ANN PENNINGTON, <hi rend="italic">alias</hi> Susie Snowflake, <hi rend="italic">alias</hi> the Rainbow Princess, has been working just about twenty-four hours a day for the last few months, holding down both her motion picture job and the polished floor at the Ziegfeld "Follies." Still, she doesn't neglect her reading. It makes something to do while people pin medals on one, don't you know.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -2479,17 +2483,17 @@ support themselves, old men who have outlived their usefulness in other professi
 <p>Pocketed somewhere within these voluminous skirts is the only cash register known hereabouts&#8212;a grimy handkerchief bulging with money. For a nickel an expert shopper can buy, in season, a cucumber, two oranges, and a canteloupe. With two nickels&#8212;and a little finesse&#8212;she can carry off half a dozen eggs, perfectly good except for a few cracks.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
 <pb n="Page 21" xml:id="ew.issue.19161030.p021" />
     
-<!--figure n="advertisement">
+<figure n="advertisement">
 <head>Cat's Paw Cushion Rubber Heels</head>
 <p></p>
 <figDesc>Advertisement for Foster Rubber Co.</figDesc>
-</figure-->
+</figure>
 
 <text type="fiction" xml:id="bartlett.19161030.jump">
 <body>
@@ -2781,7 +2785,7 @@ of a woman. Was that life? Was it what Noyes had meant when he said "everything?
 <text type="nonfiction" xml:id="atwood.19161030">
 <body>
     
-<!--figure n="illustration"></figure--> 
+<figure n="illustration"></figure> 
     
 <head type="main">You Can't Get Anywhere Unless You Save Money</head> 
 <byline>By <persName type="author" key="#Atwood, Albert W.">Albert W. Atwood</persName></byline>

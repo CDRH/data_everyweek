@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170702">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170702</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2010 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170702</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -155,7 +156,7 @@
 <p></p>
 <figDesc>Advertisement for Philo Burt Mfg. Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -247,7 +248,7 @@
 <p></p>
 <figDesc>Advertisement for Bauer &amp; Black</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1247,7 +1248,7 @@ near the top. A mountain in Pennsylvania has been burning fifty years. And near 
 </figure>
 
 
-
+<p/>
 </body>
 </text>
 
@@ -1297,7 +1298,7 @@ average six feet or more in height. It is rumored that the Allies are planning t
 buy them up, armor them like "tanks," and start them across the trenches for Berlin.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2597,6 +2598,7 @@ our old friend started in, just the same. She was used to an audience, all right
 <p></p>
 <figDesc>Advertisement for R.S. &amp; A.B. Lacey</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -2609,7 +2611,7 @@ our old friend started in, just the same. She was used to an audience, all right
 <p></p>
 <figDesc>Advertisement for Alfred H. Smith Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

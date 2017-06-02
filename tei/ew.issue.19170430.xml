@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170430">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170430</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170430</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -159,7 +160,7 @@
 <p></p>
 <figDesc>Advertisement for U. of C.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -248,18 +249,19 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
 <text type="fiction" xml:id="miller.19170430">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p></p>
 <figDesc></figDesc>
 </figure>
- -->
+
 <head type="main">THE BLUE AURA</head>
 
 <byline>By <persName type="author" key="#Miller, Elizabeth York">ELIZABETH YORK MILLER</persName></byline>
@@ -1400,7 +1402,7 @@ haw-haw. His old friend, eh? Oh, I expect they might be called friends, in a way
 <ab type="credit">Vitagraph</ab>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1451,7 +1453,7 @@ haw-haw. His old friend, eh? Oh, I expect they might be called friends, in a way
 <p>THE Rev. Aaron Maddox started life like any regular preacher, but after three or four years of it his health broke down and the doctors hurried him off to the mountains, a victim of tuberculosis. But even that couldn't stop his preaching: and today every lumber jack for miles around knows him as the "Sky Pilot of the Adirondacks." Mr. Maddox believes in the rule of love, and of course he wouldn't like to have to throw any rowdy lumber jack out of his meetings by the scruff of the neck. But&#8212;it's a long time since he last consulted a doctor.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2070,7 +2072,7 @@ noitered</orig><reg>reconnoitered</reg></choice>. The upper hall was empty. They
 <p></p>
 <figDesc>Advertisement for Foster Rubber Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2139,7 +2141,7 @@ noitered</orig><reg>reconnoitered</reg></choice>. The upper hall was empty. They
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -2397,7 +2399,7 @@ after appraising the young man carelessly:</p>
 <p></p>
 <figDesc>Advertisement for C.G. Conn, Ltd.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2411,7 +2413,7 @@ after appraising the young man carelessly:</p>
 <p></p>
 <figDesc>Advertisement for The Mentor Association</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2664,7 +2666,7 @@ creature in his baggy clothes and flaming red neck-tie, he took on more human qu
 <p></p>
 <figDesc>Advertisement for L.R. Latrobe &amp; Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2678,7 +2680,7 @@ creature in his baggy clothes and flaming red neck-tie, he took on more human qu
 <p></p>
 <figDesc>Advertisement for Luxite Textiles, Inc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

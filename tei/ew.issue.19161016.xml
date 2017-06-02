@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161016">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161016</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161016</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 16</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 16</biblScope>
 <extent>24 pages</extent>
 <date when="1916-10-16">October 16, 1916</date>
 </bibl>
@@ -180,7 +181,7 @@
 <p></p>
 <figDesc>Advertisement for Victor J. Evans &amp; Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -250,7 +251,7 @@
 <p></p>
 <figDesc>Advertisement for The American Tobacco Company.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -296,7 +297,7 @@ all the rest of the glorious outdoors. The picture shows her with her pet butter
 <p>LAST among our favorites this season, Miss Frances Starr. Oh, that actresses would never marry or grow old. It's a tremendous strain upon our emotions, falling in love with a new crop of stars every season. Miss Starr has starred along pretty constantly since "The Easiest Way." She is not a Buddhist, though appearances in the picture are against her. She practises on Buddha in preparation for the fat man in the front row who settles down and dares the actors to make him laugh.</p>
 <figDesc></figDesc>
 </figure>   
-    
+  <p/>  
 </body>
 </text>
 
@@ -1292,7 +1293,7 @@ confident that he would find Howl spraying on the pan, Rowl had failed and dropp
 <p>TEMPUS FUGIT&#8212;but not half so fast as Giulio Gatti-Casazza when he spies a soprano. In his seven years at the Metropolitan Opera House, not only has he harkened to the trills of world-famous singers to the tune of "I want a raise," but also to about two thousand singers whom he has had to advise to take up domestic science.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -1372,7 +1373,7 @@ confident that he would find Howl spraying on the pan, Rowl had failed and dropp
 <p>LAST of all, Dorothy Phillips, star of the Universal, and Allen Holubar, her husband&#8212;also a star, also a director. The name of the third party in the picture we do not know, but we understand he is a near relative. We have no desire to go in motion pictures: we have no jealousy in our hearts. But we just can't help envying these folks on one little point. Their kids go on the pay-roll at the age of one month. It will be twenty-one years before our son will be bringing home his six dollars Saturday nights. Twenty-one years before we can be supported in the leisure for which we yearn.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1431,7 +1432,7 @@ confident that he would find Howl spraying on the pan, Rowl had failed and dropp
 <p>NEXT to godliness comes cleanliness: next to Sunday church the Saturday night bath. Speaking of American missionaries, let us not forget that forceful gentleman, the American soldier. Once the bubonic plague was an annual visitor in the Philippines: it has not showed its head for seven years. Of the 35,000 lepers who once roamed the islands, only 3000 remain, and they are concentrated in one settlement. And the annual death rate of the islands has been cut in half. Onward, Christian soldiers!</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2422,7 +2423,7 @@ considered so important that it was given to the chief officials. But even this 
 <p>All contributions to this Magaxine should be addressed to THE EDITOR</p>
 <figDesc>Advertisement for Every Week.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -2530,7 +2531,7 @@ of which will be supplied on written request by the above-named firm.</hi></p>
 <p></p>
 <figDesc>Advertisement for 3-In-One Oil Co..</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     

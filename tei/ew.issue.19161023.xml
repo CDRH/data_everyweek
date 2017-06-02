@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19161023">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19161023</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2015 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19161023</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,8 +42,8 @@
 <author></author>
 <publisher>Every Week Corporation</publisher>
 <pubPlace>95 Madison Avenue, New York</pubPlace>
-<biblScope type="volume">Vol. 3</biblScope>
-<biblScope type="number">No. 17</biblScope>
+<biblScope unit="volume">Vol. 3</biblScope>
+<biblScope unit="number">No. 17</biblScope>
 <extent>24 pages</extent>
 <date when="1916-10-23">October 23, 1916</date>
 </bibl>
@@ -144,7 +145,7 @@
 <p></p>
 <figDesc>Advertisement for Le Page's Glue.</figDesc>
 </figure>
-    
+   <p/> 
 </body>
 </text>
     
@@ -222,7 +223,7 @@
 <p></p>
 <figDesc>Advertisement for Sears, Roebuck and Co.</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -274,7 +275,7 @@
 <p>THE fifth person who should go in when it rains (or should she?) is Ethel Fleming. This Miss Curly Locks stars in the kind of movie that everybody loves best. Somebody does something, you know, and somebody else sees him; so he starts to run, and the other person runs after him, and then the beautiful heroine thinks of something she wants to tell the second one, so she runs, and pretty soon the whole country-side turns into a gorgeous hare-and-hound Marathon. Just to keep in training, Miss Fleming made a real runaway match not long ago with William Courtleigh, Jr.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -941,7 +942,7 @@ the country palace of Tsarskoe Selo. The Czarevitch was rarely seen except by a 
 <p>No&#8212;it's not a picture of the earth, but only a ball of twine. The diligent proprietor of one railroad lunch-room collected all the twine that came to him and wound it into a ball. At last the lunch-room company had to move to a larger restaurant to allow the ball of twine to expand properly. Now it weighs 49 1/2 pounds, is 59 inches in circumference, and more than 185 miles in length.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -1077,7 +1078,7 @@ in the lower story. It was in this fluid that the elusive germ was expected to m
 <p>BEHOLD Doris Keane with Adelina. They appeared in the play "Romance," and the next day all the ladies of the first-night audience sent their Pomeranians to the Bide-a-wee Home and ordered monkeys. It amuses us to see these little monkeys sitting on the shoulders of society ladies. They look so wise and thoughtful&#8212;as if they were turning over in their minds how it happened that these pretty creatures descended from them&#8212;descended so far.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -1167,7 +1168,7 @@ Hicks was taken out at the end of sixteen days, weighing more than when he was c
 <p>ELEPHANTS waltz on him, emotional pythons embrace him&#8212;he doesn't mind, he likes it. He is Cy de Vry, veteran director of the Lincoln Park Zoölogical Garden in Chicago; and when any of the animals feel they're not being treated just as befits their dignity, they take it out on him. Once he was in hospital several months because a lion chewed up parts of him. An elephant put him to bed for another month, and an overwrought bull elk relaxed the strain of solitude goring and pawing him. Snake bites and monkey bites&#8212;trifles of that sort just keep him from being bored.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -1226,7 +1227,7 @@ Hicks was taken out at the end of sixteen days, weighing more than when he was c
 <p>IT must not be imagined that May Margaret is ignorant of the dangers and pitfalls of the great city. There is only one thing in the whole great new town that will really surprise May Margaret when she comes. And that is that she may walk home from a concert long after dark quite alone, down the bright streets and past the sturdy coppers, safe and unmolested and even unnoticed all the way.</p>
 <figDesc></figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
 
@@ -2173,7 +2174,7 @@ J. T. S.</p>
 
 <pb n="Page 22" xml:id="ew.issue.19161023.p022" />
     
-<!--figure n="advertisement">
+<figure n="advertisement">
 <head>Banking By Mail At 4% Interest</head>
 <p></p>
 <figDesc>Advertisement for The Citizens Savings &amp; Trust Co.</figDesc>
@@ -2231,8 +2232,9 @@ J. T. S.</p>
 <head>Classified Advertising</head>
 <p></p>
 <figDesc>Advertisement for Real Estate, Corporations, Female Help Wanted, Agents Wanted, Patents, Missouri Farm Lands, Male Help, Business Opportunities.</figDesc>
-</figure-->
-    
+</figure>
+
+
 <text type="fiction" xml:id="weston.19161023.jump">
 <body>
 
@@ -2501,7 +2503,7 @@ Museum of Art in New York, gave Frau Körte, as a "try-out," the Museum’s Verd
 <p></p>
 <figDesc>Advertisement for The Pompeian Manufacturing Co.</figDesc>
 </figure> 
-    
+    <p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170528">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170528</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170528</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -156,7 +157,7 @@
 <p></p>
 <figDesc>Advertisement for More Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -204,6 +205,7 @@
 <p></p>
 <figDesc>Advertisement for Bauer &amp; Black</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -220,7 +222,9 @@
 <p>"A stone from somebody in the surging mob struck the girl on the forehead. Larry caught her up and carried her into the bank."</p>
 <figDesc></figDesc>
 </figure>
+<p/>
 </body>
+
 </text>
 
 
@@ -237,6 +241,7 @@ Every Week
 $1.00 per Year
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -457,14 +462,14 @@ steepness, for a thousand feet more. The shelf of strata upon which she stood ra
 </div1>
 
 <div1>
-<!--
+
 <figure n="photograph">
 <head></head>
 <ab type="credit">Brown Brothers.</ab>
 <p></p>
 <figDesc></figDesc>
 </figure>
--->
+
 
 <head type="sub">DO YOU KNOW HOW TO HIRE MEN?</head>
 <p>ONE of the great sources of waste in business is the old haphazard way of picking employees.</p>
@@ -894,7 +899,7 @@ in the merchandise field to-day is being asked to adjust products that are just 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -974,7 +979,7 @@ in the merchandise field to-day is being asked to adjust products that are just 
 <p>NOT a new German helmet, nor yet Charley Chaplin with his head in a garbage-pail, but one of the workmen of the New York Dock Company, dressed for under-water surveying. The Hudson, as it flows by New York City, is no place for a mermaid. Clouded with sewage, to work in, it's like working in fountain-pen ink. Therefore the helmet has no windows. In other words, it's the kind of job&#8212;like painting pictures and piano-playing&#8212;that demands a great deal of feeling.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1024,7 +1029,7 @@ counsel of the city. After Billy left, the City Council, acting on an opinion re
 <p>EACH evening, after his day's work as blacksmith. Jim Dawson, a Billy Sunday convert in Des Moines, rolls out his little organ, places a few chairs around his shop, and opens his regular evangelistic service. His pulpit is his anvil. Curious, how things change. It used to be that all the red-blooded chaps drank and swore: now it's only the mollycoddles that dally with the cocktails. And the pulpits are full of weaklings such as blacksmiths, ex-prize-fighters, baseball-players, and horse-race men.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2349,7 +2354,7 @@ a Better Job</head>
 <p></p>
 <figDesc>Classified Advertising, including Personal, Corportations, Games and Entertainments, Help Wanted Female, Male Help Wanted, Agents Wanted, Business Opportunities, News Correspondents, Photoplays, Stories, Etc.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2494,7 +2499,7 @@ Discrimination is needed in this field, as in any other; but there are hundreds 
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2506,7 +2511,7 @@ Discrimination is needed in this field, as in any other; but there are hundreds 
 <p></p>
 <figDesc>Advertisement for S.C. Johnson &amp; Son</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

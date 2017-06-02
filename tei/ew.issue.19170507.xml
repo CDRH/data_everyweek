@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170607">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170507</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170507</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -157,7 +158,7 @@
 <p></p>
 <figDesc>Advertisement for Baroda Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -226,7 +227,7 @@
 <p></p>
 <figDesc>Holcomb &amp; Hoke MFG. Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -241,7 +242,7 @@
 <p></p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -274,6 +275,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1161,7 +1163,7 @@ With a thrilling laugh, she ran up the stairs. She was strangely happy.</p>
 <p>WILLIAM LEADER had seen life in New York City in the movies of Rumford, Maine. With $10 he started on his great adventure by rail to Boston. Here the hotel clerk charged him $1 for a night's lodging. The price stunned him, but he paid it. Next by rail to New York. From the Grand Central Station he went to a movie theater. Then followed a ride on the elevated, which lasted all night. The next day found him with very little money, so he sought work; but his efforts were fruitless. A drizzly rain started in, night came, and Billy Leader had no place to sleep. A kindly police man solved his difficulty, and several days later the Children's Society put Billy on a train bound for home.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1245,7 +1247,7 @@ as I came along, and thinking of my old friend William Q. Judge, and of how fond
 <p>DR. HYSLOP of Columbia College is a man whose word indubitably has weight with a jury. He tells us of an anemic little seamstress, reputed to possess mediumistic powers, who worked for his cousin, and who was one day seized with a violent fit of coughing while at work over the sewing-machine. "The coughing over," Dr. Hyslop continues, "the woman seemed to fall forward exhausted. Suddenly she began to speak, and to our astonishment the voice of my cousin's father, dead twelve years. issued from her mouth. My cousin then recalled with something akin to terror that her father had died in a fit of coughing not unlike the fit that had seized the seamstress."</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1309,7 +1311,7 @@ as I came along, and thinking of my old friend William Q. Judge, and of how fond
 <p>WHEN Miss Eugenia Hobson's grandfather died, he ordered in his will that the sum of $125 be paid to his granddaughter at the end of each month, "provided that she does some little thing during the course of the month to show that she has not entirely forgotten me. A few flowers placed on my grave, or even a visit to it, will suffice." We like the idea of this old man. We think we will leave some of our money on the same condition. Where is the little girl who will agree not to forget us? Please write.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2377,7 +2379,7 @@ veil. I couldn't bear to see you anything but beautiful and happy on your weddin
 </figure>
 
 <note type="copyright">Statement of Ownership, Management, Circulation, etc.</note>
-
+<p/>
 </body>
 </text>
 
@@ -2445,7 +2447,7 @@ veil. I couldn't bear to see you anything but beautiful and happy on your weddin
 <p></p>
 <figDesc>Advertisement for EVERY WEEK</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2555,7 +2557,7 @@ veil. I couldn't bear to see you anything but beautiful and happy on your weddin
 <p></p>
 <figDesc>Advertisement for BLACK FLAG INSECT POWDER</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2569,7 +2571,7 @@ veil. I couldn't bear to see you anything but beautiful and happy on your weddin
 <p></p>
 <figDesc>Advertisement for Shredded Wheat Company</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

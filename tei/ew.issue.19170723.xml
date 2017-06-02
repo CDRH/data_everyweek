@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170723">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170730</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2016 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170730</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -193,7 +194,7 @@
 <p></p>
 <figDesc>Advertisements for Personal, United States Flags, Help Wanted Female, Rosicrucian Brotherhood, Corporations, NEws Correspondents, Photoplays, Stories, etc. Photoplays, Short Stories, Manuscripts Wanted</figDesc>
 </figure>
-    
+    <p/>
 </body>
 </text>
     
@@ -293,7 +294,7 @@
 <p></p>
 <figDesc>Advertisement for The Oliver Typewriter Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
     
@@ -1391,7 +1392,7 @@ and that I was comin' across. I was more or less sober about it.</p>
 <p>"COMFORT rather than speed," Miss Florence Bass avers, "is what hotels need. It is wonderful how managers are beginning to realize this. They used to fight me because I tried to eliminate 'glitter'&#8212;now they beg me to avoid it." She is a foe to expensive and extravagant hangings and carpets, as such. She hates "parlors" vindictively. Bedrooms, she holds, should be small ante-chambers opening on boudoirs. Dining-rooms should be light and airy, not formal and impressive.</p>
 <figDesc></figDesc>
 </figure>
- 
+ <p/>
 </body>
 </text>
  
@@ -1480,7 +1481,7 @@ a particularly troublesome community. The mountains are full of such itinerant B
 <p>THE feudist of the distaff side will go the male one better any day. "I pray that my unborn child will be a boy, so that he can avenge the death of his father," cried Mrs. Adeline McHaffey, when they brought the dead body of her husband back to her. This was twelve years ago. One day little Don McHaffey, aged eleven, was seen running down a road in Rowan County, carrying a Winchester as large as himself. A mile back in the bushes lay Eli Howard, a bullet through his heart. At the trial Mrs. McHaffey wore a smile of proud disdain; and the jury, all mountaineers, decided that there was no evidence. The witnesses forgot what Mrs. McHaffey said at the time of her husband's death.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
  
@@ -1532,7 +1533,7 @@ a particularly troublesome community. The mountains are full of such itinerant B
 <p>"JOHNNY" MITCHELL,  as the miners call him, or "Jack, as they sometimes say, knows the mining business from the lowest pit. He knows so well how hard the miners have to work for what they get, that when they wanted to present him with $75,000 he refused it; and another time a proposal to get together $30,000 for him by means of a ten-cent assessment came to naught because he heard about it in advance. He's a regular fellow, and we're for him strong, ever though he does wear a hard boiled hat, which we have sworn never to do again as long as we live.</p>
 <figDesc></figDesc>
 </figure> 
-
+<p/>
 </body>
 </text>
 
@@ -2502,7 +2503,7 @@ of finance interesting to everybody. Issued- weekly by J. S. Bache &amp; Co., 42
 <p></p>
 <figDesc>Advertisement for The Coca-Cola Co.</figDesc>
 </figure> 
- 
+ <p/>
 </body>
 </text>
  

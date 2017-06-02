@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170618">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170618</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170618</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -172,6 +173,7 @@
 <p></p>
 <figDesc>Advertisement for Richard B. Owen</figDesc>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -240,7 +242,7 @@
 <p></p>
 <figDesc>Advertisement for Liggette &amp; Myers Tobacco Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -254,7 +256,7 @@
 'I make it an inviolable rule to do no business with liars. Now will you get out of here?"</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1165,7 +1167,7 @@ even though she was so friendly and willing," Turco blurted out.</p>
 <p>THIS model is surrounded by all the comforts of home&#8212;because it's her own home, and she is the wife of J. Knowles Hare, the artist. The baby on the cover was borrowed from the janitor. "Janitors' children and artists' wives are always beautiful," the painter was saying as his wife came in. "Artists and cats are always spoiled," said Mrs. Hale sweetly, as she retired behind the blue Persian pussy.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1259,7 +1261,7 @@ and Duplicate, Max and Climax, Russ and Moruss. The two in the picture we judge 
 <figDesc></figDesc>
 </figure>
 
-
+<p/>
 </body>
 </text>
 
@@ -1309,7 +1311,7 @@ and Duplicate, Max and Climax, Russ and Moruss. The two in the picture we judge 
 <p>"COLONEL," says Velvet Joe, "when a pie is like mother used to make thar ain't much room for argument. When tobacco is like Mother Nature makes, the debate's just about closed." We present herewith the authorized portrait of the celebrated Velvet Joe, together with his father, Richard A. Foley. We have tried smoking Velvet Joe's mixture while writing these pages, hoping cute sayings like his would pop into our mind; but there must be something the matter with our pipe. The page looks, just as long, seen through his smoke, as any other.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2049,7 +2051,7 @@ Gives orders, commands, signals, manual of arms, bugle calls, and miscellaneous 
 <p></p>
 <figDesc>Advertisement for International Correspondence Schools</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2449,13 +2451,13 @@ already she had him tagged exactly where he belonged.</p>
 
 <text type="nonfiction" xml:id="stephens.19170618">
 <body>
-<!-- 
+ 
 <figure n="illustration">
 <head></head>
 <p></p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">How Is Your Electrical System Today?</head>
 <byline>By <persName type="author" key="#Stephens, Ernest A.">ERNEST A. STEPHENS</persName></byline>
 
@@ -2551,7 +2553,7 @@ loosen connection and that frequent inspection and testing are desirable. If you
 <p></p>
 <figDesc>Advertisement for Lancaster &amp; Allwine</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2563,7 +2565,7 @@ loosen connection and that frequent inspection and testing are desirable. If you
 <p></p>
 <figDesc>Advertisement for The Andrew Jergens Co., Ltd.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 </group>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.0.2/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ew.issue.19170521">
 <teiHeader>
@@ -16,7 +16,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>ew.issue.19170521</idno>
+
 <authority>Every Week Magazine Project</authority>
 <publisher>University of Nebraska&#8211;Lincoln</publisher>
 <distributor>
@@ -32,6 +32,7 @@
 <availability>
 <p>Copyright &#169; 2009 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or republication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires express written consent from the editors and advance notification of the publisher, the University of Nebraska&#8211;Lincoln.</p>
 </availability>
+<idno>ew.issue.19170521</idno>
 </publicationStmt>
 
 <notesStmt>
@@ -154,7 +155,7 @@
 <p></p>
 <figDesc>Advertisement for Spring Step</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -225,7 +226,7 @@
 <p></p>
 <figDesc>Advertisement for Frederick F. Ingram Co.</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -276,7 +277,7 @@
 <p>SEATTLE people will tell you that home-bound sailors keep a weather eye on the silver cap of Mount Rainier, and watch their steps according. He is nearly three miles high, this giant, measured from sea-level, and Indian legends say he was even higher before the great eruption that blew his head off. Twenty-eight rivers of ice pour down his sides, which would be forbidding except that they seldom exceed the speed limit of sixteen inches a day. Which brings us to the end of the page&#8212;which we would never have written, only the scenery editor was out to lunch.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -295,6 +296,7 @@ Every Week<lb/>
 $1.00 per Year<lb/>
 3 Cents a Copy</p>
 </figure>
+<p/>
 </body>
 </text>
 
@@ -1513,7 +1515,7 @@ pawn</cell><cell>8</cell>
 <p>SOMEWHERE on the Eastern front, surrounded by the rudely marked graves of those who died honorably in battle, these two men await the word of the German officer to his firing squad. As no soldier fires willingly upon a defenseless man, one of the rifles furnished such a squad usually contains a blank cartridge. Each soldier deludes himself with the belief that his gun was not the one that brought death to a man who loved his country enough to become an outlaw for it.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1597,7 +1599,7 @@ pawn</cell><cell>8</cell>
 <p>SEEING America first, especially the States of the Southern tier, was made a great deal easier last season by Miss Lois Wilson of Birmingham, Alabama. They take their beautiful girls more seriously in the South than we do in the cold, commercial North. In the North, if a father looks upon his daughter and finds that she is prettier than his partner's daughter, he gives her a card forthwith to his friend the president of the Paragraph Film Company, and proceeds to retire upon her earnings. In the South they have annual festivals solely devoted to the proper crowning of local beauties, after which the queen puts her crown in the lower bureau drawer and retires quietly to private life.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1645,7 +1647,7 @@ pawn</cell><cell>8</cell>
 <p>SO far as he is known, Oney Fred Sweet has been fired from more jobs than any man who ever lived. Altogether he has tried more than a hundred jobs, and been fired from them all. He has been a Pullman porter and a locomotive fireman, a steeple-jack, bootblack, bartender, vaudeville actor, prize-fighter, campaign orator, policeman, soldier, animal trainer, a bell-boy, and a detective. The picture shows him as a lumber-jack, a position he held long enough to let the camera (which moves in 1-1000 of a second) catch him.</p>
 <figDesc></figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -1653,13 +1655,13 @@ pawn</cell><cell>8</cell>
 
 <text type="fiction" xml:id="miller.19170521">
 <body>
-<!-- 
+
 <figure n="illustration">
 <head></head>
 <p>"Ladies and gentlemen,' announced Turco, 'I have now to introduce the greatest of all ballerinas, Mademoiselle Dora.'"</p>
 <figDesc></figDesc>
 </figure>
--->
+
 <head type="main">The Blue Aura</head>
 
 <byline>By <persName type="author" key="#Miller, Elizabeth York">ELIZABETH YORK MILLER</persName></byline>
@@ -1993,7 +1995,7 @@ vice-president of the National City Bank of New York,  in an address before the 
 <p></p>
 <figDesc>Advertisement for International Correspondence Schools</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2941,7 +2943,7 @@ that you may have to take out more current than your generator will replace. Thi
 <p></p>
 <figDesc>Advertisement for Every Week</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
@@ -2955,14 +2957,10 @@ that you may have to take out more current than your generator will replace. Thi
 <p></p>
 <figDesc>Advertisement for Anheuser-Busch</figDesc>
 </figure>
-
+<p/>
 </body>
 </text>
 
 </group>
 </text>
 </TEI>
-
-
-
-
