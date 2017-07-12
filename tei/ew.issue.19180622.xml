@@ -68,6 +68,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017-07-12"><name>Sara Duke</name> Additional Encoding</change>
 <change when="2010-02-10"><name>Laura Weakly</name> Initial Encoding
 </change>
 <change when="2009-09-09"><name>Katie Heupel</name> OCR
@@ -80,27 +81,120 @@
 
 <text>
         
-<pb n="Cover" />
+<pb n="Cover" xml:id="ew.issue.19180622.p001"/>
 
 <front>
-
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-
+<titlePage>
+<docTitle>
+<note></note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>June 22, 1918</docDate>
+</docImprint>
+        
+<figure n="illustration">
+<head type="main">"You are going on a journey across the water"</head>
+<p>IN THIS ISSUE <lb/> THE SKY WITCH <lb/> By JOSEPH ERNEST</p>
+<figDesc></figDesc>
+</figure>
+        
+</titlePage>
 </front>
 
 
 <group>
 
 
-<pb n="Page 2" />
+<pb n="Page 2" xml:id="ew.issue.19180622.p002"/>
 
-<text type="missing">
+<text type="nonfiction">
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
+<head type="main">The Oldest and the Youngest in the War</head>
+    
+<figure n="photograph">
+<p><hi rend="italic">Fourteen-year-old Sydney Jaffrey and John Boucher (age seventy-three) got past the recruiting officers on their looks.</hi></p>
+<ab type="credit">Photograph by International Film Company</ab>
+<figDesc></figDesc>
+</figure>
+
+<p>INTRODUCING, ladies and gentlemen, Private John Boucher, 257th Canadian Railway Battalion, C. E. F., and Private Sydney Jaffrey 6th Canadian Riflemen, C. E. F., aged seventy-three and fourteen respectively, and claimants to the titles of the oldest and youngest fighting men in the Great War.</p>
+<p>Unfortunately, they were both found out and sent home. Although at the time they were both battling along the best of them on the western front, with no sign of breakdown or let-up, they were marked "unfit for service" and shipped to blighty.</p>
+<p>Sydney is back, studying history instead of making it, at high school in Harlem, New York City; and John is leading a very tame life as a military propagandist for his government in the United States. Both agree that the best fighters are born, not made, and that a fighter is a fighter in infancy as well as at three-score and ten.</p>
+<p>"I want to fight because it is in my blood," said Boucher, who points to a long line of fighting ancestors, including his great-grandfather, Sir John Johnson, the Duke of Wellington's one-time chief of staff in India.</p>
+<p>And when you stop to consider that he served two enlistments in the Civil War, and then, after half a century as a hunter and trapper on the upper St.
+
+<cb n="2"/>
+
+Lawrence, fooled the recruiting officers and went "over there" for more ein this war, his claim to fighting blood certainly is worth some consideration.</p>
+<p>With young Jaffrey it was about the same story. He loved to fight, and didn't want to be left out of the big shindy in France. He started to school one morning, and went to war instead. He looked twenty, and the recruiters took him, and it was not until after he had had five months of hot fighting with rifle, bomb, and bayonet in a hot sector of the Ypres salient on the French front that his mother learned where he was and told on him.</p>
+<p>Ask him why he wanted to fight, and he tells you just what Boucher tells you:</p>
+<p>"I just seem to be full of fighting blood, and I love to fight. I've been that way ever since I can remember. Of course we had good and plenty of it when I was over there in the earlier months of the war, and I got enough to last me for quite a while; but if my mother hadn't told and asked the British government to send me home, I'd probably be there yet."</p>
+<p>This looks like a pretty strong case for the exponents of "fighters are born, not made."</p>
+<p>And yet, the records show that the Allies are manufacturing several million pretty good ones by the synthetic method.</p>
+
 </body>
 </text>
+    
+<text type="nonfiction">
+<body>
+<head type="main">She Digs Trouble for the Kaiser Out of Her Mine</head>
+<p>WHEN the draft claimed Robert WHitecarver, it looked as if the family hope of digging a fortune out of the ground near their Kansas home was at an end. Robert had been supporting the family with his wages, and had left his father&#8212;who was not strong&#8212;free to prospect in an abandoned mine where the elder Whitecarver believed a rich vein of ore still remained. But there was no thought of asking exemption for Robert. He joined the army with the family blessing, and his father gave up the mine and went to work for wages. It wouldn't be long, he thought, before some one would jump his abandoned claim.</p>
+<p>Whitecarver senior had rechoned without his daughter Martha. She had been doing the housework, caring for her mother, who was an invalid, and at odd moments helping her father in the mine. She had become expert in the use of explosives and could handle a pick or shovel as well as her father. The day Robert left for the training camp, she went to work in earnest in the mine. Day
+    
+<cb n="2"/>
+    
+<figure n="photograph">
+<p><hi rend="italic">Most of the fortune this girl miner uncovered is being spent to help win the war.</hi></p>
+<ab type="credit">Photograph from J. R. Henderson</ab>
+<figDesc></figDesc>
+</figure>   
 
+after day she toiled in the dark drift, drilling holes and blasting out the rock. Early in the morning and late at night she did the cooling and hosuework.</p>
+<p>Martha stuck to her job for weeks. Then one day after a blast, returning to look at the result, she sat down and cried. And little wonder; for there at her feet lay uncovered the rich vein of which her father had dreamed.</p>
+<p>Mr. Whitecarver gave up his job, a simple hoisting rig was installed, and inside of ten days nearly $600 worth of ore had been brought to the surface.</p>
+<p>They call it the "Plucky Girl Mine." It nets the Whitecarvers about $60 a day. Of this, one half goes into Liberty Bonds, gifts to the Red Cross, and other war work, while a considerable portion of the remainder finds its way to the fighting front in the shape of books, clothing, and other comforts for Robert and his fellows. And Martha is still on the job, although her father can now afford help. She says she has found a way to help Robert win the war.</p>
+
+</body>    
+</text>    
+    
+<text>
+<body>
+<head type="main">Germany's Foes Are Twenty Nations&#8212;and Truth</head>
+<p>ON the days when the news from France has been most depressing I have noticed a curious phenomenon.</p>
+<p>I have noticed that many people say to me on such dark days, "It will be a long war." But not one single man or woman will admit the slightest doubt that Germany must ultimately lose.</p>
+<p>No matter how much ground the Germans gain, the common man persists in regarding their gains as purely temporary.</p>
+<p>How shall we explain this fixed and stubbon blindness that refuses to accept the evidence of the war maps?</p>
+<p>The common man is not good at self-analysis: he wold probably find difficulty in giving reasons for the faith that is in him.</p>
+<p>But that faith is founded on nothing more nor less than his&#8212;<hi rend="italic">that no cause can finally prevail which is built upon and bostered up with lies.</hi></p>
+<p>Some day the German people will understand how great a military defeat they suffered when they started their war by trampling upon truth. Indeed, there are signs that they already begin to realize it.</p>
+<p>"The war was forced upon us," their rulers cried. "England schemed and plotted it."</p>
+<p>The world knew it for a lie in 1914: and now, in 1918, comes Prince Lichnowsky, the last German ambassador to England, confessing in his memoirs that it was a lie&#8212;that England strove to the uttermost for peace.</p>
+<p>They may prosecute Prince Lichnowsky for treason: but Truth they can neither imprison nor wipe out before a firing squad.</p>
+<p>Emperor Carl of Austria may dismiss his minister and explain until he is breathless that the French have falsified his peace letter.</p>
+<p>The common man is unimpressed: he has passed judgement upon those explanations even before they are uttered. For four years every day's history has been teaching him that German explanations and promises and treaties are unworthy of his trust: and it will be four hundred years before the influence of that teaching dies out of the world.</p>
+<p>The common man does not know much history; but embedded deep in his heart is a conviction that the world is slowly growing better; that in the long run right triumphs over wrong; that Truth crushed to earth <hi rend="italic">does</hi> rise again.</p>
+<p>Truth is no more to be withstood than any other antural force (says Emerson). We can drive a stone upward for a moment into the air, but it is yet true that all stones will forever fall: and whatever instances can be quoted of unpunished theft, or of a lie, which somebody credited, justice <hi rend="italic">must</hi> prevail, <hi rend="italic">and it is the privilege of truth to get itself believed.</hi></p>
+<p>At almost every period of the world's history some man or body of men have sought to set themselves against this inexorable law.</p>
+<p>A lying, jealous populace forced Socrates to drink the bitter hemlock&#8212;and succeeded only in making Socrates immortal.</p>
+<p>A crowd of false witnesses rushed Jesus to the Cross: and the Truth which they thought they had crucified with Him rose triumphant, to spread its power around the world.</p>
+<p>Napoleon, one of the greatest liars of history, sought by might yoked with deceit to build his empire. He was wiser than the Germans&#8212;wise enough to know that the foe he had most to fear was Truth.</p>
+<p>He sent Madame de Stael into exile because, as he said, "she inspired thought in those who had never taken it into their heads to think before or who had forgotton how."</p>
+<p>But, in the end, the truth that he tried to suppress by his decrees of banishment rose up and suppressed him.</p>
+<p>Until Germany has destroyed men's conviction that Truth must prevail, it will profit her little to destroy ships and soldiers.</p>
+<p>Her chief enemy is not an armed force, but the deepest, most sacred faith of the human heart:</p>
+<p>The faith that righteousness, though often eclipsed, is never finally destroyed.</p>
+<p>The faith that a lying cause is resisted by the very stars in their courses, and by the arm of Him in whose sight "lying lips are abomination."</p>
+<closer><signed><hi rend="italic">Bruce Barton, Editor.</hi></signed></closer>
+
+</body>    
+</text>    
+    
+    
 <pb n="Page 3" xml:id="ew.issue.19180622.p003" />
 
 <text type="nonfiction" xml:id="suspend.19180622">
