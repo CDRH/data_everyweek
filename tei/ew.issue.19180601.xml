@@ -68,6 +68,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017-07-13"><name>Sara Duke</name> Additional Encoding</change>    
 <change when="2010-03-30"><name>Laura Weakly</name> Initial Encoding
 </change>
 <change when="2009"><name>Katie Heupel</name> OCR
@@ -79,14 +80,34 @@
 </teiHeader>
 
 <text>
-<group>
+
 
 <pb n="Cover" xml:id="ew.issue.19180601.p001"/>
-<text>
-<body>
-<p/>
-</body>
-</text>
+
+<front>
+<titlePage>
+<docTitle>
+<note></note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>June 15, 1918</docDate>
+</docImprint>
+            
+<figure n="illustration">
+<head type="main"></head>
+<byline></byline>
+<figDesc></figDesc>
+</figure>
+            
+</titlePage>
+</front>
+    
+<group>
 
 <pb n="Page 2" xml:id="ew.issue.19180601.p002"/>
 <text>
@@ -2496,11 +2517,10 @@ perhaps I was wrong.  Well, I can't afford to play with you.  I make just twenty
 </body>
 </text>
     
-<pb n="Page 24" />
+<pb n="Page 24" xml:id="ew.issue.19180601.p024"/>
 
-<text type="missing">
+<text>
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
 <p />
 </body>
 </text>

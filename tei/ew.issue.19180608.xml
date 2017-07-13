@@ -68,6 +68,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017-07-13"><name>Sara Duke</name> Additional Encoding</change>    
 <change when="2010-04-16"><name>Laura Weakly</name> Initial Encoding
 </change>
 <change when="2009"><name>Katie Heupel</name> OCR
@@ -79,21 +80,63 @@
 </teiHeader>
 
 <text>
-<group>
 
-<pb n="Cover" />
-<text type="missing">
-<body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
-</body>
-</text>
+<pb n="Cover" xml:id="ew.issue.19180608.p001"/>
 
-<pb n="Page 2" />
-<text type="missing">
+<front>
+<titlePage>
+<docTitle>
+<note></note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>June 8, 1918</docDate>
+</docImprint>
+            
+<figure n="illustration">
+<head type="main"></head>
+<byline></byline>
+<figDesc></figDesc>
+</figure>
+            
+</titlePage>
+</front>
+
+<group>    
+
+<pb n="Page 2" xml:id="ew.issue.19180608.p002"/>
+<text>
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p />
+<head type="main"><hi rend="italic">Winning the War a Crumb at a Time</hi></head>    
+<p>ON the water-front, last week, I watched half a dozen great ships put out to sea, loaded with food for our Allies.</p>
+<p>And I thought, as I watched them disappear, of the armies to which that food is going; and then of the little house in our town from which it came.</p>
+<p>For those tons of meat and wheat are not the gift of Mr. Hoover to our armies, nor of Congress.</p>
+<p>They are the gift of a little white house with green shutters, that stands a few blocks from mine&#8212;and of a million houses like it.</p>
+<p>A modest little house this one is&#8212;the home of a high-school teacher whose income has had no share in teh war prosperity, but, on the contrary, has had to stretch to the limit to cover the increasing cost of everything.</p>
+<p>Dining the other night at that house, I could not help noticing that the carpets are well worn with the tramping of little feet; and the food that the mother of the house set before us was wholesome but very plain.</p>
+<p>"You see, we are doing what we can to win the war," said the little lady. And the oldest boy piped up:</p>
+<p>"Every day we try to save enough to feed <hi rend="italic">our</hi> French soldier. Dad said every family out to pick out one soldier in its mind, and try to take care of him."</p>
+<p>There is a wise old line that reads: "Cast thy bread upon the waters: for thou shalt find it after many days."</p>
+<p>To-day millions of American families are casting their bread upon the waters. Gathered, a crumb at a time, from millinos of modest tables, it goes in great shiploads across the seas&#8212;the sacrifice of simple, obscure Americans for the great common cause.</p>
+<p>And they <hi rend="italic">shall</hi> find it after many days. Bread cast on the waters <hi rend="italic">does</hi> return. For every family that is sharing in that great common sacrifice there <hi rend="italic">will</hi> be a reward.</p>
+<p>It will come, first of all, in the satisfaction of having helped to administer one more defeat to that dreadful enemy of the race&#8212;Famine.</p>
+<p>More than one good cause has been lost in the world because that great, gaunt enemy aligned itself with the foes of that cause.</p>
+<p>There is a satisfaction to you and me&#8212;a return for our sacrifice&#8212;in the thought that that great enemy shall not intervene, in this war, to protect Germany from the punishment she has so well deserved.</p>
+<p>And there will be a return to us of another sort. The whole future of our children and of their children is being made safe by the sacrifice of the simple American homes of to-day.</p>
+<p>Between England and France and America there can never in the future be anything but the closest friendship.</p>
+<p>Thanks to your sacrifice and mine, England and France are eating of our bread: they are guests in our homes. And between those who have broken bread together there is growing a tie that is the guaranty of the peace of the world, and of every household in it.</p>
+<p>But, most important of all, those who are sacrificing now to feed the Allies have their reward immediately in the enrichment of their own character.</p>
+<p>I pity the people who never learn this great truth&#8212;who go through life, not as men and women, but as school-boys being good in hope of external reward, or avoiding evil in fear of punishment.</p>
+<p>The growth of a man's soul is his own great reward: its shriveling under selfishness and meanness is its own worst punishment.</p>
+<p>The reward of a thing well done is to have done it (says Emerson). The thief steals from himself; the swindler swindles himself. You must pay at last your own debt.</p>
+<p>Have you learned from the war this lesson a little bit more fully? Then you are a war profiteer in the finest and truest sense.</p>
+<p>Already the bread that your sacrifice is casting on the waters is returning to bless you. And it will continue to return in teh satisfaction of helping to win the war: in the guaranty of the future peace of the world; and, most of all, in the permanent expansion of your own best self.</p>
+<closer><signed><hi rend="italic">Bruce Barton, Editor.</hi></signed></closer>
+
 </body>
 </text>
 
@@ -2064,24 +2107,73 @@ four, and the only daughter. I was a plain child and grew up to be a homely youn
 </body>
 </text>
 
-<pb n="Page 23" />
+<pb n="Page 23" xml:id="ew.issue.19180608.p023"/>
 
-<text type="missing">
+<text type="nonfiction">
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
+<head type="main">What Charlie Chaplin Does With His Money</head>    
+<p>IN the good old days it used to be the thing for popular idols to squander their $1,000 a night or their $10,000 a week, or whatever preposterous sum it was, in riotous living: million-dollar banquets, champagne suppers, any idiotic form of cash-consuming pastime that happened to be handy.</p>
+<p>But to-day what a difference. Look over the lists of the spoiled darlings of popularity, and see what they do with their cash. You will almost be tempted to say that we in America are coming to our senses cashwise.</p>
+<p>Look at the hundreds of thousands that John L. Sullivan made. He died with little to show for it. "Death Valley Scotty" came East bulging with greenbacks, and went home on a special train, dead broke. Most of the old-time singers and dancers and pugilists were forever having "benefit" performances given for them. But it is not this way any more.</p>
+<p>Caruso owns a great deal of property in Italy, and is fairly rolling in war bonds.
+
+<cb n="2"/>
+
+<floatingText>
+<body>
+<head type="sub">What is Wealth</head>
+<p>"LONG before he became President," says Colonel McClure in his book about the Great Emancipator, "a firm wrote to Lincoln for information about the financial standing of one of his neighbors. Mr. Lincoln replied:</p>
+<p>"I am well acquainted with Mr. Blank, and know his circumstances. First of all, he has a wife and baby; together they ought to be worth $50,000 to any man. Secondly, he has an office in which there is a table worth $1.50, and three chairs worth, say, $1. Last of all, there is in one corner a large rat-hole, which will bear looking into.</p>
+<closer><signed>"Respectfully, <lb/> "A. LINCOLN."</signed></closer>    
+</body>
+</floatingText>
+
+John McCormack, the tenor, is a millionaire who buys $100,000 pictures and thinks nothing of it. Jess Willard owns two circuses and several farms. The list is long and the story the same in almost every case.</p>
+<p>The other day Charlie Chaplin walked into a New York bank with $2,500, which he placed on deposit. A week later an order came to pay him $10,000 more. He told the bank to credit it to his account. The same thing happened the next week, and the next. This went on for several months, and the pile grew large. Asked why he never drew any money, Charlie replied that he had no use for it. Asked if he desired to invest what he had deposited, he repied, "Assuredly," and asked the banker for suggestions. They were given and followed, and now that money is making money and more is piling up. No foolishness for Charlie off the screen. When folks like Charlie get conservative, it's a pretty good sign that the thrift idea is taking root in our midst.</p>
+
 </body>
 </text>
 
-<pb n="Page 24" />
-
-<text type="missing">
+<text type="nonfiction">
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
+<head type="main">"Safety First" for Women Investors</head>    
+<p>IF women would buy their bonds and securities and other investments with as much prayerful consideration as they devote to the purchase of a new hat, the procession of penniless femininity, with its heart-breaking tales of lost savings and dwindled inheritances, would be greatly shortened, says Lillian C. Kearney in the <hi rend="italic">Magazine of Wall Street</hi>:</p>
+<p>"A woman will go into the security market, without a thought of using the caution and learning the intrinsic value of her purchases, as she does in the hat, gown, and glove market. And the worst ones at this game are usually the ones who can least afford to take such risks&#8212;widows, orphans, and middle-aged workingwomen with small savings.</p>
+<p>"'Safety first" should be the slogan of the woman investor. Let her avoid such get-rich-quick offerings as oil and mining prospects, speculative stocks on margin,
+    
+<cb n="2"/>
+                
+and second mortgages with high interest rates."</p>
+<p>Women&#8212;and men too&#8212;would do well to consult the banker before investing in anything. Bankers are pretty careful about what they recommend their patrons to buy. Among the things they do consider safe, as a rule, are these:</p>
+<p>Securities in which savings banks are compelled by law to invest their funds, preferred stocks of companies they know are financially and morally sound, high-grade municipal, public-utility, industrial, and railway securities; mortgage bonds on church property, guaranteed mortgages on improved real estate, annuities, and 4 to 4 1/2 per cent savings accounts.</p>
+<p>But there may be arguments in special cases against some of these. Better consult the banker and approach this thing of investing your money in the glove-counter spirit.</p>
+
+</body>
+</text>
+
+<text type="nonfiction">
+<body>
+<head type="main">Graft and the Hat-Check</head>    
+<p>ONE time we sat down and made out a list of foolish expenses: things we dug up our hard earned money for and got nothing in return. There were several interesting items on the bill, but the thing that made us maddest was the fact that we had paid hat-check boys, at one time and another, about $7 in tips for a $3.50 hat. In other words, we had spent twice the original price of the hat buying it back from restaurant brigands.</p>
+<p>If this hat-check robbery were confined to the lobster palaces of the larger cities, we'd take our medicine in silence and say nothing about it; but it is an evil that has spread into every town of any size in the country. It is an isult and an abomination, and we ought to rise up in our wrath and smite it. But we won't, probably.</p>
+<p>Just to-day our rage was rekindled by a suit filed in the new York courts over the hat-check privilege in certain Broadway resorts. It appears that two brothers collected $750,000 in hat tips in seven years, $250,000 of which was net profit to them, and they quarreled about the division of it.</p>
+
+<cb n="2"/>
+                
+<p>Talk about wilful waste! There it is in its most virulent form. Just stop and figure how many millions of dollars that might go into Liberty bonds is pouring into the coffers of these affluent flunkies all over the United States every year. The amount will stagger you.</p>
+<p><hi rend="italic">Commerce and Finance</hi>, commenting on the suit, hits off our feelings on the subject to a T. "The hotel or restaurant keeper who establishes this hat-check swindle," it says, "deliberately plans to plunder his patrons. He is not content with the returns he gets from his business, but, knowing the weakness of the average American and his reluctance to protest against any extortion to which he is subjected for fear of being clases as a 'cheap skate,' he inflicts upon him a seemingly petty, but in the aggregate large, robbery.</p>
+<p>"The hat-checkers are parasites. Refuse to have anything to do with them, and notify the proprietor of the hotel or restaurant that is party to it that he can not have your patronage so long as he maintains this bird of prey in his establishment."</p>
+
+</body>
+</text>
+    
+<pb n="Page 24" xml:id="ew.issue.19180608.p024"/>
+
+<text>
+<body>
 <p />
 </body>
 </text>
-
 </group>
 </text>
 </TEI>
