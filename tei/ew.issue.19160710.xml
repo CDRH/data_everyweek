@@ -1113,7 +1113,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 
 <text type="photograph" xml:id="favoritedrink.19160710">
 <body>
-<head>What Is Your Favorite Drink?</head>
+<head type="main">What Is Your Favorite Drink?</head>
 
 <figure n="photograph">
 <head></head>
@@ -1173,7 +1173,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 <text type="photograph" xml:id="girlswhomoviedup.19160710">
 <body>
 
-<head>Girls Who Movied Up</head>
+<head type="main">Girls Who Movied Up</head>
 
 <figure n="photograph">
 <head></head>
@@ -1203,7 +1203,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 <figDesc></figDesc>
 </figure>
     
-<pb n="Page 11 xml:id=ew.issue.19160710.p011" />
+<pb n="Page 11" xml:id="ew.issue.19160710.p011" />
 
 <figure n="photograph">
 <head></head>
@@ -1233,7 +1233,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 
 <text type="photograph" xml:id="besidespreach.19160710">
 <body>
-<head>What They Do Besides Preach</head>
+<head type="main">What They Do Besides Preach</head>
 
 <figure n="photograph">
 <head></head>
@@ -1294,7 +1294,7 @@ liked work. So from May to August he followed the harvest; in August and Septemb
 </body>
 </text>
 
-<pb n="Page 13 xml:id=ew.issue.19160710.p013" />
+<pb n="Page 13" xml:id="ew.issue.19160710.p013" />
     
 <text type="fiction" xml:id="derieux.19160710">
 <body>
@@ -1693,6 +1693,8 @@ and a whispered word they leave at the desk and hurry forth to dive into the nea
     
 <text type="fiction" xml:id="camp.19160710.jump">
 <body>
+
+<head type="main">The Mystery at Woodford's</head>
 
 <p rend="jumpline"><ref target="camp.19160710">Continued from page 8</ref></p>
 
@@ -2569,7 +2571,7 @@ is a test as to whether the bond is salable, and you don't want to buy a bond th
 </body>
 </text>
     
-<pb n="Page 20" />
+<pb n="Page 20" xml:id="ew.issue.19160710.p020"/>
 
 <text type="advertisement" xml:id="kitchen.19160710">
 <body>
