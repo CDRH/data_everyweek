@@ -68,6 +68,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017-07-13"><name>Sara Duke</name> Additional Encoding</change>    
 <change when="2010-03-30"><name>Laura Weakly</name> Initial Encoding
 </change>
 <change when="2009"><name>Katie Heupel</name> OCR
@@ -79,21 +80,100 @@
 </teiHeader>
 
 <text>
+
+
+<pb n="Cover" xml:id="ew.issue.19180601.p001"/>
+
+<front>
+<titlePage>
+<docTitle>
+<note></note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>June 15, 1918</docDate>
+</docImprint>
+            
+<figure n="illustration">
+<head type="main"></head>
+<byline></byline>
+<figDesc></figDesc>
+</figure>
+            
+</titlePage>
+</front>
+    
 <group>
 
-<pb n="Cover" />
-<text type="missing">
+<pb n="Page 2" xml:id="ew.issue.19180601.p002"/>
+<text>
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
-</body>
-</text>
+    <div1>
+<head type="main">Consumption Is a House Disease</head>
+<byline>By JOHN B. HUBER, A. M., M.D.</byline>
+<p>THE Sisters of Mercy at the Hospital for Consumptives in New York City come in contact with consumptives day and night, constantly. They dwell in the same rooms with them, make their beds, keep night vigils over them, prepare their meals, handle their clothing. Yet in thirty years--as far back as the record goes--not one of these noble women has died of consumption.</p>
+<p>In the Trudeau Sanatorium at Saranac Lake all the dust in a room occupied by consumptive patients was gathered together, a culture made from it, and the serum injected into a guinea-pig. The creature's health continued unimpaired.</p>
+<p>I cite these instances to prove that much of the fear of "catching consumption" among people generally is groundless, if those suffering from the affliction are cleanly. And the most important phase of this cleanliness is to hold a handkerchief before the face in coughing or sneezing, and properly to dispose of the sputum.</p>
+<p>This advice applies to more persons than you would suppose. Cleanliness is not only an admirable but a necessary habit in all human beings, but it is particularly so with regard to tuberculosis: because every fourth person between fifteen and forty-five suffers in a degree from tuberculosis, whether they all know it or not. Tuberculosis is a house disease, contracted usually in workshops or dwellings where uncleanly tuberculous persons have dwelt.</p>
+</div1>
+    
+<div1>
+<head type="main">Pity Him Hiccoughs</head>
+<p>DON'T despise the dope fiend. Feel sorry for him and do what you can to help him. Too many of us have only contempt for him. Drug addiction is, in most cases, neither a crime nor a vice, but a disease contracted through weakness. It is an autointoxication that affects every part of its victim's make-up, will, intellect, and moral, physical, and spiritual being. The management of this disease should lie only in the hands of a competent physician. The seeming rule that all addicts are unprincipled and prone to deception is their misfortune, not their fault. A drug-taker too weak to sit in a chair can not be expected to exercise the will power or the sense of right and wrong of a John the Baptist.</p>
+<p>EVERY once in a while some person hiccoughs to death. Doctors are called in and fail to stop the trouble or find the cause. If you hiccough habitually, it would be worth your while to consult a good physican about it. It may never give you serious trouble; then again it may. Hiccoughing in most cases is merely annoying; but if it attacks you frequently there is some underlying cause that ought to be removed. It is one of the most puzzling things doctors have to deal with--it may be caused by so many differeny things, and all of them hard to locate. Medical magazines frequently carry calls for help to the medical profession from some doctor who has been stumped by a case of hiccoughs.</p>
+</div1>
+    
+<div1>
+<head type="sub">Don't Tickle Baby</head>
+<p>TICKLING a baby is equivalent to a hard day's work. "Should any one doubt the vast power that adequate stimulation of the deep ticklish regions of the chest and abdomen has in causing the discharge of energy," says Dr. Crile in <hi rend="italic">Good Health</hi>, "let him be bound, hand and foot, and vigorously tickled for an hour. What would happen? He would be as completely exhausted as though he had experienced a major surgical operation or had run a Marathon."</p>
+</div1>
+    
+<div1>
+<head type="main">It Many Not Be Paralysis at All</head>
+<p>IF you're a hard worker and you wake up some morning with a stutter in your walk or talk, and certain muscles twitch and won't work, don't worry. You're not getting genuine paralysis, probably, though those are symptoms of the real thing. The chances are, you are siffering from exhaustion paralysis.</p>
+<p>Dr. J. Ramsey Hunt found a lot of such cases among the drafted men soon after they got to camp. They had simply been under too sudden and protracted mental and physical strain in training, and they soon recovered. Many such cases crop up in civil life, but they are not serious. Unusually hard work of any kind may bring it on. The only sure cure for it is a good rest.</p>
+</div1>
+    
+<div1>
+<head type="main">Why Babies Die</head>
+<p>WE hear occasional laments because the big families of ancient days have passed out of style: but those who understand the laws of social progress do not join in the lament. The old-fashined family had a far larger birth record, but it also had a great and appalling death record. Science has been bending every effort to reduce the baby death rate: and by better milk, free ice district nurses, and free medical care has done a great deal.</p>
+<p>If the battle is to be won, however, still another step must be taken. The report of the Children's Bureau recently tells of investigation proved very definitely that where a family has sufficient income, so that the mother can remain at home to nurse and care for her baby, the infant mortality is exceedingly low: where the mother must rush away to work in a factory, or devote her days to hard work in caring for borders, the baby survives only by good luck. The fight against the death of little ones will be won only by a social readjustment that will give to every family a comfortable living wage.</p>
+</div1>
+    
+<figure n="graph">
+<p>Rate per thousand of infant deaths in eight cities. Notice how rapidly the rate diminishes as the income of the father's increases.</p>
+</figure>
+    
+<div1>
+<head type="main">The Excellent Habit of Asking Yourself Questions</head>
+<p>A FEW days ago I opened the morning mail to discover this interesting letter from a subscriber in Wakefield Massachusetts:</p>
+<p>Dallas Lore Sharp, the naturalist and writer of Nature books, told me that hop-toads possess the homing instinct. "Take one away from the spot where it has always lived, and he will return, even though you have carried him ten miles," said Mr. Sharp.</p>
+<p>I resolved then to try an experiment with Teddy, the big toad who has made his home in my garden in Wakefield for the past five years. Writing my name on a tag. I tied it to Teddy's hind leg, and took a train to Boston. There I transferred to an elevated train which carried me to Charlestown, on the outskirts of the city. At the corner od Perkins and Haverhill streets, Charlestown, near the B. &amp;. M. signal tower where I am employed on night duty, I let Teddy out of the box. He blinked at the arc-lights a second or so, darted out his tongue and gobbled a few Charlestown mosquitoes, and began straightway to hop along the side of the street to Mystic Avenue. When he reached the corner, he made a bee-line for Wakefield, hopping off in the darkness at a lively pace.</p>
+<p>It was just 11:15 P. M. when I went on duty at the tower, and 8:30 when I reached home the next morning. Imagine my surprise and pleasure when, on entering the yard, I sicovered Teddy, in his accustomed place, under the sill cock, against the side of the house, taking a bath--I presume--after his long, dry, and dusty hop of nine miles. The tag with my name was still tied to his leg.</p>
+<p>I have preserved this letter, partly because of what it tells about the character of the hop-toad, which is interesting in itself, but chiefly because of what it tells about the man who wrote it.</p>
+<p>If ever I am near Charlestown at night, I shall go out to the signal tower and meet him. For, humble though his job may be, he is in spirit a brother of Galileo and Columbus. There is within him something of the eagerness to experiment-- that divine curiosity that has conquered and civilized the world.</p>
+<p>For the world moves forward, not steadily, as it moves around the sun, but by jerks. And the jerks are prompted by some man's curiosity, his insistence that he be shown.</p>
+<p>Reading the letter of this railroad signalman, I thought of Samuel Morse, who wrote to his father from Yale in 1809:</p>
+<p>Mr. Day's lectures are very interesting; they are upon electricity. He has given us some very fine experiments. The whole class, taking hold of hands, formed the circle of communication, and we all recieved the shock at the same moment. I never took the electric shock before; it felt as if some person had struck me a slight blow across the arms.</p>
+<p>And of Elias Howe, who, watching his wife at night laboriously patching his worn garments, began to wonder if a machine might not be invented to relieve women of the toil of sewing forever.</p>
+<p>There were thousands of young men in Samuel Morse's day who stood in circles and felt the electric shock travel through their arms.</p>
+<p>Millions of men have sat and watched their wives busy with the needle at night.</p>
+<p>But in the minds of Samuel Morse and Elias Howe these commonplace experiences set going questionings that did not cease until the telegraph and the sewing machine were added to the world's store of miracles.</p>
+<p>It is in some ways a misfortune that our modern life provides so many easy means of answering questions. We have no need to put problems to ourselves and turn them over in our minds.</p>
+<p>We find the answer immediately in a book, or write a letter to the editor, or ask a policeman.</p>
+<p>The war has been a benefit in this respect: it has faced us with new conditions; it has forced us, willingly or unwillingly, to think--to write a question-mark behind every fact of life that formerly was settled and fixed.</p>
+<p>And out of this universal questioning great things are bound to grow in the period when peace returns.</p>
+<p>It will be a time of testing, of experimentation, of attempts to find new answers for problems as old as the world.</p>
+<p>And the places of preeminence, I think, are likely to be filled by those men who have formed the good habit of finding the answer for their themselves.</p>
+<p>Whether the problem be the advancement of Democracy or the homing instinct of the hop-toad.</p>
+<closer><signed>Bruce Barton, Editor.</signed></closer>
+</div1>
+    
 
-<pb n="Page 2" />
-<text type="missing">
-<body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p />
 </body>
 </text>
 
@@ -1421,6 +1501,12 @@ were in such perfect condition."</p>
 <figDesc></figDesc>
 </figure>
 
+<figure n="illustration">
+<head></head>
+<p><hi rend="italic">"The expert accountant stated that it was absolutely impossible for a concern to fail whose books were in such perfect condition.</hi></p>
+<figDesc></figDesc>
+</figure>
+      
 <cb n="3" />
 
 taking care of the crowds were so perfect that there was none of the confusion and uproar that usually attend such events.</p>
@@ -2339,20 +2425,115 @@ perhaps I was wrong.  Well, I can't afford to play with you.  I make just twenty
 </body>
 </text>
 
-<pb n="Page 23" />
+<pb n="Page 23" xml:id="ew.issue.19180601.p023" />
+    
+    <figure n="advertisement">
+        <head>Reaping Two Harvests</head>
+        <p></p>
+        <figDesc>Advertisement for Selling Subscriptions for Woman's Home Companion, The AMerican Magazine, Every Week and Farm and Fireside.</figDesc>
+    </figure>
+    
+    <figure n="advertisement">
+        <head>Cleans, brightens and preserves your finest furniture</head>
+        <p></p>
+        <figDesc>Advertisement for O-Cedar Polish.</figDesc>
+    </figure>
+    
+    <figure n="advertisement">
+        <head>Insure By Mail; Save 9 1/2%</head>
+        <p></p>
+        <figDesc>Advertisement for Postal Life Insurance Company</figDesc>
+    </figure>
+    
+    <figure n="advertisement">
+        <head>Send Your Boy in Camp a Copy of Bruce Barton's Book</head>
+        <p></p>
+        <figDesc>Advertisement for Bruce Baron's Book: "More Power To You."</figDesc>
+    </figure>
+    
+    <text type="nonfiction" xml:id="editor.19180601">
+        <body>
+            
+    <head type="main">THE EDITOR ANSWERS</head>
+            
+            <p>"We hear," according to the New York <hi rend="italic">Evening Post</hi>, "of knapsacks glued together and falling to pieces after the first day's use; of uniform coats which are torn to pieces with a slight pull of the fingers; of blankets too small if they were good, and too poor stuff to be useful if they were of the proper size; shoes, caps, trousers, coats-- all too often of such poor material that before a soldier is ready for service he must be clothed anew."</p>
+            <p>Very discouraging, isn't it? But, vefore you give way to gloom, let me hasten to add that the quotation is not from a current number, but from an issue of June, 1862--and relates to the Civil War, which was fought in the good old days when every one was efficient and unselfish.</p>
+            <p>Probably our present administration is pretty bad in spots; but one reason why I have not adopted the universal Pastime of muchracking is that I have read a good deal about our previous wars. And I feel pretty certain that--with all the failures--this war is being run a good deal better than any opther we have ever been mixed up in.</p>
+            
+     
+<div>
+<head type="sub">Settled at Last</head>
+</div>
+<div>
+<opener><salute>Dear Sir:</salute></opener> 
+<p>As a rule you print some pretty good stuff: but how could you have allowed those "Experiences that Can Not be Explained" to get by you? The writers speak of them as "super-natural." There is no supernatural. Everything in the universe is natural. Can we Dis-cover that God has been influenced, either way, by the billions of prayers that have been sent up to Him by all concerned in this great war? Why delude your readers with talk of God and the supernatural? </p>
+<closer><signed>K. G. L., Pennsylvania.</signed></closer>
+</div>
+            
+<div>
+<p>Of course, folks have been puzzling over these matters for centuries, K. G. L. And even such scientific gentlemen as Sir Oliver Lodge and John Fiske, And even such more or less eminent gentlemen as Glad-stone and Lincoln, have been mislead with the idea that there is a God. We are glad to have this direct authoritative letter from you, settling the matter once for all.</p>
+</div>
+            
+<div>
+<head type="sub">A Pat on the Head for Us</head>
+<opener><salute>Dear Sir:</salute></opener>
+<p>EVERY WEEK is like our neighbor's child to me. I've known it since the day of its birth; and I have liked the sensation of going to the news-stand to buy it. I've enjoyed asking for it where I knew it wasn't kept, and then later finding it displayed there.</p>
+<closer><signed>F. W., New York.</signed></closer>
+</div>
+            
+<div>
+<p>We're trying to make this magazine a good child, and agreeable to all of you who are its neighbors. But the time is coming, we fear, when it will no longer be a child. There are evidences that it is going to be bigger: we wouldn't wonder if about next year you'd be exclaiming: "Can that be our little one? Gracious, how he has changed!"</p>
+</div>
+            
+<div>
+<head type="sub">We Make These Mistakes So as to Attract Letter from Folks Like You</head>
+<opener><salute>Dear Sir:</salute></opener>
+<p>In these days of war, I should think there were enough people making us worry without you starting in. Why didn't you publish the name of the lady you described in last week's issue under the heading "Who is She?" I guessed the name, but nobody in the office agreed with me; and when the magazine came this morning, you should have seen the dive for it.</p>
+<p>I waited for the verdict, and discovered, to my honor, that the discussion would last, not only for another week, but--if you don't publish the answer next week--perhaps for ever.</p>
+<p>Now, sir, when you ask yourself to-night. "Have I tried to do my best to-day; have I tried to uplift the working classes?"--remember that there is one woiking-goil who awaits your next issue anxiously. It is very hard to have the office-boy look at one scornfully and insist that he knew that there "ain't no such goil--they only put it in for fun," and not be able to prove the lordly one wrong.</p>
+<p>I've read your magazine ever since it came out; so I feel that you and I are very good friends; and I want to ask you to please have an article about Greenwich Village. I want to know why is a Bohemian; and how do those fellows who drink so much coffee, and look so soulful, live.</p>
+<closer><signed>I. F. D., New York.</signed></closer>
+</div>
+            
+<div>
+<p>Well, I. F. D., the lady's name has long since been printed, of course. We had her scheduled in the proper issue; but at the last moment along came an extra advertisement and knocked her out.</p>
+<p>Just a little example of the tragedy of American life--business first always, and the neglected wife and sweetheart having come along afterwards.</p>
+</div>
+            
+<div>
+<head type="sub">Put the Other Ninety Cents into W.S.S.</head>
+<opener><salute>Old Pal--Dear Bruce:</salute></opener>
+<p>That's the way I feel like addressing you every time I pick up a copy of EVERY WEEK. There is so much of real information and help in its short articles. How do you crowd so much into such little space? I feel, when I finish a copy, as if I had received about one dollar's worth. Keep up the good work, and may you cross the million mark soon.</p>
+<closer><signed>G. A. C., Naval Training Station, Newport.</signed></closer>
+</div>
+            
+<div>
+<p>If we can contribute a little pep to fellows like you, G. A. C., and you can use it in strafing the Kaiser, we'll feel a little less discontented back here in our safe, warm homes. And maybe we'll be with you yet over there. Who knows?</p>
+</div>
 
-<text type="missing">
-<body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
+<div>
+<head type="head">One of a Big Family</head>
+</div>
+
+<figure n="photograph">
+<head></head>
+<ab type="credit"></ab>
+<p></p>
+</figure>
+
+<div>
+<p>THIS boy with the shin-ing morning face is Lewis Curtis, of Chicago. He is getting a business training, and hopes to pay for a college course, by selling EVERY WEEK. When the superintendent of a large concern told Lewis that boys weren't allowed to sell things there, Lewis that boys weren't allowed to sell things there, Lewis said he was sorry, and gave him a compliment of EVERY WEEK with his compliments. Next week he went back and asked the man how he liked the magazine. The superintendent said, "Bully," and presented Lewis with the freedom of the shop. He landed fifty customers.</p>
+<p>At another factory the superintendent looked at EVERY WEEK and said: "I'm not sure that this is the highest form of literature."</p>
+<p>Said Lewis: "Neither am I, but I guess it's a heap better than anything you've been reading lately." A man with the superintendend laughed and bought a copy; then he introduced Lewis to the heads of the departments as "Mr. Curtis, of the personal representative of EVERY WEEK," and Lewis got another lot of customers.</p>
+<p>He says that any live boy can do as well as he has.</p>
+</div>
 </body>
 </text>
+    
+<pb n="Page 24" xml:id="ew.issue.19180601.p024"/>
 
-<pb n="Page 24" />
-
-<text type="missing">
+<text>
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
 <p />
 </body>
 </text>
