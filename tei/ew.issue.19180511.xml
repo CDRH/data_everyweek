@@ -76,18 +76,35 @@
 </teiHeader>
 <text>
         
-<group>
+
 
 <pb n="Cover" xml:id="ew.issue.19180511.p001"/>
 
-<text>
-<body>
-<p/>
-</body>
-</text>
+<front>
+<titlePage>
+<docTitle>
+<note></note>
+<titlePart type="main">Every Week</titlePart>
+<titlePart type="price">5 Cents</titlePart>
+</docTitle>
+<docEdition></docEdition>
+<docImprint>
+<publisher>Copyright, 1918, By the Crowell Publishing Company</publisher>
+<pubPlace></pubPlace>
+<docDate>May 11, 1918</docDate>
+</docImprint>
+            
+<figure n="illustration">
+<head type="main"></head>
+<byline></byline>
+<figDesc></figDesc>
+</figure>
+            
+</titlePage>
+</front>
 
 <pb n="Page 2" xml:id="ew.issue.19180511.p002"/>
-
+<group>
 <text>
 <body>
 <head type="main">How Do You Stand Bad News? That is the Test</head>    
