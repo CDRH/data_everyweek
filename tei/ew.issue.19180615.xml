@@ -1169,9 +1169,6 @@ ness</orig><reg>nervousness</reg></choice> of this morning, Gregson? You'll be a
 </text>
 
 
-
-
-
 <pb n="Page 11" xml:id="ew.issue.19180615.p011" />
 
 <text type="nonfiction" xml:id="flier.19180615">
@@ -1378,7 +1375,7 @@ when I saw him last, but otherwise how natural he looks!"</p>
 <text type="fiction" xml:id="cohen.19180615.jump">
 <body>
 
-<p rend="jumpline">Continued from page 10</p>
+<p rend="jumpline"><ref target="cohen.19180615">Continued from page 10</ref></p>
 
 <p rend="jump">against the bulkhead, gasping for breath and cursing with sheer sudden terror.</p>
 
@@ -1495,7 +1492,7 @@ about as much a hero&#8212; But, of all people in the world, you've a right to k
 
 <p rend="continued">"I ain't no softy, Clara, and I'm short on mush. But there was two or three minutes in that handlin'-room when there wasn't no more than the thickness of a' piece of canvas standin' between us and</p>
 
- <p rend="jumpline"><ref target="cohen.19180615.jump1">Continued on page 22</ref></p>
+ <p rend="jumpline"><ref target="cohen1.19180615.jump">Continued on page 22</ref></p>
 
 
 
@@ -2303,9 +2300,9 @@ helping.</p>
 </body>
 </text>
 
-<text type="fiction" xml:id="cohen.19180615.jump1">
+<text type="fiction" xml:id="cohen1.19180615.jump">
 <body>
-<head type="main">Between Decks</head><p rend="jumpline">&#8212;concluded from page 15</p>
+<head type="main">Between Decks</head><p rend="jumpline"><ref target="cohen.19180615.jump">&#8212;concluded from page 15</ref></p>
 
 <p rend="jump">what comes after.  An', that bein' the case, a man is apt to do some thinkin'.</p>
 
