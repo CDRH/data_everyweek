@@ -1,0 +1,5 @@
+default:
+  shortname: everyweek
+  collection_desc: "Every Week Magazine"
+  solr_core:
+  # NOTE: this has not been added to a non XTF lucene index
