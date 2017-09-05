@@ -68,30 +68,101 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2017-09-05"><name>Sara Duke</name> Added encoding and missing pages</change>
 <change when="2016-10-26"><name>Erin Dwiggins</name> Initial Encoding 
 </change>
 </revisionDesc>
         
 </teiHeader>
 <text>
+
+<pb n="Cover" xml:id="ew.issue.19171119.p001"/>
+
+<front>
+<titlePage>
+  <docTitle>
+     <titlePart type="main">Every Week</titlePart>
+     <titlePart type="price">3&#162;</titlePart>
+     <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+        <note>NOTICE TO READER: be placed in the hands of our soldiers and sailors at the front. No wrapping, no address. A. S. Burleson, Postmaster General.</note>
+  </docTitle>
+<docEdition></docEdition>
+<docImprint>
+  <publisher>Copyright, 1917, By the Crowell Publishing Co.</publisher>
+  <pubPlace></pubPlace>
+  <docDate>November 12, 1917</docDate>
+</docImprint>
         
+<figure n="illustration">
+  <ab type="credit"></ab>
+  <figDesc></figDesc>
+</figure>
+        
+</titlePage>
+</front>
+
 <group>
-
-<pb n="Cover" />
-
-<text type="missing">
-<body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
-</body>
-</text>
-
+        
 <pb n="Page 2" />
 
-<text type="missing">
+<text>
+
+<figure n="advertisement">
+  <head>GEM of the Ocean</head>
+  <ab n="credit"></ab>
+  <p></p>
+  <figDesc>Advertisement for Gem Damaskeene Razor</figDesc>
+</figure> 
+    
+<figure n="advertisement">
+  <head>USED IN THE ARMIES AND NAVIES OF THE WORLD</head>
+  <ab n="credit"></ab>
+  <p></p>
+  <figDesc>Advertisement for Parker Safety-Sealed Fountain Pens</figDesc>
+</figure>    
+    
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
+  <head type="main"><hi rend="italic">Hezekiah is Dead: but His Formula Still Holds Good</hi></head>  
+    <p>THERE is a certain man among my acquaintances who, with a little less ability, would have made a splendid success.</p>
+    <p>That sounds strange; but employers of men will understand it: they will have a picture right away of the kind of man he is.</p>
+    <p>In his boyhood he mowed lawns, like the other boys: also he ran a lemonade stand besides, and managed a newspaper route, and was forever riguring out a new scheme.</p>
+    <p>He graduated from high school and entered business with great promise. But he had not been at work three months before he was running a couple of 
+    little private businesses on the side.</p>
+    <p>So he has continued through life&#8212;cursed with the unhappy gift of being able to do three or four things at once.</p>
+    <p>Le ekes out a very fair income to-day, drawing it in little bits from half a dozen different sources.</p>
+    <p>But he is getting along in life, and there is no one single business of which he can say: "I made it.: He has scattered himself so widely that there is
+    not one spot in the wor'ds like that bears the permanent imporint of his effort.</p>
+    <p>Twice he has almost broken down from overwork. And four of the men who were his boyhood play-mates&#8212;men who were satisfied to mow lawns and attempt
+    nothing else&#8212;have plugged along, each in a single business, and, with far less ability than he, have reached a higher place in the world.</p>
+    <p>I was reminded of him last night, in running across a reference to Lord Mount Stephen, in the new biography of James J. Hill.</p>
+    <p>George Stephen&#8212;he became Lord Mount Stephen afterward&#8212;was the son of a carpenter in Dufftown, Scotland. He worked for a time in a shop in
+    Aberdeen, but was brought to America at an early age, and became one of the makers of Canada, and a power in the British Empire.</p>
+    <p>In 1901, visiting Schotland, he was presented with the freedom of the city of Aberdeen; and this is what he said:
+      <quote>Any success I may have had in life is due in great measure to the somewhat Spartan training I received during my Aberdeen apprenticeship, on which
+      I entered as a boy of fifteen. To that training, coupled with the fact that <hi rend="italic">I seem to have been born utterly without the faculty of
+      doing more than one thing at a time</hi>, is due that I am here before you to-day. I had but few wants and no distractions to draw me away from the work I
+      had in hand. It was impressed upon me from my earliest years, by one of the best mothers that ever lived, that I must aim at being a thorough master of the work
+      by which I got my living; and to be taht I must concentrate <hi rend="italic">my whole energies</hi> on my work, whatever that might be, to the exclusion of
+      every other thing.</quote></p>
+    <p><hi rend="italic">Concentration</hi>&#8212;with the exception of <hi rend="italic">honesty</hi>, it covers a larger measure of the secret of success than
+    any other word.</p>
+    <p>I once asked a very successful man how he was able to get so much done and still have leisure time.</p>
+    <p>"I pick up only one paper from my desk at a time," he said," and I make it a point not to lay that paper down until I have settled the business that it
+    involves."</p>
+    <p>I was present in his office when a friend came to offer him a participation in an enterprise taht promised to be very profitable. He answered:</p>    
+    <p>"I can't do it, Jim. I don't need the money. And no amount of money could possibly compensate me for the nuisance and inefficiency of having to carry two
+    things on my mind at the same time."</p>
+    <p>If you want a very good little example of how big things are done, read the desciption of the creation of the world as recorded in the first chapter of
+    Genesis.</p>
+    <p>It is a fine little treatise on efficiency.</p>
+    <p>An enormous job, but no hurry no rush, no confusion.</p>
+    <p>One day the creation of light&#8212;nothing else. The next day, the firmament. The third day, the creation of land, and its division from the waters.</p>
+    <p>One thing each day, followed by a good night's sleep, and a full day's rest at the end of the week.</p>
+    <p>The world has never improved on that formula for success.</p>
+    <p>It was the formula of Hezekiah, who refused to dally with side-lines or attempt more than one thing at a time.</p>
+    <p>"And in every work taht he began he did it <hi rend="italic">with all his heart&#8212;and prospered</hi>."</p>
+    <byline><persName type="author" key="#Barton, Bruce">Bruce Barton</persName>, Editor.</byline>
+
 </body>
 </text>
 
