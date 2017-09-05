@@ -68,6 +68,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2017-09-05"><name>Sara Duke</name> Added missing encoding</change>
 <change when="2010-06-24"><name>Laura Weakly</name> Initial Encoding
 </change>
 <change when="2010"><name>Katie Heupel</name> OCR
@@ -79,24 +80,121 @@
 </teiHeader>
 
 <text>
+       
+<pb n="Cover" xml:id="ew.issue.19171008.p001" />
+
+<front>
         
+<titlePage>
+  <docTitle>
+    <titlePart type="main">Every Week</titlePart>
+    <titlePart type="price">3&#162;</titlePart>
+    <titlePart type="price">$1<hi rend="superscript">00</hi> a Year</titlePart>
+  </docTitle>
+  <docEdition></docEdition>
+  <docImprint>
+     <publisher>Copyright, 1917, By the Crowell Publishing Co.</publisher>
+     <pubPlace></pubPlace>
+     <docDate>October 8, 1917</docDate>
+  </docImprint>
+            
+<figure n="illustration">
+  <ab type="credit"></ab>
+  <figDesc></figDesc>
+</figure>
+            
+</titlePage>
+</front>
+
 <group>
 
-<pb n="Cover" />
+<pb n="Page 2" xml:id="ew.issue.19171008.p002" />
 
-<text type="missing">
+<text>
+
+    <figure n="advertisement">
+        <head>Big Ben</head>
+        <p></p>
+        <figDesc>Advertisement for Western Clock Co.</figDesc>
+    </figure>
+
+    <figure n="advertisement">
+        <head>Save Laundry Bills</head>
+        <p></p>
+        <figDesc>Advertisement for E. I. Du Pont de Nemours &amp; Co.</figDesc>
+    </figure>
+
+    <figure n="advertisement">
+        <head>10 &#162; a day</head>
+        <p></p>
+        <figDesc>Advertisement for The Rudolph Wurlitzer Company</figDesc>
+    </figure>
+
+    <figure n="advertisement">
+        <head>STUDY LAW</head>
+        <p></p>
+        <figDesc>Advertisement for Hamilton College of Law</figDesc>
+    </figure>
+
+    <figure n="advertisement">
+        <head>Grow Mushrooms</head>
+        <p></p>
+        <figDesc>Advertisement for Bureau of Mushroom Industry</figDesc>
+    </figure>
+
+    <figure n="advertisement">
+        <head>Ornamental Fence</head>
+        <p></p>
+        <figDesc>Advertisement for Kokomo Fench Mach. Co.</figDesc>
+    </figure>
+
+    <figure n="advertisement">
+        <head>WEBSTER'S NEW INTERNATIONAL DICTIONARY</head>
+        <p></p>
+        <figDesc>Advertisement for G. &amp; C. Merriam Co.</figDesc>
+    </figure>
+
 <body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
-</body>
-</text>
 
-<pb n="Page 2" />
+<head type="main"><hi rend="italic">Lincoln Pulled Through, and So Shall We</hi></head>
+<p>ONE of the wisest observations in the world was made by our old friend Mr. Dooley.</p>
+<p>"Lookin' around me, I see many freat changese takin' place," he said; "but lookin' back fifty years, I see hardly any change at all."</p>
+<p>Unless one gets a certain perspective on what is taking place about him, his life will be one succession of panics.</p>
+<p>It is necessary to take a long lookl to realize that human nature does not change; that in any age the same set of circumstances will produce about the same
+results; and that, slowly but surely, certain great principles are working themselves out in the world.</p>
+<p>This is the value of reading history. And right now is a good time to do a little reading of history; a few hours spent with a Life of Lincoln will be
+especially reassuring.</p>
+<p>You are worried becasue the government at Washington seems so dawdling and ineffective.</p>
+<p>See how Lincoln dawdled with the rebellion: postponing the relief of Sumter until it was too late; allowing things to drift while the South armed itself with
+government equipment and gained the advantage of superior preparation.</p>
+<p>It depresses you to see a United States Senator making a vulgar attack upon a man like Herbert Hoover, who is sacrificing every personal interest to serve
+the nation.</p>
+<p>All right. Before you give up hope, turn back and read the attacks that were made upon Lincoln.</p>
+<p>Our enemies to-day are three thousand miles away; but the enemies of 1861 were at the very door of the Capital; and still Congressmen talked and senators
+worried about their patronage.</p>
+<p>Your faith in democrac is shaken because it seems impossible for the politicians to put aside their petty interests even in the face of national emergency.</p>
+<p>Lincoln, wrestling with the problem of saving the Union, was so besieged by office-seeking politicians that he exclaimed: "If the twelve apostles were to be
+chosen again, I suppose they would have to be distributed according to geographical divisions."</p>
+<p>And at another time he burst out upon a delegatino of Senators who wanted Seward's head:</p>
+<p>"You gentlemen, to hang Mr. Seward, would destroy the government!"</p>
+<p>If the state of the public mind for the past five months were to be represented by a chart, the line would look like the record of a fever patient's
+temperature.</p>
+<p>Ibe dat we are excited by preports of German weakness and Allied success; and up go our hopes of early peace. The next day, with no special developments, our
+thoughts turn to the inefficiencies of Washington, and we are thrown into deep despair.</p>
+<p>A long view is necessary: the sooner we train ourselves to take it, the happier and more effective we will be.</p>
+<p>The war will be won by the Allies, because democracy fights on their side, and the whole trend of the world since the Reformation has been toward democracy.</p>
+<p>But it will have its ups and downs: there will be days of good news and days of bad. The wise man will hold his psirits in check on both days, looking toward
+the final result, and allowing himself to be neither unduly elated nor unduly depressed.</p>
+<p>A monarchy, as some one said, is like a trim, tight yacht. It is easily handled, and those on board are dry and warm. But once it hits a reef it is a total
+loss.</p>
+<p>A democracy is a raft; those on board have their feet in the water most of the time, but they can not sink.</p>
+<p>The very things that serve to make us inefficient in war&#8212;free speech, unlimited debate, a government organized for peace instead of war&#8212;are the
+very things that make life worth living for us in normal times.</p>
+<p>And one reason why we pray for the democratization of the world is <hi rend="italic">just because</hi> democracies make war so ineptly. Our hope for the
+future is founded on this&#8212;that before two democracies can get in shape to hurt each other very much the passions of their people will cool.</p>
+<p>Be patient with the ineptness, the inefficiencies, and the extravagances of democracy. Lincoln pulled through in spite of them; and so shall we.</p>
+<signed><persName type="author" key="Barton, Bruce">Bruce Barton</persName>, Editor.</signed>
 
-<text type="missing">
-<body>
-<note><gap reason="See note for this issue of Every Week Magazine" /></note>
-<p/>
 </body>
 </text>
 
@@ -2352,6 +2450,7 @@ be used on the chassis to advantage; but it should not be directed against the w
 <p/>
 </body>
 </text>
+
 </group>
 </text>
 </TEI>
