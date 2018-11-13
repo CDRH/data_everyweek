@@ -1,5 +1,5 @@
 default:
-  collection_desc: "Every Week Magazine"
-  es_type: everyweek
-  solr_core:
+  collection: everyweek
+  collection_desc: Every Week Magazine
   # NOTE: this has not been added to a non XTF lucene index
+  # not used in traditional solr / es
