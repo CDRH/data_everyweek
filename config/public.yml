@@ -1,5 +1,6 @@
 default:
   collection: everyweek
   collection_desc: Every Week Magazine
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
   # NOTE: this has not been added to a non XTF lucene index
   # not used in traditional solr / es
