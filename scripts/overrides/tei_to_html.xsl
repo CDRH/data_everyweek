@@ -95,7 +95,7 @@
     <table>
       <tr>
         <td>
-          <h2 data-pagefind-weight="2"><xsl:apply-templates select="docTitle"/></h2>
+          <h1 data-pagefind-weight="2"><xsl:apply-templates select="docTitle"/></h1>
           <xsl:value-of select="$newline"/>
           <xsl:apply-templates select="docEdition"/>
           <h6><xsl:apply-templates select="descendant::publisher"/></h6>
