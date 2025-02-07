@@ -38,7 +38,7 @@
   <xsl:variable name="pubDate" select="//teiHeader//bibl/date/@when"/>
   <xsl:variable name="document" select="tokenize(base-uri(.),'/')[last()]"/>
   
-  <xsl:variable name="liquid_var">{{ base_url | relative_url }}</xsl:variable>
+  <xsl:variable name="liquid_var">{{ site.url | absolute_url }}</xsl:variable>
 
   <!-- ==================================================================== -->
   <!--                            OVERRIDES                                 -->
