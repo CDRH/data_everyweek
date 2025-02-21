@@ -208,7 +208,7 @@
         <a href="ew.issue.{$local_docdate}.html#{@target}"><xsl:apply-templates/></a>
       </xsl:when>
       <xsl:when test="contains(@target,'#')">
-        <a href="@target"><xsl:apply-templates/></a>
+        <a href="{@target}"><xsl:apply-templates/></a>
       </xsl:when>
       <xsl:otherwise>
         <a href="#{@target}"><xsl:apply-templates/></a>
