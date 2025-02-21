@@ -216,7 +216,7 @@
     <xsl:choose>
       <xsl:when test="$local_docdate != $top_docdate">
         <xsl:choose>
-          <xsl:when test="$issue_anchor = ''"><a href="ew.issue.{$local_docdate}.html"><xsl:apply-templates/></a></xsl:when>
+          <xsl:when test="$issue_anchor = ''"><a href="ew.issue.{$local_docdate}.html#{@target}"><xsl:apply-templates/></a></xsl:when>
           <xsl:otherwise><a href="ew.issue.{$local_docdate}.html#{$issue_anchor}"><xsl:apply-templates/></a></xsl:otherwise>
         </xsl:choose>
       </xsl:when>
