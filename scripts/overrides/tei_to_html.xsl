@@ -198,8 +198,18 @@
           <xsl:value-of select="substring-before(substring-after(@target,'.'),'.jump')"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:value-of select="substring-after(@target,'.')"/>
+          <xsl:choose>
+            <xsl:when test="contains(@target,'ew.issue.')"><xsl:value-of select="substring-after(@target,'issue.')"/></xsl:when>
+            <xsl:otherwise><xsl:value-of select="substring-after(@target,'.')"/></xsl:otherwise>
+          </xsl:choose>
         </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    
+    <xsl:variable name="issue_anchor">
+      <xsl:choose>
+        <xsl:when test="contains(@target,'.jump')"/>
+        <xsl:otherwise><xsl:value-of select="substring-after(@target,'#')"/></xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
     
