@@ -199,7 +199,7 @@
         </xsl:when>
         <xsl:otherwise>
           <xsl:choose>
-            <xsl:when test="contains(@target,'ew.issue.')"><xsl:value-of select="substring-after(@target,'issue.')"/></xsl:when>
+            <xsl:when test="contains(@target,'ew.issue.')"><xsl:value-of select="substring-before(substring-after(@target,'issue.'),'.xml')"/></xsl:when>
             <xsl:otherwise><xsl:value-of select="substring-after(@target,'.')"/></xsl:otherwise>
           </xsl:choose>
         </xsl:otherwise>
@@ -215,7 +215,10 @@
     
     <xsl:choose>
       <xsl:when test="$local_docdate != $top_docdate">
-        <a href="ew.issue.{$local_docdate}.html#{@target}"><xsl:apply-templates/></a>
+        <xsl:choose>
+          <xsl:when test="$issue_anchor = ''"><a href="ew.issue.{$local_docdate}.html"><xsl:apply-templates/></a></xsl:when>
+          <xsl:otherwise><a href="ew.issue.{$local_docdate}.html#{$issue_anchor}"><xsl:apply-templates/></a></xsl:otherwise>
+        </xsl:choose>
       </xsl:when>
       <xsl:when test="contains(@target,'#')">
         <a href="{@target}"><xsl:apply-templates/></a>
