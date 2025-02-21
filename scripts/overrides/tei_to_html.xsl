@@ -173,6 +173,12 @@
     <em><xsl:apply-templates/></em>
   </xsl:template>
   
+  <xsl:template match="hi[@rend='italic']">
+    <xsl:if test="normalize-space(.) != ''">
+      <em><xsl:apply-templates/></em>
+    </xsl:if>
+  </xsl:template>
+  
   <xsl:template match="quote">
     <xsl:apply-templates/>
   </xsl:template>
