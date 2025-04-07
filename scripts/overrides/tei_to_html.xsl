@@ -141,8 +141,8 @@
     <div class="page_number page_image">
       <xsl:choose>
         <xsl:when test="@xml:id">
-          <a href="/assets/images/large/{$img_name}.jpg">
-            <img class="thumbnail" alt="{$img_alt}" src="/assets/images/small/{$img_name}.jpg"/>
+          <a href="../assets/images/large/{$img_name}.jpg">
+            <img class="thumbnail" alt="{$img_alt}" src="../assets/images/small/{$img_name}.jpg"/>
             <span class="page-number"><xsl:value-of select="$img_alt"/></span>
           </a>
         </xsl:when>
