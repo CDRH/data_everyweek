@@ -37,8 +37,6 @@
   <xsl:variable name="category" select="//teiHeader//encodingDesc//catDesc[1]"/>
   <xsl:variable name="pubDate" select="//teiHeader//bibl/date/@when"/>
   <xsl:variable name="document" select="tokenize(base-uri(.),'/')[last()]"/>
-  
-  <xsl:variable name="liquid_var">{{ base_url | relative_url }}</xsl:variable>
 
   <!-- ==================================================================== -->
   <!--                            OVERRIDES                                 -->
@@ -82,6 +80,7 @@
     <xsl:text>---</xsl:text>
     <xsl:value-of select="$newline"/>
     <xsl:value-of select="$newline"/>
+    <h1 class="pagefind" data-pagefind-meta="title"><xsl:value-of select="$title"/></h1>
     <xsl:apply-templates/>
   </xsl:template>
   
@@ -95,25 +94,62 @@
     <table>
       <tr>
         <td>
-          <h1 data-pagefind-weight="2"><xsl:apply-templates select="docTitle"/></h1>
-          <xsl:value-of select="$newline"/>
-          <xsl:apply-templates select="docEdition"/>
-          <h6><xsl:apply-templates select="descendant::publisher"/></h6>
-          <h6><i><xsl:apply-templates select="descendant::pubPlace"/></i></h6>
-          <xsl:if test="descendant::docDate"><h6>© <xsl:apply-templates select="descendant::docDate"/></h6></xsl:if>
+          <xsl:apply-templates/>
         </td>
       </tr>
     </table>
   </xsl:template>
+  
+  <xsl:template match="titlePage//titlePart">
+    <h1><xsl:apply-templates/></h1>
+  </xsl:template>
+  
+  <xsl:template match="titlePage//note">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+  
+  <xsl:template match="titlePage//docEdition">
+    <xsl:apply-templates/>
+  </xsl:template>
+  
+  <xsl:template match="titlePage//publisher">
+    <h6><xsl:apply-templates/></h6>
+  </xsl:template>
+  
+  <xsl:template match="titlePage//pubPlace">
+    <h6><xsl:apply-templates/></h6>
+  </xsl:template>
+  
+  <xsl:template match="titlePage//docDate">
+    <h6>© <xsl:apply-templates/></h6>
+  </xsl:template>
+  
+  <xsl:template match="titlePage//figure/head">
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
+  
+  <xsl:template match="text[@type='missing']">
+    <p>[missing]</p>
+  </xsl:template>
+  
+  <xsl:template match="text[@type='flag']"/>
   
   <xsl:template match="pb">
     <xsl:variable name="img_name"><xsl:value-of select="@xml:id"/></xsl:variable>
     <xsl:variable name="img_alt"><xsl:value-of select="@n"/></xsl:variable>
     <hr class="pb"/>
     <div class="page_number page_image">
-      <a href="{$liquid_var}/assets/images/large/{$img_name}.jpg">
-        <img class="thumbnail" alt="{$img_alt}" src="{$liquid_var}/assets/images/small/{$img_name}.jpg"/>
-      </a>
+      <xsl:choose>
+        <xsl:when test="@xml:id">
+          <a href="../assets/images/large/{$img_name}.jpg">
+            <img class="thumbnail" alt="{$img_alt}" src="../assets/images/small/{$img_name}.jpg"/>
+            <span class="page-number"><xsl:value-of select="$img_alt"/></span>
+          </a>
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:value-of select="$img_alt"/>
+        </xsl:otherwise>
+      </xsl:choose>
     </div>
   </xsl:template>
   
@@ -135,6 +171,12 @@
   
   <xsl:template match="hi[@rend='initialcap']">
     <em><xsl:apply-templates/></em>
+  </xsl:template>
+  
+  <xsl:template match="hi[@rend='italic']">
+    <xsl:if test="normalize-space(.) != ''">
+      <em><xsl:apply-templates/></em>
+    </xsl:if>
   </xsl:template>
   
   <xsl:template match="quote">
@@ -163,17 +205,30 @@
           <xsl:value-of select="substring-before(substring-after(@target,'.'),'.jump')"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:value-of select="substring-after(@target,'.')"/>
+          <xsl:choose>
+            <xsl:when test="contains(@target,'ew.issue.')"><xsl:value-of select="substring-before(substring-after(@target,'issue.'),'.xml')"/></xsl:when>
+            <xsl:otherwise><xsl:value-of select="substring-after(@target,'.')"/></xsl:otherwise>
+          </xsl:choose>
         </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    
+    <xsl:variable name="issue_anchor">
+      <xsl:choose>
+        <xsl:when test="contains(@target,'.jump')"/>
+        <xsl:otherwise><xsl:value-of select="substring-after(@target,'#')"/></xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
     
     <xsl:choose>
       <xsl:when test="$local_docdate != $top_docdate">
-        <a href="ew.issue.{$local_docdate}.html#{@target}"><xsl:apply-templates/></a>
+        <xsl:choose>
+          <xsl:when test="$issue_anchor = ''"><a href="ew.issue.{$local_docdate}.html#{@target}"><xsl:apply-templates/></a></xsl:when>
+          <xsl:otherwise><a href="ew.issue.{$local_docdate}.html#{$issue_anchor}"><xsl:apply-templates/></a></xsl:otherwise>
+        </xsl:choose>
       </xsl:when>
       <xsl:when test="contains(@target,'#')">
-        <a href="@target"><xsl:apply-templates/></a>
+        <a href="{@target}"><xsl:apply-templates/></a>
       </xsl:when>
       <xsl:otherwise>
         <a href="#{@target}"><xsl:apply-templates/></a>
